@@ -1,14 +1,35 @@
 # Berkeley Public Records
 
 A shared archive of Berkeley public records: the documents themselves, text extracted from
-them by a recorded method, and speaker attribution for meeting transcripts. It exists so that
-people working on Berkeley civic questions — who do not share analysis, code, or conclusions —
-can share the primary record, check it, and stop depending on City web links that break.
+them by a recorded method, and speaker attribution for meeting transcripts. It holds records
+that are online, and records that are not: public-records releases and documents obtained
+directly from the City Clerk and other offices. It exists so that people working on Berkeley
+civic questions — who do not share analysis, code, or conclusions — can share the primary
+record, check it, and stop depending on City web links that break.
 
 **This archive contains records, not arguments.** Nothing here scores, grades, characterizes,
 or interprets anyone. Analysis belongs in each contributor's own work.
 
 Access is by invitation. The repository is private; the documents in it are public records.
+
+## How to contribute
+
+**Pull requests are the only way in.** Do not email documents to the maintainer; there is one
+ingest path, and it is this repository.
+
+**Contributing takes some skill, or a willingness to learn it.** "I'm not technical" is not an
+exemption: if you can upload a file to Google Drive, you can do this. GitHub's website and the
+automated checks do the technical work; an AI assistant pointed at `AGENTS.md` can do the rest.
+
+1. Accept the GitHub invitation, and read this README: it is the contribution policy.
+2. Open a pull request that adds the document and its manifest entry (`manifest/<id>.json`):
+   its fingerprint, and either its `source_url` or a `source_note` saying how and when you
+   obtained it — for example, "Requested in person from the City Clerk; received 2026-09-12."
+3. `tools/validate.py` runs on every pull request and must pass. Run it locally first.
+4. For your own public-records requests, add the request to the queue by pull request; its
+   documents are archived once the City publishes it (see "Public-records requests").
+5. Questions, suggestions, and requests for what to add next go in a
+   [GitHub Issue](../../issues), not email.
 
 ---
 
@@ -263,9 +284,13 @@ All writes go through pull requests. This section is the policy.
 ### What may be added
 
 - **L0:** documents produced or published by a public body. Sources on official domains
-  (e.g. `berkeleyca.gov`) need `source_url`. Records obtained by public-records request, or
-  from a public body by other means, need a `source_note` saying how and when. Documents from
-  private parties are not L0.
+  (e.g. `berkeleyca.gov`) need `source_url`.
+  - **Public-records releases through the City's request portal** are archived from the
+    published request (see "Only published records are archived").
+  - **Documents obtained directly from the City Clerk or another office** — records not
+    posted anywhere, certified copies, filings provided on request — are welcome. They need a
+    `source_note` naming the office, how the document was provided, and the date received.
+  - Documents from private parties are not L0; see T0.
 - **L1:** only text produced by a tool and command recorded in `extraction`, so anyone can
   reproduce it. Hand-corrected text is not L1.
 - **L2:** a structured dataset may be added only with the parser, a validator, and tests, all
