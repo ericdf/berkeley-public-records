@@ -33,17 +33,20 @@ DOC_EXTENSIONS = {"pdf", "doc", "docx", "xls", "xlsx", "csv", "ppt", "pptx", "tx
                   "rtf", "png", "jpg", "jpeg", "tif", "tiff"}
 FIELDS = {
     "layer": "L0 (made or published by a public body) or T0 (published by someone else)",
-    "collection": "where it is filed, e.g. sources/budgets, clerk, council-captions, press",
+    "collection": "where it is filed, e.g. sources/budgets, clerk, council-captions, staff-reports, press",
     "title": "the document's title as printed on it",
-    "document_date": "the date on the document: YYYY-MM-DD (or YYYY-MM, or YYYY)",
+    "document_date": "the date on the document: YYYY-MM-DD (or YYYY-MM, or YYYY); optional for staff-reports",
     "publisher": "who made or published it (required for T0)",
     "relevance": "T0 only: the public decision or official it bears on, in neutral terms",
     "source_url": "where it was published online",
     "source_note": "if not online: how and when you obtained it",
     "retrieved": "optional: the date you downloaded it, YYYY-MM-DD",
-    "meeting_date": "optional: the meeting it belongs to, YYYY-MM-DD",
-    "meeting_label": "council-captions and annotated-agendas: e.g. regular, special",
-    "item": "optional: the agenda item, e.g. Item 12",
+    "meeting_date": "optional: the meeting it belongs to, YYYY-MM-DD (required for staff-reports)",
+    "meeting_label": "council-captions, annotated-agendas, and Council staff-reports: e.g. regular, special",
+    "item": "optional: the agenda item as printed, e.g. Consent Calendar Item 12 (required for staff-reports)",
+    "body": "staff-reports: the body whose agenda it is on, e.g. Berkeley City Council, Planning Commission",
+    "part": "staff-reports, optional: a short name for the document within the item when it is not "
+            "the report itself, e.g. lease-list",
     "notices": "optional: disclaimers printed on the document, copied word for word",
     "doc_type": "optional: the kind of document; normally worked out for you",
     "id": "optional: the archive id; normally worked out for you",
@@ -55,6 +58,13 @@ MEETING_COLLECTIONS = {
     "annotated-agendas": ("annotated_agenda", "annotated-agenda"),
 }
 TOP_LEVEL_L0 = set(MEETING_COLLECTIONS) | {"clerk"}
+# Agenda item reports: Council staff reports, and items from Council policy committees and City
+# commissions. Filed under L0/staff-reports/ with the body named in the entry; the id is
+# <body prefix>-<meeting date>[-<label>]-item-<NN>-<part>, as the existing holdings are.
+COUNCIL = "Berkeley City Council"
+STAFF_REPORT_DOC_TYPES = ("staff_report", "presentation", "agenda_material",
+                          "supplemental_agenda_material")
+ITEM_NUMBER_RE = re.compile(r"\bItem\s+0*(\d+)([A-Za-z])?\b", re.I)
 
 
 class Problem(Exception):
@@ -159,7 +169,8 @@ def check_metadata(name, meta, manifest, where=None):
     layer = text("layer")
     collection = text("collection")
     title = text("title")
-    for f in ("layer", "collection", "title", "document_date"):
+    staff = collection == "staff-reports"
+    for f in ("layer", "collection", "title") + (() if staff else ("document_date",)):
         if not meta.get(f):
             issues.append(f'"{f}" is missing: {FIELDS[f]}.')
     if layer and layer not in ("L0", "T0"):
@@ -197,6 +208,10 @@ def check_metadata(name, meta, manifest, where=None):
     elif relevance:
         issues.append('"relevance" is only for T0 documents; remove it.')
 
+    for f in ("body", "part"):
+        if meta.get(f) is not None and not staff:
+            issues.append(f'"{f}" is only for the staff-reports collection; remove it.')
+
     notices = meta.get("notices", [])
     if not isinstance(notices, list) or not all(isinstance(n, str) for n in notices):
         issues.append('"notices" must be a list of quoted texts, e.g. ["This information ..."].')
@@ -226,6 +241,8 @@ def check_metadata(name, meta, manifest, where=None):
                 place = {"l0": f"L0/{collection}", "l1": f"L1/{collection}", "doc_type": doc_type,
                          "collection": None, "meeting": True,
                          "id": f"bcc-{mdate}-{slug(label)}-{suffix}"}
+        elif staff:
+            place = staff_report_place(meta, text, manifest, issues)
         elif collection == "clerk":
             place = {"l0": "L0/clerk", "l1": "L1/clerk", "doc_type": "clerk_record",
                      "collection": "clerk", "prefix": "clerk"}
@@ -241,7 +258,7 @@ def check_metadata(name, meta, manifest, where=None):
                              if e["layer"] == "L0" and e.get("collection") and e.get("file")
                              and e["file"].startswith("L0/sources/")})
             issues.append(f'"collection" is "{collection}". For L0 use council-captions, '
-                          f'annotated-agendas, clerk, or sources/<topic>. Existing topics: '
+                          f'annotated-agendas, staff-reports, clerk, or sources/<topic>. Existing topics: '
                           f'{", ".join("sources/" + t for t in topics)}. A new topic is lowercase '
                           'letters, digits and underscores, e.g. sources/parks.')
     elif collection and layer == "T0":
@@ -272,6 +289,54 @@ def check_metadata(name, meta, manifest, where=None):
     return place
 
 
+def body_prefix(body, manifest):
+    """The id prefix for a body: the one its existing staff-report entries use, else bcc for the
+    Council, bcc-<name> for a Council committee, and the body's name for anything else."""
+    known = []
+    for e in manifest.values():
+        if e.get("collection") == "staff_reports" and e.get("body") == body and e.get("meeting_date"):
+            head, sep, _ = e["id"].partition(f"-{e['meeting_date']}-")
+            if sep:
+                known.append(head)
+    if known:
+        return max(set(known), key=known.count)
+    if body == COUNCIL:
+        return "bcc"
+    if body.startswith(COUNCIL + " "):
+        return "bcc-" + slug(body[len(COUNCIL):])
+    return slug(body)
+
+
+def staff_report_place(meta, text, manifest, issues):
+    """Placement for the staff-reports collection; appends to issues and returns None on error."""
+    body, mdate, label, item = text("body"), text("meeting_date"), text("meeting_label"), text("item")
+    doc_type = text("doc_type") or "staff_report"
+    if not body:
+        issues.append('staff-reports need "body": the body whose agenda it is on, e.g. '
+                      '"Berkeley City Council", "Planning Commission".')
+    if not mdate:
+        issues.append('staff-reports need "meeting_date" (YYYY-MM-DD).')
+    if body == COUNCIL and not label:
+        issues.append('Council staff-reports need "meeting_label", e.g. "regular" or "special".')
+    m = ITEM_NUMBER_RE.search(item or "")
+    if not m:
+        issues.append('staff-reports need "item": the agenda item as printed, containing "Item" and '
+                      'its number, e.g. "Consent Calendar Item 12" or "Item 7B".')
+    if doc_type not in STAFF_REPORT_DOC_TYPES:
+        issues.append(f'"doc_type" is "{doc_type}"; for staff-reports use one of '
+                      f'{", ".join(STAFF_REPORT_DOC_TYPES)}.')
+    part = text("part") or doc_type.replace("_", "-")
+    if not ID_RE.match(part):
+        issues.append(f'"part" "{part}" may contain only lowercase letters, digits and hyphens.')
+    if not (body and mdate and DATE_RE.match(mdate) and m) or (body == COUNCIL and not label):
+        return None
+    when = mdate + (f"-{slug(label)}" if body == COUNCIL and label != "regular" else "")
+    number = f"{int(m.group(1)):02d}{(m.group(2) or '').lower()}"
+    return {"l0": "L0/staff-reports", "l1": "L1/staff-reports", "doc_type": doc_type,
+            "collection": "staff_reports", "staff": True,
+            "id": f"{body_prefix(body, manifest)}-{when}-item-{number}-{part}"}
+
+
 def build_entry(meta, place, digest, size, contributor, today, ext):
     layer = meta["layer"]
     e = {"id": place["id"], "layer": layer, "doc_type": place["doc_type"]}
@@ -280,12 +345,19 @@ def build_entry(meta, place, digest, size, contributor, today, ext):
     if place.get("meeting"):
         e.update(body="Berkeley City Council", meeting_date=meta["meeting_date"],
                  meeting_label=meta["meeting_label"])
+    if place.get("staff"):
+        e["body"] = meta["body"].strip()
     for f in ("publisher", "relevance"):
         if meta.get(f):
             e[f] = meta[f].strip()
     e["title"] = meta["title"].strip()
-    e["document_date"] = meta["document_date"].strip()
-    if meta.get("meeting_date") and not place.get("meeting"):
+    if meta.get("document_date"):
+        e["document_date"] = meta["document_date"].strip()
+    if place.get("staff"):
+        e["meeting_date"] = meta["meeting_date"]
+        if meta.get("meeting_label"):
+            e["meeting_label"] = meta["meeting_label"].strip()
+    elif meta.get("meeting_date") and not place.get("meeting"):
         e["meeting_date"] = meta["meeting_date"]
     if meta.get("item"):
         e["item"] = str(meta["item"]).strip()
