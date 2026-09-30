@@ -106,6 +106,16 @@ An external blob is stored in **at least two independent places**, and its manif
    maintainer controls). The Internet Archive has had multi-week outages and faces legal
    pressure; no single store is treated as permanent.
 
+**Stores in use.** Both belong to the archive's own account, `berkeleypublicrecords@gmail.com`,
+not to any contributor's personal account:
+
+| Store | Account | `store` value in the manifest |
+|---|---|---|
+| Internet Archive | archive.org user `berkeleypublicrecords@gmail.com` | `internet_archive` |
+| Google Drive | `berkeleypublicrecords@gmail.com`, folder `berkeley-public-records/blobs/` | `google_drive` |
+
+Access to both accounts must be recoverable by more than one person.
+
 The `sha256` in the manifest is the guarantee, not any store. A copy is good if and only if
 its fingerprint matches. The validator checks every in-repo file's fingerprint on every pull
 request; maintainers check external copies periodically.
