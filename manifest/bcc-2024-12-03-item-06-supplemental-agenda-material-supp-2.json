@@ -1,0 +1,39 @@
+{
+  "id": "bcc-2024-12-03-item-06-supplemental-agenda-material-supp-2",
+  "layer": "L0",
+  "doc_type": "supplemental_agenda_material",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "publisher": "City of Berkeley — Human Resources",
+  "title": "Supplemental Agenda Material for Supplemental Packet 2: Memorandum of Understanding: Public Employees Union – Local One",
+  "meeting_date": "2024-12-03",
+  "meeting_label": "regular",
+  "item": "Item 6, Supplemental Packet 2 (supplemental agenda material)",
+  "file": null,
+  "sha256": "6ad3d9381fccde2f4b9f3b2e432d4105de90fcb1136a08b58a452cd4da71a623",
+  "bytes": 50293463,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/2024-12-03%20Item%2006%20Memorandum%20of%20Understanding%20%20Public%20Employees%20Union%20%E2%80%93%20Supp%20%28Supp%201%29.pdf",
+  "source_note": "Downloaded from source_url on 2026-09-30. The file name says \"(Supp 1)\"; the cover page reads \"Supplemental Agenda Material for Supplemental Packet 2\".",
+  "retrieved": "2026-09-30",
+  "archived": "2026-09-30",
+  "wayback_url": "https://web.archive.org/web/20250319110158/https://berkeleyca.gov/sites/default/files/documents/2024-12-03%20Item%2006%20Memorandum%20of%20Understanding%20%20Public%20Employees%20Union%20%E2%80%93%20Supp%20%28Supp%201%29.pdf",
+  "notices": [],
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-bcc-2024-12-03-item-06-supplemental-agenda-material-supp-2",
+        "path": "bcc-2024-12-03-item-06-supplemental-agenda-material-supp-2.pdf",
+        "uploaded": "2026-09-30",
+        "verified": "2026-09-30"
+      },
+      {
+        "store": "google_drive",
+        "location": "berkeley-public-records-blobs/bcc-2024-12-03-item-06-supplemental-agenda-material-supp-2.pdf",
+        "uploaded": "2026-09-30",
+        "verified": "2026-09-30"
+      }
+    ]
+  }
+}

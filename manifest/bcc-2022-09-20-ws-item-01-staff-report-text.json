@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2022-09-20-ws-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2022-09-20",
+  "meeting_label": "work session",
+  "title": "Residential Objective Standards: Middle Housing and Southside",
+  "file": "L1/staff-reports/bcc-2022-09-20-ws-item-01-staff-report-text.txt",
+  "sha256": "c7ec26d9af001dffc74aa1bf443ef3bb06de4a75adc77b030168d413b241126f",
+  "bytes": 1254902,
+  "derived_from": {
+    "id": "bcc-2022-09-20-ws-item-01-staff-report",
+    "sha256": "b34d155ee1dcd293dc1c9a7d3a306a2fa693466421103f4146111e4c6a873d7f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
