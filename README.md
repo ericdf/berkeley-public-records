@@ -83,6 +83,23 @@ trusting whoever added a file.
 
 ---
 
+## Storage
+
+**Git (this repository on GitHub) is the archive.** It is the only place documents are added or
+changed, the only place contributions are made (by pull request), and the only copy people share
+from. The manifest in git defines what the archive contains.
+
+Everything else is storage, checked against the manifest's fingerprints and never edited
+directly:
+
+- **External blobs** — files too large for git, stored in two independent places (below).
+- **A backup mirror** of every git-tracked file, in the archive account's Google Drive folder
+  `berkeley-public-records-mirror`, refreshed from a clean checkout of `main` by
+  `tools/mirror_to_drive.sh`. It records the commit it mirrors in `MIRRORED_COMMIT.txt`. It
+  exists so the archive survives the loss of GitHub access. **Do not add files to the Drive
+  folders or share from them**; anything placed there is not part of the archive and is
+  overwritten by the next mirror run.
+
 ## Large files
 
 Git is the wrong place for large or bulk binary files: every clone downloads every version
