@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-09-09-item-08-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-09-09",
+  "meeting_label": "regular",
+  "title": "Contract: African American/Black Professional Community Network for Project Sankofa",
+  "file": "L1/staff-reports/bcc-2025-09-09-item-08-staff-report-text.txt",
+  "sha256": "a2a9c77f228bba59758a2d2b461af8162311c00a3deb3ef5cca3edec19505900",
+  "bytes": 8898,
+  "derived_from": {
+    "id": "bcc-2025-09-09-item-08-staff-report",
+    "sha256": "4d826a4baa237a08ffc2a3d6ed12daa66efd2abda03ff29a65d782e3c42e6e7a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

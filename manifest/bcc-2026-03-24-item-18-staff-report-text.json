@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-03-24-item-18-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-03-24",
+  "meeting_label": "regular",
+  "title": "Whistleblower Investigation Report on Ambulance Purchase",
+  "file": "L1/staff-reports/bcc-2026-03-24-item-18-staff-report-text.txt",
+  "sha256": "fdb3bb1797e33f508a9092a5d752f76fb9d171fe1175d4ee34bc60252eed7ff4",
+  "bytes": 26924,
+  "derived_from": {
+    "id": "bcc-2026-03-24-item-18-staff-report",
+    "sha256": "94f13f78860b73c5527e22f86474da139169bb68e2d718439dec2ea5473e5496"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

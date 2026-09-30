@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-09-30-item-03-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-09-30",
+  "meeting_label": "regular",
+  "title": "Authorize Acceptance of Proposition 47 Cohort 5 Grant and Execution of Related Agreements",
+  "file": "L1/staff-reports/bcc-2025-09-30-item-03-staff-report-text.txt",
+  "sha256": "150796e0ec5116d613d5071edbc9c2306171ec6bf05beed2f86e20ab834dd1c6",
+  "bytes": 9920,
+  "derived_from": {
+    "id": "bcc-2025-09-30-item-03-staff-report",
+    "sha256": "cc8d897973ef58d0ea938e92a576f6868644480a353b065ae1eac3a7b98ff205"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
