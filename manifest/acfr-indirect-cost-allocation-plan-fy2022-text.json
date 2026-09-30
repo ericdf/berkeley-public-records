@@ -1,0 +1,21 @@
+{
+  "id": "acfr-indirect-cost-allocation-plan-fy2022-text",
+  "layer": "L1",
+  "doc_type": "financial_report_or_policy_text",
+  "collection": "acfr",
+  "title": "Indirect Cost Allocation Plan, Fiscal Year 2022",
+  "file": "L1/sources/acfr/acfr-indirect-cost-allocation-plan-fy2022-text.txt",
+  "sha256": "7459700288078a1ba5821b1540b973e047cb24cb1d7bf6ae1ae12ab1995a3178",
+  "bytes": 457079,
+  "derived_from": {
+    "id": "acfr-indirect-cost-allocation-plan-fy2022",
+    "sha256": "d27f3c69a6696a1f9bf6e4e9e2877797229061d3e6d42d5697ee12f09e9bb729"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

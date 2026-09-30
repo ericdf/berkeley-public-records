@@ -1,0 +1,21 @@
+{
+  "id": "ballot-2026-impartial-analyses-nov2026-text",
+  "layer": "L1",
+  "doc_type": "ballot_measure_record_text",
+  "collection": "ballot_2026",
+  "title": "City Attorney's Impartial Analyses — November 3, 2026 Berkeley ballot measures",
+  "file": "L1/sources/ballot_2026/ballot-2026-impartial-analyses-nov2026-text.txt",
+  "sha256": "625a8f71fb41881b0192d2cf808402f9c6f2f7bd00ad6fc28e6c4528195555ab",
+  "bytes": 20654,
+  "derived_from": {
+    "id": "ballot-2026-impartial-analyses-nov2026",
+    "sha256": "a5652d31db432d2db419f46be7d2a73f474b9113f08314dbc79bb67da1f31615"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

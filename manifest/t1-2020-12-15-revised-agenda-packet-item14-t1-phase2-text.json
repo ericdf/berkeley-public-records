@@ -1,0 +1,21 @@
+{
+  "id": "t1-2020-12-15-revised-agenda-packet-item14-t1-phase2-text",
+  "layer": "L1",
+  "doc_type": "council_agenda_report_text",
+  "collection": "t1",
+  "title": "Revised Agenda Packet, Berkeley City Council meeting of December 15, 2020 (contains Item 14, Measure T1 Phase 2, at packet pp. 203-243)",
+  "file": "L1/sources/t1/t1-2020-12-15-revised-agenda-packet-item14-t1-phase2-text.txt",
+  "sha256": "6473077872d0567c039d8c11b16289dd199d2acce90af563e93711fdc219e25c",
+  "bytes": 2473642,
+  "derived_from": {
+    "id": "t1-2020-12-15-revised-agenda-packet-item14-t1-phase2",
+    "sha256": "b4872d607642963bc5c436a01bb7b118a871262ebf27de9a6529f0cefda89af4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

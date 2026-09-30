@@ -1,0 +1,19 @@
+{
+  "id": "acfr-acfr-fy2022",
+  "layer": "L0",
+  "doc_type": "financial_report_or_policy",
+  "collection": "acfr",
+  "publisher": "City of Berkeley — Finance Department (audited by Badawi & Associates)",
+  "title": "Annual Comprehensive Financial Report, fiscal year ended June 30, 2022",
+  "document_date": "2022-12-15",
+  "file": "L0/sources/acfr/acfr-acfr-fy2022.pdf",
+  "sha256": "f530cddb5db1d1f5375867ea09272a37db67ef27b3b04263f01e3eb4b8decb5f",
+  "bytes": 12351993,
+  "source_url": null,
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "medium",
+  "source_note": "Archived 2026-08-04; file mtime 2026-08-04. Source/URL not recorded."
+}

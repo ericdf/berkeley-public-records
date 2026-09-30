@@ -1,0 +1,21 @@
+{
+  "id": "investments-fy2025-third-quarter-investment-report-text",
+  "layer": "L1",
+  "doc_type": "investment_report_text",
+  "collection": "investments",
+  "title": "FY 2025 Third Quarter Investment Report: Ended March 31, 2025",
+  "file": "L1/sources/investments/investments-fy2025-third-quarter-investment-report-text.txt",
+  "sha256": "a926a53e9bda0014fecb4dd5481c9de3465ffdffde672be10f867d3546b13729",
+  "bytes": 122815,
+  "derived_from": {
+    "id": "investments-fy2025-third-quarter-investment-report",
+    "sha256": "d9fd2d2c48c06b9035e7b4de289cbca02b6093f42ad5ff4f8de28c4be90dedde"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

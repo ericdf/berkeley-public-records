@@ -1,0 +1,18 @@
+{
+  "id": "ballot-2026-measure-v-official-full-text",
+  "layer": "L0",
+  "doc_type": "ballot_measure_record",
+  "collection": "ballot_2026",
+  "publisher": "City of Berkeley (City Clerk, November 2026 election materials)",
+  "title": "Full Text of Measure V — 2026 Transactions and Use Tax Ordinance",
+  "file": "L0/sources/ballot_2026/ballot-2026-measure-v-official-full-text.pdf",
+  "sha256": "e17b23bfa17d28339393f8d07a9ec45af4734b0905f1c54be4593b4b6583d608",
+  "bytes": 131090,
+  "source_url": "https://berkeleyca.gov/sites/default/files/Berkeley_Sales%20Tax%20-%20Full%20Text.pdf",
+  "retrieved": "2026-09-04",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "medium"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "investments-fy-2025-first-quarter-investment-report-text",
+  "layer": "L1",
+  "doc_type": "investment_report_text",
+  "collection": "investments",
+  "title": "FY 2025 First Quarter Investment Report: Ended September 30, 2024",
+  "file": "L1/sources/investments/investments-fy-2025-first-quarter-investment-report-text.txt",
+  "sha256": "7c3a6feb5f14e91c81e1ee5a07287f079ae87380fb91debc6a910672bb504366",
+  "bytes": 131926,
+  "derived_from": {
+    "id": "investments-fy-2025-first-quarter-investment-report",
+    "sha256": "988c2171f1208a61af8213e7e4c62583f3c7db2bb02361ebd04529381f7f07c1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

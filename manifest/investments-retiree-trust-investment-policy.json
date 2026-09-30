@@ -1,0 +1,18 @@
+{
+  "id": "investments-retiree-trust-investment-policy",
+  "layer": "L0",
+  "doc_type": "investment_report",
+  "collection": "investments",
+  "publisher": "City of Berkeley — Finance Department",
+  "title": "Retiree Trust Investment Management Plan / Policy (effective July 1, 2024)",
+  "document_date": "2024-07-01",
+  "file": "L0/sources/investments/investments-retiree-trust-investment-policy.pdf",
+  "sha256": "edaaaa81dd85d9c961434ce2569c822dd9468a931f1e79f94b71a5e8294cab9e",
+  "bytes": 342400,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/retiree-trust-investment-policy.pdf",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high"
+}

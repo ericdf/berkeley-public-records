@@ -1,0 +1,21 @@
+{
+  "id": "hr-seiu-csu-local1021-mou-2024-2027-text",
+  "layer": "L1",
+  "doc_type": "hr_document_text",
+  "collection": "hr",
+  "title": "Memorandum of Agreement between City of Berkeley and SEIU Local 1021 Community Services & Part-Time Recreation Leaders Association, June 27, 2024 to June 26, 2027",
+  "file": "L1/sources/hr/hr-seiu-csu-local1021-mou-2024-2027-text.txt",
+  "sha256": "7d68d8323b8c3e3e81f37d2f335f9bbe40ff1d01a8f3ce2f7fad38e88e531f86",
+  "bytes": 594032,
+  "derived_from": {
+    "id": "hr-seiu-csu-local1021-mou-2024-2027",
+    "sha256": "8ced203d68e54d955993b1c12f747abacaefe2a5540d3dcf0038dffe60e57ceb"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

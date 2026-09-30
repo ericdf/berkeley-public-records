@@ -30,9 +30,15 @@ published, and each file is listed in `manifest/`.
 |---|---|---|
 | Berkeley City Council meeting captions, from December 10, 2024 | L0 PDF, L1 text | `L0/council-captions/`, `L1/council-captions/` |
 | Berkeley City Council annotated agendas (the City's record of motions and votes), from December 10, 2024 | L0 PDF | `L0/annotated-agendas/` |
+| City budgets, audits, financial statements and policies, investment reports, Measure T1 and 2026 ballot-measure records, labor contracts, and related reports | L0 PDF, L1 text | `L0/sources/<collection>/`, `L1/sources/<collection>/` |
 
 Two caption transcripts (the April 16 and April 23, 2026 Budget Committee meetings) exist
 only as text; their source PDFs were not retained. Their manifest entries say so.
+
+Ten scanned documents in `L0/sources/` (the November 2026 ballot arguments, the General Fund
+Reserve Policy, and a 2008 West Berkeley employment memo) have no L1 text yet; they need OCR
+with a recorded command. Documents without a recorded `source_url` say how they were obtained in
+`source_note`.
 
 ### Notices carried with the documents
 

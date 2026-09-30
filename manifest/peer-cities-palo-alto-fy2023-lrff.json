@@ -1,0 +1,20 @@
+{
+  "id": "peer-cities-palo-alto-fy2023-lrff",
+  "layer": "L0",
+  "doc_type": "peer_city_document",
+  "collection": "peer_cities",
+  "publisher": "City of Palo Alto — Administrative Services (City Manager)",
+  "title": "City of Palo Alto Staff Report ID #13800: Review and Accept the FY 2023 - FY 2032 Long Range Financial Forecast and FY 2023 Budget Development Guidelines",
+  "document_date": "2022-01-10",
+  "meeting_date": "2022-01-10",
+  "item": "Palo Alto City Council staff report ID 13800",
+  "file": "L0/sources/peer_cities/peer-cities-palo-alto-fy2023-lrff.pdf",
+  "sha256": "383207937a7c4682640f64a994f46112e3591824f521b97e45915e65878f24ed",
+  "bytes": 2744491,
+  "source_url": "https://www.cityofpaloalto.org/files/assets/public/administrative-services/city-budgets/fy-2022-city-budget/new-folder/2022-lrff-cmr-13800-13502.pdf",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high"
+}

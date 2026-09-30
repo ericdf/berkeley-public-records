@@ -1,0 +1,21 @@
+{
+  "id": "acfr-acfr-fy2021-text",
+  "layer": "L1",
+  "doc_type": "financial_report_or_policy_text",
+  "collection": "acfr",
+  "title": "Annual Comprehensive Financial Report, fiscal year ended June 30, 2021",
+  "file": "L1/sources/acfr/acfr-acfr-fy2021-text.txt",
+  "sha256": "6fd52106e8cbd6fe2ecf63aab31b05a78c1bf86547d0970c953c558e8eb0be23",
+  "bytes": 1324133,
+  "derived_from": {
+    "id": "acfr-acfr-fy2021",
+    "sha256": "a8e4f626a9793e53c58ea72c951b6f193268dfc39d83cfcd29a4a07056966ace"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

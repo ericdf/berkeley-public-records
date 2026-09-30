@@ -1,0 +1,21 @@
+{
+  "id": "hr-seiu-mou-2024-text",
+  "layer": "L1",
+  "doc_type": "hr_document_text",
+  "collection": "hr",
+  "title": "Memorandum of Understanding: SEIU Local 1021 Maintenance & Clerical Chapters (Council transmittal)",
+  "file": "L1/sources/hr/hr-seiu-mou-2024-text.txt",
+  "sha256": "714cb89d72d1039b1c2ad5a908e64c70bbef2bb8d70d33238fac6ad8b3c35606",
+  "bytes": 9519,
+  "derived_from": {
+    "id": "hr-seiu-mou-2024",
+    "sha256": "07fe5221bec9a911cd04a06cce619d0b1d5728bbcdb05517ca2954eb8f3f470c"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

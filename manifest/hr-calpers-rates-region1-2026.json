@@ -1,0 +1,18 @@
+{
+  "id": "hr-calpers-rates-region1-2026",
+  "layer": "L0",
+  "doc_type": "hr_document",
+  "collection": "hr",
+  "publisher": "California Public Employees' Retirement System (CalPERS)",
+  "title": "CalPERS 2026 State Health Premiums (Active and Annuitants) — In-State Basic Plan Monthly Premiums",
+  "file": "L0/sources/hr/hr-calpers-rates-region1-2026.pdf",
+  "sha256": "b6543791cc426b97787709138ff9ed6a4f65c32b8f4a3a57605763abc71e1a46",
+  "bytes": 167926,
+  "source_url": "https://www.calpers.ca.gov/documents/health-rates-in-state-2026/download",
+  "retrieved": "2026-09-02",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high"
+}

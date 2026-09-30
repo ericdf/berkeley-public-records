@@ -1,0 +1,19 @@
+{
+  "id": "bonds-2026-07-14-t1-final-tranche-notice-of-sale",
+  "layer": "L0",
+  "doc_type": "bond_document",
+  "collection": "bonds",
+  "publisher": "City of Berkeley (issuer); posted on i-Deal Prospectus (Ipreo) bond-offering platform",
+  "title": "Official Notice of Sale — $20,000,000 City of Berkeley 2026 General Obligation Bonds (2016 Election: Infrastructure and Facilities Improvements)",
+  "document_date": "2026-07-14",
+  "file": "L0/sources/bonds/bonds-2026-07-14-t1-final-tranche-notice-of-sale.pdf",
+  "sha256": "0991947c6bb0e2b332fd8da1001b4fa439996abac46cf582368049ed76baaca0",
+  "bytes": 143746,
+  "source_url": "https://www.i-dealprospectus.com/api/PdfDownload/102133?action=Get",
+  "retrieved": "2026-09-02",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high"
+}

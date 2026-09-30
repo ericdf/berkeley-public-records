@@ -1,0 +1,21 @@
+{
+  "id": "acfr-single-audit-report-fy2025-text",
+  "layer": "L1",
+  "doc_type": "financial_report_or_policy_text",
+  "collection": "acfr",
+  "title": "Single Audit Report, year ended June 30, 2025",
+  "file": "L1/sources/acfr/acfr-single-audit-report-fy2025-text.txt",
+  "sha256": "2c585497eac92c9ddbb20f5ae298d0fce5cc9791ad6b2f91f7a0f82fa4104bc1",
+  "bytes": 44227,
+  "derived_from": {
+    "id": "acfr-single-audit-report-fy2025",
+    "sha256": "eb300ddacc21bc046b95ebcdd6092240296805b34c8fa45e4d1f8f9821477aa2"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

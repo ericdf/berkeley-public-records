@@ -1,0 +1,21 @@
+{
+  "id": "performance-measures-2026-04-21-item17-measurable-goals-text",
+  "layer": "L1",
+  "doc_type": "council_agenda_report_text",
+  "collection": "performance_measures",
+  "title": "Setting Measurable Goals and Metrics for Key City Priorities",
+  "file": "L1/sources/performance_measures/performance-measures-2026-04-21-item17-measurable-goals-text.txt",
+  "sha256": "6403ee5ebafd5539109765810df1a53b7b72bb2a9f94d47f020b763c73e79fdc",
+  "bytes": 10962,
+  "derived_from": {
+    "id": "performance-measures-2026-04-21-item17-measurable-goals",
+    "sha256": "e1af116518fbc57b83523ae111a9eb3bfa04b3e183859dc736df7301e18ce07c"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

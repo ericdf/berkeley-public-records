@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-palo-alto-fy2023-lrff-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "City of Palo Alto Staff Report ID #13800: Review and Accept the FY 2023 - FY 2032 Long Range Financial Forecast and FY 2023 Budget Development Guidelines",
+  "file": "L1/sources/peer_cities/peer-cities-palo-alto-fy2023-lrff-text.txt",
+  "sha256": "f93ef94a6f0f837c2b2e53e248bd87cad4d7b955130650f2bec2a92842c4122c",
+  "bytes": 135798,
+  "derived_from": {
+    "id": "peer-cities-palo-alto-fy2023-lrff",
+    "sha256": "383207937a7c4682640f64a994f46112e3591824f521b97e45915e65878f24ed"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

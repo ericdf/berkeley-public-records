@@ -1,0 +1,20 @@
+{
+  "id": "investments-second-quarterly-investment-report",
+  "layer": "L0",
+  "doc_type": "investment_report",
+  "collection": "investments",
+  "publisher": "City of Berkeley — Finance Department (Office of the City Manager)",
+  "title": "FY 2026 Second Quarter Investment Report: Ended December 31, 2025",
+  "document_date": "2026-05-19",
+  "meeting_date": "2026-05-19",
+  "item": "Information Calendar Item 30",
+  "file": "L0/sources/investments/investments-second-quarterly-investment-report.pdf",
+  "sha256": "92badc9695b5783c6998b9e9f95495ae1a4f89f69332812b7542bd1a048a8381",
+  "bytes": 871604,
+  "source_url": "https://berkeleyca.gov/sites/default/files/2026-05/Second%20Quarterly%20Investment%20Report.pdf",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high"
+}

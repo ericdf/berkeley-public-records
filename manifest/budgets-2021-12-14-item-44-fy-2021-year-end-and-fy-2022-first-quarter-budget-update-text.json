@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2021-12-14-item-44-fy-2021-year-end-and-fy-2022-first-quarter-budget-update-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "FY 2021 Year-End Results and FY 2022 First Quarter Budget Update",
+  "file": "L1/sources/budgets/budgets-2021-12-14-item-44-fy-2021-year-end-and-fy-2022-first-quarter-budget-update-text.txt",
+  "sha256": "dc5995e450d835a02b476fbf1e01dc4e10968ad6b4fb44e168ea65e572e878ae",
+  "bytes": 117353,
+  "derived_from": {
+    "id": "budgets-2021-12-14-item-44-fy-2021-year-end-and-fy-2022-first-quarter-budget-update",
+    "sha256": "05805756564abb5734ac2bb16171b5a5065f0bd919e15525b5182b97d58368fd"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

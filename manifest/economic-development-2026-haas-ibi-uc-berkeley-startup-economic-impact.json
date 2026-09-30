@@ -1,0 +1,20 @@
+{
+  "id": "economic-development-2026-haas-ibi-uc-berkeley-startup-economic-impact",
+  "layer": "L0",
+  "doc_type": "economic_report",
+  "collection": "economic_development",
+  "publisher": "UC Berkeley Haas School of Business — Institute for Business Innovation (prepared for UC Berkeley I&E Office, City of Berkeley, and Berkeley Startup Cluster)",
+  "title": "Economic Impacts of UC Berkeley's Innovation & Entrepreneurship Ecosystem on the City of Berkeley and Alameda County",
+  "document_date": "2026-02-01",
+  "file": "L0/sources/economic_development/economic-development-2026-haas-ibi-uc-berkeley-startup-economic-impact.pdf",
+  "sha256": "1bbd194767fd223d511d16d0f2ef15403af2eeb83bd9c9abc7b2b56618e75471",
+  "bytes": 8552589,
+  "source_url": "https://haas.berkeley.edu/wp-content/uploads/UC-Berkeley-IE-Impact-City.pdf",
+  "retrieved": "2026-08-31",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high",
+  "inclusion_note": "Published by UC Berkeley's Haas School of Business (UC is a public body), prepared in part for the City of Berkeley. Included by maintainer decision, 2026-09-30."
+}

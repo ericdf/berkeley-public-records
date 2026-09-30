@@ -1,0 +1,21 @@
+{
+  "id": "ballot-2026-measure-u-full-text-text",
+  "layer": "L1",
+  "doc_type": "ballot_measure_record_text",
+  "collection": "ballot_2026",
+  "title": "Full Text of Measure U — City of Berkeley General Obligation Bonds for Public Infrastructure and Facilities ($300M)",
+  "file": "L1/sources/ballot_2026/ballot-2026-measure-u-full-text-text.txt",
+  "sha256": "9c345f1cfa206085e8ad6f961780b875acc93b4556fe45cf8ddd83057f3ede61",
+  "bytes": 11205,
+  "derived_from": {
+    "id": "ballot-2026-measure-u-full-text",
+    "sha256": "79c8e3cfae287cd078236d4c01d2e1d62f095c5247ce9f51a3226b241b195284"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

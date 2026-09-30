@@ -1,0 +1,21 @@
+{
+  "id": "hr-benefits-guide-2026-at-2024-url-text",
+  "layer": "L1",
+  "doc_type": "hr_document_text",
+  "collection": "hr",
+  "title": "2026 City of Berkeley Employee Open Enrollment (Benefits) Guide",
+  "file": "L1/sources/hr/hr-benefits-guide-2026-at-2024-url-text.txt",
+  "sha256": "70fe438b6dd4ba5a5346dda5c5aba1ed5dc28fbb9a37156ef8b6644b310ae7a0",
+  "bytes": 230161,
+  "derived_from": {
+    "id": "hr-benefits-guide-2026-at-2024-url",
+    "sha256": "6e1f454183c4f6e2d97f9e4aabfbef852c0c820660d2bf8f1fc849a8c7c01519"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

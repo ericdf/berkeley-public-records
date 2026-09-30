@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2024-05-14-cowi-contract-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Contract: COWI North America, Inc. for Engineering and Design of the Berkeley Water Transportation Pier Ferry Project",
+  "file": "L1/sources/pier_ferry/pier-ferry-2024-05-14-cowi-contract-text.txt",
+  "sha256": "ff51261f2140c1edef435936f6eff6f877cc667b09ddadc9b04e4eba3e55db6c",
+  "bytes": 13281,
+  "derived_from": {
+    "id": "pier-ferry-2024-05-14-cowi-contract",
+    "sha256": "3fcaf331d4a8638769974c8715ce949aff3521e1e6e718a68ab15f7d1e50d2db"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

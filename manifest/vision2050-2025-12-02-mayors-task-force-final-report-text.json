@@ -1,0 +1,21 @@
+{
+  "id": "vision2050-2025-12-02-mayors-task-force-final-report-text",
+  "layer": "L1",
+  "doc_type": "planning_report_text",
+  "collection": "vision2050",
+  "title": "Sharing the Final Report of the Mayor's Vision 2050 Task Force (\"Realize Vision 2050\")",
+  "file": "L1/sources/vision2050/vision2050-2025-12-02-mayors-task-force-final-report-text.txt",
+  "sha256": "2fd5f5bdbcb593880f749c1c86812dc405d308407caac4ba3fec92a198046992",
+  "bytes": 130111,
+  "derived_from": {
+    "id": "vision2050-2025-12-02-mayors-task-force-final-report",
+    "sha256": "2d3a895fcbaa58036423495801bb9bb3857d998da7049308db67b686045103da"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

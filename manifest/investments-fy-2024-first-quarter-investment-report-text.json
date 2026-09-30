@@ -1,0 +1,21 @@
+{
+  "id": "investments-fy-2024-first-quarter-investment-report-text",
+  "layer": "L1",
+  "doc_type": "investment_report_text",
+  "collection": "investments",
+  "title": "FY 2024 First Quarter Investment Report: Ended September 30, 2023",
+  "file": "L1/sources/investments/investments-fy-2024-first-quarter-investment-report-text.txt",
+  "sha256": "5512148fdd5b83e92ec09a42c605a9476732be08bc80622cb9ecdcbbc555d88d",
+  "bytes": 132052,
+  "derived_from": {
+    "id": "investments-fy-2024-first-quarter-investment-report",
+    "sha256": "e372e1f9164f83097f62945287cf599fa3edc54e4e20f8e8df5fc4d46c96d10d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

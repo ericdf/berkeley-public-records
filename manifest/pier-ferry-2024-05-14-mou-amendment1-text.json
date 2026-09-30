@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2024-05-14-mou-amendment1-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Amendment #1 to the WETA Memorandum of Understanding for the Berkeley Water Transportation Pier Ferry Project",
+  "file": "L1/sources/pier_ferry/pier-ferry-2024-05-14-mou-amendment1-text.txt",
+  "sha256": "0bc024294072815744ff0980e20963380c9ad3b0b2195377121fbb536979e809",
+  "bytes": 32076,
+  "derived_from": {
+    "id": "pier-ferry-2024-05-14-mou-amendment1",
+    "sha256": "e1d88143c12f6dd8c0dd389d1da436e6bef6b0d7c139aab9d597730336af89f4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

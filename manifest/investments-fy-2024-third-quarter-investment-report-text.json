@@ -1,0 +1,21 @@
+{
+  "id": "investments-fy-2024-third-quarter-investment-report-text",
+  "layer": "L1",
+  "doc_type": "investment_report_text",
+  "collection": "investments",
+  "title": "FY 2024 Third Quarter Investment Report: Ended March 31, 2024",
+  "file": "L1/sources/investments/investments-fy-2024-third-quarter-investment-report-text.txt",
+  "sha256": "006f34597a83644df5b454516eb3ce43a9e95cff40febdedcdaef17ba7758f9c",
+  "bytes": 130855,
+  "derived_from": {
+    "id": "investments-fy-2024-third-quarter-investment-report",
+    "sha256": "985d5afb17dce412e1da16280e4f79ad89dc573c9dfd790225ca84e4f99e3784"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

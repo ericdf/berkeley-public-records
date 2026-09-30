@@ -1,0 +1,21 @@
+{
+  "id": "audits-financial-condition-2022-text",
+  "layer": "L1",
+  "doc_type": "audit_report_text",
+  "collection": "audits",
+  "title": "Berkeley's Financial Condition (FY 2012 - FY 2021): Pension Liabilities and Infrastructure Need Attention",
+  "file": "L1/sources/audits/audits-financial-condition-2022-text.txt",
+  "sha256": "d4e1be9d05d4a3353f49a8e20e301f32713700595353022a6065563e20a0b748",
+  "bytes": 129966,
+  "derived_from": {
+    "id": "audits-financial-condition-2022",
+    "sha256": "63b6fe09af0b0cbef92d094a51a2b71e63dded738cb6572d924a3c794f33bbb9"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

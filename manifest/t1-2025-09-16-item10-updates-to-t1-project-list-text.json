@@ -1,0 +1,21 @@
+{
+  "id": "t1-2025-09-16-item10-updates-to-t1-project-list-text",
+  "layer": "L1",
+  "doc_type": "council_agenda_report_text",
+  "collection": "t1",
+  "title": "Updates to the Measure T1 Project List (DUPLICATE)",
+  "file": "L1/sources/t1/t1-2025-09-16-item10-updates-to-t1-project-list-text.txt",
+  "sha256": "e0a773598ac14e0de45560c8ed4ce58c9aeafc7fe61c88a9336171f17c81ed0b",
+  "bytes": 23219,
+  "derived_from": {
+    "id": "t1-2025-09-16-item10-updates-to-t1-project-list",
+    "sha256": "76f3562dcd1f4d6035b3f51749b6af3d4d5620901dc53debdee318f6aa7f59d2"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

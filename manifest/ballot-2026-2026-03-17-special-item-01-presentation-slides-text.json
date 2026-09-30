@@ -1,0 +1,21 @@
+{
+  "id": "ballot-2026-2026-03-17-special-item-01-presentation-slides-text",
+  "layer": "L1",
+  "doc_type": "ballot_measure_record_text",
+  "collection": "ballot_2026",
+  "title": "2026 Community Survey Results & Ballot Measure Considerations (presentation slides), Council Special Meeting",
+  "file": "L1/sources/ballot_2026/ballot-2026-2026-03-17-special-item-01-presentation-slides-text.txt",
+  "sha256": "1c999ec8c4cf2f61a28050eaef04515428ef72f097b8e9b5a88c750fcc7780ea",
+  "bytes": 9247,
+  "derived_from": {
+    "id": "ballot-2026-2026-03-17-special-item-01-presentation-slides",
+    "sha256": "190df90c0202bfaf5d4efc94661f2f12fdf0bd77bab4d06b580d423fac0a53c6"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

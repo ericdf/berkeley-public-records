@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2025-05-19-kamen-eir-scoping-addendum-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Paul Kamen, Naval Architect P.E. — Addendum to Pier-Ferry EIR scoping comments (email to City staff with attachment)",
+  "file": "L1/sources/pier_ferry/pier-ferry-2025-05-19-kamen-eir-scoping-addendum-text.txt",
+  "sha256": "46e1555afc8f4af9bdc41a8197c5bb8aad9eaa7b095bd4c52e0fa111fd1ae124",
+  "bytes": 3813,
+  "derived_from": {
+    "id": "pier-ferry-2025-05-19-kamen-eir-scoping-addendum",
+    "sha256": "4a459bd08acfe7c4cdfc853c21cff62c773f4850da30e55c8d7f55dc771857a8"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t1-2022-03-08-t1-phase1-chronology-of-changes-text",
+  "layer": "L1",
+  "doc_type": "council_agenda_report_text",
+  "collection": "t1",
+  "title": "T1 Phase 1 Project List — Chronology of Changes (revised 03.08.22)",
+  "file": "L1/sources/t1/t1-2022-03-08-t1-phase1-chronology-of-changes-text.txt",
+  "sha256": "2fb3315829ebc0f2c9995968b19f75e55e3053bab139f076a4efc2dbbab23ddc",
+  "bytes": 6007,
+  "derived_from": {
+    "id": "t1-2022-03-08-t1-phase1-chronology-of-changes",
+    "sha256": "7ec4d2d3c1a6db8ad53a60e7fc71bb1b0e317bd4ff0f5beb2202e55c4e1e607c"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "audits-measuring-performance-2026-text",
+  "layer": "L1",
+  "doc_type": "audit_report_text",
+  "collection": "audits",
+  "title": "A Guide to Measuring Performance in the City of Berkeley",
+  "file": "L1/sources/audits/audits-measuring-performance-2026-text.txt",
+  "sha256": "a6bcb0b53cb34ca7dc3f10cf6ed4d575625df7b002602e92f8ad5f2c835b80d8",
+  "bytes": 43674,
+  "derived_from": {
+    "id": "audits-measuring-performance-2026",
+    "sha256": "236eb79a0fe2fa658be0b35284a0fd35cc6d44306603bf46ac3731c13e9944ba"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

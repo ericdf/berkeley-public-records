@@ -1,0 +1,21 @@
+{
+  "id": "measure-z-measure-z-text-text",
+  "layer": "L1",
+  "doc_type": "ballot_measure_record_text",
+  "collection": "measure_z",
+  "title": "Measure Z — full initiative text: parcel tax to capitalize a public bank",
+  "file": "L1/sources/measure_z/measure-z-measure-z-text-text.txt",
+  "sha256": "dd76e49a39b83e618759442a90698e50a867767d2d80806a1455d961701ac041",
+  "bytes": 16082,
+  "derived_from": {
+    "id": "measure-z-measure-z-text",
+    "sha256": "cd4441b15a9aa40c11ecaa7bb99dbdde4e7494794924697100be25bbe494d679"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

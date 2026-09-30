@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2025-10-24-project-update-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Berkeley Pier-Ferry Project Update (City Manager off-agenda memo)",
+  "file": "L1/sources/pier_ferry/pier-ferry-2025-10-24-project-update-text.txt",
+  "sha256": "9a5ba26be90822d2bc720224fd687b3b3790ce6c352dd4ba26bf4cdc9f23220f",
+  "bytes": 61068,
+  "derived_from": {
+    "id": "pier-ferry-2025-10-24-project-update",
+    "sha256": "651c53b00f4fc0984c60455b9f1fb68c4429fd8f964e2082b3b047ebfe0d7bfc"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

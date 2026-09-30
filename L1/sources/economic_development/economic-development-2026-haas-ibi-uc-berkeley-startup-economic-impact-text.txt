@@ -1,0 +1,2125 @@
+ Economic Impacts of UC Berkeley’s
+   Innovation & Entrepreneurship
+Ecosystem on the City of Berkeley and
+          Alameda County
+
+                           February 2026
+
+                            Prepared for
+           UC Berkeley Innovation & Entrepreneurship Office
+                           City of Berkeley
+                       Berkeley Startup Cluster
+
+
+
+                              Authors
+   Asha Gupta, Cooper Bouton, Godwin Kugblenu, Kexin Ning, Pedro
+                           Edwards, Yunhan Liu
+Institute for Business Innovation, Haas School of Business, UC Berkeley
+
+                            Reviewed by
+Benjamin Bradbury, Chris Bush, Elizabeth Redman Cleveland, Jan Tristan
+                Arroyo Gaspi, and Oguzhan Aygoren
+​         ​         ​         ​          ​         ​         UC Berkeley Institute for Business Innovation
+
+
+
+Executive Summary
+UC Berkeley is consistently ranked as
+one of the top universities in the world at
+generating innovation and creating
+venture-backed startups. It has a broad
+array of incubators, accelerators, and
+entrepreneurship programs, as well as its
+research capacity and other innovation
+initiatives from its Innovation and Entrepreneurship (I&E) ecosystem. Guided by the
+university’s strategic vision, this ecosystem has created a strong local network effect
+between research, entrepreneurship, and industry. The impact of these programs, and
+the startups that they produce, help make the campus a strong contributor to the growth
+of the Berkeley and Bay Area economies.
+
+UC Berkeley-affiliated startups support more than 500 high-wage jobs in the City of
+Berkeley, with an average salary of $216,0001. Each startup job located in the city also
+supports an additional 1.05 jobs locally, resulting in a total employment multiplier of
+2.052. In total, the activity of these 182 UC Berkeley startups generates more than $300
+million in regional value added across Alameda County, and approximately $200 million
+in the City of Berkeley alone3.
+
+Qualitative data gathered through stakeholder interviews for this study also highlighted
+many positive impacts the campus I&E ecosystem has on the City of Berkeley:
+
+     ➢​ I&E resources draw founders looking to launch or grow their startups in Berkeley.
+     ➢​ Successful startups working in campus incubators often first look at office and lab
+        space within the city when looking to expand.
+     ➢​ The operational needs of I&E startups generate steady economic activity for local
+        businesses across a variety of industries.
+
+This data also highlighted a few key growth opportunities for the city and UCB:
+
+     ➢​ Perception of public safety and street conditions contributes to some founders
+        hesitating to start or renew commercial leases in Berkeley.
+
+
+
+1
+  Calculated exclusively from the impacts reported by surveyed firms, this figure represents the ratio of total employment generated
+(direct, indirect, and induced) to the initial direct jobs created.
+2
+  Derived from survey data, this metric is defined as the quotient of total Direct Labor Income divided by the number of direct jobs
+created. This survey-level value aligns with the midpoint between the lower and upper extrapolation estimates.
+3
+  Modeled on survey data from 22 verified startups and extrapolated to the 182 startups based in Berkeley, CA, using IMPLAN
+regional multipliers for employment, induced spending and supplier linkages in Alameda County. See METHODOLOGY section for
+further explanation.
+
+
+
+                                                                                                                                   2
+​      ​     ​      ​      ​     ​      UC Berkeley Institute for Business Innovation
+
+
+    ➢​ Increased coordination between the city and I&E program leaders could increase
+       the philanthropic involvement of startups in the Berkeley community.
+    ➢​ The perceived complexity of Berkeley’s regulations concerns founders; more
+       accessible guidance and streamlined regulatory processes would be beneficial.
+    ➢​ Increasing the availability of appropriate short-term lease office and lab space
+       would address a challenge faced by startups and make them more likely to
+       remain in Berkeley.
+
+The remainder of this report discusses these topics in depth, before concluding with
+considerations for future studies on this topic.
+
+
+1. BACKGROUND
+
+                                                UC Berkeley is known for innovation that
+                                                impacts the world, having the highest
+                                                number of venture-backed startups
+                                                during the last decade (Pitchbook). Its
+                                                mission of knowledge creation and
+                                                public service increasingly includes
+                                                translating research into societal and
+                                                economic benefit. University-affiliated
+                                                startups play a central role in this
+                                                process by moving research from the lab
+                                                to the market. This not only advances
+                                                the university’s public mission but also
+                                                drives job creation and workforce
+                                                development in the region. City of
+                                                Berkeley’s Mayor Adena Ishii has
+highlighted the city’s unique position as an innovation nexus, noting that by connecting
+UC Berkeley, Berkeley Lab, and local talent, the city has supported startup success
+across sectors, including clean energy, biotechnology, artificial intelligence, and food
+engineering. She further pointed out that the Berkeley Startup Cluster has played a
+central role in linking campus-based innovation with the local economy and supporting
+sustained entrepreneurial growth.
+
+The City of Berkeley is compact, with a population of approximately 120,000 residents
+(Census Bureau, 2024), yet it supports a highly concentrated and diverse innovation
+environment shaped by the presence of UC Berkeley. The city’s business landscape
+includes more than 13,000 licensed businesses (City of Berkeley, 2025), including UC
+Berkeley-affiliated startups in multiple industries, such as biotech, clean-energy, and
+
+
+                                                                                      3
+​       ​        ​        ​       ​        ​        UC Berkeley Institute for Business Innovation
+
+
+computing. Through our surveys and interviews, we also found that there are even more
+early stage startups in Berkeley that do not yet have business licenses. However, the
+local economic impact of these startups on the city has not been documented prior to
+this report.
+
+Therefore, the UC Berkeley Office of Innovation & Entrepreneurship (I&E)
+commissioned the Haas Institute for Business Innovation (IBI), which partnered with the
+City of Berkeley and the Berkeley Startup Cluster, to examine the local economic impact
+of UC Berkeley’s innovation and entrepreneurship programs4.
+
+
+2. METHODOLOGY
+This research was scoped to address four questions:
+
+    1.​ How UC Berkeley-affiliated startups interact with the city and regional economy
+    2.​ What factors influence their decisions to remain in Berkeley or relocate
+    3.​ How the city can better support university innovation while encouraging long-term
+        retention
+    4.​ The broader impact of UC Berkeley’s innovation and entrepreneurship (I&E)
+        ecosystem on the city.
+
+In scope were the jobs, payroll, local spending, taxes, and investment activity of UC
+Berkeley-affiliated startups with a city presence, measured through surveys and
+administrative data.
+
+Out of scope were startup demographic analysis, broader macroeconomic changes,
+long-term startup lifecycle outcomes, housing displacement effects, environmental
+externalities, and impacts not attributable to Berkeley-connected ventures or local
+expenditures.
+
+Economic impact refers to the measurable economic activity generated in the City of
+Berkeley by startups and firms connected to UC Berkeley’s innovation and
+entrepreneurship (I&E) programs. This includes direct effects, such as jobs created,
+payroll, local vendor spending, commercial space occupancy, tax contributions, and
+revenue generated by these ventures. It also includes indirect effects (i.e. supply-chain
+spending with local businesses) and induced effects (employee spending in the local
+economy). Together, these effects represent the total contribution of UC
+Berkeley-affiliated ventures to employment, income, output, and tax revenues within the
+
+4
+ The Berkeley Startup Cluster is a partnership between the City, UC Berkeley, Berkeley Lab, Berkeley Chamber and
+Downtown Berkeley Association with a mission to make Berkeley a more vibrant, equitable and accessible place for
+startups to launch and grow.
+
+
+                                                                                                               4
+​     ​      ​      ​     ​      ​      UC Berkeley Institute for Business Innovation
+
+
+local economy. Our study focuses on annual, replicable measurement of direct, indirect,
+and induced impacts within Berkeley.
+
+Economic impacts were estimated using the IMPLAN input-output modeling software.
+IMPLAN’s modeling framework is supported by its county-level tax and industry sector
+datasets to generate multipliers for each level of impact. It is considered to be the
+industry standard for estimating the direct, indirect, and induced effects of economic
+activity. See Appendices B-D for details on what was included in the IMPLAN analysis.
+
+Our research approach integrated survey data, qualitative insights, and economic
+modeling to assess startup activity and economic contributions to the City of Berkeley.
+Data sources included university-affiliated initiatives, the City of Berkeley, startup
+surveys, and interviews with founders and program participants.
+
+Entrepreneurial programs were identified through the UC Berkeley BEGIN directory.
+Each program was coded by lifecycle stage, participant eligibility, and program type.
+This study also identified and surveyed startups that are affiliated with UC Berkeley.
+
+The City of Berkeley Office of Economic Development provided an initial list of
+approximately 400 innovation companies operating in Berkeley during Q4 2024. Each
+company was reviewed to confirm operational status, activity within Berkeley, and a
+clear connection to UC Berkeley. Affiliation was determined through founder ties to UC
+Berkeley, participation in university department programs, and engagement with the
+broader UC Berkeley I&E ecosystem. Additional outreach to I&E program leaders
+ensured completeness, resulting in a final count of 182 startups.
+
+A 14-question survey collected data on employment, vendor spending, fundraising, and
+university and city connections. Responses were collected between October 29, 2025
+and December 19, 2025. Thirty-four startups responded (22.2%), a voluntary sample
+that may not fully represent the full population but provided sufficient data to inform
+analysis. Interviews complemented quantitative findings and provided contextual
+insights.
+
+Because Berkeley-affiliated startups generate economic value both within the city of
+Berkeley, CA, and across the broader Alameda County, impacts are reported separately
+for each geographic level to distinguish local impact from regional spillover effects.
+Operational impacts were modeled using Berkeley-based employment and spending,
+with multiplier effects estimated at the Alameda County level. Capital investment and
+tax impacts were modeled separately to maintain conservative, transparent reporting.
+
+
+
+
+                                                                                     5
+​        ​        ​        ​        ​        ​        UC Berkeley Institute for Business Innovation
+
+
+Regional impacts capture direct, indirect, and induced effects5, as Berkeley-based
+activity propagates through supply chains, labor markets, and household consumption
+across Alameda County.
+
+Because of highly skewed startup ecosystems (see Appendix B.2) and incomplete
+survey coverage of all startups, impacts are reported as a range based on two
+extrapolation scenarios that reflect different but plausible assumptions about ecosystem
+structure.
+
+
+
+3. UC BERKELEY’S I&E ECOSYSTEM
+
+UC Berkeley offers a large
+portfolio     of       programs
+supporting     startups      from
+ideation through early growth,
+spanning capability building,
+incubation, acceleration, and
+access to capital. The BEGIN
+directory6       lists        100
+entrepreneurial        initiatives
+across       campus           that
+collectively cover the full
+startup journey. Together,
+these programs lower barriers
+for new founders and provide clear pathways for growth and commercialization through
+academic expertise, research infrastructure, industry partnerships, and funding. Below,
+we highlight four examples of UC Berkeley's I&E infrastructure that provide training,
+space, and capital to startups.
+
+SCET: Preparing Students to be Founders & Early Validation
+The Sutardja Center for Entrepreneurship & Technology (SCET) prepares students to
+move uncertain ideas from the classroom into the real-world, serving as an entry point
+to Berkeley’s entrepreneurial ecosystem. Its model emphasizes interdisciplinary team
+formation, experiential learning, and capacity building before teams reach accelerator or
+financing stages. Rather than defining entrepreneurship by funding or company
+
+5
+  Direct effects represent employment and spending generated by startups within Berkeley. Indirect effects reflect
+economic activity created through supplier and service-provider purchases. Induced effects capture additional
+economic activity generated when employees spend their wages in the regional economy.
+6
+  https://begin.berkeley.edu/resources/
+
+
+                                                                                                                     6
+​         ​      ​       ​   ​    ​      UC Berkeley Institute for Business Innovation
+
+
+formation, SCET focuses on mindset and execution under uncertainty, prioritizing
+iteration, decision-making and learning
+through failure. As a result, outcomes are
+not measured solely by startups launched;
+many teams build prototypes and
+conclude at the course level, reflecting
+early-stage filtering. SCET’s primary role
+is to broaden the pool of individuals
+capable of initiating entrepreneurial
+efforts, with continuation dependent on
+resources beyond the classroom.
+
+BHEP: Helping teams transition into Venture-Focused Programs
+Teams that continue beyond early validation often transition into venture-focused
+programs across campus.
+
+The Berkeley Haas Entrepreneurship Program (BHEP) supports venture development
+through academic coursework, experiential learning, and engagement with industry and
+investor networks. Operating within the Haas Institute for Business Innovation, BHEP
+provides founders with structured training in business model development, market
+strategy, and capital planning. Its programs connect students and founders to faculty
+expertise, alumni entrepreneurs, and venture mentors, strengthening the pipeline of
+startups progressing toward acceleration and financing.
+
+As ventures mature and require specialized facilities or additional validation, they may
+engage with campus infrastructure and acceleration programs.
+
+Bakar Labs: Physical space
+Bakar Labs provides a residency and shared
+facility system to help biotech startups access
+the scientific research and community
+resources of UC Berkeley. In FY24–25, Bakar
+Labs reported an annual budget of $4.6
+million, with 15 full-time employees. It is
+estimated that 65% of its procurement
+expenditure occurs locally in Berkeley. Its
+tenant companies have placed 304 internships
+and/or jobs.7
+
+
+7
+    Department survey.
+
+
+                                                                                      7
+​         ​      ​       ​   ​    ​      UC Berkeley Institute for Business Innovation
+
+
+Skydeck: Acceleration and Capital Support
+Berkeley SkyDeck is one of the university’s startup accelerators, operating through a
+public-private partnership model that integrates mentorship, investor access, and
+structured acceleration programming. In FY24–25, SkyDeck facilitated approximately
+800 internships or job placements in Berkeley and reported annual supplier
+expenditures of about $1.5 million8. Skydeck provides both non-dilutive funding - such
+as sponsorships, grants and project-based funds - and dilutive funding. For example,
+SkyDeck’s provided $3.2 million in sponsorship and philanthropic funds to subsidize
+early-stage operating costs without requiring equity. It also supports startups’ market
+validation via industry, enterprise, and clinical partnerships.
+
+The UC-Berkeley Affiliated Startups in Berkeley
+
+Our review of the list of 400
+startups, provided by the
+Berkeley Startup Cluster,
+confirmed        that      148
+companies       have      clear
+affiliations     with       UC
+Berkeley’s I&E ecosystem.
+In addition, when surveys
+were distributed through
+university departments and
+entrepreneurship programs
+to reach affiliated startups
+directly,    34      additional
+startups were identified, bringing our total count to 182 UC Berkeley-affiliated startups
+that are based in the City of Berkeley.These companies operate across a diverse set
+of industries, with the largest concentrations in biotech, software, and cleantech.
+
+
+
+4. RESULTS - ECONOMIC IMPACT
+Because of the data constraints mentioned in the methodology section of this report, we
+must emphasize that the results should be interpreted not as a precise census of
+ecosystem activity, but as a directional benchmark for strategic planning and policy
+discussion. (See Appendix E for the modeling assumptions used.)
+
+
+
+
+8
+    Department survey.
+
+
+                                                                                       8
+​        ​       ​        ​        ​        ​        UC Berkeley Institute for Business Innovation
+
+
+City of Berkeley – Direct Economic Activity9
+
+The 22 startups we surveyed directly support 107 jobs in the city of Berkeley,
+generating approximately $23 million in annual payroll, implying an average salary
+of roughly $216,000. (A job is defined as full-time equivalent employees working two or
+more days per week within city limits.) This compensation level reflects the high-skill,
+high-value nature of innovation economy employment associated with UC
+Berkeley–affiliated startups.
+
+Survey responses reveal substantial heterogeneity in firm size and economic activity.
+This skewed structure is characteristic of startup ecosystems and motivates the
+distinction between anchor firms and long-tail firms, rather than reliance on simple
+averages. Detailed sample characteristics are provided in Appendix B.2.
+
+Applying the extrapolation framework described in Section 4.3, direct
+employment within the City of Berkeley is estimated to range between 516 and
+643 jobs, with corresponding annual payroll between $112.3 million and $138.5 million,
+and direct value added between $203.6 million and $249.6 million.
+
+Table 1: Executive Summary of Economic Impacts
+BERKELEY STARTUP ECOSYSTEM - IMPACT SUMMARY
+                                                Operational
+Metric                                          Survey impact Lower Extrap.     Higher Extrap.
+A. CITY OF BERKELEY (Direct Activity)
+Employment                                          10710              516               643
+Annual Payroll (Millions)                          $23.2011           $112.27          $138.46
+Value Added (Millions)                              $42.04            $203.57          $249.55
+B. REGIONAL FOOTPRINT (Alameda County - Total Impacts)
+Employment                                           220               1,061            1,319
+Annual payroll (Millions)                           $35.69            $172.38          $212.89
+Value Added (Millions)                              $63.22            $305.61          $375.70
+Output (Millions)                                   $93.37            $454.01          $558.31
+
+Source: IMPLAN Output and extrapolation.
+
+
+
+
+9
+  NB: For Key definitions see Appendix D.
+10
+   Full-time equivalent employees working ≥2 days/week in Berkeley.
+11
+   Total compensation to Berkeley-based workers.
+
+
+                                                                                                 9
+​      ​      ​       ​      ​       ​      UC Berkeley Institute for Business Innovation
+
+
+Regional Economic Footprint – Alameda County
+
+IMPLAN modeling estimates that the surveyed startups support 220 (direct, indirect and
+induced) regional jobs, of which roughly half (107/220) are physically located in
+Berkeley. Extrapolated results indicate total regional employment between 1,061 and
+1,319 jobs, as summarised in Table 1.
+
+The composition of these impacts is illustrated in the following breakdowns, with
+detailed numerical results provided in Appendix B.9.
+
+This breakdown illustrates that approximately half of total regional employment is physically
+located in Berkeley, while the remainder represents spillover effects across Alameda County.
+
+As Figure 3 illustrates, each job located in Berkeley supports an additional 1.05 jobs
+elsewhere in Alameda County, yielding a total employment multiplier of 2.05. In
+practical terms, every UC Berkeley-affiliated innovation industry job ultimately
+supports just over two regional jobs once supply-chain and household spending
+effects are considered.
+
+
+
+
+The labor income multiplier (1.54) is lower than the employment multiplier because it
+reflects wage differences. In contrast, the value added (1.50) and output (1.51)
+multipliers are similar to the income multiplier, as they primarily capture the same
+supply-chain linkages and spending patterns. These multipliers reflect both the
+high-wage, knowledge-intensive structure of Berkeley's startup ecosystem and the
+integrated nature of the Alameda County regional economy.
+
+
+
+
+                                                                                                10
+​       ​       ​       ​       ​        ​       UC Berkeley Institute for Business Innovation
+
+
+These regional results are consistent with the direct Berkeley impacts reported above
+and reinforce the scalable and regionally integrated nature of the Berkeley startup
+ecosystem.
+
+
+
+
+5. RESULTS - QUALITATIVE INSIGHTS
+Our interviews with founders of UC Berkeley-affiliated startups illuminated consistent
+trends on the key positive impacts that both these startups and Berkeley’s I&E
+programs have on the city of Berkeley’s economy. The positive reactions provided
+context for the high rating of 8.8, that survey respondents gave Berkeley as a place to
+grow their startup12. This supports the results produced by the quantitative economic
+impact model and reaffirms that I&E activity at UC Berkeley directly materially impacts
+Berkeley’s economy. Interviewees also gave suggestions that we grouped into three
+opportunities to increase the city of Berkeley’s attractiveness to new startups and
+maximize the positive impact of existing startups on the Berkeley community.
+
+
+I&E Impact on the Number of Startups in Berkeley
+
+The most direct impact of the I&E
+ecosystem is that startups are drawn to
+Berkeley as an attractive location to
+launch or grow. Many founders
+mentioned that the launch of their
+companies would not have been possible
+without the breadth of resources
+provided by the I&E ecosystem. A
+notable example of this is AgriSolar. This
+social impact startup, founded by UC
+Berkeley grad students, uses a
+revenue-sharing model to provide
+affordable,     solar-powered    irrigation
+systems to farmers in Africa. Agrisolar
+initially received small grants from the Haas School of Business before winning the
+
+
+12
+  UC Berkeley startup survey question, “On a scale of 0-10, with 0 being the least likely and 10 being the
+most likely, how likely are you to recommend Berkeley as a place to launch or grow a startup?” 34
+Respondents. Average rating: 8.8/10. Standard Deviation:1.4. % of respondents that rated Berkeley 10 of
+out 10: 48%.
+
+
+                                                                                                        11
+​     ​      ​      ​      ​      ​      UC Berkeley Institute for Business Innovation
+
+
+grand prize at the Big Ideas Contest held on campus. The $20,000 award allowed them
+to expand their operations (see photo to the right) in Berkeley.
+
+After receiving support from UC Berkeley to get their startups off the ground, founders
+who have obtained sufficient success to move their startups off campus often first
+look at office and lab space within the city of Berkeley because of their familiarity with
+the area and desire to continue leveraging the resources offered on campus. Azalea
+Therapeutics is one such example. Founded by Berkeley alum Jenny Hamilton, the
+Bakar Labs-based company engineers T cells to fight cancer. It has grown to 21
+employees after raising $82 million in Series A funding. Azalea is now moving into a
+larger space at Foundry 31, keeping its operations in Berkeley. This path illustrates how
+UC Berkeley’s support encourages growing startups to remain in the city and strengthen
+its biotech reputation.
+
+Qualitative Impacts of Startups Within Berkeley​
+Startups that choose to locate in Berkeley boost the local economy in several ways.
+They create new, high‑paying jobs, strengthen the local labor market, and increase
+employee spending at nearby businesses.
+
+Day‑to‑day operations also support Berkeley vendors. Many campus‑affiliated startups
+regularly buy food from local restaurants and rely on nearby suppliers for office
+products, printing, cleaning, and facilities services. These recurring purchases provide
+stable revenue for small and mid‑sized businesses and reinforce local supply chains.
+
+By leasing offices and laboratories in Berkeley, startups increase demand for
+commercial real estate and help sustain specialized facilities like Foundry 31 and
+Berkeley Commons. Their presence raises occupancy rates, supports rental income,
+grows the property‑tax base, and deepens the city’s innovation ecosystem as firms
+scale locally.
+
+UC Berkeley’s innovation and entrepreneurship ecosystem itself adds further economic
+value. Events hosted by Haas and other campus programs attract visitors who
+spend on dining, transportation, and local services, while engaging residents in the
+city’s economy. These visitors frequently stay in hotels within Berkeley, and therefore
+contribute directly to the city’s revenues by paying the 12 percent transit occupancy tax.
+
+Interview data underline these ties: in FY24–25, about 65% of Bakar Labs’ and 30%
+of SkyDeck’s procurement went to Berkeley‑based vendors. Regular spending at
+partners such as Noah’s Bagels, Sliver, Safeway, ACC Printers, and Slippery Fish
+Catering shows how campus entrepreneurship turns innovation momentum into direct
+economic activity in the surrounding community.
+
+
+                                                                                       12
+​         ​       ​       ​      ​       ​       UC Berkeley Institute for Business Innovation
+
+
+
+
+Opportunity #1: Space - Rental Rates &
+Accessibility
+
+       “Lots of people build really expensive bio
+      space, and these types of spaces price all
+         non-bio people out and we have to go
+     elsewhere” - Founder, a non-biotech startup.
+
+A common challenge for startups in Berkeley is
+the lack of affordable, appropriately sized
+laboratory and rental space. Many founders noted that the growth of biotech labs has
+increased competition for infrastructure, often at the expense of startups in other
+industries, such as hardware and robotics. These companies report difficulty finding
+space that meets specialized needs, as well as access to warehouse facilities and
+affordable truck services, limiting their ability to scale while remaining in Berkeley.
+Regardless, as Figure 4 demonstrates,
+Berkeley does not have a significant
+difference in rental rate compared to
+surrounding entrepreneurial cities.
+Using local posted prices for rental
+rates in each area, the average cost
+for Berkeley spaces was relatively
+lower for single benches and higher for
+large private spaces.13
+
+Even biotech startups face constraints,
+as large facilities like Berkeley
+Commons can take 12–18 months to
+customize — longer than most startups’ funding runways. Founders frequently cited
+South San Francisco, Emeryville, and Berkeley as long-term options, but trade-offs in
+cost, timelines, and convenience prevented consensus. While Berkeley’s collaborative
+culture is highly valued, high costs, regulatory complexity, and limited space often push
+startups to locate elsewhere despite the city’s strong innovation ecosystem.
+
+
+Opportunity #2: Reducing intangible costs - Safety & Administration ​
+The present uncertainty caused by public safety and street conditions, especially
+around Downtown Berkeley and BART stations, is a reason that led some founders to
+hesitate to start or renew leases.
+13
+     Findings aggregated from Bakar Labs, Bonneville Labs, Cushman Wakefield, & City of Berkeley
+
+
+                                                                                                   13
+​      ​      ​      ​      ​      ​      UC Berkeley Institute for Business Innovation
+
+
+While the Bay Area produces many unicorns, startups’ decisions to remain in Berkeley
+can be influenced by the surrounding urban environment. One program leader noted
+that employee perceptions of safety during commuting, office access, and late work
+hours may become a consideration over time. Despite Berkeley’s strong resources and
+community, day-to-day city conditions can factor into long-term location decisions.
+
+Streamlining access to regulatory and compliance information, such as through a
+Consolidated Regulatory Requirements Document, can improve the ease of doing
+business in Berkeley.
+
+For early-stage startups, small fees and administrative requirements can create
+meaningful burdens. Founders reported spending significant time navigating Berkeley’s
+licensing and permitting processes, and leaders from some programs noted that even
+modest fees or procedural complexity can influence location decisions. We believe
+these challenges relate more to administrative friction—such as timing and process
+complexity—than to the regulations themselves.
+
+Startups also cited difficulty identifying and navigating compliance requirements,
+particularly during early formation. A consolidated digital portal outlining permitting,
+licensing, and regulatory processes could reduce uncertainty, especially for
+laboratory-based startups facing hazardous waste requirements.
+
+Opportunity #3: Enabling Philanthropic Activities​
+When asked about contributing to local nonprofits or community initiatives, most
+startups reported limited past involvement but expressed strong interest, particularly in
+mentoring local students interested in entrepreneurship. A few founders cited
+volunteering with Berkeley Unified School District or UC Berkeley programs.
+
+A resource to support this
+interest already exists through
+the Berkeley Startup Cluster’s
+Berkeley Ventures, Berkeley
+Values (BV2) program, which
+provides a searchable list of
+local      organizations     for
+volunteering and donations.
+However,       most    founders
+interviewed were unaware of
+this resource.
+
+Increasing awareness represents a low-cost opportunity. Coordination between the City
+of Berkeley and innovation ecosystem leaders could improve visibility through incubator
+
+
+                                                                                        14
+​      ​      ​      ​      ​      ​      UC Berkeley Institute for Business Innovation
+
+
+postings, brief mentions at campus I&E events, and targeted email reminders—such as
+on Giving Tuesday—encouraging startups to engage when they are ready.
+
+
+
+
+6. CONCLUSIONS & CONSIDERATIONS
+While it may seem intuitive that UC Berkeley is a main driver of innovation and
+entrepreneurship in the City of Berkeley, this report is the first of its kind to assess the
+impact of the campus’s I&E and affiliated startups on the city. In our study, we identified
+the city-located startups that were affiliated with UC Berkeley and evaluated the
+ecosystem of campus I&E programs that support them from ideation to revenue
+generation. We then used surveys and subsequent analysis via IMPLAN to estimate the
+economic impact of startup activity on the City of Berkeley. Our results indicate that this
+activity has created 516 jobs and driven slightly more than $200 million of added
+value to the city’s economy.
+
+Moreover, conversations with startup founders, their employees, and leaders of campus
+I&E programs confirmed that UC Berkeley’s innovation activity positively impacts the
+city in multiple ways:
+    ➢​ Startups and I&E programs contribute directly to the local economy by
+        paying for the services of local restaurants, printing companies, and facility
+        maintenance professionals.
+    ➢​ Existing startups, along with their employees and funding, are drawn to the
+        Berkeley area because of the entrepreneurial and R&D resources that are
+        available on campus.
+    ➢​ Founders of successful on-campus startups often first look at office and lab
+        space within the City of Berkeley because of their familiarity with the area,
+        supporting the city’s commercial real estate market.
+    ➢​ The university connects the city to a large network of skilled professionals
+        and researchers, enhancing the reputation of Berkeley as an innovative hub and
+        drawing startups to Berkeley.
+    ➢​ Large conferences and events held by I&E programs draw in visitors who
+        support local restaurants and contribute to the city’s tax revenue through the 12
+        percent transit occupancy tax.
+
+
+Considerations for the City of Berkeley
+Our qualitative research unearthed several growth opportunities that we have
+condensed into four key recommendations for the City of Berkeley to consider
+incorporating into its innovation initiatives.
+
+
+                                                                                         15
+​      ​      ​      ​      ​      ​      UC Berkeley Institute for Business Innovation
+
+
+    ➢​ Improve perception of public safety: While the City of Berkeley has made
+       great strides in the last two years in reducing crime, in particular with commercial
+       burglaries decreasing significantly for the second straight year, many founders
+       we interviewed who left Berkeley cited safety concerns around downtown.
+       Continuing to make substantive progress on crime while also publicizing this
+       success could help to retain startups in the city.
+
+    ➢​ Partner with UCB to spread awareness of philanthropic opportunities: Many
+       UC Berkeley affiliated startups expressed interest in giving back to the
+       community but were unsure how to do so. Coordinating with campus I&E leaders
+       to promote programs such as the Berkeley Startup Cluster’s Berkeley Ventures,
+       Berkeley Values program could substantially increase community involvement.
+
+    ➢​ Streamline regulatory processes and information: A common difficulty
+       encountered by startups was finding relevant regulatory information to ensure
+       they were compliant with City of Berkeley policies. Improved visibility and direct
+       distribution of existing resources, such as the business license registration guide,
+       would increase awareness of relevant regulations among startups. Additionally,
+       creating a centralized online portal for permit and business license applications
+       would further ease compliance, reduce administrative burden, and potentially
+       improve startup retention and revenue for the city.
+
+    ➢​ Increase accessible short-term lease office and lab space: Actively seeking
+       out and incentivizing commercial spaces that are smaller and easily customizable
+       would directly address a challenge faced by many startups who struggle to find
+       affordable lab and office space that meets their technical needs. Current options
+       like the Berkeley Commons are too large and require too much time to customize
+       for startups that are time and funding constrained.
+
+Considerations for UC Berkeley
+UC Berkeley should also encourage startups from all industries to become involved in
+the I&E ecosystem on campus, but in particular promote supportive efforts for biotech
+and software through campus resources and programs.
+
+
+    ➢​ Invest in R&D: Strong areas for the innovation ecosystem leaders to invest in
+       include R&D, both through the university and in the surrounding areas focused
+       on climate, biotech, medtech, and applied research technologies to expand the
+       industrial base that the UC Berkeley-affiliated startups are nurturing in the city.
+
+    ➢​ Invest in short-term lease rental space for startups organized by Berkeley
+       professors, students, and network: To foster entrepreneurship and a
+
+
+                                                                                        16
+​      ​     ​      ​      ​     ​      UC Berkeley Institute for Business Innovation
+
+
+       commitment to startup culture, the university should emphasize room for
+       innovation by providing necessary space for those who are starting ventures from
+       Berkeley. This includes teams of students, faculty, professors, and even alumni.
+
+
+Considerations for Future Studies
+Finally, over the course of our research we also encountered some important questions
+that were outside the scope of this report but may be useful for future researchers to
+consider when examining innovation at UC Berkeley or the City of Berkeley:
+
+    ➢​ Why are some startups investing in Emeryville or Oakland based vendors instead
+       of Berkeley vendors for services such as catering and housing?
+    ➢​ How do biotech versus non-biotech startups benefit from UC resources?
+    ➢​ Are there startups from a specific industry that are moving to Berkeley and/or
+       staying permanently?
+    ➢​ What neighborhoods within Berkeley are most attractive to startups? Does this
+       vary by industry?
+    ➢​ How do founders of the recent surge of AI startups view being based in Berkeley
+       compared to other Bay Area cities, such as San Francisco?
+    ➢​ What percentage of federal and state taxes paid by startups reenters the local
+       Berkeley economy in the forms of grants, subventions, and welfare distributions
+       to Berkeley residents?
+    ➢​ When startups leave Berkeley, what are the most common places they relocate
+       to, both in the Bay Area or elsewhere?
+
+
+
+
+                                                                                    17
+​        ​     ​      ​      ​     ​      UC Berkeley Institute for Business Innovation
+
+
+
+7. Appendix - Table of Contents
+
+
+   I.​   Appendix A ​ Surveys
+  II.​   Appendix B​ IMPLAN Modeling Framework and results
+ III.​   Appendix C​ Methodology for extrapolating survey results to startup population
+ IV.​    Appendix D​ Key Definitions
+  V.​    Appendix E​ Tax Impact Interpretation and Limitations
+ VI.​    Appendix F Analysis Limitations and Needs
+VII.​    Appendix G​ Methodology Learnings for Future Studies
+VIII.​   Appendix H​ Full list of UC Berkeley-affiliated startups
+
+
+
+
+                                                                                          18
+​      ​      ​      ​      ​      ​      UC Berkeley Institute for Business Innovation
+
+
+Appendix A: Surveys
+
+Startup Survey
+
+These are the survey questions to collect information from UC Berkeley-affiliated
+startups.
+
+    1.​ Email address
+    2.​ What is your company's name?
+    3.​ In which of the following ways is your company connected to Berkeley, CA?​
+        (Select all that apply.)
+            ○​ I run my business out of a space on UC Berkeley’s campus or another
+               UCB-owned building.
+            ○​ I own or lease a Berkeley space (e.g., office, lab, workshop, etc.)
+               off-campus.
+            ○​ I live in Berkeley and work from my home.
+            ○​ I have no physical space in Berkeley but use a Berkeley business address
+               (PO Box, accelerator address, etc.).
+            ○​ Members of my company in leadership positions work in Berkeley, but I do
+               not.
+            ○​ I studied or worked at UC Berkeley, but don’t do business in Berkeley
+               anymore.
+            ○​ Other:
+    4.​ If you have a work presence in Berkeley, what is/are your address(es)?​
+        (Address, City, ZIP Code)
+    5.​ How many Full-Time Equivalent (FTE) employees does your company currently
+        employ in total?​
+        (Please exclude short-term contractors/interns unless they work with you on a
+        long-term, ongoing basis and you consider them part of your core team.)
+    6.​ How many FTE work in Berkeley 2 or more days per week?
+    7.​ Approximately how much would it cost annually to hire your next five employees?​
+        (Please estimate the fully loaded annual cost (salary + benefits) for the next five
+        roles you expect to hire.)
+    8.​ Approximately how much does your company pay annually to suppliers/vendors
+        across all locations?
+            ○​ Less than $10k
+            ○​ Between $10k and $49k
+            ○​ Between $50k and $99k
+            ○​ Between $100k and $249k
+            ○​ Between $250k and $499k
+            ○​ Over $500k
+
+
+                                                                                        19
+​      ​      ​      ​      ​      ​      UC Berkeley Institute for Business Innovation
+
+
+    9.​ Approximately how much funding has your company raised in the last fiscal year
+        (inclusive of grants, equity funding, and debt financing)?​
+        (Note: All responses will be kept confidential.)
+    10.​Approximately how much did your company spend on capital expenditure in the
+        past fiscal year?​
+        (Please include equipment purchases, fit-out of office or lab space, facility
+        upgrades, and large one-time investments in product development or
+        infrastructure. Please do not include regular operating expenses such as
+        salaries, rent, utilities, or routine software subscriptions.)
+    11.​Has your business contributed to community or non-profit organizations in
+        Berkeley (financial contributions, volunteer hours, mentorship programs, etc.)? If
+        so, please describe.
+    12.​On a scale of 0–10, with 0 being the least likely and 10 being the most likely, how
+        likely are you to recommend Berkeley as a place to launch or grow a startup?​
+        (0–10 scale options provided.)
+    13.​Would you be willing to speak with someone to share more about your
+        company’s Berkeley operations and local impacts? If so, please provide your
+        preferred contact information for us to schedule a call.
+    14.​Optional: Do you have any ideas or recommendations on how the City of
+        Berkeley could be more accommodating to support the success of startups
+        located within the city?
+
+
+
+I&E Program Survey
+
+    1.​ Department/Unit Name
+    2.​ List the program(s) covered in this response
+    3.​ Primary contact name
+    4.​ Primary contact email address
+    5.​ Fiscal Year reported: set to FY24/25
+    6.​ Headcount (all) - Number (integer). Total count including part-time appointments
+        (any %)
+    7.​ Personnel FTE- Number (decimal), sum of FTE across personnel.
+    8.​ Budget (Total, $), Include all fund types you directly manage.
+    9.​ Payroll (Total, $) - Gross wages paid by your unit.
+    10.​Purchasing - local spending (Berkeley Vendors, $)
+    11.​Purchasing - Total (all vendors, $) - Total payments to all vendors
+    12.​If local vendor spend is unknown, estimate the % of total purchasing likely within
+        Berkeley (Percentage)
+    13.​Revenues - Grants ($), Sponsored research and grants.
+
+
+                                                                                         20
+​      ​      ​      ​     ​      ​      UC Berkeley Institute for Business Innovation
+
+
+    14.​Revenues - Gifts/Sponsorships ($), Philanthropy and corporate sponsorships
+    15.​Revenues - Program Fees ($), Tuition/enrollment fees/event registration.
+    16.​Revenues - IP/Licensing/Royalties ($) - Licensing revenue attributable to your
+        unit.
+    17.​Programs - workshops (#) - Distinct training sessions delivered.
+    18.​Programs - Cohorts/accelerators (#) - Number of formal cohort-style programs
+        run.
+    19.​Programs - Participant count (#) - Total participants served across
+        trainings/programs
+    20.​ Startups launched in FY - New entities formed by participants in the year.
+    21.​Internships/Jobs placed in Berkeley (#)
+    22.​What share of your staff/students likely live in Berkeley (%)?
+    23.​Notable Berkeley-based vendors or partners (list)
+    24.​May we follow up to clarify responses? Yes/No
+
+
+
+
+Appendix B: IMPLAN Modeling Framework
+
+B.1 Modeling Objective
+
+IMPLAN was used to estimate the economic impacts generated by Berkeley-affiliated
+startups through employment, supplier spending, and household consumption effects.
+The analysis focuses on operational activity and reports impacts as the combined effect
+of direct, indirect, and induced channels.
+
+Because survey responses were obtained from 34 firms out of an identified ecosystem
+of 182 startups, modeled results represent verified observed impacts that later serve as
+the empirical foundation for ecosystem extrapolation.
+
+B.2 Data Preparation
+
+Survey responses were cleaned and standardized prior to modeling. The following
+variables were extracted for IMPLAN input:
+
+    ●​ Berkeley FTE: Employees working two or more days per week in Berkeley,
+       modeled as full-time equivalent employment.
+    ●​ Vendor spending: Ongoing operational expenditures, modeled as Industry
+       Output.
+    ●​ IMPLAN sector assignment: Each firm was manually assigned to an IMPLAN
+       sector based on primary business activity.
+
+
+                                                                                         21
+​            ​     ​         ​         ​    ​         UC Berkeley Institute for Business Innovation
+
+
+      ●​ Tax compliance status: Presence or absence of a Berkeley business license.
+
+Firms with no verified local operating presence were excluded. Duplicate survey entries
+were consolidated. An internal sector crosswalk was maintained to ensure transparency
+and replicability, recognizing that many startups span hybrid software, research, and
+professional service activities.
+
+Survey Sample Characteristics
+
+The 22 modeled firms exhibit substantial heterogeneity typical of early-stage startup
+ecosystems:
+
+Table B.2-1: Descriptive Statistics of Survey Sample (22 firms)
+
+    Metric             Min       Max       Mean          Std. Dev.   CV     Interpretation
+
+    Berkeley FTE       0         33        3.1           6.8         2.19   High variance indicates presence of
+                                                                            anchor firms alongside small
+                                                                            startups
+
+    Total FTE          0         100       9.9           20.0        2.02   Suggests heavy-tailed firm size
+                                                                            distribution
+
+    Vendor             <$10K     >$500K    $181,406      $226,756    1.25   Right-skewed distribution typical of
+    Spending                                                                early-stage ecosystems
+
+    Capital            $0        $5M       $224,359      $910,678    4.06   Extremely high variance reflects
+    Expenditure                                                             episodic, firm-specific investment
+                                                                            patterns
+
+
+Coefficient of Variation (CV) = Standard Deviation / Mean
+
+Key Observations:
+
+      1.​ High coefficients of variation (CV > 1.0 for all metrics) confirm heavy-tailed
+          distributions and validate the segmented extrapolation approach (Appendix C)
+          over simple linear scaling.
+      2.​ FTE ratio (Total FTE / Berkeley FTE ≈ 3.2) suggests firms employ approximately
+          2.2 additional workers outside Berkeley for every Berkeley-based employee,
+          consistent with distributed workforce patterns in tech and R&D sectors.
+      3.​ CapEx variability (CV = 4.06) validates the decision to exclude capital investment
+          from extrapolation framework, as the extreme variance makes averaging
+          inappropriate for ecosystem-wide estimates.
+
+
+
+
+                                                                                                          22
+​      ​     ​      ​      ​      ​      UC Berkeley Institute for Business Innovation
+
+
+B.3 Firm Inclusion Rules
+
+Each firm was classified into one of three modeling categories:
+
+    ●​ Include (Employment + Output): Firms reporting Berkeley-based FTE and
+       vendor spending (17 firms). Modeled using both Industry Employment and
+       Industry Output events.
+    ●​ Output-only: Firms without Berkeley FTE but with verified local vendor spending
+       or lab/office activity (5 firms). Modeled using Industry Output only.
+    ●​ Exclude: Firms reporting no local employment, no identifiable local operational
+       or capital activity, or inconsistent survey responses (12 firms). Not modeled.
+
+This classification avoids double counting and ensures that impacts reflect verified
+Berkeley-based economic activity.
+
+B.4 IMPLAN Event Structure
+
+Two operational IMPLAN event types were applied:
+
+    ●​ Industry Employment: Berkeley-based workers.
+    ●​ Industry Output: Ongoing vendor spending.
+
+Vendor spending followed IMPLAN’s default regional purchasing assumptions. Because
+early-stage startups often procure specialized services outside the immediate region,
+indirect effects may be modestly overstated. This limitation is addressed in the
+interpretation section and motivates future sensitivity analysis.
+
+B.5 Geography and Commuting
+
+IMPLAN modeling was conducted at the Alameda County geographic level due to
+dataset resolution constraints. Although employment inputs were localized to
+Berkeley-based workers, induced household spending and supplier linkages were
+allocated across the broader Alameda County regional economy.
+
+Accordingly, induced effects should be interpreted as regional spillovers generated by
+Berkeley-based startup activity rather than spending confined strictly within city
+boundaries.
+
+B.6 Scenario Structure for Observed Firms
+
+Two operational scenarios were constructed:
+
+
+
+
+                                                                                         23
+​        ​    ​       ​       ​           ​   UC Berkeley Institute for Business Innovation
+
+
+     ●​ Scenario A - Compliant Firms: Only firms with verified Berkeley business
+        licenses.
+     ●​ Scenario B - All Surveyed Firms: All modeled firms regardless of tax
+        compliance.
+
+The difference between these scenarios provides an indicative tax exposure gap.
+However, IMPLAN tax results reflect sectoral averages and should not be interpreted as
+literal unpaid obligations.
+
+The distinction between Scenario A (Compliant) and Scenario B (All Firms) is relevant
+only for fiscal impact interpretation (see Appendix E). All extrapolation ranges in the
+main report (Table 1) are based exclusively on Scenario B operational impacts and do
+not differentiate by compliance status.
+
+IMPLAN tax estimates represent modeled tax incidence based on sectoral averages
+rather than verified municipal collections. For interpretive context, future work should
+compare IMPLAN sub-county general tax estimates with reported City of Berkeley
+business license revenues and proportional sales tax collections to better align modeled
+incidence with observable revenue streams.
+
+B.7 Capital Expenditure Modeling
+
+Reported capital investments were modeled using IMPLAN’s Institutional Spending
+Pattern for Capital Formation.
+
+This pattern distributes investment across construction, equipment manufacturing,
+installation services, and professional services using standard investment profiles.
+Regional purchasing coefficients reflect that construction and installation are primarily
+local, while specialized equipment is often sourced nationally.
+
+Table 2: Regional Economic Footprint of Capital Investment14 - Alameda County
+
+                          CapEx survey        Operational
+Metric                    impact*             Survey impact
+
+                                   20              220
+Employment
+                                  $2.26           $35.69
+Labor Income (Millions)
+
+Value Added (Millions)            $3.38           $63.22
+
+Output (Millions)                 $5.87           $93.67
+
+
+14
+  Capital investment impacts should be interpreted as one-time investment-related effects
+rather than as recurring annual contributions to the regional economy.
+
+
+                                                                                            24
+​        ​      ​         ​       ​           ​   UC Berkeley Institute for Business Innovation
+
+
+
+
+Table 3: Survey Economic Impacts of Capital Investment15 - City of Berkeley (Direct
+impacts)
+
+                              CapEx survey        Operational
+Metric                        impact*             Survey impact
+
+
+Jobs in Berkeley                       13              107
+
+Annual Payroll (Millions)             $1.61           $23.20
+Value Added (Millions)*               $4.10           $61.84
+
+
+B.8 Interpretation of Observed Results​
+IMPLAN results demonstrate that even a subset of Berkeley-affiliated startups
+generates meaningful employment, income, output, and fiscal effects. However, results
+likely understate the ecosystem’s full footprint due to:
+
+     ●​ Non-responding firms,
+     ●​ Conservative local purchasing assumptions,
+     ●​ Separate treatment of capital investment,
+     ●​ Geographic leakage of household spending.
+
+Conversely, some indirect effects may be modestly overstated where startups rely on
+specialized non-local vendors.
+
+The observed results therefore serve as a verified baseline rather than a full accounting
+of Berkeley’s innovation economy.
+
+B.9 IMPLAN Results
+Scenario A: COMPLIANTS​
+
+Taxation Operational impact
+                          Sub County
+               Sub County Special
+Impact         General    Districts  County                    State           Federal         Total
+1 - Direct          $111,558          $107,066      $65,208        $776,954       $2,366,798      $3,427,584
+2 - Indirect         $44,279           $42,398      $25,821        $224,885         $706,580      $1,043,963
+3 - Induced          $78,778           $74,930      $45,627        $214,079         $423,580           $836,993
+Total               $234,614          $224,395     $136,656       $1,215,917      $3,496,958      $5,308,540
+
+15
+
+
+
+
+                                                                                                       25
+​        ​      ​       ​        ​          ​        UC Berkeley Institute for Business Innovation
+
+
+Scenario B: ALL FIRMS (Survey)
+
+Operational economic impact
+Impact              Employment        Labor Income            Value Added              Output
+1 - Direct                      107             $23,195,196              $42,040,713              $61,836,344
+2 - Indirect                    59               $8,074,557              $12,756,443              $19,120,691
+3 - Induced                     54               $4,418,096               $8,422,860              $12,417,396
+Total                           220             $35,687,849              $63,220,016              $93,374,431
+
+Taxation: Operational impact
+                                Sub County
+               Sub County       Special
+Impact         General          Districts           County        State              Federal         Total
+1 - Direct           $227,928         $218,956         $133,357      $1,575,137         $5,094,475           $7,249,853
+2 - Indirect         $105,232         $100,752          $61,359           $518,879      $1,642,864           $2,429,085
+3 - Induced          $176,209         $167,603         $102,057           $478,835        $947,411           $1,872,115
+Total                $509,370         $487,311         $296,773      $2,572,851         $7,684,749       $11,551,054
+
+Economic impact: CAPEX
+Impact          Employment                  Labor Income                 Value Added            Output
+1 - Direct                             13                $1,609,254             $2,242,258                    $4,102,734
+2 - Indirect                            4                     $379,842            $633,094                    $1,014,111
+3 - Induced                             3                     $266,760            $508,562                        $749,741
+Total                                  20                $2,255,856             $3,383,914                    $5,866,586
+
+
+
+
+Appendix C: Extrapolation Framework
+
+C.1 Purpose
+
+Because only a subset of Berkeley-affiliated startups provided usable survey data, an
+extrapolation framework was developed to approximate ecosystem-wide economic
+impacts. The objective is not to produce a census estimate, but to generate a
+defensible, evidence-based impact range grounded in observed data and transparent
+assumptions.
+
+
+
+                                                                                                             26
+​      ​       ​       ​        ​      ​    UC Berkeley Institute for Business Innovation
+
+
+C.2 Conceptual Structure
+
+Startup ecosystems do not follow linear or normal distributions. Empirical evidence
+consistently shows that innovation systems exhibit heavy-tailed behavior, where a small
+number of firms account for a disproportionate share of employment, output, and value
+creation.
+
+To reflect this structure, the extrapolation framework adopts a two-segment model:
+
+    ●​ Anchor firms: large, high-employment startups treated as directly observed.
+    ●​ Long-tail firms: the broader population of smaller startups representing the
+       typical ecosystem participant.
+
+Accordingly, the methodology:
+
+    1.​ Treats anchor firms as directly observed and not subject to scaling.
+    2.​ Models the remaining firms as a long tail.
+    3.​ Scales only the long tail to the full ecosystem.
+    4.​ Recombines anchors and extrapolated tail to estimate total ecosystem impacts.
+
+This structure preserves the empirical distribution of firm sizes and avoids distortions
+caused by linear averaging.
+
+C.3 Relevant Populations
+
+
+Category                                   Count    Description
+
+                                                    All verified startups linked to
+Identified startup ecosystem               182      Berkeley
+                                                    Firms providing usable
+Survey respondents                         34       responses
+Firms with verifiable local activity                Firms with verifiable Berkeley
+(modeled in IMPLAN)                        22       activity
+Firms excluded from modeling               12       No confirmed Berkeley footprint
+
+Firms excluded from IMPLAN modeling because of insufficient local activity data remain
+included in the ecosystem population count under the assumption that they represent
+legitimate but currently low-activity or early-stage ventures. Excluding these firms from
+the extrapolation base would risk understating the true ecosystem size.
+
+Within the 22 modeled firms:
+
+    ●​ Anchor firms: 2 firms (≥20 Berkeley FTE)
+
+
+                                                                                           27
+​        ​    ​     ​      ​      ​      UC Berkeley Institute for Business Innovation
+
+
+    ●​ Observed tail firms: 20 firms
+
+Thus, the ecosystem long-tail population equals:
+
+181=182−2
+
+C.4 IMPLAN Inputs for Extrapolation
+
+To isolate long-tail behavior, IMPLAN was re-run excluding the two anchor firms. The
+resulting tail-only operational impacts were:
+
+
+                                  Tail-only Impact City of    Tail-only Impact Alameda
+Metric                            Berkeley (Direct impacts)   County
+Employment                                    51                           104
+Labor Income                                $11.06                    $16,980,329
+Value Added                                 $20.07                     $30,110,309
+Output                                                                $44,799,580
+Taxes Sub county General Direct                                         $106,084
+
+These values constitute the empirical foundation for extrapolation.
+
+C.5 Scenario-Based Extrapolation Framework​
+Because startup ecosystems exhibit structural uncertainty and heavy-tailed dynamics, a
+scenario-based framework was adopted. Rather than producing a single estimate, two
+complementary scenarios define an evidence-based impact range.
+
+Both scenarios rely on identical IMPLAN results for observed firms and differ only in
+how the unobserved portion of the ecosystem is treated.
+
+C.6 Scenario 1: Conservative Lower Bound       ​
+Scenario 1 assumes that the observed long-tail firms are fully representative of the
+broader ecosystem and applies linear scaling without additional power-law correction.
+
+In this scenario:
+
+    ●​ Anchor firms are treated as directly observed and are not scaled.
+    ●​ Only the long-tail sample is extrapolated.
+    ●​ No additional contribution from unobserved high-performing firms is assumed.
+
+Tail Scaling Factor: Tail Factor=181/20=9.05
+
+
+                                                                                         28
+​        ​       ​   ​      ​        ​      UC Berkeley Institute for Business Innovation
+
+
+This factor is applied exclusively to long-tail operational impacts.
+
+Scenario 1 results: Lower extrapolation.
+
+CITY OF BERKELEY IMPACTS (Direct) - Lower extrapolation
+                                                       Ecosystem Observed       Total
+Metric               Tail (IMPLAN)         Tail factor tail - Direct anchors    ecosystem
+Jobs in Berkeley                51            9.05        460           56         516
+Annual Payroll
+(Millions)                 $11.06             9.05      $100.13        $12.13    $112.27
+Value Added
+(Millions)                 $20.07             9.05      $181.59        $21.98    $203.57
+
+
+
+
+REGIONAL ECONOMIC FOOTPRINT (Alameda County) - Lower extrapolation
+                                                     Ecosystem    Observed      Total
+Metric               Tail (IMPLAN)       Tail factor tail         anchors       ecosystem
+Employment                  104             9.05         945            116        1061
+Labor Income
+(Millions)                $16.98            9.05       $153.67         $18.71    $172.38
+Value Added
+(Millions)                $30.11            9.05       $272.50         $33.11    $305.61
+Output (Millions)         $44.80            9.05       $405.44         $48.57    $454.01
+Sub county
+general direct             $0.11            9.05        $0.96          $0.12      $1.08
+Sub county
+general total              $0.24            9.05        $2.19          $0.27      $2.45
+
+
+Scenario 1 therefore represents a conservative lower bound of ecosystem impact.
+
+C.7 Scenario 2 — Realistic Power-Law Adjustment
+
+Rationale
+
+Scenario 2 accounts for the empirical reality that startup ecosystems follow highly
+skewed size distributions. Under such distributions, high-impact firms are systematically
+underrepresented in limited survey samples.
+
+
+
+
+                                                                                           29
+​      ​      ​     ​      ​      ​         UC Berkeley Institute for Business Innovation
+
+
+Scenario 2 augments Scenario 1 by statistically estimating the expected contribution of
+unobserved high-impact firms (“missing top outcomes”) using Monte Carlo simulation.
+
+Total ecosystem impact is therefore:
+
+
+
+
+C.8 Statistical Estimation of Missing Top Firms
+
+Dataset Preparation
+
+Firm-level Berkeley employment was extracted for all startups with positive FTE. Firms
+with zero FTE were excluded from the statistical fit.
+
+Lognormal Transformation
+
+Employment values were transformed: LN_FTE= ln(FTE_inBerkeley)
+
+Distribution parameters were estimated:
+
+    ●​ μ=mean(LN_FTE)
+    ●​ σ=std_dev(LN_FTE)
+
+Given the limited number of observations, formal goodness-of-fit tests lack sufficient
+power to reliably validate the distributional assumption. Therefore, the lognormal
+specification is adopted based on well-established empirical evidence in the literature
+on firm size and startup growth patterns (See Appendix B.2).
+
+Monte Carlo Simulation
+
+Using the fitted lognormal distribution, Monte Carlo simulation generated synthetic firm
+employment values for a population of 182 startups.
+
+Each iteration:
+
+    ●​ Generated 182 firms,
+    ●​ Ranked firms by employment,
+    ●​ Recorded anchor-scale firms (≥20 FTE),
+    ●​ Recorded top 3-10 firm sizes.
+
+A total of 300 iterations were performed.
+
+C.9 Sectoral Allocation of Missing-Top Firms
+
+
+                                                                                          30
+​      ​      ​      ​      ​      ​      UC Berkeley Institute for Business Innovation
+
+
+Observed high-employment firms are concentrated in:
+
+    ●​ Software Publishing (IMPLAN 410)
+    ●​ Scientific R&D Services (IMPLAN 446)
+​
+These sectors represent the upper tail of Berkeley's startup ecosystem and serve as the
+basis for allocating missing-top employment. The two anchors of the sample are from
+each one of the industries mentioned above.
+
+Sensitivity Analysis and Scenario Averaging​
+Because the "true" sectoral composition of unobserved high-performers is unknown, a
+scenario-based averaging approach was adopted to avoid arbitrary allocation decisions.
+
+The Monte Carlo simulation estimated 127 missing-top jobs (mean) that were not
+captured in the survey. Rather than assigning these jobs to a single sectoral allocation,
+three plausible scenarios were modeled separately in IMPLAN and then averaged.
+
+Each scenario was modeled independently in IMPLAN using Industry Employment
+events. The resulting economic impacts (employment, labor income, value added,
+output) were then averaged across the three scenarios to produce the final missing-top
+contribution used in Scenario 2.
+
+C.10 Integration with IMPLAN​
+Missing-top employment was modeled as Industry Employment events in IMPLAN
+across three sectoral allocation scenarios.
+
+Each scenario produced a full set of economic impacts (direct, indirect, induced effects).
+Integration Process:
+
+1. Run IMPLAN for each scenario:
+
+    ●​ Scenario 1: 77 FTE in IMPLAN 410 + 50 FTE in IMPLAN 446.
+    ●​ Scenario 2: 50 FTE in IMPLAN 410 + 77 FTE in IMPLAN 446.
+    ●​ Scenario 3: 64 FTE in IMPLAN 410 + 63 FTE in IMPLAN 446 2.
+
+2. Extract total impacts (direct + indirect + induced) for each scenario
+
+3. Calculate average across the three scenarios for:
+
+    ●​ Total Employment
+    ●​ Labor Income
+    ●​ Value Added
+    ●​ Output
+
+
+                                                                                        31
+​        ​      ​        ​    ​          ​      UC Berkeley Institute for Business Innovation
+
+
+C.11 Scenario 2 Results: Higher extrapolation
+
+CITY OF BERKELEY IMPACTS (Direct) - Higher extrapolation
+                                                               Observe Missing-t Total
+                             Tail            Tail     Ecosyste d       op        ecosyste
+Metric                       (IMPLAN)        factor   m tail   anchors add-on m
+Jobs in Berkeley                   51          9.05      460        56       127       643
+Annual Payroll (Millions)         $11.06       9.05     $100.13   $12.13    $26.19   $138.46
+Value Added (Millions)            $20.07       9.05     $181.59   $21.98    $45.98   $249.55
+
+
+
+
+REGIONAL ECONOMIC FOOTPRINT (Alameda County) - Higher extrapolation
+                                                               Observe Missing-t Total
+                             Tail            Tail     Ecosyste d       op        ecosyste
+Metric                       (IMPLAN)        factor   m tail   anchors add-on m
+Employment                         104         9.05      945       116       258      1319
+Labor Income (Millions)           $16.98       9.05     $153.67   $18.71    $40.51   $212.89
+Value Added (Millions)            $30.11       9.05     $272.50   $33.11    $70.09   $375.70
+Output (Millions)                 $44.80       9.05     $405.44   $48.57   $104.30   $558.31
+
+Scenario 2 represents the central, most realistic estimate.
+
+
+C.12 Interpretation and Limits​
+Both scenarios represent structured approximations rather than a census. Remaining
+uncertainties include:
+
+    ●​ Non-response bias,
+    ●​ Firm churn,
+    ●​ Verification limits,
+    ●​ Non-extrapolated capital investment,
+    ●​ Residual power-law variation.
+
+
+
+
+                                                                                             32
+​      ​       ​      ​       ​       ​      UC Berkeley Institute for Business Innovation
+
+
+
+Appendix D: Key Definitions
+The economic impact model outlined below uses the terms set by IMPLAN, and in order
+to correctly interpret the outputs, it is necessary to understand the exact meaning and
+implications of the terms Value Added and Output. The definitions for both of these
+terms as described by IMPLAN are outlined below16.
+
+D.1 Value Added
+The total market value of all final goods and services produced within a region in a
+given year. Value Added is also a measure of an Industry's production, but with the
+costs of Intermediate Inputs removed. Value Added represents the incomes that are
+generated by production. Value Added can be measured in two different ways, both of
+which will produce the same results. It can either be measured by subtracting the cost
+of Intermediate Inputs from an Industry's total Output or by summing each Industry's
+payments to the components of Value Added: Labor Income (LI), Other Property
+Income (OPI), and (TOPI). In effect, Value Added represents the contribution of the
+Industry to the economy.
+
+D.2 Output
+A measure of the total value of all goods produced. Value Added is a subset of Output
+and is a useful measure of wealth created by an economy. An Industry buys goods and
+services from other Industries and remanufactures those goods and services to create a
+product of greater value (Output) than the sum of the goods that goes into its product
+(Intermediate Inputs). That increase in value is the value that the producer adds to the
+inputs as a result of the production process. This added value is then used to pay labor
+and taxes with hopefully some remainder for profit.
+
+
+
+
+16
+  These definitions and graphic are drawn directly from IMPLAN and can be found at
+https://support.implan.com/hc/en-us/articles/360025171053-Output-Value-Added-and-Double-Counting
+
+
+                                                                                                   33
+​      ​     ​      ​      ​      ​      UC Berkeley Institute for Business Innovation
+
+
+See the figure below for a visual representation of what is included in each term.
+
+
+
+
+Appendix E: Tax Impact Interpretation and Limitations
+
+E.1 Nature of IMPLAN Tax Estimates​
+IMPLAN tax outputs represent modeled tax incidence, not verified tax collections. Tax
+estimates are calculated using sector-average effective tax rates applied to modeled
+labor income, production, and consumption flows. As a result, IMPLAN tax results
+reflect the distribution of tax burdens across levels of government rather than actual
+payments made by individual firms.
+
+Tax categories reported by IMPLAN include:
+
+    ●​ Sub-County General
+    ●​ Sub-County Special Districts
+    ●​ County
+    ●​ State
+    ●​ Federal
+
+These categories combine multiple tax instruments such as sales and excise taxes,
+property-related taxes, income taxes, payroll-related taxes, and selected
+business-related fees.
+
+Accordingly, IMPLAN tax results should not be interpreted as direct fiscal revenues
+collected by any specific jurisdiction.
+
+
+
+                                                                                      34
+​      ​      ​      ​      ​      ​     UC Berkeley Institute for Business Innovation
+
+
+E.2 City of Berkeley Interpretation​
+This modeling includes all 22 firms with verifiable Berkeley economic activity regardless
+of business license status. This approach captures the fiscal incidence associated with
+actual economic activity, not verified tax compliance.
+
+The tax estimates below reflect modeled tax incidence based on economic activity
+(employment, payroll, spending). They should be interpreted as:
+
+    ●​ Potential fiscal contribution if all firms were compliant.
+    ●​ Economic activity scale for policy planning purposes.
+    ●​ NOT actual verified tax payments to the City of Berkeley.
+
+Because only 2 of 22 modeled firms had verified business licenses, actual municipal tax
+collections are likely substantially lower than modeled estimates.
+
+Methodological Choice: All Economic Activity vs. Verified Compliance
+This appendix reports tax incidence based on Scenario B (All Firms) to capture the
+fiscal scale associated with observed economic activity. However, it is critical to
+distinguish:
+    ●​ Modeled tax incidence: $228K direct (all 22 firms with economic activity).
+    ●​ Verified compliant contribution: ~$112K direct (2 firms with licenses).
+    ●​ Non-verified activity: ~$116K direct (20 firms without verified licenses).
+
+The $116K difference should NOT be interpreted as:
+   ●​ Unpaid taxes or tax evasion.
+   ●​ Recoverable municipal revenue.
+   ●​ Evidence of intentional non-compliance.​
+
+It may reflect:
+    ●​ Early-stage firms not yet meeting licensing thresholds.
+    ●​ Administrative delays in license processing.
+    ●​ Firms operating remotely with only UC Berkeley affiliation.
+    ●​ Legitimate exemptions from certain license requirements.
+    ●​ Actual non-compliance (unknown proportion)
+
+For fiscal planning and budgeting, the verified compliant figure ($112K) represents the
+most conservative estimate. For economic development analysis, the total economic
+activity figure ($228K) provides a more complete picture of startup ecosystem fiscal
+footprint.
+
+
+
+
+                                                                                          35
+​        ​   ​      ​      ​      ​       UC Berkeley Institute for Business Innovation
+
+
+Geographic Attribution of Tax Incidence: Because IMPLAN models economic impacts at
+the Alameda County level, indirect and induced effects (and their associated tax
+incidence) are distributed across multiple municipalities within the county. Only the
+direct component of Sub-County General taxes can be reasonably attributed to
+Berkeley, as direct impacts reflect economic activity physically occurring within city
+limits.
+
+             Sub County General
+Impact       (Scenario B, All firms) Geographic Attribution
+                                      Primarily City of Berkeley (Only ~$112K from verified
+Direct              $227,928          compliant firms)
+Indirect            $105,232          Regional suppliers (distributed across county)
+                                      Regional household spending (distributed across
+Induced             $176,209          county)
+Total               $509,369          Alameda County (multiple jurisdictions)
+
+
+The direct Sub-County General tax incidence of approximately $228,000 represents the
+most defensible proxy for Berkeley-attributable municipal tax contribution from surveyed
+startups. This figure captures taxes directly associated with:
+
+    ●​ Berkeley-based employment (payroll-related taxes).
+    ●​ Berkeley business operations (business license fees, property tax on occupied
+       space).
+    ●​ In-city purchases and transactions.
+
+The indirect ($105K) and induced ($176K) components, totaling $281K, represent tax
+incidence distributed across other Alameda County municipalities where supplier
+activities and household spending occur.
+
+Only 2 of the 22 modeled firms had verified Berkeley business licenses. Based on
+Scenario A (compliant firms), these 2 firms account for approximately $112,000 of the
+$228,000 direct tax incidence, suggesting that verified compliant contribution represents
+roughly 49% of total modeled direct taxes.
+
+This represents economic activity from 22 modeled firms. Extrapolating to the full
+ecosystem using the same methodology applied to employment and output:
+
+
+
+
+                                                                                              36
+​        ​       ​   ​        ​        ​        UC Berkeley Institute for Business Innovation
+
+
+Estimated Berkeley-Attributable Municipal Tax Incidence:
+                                  Direct Sub-County
+Scenario                          General
+Survey                                     $227,928
+Lower extrap.                          $1,081,000
+Higher extrap.                         $1,357,000
+
+
+Even this refined estimate reflects modeled sectoral averages, not actual Berkeley tax
+collections. IMPLAN cannot distinguish between:
+
+    ●​ Business license fees vs. other local taxes.
+    ●​ Sales tax (city share) vs. property tax vs. utility users tax.
+    ●​ Compliant vs. non-compliant firms (only 2 of 22 had verified licenses).
+
+Accordingly, these values should be interpreted as order-of-magnitude indicators of
+fiscal scale rather than precise revenue forecasts.
+
+The following table shows the direct tax incidence jurisdiction scenario B (All Firms) -
+Survey Sample:
+Tax Category             Direct               Indirect             Induced           Total
+Sub County General                $227,928             $105,232          $176,209             $509,370
+Sub County Special
+Districts                         $218,956             $100,752          $167,603             $487,311
+County                            $133,357               $61,359         $102,057             $296,773
+State                         $1,575,137               $518,879          $478,835            $2,572,851
+Federal                       $5,094,475              $1,642,864         $947,411            $7,684,749
+Total                         $7,249,853              $2,429,085        $1,872,115       $11,551,054
+
+
+
+E.3 Compliance-Based Modeling​
+Tax impacts were modeled only for firms with verified Berkeley business license
+compliance. Because only two of the twenty-two modeled firms met this criterion, tax
+estimates reflect compliant firms only and should be interpreted as conservative
+lower-bound indicators of fiscal contribution.
+
+This approach avoids overstating fiscal impacts while preserving methodological
+transparency.
+
+
+
+                                                                                                     37
+​      ​      ​       ​      ​      ​      UC Berkeley Institute for Business Innovation
+
+
+E.4 Survey-Based Tax Results​
+This section presents tax incidence estimates at two levels: (1) verified compliant firms
+only, and (2) all observed economic activity.
+
+E.4.1 Verified Compliant Firms (Conservative Estimate)
+Based on 2 firms with verified Berkeley business licenses (Scenario A):
+
+    ●​ Total tax incidence (all jurisdictions): $5.31 million annually
+    ●​ Sub-County General (municipal proxy): $234,614
+    ●​ Direct (Berkeley-attributable): $111,558
+
+This represents the most conservative estimate of verified fiscal contribution from
+surveyed startups.
+
+
+
+
+E.4.2 All Economic Activity (Full Sample)
+
+Based on all 22 firms with verifiable Berkeley economic activity (Scenario B):
+
+    ●​ Total tax incidence (all jurisdictions): $11.55 million annually
+    ●​ Sub-County General (municipal proxy): $509,370
+    ●​ Direct (Berkeley-attributable): $227,928
+
+This represents the fiscal incidence associated with all observed economic activity,
+regardless of license compliance status.
+
+
+
+
+                                                                                        38
+​      ​      ​      ​       ​     ​     UC Berkeley Institute for Business Innovation
+
+
+
+
+E.4.3 Compliance Gap Analysis
+
+Tax exposure gap (Berkeley specific)
+
+                         Scenario A (Compliant      Scenario B (All
+Item                     firms)                     firms)                GAP
+Sub County General                       $111,558              $227,928         $116,370
+
+The $116,370 difference reflects economic activity by firms without verified business
+licenses. This should be interpreted as:
+
+    ●​ Order of magnitude of fiscal incidence from non-verified activity.
+    ●​ NOT recoverable revenue firms may have legitimate reasons for lacking
+       licenses.
+    ●​ Planning metric for understanding the relationship between startup activity and
+       municipal fiscal capacity.
+
+E.4.4 Extrapolated Berkeley Municipal Tax Estimates
+
+Applying the same extrapolation methodology used for employment and output to the
+direct Sub-County General tax incidence:
+
+
+
+
+                                                                                        39
+​         ​      ​      ​      ​       ​     UC Berkeley Institute for Business Innovation
+
+
+Taxation Extrapolation
+                                             Hieguer
+Metric                 Lower Extrap.         Extrap.
+Sub county
+general direct                 $1.08             $1.36
+Sub county
+general total                  $2.45             $3.06
+
+
+Berkeley-affiliated startups likely generate $1.08 - $1,36 million in municipal tax
+incidence annually under full ecosystem extrapolation. This represents an
+order-of-magnitude estimate based on IMPLAN sectoral averages and should be
+validated against actual city revenue data where possible.
+
+E.5 Interpretation Guidance​
+IMPLAN tax estimates should be interpreted as:
+      ●​ Indicators of fiscal scale associated with startup economic activity,
+      ●​ Not as direct measures of municipal tax collections,
+      ●​ Not as evidence of tax non-compliance or underpayment by specific firms.
+
+For Berkeley specifically:
+   ●​ Use: Direct Sub-County General.
+   ●​ Caution: Total Sub-County General (~$509K observed) - includes regional
+      spillovers.
+   ●​ Avoid: Total tax incidence (~$11.6M) - primarily state/federal.
+
+    Future work should compare IMPLAN modeled tax incidence with:
+      ●​ City of Berkeley business license revenue (actual collections).
+      ●​ Sales tax collections (city share) - Proportional allocation of county and state tax
+          streams.
+      ●​ Property tax receipts from startup-occupied commercial space.
+
+Such triangulation would improve fiscal attribution accuracy and allow validation of
+IMPLAN sectoral assumptions against Berkeley-specific data.
+
+
+
+
+Appendix F: Limitations and Needs
+This analysis provides a robust evidence-based estimate of startup economic impacts,
+but several limitations should be acknowledged:
+
+
+                                                                                            40
+​      ​      ​      ​      ​      ​       UC Berkeley Institute for Business Innovation
+
+
+Methodological Limitations
+
+    1.​ Geographic Resolution: IMPLAN's smallest available geography is Alameda
+        County, preventing direct modeling of multiplier effects at the Berkeley city level.
+        As a result:
+    ●​ City-level results are limited to direct activity only.
+    ●​ Spillover effects (indirect/induced) are modeled regionally.
+    ●​ True city-retained economic activity is likely between direct-only and total
+        regional estimates.
+    2.​ Tax Incidence Modeling: IMPLAN tax results represent modeled sectoral
+        averages and cannot be interpreted as actual City of Berkeley revenue
+        collections. Firm-level tax compliance varies, and only 2 of 22 modeled firms had
+        verified business licenses at the time of analysis. Tax estimates (Appendix E)
+        should be viewed as indicative only.
+
+Data Limitations
+
+    1.​ Survey Coverage: Only 34 of 182 identified firms (19%) provided usable survey
+        responses, limiting precision. While extrapolation scenarios address this gap,
+        residual uncertainty remains regarding:
+    ●​ Non-response bias (are respondents representative?).
+    ●​ Accuracy of self-reported data.
+    ●​ Ecosystem boundary definition (who qualifies as "Berkeley-affiliated"?)
+
+
+    2.​ Firm Churn: Startup ecosystems exhibit high entry/exit rates. This analysis
+        provides a point-in-time snapshot but cannot account for:
+    ●​ Startups founded after data collection.
+    ●​ Firms that ceased operations during the study period.
+    ●​ Rapid growth/decline between survey and analysis.
+
+
+
+
+Appendix G: Methodology Learnings
+
+Methodology Learnings
+On the data collection side of the project, attending events is vital to having the
+necessary components of who startups are. This is where the heart of the project
+exists— in the conversations with founders on their experience and hopes for the city of
+Berkeley. Using a multiple-person approach of interviewing startups to gather
+information and clarify ambiguities throughout each week is a necessary implementation
+
+
+                                                                                          41
+​      ​      ​       ​      ​      ​       UC Berkeley Institute for Business Innovation
+
+
+that our team discovered later in the process. Targeting different themes and directions
+of interviews is important. When analyzing responses, one should consider numerical
+results alongside personal accounts, integrating empirical evidence with interpretive
+understanding to guarantee a well-rounded perspective into the lives of startups.
+
+Potential Solutions:
+Through the research process, the research team encountered technological, timeline,
+and storytelling challenges. By effectively identifying holes in the study, potential future
+iterations may use the following suggestions for more efficient, thorough, and accurate
+results.
+
+    a.​ Build a digital portal​
+        Through our own process, we determined that building a digital portal to integrate
+        entrepreneurial resources within the city’s governmental approvals would be
+        beneficial, as well as a digital identity to track projects throughout their process of
+        moving to the city. Additionally, observing the amount of federal taxes paid by a
+        company that reenters Berkeley’s economy in the form of federal grants is a
+        promising project that could be completed in more time. Berkeley-based vendor
+        and operating expenditures constitute the primary operational inputs for IMPLAN
+        employment and output events. This project could be led by researchers
+        collecting this data.
+
+
+    b.​ Survey Design and Distribution
+        Through the survey process, we found that startups were less likely to respond
+        when the survey appeared lengthy. To maximize response rates, the survey was
+        limited to 10 clearly worded questions to keep it approachable. On the
+        distribution side, framing the research as aiming to help the I&E ecosystem for
+        startups can improve response quality. Cold outreach yielded limited results,
+        while responses were strongest when departments leveraged existing
+        relationships to invite participation.
+
+    c.​ Interviewing startups
+        On the data collection side, attending events proved essential to understanding
+        who the startups are and how they operate. The core of the project lies in direct
+        conversations with founders. This is where the heart of the project exists— in the
+        conversations with founders on their experience and hopes for the city of
+        Berkeley. Using a multiple-person approach of interviewing startups to gather
+        information and clarify ambiguities throughout each week is a necessary
+        implementation that our team discovered later in the process. Targeting different
+
+
+
+                                                                                            42
+​      ​      ​      ​      ​      ​      UC Berkeley Institute for Business Innovation
+
+
+       themes and directions of interviews is important. When analyzing responses, one
+       should consider numerical results alongside personal accounts, integrating
+       empirical evidence with interpretive understanding to guarantee a well-rounded
+       perspective into the lives of startups.
+
+    d.​ Alternative approaches to IMPLAN
+        We discovered that using the economic software IMPLAN was limiting for our
+        research scope, as it can examine at the county level but not the city level. This
+        was extremely limiting, and urged us to consider whether there is another way to
+        measure independent economic impact of cities rather than the analysis of
+        counties for future studies? Evaluating the economic impact of the startups on
+        the city of Berkeley rather than Alameda County would be more accurate.
+        Additionally, because IMPLAN tax results represented modeled tax incidence
+        rather than municipal collections, future studies should seek to collect firm-level
+        data on business license payments, local sales tax generation, and other
+        Berkeley-specific tax streams for accuracy. Increased survey coverage and
+        repeating data collection would allow for more precise results given more time
+        and data. Lastly, given the heavy-tailed nature of startup ecosystems, we should
+        separate anchor firms from the long-tail population, extrapolating only the tail
+        while preserving observed anchor impacts. A Monte Carlo simulation based on
+        firm-level FTE distributions provides a defensible approach to estimating the
+        presence and size of unobserved high-performing firms.
+
+
+
+
+                                                                                        43
+​        ​         ​         ​     ​   ​          UC Berkeley Institute for Business Innovation
+
+
+APPENDIX H: UC Berkeley-Affliated Startups in Berkeley, CA STARTUPS,
+2025
+
+SOFTWARE                                   54.​ BioGlyph                     108.​Berkeley Air Monitoring
+    1.​ Agentero                           55.​ BluumBio                           Group, Inc
+    2.​ Autoderm                           56.​ Calcott Consulting        CLEANTECH
+    3.​ Blacktop Hoops                     57.​ Correlia Biosystems          109.​Calectra
+    4.​ Blind                              58.​ Elara Biosciences, LLC       110.​ Calion Technologies
+    5.​ Boxlet Storage                     59.​ Foresight                    111.​ Calyx
+    6.​ Bream                              60.​ Foundry31                    112.​ Capture6
+    7.​ CarbonSustain                      61.​ Gisens Biotech               113.​ Dauntless.io
+    8.​ Code Blue AI                       62.​ Glyphic Bio                  114.​ Deep Fission
+    9.​ Cycle                              63.​ HexemBio                     115.​ Enthalpy Analytical
+    10.​ Copper                            64.​ HypO2Regen                   116.​ Harvest
+    11.​ Cycle                                  Therapeutics                 117.​ Huue Bio
+    12.​ Datakin                           65.​ KarnaTeq                     118.​ HyWatts
+    13.​ De Mobo                           66.​ Keylika                      119.​ Inlyte Energy
+    14.​ Deeli AI                          67.​ Lumiphore                    120.​Iterant
+    15.​ Diagnoss                          68.​ Magnetic Tides               121.​Next-Ion
+    16.​ Diffit                            69.​ Million Marker               122.​Noble Thermodynamics
+    17.​ Elevate Security                  70.​ Protocols.io                 123.​Picoyune
+    18.​ Elodin                            71.​ Renegade Bio                 124.​PVComplete
+    19.​ EvoShare                          72.​ Rhea's Factory               125.​SimpleLab
+    20.​ Greaten AI                        73.​ Ribogenics Technologies      126.​Treau
+    21.​ Intertrust Technologies           74.​ Valitor Bio                  127.​WaHa
+    22.​ Jacobi Robotics                   75.​ CatenaBio                    128.​Westwood Aerogel
+    23.​ Kintsugi                          76.​ Maxivio Inc                  129.​Windscape AI
+    24.​ Ladon                             77.​ MoAb Therapeutics            130.​Winko Solar
+    25.​ MachineVantage                    78.​ NeuraStasis                  131.​Swift Charge
+    26.​ Melanin Meanings                  79.​ LightLock Bio                132.​Transition Biomining
+    27.​ Meso (Other Financial             80.​ BreakDown Bio, Inc.          133.​WattUp Energy
+         Services)                         81.​ Azalea Therapeutics          134.​Deep Isolation
+    28.​ New Avenue                        82.​ Acrigen Biosciences          135.​Form Energy
+    29.​ Reach Best                        83.​ Aikium                       136.​GridLab
+    30.​ Scribble AI                       84.​ Ariz Precision Medicine      137.​KoBold Metals
+    31.​ SigIQ.ai                          85.​ Bay Genomics LLC             138.​OLIVINE INC
+    32.​ Simple But Needed                 86.​ Caribou Biosciences          139.​RareTerra Inc.
+    33.​ SparcIt                           87.​ Dextera Biosciences          140.​Serinus Labs, Inc.
+    34.​ WideSense                         88.​ Elenae Therapeutics          141.​RareTerra Inc.
+    35.​ Xronos                            89.​ Inapill                      142.​AsparaGlue
+    36.​ AtlasNova                         90.​ Insamo                       143.​Decoded Health
+    37.​ Clouddir                          91.​ Iris Medicine                144.​Imvaria
+    38.​ Flexify.AI                        92.​ Izote Biosciences            145.​Millie
+    39.​ Guepard                           93.​ Newomics
+    40.​ Numix                             94.​ Novel Farms               HEALTHCARE
+    41.​ OZARU                             95.​ Radar Therapeutics           146.​Organos
+    42.​ Pickaxe                           96.​ Rareterra                    147.​Pelagius
+    43.​ VoiceBit Inc                      97.​ Ray Therapeutics             148.​Roger
+    44.​ Wing Assistant                    98.​ ResVita Bio                  149.​Somnee
+    45.​ Rumi                              99.​ Stork Therapeutics           150.​Digital Therapeutix, Inc.
+    46.​ Papaya                            100.​Vivere Oncotherapies         151.​Knowledge Synthesis
+    47.​ Aerosol Dynamics Inc.             101.​Radar Therapeutics           152.​O.N. Diagnostics
+    48.​ AIMATX                            102.​Rareterra
+    49.​ Bepress                           103.​Ray Therapeutics          HARDWARE
+    50.​ Imagize LLC                       104.​ResVita Bio                  153.​AutoMate Scientific
+    51.​ SiFive                            105.​Stork Therapeutics           154.​Bandwidth10
+BIOTECH                                    106.​Vivere Oncotherapies         155.​Bleximo
+    52.​ 712 North                         107.​Activate                     156.​Foxeye Robotics
+    53.​ Bikanta                                                             157.​Hyperframe
+
+
+
+                                                                                                          44
+​        ​         ​         ​        ​   ​           UC Berkeley Institute for Business Innovation
+
+
+   158.​Jitx                                  180.​Ovidian Group
+   159.​Luum                                  181.​Reax Engineering, Inc.
+   160.​Mumec                                 182.​Hardly Food
+   161.​NEYE Systems
+   162.​OSO Semiconductor
+   163.​Sensys Networks
+   164.​Sonera Magnetics
+   165.​Helping Robots Inc
+   166.​Yektasonics
+   167.​Maxivio
+   168.​Ambi Robotics
+   169.​Arris Composites
+   170.​Avid Technology
+   171.​PHOTONICS RESEARCH
+   172.​Squishy Robotics
+   173.​Zendar
+OTHER
+   174.​Kwikkart
+   175.​Manara
+   176.​BERKM
+   177.​Edvisor.ai
+   178.​AP0110
+   179.​Quokka Prints
+
+
+
+APPENDIX H: I&E Programs & Resources Distribution by Venture
+Development Stage
+Ideation                                      14.​ Venture Capital Investment    28.​ Cradle to Commerce
+     1.​ Master of Engineering                     Competition                   29.​ CITRIS Invention Lab
+          Program                             15.​ YC Co-Founder Matching        30.​ Collider Cup
+     2.​ Management,                               @ SCET                        31.​ Cal Hacks
+          Entrepreneurship &                  16.​ EDGE in Tech Initiative at    32.​ Cleantech to Market
+          Technology Program                       U.C.                          33.​ Career Center
+     3.​ Neurotech Collider Lab               17.​ Free Ventures Fellowship      34.​ Berkeley Changemaker®
+     4.​ Nucleate Bay Area                    18.​ Fung Institute for            35.​ Berkeley Deep Tech
+     5.​ Ollie Legal                               Engineering Leadership             Innovation Lab
+     6.​ Office of Intellectual                    (Fung Fellowship)             36.​ Berkeley Discovery
+          Property and Industry               19.​ Garwood Center for            37.​ Berkeley Entrepreneurs
+          Research Alliances                       Corporate Innovation               Association
+     7.​ PostX                                20.​ Haas Venture Fellows          38.​ Berkeley Haas
+     8.​ Robinson Life Science,               21.​ Institute for Business             Entrepreneurship Hub
+          Business, and                            Innovation                    39.​ Berkeley Haas Open
+          Entrepreneurship Program            22.​ Inclusive Innovation               Innovation Squad
+     9.​ she256                                    Equitable                     40.​ Berkeley Venture Capital
+     10.​ SkyDeck ACE Intern                       Entrepreneurship              41.​ BioEnginuity Impact Grant
+          Program                             23.​ Innovation &                  42.​ Biology Scholars Program
+     11.​ Sutardja Center for                      Entrepreneurship Council      43.​ Berkeley Haas
+          Entrepreneurship &                  24.​ Jacobs Institute for Design        Entrepreneurship Program
+          Technology                               Innovation                    44.​ Berkeley Master of Design
+     12.​ Tech Transfer (IPIRA) DEI           25.​ Learn2Launch                  45.​ Berkeley Postdoc
+          Page                                26.​ Decode                             Entrepreneurs Program
+     13.​ UCB Startup Fair                    27.​ Design Scholars Program
+
+
+
+
+Early Formation                               47.​ QB3 Innovation Discovery      50.​ SBIR/STTR Grants
+                                              48.​ SCET – Summer Venture         51.​ StEP
+    46.​ Master of Translational                   Lab                           52.​ Tory Burch Fellowship
+         Medicine                             49.​ Startup@Berkeley Law
+
+
+
+                                                                                                              45
+​        ​         ​         ​        ​   ​          UC Berkeley Institute for Business Innovation
+
+
+    53.​ Energy and Biosciences               94.​ Bee Partners
+         Institute Entrepreneurial            95.​ Better Ventures
+         Business Incubator (EBI2)            96.​ Bow Capital
+    54.​ FORM+FUND – Legal                    97.​ Berkeley Catalyst Fund
+         Support                                   (I&II)
+    55.​ Free Ventures                        98.​ Berkeley SkyDeck Fund
+    56.​ Health Engine                             (I&II)
+    57.​ Haas Impact Fund                     99.​ Blue Bear Ventures
+    58.​ Handshake                            100.​Berkeley Angel Network
+    59.​ NSF I-Corps Hub                      101.​Berkeley Founders Pledge
+    60.​ Life Sciences                        102.​Berkeley Haas Alumni
+         Entrepreneurship Center                   Relations
+    61.​ Decode
+    62.​ Dorm Room Fund
+    63.​ CITRIS Foundry
+    64.​ Cal Hacks Fellowship
+    65.​ Cyclotron Road
+    66.​ Bakar Labs
+    67.​ Berkeley Climate Change
+         Network
+    68.​ Berkeley Deep Tech
+         Innovation Lab
+    69.​ Berkeley Haas
+         Entrepreneurship Hub
+    70.​ Berkeley Haas
+         Entrepreneurship Startup
+         Seed Fund
+    71.​ Big Ideas Contest
+    72.​ Bakar Fellows
+
+Acceleration
+
+    73.​ QB3 Garage@Berkeley
+    74.​ QB3 Mentoring
+    75.​ Richmond Field Station
+    76.​ Health Tech CoLab
+    77.​ LAUNCH
+    78.​ Cal Alumni Association
+    79.​ Berkeley IP Practicum
+    80.​ Berkeley Research
+         Infrastructure Commons
+    81.​ Berkeley Startup Cluster
+    82.​ Biomolecular
+         Nanotechnology Center
+    83.​ Blockchain Xcelerator
+    84.​ Berkeley SkyDeck
+
+Scale
+
+    85.​ House Fund
+    86.​ Impact Science Ventures
+    87.​ Ironfire Ventures
+    88.​ Kapor Capital
+    89.​ Double Bottom Line
+         Ventures
+    90.​ CalTestBed
+    91.​ Courtyard Ventures
+    92.​ California Innovation Fund
+    93.​ Berkeley-Taiwan Health
+         Innovation Accelerator
+
+
+
+
+                                                                                                46
+

@@ -1,0 +1,21 @@
+{
+  "id": "acfr-single-audit-report-fy2024-text",
+  "layer": "L1",
+  "doc_type": "financial_report_or_policy_text",
+  "collection": "acfr",
+  "title": "Single Audit Report, year ended June 30, 2024",
+  "file": "L1/sources/acfr/acfr-single-audit-report-fy2024-text.txt",
+  "sha256": "98f47c39038cf4aef063d86108e93741e344138199845d56f86adc12f6ba7c50",
+  "bytes": 44400,
+  "derived_from": {
+    "id": "acfr-single-audit-report-fy2024",
+    "sha256": "b54dda38813bc666d82975bd82a4fe86b401d69014673b6c82e92ff2b2c06d7a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

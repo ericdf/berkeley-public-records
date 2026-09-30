@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2023-07-11-actc-grant-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Accepting grant funds from the Alameda County Transportation Commission for the Berkeley Pier Water Transportation / Ferry Project Design Phase",
+  "file": "L1/sources/pier_ferry/pier-ferry-2023-07-11-actc-grant-text.txt",
+  "sha256": "b022c5316daa289ee29b09b3aa6f61da2f5d962b419ddb0cd93ede5d69200c8d",
+  "bytes": 12482,
+  "derived_from": {
+    "id": "pier-ferry-2023-07-11-actc-grant",
+    "sha256": "4ff832aaf7870737f8cf6c46c6e8644054e4b9b2cd295ee613c6804cf8f4cd39"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

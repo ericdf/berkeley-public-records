@@ -1,0 +1,21 @@
+{
+  "id": "ballot-2026-2026-03-17-special-item-01-report-text",
+  "layer": "L1",
+  "doc_type": "ballot_measure_record_text",
+  "collection": "ballot_2026",
+  "title": "Presentation and Discussion of Community Survey Results and Direction Regarding Potential Ballot Measures for the November 3, 2026, General Municipal Election",
+  "file": "L1/sources/ballot_2026/ballot-2026-2026-03-17-special-item-01-report-text.txt",
+  "sha256": "cdcec2950cfd5ca56f2667be500e395522510af5d80006d56a78892a8786a78c",
+  "bytes": 338950,
+  "derived_from": {
+    "id": "ballot-2026-2026-03-17-special-item-01-report",
+    "sha256": "d86c9ea959eddf98771e02ecc38ee29a28698346e8b22b9aab5ede7a29603427"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

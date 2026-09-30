@@ -1,0 +1,20 @@
+{
+  "id": "audits-measuring-performance-2026",
+  "layer": "L0",
+  "doc_type": "audit_report",
+  "collection": "audits",
+  "publisher": "City of Berkeley — City Auditor",
+  "title": "A Guide to Measuring Performance in the City of Berkeley",
+  "document_date": "2026-02-05",
+  "meeting_date": "2026-02-24",
+  "file": "L0/sources/audits/audits-measuring-performance-2026.pdf",
+  "sha256": "236eb79a0fe2fa658be0b35284a0fd35cc6d44306603bf46ac3731c13e9944ba",
+  "bytes": 1309253,
+  "source_url": "https://berkeleyca.gov/sites/default/files/2026-02/A_Guide_to_Measuring_Performance_in_the_City_of_Berkeley.pdf",
+  "retrieved": "2026-09-14",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2014-04-01-berkeley-based-budgeting-goldman-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Berkeley Based Budgeting: Report from Goldman School of Public Policy Students (transmittal with Attachment 1, the 2013 report)",
+  "file": "L1/sources/budgets/budgets-2014-04-01-berkeley-based-budgeting-goldman-text.txt",
+  "sha256": "95c599f86d7030d624f81df23947c8a6fe3d4e0116a4b09714c728cbd0813760",
+  "bytes": 165601,
+  "derived_from": {
+    "id": "budgets-2014-04-01-berkeley-based-budgeting-goldman",
+    "sha256": "d3b60f92c1994a3057fbb3cb4cc974986675162c0feb6f41901fbf1832347aa5"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

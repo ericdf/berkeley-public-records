@@ -1,0 +1,21 @@
+{
+  "id": "audits-audit-plan-fy2027",
+  "layer": "L0",
+  "doc_type": "audit_report",
+  "collection": "audits",
+  "publisher": "City of Berkeley — City Auditor",
+  "title": "City Auditor Fiscal Year 2027 Audit Plan",
+  "document_date": "2026-06-30",
+  "meeting_date": "2026-06-30",
+  "item": "Item 50 (received and filed)",
+  "file": "L0/sources/audits/audits-audit-plan-fy2027.pdf",
+  "sha256": "b1828483d850a8637f683e5ca55c92118bb4df12d71fa84d2f88370333a1ce8f",
+  "bytes": 580120,
+  "source_url": "https://berkeleyca.gov/sites/default/files/2026-05/City_Auditor_Fiscal_Year_2027_Audit_Plan.pdf",
+  "retrieved": "2026-08-30",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high"
+}

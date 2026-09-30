@@ -1,0 +1,21 @@
+{
+  "id": "investments-second-quarterly-investment-report-text",
+  "layer": "L1",
+  "doc_type": "investment_report_text",
+  "collection": "investments",
+  "title": "FY 2026 Second Quarter Investment Report: Ended December 31, 2025",
+  "file": "L1/sources/investments/investments-second-quarterly-investment-report-text.txt",
+  "sha256": "f47407bd460da403e9d62a553353bbc17eb44c881c391a7643298ffde2a9ebca",
+  "bytes": 120219,
+  "derived_from": {
+    "id": "investments-second-quarterly-investment-report",
+    "sha256": "92badc9695b5783c6998b9e9f95495ae1a4f89f69332812b7542bd1a048a8381"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
