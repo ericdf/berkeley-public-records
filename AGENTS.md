@@ -56,13 +56,14 @@ processes them on the pull request and comments with the result.
 
 | Case | Do |
 |---|---|
-| City document with a URL | L0; `collection` `sources/<topic>` (or `council-captions`, `annotated-agendas`); `source_url`, `retrieved`. Request a Wayback capture of the URL and tell the human; recording `wayback_url` is a manifest edit by PR. |
+| City document with a URL | L0; `collection` `sources/<topic>` (or `council-captions`, `annotated-agendas`, `staff-reports`); `source_url`, `retrieved`. Request a Wayback capture of the URL and tell the human; recording `wayback_url` is a manifest edit by PR. |
 | Obtained from the Clerk or another office | L0; `collection` `clerk` or `sources/<topic>`; `source_note`, e.g. "Requested in person from the City Clerk; received 2026-09-12." |
 | Public-records request | Do not archive the released files. If the request is not yet in `queue/nextrequest/`, add it there by PR (it stays `watching` until the City publishes it). The maintainer decides; `tools/ingest_nextrequest.py` ingests after induction. |
 | Third-party publication | T0; `collection` such as `press`, `campaigns`; `publisher`, neutral `relevance`, `source_url` or `source_note`. |
 | Scanned PDF with no text | Process it anyway. The tool records "no text layer; needs OCR". Do not OCR it yourself unless the human asks for a recorded OCR command. |
 | File over 25 MB | Do not commit it. Tell the human to open a "Large file" Issue (the form takes the City URL, or a Google Drive link shared with `berkeleypublicrecords@gmail.com`). The maintainer runs the large-file procedure below. |
 | Council captions | `council-captions` needs `meeting_date`, `meeting_label`, and `notices` with the City's disclaimer copied verbatim. |
+| Agenda item report | `staff-reports`, for a document on a Council, Council committee or commission agenda: staff reports, presentations, attachments, supplemental material. Needs `body` (e.g. `Berkeley City Council`, `Planning Commission`), `meeting_date`, and `item` as printed (e.g. `Consent Calendar Item 7`); Council items also need `meeting_label`. `doc_type` is `staff_report` (the default), `presentation`, `agenda_material` or `supplemental_agenda_material`; for anything but the report itself, add `part`, a short name such as `lease-list`. `document_date` is optional. The id is formed for you, e.g. `bcc-2026-06-16-item-37-staff-report`, `bcc-2024-12-10-special-item-01-staff-report`, `planning-commission-2026-04-15-item-10b-chairs-memo`. |
 
 ## Large-file procedure (maintainer, or you at the maintainer's direction)
 

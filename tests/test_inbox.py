@@ -273,6 +273,88 @@ class TestProcessInbox(Base):
         self.assertEqual(self.validate_errors(), [])
 
 
+
+STAFF = {"layer": "L0", "collection": "staff-reports", "body": "Berkeley City Council",
+         "title": "Contract: Example Services for Street Repair",
+         "publisher": "City of Berkeley — Office of the City Manager; Public Works",
+         "meeting_date": "2026-10-13", "meeting_label": "regular", "item": "Consent Calendar Item 7",
+         "source_url": "https://berkeleyca.gov/sites/default/files/documents/2026-10-13%20Item%2007.pdf",
+         "retrieved": "2026-10-01"}
+
+
+class TestStaffReports(Base):
+    def test_council_staff_report(self):
+        self.drop("s", STAFF)
+        r = self.run_process()
+        mid = "bcc-2026-10-13-item-07-staff-report"
+        self.assertEqual([a["id"] for a in r["added"]], [mid])
+        e = self.entry(mid)
+        self.assertEqual(list(e), ["id", "layer", "doc_type", "collection", "body", "publisher",
+                                   "title", "meeting_date", "meeting_label", "item", "file", "sha256",
+                                   "bytes", "source_url", "retrieved", "archived", "wayback_url",
+                                   "notices", "contributed_by"])
+        self.assertEqual(e["file"], f"L0/staff-reports/{mid}.pdf")
+        self.assertEqual((e["doc_type"], e["collection"], e["body"]),
+                         ("staff_report", "staff_reports", "Berkeley City Council"))
+        self.assertNotIn("document_date", e)
+        if HAVE_PDFTOTEXT:
+            t = self.entry(mid + "-text")
+            self.assertEqual(t["file"], f"L1/staff-reports/{mid}-text.txt")
+            self.assertEqual((t["doc_type"], t["body"], t["meeting_label"]),
+                             ("staff_report_text", "Berkeley City Council", "regular"))
+        self.assertEqual(self.validate_errors(), [])
+
+    def test_special_meeting_and_part(self):
+        self.drop("s", dict(STAFF, meeting_label="special", item="Special Meeting Item 1",
+                            doc_type="presentation"))
+        self.drop("t", dict(STAFF, item="Action Calendar Item 26, Supplemental #2",
+                            doc_type="supplemental_agenda_material",
+                            part="supplemental-agenda-material-supp-2"), data=make_pdf(["other"]))
+        ids = sorted(a["id"] for a in self.run_process()["added"])
+        self.assertEqual(ids, ["bcc-2026-10-13-item-26-supplemental-agenda-material-supp-2",
+                               "bcc-2026-10-13-special-item-01-presentation"])
+
+    def test_commission_item_letter_and_no_label(self):
+        meta = {k: v for k, v in STAFF.items() if k != "meeting_label"}
+        self.drop("s", dict(meta, body="Planning Commission", item="Item 10B",
+                            doc_type="agenda_material", part="chairs-memo"))
+        mid = self.run_process()["added"][0]["id"]
+        self.assertEqual(mid, "planning-commission-2026-10-13-item-10b-chairs-memo")
+        self.assertNotIn("meeting_label", self.entry(mid))
+
+    def test_committee_prefix_follows_existing_entries(self):
+        body = "Berkeley City Council Budget & Finance Policy Committee"
+        pi.write_json(os.path.join(self.root, "manifest", "bcc-budget-finance-committee-2026-04-09-item-03-presentation.json"),
+                      {"id": "bcc-budget-finance-committee-2026-04-09-item-03-presentation", "layer": "L0",
+                       "doc_type": "presentation", "collection": "staff_reports", "body": body,
+                       "meeting_date": "2026-04-09", "file": None, "sha256": "0" * 64})
+        self.assertEqual(pi.body_prefix(body, pi.load_manifest(self.root)), "bcc-budget-finance-committee")
+        self.assertEqual(pi.body_prefix(body, {}), "bcc-budget-finance-policy-committee")
+        self.assertEqual(pi.body_prefix("Environment & Climate Commission", {}),
+                         "environment-climate-commission")
+
+    def test_staff_report_requirements(self):
+        self.drop("s", {k: v for k, v in STAFF.items()
+                        if k not in ("body", "meeting_label", "item", "meeting_date")})
+        with self.assertRaises(pi.Problem) as cm:
+            self.run_process()
+        for f in ('"body"', '"meeting_date"', '"item"'):
+            self.assertIn(f, str(cm.exception))
+        self.assertEqual(self.inbox_left(), ["s.json", "s.pdf"])
+
+    def test_council_needs_label_and_known_doc_type(self):
+        meta = {k: v for k, v in STAFF.items() if k != "meeting_label"}
+        self.drop("s", dict(meta, doc_type="memo"))
+        with self.assertRaises(pi.Problem) as cm:
+            self.run_process()
+        self.assertIn('"meeting_label"', str(cm.exception))
+        self.assertIn('"doc_type" is "memo"', str(cm.exception))
+
+    def test_body_only_for_staff_reports(self):
+        self.drop("a", dict(L0_URL, body="Berkeley City Council"))
+        with self.assertRaisesRegex(pi.Problem, '"body" is only for the staff-reports'):
+            self.run_process()
+
 class TestLargeFileGuard(unittest.TestCase):
     def setUp(self):
         self.repo = tempfile.mkdtemp()

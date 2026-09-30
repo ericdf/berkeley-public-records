@@ -48,6 +48,24 @@ delete optional lines (see the table below). Dates are always `YYYY-MM-DD`.
 }
 ```
 
+**A staff report or other document on a meeting agenda** (Council, a Council committee, or a
+commission). No `document_date` is needed; `meeting_label` is needed for Council meetings:
+
+```json
+{
+  "layer": "L0",
+  "collection": "staff-reports",
+  "body": "Berkeley City Council",
+  "title": "Title exactly as printed on the report",
+  "publisher": "City of Berkeley — Office of the City Manager",
+  "meeting_date": "2026-06-16",
+  "meeting_label": "regular",
+  "item": "Consent Calendar Item 18",
+  "source_url": "https://berkeleyca.gov/...",
+  "retrieved": "2026-09-30"
+}
+```
+
 **A document you got from the City Clerk or another office** (not posted online):
 
 ```json
@@ -81,14 +99,15 @@ delete optional lines (see the table below). Dates are always `YYYY-MM-DD`.
 | Field | |
 |---|---|
 | `layer` | Required. `L0`: made or published by a public body. `T0`: published by anyone else. |
-| `collection` | Required. L0: `clerk`, `council-captions`, `annotated-agendas`, or `sources/<topic>` (existing topics include `sources/budgets`, `sources/audits`, `sources/acfr`, `sources/investments`, `sources/ballot_2026`, `sources/t1`, `sources/hr`, `sources/pier_ferry`). T0: `press`, `campaigns`, or another single word. |
+| `collection` | Required. L0: `clerk`, `council-captions`, `annotated-agendas`, `staff-reports`, or `sources/<topic>` (existing topics include `sources/budgets`, `sources/audits`, `sources/acfr`, `sources/investments`, `sources/ballot_2026`, `sources/t1`, `sources/hr`, `sources/pier_ferry`). T0: `press`, `campaigns`, or another single word. |
 | `title` | Required. As printed on the document. |
-| `document_date` | Required. The date on the document. |
+| `document_date` | Required, except for `staff-reports`. The date on the document. |
 | `publisher` | Required for T0; recommended for L0. |
 | `relevance` | T0 only, required: why it is here, not what it shows. |
 | `source_url` or `source_note` | One is required. A web address, or how and when you obtained it. Never guess a URL. |
 | `retrieved` | Optional: the date you downloaded it. |
 | `meeting_date`, `item` | Optional: the meeting and agenda item it belongs to. `council-captions` and `annotated-agendas` also need `meeting_label` (e.g. `regular`), and captions need `notices`: the City's disclaimer, copied word for word. |
+| `body`, `item`, `doc_type`, `part` | `staff-reports` only. `body`: whose agenda it is on, e.g. `Berkeley City Council`, `Planning Commission`. `item` (required): as printed, e.g. `Action Calendar Item 37`, `Item 7B`. `doc_type`: `staff_report` (the default), `presentation`, `agenda_material`, or `supplemental_agenda_material`. `part`: for anything but the report itself, a short name such as `lease-list`. `meeting_date` is required, and `meeting_label` too for Council meetings. |
 
 Public-records releases from the City's request portal (NextRequest) do not go through the
 inbox; see "Public-records requests" in the main README.
