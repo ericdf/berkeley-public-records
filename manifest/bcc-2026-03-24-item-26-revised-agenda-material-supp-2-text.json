@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-03-24-item-26-revised-agenda-material-supp-2-text",
+  "layer": "L1",
+  "doc_type": "supplemental_agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-03-24",
+  "meeting_label": "regular",
+  "title": "Revised Agenda Material for Supplemental #2: Public Safety Technology: Surveillance Technology Ordinance and Police Equipment Ordinance Approvals, Policy Updates, and Contract Authority",
+  "file": "L1/staff-reports/bcc-2026-03-24-item-26-revised-agenda-material-supp-2-text.txt",
+  "sha256": "f7a6366299ad6923c6bb09a7f114919b7faa0544c3a63b145ca1f054527fc061",
+  "bytes": 74538,
+  "derived_from": {
+    "id": "bcc-2026-03-24-item-26-revised-agenda-material-supp-2",
+    "sha256": "bcd3bb77623507cee32ea8686f1d0b147a166d8e461fd0197a74880b5da5c2b0"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-06-16-item-39-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-06-16",
+  "meeting_label": "regular",
+  "title": "Placing a Transactions and Use (Sales) General Tax Measure on the November 3, 2026 Ballot",
+  "file": "L1/staff-reports/bcc-2026-06-16-item-39-staff-report-text.txt",
+  "sha256": "8e328ae121cf4bf88b6cd96da0eb870334eddc9afb2f0778fe8de72bb4172e9b",
+  "bytes": 38454,
+  "derived_from": {
+    "id": "bcc-2026-06-16-item-39-staff-report",
+    "sha256": "a3aadef0ce755db696b3e94c2eea20fae10d94ef60a1eea51f0df0853715764f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

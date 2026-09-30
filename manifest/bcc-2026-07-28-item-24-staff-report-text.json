@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-07-28-item-24-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-07-28",
+  "meeting_label": "regular",
+  "title": "Referral to the City Manager: RENAISSANCE (Revitalizing Enterprise and Neighborhoods through Activation, Investment, Safety, Streamlining, Accessibility, Networking, Collaboration, and Equity), Part 1: Performance Standards for Commercial District Activation and Blight Mitigation",
+  "file": "L1/staff-reports/bcc-2026-07-28-item-24-staff-report-text.txt",
+  "sha256": "ae1800cd83ee6718cc948b675e72ff910ab2666ad9e5bed817d77f860a875430",
+  "bytes": 13193,
+  "derived_from": {
+    "id": "bcc-2026-07-28-item-24-staff-report",
+    "sha256": "8e19af421effd89ee60469f40bc2e9b084d48a098cff7cc94dbeb7569e744da1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

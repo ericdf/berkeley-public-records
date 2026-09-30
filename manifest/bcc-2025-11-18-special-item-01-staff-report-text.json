@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-11-18-special-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-11-18",
+  "meeting_label": "special",
+  "title": "2024 Police Accountability Board (PAB) & Office of the Director of Police Accountability (ODPA) Annual Report",
+  "file": "L1/staff-reports/bcc-2025-11-18-special-item-01-staff-report-text.txt",
+  "sha256": "b7e63c06d28faddb9bdffdff3e434a8c11380f723c2ce95c7e00b0b4be183cb2",
+  "bytes": 252892,
+  "derived_from": {
+    "id": "bcc-2025-11-18-special-item-01-staff-report",
+    "sha256": "33a0d582258397fba8158f2ae53bce69392cbd4cfdff8d849c1c73078c2ceed7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

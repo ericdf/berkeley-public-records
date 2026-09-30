@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-07-22-item-22-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-07-22",
+  "meeting_label": "regular",
+  "title": "City Auditor Fiscal Year 2026 Audit Plan",
+  "file": "L1/staff-reports/bcc-2025-07-22-item-22-staff-report-text.txt",
+  "sha256": "60095a2aaedd64178e5760449ed375ca2cd90a330bef74f8ef51651228f76be7",
+  "bytes": 20995,
+  "derived_from": {
+    "id": "bcc-2025-07-22-item-22-staff-report",
+    "sha256": "cd4519c61baf45dd07f857c9254a2aa3a7ae5c882b571a403c7f45d7b3dd6cbe"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

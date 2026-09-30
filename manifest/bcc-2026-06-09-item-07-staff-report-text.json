@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-06-09-item-07-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-06-09",
+  "meeting_label": "regular",
+  "title": "Contract No 32400063 Amendment: Community Agency Agreement-Transient Occupancy Tax (TOT) Berkeley Convention and Visitors Bureau with the Berkeley Convention and Visitors Bureau d.b.a. Visit Berkeley",
+  "file": "L1/staff-reports/bcc-2026-06-09-item-07-staff-report-text.txt",
+  "sha256": "c1519937eec37fa3d56cbe635cba6e49cec81ef4b9c9cc84fd5af1e7d98eeda6",
+  "bytes": 9296,
+  "derived_from": {
+    "id": "bcc-2026-06-09-item-07-staff-report",
+    "sha256": "b1ee58e5d478503bbd54eb40e2a6f009ed5586a6982ac96ffa296101afa1a814"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

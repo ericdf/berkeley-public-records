@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-05-19-item-06-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-05-19",
+  "meeting_label": "regular",
+  "title": "Joint Homekey+ Application for Supportive Housing in People’s Park at 2556 Haste St.",
+  "file": "L1/staff-reports/bcc-2026-05-19-item-06-staff-report-text.txt",
+  "sha256": "46f5d62bb8c5d3418bce864a9bcc6e60381a648fdeefe91ab27b30d70cfb6e6b",
+  "bytes": 14455,
+  "derived_from": {
+    "id": "bcc-2026-05-19-item-06-staff-report",
+    "sha256": "fb1661b670086850a7a7cf48c4817341c174d22cd53965a1aa6f89c65ea42e7b"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

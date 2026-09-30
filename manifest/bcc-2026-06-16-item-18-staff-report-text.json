@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-06-16-item-18-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-06-16",
+  "meeting_label": "regular",
+  "title": "Shelter Plus Care Program Renewal Grants",
+  "file": "L1/staff-reports/bcc-2026-06-16-item-18-staff-report-text.txt",
+  "sha256": "09aca269382fc2bb4d3d022b63acb508f1cbbc550a965d4405e710c4c301f5ca",
+  "bytes": 8378,
+  "derived_from": {
+    "id": "bcc-2026-06-16-item-18-staff-report",
+    "sha256": "88fbf525098c9830edffed551512dc83b0239a1fe464bf7f24b844754fbb39c5"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

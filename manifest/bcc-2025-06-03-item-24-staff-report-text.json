@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-06-03-item-24-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-06-03",
+  "meeting_label": "regular",
+  "title": "Referral: Oxford for All",
+  "file": "L1/staff-reports/bcc-2025-06-03-item-24-staff-report-text.txt",
+  "sha256": "2762ba6888d36b42dc6b6223199b9cafe3ec9871c51bdcbe6abf0a318b9ab32f",
+  "bytes": 14949,
+  "derived_from": {
+    "id": "bcc-2025-06-03-item-24-staff-report",
+    "sha256": "fc10133dd3ba5892c774e3ee25c4481734d3aeccf8968829fe08ffb413f9c992"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

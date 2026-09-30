@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-05-19-item-21-supplemental-agenda-material-supp-2-text",
+  "layer": "L1",
+  "doc_type": "supplemental_agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-05-19",
+  "meeting_label": "regular",
+  "title": "Supplemental Agenda Material for Supplemental Packet 2: Proposed FY 2027 and FY 2028 Biennial Budget and Proposed Biennial Budget Public Hearing #1",
+  "file": "L1/staff-reports/bcc-2026-05-19-item-21-supplemental-agenda-material-supp-2-text.txt",
+  "sha256": "d79cf28df67a7624cc6ca50c70c017e9b52c5adc3a39850429cb300bd4d760b7",
+  "bytes": 779715,
+  "derived_from": {
+    "id": "bcc-2026-05-19-item-21-supplemental-agenda-material-supp-2",
+    "sha256": "7dc3a35480ca463dc163f69de4b8541bcb9689539e01c917aab82ed1d5ab02f3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
