@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-03-24-special-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-03-24",
+  "meeting_label": "special",
+  "title": "2025 Berkeley Police Department Annual Report",
+  "file": "L1/staff-reports/bcc-2026-03-24-special-item-01-staff-report-text.txt",
+  "sha256": "08725d2831e187e1306703c0912c32c374b78366b4618a1e4a1b5eb44f46706d",
+  "bytes": 67242,
+  "derived_from": {
+    "id": "bcc-2026-03-24-special-item-01-staff-report",
+    "sha256": "39a028f8c0cd560d02bc0d79105e456ca78c3c8dc68e5e95564a6f16ac21fd61"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

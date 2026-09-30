@@ -1,0 +1,22 @@
+{
+  "id": "bcc-2026-03-24-special-item-01-staff-report",
+  "layer": "L0",
+  "doc_type": "staff_report",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "publisher": "City of Berkeley — Office of the City Manager; Police Department",
+  "title": "2025 Berkeley Police Department Annual Report",
+  "meeting_date": "2026-03-24",
+  "meeting_label": "special",
+  "item": "Special Meeting Item 1",
+  "file": "L0/staff-reports/bcc-2026-03-24-special-item-01-staff-report.pdf",
+  "sha256": "39a028f8c0cd560d02bc0d79105e456ca78c3c8dc68e5e95564a6f16ac21fd61",
+  "bytes": 3096794,
+  "source_url": "https://berkeleyca.gov/sites/default/files/2026-03/2026-03-24%20Special%20Item%2001%202025%20Berkeley%20Police%20Department%20Annual.pdf",
+  "source_note": "Downloaded from source_url on 2026-09-30; the link is published on the City Council special meeting eAgenda page for 2026-03-24 (https://berkeleyca.gov/city-council-special-meeting-eagenda-march-24-2026).",
+  "retrieved": "2026-09-30",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

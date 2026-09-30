@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-04-14-item-13-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-04-14",
+  "meeting_label": "regular",
+  "title": "Referral to Establish a Citywide Local Density Bonus Program to Facilitate Lower-Cost Ownership Homes (Condominiums)",
+  "file": "L1/staff-reports/bcc-2026-04-14-item-13-staff-report-text.txt",
+  "sha256": "b0181a7455a16ec72388aaa2dcf5057e566eac93739828c03c4c37c12d6ffc03",
+  "bytes": 24589,
+  "derived_from": {
+    "id": "bcc-2026-04-14-item-13-staff-report",
+    "sha256": "271cb0f1573b19006facb87297c07f3e888b940620af71509828fcdce419e260"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

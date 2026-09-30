@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-06-16-item-38-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-06-16",
+  "meeting_label": "regular",
+  "title": "Placing a General Obligation Bond Measure on the November 3, 2026 Ballot for the Acquisition or Improvement of Real Property for Public Infrastructure and Facilities",
+  "file": "L1/staff-reports/bcc-2026-06-16-item-38-staff-report-text.txt",
+  "sha256": "f4b111e61756fdcf90263d990da9f582e288e1263836e434c81276a718c5102d",
+  "bytes": 47216,
+  "derived_from": {
+    "id": "bcc-2026-06-16-item-38-staff-report",
+    "sha256": "e8d056642b7782cd9fc0b29b2fd6a10866b1925b267fabdade8e5f27fdf2ed43"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

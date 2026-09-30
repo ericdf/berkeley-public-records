@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-06-16-item-37-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-06-16",
+  "meeting_label": "regular",
+  "title": "Placing Charter Amendment Measure on the November 3, 2026 Ballot to Amend Multiple Administrative Provisions",
+  "file": "L1/staff-reports/bcc-2026-06-16-item-37-staff-report-text.txt",
+  "sha256": "461890f0cc019b12d58e379edc997fbfe8fb42526f73cbb50b514b28e2ac58fc",
+  "bytes": 56349,
+  "derived_from": {
+    "id": "bcc-2026-06-16-item-37-staff-report",
+    "sha256": "b0f54a3e6c777459f2934aed88f88f80330b5cbce2f08374ff1e8a5e57340ae7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

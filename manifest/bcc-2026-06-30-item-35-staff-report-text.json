@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-06-30-item-35-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-06-30",
+  "meeting_label": "regular",
+  "title": "Contract No. 32300127 Amendment: AE3 Partners, Inc. for Architectural Services",
+  "file": "L1/staff-reports/bcc-2026-06-30-item-35-staff-report-text.txt",
+  "sha256": "c3b2e68f7e3f7e8912eccba478e271f56bcf5edd009fd9badb15c037f1931939",
+  "bytes": 8303,
+  "derived_from": {
+    "id": "bcc-2026-06-30-item-35-staff-report",
+    "sha256": "4cda4b88088ad15c5eb31c4850c86c220c21cfc2482c40f532279ece891e08e0"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

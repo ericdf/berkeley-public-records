@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-07-28-item-27-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-07-28",
+  "meeting_label": "regular",
+  "title": "Referral to Schedule Hopkins Street for Paving with Enhanced Safety Improvements for all Users",
+  "file": "L1/staff-reports/bcc-2026-07-28-item-27-staff-report-text.txt",
+  "sha256": "4712b7769c2fc8533e05c6e57e18da0f75979ab8ad384511d5e2b461f4488128",
+  "bytes": 64435,
+  "derived_from": {
+    "id": "bcc-2026-07-28-item-27-staff-report",
+    "sha256": "86ce0f2f697081f5f5ea9a8f1beda8a5d9f3e02b1988b46dd321afd3ad31682a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
