@@ -141,6 +141,26 @@ directly:
   folders or share from them**; anything placed there is not part of the archive and is
   overwritten by the next mirror run.
 
+## Catalog of City recordings
+
+`catalog/` lists records the City publishes that this archive does **not** hold. It is kept
+apart from the manifest so "archived and fingerprinted" never blurs into "known to exist".
+
+- **`catalog/granicus/city-council.json`** lists every City Council recording on the City's
+  Granicus site (`berkeley.granicus.com`, view 5), back to January 2012. For each it records
+  the clip id, the name, date and duration as listed, and the City's player, agenda, MP3 and MP4
+  URLs. No media is downloaded.
+- **Standing practice:** after each Council meeting, run `tools/catalog_granicus.py` and open a
+  pull request with the updated catalog.
+  - Entries are never deleted. A recording the City stops listing keeps its `last_listed` date,
+    so a removal stays visible.
+  - The listing's sha256 is recorded with each run.
+- **Archiving a recording** (for example, audio to confirm who was speaking) follows the
+  large-file procedure: download from the catalogued URL, fingerprint, and store it as an
+  external blob.
+- **Recordings are large:** a four-hour meeting's MP4 runs to gigabytes. Archive one only when
+  a specific need calls for it, and prefer the MP3.
+
 ## Large files
 
 Git is the wrong place for large or bulk binary files: every clone downloads every version
