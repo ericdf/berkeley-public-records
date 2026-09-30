@@ -1,0 +1,25 @@
+{
+  "id": "26-2901",
+  "source": "nextrequest",
+  "request_date": "2026-09-28",
+  "state": "Open",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Fire - Wildland Division (WUI)"
+  ],
+  "request_text_excerpt": "I request copies of the following records, citywide, covering the period from June 1, 2025 to the date this request is processed: 1. WAMMR Applicant Correspondence and Submitted Materials All correspondence, including emails, between applicants and Berkeley Fire Department / WUI Division staff or contracted inspectors regarding Wildfire Alternate Means and Measures Request (WAMMR) applications submitted under EMBER, together with any application forms, photographs, plans, or other materials submitted by an applicant in support of a WAMMR request during the period specified above. This request …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2901",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": 0
+  },
+  "notes": [],
+  "decision": null
+}

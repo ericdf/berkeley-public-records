@@ -1,0 +1,25 @@
+{
+  "id": "26-2855",
+  "source": "nextrequest",
+  "request_date": "2026-09-24",
+  "state": "Open",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Planning – Housing Code Enforcement"
+  ],
+  "request_text_excerpt": "Requesting information on any open or active Building code violations, Planning code violations, Code enforcement violations, and Fire code violations with respect to the property located at 2525 Durant Avenue, Berkeley, CA 94704. Thank you",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2855",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": 0
+  },
+  "notes": [],
+  "decision": null
+}

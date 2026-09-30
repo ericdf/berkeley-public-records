@@ -1,0 +1,32 @@
+{
+  "id": "26-2744",
+  "source": "nextrequest",
+  "request_date": "2026-09-16",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Fire - Operations",
+    "Fire - Fire Prevention"
+  ],
+  "request_text_excerpt": "I am writing to request a copy of the incident report regarding the fire that occurred at approximately 3:00 a.m. on April 29, 2026, at 2214 Bonar Street, Berkeley, CA 94702.",
+  "document_count": 1,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2744",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [
+      "Fire - Operations"
+    ],
+    "keywords": [
+      "report"
+    ],
+    "negative": [
+      "incident report"
+    ],
+    "score": 2
+  },
+  "notes": [],
+  "decision": null
+}

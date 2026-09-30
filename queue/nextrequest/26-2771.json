@@ -1,0 +1,27 @@
+{
+  "id": "26-2771",
+  "source": "nextrequest",
+  "request_date": "2026-09-17",
+  "state": "Closed",
+  "visibility": "Published - department only",
+  "published": false,
+  "departments": [
+    "Multi-Department"
+  ],
+  "request_text_excerpt": "I'm looking for code violation records related to tall grass/weeds and trash/debris over the past 30 days. Residential properties and vacant lots/land only (not commercial). Please include both open and closed violations if you have them.",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2771",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [
+      "Multi-Department"
+    ],
+    "keywords": [],
+    "negative": [],
+    "score": -2
+  },
+  "notes": [],
+  "decision": null
+}

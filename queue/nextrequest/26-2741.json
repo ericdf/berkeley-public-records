@@ -1,0 +1,28 @@
+{
+  "id": "26-2741",
+  "source": "nextrequest",
+  "request_date": "2026-09-16",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Public Works - Operations"
+  ],
+  "request_text_excerpt": "… Please send the final and compiled bid tabulation (bid tally), including all quantities and unit pricing for each bidder, for 'Southwest Berkeley Bikeway and Bus Stop Improvements' that was submitted on 10/22/2024. I believe the project number is '24-11640-C & 24-11666-C', but I could be mistaken. If so, please use the project name and date to lookup the responsive documents. We specifically request the line-item bid tabulation showing each material, quantity, unit, and unit price for every bidder. If no such line-item tally was created, please provide the full bid submissions from each …",
+  "document_count": 1,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2741",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [
+      "bid tally",
+      "bidder"
+    ],
+    "negative": [],
+    "score": 4
+  },
+  "notes": [],
+  "decision": null
+}

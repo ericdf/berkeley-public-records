@@ -1,0 +1,25 @@
+{
+  "id": "26-2762",
+  "source": "nextrequest",
+  "request_date": "2026-09-17",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Planning – Housing Code Enforcement"
+  ],
+  "request_text_excerpt": "RE: California Public Records Act Request – Code Enforcement Complaints & Blight Registry Pursuant to the California Public Records Act (Government Code § 7920.000 et seq.), I am formally requesting a complete digital copy and full data export of all code enforcement complaints, neighborhood service requests, environmental blight filings, and inspection histories logged against or regarding the property located at 1371 Dwight Way, Berkeley, CA 94702 from January 1, 2014 through the present date. This request explicitly requires all back-end data fields and documentation associated with these …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2762",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": -3
+  },
+  "notes": [],
+  "decision": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "26-2920",
+  "source": "nextrequest",
+  "request_date": "2026-09-30",
+  "state": "Open",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Public Works - Operations"
+  ],
+  "request_text_excerpt": "… Please send the final and compiled bid tabulation (bid tally), including all quantities and unit pricing for each bidder, for 'Hardscape Repair and Replacement for PRW' that was submitted on 11/16/2023. We specifically request the line-item bid tabulation showing each material, quantity, unit, and unit price for every bidder. If no such line-item tally was created, please provide the full bid submissions from each contractor. A grand total sheet alone is not sufficient to satisfy this request unless it was a lump sum bid. Below is an example of the format we are looking for that the …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2920",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [
+      "bid tally",
+      "bidder"
+    ],
+    "negative": [],
+    "score": 2
+  },
+  "notes": [],
+  "decision": null
+}

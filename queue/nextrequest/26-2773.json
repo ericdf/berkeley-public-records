@@ -1,0 +1,25 @@
+{
+  "id": "26-2773",
+  "source": "nextrequest",
+  "request_date": "2026-09-18",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Planning – Housing Code Enforcement"
+  ],
+  "request_text_excerpt": "Personal Independent Research. Please provide code violations involving tall grass/weeds and trash/debris from the past 30 days, limited to residential properties and vacant lots, including both open and closed cases.",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2773",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": -3
+  },
+  "notes": [],
+  "decision": null
+}

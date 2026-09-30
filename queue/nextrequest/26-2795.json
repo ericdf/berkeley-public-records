@@ -1,0 +1,27 @@
+{
+  "id": "26-2795",
+  "source": "nextrequest",
+  "request_date": "2026-09-19",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Fire - Wildland Division (WUI)"
+  ],
+  "request_text_excerpt": "I request the complete contract file for Contract No. 32200227 with Fire Aside, LLC, currently titled “Wildfire Resilience Software” (originally titled “Mobile Vegetation Management Inspection Software” at its inception). This contract has been amended more than once, most recently in 2026. NOTE This is a new, standalone request. It is not a follow-up to request 26-1526, which the City closed stating that all records had been released. I do not agree that closure was accurate, for reasons stated below, and am filing this as a fresh request rather than continuing to pursue 26-1526. …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2795",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [
+      "contract"
+    ],
+    "negative": [],
+    "score": -2
+  },
+  "notes": [],
+  "decision": null
+}

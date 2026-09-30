@@ -1,0 +1,25 @@
+{
+  "id": "26-2834",
+  "source": "nextrequest",
+  "request_date": "2026-09-22",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Planning - Land Use"
+  ],
+  "request_text_excerpt": "please see attached.",
+  "document_count": 1,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2834",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": 2
+  },
+  "notes": [],
+  "decision": null
+}

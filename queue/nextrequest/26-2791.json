@@ -1,0 +1,28 @@
+{
+  "id": "26-2791",
+  "source": "nextrequest",
+  "request_date": "2026-09-19",
+  "state": "Open",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "City Attorney"
+  ],
+  "request_text_excerpt": "Subject: CPRA 25-944 — Disputed Claim of Agreement, Consolidation Records, and Outstanding Hard-Copy Request To Samuel Harvey and the City of Berkeley: Your May 20, 2025 response to request 25-944 states: “As agreed upon between your attorney Tania Rose and the City,” followed by discussion of identifying responsive records and consolidating overlapping requests. I never approved or authorized combining my public records requests. Please identify precisely what agreement the City claims existed, its date, its participants, and its scope. Do not characterize me as having consented. The May 23 …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2791",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [
+      "agreement",
+      "claims"
+    ],
+    "negative": [],
+    "score": 2
+  },
+  "notes": [],
+  "decision": null
+}

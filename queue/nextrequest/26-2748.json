@@ -1,0 +1,29 @@
+{
+  "id": "26-2748",
+  "source": "nextrequest",
+  "request_date": "2026-09-16",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Fire - Fire Prevention"
+  ],
+  "request_text_excerpt": "I am conducting a Phase I Environmental Site Assessment. Please provide all records for the property at 1817 Oxford Street, Berkeley, CA on file with your department pertaining to hazardous substance use, storage or releases, or the presence of USTs, ASTs, or AULs.",
+  "document_count": 1,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2748",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [
+      "environmental site",
+      "hazardous substance",
+      "phase i"
+    ],
+    "score": -4
+  },
+  "notes": [],
+  "decision": null
+}

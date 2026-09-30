@@ -1,0 +1,66 @@
+{
+ "total_count": 6,
+ "timeline": [
+  {
+   "timeline_id": 122996375,
+   "timeline_icon_class": "fas fa-eye",
+   "timeline_name": "Request Published",
+   "timeline_display_text": null,
+   "timeline_state": "Anyone with access to this request",
+   "timeline_byline": "September 25, 2026, 10:39am by Staff",
+   "timeline_is_collapsable": false,
+   "timeline_is_pinned": false
+  },
+  {
+   "timeline_id": 122996371,
+   "timeline_icon_class": "far fa-check-square",
+   "timeline_name": "Request Closed",
+   "timeline_display_text": "<p>All records have been released, and your request has been fulfilled</p>",
+   "timeline_state": "Anyone with access to this request",
+   "timeline_byline": "September 25, 2026, 10:39am by Staff",
+   "timeline_is_collapsable": true,
+   "timeline_is_pinned": false
+  },
+  {
+   "timeline_id": 122996192,
+   "timeline_icon_class": "fas fa-file-alt",
+   "timeline_name": "Document(s) Released",
+   "timeline_display_text": "2740 Telegraph Ave Inspection History 01012020-09242026.PDF<br>2740 Telegraph Ave Inspection #139121.pdf-redacted.pdf<br>",
+   "timeline_state": "Anyone with access to this request",
+   "timeline_byline": "September 25, 2026, 10:39am by Staff",
+   "timeline_is_collapsable": false,
+   "timeline_is_pinned": false
+  },
+  {
+   "timeline_id": 122890217,
+   "timeline_icon_class": "fas fa-university",
+   "timeline_name": "Department Assignment",
+   "timeline_display_text": "Added: Fire - Fire Prevention. Removed: Fire - General.",
+   "timeline_state": "Anyone with access to this request",
+   "timeline_byline": "September 24, 2026,  3:33pm by Staff",
+   "timeline_is_collapsable": false,
+   "timeline_is_pinned": false
+  },
+  {
+   "timeline_id": 122868484,
+   "timeline_icon_class": "fas fa-university",
+   "timeline_name": "Department Assignment",
+   "timeline_display_text": "Fire - General",
+   "timeline_state": "Anyone with access to this request",
+   "timeline_byline": "September 24, 2026,  1:55pm by the requester",
+   "timeline_is_collapsable": false,
+   "timeline_is_pinned": false
+  },
+  {
+   "timeline_id": 122868481,
+   "timeline_icon_class": "fas fa-folder-open",
+   "timeline_name": "Request Opened",
+   "timeline_display_text": "Request received  via web",
+   "timeline_state": "Anyone with access to this request",
+   "timeline_byline": "September 24, 2026,  1:55pm by the requester",
+   "timeline_is_collapsable": false,
+   "timeline_is_pinned": false
+  }
+ ],
+ "pinned": []
+}

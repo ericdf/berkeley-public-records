@@ -1,0 +1,27 @@
+{
+  "id": "26-2885",
+  "source": "nextrequest",
+  "request_date": "2026-09-26",
+  "state": "Open",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "City Attorney"
+  ],
+  "request_text_excerpt": "COUNT — VIOLATION OF THE CALIFORNIA PUBLIC RECORDS ACT (Gov. Code § 7920.000 et seq.) Petitioner incorporates the preceding allegations. On October 7, 2025, Petitioner submitted CPRA Request No. 25-2410 to the City of Berkeley. The request sought existing public records concerning expenditures, invoices, staff-time records, internal cost allocations, enforcement-related costs, resource-use communications, and legal or consultant fees associated with Petitioner's ADA matters, CPRA requests, fines, billing notices, and related administrative actions. The request expressly identified records …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2885",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [
+      "consultant"
+    ],
+    "negative": [],
+    "score": 1
+  },
+  "notes": [],
+  "decision": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "26-2797",
+  "source": "nextrequest",
+  "request_date": "2026-09-19",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Finance"
+  ],
+  "request_text_excerpt": "Under the California Public Records Act, I request copies of all records concerning the Tax Compliance Audit conducted in or around January 2026 relating to the property at 1641 Allston Way, Berkeley, California. This request includes: All internal and external correspondence concerning the audit or the property. Records showing what triggered or initiated the audit, including any complaints, referrals, reports, database searches, selection criteria, or communications from other City departments or third parties. Records showing how the City determined that the property was not in compliance …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2797",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [
+      "Finance"
+    ],
+    "keywords": [
+      "audit"
+    ],
+    "negative": [],
+    "score": -1
+  },
+  "notes": [],
+  "decision": null
+}

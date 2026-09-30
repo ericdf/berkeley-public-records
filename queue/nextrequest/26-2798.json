@@ -1,0 +1,25 @@
+{
+  "id": "26-2798",
+  "source": "nextrequest",
+  "request_date": "2026-09-19",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Planning - Building & Safety"
+  ],
+  "request_text_excerpt": "I would like to request access to any previous construction drawings or blueprints for 1810 Francisco Street, Berkeley, CA 94703, to aid in future design and renovation work on the building. Thank you.",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2798",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": -3
+  },
+  "notes": [],
+  "decision": null
+}

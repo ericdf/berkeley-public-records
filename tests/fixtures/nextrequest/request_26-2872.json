@@ -1,0 +1,42 @@
+{
+ "pretty_id": "26-2872",
+ "request_text": "<p>Please see the attached request. Thank you.</p>",
+ "request_state": "Closed",
+ "visibility": "published",
+ "request_visibility": "Published",
+ "request_due_date": null,
+ "request_submit_type": null,
+ "request_date": "September 24, 2026",
+ "anticipated_fulfilled_at": null,
+ "expiration_date": null,
+ "exempt_from_retention": false,
+ "exempt_documents_from_retention": false,
+ "department_names": "Fire - Fire Prevention",
+ "departments": [
+  {
+   "id": 30200,
+   "name": "Fire - Fire Prevention",
+   "poc_id": 821757
+  }
+ ],
+ "request_staff_hours": null,
+ "request_staff_cost": null,
+ "custom_form_version": null,
+ "request_field_values": [],
+ "poc": {
+  "id": 821757,
+  "email_or_name": "Soungpanya, Diana ",
+  "has_tasks": false,
+  "undeliverable_email": false
+ },
+ "is_current_requester": false,
+ "requester": {
+  "id": 3107243,
+  "name_with_email": null,
+  "name": null,
+  "email": null,
+  "phone": null,
+  "company": null,
+  "address": null
+ }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "26-2887",
+  "source": "nextrequest",
+  "request_date": "2026-09-27",
+  "state": "Open",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Information Technology"
+  ],
+  "request_text_excerpt": "Dear Records Officer, I hope you are doing well. Thank you for your time and for the work you do. Pursuant to the California Public Records Act (Cal. Gov. Code § 6250 et seq.), I am requesting copies of contracts and purchasing records related to the following cybersecurity products or services that were active at any point between January 1, 2024 and the present: Endpoint Detection & Response (EDR/MDR) Security Operations Platforms (SIEM/SOC) Vulnerability & Exposure Management Identity, Multi-Factor Authentication (MFA) & Privileged Access Management (PAM) Immutable Backup, Disaster …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2887",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": 0
+  },
+  "notes": [],
+  "decision": null
+}

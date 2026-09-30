@@ -1,0 +1,25 @@
+{
+  "id": "26-2788",
+  "source": "nextrequest",
+  "request_date": "2026-09-18",
+  "state": "Open",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "City Attorney"
+  ],
+  "request_text_excerpt": "Subject: Request 25-3088 — Objection to Closure and Consolidation; Request for Search, Withholding, and Transfer Records To the City of Berkeley: I dispute the January 27, 2026 closure statement for request 25-3088 that “All records have been released, and your request has been fulfilled.” The accompanying City message states that documents or portions were withheld and that responsive records covered by 24-773 or other open requests would be provided under those other timelines. Please clarify and correct the completion status so it accurately distinguishes records produced, records …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2788",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": 0
+  },
+  "notes": [],
+  "decision": null
+}

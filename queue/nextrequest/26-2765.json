@@ -1,0 +1,29 @@
+{
+  "id": "26-2765",
+  "source": "nextrequest",
+  "request_date": "2026-09-17",
+  "state": "Open",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Multi-Department"
+  ],
+  "request_text_excerpt": "For the property located at 2409 College Avenue in Berkeley, CA, I am requesting the following records/information, if applicable: the storage and/or release of hazardous substances or petroleum products, including any incidents involving water or land contamination, AST/UST information, and any permits, registrations, occupancy records, inspection reports, and/or notices of violation. These records may be available from your building, fire, engineering, environmental, and/or public works departments. Thank you in advance!",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2765",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [
+      "Multi-Department"
+    ],
+    "keywords": [],
+    "negative": [
+      "ust"
+    ],
+    "score": -1
+  },
+  "notes": [],
+  "decision": null
+}

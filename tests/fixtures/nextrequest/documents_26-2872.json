@@ -1,0 +1,70 @@
+{
+ "total_documents_count": 2,
+ "current_documents_count": 2,
+ "all_documents_count": 2,
+ "no_folder_documents_count": 2,
+ "documents_state_timestamp": 1790789421,
+ "documents": [
+  {
+   "request_id": 6175504,
+   "id": 70978065,
+   "title": "2740 Telegraph Ave Inspection History 01012020-09242026.PDF",
+   "review_state": "Unprocessed",
+   "link": false,
+   "document_scan": {
+    "id": null,
+    "document_id": 70978065,
+    "pretty_id": "26-2872",
+    "review_status": null,
+    "title": "2740 Telegraph Ave Inspection History 01012020-09242026.PDF",
+    "severity": null,
+    "findings": null,
+    "file_size": null,
+    "file_type": "pdf",
+    "visibility": "public",
+    "document_path": "/documents/70978065",
+    "upload_date": "2026-09-25T10:02:21.224-07:00"
+   },
+   "asset_url": "//nextrequestdev.s3.amazonaws.com/cityofberkeleyca/26-2872/e9db3f99-0c8b-4c27-a8c9-41523c2a09e8.PDF",
+   "file_extension": "pdf",
+   "visibility": "Public",
+   "upload_date": "Uploaded: 09/25/2026",
+   "folder_id": null,
+   "subfolder_id": null,
+   "folder_name": "",
+   "subfolder_name": "",
+   "exempt_from_retention": false
+  },
+  {
+   "request_id": 6175504,
+   "id": 70978846,
+   "title": "2740 Telegraph Ave Inspection #139121.pdf-redacted.pdf",
+   "review_state": "Redacted",
+   "link": false,
+   "document_scan": {
+    "id": null,
+    "document_id": 70978846,
+    "pretty_id": "26-2872",
+    "review_status": null,
+    "title": "2740 Telegraph Ave Inspection #139121.pdf-redacted.pdf",
+    "severity": null,
+    "findings": null,
+    "file_size": null,
+    "file_type": "pdf",
+    "visibility": "public",
+    "document_path": "/documents/70978846",
+    "upload_date": "2026-09-25T10:03:31.514-07:00"
+   },
+   "asset_url": "//nextrequestdev.s3.amazonaws.com/cityofberkeleyca/26-2872/d111bc2d-e22a-4d18-ba3f-2621ed69e5ec",
+   "file_extension": "pdf",
+   "visibility": "Public",
+   "upload_date": "Uploaded: 09/25/2026",
+   "redacted_date": "Redacted: 09/25/2026",
+   "folder_id": null,
+   "subfolder_id": null,
+   "folder_name": "",
+   "subfolder_name": "",
+   "exempt_from_retention": false
+  }
+ ]
+}

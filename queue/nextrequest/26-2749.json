@@ -1,0 +1,27 @@
+{
+  "id": "26-2749",
+  "source": "nextrequest",
+  "request_date": "2026-09-16",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Planning - Building & Safety"
+  ],
+  "request_text_excerpt": "Please provide all building records, permits, and occupancy records for the property at 1817 Oxford Street, Berkeley, CA. Please also include any records pertaining to hazardous substance use, storage or releases, or the presence of USTs, ASTs, AULs, etc. for the property.",
+  "document_count": 3,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2749",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [
+      "hazardous substance"
+    ],
+    "score": 0
+  },
+  "notes": [],
+  "decision": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "26-2816",
+  "source": "nextrequest",
+  "request_date": "2026-09-21",
+  "state": "Due soon",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Planning - Building & Safety"
+  ],
+  "request_text_excerpt": "Dear Permit Service Center, I am requesting the City of Berkeley’s complete soft-story building inventory, preferably in Excel or CSV format. If available, please include the following information for each property: Property address Assessor’s Parcel Number (APN) Original soft-story determination or classification Applicable ordinance or program Current compliance status Retrofit permit number Permit issuance date Final inspection or retrofit completion date Any properties removed from or exempted from the program Please provide both the original inventory and the most current list showing …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2816",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [
+      "apn"
+    ],
+    "score": -2
+  },
+  "notes": [],
+  "decision": null
+}

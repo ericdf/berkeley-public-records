@@ -1,0 +1,25 @@
+{
+  "id": "26-2800",
+  "source": "nextrequest",
+  "request_date": "2026-09-19",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Planning - Building & Safety"
+  ],
+  "request_text_excerpt": "This is a CPRA request. The The California Public Records Act requires records held by a government agency about a person be made available for inspection to the person or her designee. Gov. Code § 7927.410. This request is made on behalf of Elidia Duarte, who at all relevant times resided and resides at 1501 Blake Street, apt. 309, Berkeley, CA 94703 Mrs. Duarte requests to see following documents for the period October 6, 2022 to the date of production: 1. Applications by the landowner of 1501 Blake Street for permits to to alter the windows 1501 Blake Street, apt. 309, Berkeley, CA 94703. …",
+  "document_count": 9,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2800",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": 2
+  },
+  "notes": [],
+  "decision": null
+}

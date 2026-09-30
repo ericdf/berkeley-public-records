@@ -1,0 +1,25 @@
+{
+  "id": "26-2814",
+  "source": "nextrequest",
+  "request_date": "2026-09-21",
+  "state": "Due soon",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "City Attorney"
+  ],
+  "request_text_excerpt": "NEW CPRA REQUEST — Records Showing How PRA 25-956 Was Supposedly Satisfied Through PRA 25-1088 The City closed PRA 25-956 and stated that it would be responded to under PRA 25-1088. The current production available under PRA 25-1088 contains only six PDF files. I request all existing records showing: who determined that PRA 25-956 was fully covered by PRA 25-1088; what records responsive specifically to PRA 25-956 were located; which of the six produced PDFs the City contends satisfy PRA 25-956; what custodians, accounts, databases, and repositories were searched; what search terms and date …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2814",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": 0
+  },
+  "notes": [],
+  "decision": null
+}

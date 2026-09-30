@@ -1,0 +1,25 @@
+{
+  "id": "26-2805",
+  "source": "nextrequest",
+  "request_date": "2026-09-21",
+  "state": "Due soon",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "City Attorney"
+  ],
+  "request_text_excerpt": "Hello I am seeking Any and all communications or other records from City staff, (any department), to/from or about: Rick Lewis (BACLT-Bay Area Community Land Trust) and/or LISC (Local Initiative Support Corporation) from February 1, 2021 April 30, 2021.",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2805",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": 0
+  },
+  "notes": [],
+  "decision": null
+}
