@@ -270,6 +270,10 @@ anyway, that is a maintainer decision recorded in the queue entry, with the reas
 
 All writes go through pull requests. This section is the policy.
 
+To add a document using only GitHub's website, follow [inbox/README.md](inbox/README.md); a
+workflow files it and comments with the result. Software agents follow [AGENTS.md](AGENTS.md).
+A file over 25 MB (GitHub's website refuses it) is offered through a "Large file" Issue instead.
+
 ### Who can write
 
 - Access is by invitation of the maintainer. Contributors open pull requests; **only the

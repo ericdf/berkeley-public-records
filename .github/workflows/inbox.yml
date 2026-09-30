@@ -1,0 +1,93 @@
+name: inbox
+# Processes contributions uploaded to inbox/ (see inbox/README.md): files each document,
+# writes its manifest entry and L1 text, commits the result back to the pull request branch,
+# and comments with what was added or with plain-English errors.
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths: ['inbox/**']
+permissions:
+  contents: write        # commit the processed files back to the PR branch
+  pull-requests: write   # comment on the PR
+  statuses: write        # mark the processed commit validated (see the last step)
+concurrency:
+  group: inbox-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+jobs:
+  process:
+    # Only branches in this repository. A fork's pull request gets a read-only token, and its
+    # branch lives in the fork, so the job could neither push the result back nor comment; the
+    # contributor would see a confusing failure. Contributors are invited collaborators and
+    # push branches here.
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      PR: ${{ github.event.pull_request.number }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+      - name: Loop guard
+        id: guard
+        # Pushes made with GITHUB_TOKEN do not start workflows, so the bot's own commit cannot
+        # retrigger this job. As a second guard, do nothing if the branch head is that commit.
+        run: |
+          if [ "$(git log -1 --format=%an)" = "github-actions[bot]" ] && \
+             git log -1 --format=%s | grep -q '^Process inbox:'; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Install pdftotext
+        if: steps.guard.outputs.skip != 'true'
+        run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+      - name: Process inbox
+        id: process
+        if: steps.guard.outputs.skip != 'true'
+        continue-on-error: true
+        run: |
+          python3 tools/process_inbox.py \
+            --contributor "${{ github.event.pull_request.user.login }}" \
+            --summary-file "$RUNNER_TEMP/summary.md"
+      - name: Validate the final state
+        id: validate
+        if: steps.guard.outputs.skip != 'true' && steps.process.outcome == 'success'
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          { python3 tools/validate.py && python3 -m unittest discover -s tests; } 2>&1 \
+            | tee "$RUNNER_TEMP/validate.txt"
+      - name: Commit the processed files to the PR branch
+        id: commit
+        if: steps.validate.outcome == 'success'
+        run: |
+          git add -A
+          if git diff --cached --quiet; then exit 0; fi
+          IDS=$(git diff --cached --name-only --diff-filter=A -- manifest/ \
+                | sed 's|manifest/||; s|\.json$||' | { grep -v -- '-text$' || true; } | paste -sd, - | sed 's/,/, /g')
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "Process inbox: $IDS"
+          git push origin "HEAD:${{ github.event.pull_request.head.ref }}"
+          # This push starts no workflows, so record the validation just run on the new head.
+          gh api "repos/${{ github.repository }}/statuses/$(git rev-parse HEAD)" \
+            -f state=success -f context="inbox / validate (processed commit)" \
+            -f description="validate.py and tests passed on this commit" > /dev/null
+      - name: Comment on the pull request
+        if: always() && steps.guard.outputs.skip != 'true'
+        run: |
+          # An edit that only touches inbox/README.md has nothing to report.
+          if grep -q '^The inbox is empty' "$RUNNER_TEMP/summary.md" 2>/dev/null; then exit 0; fi
+          {
+            cat "$RUNNER_TEMP/summary.md" 2>/dev/null || echo "The inbox step did not run to completion; see the workflow log."
+            if [ "${{ steps.validate.outcome }}" = "failure" ]; then
+              echo; echo "**Validation failed after processing, so nothing was committed.** The maintainer will look at it. Output:"
+              echo; echo '```'; tail -n 40 "$RUNNER_TEMP/validate.txt"; echo '```'
+            fi
+            if [ "${{ steps.commit.outcome }}" = "failure" ]; then
+              echo; echo "**The processed files could not be pushed** (was the branch updated meanwhile?). Push any change to retry."
+            fi
+          } > "$RUNNER_TEMP/comment.md"
+          gh pr comment "$PR" --body-file "$RUNNER_TEMP/comment.md"
+      - name: Fail if anything failed
+        if: steps.process.outcome == 'failure' || steps.validate.outcome == 'failure' || steps.commit.outcome == 'failure'
+        run: exit 1
