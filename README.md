@@ -24,6 +24,22 @@ published, and each file is listed in `manifest/`.
 | **L2 — structured extractions** | Machine-readable data parsed from L0/L1, e.g. motion-level votes from annotated agendas | Only as good as its parser; each L2 dataset ships with its validator and tests. None yet. |
 | **L3 — speaker attribution** | Who is speaking in each segment of a caption transcript | **Not authoritative.** See the notice below. None yet. |
 
+### T0 — published third-party documents
+
+Some documents that matter to Berkeley's public decisions were published by someone other than a
+public body: press reporting, community-organization reports, candidate questionnaires. They are
+public in the sense of published, but they are **not public records**, and the archive keeps them
+apart so no one mistakes one for the other.
+
+- They live in `T0/<collection>/`, with layer `T0` in the manifest, never in `L0/`.
+- Each entry names the `publisher` and states its `relevance`: the public decision or official
+  it bears on, in neutral terms. Relevance is not commentary; it says why the document is here,
+  not what it shows.
+- The same provenance rules apply: `source_url`, or a `source_note` saying how it was obtained.
+- L1 text may be derived from T0 documents, as from L0.
+- Copyright stays with the publisher. The archive is private to invited collaborators; if it is
+  ever made public, T0 holdings are reviewed first.
+
 ### Current holdings
 
 | Collection | Layer | Path |
@@ -31,6 +47,7 @@ published, and each file is listed in `manifest/`.
 | Berkeley City Council meeting captions, from December 10, 2024 | L0 PDF, L1 text | `L0/council-captions/`, `L1/council-captions/` |
 | Berkeley City Council annotated agendas (the City's record of motions and votes), from December 10, 2024 | L0 PDF | `L0/annotated-agendas/` |
 | City budgets, audits, financial statements and policies, investment reports, Measure T1 and 2026 ballot-measure records, labor contracts, and related reports | L0 PDF, L1 text | `L0/sources/<collection>/`, `L1/sources/<collection>/` |
+| Published third-party documents: a 2011 AABPCN community report, a 2025 Berkeleyside article on the SCU transfer, a 2024 candidate questionnaire | T0 PDF, L1 text | `T0/<collection>/`, `L1/third-party/` |
 
 Two caption transcripts (the April 16 and April 23, 2026 Budget Committee meetings) exist
 only as text; their source PDFs were not retained. Their manifest entries say so.

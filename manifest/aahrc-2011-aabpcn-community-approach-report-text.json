@@ -1,0 +1,21 @@
+{
+  "id": "aahrc-2011-aabpcn-community-approach-report-text",
+  "layer": "L1",
+  "doc_type": "third_party_publication_text",
+  "collection": "aahrc",
+  "title": "A Community Approach for African American/Black Culturally Congruent Services",
+  "file": "L1/third-party/aahrc-2011-aabpcn-community-approach-report-text.txt",
+  "sha256": "c0c6c0a41ff2d6a267e2b42549d51e02ba3a930b9d54e650b9f7f2772e5e3181",
+  "bytes": 80939,
+  "derived_from": {
+    "id": "aahrc-2011-aabpcn-community-approach-report",
+    "sha256": "cb1911885c27e1ecfcb9ebd0398bfddb3d9c6728ca2c1b366ddb42afdbab317d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <T0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

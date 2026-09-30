@@ -1,0 +1,21 @@
+{
+  "id": "campaigns-2024-bnhca-questionnaire-tregub-text",
+  "layer": "L1",
+  "doc_type": "third_party_publication_text",
+  "collection": "campaigns",
+  "title": "Berkeley Neighbors for Housing & Climate Action — 2024 Candidate Questionnaire: Igor Tregub (District 4)",
+  "file": "L1/third-party/campaigns-2024-bnhca-questionnaire-tregub-text.txt",
+  "sha256": "9104e94d5e4c98dd70b9b903930c10b3e5acdddbde49c4619ed0886df1ee3eca",
+  "bytes": 18752,
+  "derived_from": {
+    "id": "campaigns-2024-bnhca-questionnaire-tregub",
+    "sha256": "e8b96994f6491ec005ca2a4bcac8c310dde209de65df2c8d0a5f40735e277365"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <T0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
