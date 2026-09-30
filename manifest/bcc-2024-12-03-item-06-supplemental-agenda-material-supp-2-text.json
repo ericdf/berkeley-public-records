@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-12-03-item-06-supplemental-agenda-material-supp-2-text",
+  "layer": "L1",
+  "doc_type": "supplemental_agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-12-03",
+  "meeting_label": "regular",
+  "title": "Supplemental Agenda Material for Supplemental Packet 2: Memorandum of Understanding: Public Employees Union – Local One",
+  "file": "L1/staff-reports/bcc-2024-12-03-item-06-supplemental-agenda-material-supp-2-text.txt",
+  "sha256": "3d241de38bc0254f35372e1189fe740d4cc9a68eb9ccac0701e1d0ad9c952334",
+  "bytes": 785826,
+  "derived_from": {
+    "id": "bcc-2024-12-03-item-06-supplemental-agenda-material-supp-2",
+    "sha256": "6ad3d9381fccde2f4b9f3b2e432d4105de90fcb1136a08b58a452cd4da71a623"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

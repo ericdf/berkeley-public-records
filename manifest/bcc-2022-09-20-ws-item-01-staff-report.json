@@ -1,0 +1,40 @@
+{
+  "id": "bcc-2022-09-20-ws-item-01-staff-report",
+  "layer": "L0",
+  "doc_type": "staff_report",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "publisher": "City of Berkeley — Office of the City Manager; Planning and Development Department",
+  "title": "Residential Objective Standards: Middle Housing and Southside",
+  "meeting_date": "2022-09-20",
+  "meeting_label": "work session",
+  "item": "Worksession Item 01",
+  "file": null,
+  "sha256": "b34d155ee1dcd293dc1c9a7d3a306a2fa693466421103f4146111e4c6a873d7f",
+  "bytes": 60385303,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/2022-09-20%20WS%20Item%2001%20Residential%20Objective%20Standards.pdf",
+  "source_note": "Downloaded from source_url on 2026-09-30.",
+  "retrieved": "2026-09-30",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-bcc-2022-09-20-ws-item-01-staff-report",
+        "path": "bcc-2022-09-20-ws-item-01-staff-report.pdf",
+        "uploaded": "2026-09-30",
+        "verified": null,
+        "verify_note": "Upload accepted and queued for processing by the Internet Archive; sha256 to be checked once the item is public."
+      },
+      {
+        "store": "google_drive",
+        "location": "berkeley-public-records-blobs/bcc-2022-09-20-ws-item-01-staff-report.pdf",
+        "uploaded": "2026-09-30",
+        "verified": "2026-09-30"
+      }
+    ]
+  }
+}
