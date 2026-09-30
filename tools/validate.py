@@ -7,7 +7,8 @@ Exit status 1 on any error. See README.md for the rules enforced here.
 import hashlib, json, os, re, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-LAYERS = ("L0", "L1", "L2", "L3")
+LAYERS = ("L0", "T0", "L1", "L2", "L3")
+ORIGINALS = ("L0", "T0")   # documents as published: public bodies (L0), third parties (T0)
 MAX_IN_GIT = 25 * 1024 * 1024
 ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]*$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -63,7 +64,9 @@ def main():
         for f in ("meeting_date", "retrieved", "archived"):
             if e.get(f) is not None and not DATE_RE.match(str(e[f])):
                 err(where, f"{f} must be YYYY-MM-DD")
-        if e["layer"] == "L0" and not e.get("source_url") and not e.get("source_note"):
+        if e["layer"] == "T0" and not (e.get("publisher") and e.get("relevance")):
+            err(where, "T0 needs publisher (who published it) and relevance (the public decision it bears on)")
+        if e["layer"] in ORIGINALS and not e.get("source_url") and not e.get("source_note"):
             err(where, "L0 needs source_url or source_note")
         if e["layer"] in ("L1", "L2", "L3"):
             if "derived_from" not in e:
@@ -76,8 +79,8 @@ def main():
             copies = (e.get("blob") or {}).get("copies") or []
             if len(copies) < 2:
                 err(where, "external blob needs at least two independent copies")
-            if e["layer"] != "L0":
-                err(where, "only L0 files may be external blobs")
+            if e["layer"] not in ORIGINALS:
+                err(where, "only L0/T0 files may be external blobs")
         else:
             path = os.path.join(ROOT, e["file"])
             if e["file"] in files_listed:
@@ -91,8 +94,8 @@ def main():
                     err(where, f"bytes {e['bytes']} != actual {size}")
                 if sha256(path) != e["sha256"]:
                     err(where, "sha256 does not match the file")
-                if size > MAX_IN_GIT and e["layer"] == "L0":
-                    err(where, "L0 file over 25 MB must be an external blob")
+                if size > MAX_IN_GIT and e["layer"] in ORIGINALS:
+                    err(where, f"{e['layer']} file over 25 MB must be an external blob")
         manifest[e["id"]] = e
 
     # derived_from must point at a real entry with a matching fingerprint

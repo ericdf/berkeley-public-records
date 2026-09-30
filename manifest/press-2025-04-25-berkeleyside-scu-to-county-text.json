@@ -1,0 +1,21 @@
+{
+  "id": "press-2025-04-25-berkeleyside-scu-to-county-text",
+  "layer": "L1",
+  "doc_type": "third_party_publication_text",
+  "collection": "press",
+  "title": "After years of unmet goals, Berkeley hands behavioral crisis response to county (Berkeleyside, Alex N. Gecan)",
+  "file": "L1/third-party/press-2025-04-25-berkeleyside-scu-to-county-text.txt",
+  "sha256": "07a0ba04722944177ee0d1698d802565c423803ec5d40ce05117272e7a9eb15b",
+  "bytes": 9491,
+  "derived_from": {
+    "id": "press-2025-04-25-berkeleyside-scu-to-county",
+    "sha256": "60645686445779c067bc2a1593e69a44de072e2b9e2cd516a8a06ca443d12f82"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <T0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
