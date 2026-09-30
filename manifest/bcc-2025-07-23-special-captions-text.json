@@ -1,0 +1,25 @@
+{
+  "id": "bcc-2025-07-23-special-captions-text",
+  "layer": "L1",
+  "doc_type": "council_captions_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-07-23",
+  "meeting_label": "Special",
+  "title": "BCC 2025-07-23 Special Captioning",
+  "file": "L1/council-captions/bcc-2025-07-23-special-captions-text.txt",
+  "sha256": "26b3837c7a4245d637ad2f179ab1dd5e59c39d5fe5976092d0002bc6876f9035",
+  "bytes": 173076,
+  "derived_from": {
+    "id": "bcc-2025-07-23-special-captions",
+    "sha256": "372bed2137e178ddadc3ad0d7ced3f19ba96dd15ff1b6082201965b1725f2e86"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [
+    "This information provided by a Certified Realtime Reporter. The City of Berkeley cannot certify the following text since we did not create it."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

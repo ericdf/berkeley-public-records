@@ -1,0 +1,25 @@
+{
+  "id": "bcc-2026-01-20-regular-captions-text",
+  "layer": "L1",
+  "doc_type": "council_captions_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-01-20",
+  "meeting_label": "Regular",
+  "title": "BCC 2026-01-20 Regular Captioning",
+  "file": "L1/council-captions/bcc-2026-01-20-regular-captions-text.txt",
+  "sha256": "4fe67155de3bf58bd8f6c58a3ef8b2b8e99588e5c6ad879ea17cfcd0e425f072",
+  "bytes": 255710,
+  "derived_from": {
+    "id": "bcc-2026-01-20-regular-captions",
+    "sha256": "737a3353e53287ca5faf006cdbc3c22eafffb9c8c4a553868c6b781329defdf7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [
+    "This information provided by Zoom. The City of Berkeley cannot certify the following text since we did not create it."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

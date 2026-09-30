@@ -1,0 +1,25 @@
+{
+  "id": "bcc-2026-05-19-special-and-regular-captions-text",
+  "layer": "L1",
+  "doc_type": "council_captions_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-05-19",
+  "meeting_label": "Special and Regular",
+  "title": "BCC 2026-05-19 Special and Regular Captioning",
+  "file": "L1/council-captions/bcc-2026-05-19-special-and-regular-captions-text.txt",
+  "sha256": "978899703a749adf7baba1884e21fda69f7a04d0b658ea7de26b26bce5203e74",
+  "bytes": 521111,
+  "derived_from": {
+    "id": "bcc-2026-05-19-special-and-regular-captions",
+    "sha256": "dc8584099001b0f5271ad061336854aa660e3c04631274b88492bfd50996c5ce"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [
+    "This information provided by Zoom. The City of Berkeley cannot certify the following text since we did not create it."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
