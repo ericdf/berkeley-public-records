@@ -1,0 +1,23 @@
+{
+  "id": "planning-commission-2026-04-15-item-10b-chairs-memo-text",
+  "layer": "L1",
+  "doc_type": "agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Planning Commission",
+  "meeting_date": "2026-04-15",
+  "title": "Item 10B: Objective Design Standards — Chair’s Memo (Objective Design Standards Discussion), with attachments",
+  "file": "L1/staff-reports/planning-commission-2026-04-15-item-10b-chairs-memo-text.txt",
+  "sha256": "197856f7642fd06e1489e543be058a81b46b147adf7570bf47077a31a98e8c73",
+  "bytes": 250964,
+  "derived_from": {
+    "id": "planning-commission-2026-04-15-item-10b-chairs-memo",
+    "sha256": "cf9bcca5bdb25cd065091765d44a0352ede18db173734d77c416a881783bdfc1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

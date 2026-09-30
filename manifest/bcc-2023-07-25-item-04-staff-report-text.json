@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2023-07-25-item-04-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2023-07-25",
+  "meeting_label": "regular",
+  "title": "Contract: Berkeley Convention and Visitor’s Bureau, d.b.a. Visit Berkeley",
+  "file": "L1/staff-reports/bcc-2023-07-25-item-04-staff-report-text.txt",
+  "sha256": "3eeea6adffc41b440744307110a1fef32ff378af15bd931d0329e869eb23c46f",
+  "bytes": 11340,
+  "derived_from": {
+    "id": "bcc-2023-07-25-item-04-staff-report",
+    "sha256": "cc272d06df1ffacb30ebe6f4336a2fe4fe039f18697002c0860b2fb4e152e7f0"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

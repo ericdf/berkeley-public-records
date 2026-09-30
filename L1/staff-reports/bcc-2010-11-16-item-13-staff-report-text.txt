@@ -1,0 +1,898 @@
+                                                                                                                         13
+
+Office of the City Auditor
+                                                                                          CONSENT CALENDAR
+                                                                                          November 16, 2010
+
+To:                     Honorable Mayor and Members of the City Council
+From:                   Ann-Marie Hogan, City Auditor
+Subject:                Employee Benefits: Tough Decisions Ahead (Audit Report)
+
+RECOMMENDATION
+Request the City Manager to report back on or before September 27, 2011 on the
+adoption status of the City Auditor’s recommendations. Report back no later than
+September 2012 on the full implementation status.
+
+SUMMARY
+Government employee benefits represent a rapidly increasing cost to the City. This
+report addresses three of the City’s significant employee-benefit costs and their
+associated underfunded liabilities. The City of Berkeley must:
+            Reduce today’s expenses and tomorrow’s liabilities.
+            Ensure that significant changes to employee benefits are subject to an actuarial
+             review.
+            Make it a policy to take into consideration the costs to administer new and
+             existing benefits.
+            Increase transparency and reduce administrative costs by working to implement
+             previous audit recommendations to simplify and standardize existing employee
+             pay and benefits.
+            Clearly communicate costs and liabilities to Council and the public.
+Council should adopt formal policies for negotiating, awarding, and monitoring
+employee benefits and benefit funding levels. Council should also adopt policies aimed
+at increasing the transparency of City benefits and compensation, to the extent
+consistent with existing law.
+
+FISCAL IMPACTS OF RECOMMENDATION
+The City’s employer-share of CalPERS is estimated to total $40.9 million by fiscal year
+2016, which is an increase of $15.12 million over actual fiscal year 2010 payments. By
+fiscal year 2016, the cost to fully pay the annual required contribution for the Police
+Retiree Medical plan is estimated at $3.3 million.
+
+RATIONALE FOR RECOMMENDATION
+Implementing our recommendations will help reduce costs and increase transparency.
+
+CONTACT PERSON
+Ann-Marie Hogan, City Auditor (510) 981-6750
+
+Attachments:
+1: Employee Benefits: Tough Decisions Ahead (Audit Report)
+
+              2180 Milvia Street, Berkeley, CA 94704 ● Tel: (510) 981-6750 ● TDD: (510) 981-6903 ● Fax: (510) 981-6760
+                           E-mail: auditor@ci.berkeley.ca.us ● Website: http://www.ci.berkeley.ca.us/auditor
+            City of Berkeley
+
+
+
+
+      Employee Benefits:
+    Tough Decisions Ahead
+
+                                Prepared by:
+
+      Ann-Marie Hogan, City Auditor, CIA, CGAP
+ Teresa Berkeley-Simmons, Audit Manager, CIA, CGAP
+            Claudette Biemeret, Auditor II
+
+
+
+           Presented to Council November 16, 2010
+
+
+
+
+2180 Milvia Street, Berkeley, CA 94704 ♦ Tel.: (510) 981-6750 ♦ Fax: (510) 981-6760
+     Email: auditor@cityofberkeley.info ♦ Web: www.cityofberkeley.info/auditor
+                              Employee Benefits: Tough Decisions Ahead
+
+                                                    Table of Contents
+
+
+Introduction ..................................................................................................................... 1
+
+Employee Compensation Costs: Salaries and Benefits .................................................. 1
+
+Employee-Benefit-Related Liabilities ............................................................................... 2
+
+          CalPERS .............................................................................................................. 3
+
+          Police Retiree Medical .......................................................................................... 5
+
+          Sick Leave and Vacation Payouts ........................................................................ 6
+
+Closing the Benefits-Liability Gap: General Fund and All Funds ..................................... 7
+
+City Auditor Recommendations ....................................................................................... 8
+
+Appendix A: The City’s Employee-Benefit-Related Liabilities........................................ 10
+
+Appendix B: Salary vs. Compensation – The Total Benefit Package ............................ 11
+
+Appendix C: The General Fund ..................................................................................... 13
+
+Appendix D: Scope and Methodology ........................................................................... 14
+                                                     Employee Benefits: Tough Decisions Ahead
+
+
+Introduction
+
+California taxpayers are increasingly concerned about the rising cost of doing business.
+Government employee benefits represent a rapidly increasing cost that is not well
+understood by the public. The City of Berkeley must:
+
+    •   Reduce today’s expenses and tomorrow’s liabilities.
+    •   Ensure that significant changes to employee benefits are subject to an actuarial
+        review.
+    •   Make it a policy to take into consideration the costs to administer new and
+        existing benefits.
+    •   Increase transparency and reduce administrative costs by working to implement
+        previous audit recommendations to simplify and standardize existing employee
+        pay and benefits.
+    •   Clearly communicate costs and liabilities to Council and the public.
+
+This report addresses three of the City’s significant employee-benefit costs and their
+associated underfunded liabilities.
+
+               Three Significant Employee-Benefit-Related Liabilities
+                                    (in millions)
+                                              Funds   Future                       Amount
+                   Benefit                  Available Liability Shortfall          Funded
+ 1. CalPERS                                     $843.76     $990.32    $146.56         85%
+ 2. Police Retiree Medical                         $4.73     $37.24      $32.51        13%
+ 3. Sick Leave and Vacation Payout                $0.40 $17.12*       $16.72             2%
+*$8.22 for public-safety personnel and $8.90 for all other employees.
+
+Employee Compensation Costs: Salaries and Benefits
+
+                          As with most service organizations, the City’s largest expense
+  In FY 2010, a City
+                          is labor costs. Over $123 million is budgeted for fiscal year
+  employee earned
+                          2011 salaries. Total employee compensation for the year,
+  an average $0.54
+  in benefits per         however, is budgeted at over $212 million. The difference?
+  every $1 in salary.     Workers’ compensation and employee benefit costs, including
+                          health insurance and retirement costs. (See also Appendix B)
+
+Benefit costs are expected to increase sharply over the next five years. This means that
+if the City reduced salaries, total compensation costs could still rise. Even worse,
+compared to salaries, benefit costs are less predictable, less controllable, and less likely
+to be fully funded.
+
+
+
+
+                                                                                           1
+                                                                Employee Benefits: Tough Decisions Ahead
+
+
+The complexity of the City’s pay and benefit structure has economic costs that have
+been discussed in previous audits and Council reports, such as the Citywide Payroll
+Audit and Fiscal Responsibility and Outstanding Audits: Policies, Problems, and
+Solutions report. On October 26, 2010, Council Members Gordon Wozniak, Linda Maio,
+and Darryl Moore recommended that City Council adopt a Resolution to include in the
+Council Labor Negotiation Policy a policy to standardize and simplify pay and benefits.
+
+Complex pay and benefit rules make it difficult for decision makers to understand and
+explain the cost and value of total compensation. This prevents stakeholders from
+knowing how their money is spent and erodes trust in government. Decisions made on
+compensation should be informed, deliberate, and transparent.
+
+Employee-Benefit-Related Liabilities
+
+                                     The City has nine benefit-related liabilities totaling more
+    The City’s CalPERS
+    funding level is above           than $1.1 billion. 1 Overall, these liabilities are 77% funded
+    the recommended 80%.             ($869.13) and 23% unfunded ($252.81).
+
+The City needs to closely monitor all of its benefit-related obligations, but three were
+chosen for this report because of size, unpredictable and uncontrollable future costs, or
+both.
+
+1) CalPERS – The California Public Retirement System pension plan is by far the
+   largest benefit cost and future costs are growing rapidly (see chart).
+
+2) Police Retiree Medical – Payments are tied to increases in healthcare costs, which
+   are difficult to predict and rising rapidly. There is no cap on this benefit and
+   payments are not reduced when employees reach Medicare age.
+
+3) Sick Leave and Vacation Payouts – Total costs are much smaller than CalPERS.
+   The City uses a variation of a modified pay-as-you-go approach. Paying employees
+   for unused leave at the end of their tenure may make salaries appear higher than
+   they actually are.
+
+
+
+
+1
+    According to the “unfunded liabilities” section of the 2011 Budget Update (see page 19).
+
+                                                                                                      2
+                                                                Employee Benefits: Tough Decisions Ahead
+
+
+CalPERS: The California Public Retirement System pension plan (85% funded) 2
+Berkeley’s employer-share 3 contributions to the statewide pension fund, CalPERS,
+ranged from 16% of salary for most employees to 35.7% for police in fiscal year 2010.
+Required contributions totaled over $25 million.
+
+                                   CalPERS Rates 2010 and 2016
+           Classification                 2010 Actual Rates              2016 Estimated Rates 4
+           Police (Sworn)                      35.7%                            50.8%
+            Fire (Sworn)                       23.5%                            43.5%
+           All Other Staff                     16.0%                            25.8%
+
+Currently, the City is 85% funded. CalPERS is using a smoothing method to prevent
+sharp rate increases 5. This method will erode Berkeley’s 85% funded level unless the
+City sets aside additional funds to prevent the liability from increasing.
+
+                                  CalPERS sets the pension rates. Rapid rate increases are
+    CalPERS’ recent               primarily caused by CalPERS investment losses. Recent
+    investment gains              changes in CalPERS demographic assumptions are also
+    won’t stop pension            expected to increase the rates beyond current projections.
+    rates from rising.
+                              In September 2010, CalPERS reported that annual fund
+growth was better than they expected in fiscal year 2010. According to CalPERS,
+pension rates will still rise, but not as high as they would have without the investment
+gains. However, the City’s contracted actuary has expressed concerns over optimistic
+projections. It does not appear that one year’s investment results should change our
+analysis.
+
+
+
+
+2
+  According to experts, pension funding levels should not fall below 80%. “The Trillion Dollar Gap” by the
+Pew Center on the States discusses pension funding, explains typical funding practices, and discusses
+how most states are not adequately funding other benefits (post-retirement health).
+ http://downloads.pewcenteronthestates.org/The_Trillion_Dollar_Gap_final.pdf
+3
+  Member contributions (whether paid by the employer or the employee) are in addition to the employer-
+share rates. Sworn Fire and Police assume responsibility for payment of the normal employee retirement
+contribution to CalPERS (9%).
+4
+  As estimated by City staff with input from outside actuary.
+5
+  CalPERS has instituted a “smoothing mechanism” to delay the impact of stock-market losses. Rather
+than hit members with significant spikes, CalPERS is gradually increasing retirement rates. This helps
+with current costs, but increases the unfunded liability. This strategy is typical in most states. See p. 27 of
+the PEW report: http://downloads.pewcenteronthestates.org/The_Trillion_Dollar_Gap_final.pdf
+
+                                                                                                             3
+                                                                Employee Benefits: Tough Decisions Ahead
+
+
+    Estimated CalPERS Employer-Share Costs in Excess of Actual 2010 Payments 6
+                                  (in millions)
+    20
+
+    15
+                                                                           $14.01         $15.12
+                                                       $12.67
+    10
+
+                                     $6.92                                 $8.22          $8.88
+     5      $3.00                                     $7.43
+
+                  $1.72         $4.01
+     -
+             2012              2013                   2014                 2015           2016
+
+
+                                          All Funds          General Fund
+
+
+     Estimated Total Employer-Share CalPERS Payments Next Five Fiscal Years
+                             (Based on 2010 Wages 7)
+                                   (in millions)
+                                                                                                   back
+    45
+                                                                            $39.8           $40.9
+                                                      $38.4
+    40
+
+    35                          $32.7
+             $28.7
+    30
+                                                                            $22.6           $23.2
+    25                                                $21.8
+                                $18.5
+    20       $16.2
+    15                                                                      $10.8           $11.0
+                                                      $10.5
+              $8.3              $9.2
+    10
+
+     5
+                                   $5.0                $6.1                 $6.4            $6.7
+               $4.2
+     -
+             2012               2013                  2014                  2015            2016
+
+
+                           Total           Miscellaneous          Police           Fire
+
+
+
+
+6
+   In fiscal year 2010, the City’s employer-share CalPERS payments totaled $25.8 million. The chart
+identifies how much payments are estimated to increase over that amount based on the City’s projected
+CalPERS rates and fiscal year 2010 wages (salary changes were not taken into consideration). See
+scope and methodology.
+7
+   The chart identifies the estimated total payments based on the City’s projected CalPERS rates and
+fiscal year 2010 wages (salary changes were not taken into consideration). See scope and methodology.
+
+                                                                                                          4
+                                                             Employee Benefits: Tough Decisions Ahead
+
+
+                      To offset the costs of rising CalPERS rates, the City will need to
+    What can we       make significant compensation reductions to future and/or current
+    do to reduce      employees. With such high pension rates, in fiscal year 2016
+    the expense?      salary reductions would have to range from 9% for police and
+                      11.5% for fire, to 7% for all other employees just to absorb the
+CalPERS increases. The City may also have to reduce staff, but this may result in
+higher pension rates 8.
+
+Options to consider for reducing the CalPERS employer-share costs:
+
+1. Reduce salaries for future and/or current employees.
+2. Require employees to contribute more for their benefits.
+3. Move to a two-tiered pension system with a different benefit structure for new hires:
+   a. Change the retirement formula by either increasing the eligible age, decreasing
+      the percentage of salary paid in retirement, or both.
+   b. Cap the amount of final salary used in the retirement calculation. This would help
+      address the concern of spiking final salaries to increase pension benefits.
+4. Reduce the number of employees. However, according to the Director of Human
+   Resources, this may result in higher rates because of fewer active employees
+   contributing to the plan.
+
+The City can reduce the growing CalPERS unfunded liability by paying more than
+required.
+
+Police Retiree Medical 9 – 13% Funded
+Future costs of the Police Retiree Medical plan are difficult to predict. The plan was
+negotiated in 1989 without first obtaining an actuarial valuation 10 to identify the long-
+term effects. The benefit’s high costs make it unsustainable in its current form.
+
+Retired police officers receive payments equal to the cost of Kaiser coverage at the two-
+party rate. This benefit continues for the life of the retiree and spouse. Unlike other post-
+retirement health benefits, payments continue at the full-coverage cost even after the
+retiree becomes Medicare-eligible. The benefit is paid as cash (taxable income), which
+is a disadvantage to the retiree. There is no limit to the City’s contribution for police
+retirees’ healthcare costs, which is a disadvantage to the City. Similar plans for other
+retirees cap the City’s contribution.
+
+
+8
+  According to the Director of Human Resources, one contributing factor to the City’s high CalPERS rates
+is the length of time the City of Berkeley has been in the program (non-sworn employees joined in March
+1942 and sworn employees joined in January 1973). This has resulted in a high number of retirees
+receiving pensions. Each public agency participating in CalPERS receives its own CalPERS rates based
+on the assumptions and factors specific to that agency. One factor is the number of retirees receiving
+payments.
+9
+   The Comprehensive Annual Financial Report refers to this benefit as the “Berkeley Police Retirement
+Income Benefit Plan.” This is because benefits are paid directly to the retiree and benefits are taxable.
+10
+    According to the Director of Human Resources, since 1998, the City has performed an actuarial study
+prior to approving a significant new benefit.
+
+                                                                                                       5
+                                                               Employee Benefits: Tough Decisions Ahead
+
+
+The unfunded portion of this liability is growing. Budget constraints prevent the City from
+paying the annual required contribution. 11 In fiscal year 2010, the City paid only $1.16
+million of the $2.75 million contribution. Rapidly rising healthcare rates are also driving
+up the City’s costs.
+
+Options to consider for reducing both the expense and the liability:
+
+     1. Reduce the number of police officers.
+     2. Restructure the plan to match other retiree plans: cap the City’s contribution and
+        reduce the contribution when retirees reach Medicare age.
+
+Sick Leave and Vacation Payouts for all City Employees – 2% funded
+The costs and liability for sick leave and vacation payouts are related to salary rates and
+to whether or not an employee uses all their earned leave during employment. Most
+employees may accrue 320 hours of vacation time and 1,600 hours of sick leave. Public
+safety personnel may accrue up to 360 12 hours vacation time and have no cap on
+accrued sick leave hours. All unused vacation time is paid in full when an employee
+retires or resigns, but sick leave is not. For most employees, the maximum allowable
+sick leave payout is 50% of time accrued. 13
+
+                                  Last year the City paid over $1.47 million to employees
+     In FY 2010, payouts
+     from the Sick Leave
+                                  leaving the City for sick leave, vacation, and other related
+     and Vacation Fund            benefits. This is the smallest of the three liabilities discussed
+     totaled over $1.47           in this report in terms of dollars and its costs are more
+     million.                     predictable and controllable than the others. At 2%, it was
+                                  one of the most underfunded liabilities in 2009.
+
+Options: To decrease both expense and liabilities the City could:
+
+     1. Reduce the number of hours an employee may accrue.
+     2. Reduce percentage of sick leave hours that employees may receive in payouts.
+     3. Go to “use-it or lose-it.”
+
+
+
+
+11
+   The annual required contribution is the amount the City is required to contribute for the year, calculated
+in accordance with certain parameters, in order to fund the liability over time.
+12
+   Police may accrue up to 320 vacation hours and Fire may accrue up to 360 hours.
+13
+   Actual payout of sick-leave time is a percentage of accrued time (from 38% to 50%), is based on years
+of service and/or number of hours accrued, and is dependent on whether the employee is retiring or
+resigning. In some cases, an employee’s entire sick leave balance is forfeited upon leaving the City.
+
+                                                                                                           6
+                                                              Employee Benefits: Tough Decisions Ahead
+
+
+Closing the Benefits-Liability Gap: General Fund and All Funds
+
+In developing the fiscal year 2011 Budget Update, the City began with a $6.5 million
+deficit in the General Fund and a $16.2 million deficit in all funds. As a result, the City
+proposed cutting 77 positions to help close the budget gap. The use of some temporary
+measures, such as voluntary reductions in hours worked by some employees and
+voluntary early retirement by others, has helped some existing employees maintain their
+jobs until Spring 2011.
+
+The ongoing pressure of increased costs was not eliminated. Without additional
+revenue, there will be more staffing and service reductions. CalPERS and Police
+Retiree Medical alone could increase the General Fund costs by $10.88 million by 2016:
+
+               CalPERS Estimated Additional General Fund Expenditures 14
+                                     (in millions)
+ 11.00
+                                                                                             $8.88
+     9.00                                                                $8.22
+                                                     $7.43
+     7.00
+
+     5.00
+                               $4.01
+     3.00
+                $1.72
+     1.00
+                 2012              2013               2014                2015               2016
+
+
+         Police Retiree Medical Estimated Additional General Fund Expenditures 15
+                                        (in millions)
+ 2.5
+
+
+
+                                                                         $1.94             $2.00
+     2
+                                 $1.84               $1.84
+               $1.75
+
+
+ 1.5
+               2012              2013                2014                2015               2016
+
+
+
+14
+   The chart identifies the estimated additional General Fund expenditures based on the projected
+CalPERS rates and fiscal year 2010 wages (salary changes were not taken into consideration). See
+scope and methodology.
+15
+   The chart identifies the estimated additional General Fund expenditures, if the City paid the full annual
+required contribution for the Police Retiree Medical plan. See scope and methodology.
+
+                                                                                                          7
+                                                    Employee Benefits: Tough Decisions Ahead
+
+
+The two charts above indentify only the projected CalPERS (all plans) and Police
+Retiree Medical expenditure increases. Combined, these benefits would increase
+General Fund costs an estimated $10.88 by fiscal year 2016. The majority of the
+General Fund Budget is for Police and Fire.
+
+The table below illustrates that at least 63 full-time positions may have to be eliminated
+in fiscal year 2016 to address only the impact to the General Fund based on just
+these two benefits:
+
+
+
+
+       
+       
+       
+       
+       
+City Auditor Recommendations
+
+1. Council should adopt formal policies for negotiating, awarding, and monitoring
+   employee benefits and benefit funding levels. This should include a policy to take
+   into consideration the costs to administer new and existing benefits.
+
+2. Council should adopt policies aimed at increasing the transparency of City benefits
+   and compensation, to the extent consistent with existing law. This should include a
+   policy to attempt to simplify pay and benefits rules, which could also reduce costs
+   and complexity.
+
+3. Budget reports should include some additional information on the analysis of funding
+   levels for each employee-benefit. This includes detail and explanation for target
+   funding ranges. For CalPERS, provide information on the possible need for
+   additional funding. Changes in CalPERS demographic assumptions, as well as the
+   smoothing mechanism used by CalPERS, are expected to result in a higher
+   unfunded liability percentage. Incorporate this information into standard reports
+   prepared for Council.
+
+4. Formalize the policy to perform an actuarial study prior to approving a significant
+   new benefit, as Human Resources states has been done since 1998. The City
+   Manager should document exceptions.
+
+                                                                                          8
+                                                Employee Benefits: Tough Decisions Ahead
+
+
+
+
+5. Determine which employee benefits are the highest risk to the City and, if
+   appropriate, perform actuarial valuations annually, rather than biennially.
+
+The City Manager agrees with the report and the recommendations. The
+recommendations will be adopted in principle by September 2011 and fully implemented
+by September 2012.
+
+Implementing these changes will require the courage and cooperation of elected and
+appointed officials, and City employees and their representatives.
+
+We wish to thank the Director of Human Resources, the now former Budget Manager,
+the City Manager, and their staff for their time, cooperation, and responsiveness.
+
+
+
+
+                                                                                      9
+                                                             Employee Benefits: Tough Decisions Ahead
+
+
+Appendix A
+
+The City’s Employee-Benefit-Related Liabilities (in millions)                                        back
+
+                                              Funds         Amount
+                    Benefit                  Available       Owed         Shortfall    % Funded
+      CalPERS (all plans)
+                      16
+ 1.   (as of 6/30/08)                          $843.76       $990.32       $146.56            85%     (a)
+      Police Retiree Medical
+ 2.   (as of 6/30/08)                              4.73         37.24         32.51           13%     (a)
+      Sick Leave and Vacation Payout
+ 3.   (as of 6/30/09)                              0.40         17.12         16.72             2%    (a)
+      Workers' Compensation
+ 4.   (as of 6/30/09)                              8.28         21.19         12.91           39%     (b)
+      Non-Sworn Retiree Medical
+ 5.   (as of 6/30/08)                              5.45         22.13         16.68           25%     (c)
+      Fire Retiree Medical
+ 6.   (as of 6/30/08)                              3.46          9.34          5.88           37%     (c)
+      Safety Members Pension Fund
+ 7.   (as of 6/30/09)                              3.04          7.61          4.57           40%     (d)
+      SRIP I Disability
+ 8.   (as of 6/30/08)                                  -        13.05         13.05             0%    (d)
+      Police Sick Leave Entitlement
+ 9.   (as of 6/30/09)                                -          3.92          3.92             0%     (e)
+                                               $869.12     $1,121.92       $252.80            77%
+
+(a) CalPERS, Police Retiree Medical, and Sick Leave and Vacation Payout are
+    discussed in this report.
+                              17
+(b) Workers’ Compensation is a significant expense and a significant liability for the
+    City. Our recommendations for reducing these costs can be found in our audits.
+    Consideration of a robust employee wellness program is one recommendation that
+    could be more fully explored. Workers’ compensation costs are affected by the same
+    steep increases in healthcare costs in general that are impacting the Police Retiree
+    Medical costs.
+(c) Non-Sworn and Fire Retiree Medical costs are capped. This makes it easier to
+    predict and control future costs. Payments are also reduced when retirees reach 65.
+(d) SMPF and SRIP I plans are closed to new members. According to the City Manager,
+    the City’s position is not worsening and there are no actions the City may take to
+    reduce costs. These are “sunk costs.”
+(e) Police Sick Leave Entitlement is the smallest dollar amount of the nine but the cost
+    is growing rapidly due to rising healthcare costs.
+
+
+
+16
+   CalPERS issues actuarial reports approximately one and a quarter (1 ¼) years after the valuation date.
+For example, CalPERS will issue of the City’s actuarial valuations as of June 30, 2009 in Fall 2010.
+17
+   Although included in the unfunded liability (employee benefits) table, workers’ compensation is not a
+true employee benefit. It is state mandated insurance that all employers must have to address on-the-job
+injuries.
+
+                                                                                                      10
+                                                            Employee Benefits: Tough Decisions Ahead
+
+
+Appendix B                                                                                back to page 1
+
+
+Salary vs. Compensation – The Total Benefit Package
+
+The following illustrates the estimated difference between average annual mid-range
+salaries and average annual compensation (salary plus benefits) for various City
+employees in fiscal year 2011. The salaries do not include overtime, which can
+significantly increase costs for public-safety personnel and solid-waste workers 18.
+
+Police Officer 19                                          Solid Waste Truck Driver
+Salary: $105,941                                           Salary: $66,336
+Benefits: $64,243 (60.64% of salary)                       Benefits: $36,649 (55.25% of salary)
+Total Compensation = $170,184                              Total Compensation = $102,985
+--                                                         --
+Workers’ Comp: $8,963                                      Workers’ Comp: $11,562
+ (8.46% of salary)                                            (17.43% of salary)
+Total Labor Cost = $179,147                                Total Labor Cost = $114,547
+
+Community Services Officer                                 Firefighter/Transport Paramedic
+Salary: $62,172                                            Salary: $100,849
+Benefits: $34,349 (55.25% of salary)                       Benefits: $49,144 (48.73% of salary)
+Total Compensation = $96,521                               Total Compensation = $149,993
+--                                                         --
+Workers’ Comp: $5,172                                      Workers’ Comp: $8,754
+ (8.32% of salary)                                             (8.68% of salary)
+Total Labor Cost = $101,693                                Total Labor Cost = $158,747
+
+Office Specialist II                                       Registered Nurse
+Salary: $53,688                                            Salary: $88,956
+Benefits: $29,661 (55.25% of salary)                       Benefits: $49,146 (55.25% of salary)
+Total Compensation = $83,349                               Total Compensation = $138,102
+--                                                         --
+Workers’ Comp: $1,187                                      Workers’ Comp: $1,966
+ (2.21% of salary)                                            (2.21% of salary)
+Total Labor Cost = $84,536                                 Total Labor Cost = $140,068
+
+
+
+
+18
+   In fiscal year 2010, citywide overtime pay totaled $6,947,722 (salary only) of which $4,772,503 (69%)
+was directly attributable to public-safety personnel. Another $1,031,097 (15%) was for solid-waste
+workers.
+19
+    Sworn Police and Fire take-home pay is reduced by 9% because they assume responsibility for
+payment of the normal employee retirement contribution to CalPERS. Total labor costs include only what
+the City pays.
+
+                                                                                                     11
+                                                                  Employee Benefits: Tough Decisions Ahead
+
+
+The City benefit costs included in the average labor costs above include CalPERS and
+Workers’ Compensation:
+
+                                      Projected CalPERS Rates
+                             2011      2012     2013   2014   2015                     2016
+                  Misc      16.3%     18.0% 20.6% 24.2% 25.1%                         25.8%
+                 Police     36.0%     38.3% 42.4% 48.4% 49.7%                         50.8%
+                  Fire      25.3%     27.7% 32.5% 40.0% 41.9%                         43.5%
+
+                   Budgeted Fiscal Year 2011 Workers' Compensation Rates
+
+     Office Staff 20      Field Worker 21           Police                  Fire                Laborer 22
+        2.21%                 8.32%                 8.46%                  8.68%                 17.43%
+
+Some other benefit costs include retiree medical, sick leave and vacation payouts,
+healthcare, and dental.
+
+The question of whether compensation in local government is comparable to private
+sector continues to be explored and debated, since various studies have reached very
+different conclusions. Any lack of transparency in the true cost of benefits can only
+exacerbate these differences of opinion.
+
+Employees of state and local government earn an average of 11 and 12 percent less,
+respectively, than comparable private-sector employees, according to a report 23
+commissioned by the Center for State and Local Government Excellence and the
+National Institute on Retirement Security. This April 2010 study concludes that this is
+true even when benefits are included and when data is standardized for known
+determinants, such as education and job location. A competing web post 24 on the
+Reason Foundation website suggests that, even though government workers may be
+more highly educated, government might simply be hiring overqualified workers.
+
+On October 19, 2010, the San Francisco Chronicle 25 reported that a study conducted by
+economists at UC Berkeley and Rutgers University found similar total compensation
+levels for private- and public-sector employees in California. Public-sector employees
+were paid 7% less, but the value of their benefits was 6% more. The study also
+concluded that professionals were paid more in California private-sector than public
+sector, and non-professionals were paid more in public- than in private-sector.
+
+
+
+
+20
+   Office staff would be, for example, an Accountant or an Office Specialist.
+21
+   A field worker would be, for example, a Building Inspector or a Community Service Officer.
+22
+   A laborer would be, for example, a Solid Waste Worker or an Electrician.
+23
+      http://www.slge.org/vertical/Sites/%7BA260E1DF-5AEE-459D-84C4-876EFE1E4032%7D/uploads/%7B03E820E8-F0F9-472F-
+98E2-F0AE1166D116%7D.PDF
+24
+   http://reason.org/news/show/public-sector-private-sector-salary
+25
+   http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/10/19/MNUJ1FUAOH.DTL&tsp=1
+
+                                                                                                               12
+                                                             Employee Benefits: Tough Decisions Ahead
+
+
+Appendix C
+
+The General Fund                                                                                    back
+
+The General Fund is the City’s primary operating fund. It is not connected to any one
+revenue source and may be used at the City’s discretion.
+
+In fiscal year 2011, the City budgeted over $319 26 million for expenditures, which
+included $146 million in General Fund expenditures. Labor costs are the primary
+General Fund expenditure ($110 million). The majority of General Fund expense is for
+Public Safety, since other operating departments (such as Public Works and Parks) are
+primarily, or partially, funded by grants or by dedicated revenue that may only be used
+for specified purposes.
+
+                  Total City Budgeted Expenditures – $319 Million
+                                 Fiscal Year 2011
+
+                                                                                    Labor Costs
+                                                                                        75%
+                                                                                    $110 million
+                                                                                    (of General
+                                                                                       Fund)
+
+
+
+
+     All Other Funds                      General Fund
+           54%                                46%
+       $173 million                       $146 million
+
+
+                                                                                      Other Costs
+                                                                                          25%
+                                                                                      $36 million
+                                                                                      (of General
+                                                                                         Fund)
+
+
+
+
+26
+   This budgeted figure is adjusted for dual appropriations, which are revenues generated by one fund and
+transferred to another fund. Budgeted expenditures, per the Budget Update, totaled $370 million and
+included these fund transfers.
+
+                                                                                                      13
+                                                        Employee Benefits: Tough Decisions Ahead
+
+
+Appendix D
+
+Scope and Methodology
+
+Our initial objective was to prepare an easy-to-read informational report addressing the
+City’s top three underfunded liabilities (employee benefits). After completing some
+survey work, we decided to expand our objective and illustrate the impact these
+liabilities have on budgeting and staffing due to the annual benefit costs, and provide
+possible solutions to address the cost pressures.
+
+We reviewed financial, budget, and actuarial-valuation reports and budget summary
+source documents for reasonableness and consistency. We researched data that
+needed additional explanation but we did not audit the accuracy of these reports or
+source documents. We did not thoroughly analyze the assumptions used in the actuarial
+valuations. Our reviews were not intended to provide absolute assurance that all data
+are free from error. Rather, our intent was to provide reasonable assurance that the
+reported information presented a fair picture of the City’s underfunded liabilities and
+annual costs (employee benefits). The numbers presented in this report are rounded for
+ease of use and reporting.
+
+Specifically, we used the following sources and met with the following personnel to meet
+our objective:
+
+      •   Fiscal Year 2011 Mid-Biennial Proposed Budget Update
+      •   Fiscal Year 2011 Average Fringe Benefit Rates
+      •   Fiscal Year 2009 Comprehensive Annual Financial Report
+      •   June 30, 2008 Actuarial Valuations for CalPERS (Misc, Police, and Fire)
+      •   June 30, 2008 Actuarial Valuations for Retiree Medical Plans (Misc, Police, and
+          Fire)
+      •   Union Agreements
+      •   Budget Manager
+      •   Human Resources Director
+      •   Finance Director
+
+We also communicated with Payroll, Human Resources, and Budget staff; reviewed
+articles and reports related to salaries and pension; performed SunGard HTE 27 payroll
+inquires; and obtained the following: workers’ compensation code classifications; actual
+fiscal year 2010 CalPERS payments; actual fiscal year 2010 CalPERS rates; fiscal year
+2010 sick leave and vacation summary schedule.
+
+
+
+
+27
+     The City’s financial and work management system.
+
+                                                                                             14
+                                                         Employee Benefits: Tough Decisions Ahead
+
+
+To illustrate the impact of CalPERS increases and paying the full Police Retiree Medical
+contribution we assumed 1) no changes to actuarial assumptions; 2) no salary changes;
+and 3) no changes in staffing levels. The calculations are as follows:
+
+CalPERS General Fund Costs – fiscal year 2010 PERS-able 28 wages were multiplied
+by the City’s projected CalPERS rates from 2012 to 2016 to estimate future costs. The
+actual fiscal year 2010 CalPERS payments were subtracted from these estimates. The
+difference was multiplied by an estimated percentage of salaries paid through the
+General Fund.
+
+Police Retiree Medical – the actual Police Retiree Medical Plan contribution paid by the
+City in fiscal year 2010 was subtracted from the annual recommended contribution, per
+the actuarial valuation, for fiscal years 2012 to 2016. The difference was multiplied by
+an estimated percentage of salaries paid through the General Fund.
+
+We also performed the following calculations to support the values and figures used in
+our report:
+
+Employee Count – To estimate the number of full-time employee positions (63) that
+$10.88 million could pay for, we first estimated the average labor costs for
+miscellaneous, police, and fire employees. We based average labor costs on the fiscal
+year 2011 average salaries and average fringe benefit rates provided by the Budget
+Office. We used those three averages to estimate the overall City average of $172,365.
+We took that number and divided it into the fiscal year 2016 estimated impact of
+CalPERS increases (General Fund only) and paying the full Police Retiree Medical
+contribution (General Fund only).
+
+CalPERS Total Costs and Cost Growth – To estimate the total costs, we multiplied
+fiscal year 2010 PERS-able wages by the City’s projected rates from 2012 to 2016. To
+estimate the cost growth, we took the actual fiscal year 2010 CalPERS payments and
+subtracted them from these estimates.
+
+Salary Reductions – To estimate the percentage of salary reduction necessary to offset
+CalPERS rate increases, we first estimated the average monthly labor costs for police,
+fire, and miscellaneous employee groups. We based the average labor costs on the
+fiscal year 2011 average salaries and average fringe benefit rates provided by the
+Budget Office. We then took the average monthly labor costs and made adjustments for
+CalPERS increases (based on projected rates). We made no changes to other fringe
+benefit rates (e.g., retiree medical and workers’ compensation). We then calculated the
+amount of decrease necessary to offset increased CalPERS rates.
+
+
+
+28
+   The following is excluded from the CalPERS calculations: overtime pay and any related add pay
+attached to overtime; lump-sum payment, such as termination payout of unused leave and excess sick
+leave; cash in lieu of benefits and tool and shoe allowances; SDI and non-public safety workers’
+compensation payments (except the leave coordinated portions); and military leave.
+
+                                                                                               15
+                                                    Employee Benefits: Tough Decisions Ahead
+
+
+Average Mid-Range Salaries and Labor Costs by Classification – We obtained average
+monthly salaries for specific job classifications from Union agreements and calculated
+annual salaries. We multiplied the salaries by the fringe benefit rates provided by the
+Budget Office to estimate labor costs. For police, we obtained the average “add” pay of
+5% from a Payroll representative and included that percentage increase in the average
+salary calculation.
+
+Prior to issuance of this report, the Audit Manager, Teresa Berkeley-Simmons assumed
+the position of Budget Manager. All Budget Office information was provided by the now
+former Budget Manager, Tracy Vesely, or her staff.
+
+We conducted this performance audit in accordance with Generally Accepted
+Government Auditing Standards (GAGAS). Those standards require that we plan and
+perform our audit to obtain sufficient and appropriate evidence that provides a
+reasonable basis for our findings and conclusions, based on our audit objectives. We
+believe that the evidence obtained provides reasonable basis for our findings and
+conclusions, based on our audit objectives.
+
+This report was initiated by the Auditor’s Office and scheduled as part of the fiscal year
+2011 Audit Plan presented to Council on June 29, 2010.
+
+
+
+
+                                                                                         16
+

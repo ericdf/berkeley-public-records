@@ -1,0 +1,23 @@
+{
+  "id": "bcc-budget-finance-committee-2025-05-22-item-01-presentation-text",
+  "layer": "L1",
+  "doc_type": "presentation_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council Budget & Finance Policy Committee",
+  "meeting_date": "2025-05-22",
+  "title": "Marina Fund Update (presentation)",
+  "file": "L1/staff-reports/bcc-budget-finance-committee-2025-05-22-item-01-presentation-text.txt",
+  "sha256": "f0deefc22a7f92f947ce66ddb041ff51c89d2e53d95fdced67baeba69ee0fd80",
+  "bytes": 15788,
+  "derived_from": {
+    "id": "bcc-budget-finance-committee-2025-05-22-item-01-presentation",
+    "sha256": "e088f9eeb80e813a5886339b72aca446f90bd4a9a3418504fb557d948db47992"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
