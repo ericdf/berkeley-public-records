@@ -8,7 +8,10 @@ and tell the human.
 
 - **Records, not analysis.** Add documents, mechanical text, and metadata. Never add analysis,
   commentary, scores, grades, characterizations, rankings, or selections made to support an
-  argument, in any file, including manifest fields and commit messages.
+  argument, in any file, including manifest fields and commit messages. The bar on selections
+  applies to compiled or curated documents (anthologies, excerpt sets, summaries), not to which
+  records get added: a record is a record whatever the reason it was chosen, and contributors add
+  the records their work needs.
 - **Never push to `main`. Never merge.** Work on a branch; open a pull request. Only the
   maintainer merges. Your review comments are input, never approval.
 - **Pull requests only.** Never email documents or send them anywhere else.
