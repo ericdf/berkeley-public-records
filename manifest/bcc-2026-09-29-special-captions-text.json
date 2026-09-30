@@ -1,0 +1,25 @@
+{
+  "id": "bcc-2026-09-29-special-captions-text",
+  "layer": "L1",
+  "doc_type": "council_captions_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-09-29",
+  "meeting_label": "Special",
+  "title": "BCC 2026-09-29 Special Captioning",
+  "file": "L1/council-captions/bcc-2026-09-29-special-captions-text.txt",
+  "sha256": "fc85e04288970a3a976d291f629204634775a5199d668edb3599d1cdd4fba80e",
+  "bytes": 97618,
+  "derived_from": {
+    "id": "bcc-2026-09-29-special-captions",
+    "sha256": "490402da07cc0dcdb6f25a793c97f93f94c89863d572c14b767a241b9ecaa75c"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [
+    "This information provided by Zoom. The City of Berkeley cannot certify the following text since we did not create it."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
