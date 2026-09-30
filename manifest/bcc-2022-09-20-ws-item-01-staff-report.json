@@ -16,7 +16,7 @@
   "source_note": "Downloaded from source_url on 2026-09-30.",
   "retrieved": "2026-09-30",
   "archived": "2026-09-30",
-  "wayback_url": null,
+  "wayback_url": "https://web.archive.org/web/20250311132549/https://berkeleyca.gov/sites/default/files/documents/2022-09-20%20WS%20Item%2001%20Residential%20Objective%20Standards.pdf",
   "notices": [],
   "contributed_by": "ericdf",
   "blob": {
@@ -26,8 +26,7 @@
         "item": "berkeley-public-records-bcc-2022-09-20-ws-item-01-staff-report",
         "path": "bcc-2022-09-20-ws-item-01-staff-report.pdf",
         "uploaded": "2026-09-30",
-        "verified": null,
-        "verify_note": "Upload accepted and queued for processing by the Internet Archive; sha256 to be checked once the item is public."
+        "verified": "2026-09-30"
       },
       {
         "store": "google_drive",
