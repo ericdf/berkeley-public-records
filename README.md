@@ -68,7 +68,7 @@ apart so no one mistakes one for the other.
 | Berkeley City Council meeting captions, from December 10, 2024 | L0 PDF, L1 text | `L0/council-captions/`, `L1/council-captions/` |
 | Berkeley City Council annotated agendas (the City's record of motions and votes), from December 10, 2024 | L0 PDF | `L0/annotated-agendas/` |
 | City budgets, audits, financial statements and policies, investment reports, Measure T1 and 2026 ballot-measure records, labor contracts, and related reports | L0 PDF, L1 text | `L0/sources/<collection>/`, `L1/sources/<collection>/` |
-| Berkeley City Council staff reports (agenda item reports), individual items from 2025 and 2026; not a complete set | L0 PDF, L1 text | `L0/staff-reports/`, `L1/staff-reports/` |
+| Berkeley City Council staff reports (agenda item reports), individual items from December 2024 through 2026, with some supplemental agenda material; not a complete set | L0 PDF, L1 text | `L0/staff-reports/`, `L1/staff-reports/` |
 | Published third-party documents: a 2011 AABPCN community report, a 2025 Berkeleyside article on the SCU transfer, a 2024 candidate questionnaire | T0 PDF, L1 text | `T0/<collection>/`, `L1/third-party/` |
 
 Two caption transcripts (the April 16 and April 23, 2026 Budget Committee meetings) exist
@@ -307,6 +307,10 @@ A file over 25 MB (GitHub's website refuses it) is offered through a "Large file
 Analysis, commentary, scores, grades, characterizations, rankings, or selections made to
 support an argument. If a file would read differently depending on who assembled it, it does
 not belong here.
+
+The bar on selections applies to compiled or curated documents (anthologies, excerpt sets,
+summaries), not to which records get added. A record is a record whatever the reason a
+contributor chose to add it, and contributors add the records their work needs.
 
 ### Rules by layer
 
