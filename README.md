@@ -112,7 +112,7 @@ not to any contributor's personal account:
 | Store | Account | `store` value in the manifest |
 |---|---|---|
 | Internet Archive | archive.org user `berkeleypublicrecords@gmail.com` | `internet_archive` |
-| Google Drive | `berkeleypublicrecords@gmail.com`, folder `berkeley-public-records/blobs/` | `google_drive` |
+| Google Drive | `berkeleypublicrecords@gmail.com`, folder `berkeley-public-records-blobs`; files must be uploaded as (and owned by) that account | `google_drive` |
 
 Access to both accounts must be recoverable by more than one person.
 
