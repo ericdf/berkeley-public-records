@@ -1,0 +1,39 @@
+{
+  "id": "ballot-2026-2026-05-19-special-item-01-presentation",
+  "layer": "L0",
+  "doc_type": "ballot_measure_record",
+  "collection": "ballot_2026",
+  "publisher": "City of Berkeley — Office of the City Manager",
+  "title": "Presentation and Discussion of Second Community Survey Results and Direction Regarding Potential Ballot Measures for the November 3, 2026, General Municipal Election",
+  "document_date": "2026-05-19",
+  "meeting_date": "2026-05-19",
+  "item": "Special Meeting Item 01 (Action Calendar)",
+  "file": null,
+  "sha256": "eb76eece041d5935cf33b1ed970f65c535940f3a452a8544150819012991b539",
+  "bytes": 49871294,
+  "source_url": null,
+  "source_note": "Archived in the maintainer's project on 2026-09-26; source URL not recorded. The 252-page file is the item itself, not the full special agenda packet.",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "medium",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-ballot-2026-2026-05-19-special-item-01-presentation",
+        "path": "ballot-2026-2026-05-19-special-item-01-presentation.pdf",
+        "uploaded": "2026-09-30",
+        "verified": null,
+        "verify_note": "Upload accepted and queued for processing by the Internet Archive; sha256 to be checked once the item is public."
+      },
+      {
+        "store": "google_drive",
+        "location": "berkeley-public-records-blobs/ballot-2026-2026-05-19-special-item-01-presentation.pdf",
+        "uploaded": "2026-09-30",
+        "verified": "2026-09-30"
+      }
+    ]
+  }
+}
