@@ -17,6 +17,10 @@ Access is by invitation. The repository is private; the documents in it are publ
 **Pull requests are the only way in.** Do not email documents to the maintainer; there is one
 ingest path, and it is this repository.
 
+**Contributing takes some skill, or a willingness to learn it.** "I'm not technical" is not an
+exemption: if you can upload a file to Google Drive, you can do this. GitHub's website and the
+automated checks do the technical work; an AI assistant pointed at `AGENTS.md` can do the rest.
+
 1. Accept the GitHub invitation, and read this README: it is the contribution policy.
 2. Open a pull request that adds the document and its manifest entry (`manifest/<id>.json`):
    its fingerprint, and either its `source_url` or a `source_note` saying how and when you
