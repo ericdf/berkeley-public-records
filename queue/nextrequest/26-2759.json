@@ -1,0 +1,27 @@
+{
+  "id": "26-2759",
+  "source": "nextrequest",
+  "request_date": "2026-09-17",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Fire - Fire Prevention"
+  ],
+  "request_text_excerpt": "Any current or archived records related to hazardous substances, ASTs, USTs, inspections, and/or notices of violation for the following property: 1614 Mivia Street, Berkeley, CA 94709",
+  "document_count": 1,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2759",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [
+      "the following property"
+    ],
+    "score": 0
+  },
+  "notes": [],
+  "decision": null
+}

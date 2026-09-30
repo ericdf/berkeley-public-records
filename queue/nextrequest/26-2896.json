@@ -1,0 +1,30 @@
+{
+  "id": "26-2896",
+  "source": "nextrequest",
+  "request_date": "2026-09-28",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "City Clerk"
+  ],
+  "request_text_excerpt": "Dear Mark Numainville, I publish the Voter Checklist, a Democratic voter guide mailed to high-turnout Democratic households before the November 3, 2026 election, and I'm reaching out to the campaigns on the local measures. Could you share any contact information your office has for the committees supporting and opposing these measures: committee name, contact person, phone number and email address? - Measure U: $300M GO bond for fire stations, parks, infrastructure, climate resilience - Measure V: 0.5% sales tax (to 10.75%); ~$9-10M/yr general fund - Measure W: Charter amendment: …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2896",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [
+      "City Clerk"
+    ],
+    "keywords": [
+      "bond",
+      "measure"
+    ],
+    "negative": [],
+    "score": 0
+  },
+  "notes": [],
+  "decision": null
+}

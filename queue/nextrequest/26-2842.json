@@ -1,0 +1,31 @@
+{
+  "id": "26-2842",
+  "source": "nextrequest",
+  "request_date": "2026-09-22",
+  "state": "Open",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Police Department"
+  ],
+  "request_text_excerpt": "Pursuant to the California Public Records Act (Cal. Gov. Code § 7920.000 et seq.), I am requesting copies of the following public records concerning Automated License Plate Reader (ALPR) systems operated by or on behalf of the City of Berkeley: 1. The complete, executed Master Services Agreement and all statements of work/addenda between the City of Berkeley and Flock Group Inc. (Flock Safety). 2. The current inventory list of installed or active Flock ALPR cameras, including approximate locations, intersections, or council districts where available. 3. The approved Surveillance Use Policy …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2842",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [
+      "Police Department"
+    ],
+    "keywords": [
+      "agreement",
+      "council",
+      "policy"
+    ],
+    "negative": [],
+    "score": 4
+  },
+  "notes": [],
+  "decision": null
+}

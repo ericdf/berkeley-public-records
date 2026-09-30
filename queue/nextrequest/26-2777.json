@@ -1,0 +1,30 @@
+{
+  "id": "26-2777",
+  "source": "nextrequest",
+  "request_date": "2026-09-18",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Fire - Fire Prevention"
+  ],
+  "request_text_excerpt": "We would like to review any fires, UST, HAZMAT, AST, drycleaning operations, septic tank systems, groundwater wells, chemical spills/cleanups, and soil/groundwater investigations for the following property: 2411 Durant Avenue, Berkeley (APN 55-1878-12) If there are any fires/past fires, what fire suppression was used?",
+  "document_count": 1,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2777",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [
+      "apn",
+      "hazmat",
+      "the following property",
+      "ust"
+    ],
+    "score": -6
+  },
+  "notes": [],
+  "decision": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "26-2882",
+  "source": "nextrequest",
+  "request_date": "2026-09-25",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Finance"
+  ],
+  "request_text_excerpt": "Hi - I wanted to check if there are any records on whether a property has previously utilized the transfer tax credit for seismic retrofit work. I recently purchased this property and am considering bringing an engineer out if the credit is still available to me. The property address is: 249 The Uplands Berkeley, CA 94705",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2882",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [
+      "Finance"
+    ],
+    "keywords": [],
+    "negative": [],
+    "score": -2
+  },
+  "notes": [],
+  "decision": null
+}

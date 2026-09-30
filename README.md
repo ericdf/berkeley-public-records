@@ -77,9 +77,11 @@ trusting whoever added a file.
 | `extraction` | L1: the tool, version, and command that produced it |
 | `blob` | External copies, for files not stored in git (below) |
 | `notices` | Disclaimers printed on or attached to the document, verbatim |
+| `cpra` | Records obtained by public-records request: `request_id`, `document_id`, `document_url`, `upload_date`, `redacted_date`, `department` |
 | `contributed_by` | GitHub username of the contributor |
 
-`tools/validate.py` checks all of this and runs on every pull request.
+`tools/validate.py` checks all of this, and the public-records queue, on every pull request.
+The tools' tests run there too: `python3 -m unittest discover -s tests`.
 
 ---
 
@@ -149,6 +151,83 @@ link; the capture keeps a citation resolvable after that happens again.
 
 ---
 
+## Public-records requests
+
+The City of Berkeley publishes its public-records (CPRA) requests on NextRequest,
+<https://cityofberkeleyca.nextrequest.com/>, often with the documents it released. Those
+documents are public records and are archived here as L0 under `L0/cpra/<request id>/`, but
+only after the maintainer has decided that a request belongs in the archive. Nothing is ever
+inducted automatically.
+
+### The queue
+
+`tools/nextrequest_watch.py` pages through the portal's list of requests and writes one file
+per request to `queue/nextrequest/<request id>.json`. A queue file holds **metadata only**:
+the request's date, state, visibility, departments, a plain-text excerpt of the request, the
+number of publicly released documents, its public URL, when it was first seen and last checked,
+and a `decision`. Nothing is downloaded at this stage. Queue files are not archive documents
+and have no manifest entries.
+
+| `status` | Meaning |
+|---|---|
+| `candidate` | Closed and published; awaiting the maintainer's decision |
+| `watching` | Still open or not published, or decided "watch": the released documents are not final |
+| `inducted` | The maintainer decided it belongs in the archive; ready to ingest |
+| `rejected` | The maintainer decided it does not belong in the archive |
+
+A request decided `watching` whose released documents later become public returns to
+`candidate`, with a note, so it is reviewed again. Re-running the watcher refreshes state,
+visibility, departments and document count, and never changes a decision.
+
+`rank_hints` (department and keyword matches) only sort the review list. They never include or
+exclude anything.
+
+### What is inducted
+
+**In:** records bearing on Council decisions, budgets, contracts and procurement (including bid
+tabulations, whose unit prices across bidders are procurement data), audits, capital projects,
+public-safety operations, and governance.
+
+**Out:** records about a single private party's own affairs (for example, one property's
+inspection history), personnel matters, and requests closed with no released documents.
+
+The criteria decide what enters the archive, not what a record says. A record that meets them is
+inducted whatever it shows.
+
+### Decisions and review
+
+- **Decisions are made only by the maintainer.** A decision records `status`, `reason`,
+  `decided_by` and `decided_on`; `tools/validate.py` rejects a decision without all four, or by
+  anyone other than the maintainer.
+- **Review is weekly, by pull request.** Each week the watcher is run on a branch and the pull
+  request body carries the review list printed by `tools/queue_report.py`. The maintainer records
+  decisions in the queue files on that branch and merges it.
+- **Ingest follows induction, in its own pull request.** `tools/ingest_nextrequest.py <id>`
+  refuses any request not decided `inducted`. It archives the request record (the request, its
+  full timeline and its document index, as one JSON file) and every publicly released document,
+  with manifest entries under ids such as `cpra-26-2872-request` and
+  `cpra-26-2872-doc-70978065`, and L1 text (`pdftotext -layout`) for PDFs with extractable text.
+  It is idempotent by document id and fingerprint. Released documents over 25 MB are not written
+  to the repository; they are listed in `queue/pending_blobs.json` until two verified external
+  copies exist (see "Large files").
+- The portal serves each file at `/documents/<document id>/download`, which redirects to a
+  short-lived signed storage URL. The manifest records the stable request URL as `source_url`
+  and the document's portal page under `cpra.document_url`.
+
+### Only published records are archived
+
+The archive takes public-records releases only once the City has **published** them on the
+portal, so that every archived record carries a public URL anyone can check. Records released
+only to the person who asked are not archived from that private channel. A contributor who has
+received such records may add the request to the queue by pull request (the watcher cannot see
+unpublished requests); it stays `watching` until the City publishes it, and the public copy is
+what gets ingested.
+
+A request the City never publishes stays in the queue. If one matters enough to archive
+anyway, that is a maintainer decision recorded in the queue entry, with the reason.
+
+---
+
 ## Contributing
 
 All writes go through pull requests. This section is the policy.
@@ -187,6 +266,10 @@ not belong here.
 **L0 is add-only.** A document is never edited, replaced, or deleted to correct it. If a
 public body issues a corrected or revised version, add it as a new document with its own `id`,
 and note the relationship in both manifest entries.
+
+**Manifest metadata may be corrected by pull request; files may not.** A wrong title, date,
+source URL or note in a manifest entry is fixed in the entry. The `file`, `sha256` and `bytes`
+of an existing entry never change, because the file never changes.
 
 **L1 is regenerated, never edited.** If a better extraction tool or command is adopted, the new
 text is a new L1 document (new `id`, `derived_from` the same L0), so work that cited the old

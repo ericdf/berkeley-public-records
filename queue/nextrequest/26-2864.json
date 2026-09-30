@@ -1,0 +1,27 @@
+{
+  "id": "26-2864",
+  "source": "nextrequest",
+  "request_date": "2026-09-24",
+  "state": "Open",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Planning – Housing Code Enforcement"
+  ],
+  "request_text_excerpt": "Pursuant to the California Public Records Act (Gov. Code §§7920.000 et seq.), I request the structural engineer report referenced in the 4/8/2026 \"UNSAFE / DO NOT ENTER OR OCCUPY\" placard (citing BMC 19.28.080) posted on the scout hut at John Hinkle Park, 41 Somerset Pl, Berkeley, CA — the building inspected \"under emergency conditions\" by Senior Building Inspector Freddie Maya, with findings that the structure is not safe, trusses are not properly secured, and the structure is not attached to its foundation. Please include any attachments, transmittal memoranda, and the inspector's case-file …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2864",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [
+      "report"
+    ],
+    "negative": [],
+    "score": 1
+  },
+  "notes": [],
+  "decision": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "26-2751",
+  "source": "nextrequest",
+  "request_date": "2026-09-17",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Planning - Building & Safety"
+  ],
+  "request_text_excerpt": "PROPERTY ADDRESS: 1911 MARTIN L KING JR WAY Our office is conducting a search on the property referenced above, which is necessary for any title transaction. Please advise us of and provide us with detailed information for: open and/or pending code violations and/or citations vacant/abandoned property registration requirements, please indicate below open and/or expired permits open and/or pending building violations is the Property scheduled for demolition? If yes, please provide the demolition date. any outstanding issues, balances or liens with your department If liens exist, please provide …",
+  "document_count": 4,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2751",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": 2
+  },
+  "notes": [],
+  "decision": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "26-2746",
+  "source": "nextrequest",
+  "request_date": "2026-09-16",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Police Department"
+  ],
+  "request_text_excerpt": "Street light footage August 25, 2026 Heading towards Oakland on San Pablo sitting at a red light next major intersection was Gilman by the Chevron station and this was between 2:25 p.m. 2:45 p.m. Car was a 2014 Volkswagen pasat sedan black in color. Car that hit driver was a dark grey 2022 Dodge Challenger.",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2746",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [
+      "Police Department"
+    ],
+    "keywords": [],
+    "negative": [],
+    "score": -2
+  },
+  "notes": [],
+  "decision": null
+}

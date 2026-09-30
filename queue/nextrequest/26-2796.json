@@ -1,0 +1,29 @@
+{
+  "id": "26-2796",
+  "source": "nextrequest",
+  "request_date": "2026-09-19",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Fire - Wildland Division (WUI)"
+  ],
+  "request_text_excerpt": "I request the following records related to Contract No. 32400108 with Intterra: 1. Data Processing Agreement Any Data Processing Agreement or similar data-sharing agreement governing the ingest of Fire Aside data into Intterra, including into the “BETA: Community Risk Manager” module. If no such agreement exists, a written statement to that effect. 2. Configuration and Testing Communications All communications between BFD and Intterra regarding the configuration, testing, or use of the Fire Aside data-ingest feature. 3. Outputs and Recipients Any outputs, reports, dashboards, or risk scores …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2796",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [
+      "agreement",
+      "communications between",
+      "contract"
+    ],
+    "negative": [],
+    "score": 0
+  },
+  "notes": [],
+  "decision": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "26-2868",
+  "source": "nextrequest",
+  "request_date": "2026-09-24",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "City Clerk"
+  ],
+  "request_text_excerpt": "Subject: Executed lease — Berkeley Art Center Association, 1275 Walnut St (Res. 58,664-N.S.) Pursuant to the California Public Records Act (Gov. Code §§7920.000 et seq.), I request the executed lease agreement between the City of Berkeley and the Berkeley Art Center Association for the building at 1275 Walnut Street, Berkeley, CA (Live Oak Park), authorized by City Council Resolution No. 58,664-N.S., including all exhibits, attachments, schedules, and any amendments or extensions. Provide records electronically at no more than the direct cost of duplication.",
+  "document_count": 1,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2868",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [
+      "City Clerk"
+    ],
+    "keywords": [
+      "agreement",
+      "council",
+      "lease"
+    ],
+    "negative": [],
+    "score": 6
+  },
+  "notes": [],
+  "decision": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "26-1440",
+  "source": "nextrequest",
+  "request_date": "2026-05-19",
+  "state": "Open",
+  "visibility": "Unpublished",
+  "published": false,
+  "departments": [
+    "Multi-Department"
+  ],
+  "request_text_excerpt": "PUBLIC RECORDS ACT REQUEST – STRUCTURAL DEFICIT / LABOR COST CONTAINMENT RECORDS. Pursuant to the California Public Records Act, Gov. Code § 7920 et seq., I request copies of the following records created, received, transmitted, or maintained between January 1, 2025 and the date this request is processed. … This request concerns the City's public representations about structural deficit solutions and whether labor cost containment options have been evaluated in addition to tax increases and service reductions. …",
+  "document_count": null,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-1440",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": [],
+  "notes": [
+    "Added by pull request: the watcher cannot see unpublished requests. As of 2026-09-30 the request is open and unpublished; 61 documents were released to the requester in three batches (June 12, August 14 and September 18, 2026), some marked Public and some Requester-only, including the employee budget-feedback survey. Per the published-only rule, nothing is archived until the City publishes the request; the public copies are then ingested."
+  ],
+  "decision": null
+}

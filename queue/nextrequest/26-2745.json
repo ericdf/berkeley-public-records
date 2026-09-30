@@ -1,0 +1,23 @@
+{
+  "id": "26-2745",
+  "source": "nextrequest",
+  "request_date": "2026-09-16",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [],
+  "request_text_excerpt": "Requesting Inspection documents for Noodles Fresh Restaurant at 243 Durant Avenue Suite B.",
+  "document_count": 2,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2745",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": 2
+  },
+  "notes": [],
+  "decision": null
+}

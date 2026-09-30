@@ -1,0 +1,30 @@
+{
+  "id": "26-2743",
+  "source": "nextrequest",
+  "request_date": "2026-09-16",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Fire - Fire Prevention"
+  ],
+  "request_text_excerpt": "I would like to review any building and fire department records regarding building/demolition permits, certificates of occupancy, UST, HAZMAT, AST, drycleaning operations, septic tank systems, groundwater wells, chemical spills/cleanups, soil/groundwater investigations and have there been any fires onsite for the following property: 2514-2516 Piedmont Avenue, Berkeley, California 94704 (APN: 55-1850-4-1)",
+  "document_count": 4,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2743",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [
+      "apn",
+      "hazmat",
+      "the following property",
+      "ust"
+    ],
+    "score": -6
+  },
+  "notes": [],
+  "decision": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "26-2891",
+  "source": "nextrequest",
+  "request_date": "2026-09-28",
+  "state": "Open",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Public Works - Operations"
+  ],
+  "request_text_excerpt": "… Please send the final and compiled bid tabulation (bid tally), including all quantities and unit pricing for each bidder, for 'Sanitary Sewer Rehabilitation - Virginia Street, Russell Street, el al.' that was submitted on 01/11/2024. I believe the project number is '24-11621-C', but I could be mistaken. If so, please use the project name and date to lookup the responsive documents. We specifically request the line-item bid tabulation showing each material, quantity, unit, and unit price for every bidder. If no such line-item tally was created, please provide the full bid submissions from …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2891",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [
+      "bid tally",
+      "bidder"
+    ],
+    "negative": [],
+    "score": 2
+  },
+  "notes": [],
+  "decision": null
+}

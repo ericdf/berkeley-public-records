@@ -1,0 +1,25 @@
+{
+  "id": "26-2793",
+  "source": "nextrequest",
+  "request_date": "2026-09-19",
+  "state": "Open",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "City Attorney"
+  ],
+  "request_text_excerpt": "Subject: CPRA 25-2410 — Incomplete Accounting-Records Response; Request for Departmental Search and Financial Records To the City of Berkeley: On November 26, 2025, the City stated that request 25-2410 was granted, its search was complete, and all records had been released. The production entry identifies: your requestfor individual responses to your PRA requests.pdf PRA response - Mitchell Consolidation Letter 6.5.25 (1).pdf My request sought existing expenditures, invoices, staff time logs, internal cost allocations, enforcement-related costs, resource-use communications, and legal or …",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2793",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "watching",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": 0
+  },
+  "notes": [],
+  "decision": null
+}

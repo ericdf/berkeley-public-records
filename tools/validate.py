@@ -16,6 +16,14 @@ L3_NOTICE = ("Speaker attribution in this layer is inferred, not authoritative. 
              "software and volunteers, not by the City. Verify any attribution against the meeting "
              "video before relying on it.")
 REQUIRED = {"id", "layer", "doc_type", "title", "file", "sha256", "bytes", "archived", "contributed_by"}
+QUEUE_STATUSES = {"candidate", "watching", "inducted", "rejected"}
+DECISION_STATUSES = {"watching", "inducted", "rejected"}
+QUEUE_REQUIRED = {"id", "request_date", "state", "visibility", "published", "departments",
+                  "request_text_excerpt", "document_count", "url", "first_seen", "last_checked",
+                  "status", "rank_hints", "decision"}
+REQUEST_ID_RE = re.compile(r"^\d{2}-\d+$")
+# Queue decisions are made only by the maintainer (README, "Public-records requests").
+MAINTAINERS = {"ericdf"}
 errors = []
 
 def err(where, msg): errors.append(f"{where}: {msg}")
@@ -139,11 +147,71 @@ def main():
                     if not s.get(f):
                         err(at, f"verified segment needs {f}")
 
+    nq = validate_queue()
+
     for e in errors:
         print("ERROR", e)
     n = len(manifest)
-    print(f"{n} manifest entries; {len(errors)} errors")
+    print(f"{n} manifest entries; {nq} queue entries; {len(errors)} errors")
     sys.exit(1 if errors else 0)
+
+def validate_queue():
+    """queue/nextrequest/<id>.json: public-records requests awaiting or holding a decision."""
+    qdir = os.path.join(ROOT, "queue", "nextrequest")
+    if not os.path.isdir(qdir):
+        return 0
+    n = 0
+    for name in sorted(os.listdir(qdir)):
+        where = f"queue/nextrequest/{name}"
+        if not name.endswith(".json"):
+            if not name.startswith("."):
+                err(where, "only <id>.json files belong in the queue")
+            continue
+        n += 1
+        try:
+            q = json.load(open(os.path.join(qdir, name)))
+        except json.JSONDecodeError as x:
+            err(where, f"invalid JSON: {x}"); continue
+        missing = QUEUE_REQUIRED - q.keys()
+        if missing:
+            err(where, f"missing fields {sorted(missing)}"); continue
+        if q["id"] + ".json" != name:
+            err(where, f"id {q['id']!r} does not match filename")
+        if not REQUEST_ID_RE.match(str(q["id"])):
+            err(where, "id must look like 26-2872")
+        for f in ("request_date", "first_seen", "last_checked"):
+            if not DATE_RE.match(str(q[f])):
+                err(where, f"{f} must be YYYY-MM-DD")
+        if q["status"] not in QUEUE_STATUSES:
+            err(where, f"status must be one of {sorted(QUEUE_STATUSES)}")
+        if q["document_count"] is not None and not isinstance(q["document_count"], int):
+            err(where, "document_count must be an integer or null")
+        if not isinstance(q["departments"], list):
+            err(where, "departments must be a list")
+        if not str(q["url"]).startswith("https://cityofberkeleyca.nextrequest.com/requests/"):
+            err(where, "url must be the request's public NextRequest URL")
+        d = q["decision"]
+        if d is None:
+            if q["status"] in ("inducted", "rejected"):
+                err(where, f"status {q['status']!r} requires a decision")
+            continue
+        if not isinstance(d, dict):
+            err(where, "decision must be null or an object"); continue
+        if d.get("status") not in DECISION_STATUSES:
+            err(where, f"decision.status must be one of {sorted(DECISION_STATUSES)}")
+        for f in ("reason", "decided_by", "decided_on"):
+            if not d.get(f):
+                err(where, f"a decided entry needs decision.{f}")
+        if d.get("decided_on") and not DATE_RE.match(str(d["decided_on"])):
+            err(where, "decision.decided_on must be YYYY-MM-DD")
+        if d.get("decided_by") and d["decided_by"] not in MAINTAINERS:
+            err(where, f"decision.decided_by {d['decided_by']!r} is not a maintainer")
+        if d.get("status") in ("inducted", "rejected") and q["status"] != d["status"]:
+            err(where, f"status {q['status']!r} disagrees with decision {d['status']!r}")
+        if d.get("status") == "watching" and q["status"] not in ("watching", "candidate"):
+            err(where, "a request decided 'watching' has status watching or candidate (re-surfaced)")
+    return n
+
 
 if __name__ == "__main__":
     main()

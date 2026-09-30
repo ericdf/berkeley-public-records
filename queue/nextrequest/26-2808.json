@@ -1,0 +1,25 @@
+{
+  "id": "26-2808",
+  "source": "nextrequest",
+  "request_date": "2026-09-21",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "City Attorney"
+  ],
+  "request_text_excerpt": "September 21, 2026 City Manager Paul Buddenhagen or responsible party, I am requesting access to records in possession or control of the City of Berkeley for the purposes of inspection and copying pursuant to the California Public Records Act, California Government Code § 7920.000 et seq. (“CPRA”), and Article I, § 3(b) of the California Constitution. The specific records I seek to inspect and copy are listed below. As used herein, “Record” includes “Public Records” and “Writings” as those terms are defined in Government Code § 7920.530 & 7920.545. I am requesting access to digital copies of …",
+  "document_count": 2,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2808",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": 2
+  },
+  "notes": [],
+  "decision": null
+}

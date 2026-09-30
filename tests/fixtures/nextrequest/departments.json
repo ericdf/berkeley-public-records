@@ -1,0 +1,132 @@
+[
+ {
+  "id": 0,
+  "name": "None assigned",
+  "poc_id": null
+ },
+ {
+  "id": 7466,
+  "name": "City Attorney",
+  "poc_id": 302241
+ },
+ {
+  "id": 7469,
+  "name": "City Auditor Office",
+  "poc_id": 302242
+ },
+ {
+  "id": 7470,
+  "name": "City Clerk",
+  "poc_id": 302240
+ },
+ {
+  "id": 7468,
+  "name": "City Council",
+  "poc_id": 302241
+ },
+ {
+  "id": 7482,
+  "name": "City Manager's Office",
+  "poc_id": 302241
+ },
+ {
+  "id": 7467,
+  "name": "City Mayor's Office",
+  "poc_id": 302241
+ },
+ {
+  "id": 7471,
+  "name": "Finance",
+  "poc_id": 2789053
+ },
+ {
+  "id": 30203,
+  "name": "Fire - Emergency Medical Services",
+  "poc_id": 821757
+ },
+ {
+  "id": 30200,
+  "name": "Fire - Fire Prevention",
+  "poc_id": 821757
+ },
+ {
+  "id": 7472,
+  "name": "Fire - General",
+  "poc_id": 821757
+ },
+ {
+  "id": 30201,
+  "name": "Fire - Office of Emergency Services",
+  "poc_id": 821757
+ },
+ {
+  "id": 30199,
+  "name": "Fire - Operations",
+  "poc_id": 821757
+ },
+ {
+  "id": 30205,
+  "name": "Fire - Special Programs & Projects",
+  "poc_id": 821757
+ },
+ {
+  "id": 30204,
+  "name": "Fire - Training",
+  "poc_id": 821757
+ },
+ {
+  "id": 30202,
+  "name": "Fire - Wildland Division (WUI)",
+  "poc_id": 821757
+ },
+ {
+  "id": 31216,
+  "name": "Health, Housing and Community Services – Affordable Housing/Homeless Services",
+  "poc_id": 2250845
+ },
+ {
+  "id": 7510,
+  "name": "Health, Housing & Community Services",
+  "poc_id": 302254
+ },
+ {
+  "id": 7479,
+  "name": "Human Resources",
+  "poc_id": 1003619
+ },
+ {
+  "id": 7480,
+  "name": "Information Technology",
+  "poc_id": 1185500
+ },
+ {
+  "id": 7481,
+  "name": "Library",
+  "poc_id": 1433948
+ },
+ {
+  "id": 7867,
+  "name": "Multi-Department",
+  "poc_id": 302241
+ },
+ {
+  "id": 7491,
+  "name": "Parks, Recreation and Waterfront",
+  "poc_id": 331062
+ },
+ {
+  "id": 7483,
+  "name": "Planning - Administration",
+  "poc_id": 938749
+ },
+ {
+  "id": 7484,
+  "name": "Planning and Development ",
+  "poc_id": 938749
+ },
+ {
+  "id": 7485,
+  "name": "Planning - Building & Safety",
+  "poc_id": 938749
+ }
+]

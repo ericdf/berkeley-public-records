@@ -1,0 +1,25 @@
+{
+  "id": "26-2908",
+  "source": "nextrequest",
+  "request_date": "2026-09-29",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Planning and Development"
+  ],
+  "request_text_excerpt": "Please release any and all records, from all city departments, related to the California theater property at 2113-2115 Kittredge St. The time period is Jan. 1, 2026 to the present. Please make sure to search under 2113 and 2115 Kittredge St, as the property address gets listed different ways.",
+  "document_count": 0,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2908",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [],
+    "score": -3
+  },
+  "notes": [],
+  "decision": null
+}

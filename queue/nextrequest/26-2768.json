@@ -1,0 +1,31 @@
+{
+  "id": "26-2768",
+  "source": "nextrequest",
+  "request_date": "2026-09-17",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "City Manager's Office"
+  ],
+  "request_text_excerpt": "I am requesting the complete records of an Animal Control visit to 1509 McGee, Berkeley CA 94703 in response to my having contacted Animal Control Services on 9/8/2026 after I was bitten by a large dog at approximately 7:48 a.m., whose dog owner resides at 1509 McGee, Berkeley CA 94703. I was only emailed by Animal Control Services, the result of the visit that pertained to the dog having an up to date rabies immunization, but I want the complete report relating to the dog owner's rendering of events related to the dog bite that I received by his large dog and anything else pertaining to the …",
+  "document_count": 3,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2768",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [
+      "City Manager's Office"
+    ],
+    "keywords": [
+      "report"
+    ],
+    "negative": [
+      "dog"
+    ],
+    "score": 2
+  },
+  "notes": [],
+  "decision": null
+}

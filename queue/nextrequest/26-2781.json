@@ -1,0 +1,28 @@
+{
+  "id": "26-2781",
+  "source": "nextrequest",
+  "request_date": "2026-09-18",
+  "state": "Closed",
+  "visibility": "Published",
+  "published": true,
+  "departments": [
+    "Planning - Building & Safety"
+  ],
+  "request_text_excerpt": "We would like to review any building/demolitions permits and certificates of occupancy for the following property: 2419 Durant Avenue, Berkeley (APN 55-1878-10)",
+  "document_count": 2,
+  "url": "https://cityofberkeleyca.nextrequest.com/requests/26-2781",
+  "first_seen": "2026-09-30",
+  "last_checked": "2026-09-30",
+  "status": "candidate",
+  "rank_hints": {
+    "departments": [],
+    "keywords": [],
+    "negative": [
+      "apn",
+      "the following property"
+    ],
+    "score": -2
+  },
+  "notes": [],
+  "decision": null
+}
