@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-07-29-item-20-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-07-29",
+  "meeting_label": "regular",
+  "title": "Project Implementation Staffing for Measure FF, the SAFE STREETS Initiative",
+  "file": "L1/staff-reports/bcc-2025-07-29-item-20-staff-report-text.txt",
+  "sha256": "d6d8f7e5733f480662aa6428d54dd4c1bc493adf683657e68643070a42532a2b",
+  "bytes": 12845,
+  "derived_from": {
+    "id": "bcc-2025-07-29-item-20-staff-report",
+    "sha256": "0a89f686d1919e3349a33de822cd1c1b2ec486ad5632fadebf69718bda948158"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

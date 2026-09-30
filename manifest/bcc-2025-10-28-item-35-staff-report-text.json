@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-10-28-item-35-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-10-28",
+  "meeting_label": "regular",
+  "title": "Audit Status Reports: Fleet Replacement Fund Short Millions and Rocky Road: Berkeley Streets at Risk and Significantly Underfunded",
+  "file": "L1/staff-reports/bcc-2025-10-28-item-35-staff-report-text.txt",
+  "sha256": "92bc9829c6fc67f885fe384bb9b0b56fb9f8fca59a97a8ce8ec8a7e704789918",
+  "bytes": 35232,
+  "derived_from": {
+    "id": "bcc-2025-10-28-item-35-staff-report",
+    "sha256": "85537acf50afdec5e9939b85172570f4b7e027d47881a4aa439fe7bc04ecef6e"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

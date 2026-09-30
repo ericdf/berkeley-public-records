@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-10-14-item-04-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-10-14",
+  "meeting_label": "regular",
+  "title": "Contract: Healthy Black Families for the African American Holistic Resource Center Project Sankofa",
+  "file": "L1/staff-reports/bcc-2025-10-14-item-04-staff-report-text.txt",
+  "sha256": "d088402ead611edc281d271ad716297f83bf52ccf2cae92891f3f115ad68f386",
+  "bytes": 8632,
+  "derived_from": {
+    "id": "bcc-2025-10-14-item-04-staff-report",
+    "sha256": "056bd404611d57211d4d6829895122782ca9a562cf56aec594e51ec103d1d65e"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-09-09-item-30-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-09-09",
+  "meeting_label": "regular",
+  "title": "Update on Implementation Progress of Citygate’s Workload Organizational Study of the Police Department",
+  "file": "L1/staff-reports/bcc-2025-09-09-item-30-staff-report-text.txt",
+  "sha256": "d109156f0ee6c44feb91c5598d41b5382d53635050cd2b85992df7b10d7dcf1d",
+  "bytes": 440403,
+  "derived_from": {
+    "id": "bcc-2025-09-09-item-30-staff-report",
+    "sha256": "21555590ff88da2d67c52763ceeb75acc52a6e31e3ac6788706772dc3cec9eda"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
