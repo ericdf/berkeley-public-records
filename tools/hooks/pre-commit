@@ -1,0 +1,3 @@
+#!/bin/sh
+# Refuse any staged file over 25 MB. Installed by: sh tools/install-hooks.sh
+exec python3 "$(git rev-parse --show-toplevel)/tools/check_large_files.py" --staged

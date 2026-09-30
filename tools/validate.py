@@ -151,12 +151,25 @@ def main():
                         err(at, f"verified segment needs {f}")
 
     nq = validate_queue()
+    validate_inbox()
 
     for e in errors:
         print("ERROR", e)
     n = len(manifest)
     print(f"{n} manifest entries; {nq} queue entries; {len(errors)} errors")
     sys.exit(1 if errors else 0)
+
+def validate_inbox():
+    """inbox/ holds contributions waiting for tools/process_inbox.py. Nothing may be merged
+    while any remain, so only inbox/README.md and inbox/.gitkeep are allowed here."""
+    idir = os.path.join(ROOT, "inbox")
+    if not os.path.isdir(idir):
+        return
+    left = sorted(n for n in os.listdir(idir) if n not in ("README.md", ".gitkeep", ".DS_Store"))
+    for n in left:
+        err(f"inbox/{n}", "unprocessed contribution. Run python3 tools/process_inbox.py (on a pull "
+            "request from this repository the inbox workflow runs it automatically and comments "
+            "with the result)")
 
 def validate_queue():
     """queue/nextrequest/<id>.json: public-records requests awaiting or holding a decision."""

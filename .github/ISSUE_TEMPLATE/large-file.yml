@@ -1,0 +1,78 @@
+name: Large file
+description: Offer a document over 25 MB (or one GitHub's website refused as too large). The maintainer archives it.
+title: "Large file: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Files over 25 MB cannot go into the repository, so the maintainer stores them outside git
+        (README, "Large files"). You do not need to know the size: if GitHub's website says the
+        file is too large, use this form.
+
+        Give **either** the City web address where the document is posted, **or** a Google Drive
+        link. For Drive: in Google Drive, right-click the file, choose **Share**, add
+        `berkeleypublicrecords@gmail.com` as a Viewer, click **Send**, then use **Copy link** and
+        paste the link below.
+  - type: input
+    id: title
+    attributes:
+      label: Document title
+      description: As printed on the document.
+    validations:
+      required: true
+  - type: input
+    id: document_date
+    attributes:
+      label: Document date
+      description: The date on the document, as YYYY-MM-DD (e.g. 2026-05-19).
+    validations:
+      required: true
+  - type: dropdown
+    id: layer
+    attributes:
+      label: Layer
+      options:
+        - L0 — made or published by a public body (the City, a commission, the County)
+        - T0 — published by someone else (a newspaper, a community group, a campaign)
+    validations:
+      required: true
+  - type: input
+    id: publisher
+    attributes:
+      label: Publisher
+      description: Who made or published it, e.g. "City of Berkeley — City Clerk".
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: City web address
+      description: Where the document is posted online, if it is. Starts with https://
+  - type: input
+    id: drive_link
+    attributes:
+      label: Google Drive link
+      description: Only if there is no web address, or the file is not downloadable there. Share it with berkeleypublicrecords@gmail.com first.
+  - type: textarea
+    id: source_note
+    attributes:
+      label: How you obtained it
+      description: Required if there is no City web address. For example, "Requested in person from the City Clerk; received 2026-09-12."
+  - type: input
+    id: relevance
+    attributes:
+      label: Relevance (T0 only)
+      description: The public decision or official it bears on, in neutral terms. Say why it belongs here, not what it shows.
+  - type: input
+    id: collection
+    attributes:
+      label: Collection, if you know it
+      description: For example sources/budgets, clerk, council-captions, press. The maintainer fills it in otherwise.
+  - type: input
+    id: size
+    attributes:
+      label: Size, if you know it
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else

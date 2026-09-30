@@ -1,0 +1,29 @@
+name: large-files
+# Fails fast when a push adds any file over 25 MB. Such a file stays in the repository's
+# history even if it is deleted later, so this runs on every push to every branch, before any
+# pull request exists. Read-only: it reports; the contributor deletes the branch.
+on:
+  push:
+    branches: ['**']
+permissions:
+  contents: read
+jobs:
+  check:
+    if: github.event.deleted != true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Refuse files over 25 MB
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.event.after }}
+        run: |
+          if [ "$GITHUB_REF_NAME" != "main" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            # A new or force-pushed branch: check every commit on it that main lacks.
+            RANGE="origin/main..$AFTER"
+          else
+            RANGE="$BEFORE..$AFTER"
+          fi
+          python3 tools/check_large_files.py --range "$RANGE"
