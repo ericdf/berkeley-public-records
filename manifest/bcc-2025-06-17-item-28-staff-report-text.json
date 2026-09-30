@@ -1,0 +1,21 @@
+{
+  "id": "bcc-2025-06-17-item-28-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "title": "Fire Facility Revenue Measures",
+  "file": "L1/staff-reports/bcc-2025-06-17-item-28-staff-report-text.txt",
+  "sha256": "8b226d70a6970658fbdb903b91ad7e1b512f576764f58fee972bbb4be98f4527",
+  "bytes": 955395,
+  "derived_from": {
+    "id": "bcc-2025-06-17-item-28-staff-report",
+    "sha256": "3f184ce069028a75384a5e13597c96fa32f0577ef07d2be14664644e4ce8896d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
