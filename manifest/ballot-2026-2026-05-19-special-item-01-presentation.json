@@ -25,8 +25,7 @@
         "item": "berkeley-public-records-ballot-2026-2026-05-19-special-item-01-presentation",
         "path": "ballot-2026-2026-05-19-special-item-01-presentation.pdf",
         "uploaded": "2026-09-30",
-        "verified": null,
-        "verify_note": "Upload accepted and queued for processing by the Internet Archive; sha256 to be checked once the item is public."
+        "verified": "2026-09-30"
       },
       {
         "store": "google_drive",
