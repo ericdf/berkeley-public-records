@@ -1,0 +1,40 @@
+{
+  "id": "bcc-2025-03-25-item-08-staff-report",
+  "layer": "L0",
+  "doc_type": "staff_report",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "publisher": "City of Berkeley — Planning and Development",
+  "title": "Establishment of M-RD Zoning District, Associated General Plan and West Berkeley Plan Amendments, and Environmental Impact Report",
+  "meeting_date": "2025-03-25",
+  "meeting_label": "regular",
+  "item": "Action Calendar Item 08",
+  "file": null,
+  "sha256": "e2760b122b5e8d14e136eea864f5db21cc1376d765836434519ebe73079422bf",
+  "bytes": 45866928,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/2025-03-25%20Item%2008%20Establishment%20of%20M-RD%20Zoning%20District.pdf",
+  "source_note": "Downloaded from source_url on 2026-09-30.",
+  "retrieved": "2026-09-30",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-bcc-2025-03-25-item-08-staff-report",
+        "path": "bcc-2025-03-25-item-08-staff-report.pdf",
+        "uploaded": "2026-09-30",
+        "verified": null,
+        "verify_note": "Upload accepted and queued for processing by the Internet Archive; sha256 to be checked once the item is public."
+      },
+      {
+        "store": "google_drive",
+        "location": "berkeley-public-records-blobs/bcc-2025-03-25-item-08-staff-report.pdf",
+        "uploaded": "2026-09-30",
+        "verified": "2026-09-30"
+      }
+    ]
+  }
+}

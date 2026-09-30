@@ -1,0 +1,21 @@
+{
+  "id": "bcc-2025-03-25-item-08-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "title": "Establishment of M-RD Zoning District, Associated General Plan and West Berkeley Plan Amendments, and Environmental Impact Report",
+  "file": "L1/staff-reports/bcc-2025-03-25-item-08-staff-report-text.txt",
+  "sha256": "26f88fd740d310b1a010299ed35b0836b5bf14bd71a64c2818876297c803cd3e",
+  "bytes": 413048,
+  "derived_from": {
+    "id": "bcc-2025-03-25-item-08-staff-report",
+    "sha256": "e2760b122b5e8d14e136eea864f5db21cc1376d765836434519ebe73079422bf"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
