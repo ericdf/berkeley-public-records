@@ -1,0 +1,21 @@
+{
+  "id": "acfr-acfr-fy2022-text",
+  "layer": "L1",
+  "doc_type": "financial_report_or_policy_text",
+  "collection": "acfr",
+  "title": "Annual Comprehensive Financial Report, fiscal year ended June 30, 2022",
+  "file": "L1/sources/acfr/acfr-acfr-fy2022-text.txt",
+  "sha256": "718f7fff44d47c8b52f46736c8b09d1cabc0e7fb405ae483c61504c9e7cffe61",
+  "bytes": 1372470,
+  "derived_from": {
+    "id": "acfr-acfr-fy2022",
+    "sha256": "f530cddb5db1d1f5375867ea09272a37db67ef27b3b04263f01e3eb4b8decb5f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

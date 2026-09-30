@@ -1,0 +1,21 @@
+{
+  "id": "investments-2023-12-12-item-35-fy-2023-fourth-quarter-investment-text",
+  "layer": "L1",
+  "doc_type": "investment_report_text",
+  "collection": "investments",
+  "title": "FY 2023 Fourth Quarter Investment Report: Ended June 30, 2023",
+  "file": "L1/sources/investments/investments-2023-12-12-item-35-fy-2023-fourth-quarter-investment-text.txt",
+  "sha256": "b59e4f8f7117830fe87d01151c44cbcc382d3b53b10f9f0bfb4cf61484003f9d",
+  "bytes": 122946,
+  "derived_from": {
+    "id": "investments-2023-12-12-item-35-fy-2023-fourth-quarter-investment",
+    "sha256": "181c1f50133395541907fa66371b315dd5732cbcec6fe90e0ffa11430b6b6fd7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

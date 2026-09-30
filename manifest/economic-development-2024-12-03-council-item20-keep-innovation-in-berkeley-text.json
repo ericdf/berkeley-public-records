@@ -1,0 +1,21 @@
+{
+  "id": "economic-development-2024-12-03-council-item20-keep-innovation-in-berkeley-text",
+  "layer": "L1",
+  "doc_type": "economic_report_text",
+  "collection": "economic_development",
+  "title": "Zoning Ordinance Amendments: Keep Innovation in Berkeley",
+  "file": "L1/sources/economic_development/economic-development-2024-12-03-council-item20-keep-innovation-in-berkeley-text.txt",
+  "sha256": "35ec32bf1e0c61348ccffaddabf6aaf413d4e2e5daf4b9e1be35e7d8c6c89a89",
+  "bytes": 122148,
+  "derived_from": {
+    "id": "economic-development-2024-12-03-council-item20-keep-innovation-in-berkeley",
+    "sha256": "c978cb702381c31f5528ea67c81948d5e8ef3346ad6dc7235029135a660c1106"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

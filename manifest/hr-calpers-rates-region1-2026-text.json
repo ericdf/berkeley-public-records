@@ -1,0 +1,21 @@
+{
+  "id": "hr-calpers-rates-region1-2026-text",
+  "layer": "L1",
+  "doc_type": "hr_document_text",
+  "collection": "hr",
+  "title": "CalPERS 2026 State Health Premiums (Active and Annuitants) — In-State Basic Plan Monthly Premiums",
+  "file": "L1/sources/hr/hr-calpers-rates-region1-2026-text.txt",
+  "sha256": "1e41949b9e7df4a8e0cd1ebc4814581fbec71a81ac99d483778e1e88e8bef6e5",
+  "bytes": 16280,
+  "derived_from": {
+    "id": "hr-calpers-rates-region1-2026",
+    "sha256": "b6543791cc426b97787709138ff9ed6a4f65c32b8f4a3a57605763abc71e1a46"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

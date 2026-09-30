@@ -1,0 +1,21 @@
+{
+  "id": "bonds-2026-07-14-t1-final-tranche-notice-of-sale-text",
+  "layer": "L1",
+  "doc_type": "bond_document_text",
+  "collection": "bonds",
+  "title": "Official Notice of Sale — $20,000,000 City of Berkeley 2026 General Obligation Bonds (2016 Election: Infrastructure and Facilities Improvements)",
+  "file": "L1/sources/bonds/bonds-2026-07-14-t1-final-tranche-notice-of-sale-text.txt",
+  "sha256": "479a60ab181766164a3790ba7bcc92988827a9d748c9ecb953692baf05a06e9b",
+  "bytes": 38566,
+  "derived_from": {
+    "id": "bonds-2026-07-14-t1-final-tranche-notice-of-sale",
+    "sha256": "0991947c6bb0e2b332fd8da1001b4fa439996abac46cf582368049ed76baaca0"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

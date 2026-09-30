@@ -1,0 +1,21 @@
+{
+  "id": "ballot-2026-2026-02-potential-bond-measure-projects-text",
+  "layer": "L1",
+  "doc_type": "ballot_measure_record_text",
+  "collection": "ballot_2026",
+  "title": "Potential Bond Measure Projects (Measure U project list)",
+  "file": "L1/sources/ballot_2026/ballot-2026-2026-02-potential-bond-measure-projects-text.txt",
+  "sha256": "49826baa936d30b68f80732e91a3def1c755c266ce28f5275fa2a96076f3fa7c",
+  "bytes": 28690,
+  "derived_from": {
+    "id": "ballot-2026-2026-02-potential-bond-measure-projects",
+    "sha256": "8b9e60dffc12eb6405c54dc91d9b62577281ace16adb24898192f9b27ef30bfb"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

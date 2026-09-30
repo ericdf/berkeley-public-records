@@ -1,0 +1,1673 @@
+             Page 4 of 39    ATTACHMENT 2
+
+                Public
+
+
+
+
+   City of Berkeley
+Investment Policy
+
+
+
+
+    Effective July 1, 2025
+                                                                 Page 5 of 39
+                                                                        Public
+
+
+
+
+                                                   City of Berkeley
+                                                 Investment Policy
+                                                             July 1, 2025
+                                                       Table of Contents
+I.         INTRODUCTION ........................................................................................................2
+      A.      Scope of Policies.....................................................................................................2
+      B.      Investment Objectives .............................................................................................2
+      C.      Use of State Investment Guidelines ........................................................................6
+
+II.        INVESTMENT AUTHORITY AND RESPONSIBILITIES.............................................6
+      A.      Authorized Investment Officers ...............................................................................6
+      B.      Internal Controls ......................................................................................................7
+      C.      Evaluation of Investment Officer Actions.................................................................9
+
+III. CAPITAL PRESERVATION AND RISK......................................................................9
+      A.      Overview .................................................................................................................9
+      B.      Portfolio Diversification Practices ............................................................................9
+
+IV. ELIGIBLE FINANCIAL INSTITUTIONS ....................................................................10
+      A.      Authorized Dealers................................................................................................10
+      B.      Individual Placement of Deposits ..........................................................................10
+
+V.         INVESTMENT VEHICLES........................................................................................11
+      A.      State of California Limitations................................................................................11
+      B.      City Policies...........................................................................................................14
+
+VI. INVESTMENT MATURITY .......................................................................................16
+
+VII. CASH MANAGEMENT .............................................................................................16
+
+VIII. EVALUATION OF INVESTMENT PERFORMANCE ................................................16
+
+IX. INVESTMENT REPORTING ....................................................................................17
+
+X.         APPENDICES...........................................................................................................19
+      A.      Investment Portfolio – Diversification Requirements .............................................19
+      B.      Berkeley’s ESG Investing Initiative........................................................................20
+
+
+
+
+                                                                                                                                            1
+                                               Page 6 of 39
+                                                    Public
+
+
+
+
+I. Introduction
+
+ Pursuant to Sections 2.44.040 and 2.44.060 of the Berkeley Municipal Code, Resolution No.
+ 45,087-N.S., and Sections 53601, 53607, 53636 and 53648 of the State Government Code, the
+ Director of Finance, the Treasurer of the City, is authorized to make investments of the City’s
+ idle funds. The Code also directs the City to present an annual investment policy to the City
+ Council for approval. This Investment Policy, after approval of the amendments by the City
+ Council, will serve as the Investment Policy for the City of Berkeley for fiscal year 2026.
+
+ A.       Scope of Policies
+
+ These investment policies apply to the investments of the City of Berkeley and the Rent
+ Stabilization Board. All financial assets of any non-trust funds, including the general fund and
+ other funds that may be created from time to time, shall be administered in accordance with the
+ provisions of these policies.
+
+ B.       Investment Objectives
+ The City's primary investment objective is to achieve a reasonable rate of return on public funds
+ while minimizing the potential for capital losses arising from market changes or issuer default.
+ Although the generation of revenues through interest earnings on investments is an appropriate
+ City goal, the primary consideration in the investment of City funds is capital preservation in the
+ overall portfolio. As such, the City's yield objective is to achieve a reasonable rate of return on
+ City investments rather than the maximum generation of income, which could expose the City to
+ unacceptable levels of risk.
+
+ The following investment objectives, in order of priority, shall be applied in the management of
+ City funds: safety, liquidity and yield.
+
+      1. Safety of principal is the foremost objective of the investment program
+         Investments shall be undertaken in a manner that seeks to ensure the preservation of
+         capital in the overall portfolio. The objective is to mitigate credit risk and interest rate risk,
+         summarized as follows:
+
+              a. Credit risk. This is the risk of loss due to the failure of the security issuer or
+                 backer. Credit risk may be mitigated by:
+                       Limiting investments to the safest types of securities.
+                       Determining the credit worthiness of the financial institutions,
+                         broker/dealers, and intermediaries with which the City does business.
+                       Diversifying the investment portfolio so that potential losses on individual
+                         securities will be minimized.
+
+              b. Interest rate risk. This is the risk that the market value of securities in the portfolio
+                 will fall due to changes in general interest rates. Interest rate risk may be
+                 mitigated by:
+
+
+                                                                                                          2
+                                      Page 7 of 39
+                                           Public
+
+
+
+                  Structuring the investment portfolio so that securities mature to meet cash
+                   requirements for ongoing operations, thereby avoiding the need to sell
+                   securities prior to maturity; and
+                  Investing operating funds primarily in shorter-term securities.
+
+2. Liquidity
+   No investment shall be made that could not appropriately be held to maturity without
+   compromising liquidity requirements. The investment portfolio shall remain sufficiently
+   liquid to meet all operating requirements that may be reasonably anticipated. This is
+   accomplished by structuring the portfolio so that securities mature concurrent with cash
+   needs to meet anticipated demands (static liquidity). Furthermore, since all possible
+   cash demands cannot be anticipated, the portfolio should consist largely of securities
+   with active secondary markets (dynamic liquidity).
+
+3. Yield
+   The investment portfolio shall be designed with the objective of attaining a market rate of
+   return throughout budgetary and economic cycles, taking into account the City’s
+   investment risk constraints and liquidity needs. Return on investment is of least
+   importance compared to the safety and liquidity objectives described above. The core of
+   investments are limited to relatively low risk securities in anticipation of earning a
+   reasonable return relative to the risk being assumed. Securities shall not be sold prior to
+   maturity with the following exceptions:
+
+                i. Liquidity needs of the portfolio require that the security be sold.
+               ii. A security swap would improve the quality, yield, or target duration in the
+                   portfolio.
+
+4. Responsible Investing
+   Investment policies of the City of Berkeley shall comply with the letter of the following
+   ordinances, resolutions and directives:
+                 Nuclear-Free Berkeley Act
+                 Resolution No. 59,853-N.S.-Oppressive States Contract prohibition
+                 Divestment from Gun Manufacturers and Tobacco Companies
+                 Divestment from Publicly Traded Fossil Fuel Companies and Banks that
+                  Finance Pipelines and Fossil Fuel Infrastructure
+                 Divestment from Prisons Resolution No. 67,640-N.S. and Immigration
+                  Detention Companies
+                 Divest from Any Companies Designing, Building or Financing the U.S. –
+                  Mexico Border Wall Resolution No. 67,865-N.S.
+                 No Investment in Any Entity Involve in the Production and Manufacturing
+                  of Weapons-Resolution No. 68,766-N.S.
+                 Integrate Environmental, Social, and Governance Principles (ESG) for All
+                  Investment Decision Making Process (See Appendix B for details.)
+
+                                                                                                 3
+                               Page 8 of 39
+                                    Public
+
+
+
+a. Nuclear-Free Berkeley Act
+   To the extent possible, without compromising the City’s safety, liquidity and yield
+   objectives, it is the City’s policy to prefer investments in U.S. Agency securities.
+   They are preferred because of their generally higher yields and generally socially
+   preferable uses, such as housing loans or student loans, versus investments in
+   Treasury securities with their association with nuclear weapons.
+
+    All financial institutions, which hold deposits or investments of the City, shall file
+   a statement with the Director of Finance indicating the percentage of the bank’s
+   assets which are loaned to or invested in nuclear weapons agents as defined in
+   Section 12.90 of the Nuclear-Free Berkeley Act. The Director of Finance shall
+   use this information as a factor in selecting banks which have minimum
+   involvement in the nuclear weapons industry. A summary of these reports shall
+   be attached to the annual Statement of Investment Policies.
+
+          Investments in United States Treasury securities may be made by the
+           City of Berkeley.
+          The City of Berkeley shall ensure that any City funds, or any funds
+           controlled by the City, invested or other third parties, are invested
+           according to the provisions of this section and, to this end, shall obtain
+           written assurances to this effect from any such trustees or third parties.
+
+b. Divestment From Publicly-Traded Fossil Fuel Companies and Companies
+   that Provide Direct Financing or On-going Lines of Credit for the Funding of
+   Fossil Fuel Infrastructure
+   The City of Berkeley has a responsibility to protect the lives and livelihoods of its
+   inhabitants from the threat of climate change. While fossil fuel companies provide
+   an attractive return on investment, the City of Berkeley will suffer greater
+   economic and financial losses from the impact of unchecked climate change. The
+   City’s infrastructure, businesses and communities would face greater risk of
+   damages and losses due to that climate change. The City believes that its
+   investments should support a future where all citizens can live healthy lives
+   without the negative impacts of a warming environment. For the purposes of the
+   Investment Policy, a “fossil fuel company “shall be defined as any of the two
+   hundred publicly-traded companies with the largest coal, oil and gas reserves as
+   measured by the gigatons of carbon dioxide that would be emitted if those
+   reserves were extracted and burned, as listed in the Carbon Tracker Initiative’s
+   “Unburnable Carbon” report.
+
+   Staff responsible for managing the City’s investment portfolio are directed to
+   divest all City funds held in fossil fuel companies or companies that provide direct
+   financing or on-going lines of credit for the funding of fossil fuel infrastructure
+   such as the Dakota Access Pipeline and are prohibited from making any new
+   investments in such companies.
+
+
+                                                                                             4
+                               Page 9 of 39
+                                    Public
+
+
+
+c. Divestment from Gun Manufacturers and Tobacco Companies
+   The City of Berkeley has a responsibility to protect the lives and livelihoods of its
+   inhabitants from the threat of dangerous weapons and products. There is no
+   better role for city government than to protect people. If the City invests in
+   companies that are putting dangerous weapons and dangerous products on our
+   streets, then the City is part of the problem.
+
+   Staff responsible for managing the City’s investment portfolio are directed to
+   divest all City funds held in gun manufacturers and tobacco companies and are
+   prohibited from making any new investments in such companies.
+
+d. Divestment from Prisons and Immigration Detention Companies
+   The prison and immigration detention industry reaps large monetary benefits
+   from the imprisonment of these communities. Prison companies admit that their
+   companies benefit from high incarceration rates. With the increasing economic
+   benefits that come with commodifying human lives, the City of Berkeley should
+   divest from prison and immigration detention companies to make a statement
+   that the industry harms human lives and degrades them as monetary investment.
+
+   Staff responsible for managing the City’s investment portfolio are directed to
+   divest all City funds held in Prisons and Immigration Detention Companies and
+   are prohibited from making any new investments in such companies.
+
+e. Divestment from any Companies Designing, Building or Financing the U.S.-
+   Mexico Border Wall - Resolution No. 67,865-N.S.
+   The City of Berkeley is strongly opposed to the construction of a border wall
+   between the United States and Mexico as called for in Presidential Executive
+   Order 13767. Immigration has been part of this country's history since its
+   inception. Construction of a border wall with tightened security will harm refugees
+   who are feeling violence and conflict in Central American countries including
+   Honduras and El Salvador. A border wall would increase international tensions
+   and cause environmental damage by increasing emissions, cutting off natural
+   water flows, and disturbing wildlife migration routes. The wall would cut through
+   ancestral native lands and would significantly disrupt tribal communities. In
+   addition, construction of a wall would be huge financial burden to taxpayers.
+   Therefore, to ensure that local tax dollars in no way support the construction of
+   the proposed border wall, the City of Berkeley will divest from all companies
+   involved with designing, building, and financing the border wall.
+
+   Staff responsible for managing the City's investment portfolio are directed to
+   divest all city funds from companies that design, build or finance the U.S.-Mexico
+   border wall as called for in Presidential Executive Order 13767, and are
+   prohibited from making any new investments in such companies.
+
+
+                                                                                           5
+                                            Page 10 of 39
+                                                 Public
+
+
+
+            f.   No Investment in Any Entity Involved in the Production and Manufacturing
+                 of Weapons-Resolution No. 68,766-N.S.
+                 The City of Berkeley joins the cities nationwide that oppose militarism and
+                 violence, and encourages other cities to follow Berkeley’s lead. U.S. weapons
+                 manufacturers continue to supply repressive regimes around the world and U.S.
+                 produced weapons are being used in attacks that the international community
+                 deems unlawful for their disproportionate and excessive harm to civilians.
+
+                 Staff responsible for managing the City's investment portfolio are directed to
+                 divest all City funds from companies that are involved in the production or
+                 manufacturing of weapons and weapons system, whether conventional or
+                 nuclear and including the manufacture of civilian arms.
+
+                 These guidelines apply to all cash-equivalent assets included within the scope of
+                 the City's audited financial statements and held either directly by the City or held
+                 and invested by fiscal agents.
+
+            g. Integrate Environmental, Social, and Governance Principles (ESG) for All
+               Investment Decision Making Process (See Appendix B for details.)
+               This combines environmental, social, and governance issues with traditional
+               financial factors in the investment decision-making process. ESG investing helps
+               cities like Berkeley to benefit from both impact driven and financially prudent
+               investments. ESG principles would put Berkeley’s values into our investment
+               dollars.
+
+C.      Use of State Investment Guidelines
+     Government Code Sections 16481.2, 53601, 53607, 53635, and 53646 of the State of
+     California regulate the investment practices. It is the policy of the City of Berkeley to use the
+     State's provisions for local government investments as the base for developing and
+     implementing the City's investment policies and practices.
+
+     As required under Government Code Sections 16481.2 and 53646, the Statement of
+     Investment Policies will be reviewed by the Council annually.
+
+
+
+
+                                                                                                         6
+                                            Page 11 of 39
+                                                  Public
+
+
+
+
+II. Investment Authority and Responsibilities
+       A. Authorized Investment Officers
+       1. Idle Funds
+              Pursuant to Sections 2.44.040, 2.44.060 of the Berkeley Municipal Code, Resolution
+              No. 45,087-N.S., and Sections 53601, 53636 and 53648 of the State Government
+              Code, the Director of Finance, the Treasurer of the City, is authorized to make
+              investments of the City’s idle funds. Responsibility for the operation of the investment
+              program is hereby delegated to the Director of Finance, who shall carry out
+              established written procedures and internal controls for the operation of the
+              investment program consistent with this plan. Procedures should include
+              references to: safekeeping, delivery versus payment basis of settling transactions,
+              investment accounting, repurchase agreements, wire transfer agreements,
+              collateral/depository agreements and banking services contracts. In the exercise of
+              this responsibility, the authority to perform specific investment tasks and duties is
+              delegated as follows:
+
+              •   Treasury Manager/Revenue Collection Manager. In the absence, and under the
+                     direction, of the Finance Director, to invest idle funds on a daily basis as
+                     required for cash flow purposes pursuant to the requirements of the
+                     Statement of Investment Policies.
+
+              •   Senior Accountant or Accounting Manager. To execute necessary investment
+                     documents, and obtain the approval of the Director of Finance to authorize
+                     wire transfers and execute bank authorizations.
+
+              •   Deputy City Manager. To execute necessary investment documents, authorize
+                     wire transfers; execute bank authorization in absence of the Director of
+                     Finance, Treasury Manager/ Revenue Collection Manager, Senior
+                     Accountant, and the Accounting Manager.
+
+
+
+  B.       Internal Controls
+  The Director of Finance shall establish a system of internal controls designed to prevent losses
+  of public funds arising from fraud, employee error, misrepresentation of third parties,
+  unanticipated changes in financial markets, or imprudent actions by employees and officers of
+  the City of Berkeley. The concept of reasonable assurance recognizes that (1) the cost of a
+  control should not exceed the benefits likely to be derived; and (2) the valuation of costs and
+  benefits requires estimates and judgments by management. These controls shall include:
+
+       •   Separation of transaction authority from accounting and physical custody.
+
+
+
+                                                                                                     7
+                                          Page 12 of 39
+                                               Public
+
+
+
+   •   By separating the person who authorizes or performs the transaction from the people
+          who record or otherwise account for the transaction, a separation of duties is
+          achieved.
+
+   •   Also, securities purchased from any bank or dealer including appropriate collateral (as
+          defined by State Law), shall be placed with an independent third party for custodial
+          safekeeping.
+
+   •   Avoidance of physical delivery of securities by using a delivery versus payment “Basis of
+          Settlement Only.”
+
+   •   All trades will be executed on a delivery versus payment (DVP) basis. This ensures that
+            securities are delivered to the City’s safekeeping bank at the same time the funds
+            are released by the City’s safekeeping bank.
+
+   •   Third-Party custodial safekeeping of securities held in the name of the City. Delivered
+           securities must be properly safeguarded against loss or destruction. Book entry
+           securities are recorded in electronic records and the potential for fraud and loss
+           increases with physically delivered securities. All investment securities, except
+           collateralized certificates of deposit and money market funds, purchased by the City
+           will be delivered by either book entry or physical delivery and will be held in third-
+           party safekeeping by a City-approved custodian bank, its correspondent New York
+           Bank or the Depository Trust Corporation (DTC). Whenever possible, securities
+           purchased are to be recorded in “book entry” form.
+
+   •   All securities and applicable collateral will be held by the City’s third party custodian and
+            evidenced by safekeeping receipts. All book entry securities owned by the City shall
+            be evidenced by a safekeeping receipt issued to the City by the custodian bank to
+            acknowledge that the securities are held in the Federal Reserve system in a
+            “customer account” for the custodian bank which names the City as “customer”;
+
+The Director of Finance will require each approved safekeeping financial institution to submit a
+copy of its Consolidated Report of Condition and Income (Call Report) to the City within 60 days
+after the end of each calendar quarter.
+
+   •   Competitive bidding on investment transactions. Before the City invests in any
+         secondary market funds, competitive bids shall be requested. If a specific maturity
+         date is required, either for cash flow purposes or for conformance to maturity
+         guidelines, bids will be requested from at least three financial institutions for
+         instruments which meet the maturity requirement. If no specific maturity is required, a
+         yield curve analysis will be conducted to determine which maturities would be most
+         advantageous.
+
+   •   Written confirmation and documentation of all financial transactions.
+
+
+                                                                                                       8
+                                              Page 13 of 39
+                                                   Public
+
+
+
+       •   Due to the potential for error and improprieties arising from telephone transactions, all
+              telephone transactions should be supported by written communications and
+              approved by the appropriate person. Written communications may be via fax if on
+              letterhead and the safekeeping institution has a list of authorized signatures.
+
+       •   Rapid deposit of funds received by the City (i.e., large checks.)
+
+       •   Bonding of all investment officials.
+
+  C.       Evaluation of Investment Officer Actions
+  Section 53600.3 of the Government Code identifies trustees as those persons authorized to
+  make investment decisions on behalf of a local agency. As a trustee, the standard of prudence
+  to be used by investment officials shall be the "prudent investor" standard and shall be applied
+  in the context of managing an overall portfolio. Investment officers acting in accordance with
+  written procedures, and exercising due diligence shall be relieved of personal responsibility for
+  an individual security's credit risk or market price changes, provided deviations from
+  expectations are reported in a timely fashion and the liquidity and the sale of securities are
+  carried out in accordance with the terms of this plan.
+
+  Investments shall be made with judgment and care, under circumstances then prevailing, which
+  persons of prudence, discretion and intelligence exercise in the management of their own
+  affairs, not for speculation, but for investment, considering the probable safety of their capital as
+  well as the probable income to be derived.
+
+  Officers and employees involved in the investment process shall refrain from personal business
+  activity that could conflict with the proper execution and management of the investment
+  program, or that could impair their ability to make impartial decisions. Employees and
+  investment officials shall disclose any material interests in financial institutions with which they
+  conduct business. They shall further disclose any personal financial/investment positions that
+  could be related to the performance of the investment portfolio. Employees and officers shall
+  refrain from undertaking personal investment transactions with the same individual with whom
+  business is conducted on behalf of their entity.
+
+
+III. Capital Preservation and Risk
+       A. Overview
+  Some level of risk is inherent in any investment transaction. Losses may be incurred due to
+  issuer default, market price changes, or technical cash flow complications such as investments
+  in non-marketable certificates of deposit. Diversification of the City's portfolio by institution,
+  investment vehicle, and maturity term is the primary tool available to the City in minimizing
+  investment risk and capital losses by safeguarding the overall portfolio from any individual loss.
+
+
+
+                                                                                                         9
+                                             Page 14 of 39
+                                                   Public
+
+
+
+  B.       Portfolio Diversification Practices
+  The following sections summarize the City's major portfolio diversification practices and
+  guidelines in determining:
+
+       •   Authorized Dealers
+       •   Investment Vehicles
+       •   Investment Maturity
+
+  Portfolio limitations included in these guidelines are to be based on the portfolio composition
+  and investment management plan policies in effect at the time of placement; the actual
+  composition of the City's investments may vary over time from plan limitations due to overall
+  portfolio changes from when the individual placement was made as well as changes in the
+  City's investment management plan
+
+
+IV. Eligible Financial Institutions
+       A. Authorized Dealers
+       •   Investments shall be purchased only through well-established, financially sound
+               institutions. The Finance Director shall maintain a list of financial institutions and
+               broker/dealers approved for investment. All financial institutions and broker/dealers
+               who desire to become qualified bidders for investment transactions will be given a
+               copy of the City’s Statement of Investment Policies, and a return cover letter which
+               must be signed indicating that the Statement of Investment Policies has been read
+               and understood.
+
+              Qualified financial institutions and broker/dealers must supply the Director of Finance
+              with the following:
+
+              o   Financial Institutions
+                      Current audited financial statements Depository contracts, as appropriate
+                      A copy of the latest FDIC call report or the latest FHLBB report, as
+                         appropriate.
+
+              o   Broker/Dealers
+                      Current audited financial statements
+                      Proof that brokerage firm is a member in good standing with a national
+                         securities exchange.
+
+       •   Except for repurchase agreements, investments shall be awarded based on competitive
+              bids. Documentation relating to investment quotes shall be maintained by the
+              Finance Department for a period of one year.
+
+
+
+                                                                                                        10
+                                            Page 15 of 39
+                                                  Public
+
+
+
+ B.      Individual Placement of Deposits
+      Individual placement of negotiable, collateralized, and other time certificates of deposit with
+      eligible financial institutions shall be based on the following practices and procedures:
+
+         •       Deposits shall only be placed with financial institutions maintaining offices within
+                 the City of Berkeley.
+
+         •       Unless collateralized by eligible securities as provided in Sections 53651 and
+                 53652 of the Government Code, the maximum amount of Certificates of Deposit
+                 to be placed with any single institution is $250,000.
+
+
+V. Investment Vehicles
+      A. State of California Limitations
+ As provided in Sections 53601, 53635, and 16429.1 of the Government Code, the State of
+ California limits the investment vehicles available to local agencies to the following:
+
+
+
+      1. U.S. Treasury Instruments
+            As authorized in Government Code Section 53601(b), this category includes bills,
+            notes, bonds or certificates of indebtedness, or those for which the faith and credit of
+            the United States are pledged for the payment of principal and interest. There are no
+            portfolio limitations on the amount.
+
+      2. Government Sponsored Enterprises
+           As authorized in Government Code Section 53601(f), this category includes a wide
+           variety of government securities. These securities include U. S. government-
+           sponsored enterprise obligations, such as issues by the Federal National Mortgage
+           Association (FNMA's), Federal Home Loan Bank (FHLB), Federal Farm Credit
+           (FFCB), Student Loan Marketing Association (SLMA), etc. There are no portfolio
+           limitations on the amount.
+
+      3. Municipal Securities
+           As authorized in Government Code Section 53601(a)(c)(d)(e), this category includes
+           obligations of the City, the State of California, any of the other 49 states, and any
+           local agency within the State of California, provided that:
+               •      The securities are rated “A” or higher by at least one nationally
+                      recognized statistical rating organization.
+               •      No more than 5% of the portfolio may be invested in any issuer.
+               •      The maximum maturity does not exceed five years.
+
+
+
+                                                                                                    11
+                                      Page 16 of 39
+                                            Public
+
+
+
+4. Banker's Acceptances
+      As provided in Government Code Section 53601(f)g, 40% of the City's portfolio may
+      be invested in Banker's Acceptances, otherwise known as bills of exchange or time
+      drafts that are drawn on and accepted by a commercial bank, although no more than
+      30% of the portfolio may be invested in Bankers' Acceptances with any one
+      commercial bank. Additionally, the maturity period cannot exceed 180 days.
+
+5. Commercial Paper
+     Commercial paper is a short-term, unsecured promissory note issued by financial
+     and non- financial companies to raise short-term cash. As provided in Government
+     Code Section 53601(h) up to 25% of the City's portfolio may be invested in "prime"
+     commercial paper of the highest ranking or of the highest letter and number rating as
+     provided by a nationally recognized statistical-rating organization (i.e., Moody's or
+     Standard and Poor's or Fitch), with maturities not to exceed 270 days. The issuer
+     must have total assets in excess of $500 million, and have debt other than
+     Commercial Paper rated “A” or higher by a nationally recognized statistical-rating
+     organization.
+
+6. Negotiable Certificates of Deposit
+      Negotiable certificates of deposit are a fixed deposit certificate that may be
+      negotiated (traded) to a third party. The institution issuing the certificate promises to
+      pay the holder the initial investment plus the interest rate stated on the certificate at
+      maturity. As authorized in Government Code Section 53601(i), the City may invest
+      30% of its portfolio in negotiable certificates of deposit issued by commercial banks,
+      thrifts and foreign banks.
+
+7. Repurchase Agreements
+      Repurchase agreements are agreements between the local agency and seller for the
+      local agency to purchase government securities to be resold back to the seller at a
+      specific date and for a specific amount and are authorized by Government Code
+      Section 53601(j). Although the legal maximum maturity on these investments is 360
+      days, repurchase agreements are generally short-term investments varying from one
+      day to two weeks. Investments in repurchase agreements must be collateralized,
+      and collateral required for repurchase agreements is limited to Treasury and Agency
+      securities. In order to anticipate market changes and provide a level of security for all
+      funds, the required collateralization level is 102% of market value of principal and
+      accrued interest.
+
+8. Reverse Repurchase Agreements
+      Reverse repurchase agreements are a sale of securities by the local agency with a
+      simultaneous agreement for the local agency to repurchase the securities on or
+      before a specified date. As provided in Government Code section 53635(j), reverse
+      repurchase agreements require the prior approval of the City Council. Reverse
+      repurchase agreements can only be made with primary dealers of the Federal
+
+
+                                                                                              12
+                                     Page 17 of 39
+                                           Public
+
+
+
+       Reserve Bank of New York or with a nationally or state-chartered bank that has or
+       has had a significant banking relationship with the local agency. There are no
+       portfolio limitations on the amount for these investments.
+
+9. Medium-Term Corporate Notes
+     As authorized in Government Code Section 53601(k), local agencies may invest in
+     corporate bonds and notes of industrial companies, banks, bank holding companies,
+     insurance companies, thrifts and finance companies that are rated “A” or better by a
+     nationally recognized rating service; and issued by corporations organized and
+     operating in the United States. The maximum remaining maturity is limited to five
+     years, and the amount invested must not exceed 30% of the agency's portfolio.
+
+10. Shares of Beneficial Interest Issued By Diversified Management Companies
+       As authorized in Government Code Section 53601(l), local agencies are also
+       authorized to invest in shares of beneficial interest issued by diversified management
+       companies (i.e., mutual funds) as defined in Section 23701(m) of the Revenue and
+       Taxation Code in an amount not to exceed 20% of the agency's portfolio.
+
+11. Financial Futures and Financial Option Contracts
+       As authorized in Government Code Section 53601.1, local agencies may invest in
+       financial futures or option contracts in any of the above investment categories
+       subject to the same overall portfolio limitations.
+
+12. Time Certificates of Deposit
+       As authorized in Government Code Section 53635, time certificates of deposit are
+       fixed term, non-negotiable investments which are required to be collateralized 110%
+       by eligible pooled securities. The pool is administered by the State, and is composed
+       of a wide variety of government securities, secured by first mortgages on improved
+       residential property located in the State. There are no portfolio limits on the amount;
+       however the maturity period for this investment vehicle may not exceed five years
+       unless approved by the Council.
+
+13. Local Agency Investment Fund
+       As authorized in Government Code Section 16429.1, local agencies may invest in
+       the Local Agency Investment Fund (LAIF), a pooled investment fund managed by the
+       State Treasurer’s Office. It operates like a money market fund, but is for the
+       exclusive benefit of governmental entities within the State. The current maximum
+       amount of money that may be invested is $40 million.
+
+14. Moneys Held By A Trustee Or Fiscal Agent
+      As authorized in Government Code Section 53601(m), debt proceeds held by a
+      trustee or fiscal agent, which are pledged to the payment or security of bonds or
+      other indebtedness may be invested in accordance with the statutory provisions
+      governing the issuance of those bonds or other agreement; or to the extent not
+
+                                                                                            13
+                                             Page 18 of 39
+                                                   Public
+
+
+
+             inconsistent with statutory provisions, or if there are no specific statutory provisions,
+             investments may be made in accordance with the ordinance, resolution, indenture, or
+             agreement of the local agency for the issuance.
+
+             This category includes investment agreements approved in writing by insurance
+             companies, supported by appropriate opinions of counsel with notice to Standard
+             and Poor’s.
+
+     15. Other Secured Notes, Bonds Or Other Obligations
+            As authorized in Government Code Section 53601(n), notes, bonds, or other
+            obligations that are at all times secured by a valid first priority security interest in
+            securities of the types listed by Section 53651 as eligible securities.
+
+     16. Mortgage Pass Through, Collateralized Mortgage Obligation, Mortgage-backed
+            Bond, Equipment Lease-backed Certificate, Consumer Receivable Pass
+            through Certificate, and Consumer Receivable-backed Bond
+            As authorized in Government Code Section 53601(o), securities in this category
+            must be rated “AA” or its equivalent or better by a nationally recognized rating
+            service. Purchases may not exceed 20% of the agency’s portfolio.
+
+     17. Public Bank Obligations
+            As authorized in Government Code Section 53601(r),53635(c), and 57603 local
+            agencies may invest on commercial paper, debt securities or other obligations of a
+            public bank. The maximum remaining maturity is limited to five years.
+
+
+
+B.       City Policies
+1. Allowable Investment Vehicles and Restrictions
+
+      The Director of Finance/City Treasurer is authorized to invest in any of the investment
+      vehicles allowed by Sections 53601, 53635 and 16429.1 of the Government Code above,
+      with the following limitations:
+
+      Financial futures; option contracts, floaters, inverse floaters, range notes, interest-only
+      strips that are derived from a pool of mortgages, or any security that could result in zero
+      interest income if held to maturity may not be purchased. Exclusion of these vehicles is
+      consistent with the City's overall objective of achieving reasonable yields on public funds
+      while minimizing risk and capital losses. Although the potential exists for greater interest
+      yields with these vehicles, it is believed that the potential level of risk exceeds their benefits
+      except in very limited circumstances.
+
+              • Reverse repurchase agreements shall be entered into only to effect a “matched”
+                    transaction whereby the proceeds of the reverse are reinvested for the same
+
+
+
+                                                                                                       14
+                                  Page 19 of 39
+                                       Public
+
+
+
+            period as the term of the reverse repurchase agreement.
+
+    • Funds will only be invested in negotiable Certificates of Deposit that are fully
+          insured by the Federal Deposit Insurance Corporation (FDIC) or the Federal
+          Savings and Loan Insurance Corporation (FSLIC) in amounts up to
+          $250,000 (including interest).
+
+    • The authority to invest in certain securities is restricted by the provisions of the
+          section entitled “Responsible Investing”.
+
+    • No more than 45% of the portfolio may be invested in callable agency or
+          government- sponsored enterprise securities.
+
+    • Commercial paper is limited to a maturity of 180 days, and the issuer must have
+         the highest rating from two nationally recognized rating agencies, not one
+         (as required by the State).
+
+    • The greater of $5 million or 2% of the short-term portfolio can be in the
+          commercial paper of any single corporation or group under essentially
+          common ownership or control.
+
+    • Purchases of such corporate notes as mortgage pass through, collateralized
+          mortgage obligation, mortgage-backed bond, equipment lease-backed
+          certificate, consumer receivable pass through certificate and consumer
+          receivable-backed bond must be rated “Aa” or AA or its equivalent or better
+          by a nationally recognized rating service. As authorized in Government
+          Code Section 53601(j), staff may invest in corporate bonds and notes of
+          industrial companies, banks, bank holding companies, insurance
+          companies, thrifts and finance companies that are rated “A” or better by a
+          nationally recognized rating service; and issued by corporations organized
+          and operating in the United States. The amount invested must not exceed
+          30% of the agency's portfolio.
+
+    • No investment shall be made which involve a “hidden” reduction in the
+           investment rate or yield in order to subsidize other investment programs. For
+           example, the City invests $10,000,000 for a year at a rate of 1% less than
+           “market” rates.
+
+    • Up to 100% of the portfolio may be placed in money market accounts.
+
+See Appendix A for the Investment Portfolio/Diversification Requirements, which lists the
+maximum amounts that may be invested in the various investment types and the
+maximum authorized maturities.
+
+
+                                                                                             15
+                                             Page 20 of 39
+                                                  Public
+
+
+
+   2. Term
+
+       Reserve funds from the proceeds of debt issues may be invested by the Director of
+       Finance/City Treasurer in government agency securities with terms exceeding five (5)
+       years, if the maturity of such investments are made to coincide as nearly as practicable
+       with the life of the debt issue. A maximum of 30 percent of the par value of the portfolio
+       may be invested in a stated maturity of up to 10 years.
+
+   3. New Investments
+
+       No new types of investments will be purchased for the first time without at least two weeks
+       notification to the City Council. For example, although Mortgage Pass through securities
+       are authorized investments, none will be purchased for the first time without such prior City
+       Council notification.
+
+
+VI. Investment Maturity
+  In addition to the risks associated with the credit-worthiness of the financial institution and the
+  security of the investment vehicle, the maturity period of investments is also a significant
+  consideration in the management of the City's portfolio. In order to minimize the impact of
+  market risk, it is intended that all investments will be held until maturity. Investments may be
+  sold prior to maturity for cash flow or appreciation purposes; however, no investment shall be
+  made based solely on yields resulting from anticipated capital gains.
+
+  Also, except for debt proceeds, a maximum of 30 percent of the par value of the portfolio may
+  exceed five years.
+
+
+VII. Cash Management
+  To achieve a reasonable return on public funds, the following cash management practices will
+  be followed:
+
+           •     Maintain maximum investment of all City funds not required to meet immediate
+                  cash flow needs while maintaining adequate compensating balances as
+                  required under the City's banking services agreement.
+
+           •     Pool resources available for investment from all City-administered funds, with
+                  interest earnings allocated to each of the funds in accordance with generally
+                  accepted accounting principles.
+
+           •     Maximize the City's cash flow through the immediate deposit of all cash receipts,
+                  use of direct deposits and wire transfers when available, and appropriate timing
+                  of payments to vendors.
+
+
+
+                                                                                                        16
+                                             Page 21 of 39
+                                                  Public
+
+
+
+            •     Maximize the cash flow information available through the use of only one
+                   operating bank account.
+
+
+VIII. Evaluation of Investment Performance
+   As indicated in the Introduction section of this document, it is the City's primary investment
+   objective to achieve a reasonable rate of return on public funds while minimizing risks and
+   preserving capital. In evaluating the performance of the City's portfolio in achieving this
+   objective, it is expected that yields on City investments will regularly meet or exceed the
+   average return on the State Local Agency Investment Fund (LAIF).
+
+
+ IX. Investment Reporting
+   Consistent with Sections 16481.2 and 53646 of the Government Code, the Department of
+   Finance shall submit an annual Statement of Investment Policies to the Council for
+   consideration at a public meeting.
+
+   In addition to the submittal of an annual Statement of Investment Policies, the Department of
+   Finance shall provide the Council with a quarterly and annual investment report providing the
+   following information for each investment or security:
+
+            •     Issuer or broker/dealer (financial institution)
+            •     Type of investment
+            •     Certificate or other reference number if applicable
+            •     Percentage yield on an annualized basis
+            •     Purchase date
+            •     Maturity date for each investment and the weighted average maturity of all the
+                    investments within the portfolio
+            •     Current book value
+            •     Current market value
+            •     Total cost and market value, including source of this valuation, of the City's
+                    portfolio
+            •     A description of the compliance with the Statement of Investment Policies
+            •     An evaluation of investment operations for the preceding year. This shall include
+                    an evaluation of how well the objectives have been achieved: the accuracy of
+                    forecasting expenditures and revenues, as well as a comparison of the average
+                    returns on the investment portfolio with that of the Local Agency Investment
+                    Fund (LAIF).
+            •     Report of investments. The Director of Finance shall prepare a report that
+                    provides a clear status of the current investment portfolio and transactions. The
+                    report will be prepared in a manner which allows the City Manager and Council
+                    to ascertain whether investment activities during the reporting period have
+                    conformed to the investment policies.
+
+                                                                                                    17
+                                         Page 22 of 39
+                                               Public
+
+
+
+         •     Summary of key or unusual events, including but not limited to:
+
+
+                           Any exceptions to policies;
+                           Adherence to or deviations from social investment goals;
+                           Purchases of Treasury securities, other than in repurchase
+                            agreements with maturities of seven days or less;
+                           Purchases of securities that exceed maturity limits;
+                           Sales of securities more than three months before maturity;
+                           Changes in investment procedures, dealers, staff, etc.
+
+         •     Investment performance:
+
+                           A glossary, defining all funds or accounts referred to elsewhere in
+                            the report; and a listing of banks, securities dealers and custodians
+                            that the City has had investment transactions during the period.
+                           A summary of the certifications for deposits of City funds.
+                           Other information regarding the City's portfolio as appropriate
+
+
+The Quarterly Investment Report shall include all investments as of the end of the quarter from
+all funds held in the City's portfolio, and shall be issued within 60 days after the end of the
+quarterly reporting period to the City Manager, and the City Council; the annual report shall be
+issued within 90 days after the end of the fiscal year to the City Manager, and the City Council.
+
+
+
+
+                                                                                                18
+                                        Page 23 of 39
+                                               Public
+
+
+
+
+X. Appendices
+    A. Investment Portfolio – Diversification Requirements
+
+                                Investment Portfolio
+                             Diversification Requirements
+                                                                                      Maximum
+ Investment Instrument                              Maximum Amount of Portfolio       Length to
+                                                                                      Maturity
+
+ Bank / Time Deposit Accounts                                   100%                  5 Years
+
+
+ Money Market Deposit Accounts                                  100%                  N/A
+
+
+ Repurchase Agreements                                           10%                  1 Year
+
+
+ Reverse Repurchase Agreements                                   10%                  7 Days
+
+
+ Bankers Acceptances                                             40%                  7 Days
+
+ U.S. Government Securities (Treasury Bills,                    100%                  10 Years
+ Notes, and Bonds)
+ U.S. Government Agency Securities by                           100%                  10 Years
+ Agency
+
+ Certificates of Deposit (Negotiable)                            30%                  10 Years
+
+
+ Municipal Bonds                                                100%                  5 Years
+
+
+ Commercial Paper                                                25%                  180 Days
+
+
+ Medium Term Notes                                               30%                  10 Years
+
+
+ Public Bank Obligations                            10% of Unrestricted Investments   5 Years
+
+
+
+
+                                                                                                 19
+                         Page 24 of 39
+                             Public
+
+
+
+B. Berkeley’s ESG Investing Initiative
+
+
+
+
+                                         20
+                Page 25 of 39
+
+
+                    Public
+                                    ATTACHMENT 3
+
+
+
+       CITY OF BERKELEY
+
+  INVESTMENT POLICY
+FOR RETIREE MEDICAL PLAN TRUST FUNDS
+
+
+
+
+           Effective July 1, 2025
+                                                                 Page 26 of 39
+
+
+                                                                         Public
+
+                                                         City of Berkeley
+       INVESTMENT POLICIES FOR RETIREE MEDICAL PLAN
+                       TRUST FUNDS
+                         July 1, 2025
+
+                                                         Table of Contents
+I.   Introduction
+         A. Scope of Policies ...........................................................................................................................1
+         B. Investment Objectives....................................................................................................................1
+         C. Use of State Investment Guidelines................................................................................................2
+
+
+II. Investment Authority and Responsibilities
+        A. Authorized Investment Officers .....................................................................................................2
+        B. Internal Controls ............................................................................................................................2
+        C. Evaluation of Investment Officer Actions.......................................................................................3
+
+III. Capital Preservation and Risk
+        A. Overview.......................................................................................................................................4
+        B. Portfolio Diversification Practices ..................................................................................................4
+
+IV. Eligible Financial Institutions
+        A. Authorized Dealers........................................................................................................................5
+        B. Individual Placement of Deposits ...................................................................................................5
+
+V. Investment Vehicles
+       A. State of California Limitations .......................................................................................................6
+
+
+VI. Investment Maturity .............................................................................................................................10
+
+VII. Cash Management...............................................................................................................................10
+
+VIII. Evaluation of Investment Performance.............................................................................................10
+
+IX. Investment Reporting ...........................................................................................................................10
+
+Appendix
+      A. Investment Portfolio—Diversification Requirements ...................................................................12
+                                            Page 27 of 39
+
+
+                                                  Public
+I.    INTRODUCTION
+
+Pursuant to Sections 2.44.040 and 2.44.060 of the Berkeley Municipal Code, Resolution No.
+45,087-N.S., and Sections 53601, 53607, 53636 and 53648 of the State Government Code, the
+Director of Finance, the Treasurer of the City, is authorized to make investments of the City’s idle
+funds. The Code also directs the City to present an annual investment policy to the City Council
+for approval. This Investment Policy, after approval of the amendments by the City Council, will
+serve as the Investment Policy for the City of Berkeley for the subsequent fiscal year.
+
+Notwithstanding Section 53601 or 53635, the governing body of a local agency may invest funds
+designated for the payment of employee retiree health benefits in any form or type of investment
+deemed prudent by the governing pursuant to Section 53622. The authority of the governing body
+to invest or to reinvest funds intended for the payment of employee retiree health benefits, or to
+sell or exchange securities purchased for that purpose, may be delegated by the governing body to
+designated officers. The City Council has designated the Director of Finance, the Treasurer of the
+City, or his/her designee, the authority to make investments of the City’s retiree medical plan trust
+funds.
+
+Funds intended for the payment of employee retirement health benefits shall only be held for the
+purpose of providing benefits to participants in the retiree health benefit plan and defraying
+reasonable expenses of administering that plan.
+
+The governing board or designated officer, when making investments of the funds, shall discharge
+its duties with respect to the investment of the funds.
+     (1) Solely in the interest of, and for the exclusive purposes of providing benefits to, participants
+         in the retiree health benefit plan, minimizing employer contributions thereto, and defraying
+         reasonable expenses of administering the plan.
+     (2) With care, skill, prudence, and diligence under the circumstances then prevailing that a
+         prudent person acting in a like capacity and familiar with these matters would use in the
+         conduct of an enterprise of a like character and with like aims.
+     (3) Shall diversify the investments of the funds so as to minimize the risk of loss and to
+         maximize the rate of return, unless under the circumstances it is clearly prudent not to do
+         so.
+
+A. SCOPE OF POLICIES
+   These investment policies apply to the investments of the Retiree Medical Plan Trust Funds.
+
+B. INVESTMENT OBJECTIVES
+   The Treasurer adheres to the principle which maintains that over the long-term, prudent
+   investment risk-taking may be rewarded with higher incremental returns. Consequently, while
+   capital preservation (i.e., Safety) is regarded to be of paramount importance, the Treasurer
+   regards prudent risk-taking as justifiable.
+
+
+C. USE OF STATE INVESTMENT GUIDELINES
+
+
+
+                                                                                                       1
+                                            Page 28 of 39
+
+
+                                                  Public
+      As required under Government Code Sections 16481.2 and 53646, the Statement of Investment
+      Policies will be reviewed by the Council annually.
+
+II.    INVESTMENT AUTHORITY AND RESPONSIBILITIES
+
+A. AUTHORIZED INVESTMENT OFFICERS
+
+1. Retiree Medical Trust Funds:
+   A Trust is to be established by the City for the purpose of holding and investing assets separate
+   and apart from the other funds of the City to fund the benefits of the Program. The specific
+   terms governing the Trust are to be set forth in a separate trust instrument.
+
+            The trustee of the Trust (the “Trustee”) may be the City Treasurer (i.e., Director of
+             Finance) or an independent third party qualified to act as a trustee under California law
+             and designated by the City.
+
+            The Trustee shall be a fiduciary of the Program and shall act solely in the interest of the
+             Participants, minimizing employer contributions to the Trust, and defraying reasonable
+             expenses of administering the Program.
+
+            The City Manager may, with the written concurrence of the City Council, appoint an
+             “investment manager” (as that term is defined in section 3(38) of the Employee
+             Retirement Income Security Act) to have responsibility for investment of the Trust
+             assets. In this case, the Trustee shall act as directed by the investment manager. The
+             investment manager shall act as a fiduciary of the Program and shall act with the same
+             duties and responsibilities set out in “Investment Objectives” section above.
+
+B. INTERNAL CONTROLS
+
+The Director of Finance shall establish a system of internal controls designed to prevent losses of
+trust funds arising from fraud, employee error, misrepresentation of third parties, unanticipated
+changes in financial markets, or imprudent actions by employees and officers of the City of
+Berkeley. The concept of reasonable assurance recognizes that (1) the cost of a control should not
+exceed the benefits likely to be derived; and (2) the valuation of costs and benefits requires
+estimates and judgments by management. These controls shall include:
+
+            Separation of transaction authority from accounting and physical custody.
+            By separating the person who authorizes or performs the transaction from the people
+             who record or otherwise account for the transaction, a separation of duties is achieved.
+            Also, securities purchased from any bank or dealer including appropriate collateral (as
+             defined by State Law), shall be placed with an independent third party for custodial
+             safekeeping.
+            Avoidance of physical delivery of securities by using a delivery versus payment “Basis
+             of Settlement Only”.
+            All trades will be executed on a delivery versus payment (DVP) basis. This ensures
+             that securities are delivered to the City’s safekeeping bank at the same time the funds
+
+
+                                                                                                      2
+                                          Page 29 of 39
+
+
+                                               Public
+           are released by the City’s safekeeping bank.
+          Third-Party custodial safekeeping of securities held in the name of the City.
+           Delivered securities must be properly safeguarded against loss or destruction. Book
+           entry securities are recorded in electronic records and the potential for fraud and loss
+           increases with physically delivered securities.      All investment securities, except
+           collateralized certificates of deposit and money market funds, purchased by the City
+           will be delivered by either book entry or physical delivery and will be held in third-
+           party safekeeping by a City-approved custodian bank, its correspondent New York
+           Bank or the Depository Trust Corporation (DTC). Whenever possible, securities
+           purchased are to be recorded in “book entry” form.
+          All securities and applicable collateral will be held by the City’s third party custodian
+           and evidenced by safekeeping receipts. All book entry securities owned by the City
+           shall be evidenced by a safekeeping receipt issued to the City by the custodian bank to
+           acknowledge that the securities are held in the Federal Reserve system in a “customer
+           account” for the custodian bank which names the City as “customer”;
+
+The Director of Finance will require each approved safekeeping financial institution to submit a
+copy of its Consolidated Report of Condition and Income (Call Report) to the City within 60 days
+after the end of each calendar quarter.
+
+          Competitive bidding on investment transactions. Before the City invests in any
+           secondary market funds, competitive bids shall be requested. If a specific maturity date
+           is required, either for cash flow purposes or for conformance to maturity guidelines,
+           bids will be requested from at least three financial institutions for instruments which
+           meet the maturity requirement. If no specific maturity is required, a yield curve analysis
+           will be conducted to determine which maturities would be most advantageous.
+          Written confirmation and documentation of all financial transactions.
+          Due to the potential for error and improprieties arising from telephone transactions, all
+           telephone transactions should be supported by written communications and approved
+           by the appropriate person. Written communications may be via fax if on letterhead and
+           the safekeeping institution has a list of authorized signatures.
+          Rapid deposit of funds received by the City (i.e., large checks.)
+          Bonding of all investments officials.
+
+C. EVALUATION OF INVESTMENT OFFICER ACTIONS
+
+   Section 53600.3 of the Government Code identifies trustees as those persons authorized to make
+   investment decisions on behalf of a local agency. As a trustee, the standard of prudence to be
+   used by investment officials shall be the "prudent investor" standard and shall be applied in the
+   context of managing an overall portfolio. Investment officers acting in accordance with written
+   procedures, and exercising due diligence shall be relieved of personal responsibility for an
+   individual security's credit risk or market price changes, provided deviations from expectations
+   are reported in a timely fashion and the liquidity and the sale of securities are carried out in
+   accordance with the terms of this plan.
+
+
+
+
+                                                                                                   3
+                                          Page 30 of 39
+
+
+                                                Public
+   Investments shall be made with judgment and care, under circumstances then prevailing, which
+   persons of prudence, discretion and intelligence exercise in the management of their own affairs,
+   not for speculation, but for investment, considering the probable safety of their capital as well as
+   the probable income to be derived.
+
+   Officers and employees involved in the investment process shall refrain from personal business
+   activity that could conflict with the proper execution and management of the investment
+   program, or that could impair their ability to make impartial decisions. Employees and
+   investment officials shall disclose any material interests in financial institutions with which they
+   conduct business. They shall further disclose any personal financial/investment positions that
+   could be related to the performance of the investment portfolio. Employees and officers shall
+   refrain from undertaking personal investment transactions with the same individual with whom
+   business is conducted on behalf of their entity.
+
+III. CAPITAL PRESERVATION AND RISK
+
+A. OVERVIEW
+   The Treasurer adheres to the principle which maintains that over the long-term, prudent
+   investment risk-taking may be rewarded with higher incremental returns. Consequently, while
+   capital preservation (i.e., Safety) is regarded to be of paramount importance, the Treasurer
+   regards prudent risk-taking as justifiable.
+
+   Some level of risk is inherent in any investment transaction. Losses may be incurred due to
+   issuer default, market price changes, or technical cash flow complications such as investments
+   in non-marketable certificates of deposit. Diversification of the City's portfolio by institution,
+   investment vehicle, and maturity term is the primary tool available to the City in minimizing
+   investment risk and capital losses by safeguarding the overall portfolio from any individual loss.
+
+B. PORTFOLIO DIVERSIFICATION PRACTICES
+
+   The following sections summarize the City's major portfolio diversification practices and
+   guidelines in determining:
+             Authorized Dealers
+             Investment Vehicles
+             Investment Maturity
+
+   Portfolio limitations included in these guidelines are to be based on the portfolio composition
+   and investment management plan policies in effect at the time of placement; the actual
+   composition of the City's investments may vary over time from plan limitations due to overall
+   portfolio changes from when the individual placement was made as well as changes in the City's
+   investment management plan.
+
+
+IV. ELIGIBLE FINANCIAL INSTITUTIONS
+
+A. AUTHORIZED DEALERS
+
+
+                                                                                                     4
+                                           Page 31 of 39
+
+
+                                                 Public
+       Investments shall be purchased only through well-established, financially sound
+        institutions. The Finance Director shall maintain a list of financial institutions and
+        broker/dealers approved for investment. All financial institutions and broker/dealers who
+        desire to become qualified bidders for investment transactions will be given a copy of the
+        City’s Statement of Investment Policies, and a return cover letter which must be signed
+        indicating that the Statement of Investment Policies has been read and understood.
+
+        Qualified financial institutions and broker/dealers must supply the Director of Finance
+        with the following:
+
+        Financial Institutions
+        Current audited financial statements
+        Depository contracts, as appropriate
+        A copy of the latest FDIC call report or the latest FHLBB report, as appropriate.
+
+        Broker/Dealers
+        Current audited financial statements
+        Proof that brokerage firm is a member in good standing with a national securities
+        exchange.
+
+       Except for repurchase agreements, investments shall be awarded based on competitive
+        bids. Documentation relating to investment quotes shall be maintained by the Finance
+        Department for a period of one year.
+
+
+B. INDIVIDUAL PLACEMENT OF DEPOSITS
+
+Individual placement of negotiable, collateralized, and other time certificates of deposit with eligible
+financial institutions shall be based on the following practices and procedures:
+
+       Deposits shall only be placed with financial institutions maintaining offices within the City
+        of Berkeley.
+       Unless collateralized by eligible securities as provided in Sections 53651 and 53652 of the
+        Government Code, the maximum amount of Certificates of Deposit to be placed with any
+        single institution is $250,000.
+
+
+
+
+V. INVESTMENT VEHICLES
+
+The governing body of a local agency may invest funds designated for the payment of employee
+retiree health benefits in any form or type of investment deemed prudent by the governing pursuant
+to Section 53622. Some of the investment vehicles the City Council has authorized are the
+following:
+
+
+                                                                                                       5
+                                           Page 32 of 39
+
+
+                                                 Public
+1. U.S. Treasury Instruments
+   As authorized in Government Code Section 53601(b), this category includes bills, notes, bonds
+   or certificates of indebtedness, or those for which the faith and credit of the United States are
+   pledged for the payment of principal and interest. There are no portfolio limitations on the
+   amount.
+
+2. Government Sponsored Enterprises
+   As authorized in Government Code Section 53601(f), this category includes a wide variety of
+   government securities. These securities include U. S. government-sponsored enterprise
+   obligations, such as issues by the Federal National Mortgage Association (FNMA's), Federal
+   Home Loan Bank (FHLB), Federal Farm Credit (FFCB), Student Loan Marketing Association
+   (SLMA), etc. There are no portfolio limitations on the amount.
+
+3. Municipal Securities
+   As authorized in Government Code Section 53601(a)(c)(d)(e), this category includes obligations
+   of the City, the State of California, any of the other 49 states, and any local agency within the
+   State of California, provided that:
+   • The securities are rated “A” or higher by at least one nationally recognized statistical rating
+   organization.
+   •
+   •    There are no limitations on the amount or period.
+
+4. Banker's Acceptances
+   As provided in Government Code Section 53601(f)g, 40% of the City's portfolio may be
+   invested in Banker's Acceptances, otherwise known as bills of exchange or time drafts that are
+   drawn on and accepted by a commercial bank, although no more than 30% of the portfolio may
+   be invested in Bankers' Acceptances with any one commercial bank. Additionally, the maturity
+   period cannot exceed 180 days.
+
+5. Commercial Paper
+   Commercial paper is a short-term, unsecured promissory note issued by financial and non-
+   financial companies to raise short-term cash. As provided in Government Code Section
+   53601(h) up to 25% of the City's portfolio may be invested in "prime" commercial paper of the
+   highest ranking or of the highest letter and number rating as provided by a nationally recognized
+   statistical-rating organization (i.e., Moody's or Standard and Poor's or Fitch), with maturities not
+   to exceed 270 days. The issuer must have total assets in excess of $500 million, and have debt
+   other than Commercial Paper rated “A” or higher by a nationally recognized statistical-rating
+   organization.
+
+
+6. Negotiable Certificates of Deposit
+   Negotiable certificates of deposit are a fixed deposit certificate that may be negotiated (traded)
+   to a third party. The institution issuing the certificate promises to pay the holder the initial
+   investment plus the interest rate stated on the certificate at maturity. As authorized in
+   Government Code Section 53601(i), the City may invest 30% of its portfolio in negotiable
+   certificates of deposit issued by commercial banks, thrifts and foreign banks.
+
+
+
+                                                                                                     6
+                                          Page 33 of 39
+
+
+                                                Public
+7. Repurchase Agreements
+   Repurchase agreements are agreements between the local agency and seller for the local agency
+   to purchase government securities to be resold back to the seller at a specific date and for a
+   specific amount and are authorized by Government Code Section 53601(j). Although the legal
+   maximum maturity on these investments is 360 days, repurchase agreements are generally
+   short-term investments varying from one day to two weeks. Investments in repurchase
+   agreements must be collateralized, and collateral required for repurchase agreements is limited
+   to Treasury and Agency securities. In order to anticipate market changes and provide a level of
+   security for all funds, the required collateralization level is 102% of market value of principal
+   and accrued interest.
+
+8. Reverse Repurchase Agreements
+   Reverse repurchase agreements are a sale of securities by the local agency with a simultaneous
+   agreement for the local agency to repurchase the securities on or before a specified date. As
+   provided in Government Code section 53635(j), reverse repurchase agreements require the prior
+   approval of the City Council. Reverse repurchase agreements can only be made with primary
+   dealers of the Federal Reserve Bank of New York or with a nationally or state-chartered bank
+   that has or has had a significant banking relationship with the local agency. There are no
+   portfolio limitations on the amount for these investments.
+
+9. Medium-Term Corporate Notes
+   As authorized in Government Code Section 53601(k), local agencies may invest in corporate
+   bonds and notes of industrial companies, banks, bank holding companies, insurance companies,
+   thrifts and finance companies that are rated “A” or better by a nationally recognized rating
+   service; and issued by corporations organized and operating in the United States. There are no
+   portfolio limitations for these investments.
+
+10. Shares of Beneficial Interest Issued By Diversified Management Companies
+    As authorized in Government Code Section 53601(l), local agencies are also authorized to
+    invest in shares of beneficial interest issued by diversified management companies (i.e., mutual
+    funds) as defined in Section 23701(m) of the Revenue and Taxation Code in an amount not to
+    exceed 20% of the agency's portfolio.
+
+11. Financial Futures and Financial Option Contracts
+    As authorized in Government Code Section 53601.1, local agencies may invest in financial
+    futures or option contracts in any of the above investment categories subject to the same overall
+    portfolio limitations.
+
+
+12. Time Certificates of Deposit
+    As authorized in Government Code Section 53635, time certificates of deposit are fixed term,
+    non-negotiable investments which are required to be collateralized 110% by eligible pooled
+    securities. The pool is administered by the State, and is composed of a wide variety of
+    government securities, secured by first mortgages on improved residential property located in
+    the State. There are no portfolio limits on the amount; however the maturity period for this
+    investment vehicle may not exceed five years unless approved by the Council.
+
+
+                                                                                                   7
+                                            Page 34 of 39
+
+
+                                                  Public
+13. Local Agency Investment Fund
+    As authorized in Government Code Section 16429.1, local agencies may invest in the Local
+    Agency Investment Fund (LAIF), a pooled investment fund managed by the State Treasurer’s
+    Office. It operates like a money market fund, but is for the exclusive benefit of governmental
+    entities within the State. The current maximum amount of money that may be invested is $40
+    million.
+
+14. Moneys Held By A Trustee Or Fiscal Agent
+    As authorized in Government Code Section 53601(m), debt proceeds held by a trustee or fiscal
+    agent, which are pledged to the payment or security of bonds or other indebtedness may be
+    invested in accordance with the statutory provisions governing the issuance of those bonds or
+    other agreement; or to the extent not inconsistent with statutory provisions, or if there are no
+    specific statutory provisions, investments may be made in accordance with the ordinance,
+    resolution, indenture, or agreement of the local agency for the issuance.
+
+    This category includes investment agreements approved in writing by insurance companies,
+    supported by appropriate opinions of counsel with notice to Standard and Poor’s.
+
+15. Other Secured Notes, Bonds Or Other Obligations
+    As authorized in Government Code Section 53601(n), notes, bonds, or other obligations that are
+    at all times secured by a valid first priority security interest in securities of the types listed by
+    Section 53651 as eligible securities.
+
+16. Mortgage Pass Through, Collateralized Mortgage Obligation, Mortgage-backed Bond,
+    Equipment Lease-backed Certificate, Consumer Receivable Pass through Certificate,
+    and Consumer Receivable-backed Bond
+    As authorized in Government Code Section 53601(o), securities in this category must be rated
+    “AA” or its equivalent or better by a nationally recognized rating service. Purchases may not
+    exceed 20% of the agency’s portfolio.
+
+    In addition to the authorized investments above, the following investments may be made by
+    Retiree Medical plan funds:
+
+       Up to 100% of the retiree medical plans funds may be invested in equity mutual funds1 or
+        equity index funds2, preferred stock3 and bond funds 4.
+
+
+    1Equity Mutual Fund – A financial intermediary that allows a group of investors to pool their
+
+    money together with a predetermined investment objective. The mutual fund will have a fund
+    manager who is responsible for investing the pooled money into specific securities. When you
+    invest in a mutual fund, you are buying shares of the mutual fund and become a shareholder of
+    the fund. They are very cost effective, as the fund can purchase securities with much lower
+    trading costs then an individual investor. But the biggest advantage to mutual funds is
+    diversification.
+
+    2Equity Index Fund – A mutual fund that attempts to copy the performance of a stock market
+
+    index. The most common index fund tries to track the S&P 500 by purchasing all 500 stocks
+
+                                                                                                       8
+                                            Page 35 of 39
+
+
+                                                  Public
+    using the same percentages as the index. Index funds have lower fees because computers do
+    most of the work. There is no need to hire an expensive fund manager or research analysts.
+    Index funds can have an expensive ratio as low as .18%, while actively managed funds can
+    have an expense ratio over 3%. Over the long-term, the S&P 500 beats the returns of 80% of
+    actively managed funds.
+
+    3Preferred Stock – A hybrid between common stock and a bond. Each share of preferred stock
+
+    is normally paid a guaranteed dividend that receives first priority (i.e., the common
+    stockholders cannot receive a dividend until the preferred dividend has been paid in full) and
+    has priority over the common stockholders relative to the company’s assets in the event of
+    bankruptcy.
+
+    4Bond Fund- A bond fund is a more efficient way of investing in bonds than buying individual
+    securities. Bond mutual funds are just like stock mutual funds in that you put your money into a pool
+    with other investors, and a professional invests that pool of money according to what he or she thinks
+    the best opportunities are. They are very cost effective, as the fund can purchase securities with
+    much lower trading costs then an individual investor. But the biggest advantage to mutual
+    funds is diversification.
+
+    Some of the investment vehicles that are Unallowable Investment Vehicles and Restrictions:
+
+    The Director of Finance/City Treasurer is not authorized to invest in any of the following
+    investment vehicles:
+
+    Financial futures; option contracts, floaters, inverse floaters, range notes, interest-only strips
+    that are derived from a pool of mortgages, or any security that could result in zero interest
+    income if held to maturity may not be purchased. Exclusion of these vehicles is consistent with
+    the City's overall objective of achieving reasonable yields on public funds while minimizing
+    risk and capital losses. Although the potential exists for greater interest yields with these
+    vehicles, it is believed that the potential level of risk exceeds their benefits except in very
+    limited circumstances.
+
+See Appendix A for the Investment Portfolio/Diversification Requirements, which lists the
+maximum amounts that may be invested in the various investment types and the maximum
+authorized maturities.
+
+In accordance with Government Code Sections 53620-53622, the assets of the City of Berkeley
+Retiree Medical Plan Trust may be invested in any form or type of investment deemed prudent
+by the City Council.The maximum maturity for Retiree Medical Plan Trust funds is 30 years.
+
+VI. CASH MANAGEMENT
+
+To achieve a reasonable return on public funds, the following cash management practices will be
+followed:
+
+   Maintain maximum investment of all City funds not required to meet immediate cash flow
+    needs.
+
+                                                                                                        9
+                                          Page 36 of 39
+
+
+                                               Public
+   Maximize the City's cash flow through the immediate deposit of all cash receipts, use of direct
+    deposits and wire transfers when available, and appropriate timing of payments to vendors.
+   Maximize the cash flow information available through the use of only one operating bank
+    account.
+
+VII. EVALUATION OF INVESTMENT PERFORMANCE
+
+An actuarial study commissioned by the City many years ago determined that, in addition to City
+Contributions, an average rate of return of 7% on miscellaneous employees’ retiree medical trust
+fund assets invested must be achieved to fund the retiree health benefit at the desired 70% level.
+Primarily as a result of the Federal Reserve Board’s decision to keep short-term rates near zero for
+the last 10 years, the average rate currently earned is significantly below that 7% level.
+
+VIII. INVESTMENT REPORTING
+
+Consistent with Sections 16481.2 and 53646 of the Government Code, the Department of Finance
+shall submit an annual Statement of Investment Policies to the Council for consideration at a public
+meeting.
+
+In addition to the submittal of an annual Statement of Investment Policies, the Department of
+Finance shall provide the Council with a quarterly and annual investment report providing the
+following information for each investment or security:
+
+         Issuer or broker/dealer (financial institution)
+         Type of investment
+         Certificate or other reference number if applicable
+         Percentage yield on an annualized basis
+         Purchase date
+         Maturity date for each investment and the weighted average maturity of all the
+          investments within the portfolio
+         Current book value
+         Current market value
+         Total cost and market value, including source of this valuation, of the City's portfolio
+         A description of the compliance with the Statement of Investment Policies
+         An evaluation of investment operations for the preceding year. This shall include an
+          evaluation of how well the objectives have been achieved: the accuracy of forecasting
+          expenditures and revenues, as well as a comparison of the average returns on the
+          investment portfolio with that of the Local Agency Investment Fund (LAIF).
+         Report of investments. The Director of Finance shall prepare a report that provides a
+          clear status of the current investment portfolio and transactions. The report will be
+          prepared in a manner which allows the City Manager and Council to ascertain whether
+          investment activities during the reporting period have conformed to the investment
+          policies.
+        Summary of key or unusual events, including but not limited to:
+        o Any exceptions to policies;
+        o Adherence to or deviations from social investment goals;
+
+                                                                                                 10
+                                          Page 37 of 39
+
+
+                                                Public
+       o Purchases of Treasury securities, other than in repurchase agreements with maturities of
+         seven days or less;
+       o Purchases of securities that exceed maturity limits;
+       o Sales of securities more than three months before maturity;
+       o Changes in investment procedures, dealers, staff, etc.
+       o Investment performance;
+       o A glossary, defining all funds or accounts referred to elsewhere in the report; and
+       o A listing of banks, securities dealers and custodians that the City has had investment
+         transactions during the period.
+       o A summary of the certifications for deposits of City funds.
+       o Other information regarding the City's portfolio as appropriate
+
+The Quarterly Investment Report shall include all investments as of the end of the quarter from all
+funds held in the City's portfolio, including funds held and invested by trustees; and shall be issued
+within 30 days after the end of the quarterly reporting period to the City Manager, and the City
+Council; the annual report shall be issued within 90 days after the end of the fiscal year to the City
+Manager, and the City Council.
+
+
+
+
+                                                                                                   11
+                                          Page 38 of 39
+
+
+                                               Public
+
+
+                                          APPENDIX A
+
+                                   INVESTMENT PORTFOLIO
+                                    Diversification Requirements
+
+
+                                              Maximum         Maximum
+                                               Amount          Length
+         Investment Instrument                Of Portfolio   To Maturity
+
+         Bank / Time Deposit
+         Accounts                               100%           5 Years
+
+         Money Market Deposit
+         Accounts                               100%               N/A
+
+         Repurchase Agreements                   10%           1 Year
+
+         Reverse Repurchase
+         Agreements                              10%           7 Days
+
+         Bankers Acceptances                     40%           7 Days
+
+         U.S. Government Securities
+         (Treasury Bills,
+         Notes, and Bonds)                      100%          30 Years
+
+         U.S. Government Agency
+         Securities by Agency                   100%          30 Years
+
+         Certificates of Deposit
+         (Negotiable)                            30%          30 Years
+
+
+         Municipal Bonds                        100%          30 Years
+
+         Commercial Paper                        25%          180 Days
+
+
+         Medium Term Notes                       30%          30 years
+
+
+In addition to the investments above, the following investments may be made by Retiree Medical
+plan funds:
+
+      Up to 25% of the retiree medical plans funds may be invested in equity mutual funds1 or
+       equity index funds2, and preferred stock3.
+
+                                                                                             12
+                                         Page 39 of 39
+
+
+
+
+                                               Public
+
+1Equity Mutual Fund – A financial intermediary that allows a group of investors to pool their
+
+money together with a predetermined investment objective. The mutual fund will have a fund
+manager who is responsible for investing the pooled money into specific securities. When you
+invest in a mutual fund, you are buying shares of the mutual fund and become a shareholder of the
+fund. They are very cost effective, as the fund can purchase securities with much lower trading
+costs then an individual investor. But the biggest advantage to mutual funds is diversification.
+
+2Equity Index Fund – A mutual fund that attempts to copy the performance of a stock market index.
+
+The most common index fund tries to track the S&P 500 by purchasing all 500 stocks using the
+same percentages as the index. Index funds have lower fees because computers do most of the
+work. There is no need to hire an expensive fund manager or research analysts. Index funds can
+have an expensive ratio as low as .18%, while actively managed funds can have an expense ratio
+over 3%. Over the long-term, the S&P 500 beats the returns of 80% of actively managed funds.
+
+3Preferred Stock – A hybrid between common stock and a bond. Each share of preferred stock is
+
+normally paid a guaranteed dividend that receives first priority (i.e., the common stockholders
+cannot receive a dividend until the preferred dividend has been paid in full) and has priority over
+the common stockholders relative to the company’s assets in the event of bankruptcy.
+

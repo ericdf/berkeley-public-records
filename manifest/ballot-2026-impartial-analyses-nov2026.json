@@ -1,0 +1,18 @@
+{
+  "id": "ballot-2026-impartial-analyses-nov2026",
+  "layer": "L0",
+  "doc_type": "ballot_measure_record",
+  "collection": "ballot_2026",
+  "publisher": "City of Berkeley — City Attorney",
+  "title": "City Attorney's Impartial Analyses — November 3, 2026 Berkeley ballot measures",
+  "file": "L0/sources/ballot_2026/ballot-2026-impartial-analyses-nov2026.pdf",
+  "sha256": "a5652d31db432d2db419f46be7d2a73f474b9113f08314dbc79bb67da1f31615",
+  "bytes": 204647,
+  "source_url": "https://berkeleyca.gov/sites/default/files/Nov%202026%20Impartial%20Analyses.pdf",
+  "retrieved": "2026-08-30",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "acfr-indirect-cost-allocation-plan-fy2023",
+  "layer": "L0",
+  "doc_type": "financial_report_or_policy",
+  "collection": "acfr",
+  "publisher": "City of Berkeley — Finance Department",
+  "title": "Indirect Cost Allocation Plan, Fiscal Year 2023",
+  "file": "L0/sources/acfr/acfr-indirect-cost-allocation-plan-fy2023.pdf",
+  "sha256": "0d6d403fffbff7cbc7fb3328bf2becd1f0891ca68ef66b118d3081aae1cf8de0",
+  "bytes": 3923563,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/indirect-cost-allocation-plan-fy2023.pdf",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high"
+}

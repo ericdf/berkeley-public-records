@@ -1,0 +1,21 @@
+{
+  "id": "acfr-fy-2024-revisions-to-the-debt-mangement-and-disclosure-policy-rev-text",
+  "layer": "L1",
+  "doc_type": "financial_report_or_policy_text",
+  "collection": "acfr",
+  "title": "Revisions to the Debt Management and Disclosure Policy (Consent Calendar report)",
+  "file": "L1/sources/acfr/acfr-fy-2024-revisions-to-the-debt-mangement-and-disclosure-policy-rev-text.txt",
+  "sha256": "96d79d5e2397b2f9cbc82b8e72f4bc7c40aba4fa867e8a377a9289e99936c6a6",
+  "bytes": 37039,
+  "derived_from": {
+    "id": "acfr-fy-2024-revisions-to-the-debt-mangement-and-disclosure-policy-rev",
+    "sha256": "deec8ec712617e61ef5138479e7043bb3bfa3f09d1b766dfa1481f2b913ee698"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

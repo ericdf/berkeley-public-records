@@ -1,0 +1,21 @@
+{
+  "id": "investments-investment-policy-text",
+  "layer": "L1",
+  "doc_type": "investment_report_text",
+  "collection": "investments",
+  "title": "City of Berkeley Investment Policy (effective July 1, 2025)",
+  "file": "L1/sources/investments/investments-investment-policy-text.txt",
+  "sha256": "dc4cfc8b01c93c2201e1a13ba3eef99b690d1374a5c6d686dd7887d1664504b9",
+  "bytes": 94343,
+  "derived_from": {
+    "id": "investments-investment-policy",
+    "sha256": "0240a5a666350505bde4d6ffe0f2d87be4ef82347bf0d730d8d7b55af819973c"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

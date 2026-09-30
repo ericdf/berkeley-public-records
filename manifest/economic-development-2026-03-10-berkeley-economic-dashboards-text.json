@@ -1,0 +1,21 @@
+{
+  "id": "economic-development-2026-03-10-berkeley-economic-dashboards-text",
+  "layer": "L1",
+  "doc_type": "economic_report_text",
+  "collection": "economic_development",
+  "title": "Berkeley Economic Dashboards (2025), Council worksession",
+  "file": "L1/sources/economic_development/economic-development-2026-03-10-berkeley-economic-dashboards-text.txt",
+  "sha256": "eb28c2cdeaf44b6460c3c6b6b02c0694dbc1415a151b6301f963d3b705278034",
+  "bytes": 133676,
+  "derived_from": {
+    "id": "economic-development-2026-03-10-berkeley-economic-dashboards",
+    "sha256": "f2a7daafd8771d77e8b7464d5d4b22e9fa285ae9247322fea09cec6463a812f1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

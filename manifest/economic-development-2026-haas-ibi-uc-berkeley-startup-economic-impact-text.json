@@ -1,0 +1,21 @@
+{
+  "id": "economic-development-2026-haas-ibi-uc-berkeley-startup-economic-impact-text",
+  "layer": "L1",
+  "doc_type": "economic_report_text",
+  "collection": "economic_development",
+  "title": "Economic Impacts of UC Berkeley's Innovation & Entrepreneurship Ecosystem on the City of Berkeley and Alameda County",
+  "file": "L1/sources/economic_development/economic-development-2026-haas-ibi-uc-berkeley-startup-economic-impact-text.txt",
+  "sha256": "f8994cf232256f7a3f14ee96d5a57f8f242feebfc47dab48f49da89420c26736",
+  "bytes": 104547,
+  "derived_from": {
+    "id": "economic-development-2026-haas-ibi-uc-berkeley-startup-economic-impact",
+    "sha256": "1bbd194767fd223d511d16d0f2ef15403af2eeb83bd9c9abc7b2b56618e75471"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

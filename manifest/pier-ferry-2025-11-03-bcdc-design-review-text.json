@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2025-11-03-bcdc-design-review-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Draft Summary of November 3, 2025, BCDC Design Review Board Meeting (Berkeley Waterfront and Ferry Pier)",
+  "file": "L1/sources/pier_ferry/pier-ferry-2025-11-03-bcdc-design-review-text.txt",
+  "sha256": "99a2cac9302ff37e64a4630dce68a5d3e4771f74143d036fc804797ba3faffb0",
+  "bytes": 151712,
+  "derived_from": {
+    "id": "pier-ferry-2025-11-03-bcdc-design-review",
+    "sha256": "25058a3902da7576097c5f71886640e5e2918e27d1cafaa4a2a372c8708f0357"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

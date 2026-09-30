@@ -1,0 +1,18 @@
+{
+  "id": "ballot-2026-measure-u-full-text",
+  "layer": "L0",
+  "doc_type": "ballot_measure_record",
+  "collection": "ballot_2026",
+  "publisher": "City of Berkeley (City Clerk, November 2026 election materials)",
+  "title": "Full Text of Measure U — City of Berkeley General Obligation Bonds for Public Infrastructure and Facilities ($300M)",
+  "file": "L0/sources/ballot_2026/ballot-2026-measure-u-full-text.pdf",
+  "sha256": "79c8e3cfae287cd078236d4c01d2e1d62f095c5247ce9f51a3226b241b195284",
+  "bytes": 147796,
+  "source_url": "https://berkeleyca.gov/sites/default/files/Berkeley_Bond%20Measure%20-%20Full%20Text.pdf",
+  "retrieved": "2026-09-21",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "medium"
+}

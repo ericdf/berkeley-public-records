@@ -1,0 +1,21 @@
+{
+  "id": "investments-fy2023-3rd-qtr-investment-report-text",
+  "layer": "L1",
+  "doc_type": "investment_report_text",
+  "collection": "investments",
+  "title": "FY 2023 Third Quarter Investment Report: Ended March 31, 2023",
+  "file": "L1/sources/investments/investments-fy2023-3rd-qtr-investment-report-text.txt",
+  "sha256": "3b4caf06872acb56457e5488de62b37892ca5e7fad18da9341735def4ca6c881",
+  "bytes": 116722,
+  "derived_from": {
+    "id": "investments-fy2023-3rd-qtr-investment-report",
+    "sha256": "35c8b57e87ab5e1b9fa6d9f9679e026cdf95220525224576f59a561f00a4a82f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

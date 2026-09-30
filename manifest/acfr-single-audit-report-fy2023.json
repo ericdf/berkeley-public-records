@@ -1,0 +1,17 @@
+{
+  "id": "acfr-single-audit-report-fy2023",
+  "layer": "L0",
+  "doc_type": "financial_report_or_policy",
+  "collection": "acfr",
+  "publisher": "City of Berkeley (independent auditor's single audit, published by the City)",
+  "title": "Single Audit Report, year ended June 30, 2023",
+  "file": "L0/sources/acfr/acfr-single-audit-report-fy2023.pdf",
+  "sha256": "9666c29b47209747f6390aa20964af9a1d48f52f828e1f94614766a7c67f5c83",
+  "bytes": 689771,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/single-audit-report-fy2023.pdf",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high"
+}

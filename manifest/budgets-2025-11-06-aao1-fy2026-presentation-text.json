@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2025-11-06-aao1-fy2026-presentation-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "First Amendment to the FY 2026 Annual Appropriations Ordinance (AAO#1) and Preliminary FY 2025 Year-end Status (presentation)",
+  "file": "L1/sources/budgets/budgets-2025-11-06-aao1-fy2026-presentation-text.txt",
+  "sha256": "ae16307b2623de0582c5dc2e67f281bd20abda202227a024371448e2bb449071",
+  "bytes": 18332,
+  "derived_from": {
+    "id": "budgets-2025-11-06-aao1-fy2026-presentation",
+    "sha256": "07247f720d8e5f7f3b429859c14455300d009018c0bc9b3197a2a62a45dec8d7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

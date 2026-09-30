@@ -1,0 +1,21 @@
+{
+  "id": "t1-2017-06-27-item49-t1-phase1-commission-recommendations-text",
+  "layer": "L1",
+  "doc_type": "council_agenda_report_text",
+  "collection": "t1",
+  "title": "Recommendations for implementing Phase 1 of the Measure T1 City Infrastructure and Facilities Program (with joint Public Works / Parks & Waterfront commission report)",
+  "file": "L1/sources/t1/t1-2017-06-27-item49-t1-phase1-commission-recommendations-text.txt",
+  "sha256": "62ae2084f9ab9a831e58e728d5d8e0df00f38337a6a0b3f066ede45eeae75549",
+  "bytes": 324046,
+  "derived_from": {
+    "id": "t1-2017-06-27-item49-t1-phase1-commission-recommendations",
+    "sha256": "563f65ffb56fcdcd57032ac8eb270a989da3a5cd11368a22d8d94535093c6608"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

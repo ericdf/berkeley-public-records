@@ -1,0 +1,777 @@
+Audit Report
+Special Report
+May 27, 2021
+February 5, 2026
+
+
+
+
+A Guide to
+Measuring
+Performance in
+the City of
+Berkeley
+
+
+
+           Jenny Wong, City Auditor
+           Erin Mullin, Audit Manager
+           Kendle Kuechle, Auditor II
+
+
+
+
+    Promoting transparency and accountability in Berkeley government
+A Guide to Measuring Performance in the City of Berkeley
+
+
+
+Table of Contents
+Introduction ............................................................................................................................ 3
+   Purpose ............................................................................................................................... 3
+   Scope and Methodology ...................................................................................................... 3
+Performance Measures: A Framework .................................................................................... 5
+   Background and Definitions ................................................................................................ 5
+   How to Develop Quality Performance Measures ................................................................. 6
+      Step 1: Identify stakeholder and population needs. ......................................................... 6
+      Step 2: Identify desired outcomes based on population needs. ....................................... 7
+      Step 3: Determine how to measure these outcomes. ........................................................ 7
+      Step 4: Develop a data collection process. ...................................................................... 8
+      Step 5: Establish baselines and targets. ........................................................................... 8
+      Step 6: Establish reporting methods. ............................................................................... 8
+City of Berkeley Performance Measures. .............................................................................. 10
+   How does the City of Berkeley measure performance?..................................................... 10
+      Information Technology ................................................................................................. 11
+      Parks, Recreation and Waterfront .................................................................................. 13
+      Police ............................................................................................................................. 14
+   How do comparable cities report performance data? ....................................................... 15
+      Reporting methods: ....................................................................................................... 15
+      Outcomes-based budgeting: ......................................................................................... 16
+Opportunities for Management Consideration ..................................................................... 18
+      1.      Organize and streamline reporting efforts. ........................................................... 18
+      2.      Revisit Strategic Plan goals and alignment of performance measures. .................. 18
+      3.      Explore outcomes-based budgeting. .................................................................... 18
+
+
+
+
+                                                                     2
+A Guide to Measuring Performance in the City of Berkeley
+
+
+
+Introduction
+Purpose
+Governments can use performance measures to understand operations, make informed
+decisions, and measure progress towards goals. Performance measures provide governments
+with the data they need to make service improvements and maintain accountability. The
+purpose of this special report is to provide a practical, user-friendly framework for developing
+clear, meaningful performance measures in the City of Berkeley based on local government best
+practices.
+
+This work is based on a request from Councilmember Blackaby asking our office to conduct
+benchmarking and best-practice research on outcome-based budget metrics and compare
+selected city departments’ budget materials with those of peer jurisdictions. This was following a
+related item he authored requesting the City Manager develop 10-20 measurable goals and
+metrics that reflect key priorities for the City. That item was referred to the Health, Life
+Enrichment, Equity and Community Policy Committee.
+
+This report is not an audit and does not evaluate departmental performance. This report focuses
+on performance measures that departments report in city budgets and uses three departments
+as examples. The report also highlights common performance measurement practices from
+comparable jurisdictions and identifies considerations that may support future performance
+management efforts in Berkeley.
+
+
+Scope and Methodology
+To develop this report, we reviewed and summarized performance management best practices
+from leading organizations such as the Government Finance Officers Association (GFOA) and
+the International City/County Management Association (ICMA).
+
+We also reviewed Berkeley’s most recent budget books to identify the performance measures
+currently reported by departments. The analysis is limited to performance measures published
+in the budget books and does not include other performance data or reporting practices
+departments use in annual reports, dashboards, grant reporting, or internal management tools.
+We selected three departments as examples to understand how the City currently presents and
+uses performance measures, not to assess overall departmental performance. We interviewed
+leadership from these departments to understand their process for measuring performance,
+along with any challenges and opportunities in this area.
+                                                     3
+A Guide to Measuring Performance in the City of Berkeley
+
+In addition, we reviewed performance measures from comparable jurisdictions to identify
+common practices and examples of how other cities structure and report performance measures.
+Finally, we synthesized best practices from comparable jurisdictions and leading organizations
+to develop opportunities for management consideration on performance management.
+
+
+
+
+                                                     4
+A Guide to Measuring Performance in the City of Berkeley
+
+
+
+Performance Measures: A Framework
+Background and Definitions
+The Berkeley City Auditor’s Office undertook this work as a research-focused, non-audit project
+in response to City Council interest in strengthening the City’s use of performance measures to
+achieve goals and understanding best practices in this area. We prepared this report quickly to
+provide Council and city management with information to assist with the fiscal year 2027-2028
+budget process. Performance measures are reported in Berkeley’s budgets and can provide
+valuable information on how the City is achieving its goals.
+
+
+What is a performance measure?
+A performance measure is a quantitative measure or qualitative assessment of an agency’s
+work. In other words, performance measures tell an agency how much or how well they are
+doing in specific areas – for example, the number of permits processed in a year or the customer
+satisfaction rating of a program. Performance measures are also referred to as performance
+metrics or Key Performance Indicators (KPIs). Governments use performance measures to
+collect information about operations, track progress towards goals, and make informed
+decisions.
+
+Performance management is the use of performance measurement data to assess how well
+an organization is performing and to improve progress toward its goals.
+
+
+Why are performance measures important?
+Performance measures serve important purposes for different stakeholders:
+
+    •   Members of the public can use performance measures to understand how city
+        services are performing and how their taxpayer money is being used.
+    •   City Council can use performance measures to inform budget and policy decisions. City
+        Council can also use performance data to demonstrate that they are accountable to
+        taxpayers and that the City is using public funds efficiently and effectively.
+    •   City management can use performance data to prioritize resources and guide
+        operational decisions. Performance data can help identify where additional investment
+        may be needed and where programs are performing well.
+    •   Department leadership can review performance data to improve operations.
+        Performance measures allow departments to measure results, correct mistakes and
+        demonstrate progress towards department-wide goals.
+                                                     5
+A Guide to Measuring Performance in the City of Berkeley
+
+Quality performance measures help prioritize limited resources on specific department or
+citywide goals. During a budget deficit period, specific performance measures can help city
+leadership focus resources on programs that are successful and matter most to the Berkeley
+community.
+
+Performance measures are also used by external entities. Grantors may require grantees to
+report performance measures to demonstrate compliance with grant terms, such as the number
+of trees planted under a tree-planting grant. In other cases, the City is required to report data to
+external entities to ensure compliance with state or federal requirements. For instance, the state
+of California requires dispatch centers to answer 95% of 911 calls within 15 seconds, which
+requires Berkeley to collect and report on 911 call answer times.
+
+The City of Berkeley uses public funds to provide services, and therefore is accountable to
+taxpayers, grant providers, state and federal agencies, and people who rely on City services,
+whether as a resident or visitor. The development and consistent use of clear, appropriate
+performance measures supports transparency, accountability, and informed decision-making
+across the organization.
+
+
+How to Develop Quality Performance Measures
+The process of developing performance measures may require staff time and resources.
+However, quality performance measures can help leaders make better decisions about budget
+and priorities, resulting in future cost savings and efficiencies.
+
+Developing high-quality measures typically starts with clearly defining department or division
+goals. The following framework outlines a practical approach for developing meaningful
+performance measures:
+
+Step 1: Identify stakeholder and population needs.
+The first step involves identifying the population you serve as well as their needs and
+expectations. For example, the Berkeley Fire department serves residents and visitors who use
+emergency services, whereas the Berkeley Human Resources department mainly serves city staff
+and Berkeley job applicants. Understanding who the primary audience is helps clarify what
+success should look like.
+
+Next, identify the population’s key expectations or needs. For the Fire department, this could be
+Berkeley residents expect a quick response to 911 calls. For Human Resources, city job
+applicants expect timely processing of job applications. It may be beneficial to ask the
+community about their needs and priorities. The Santa Monica Human Services division
+                                                     6
+A Guide to Measuring Performance in the City of Berkeley
+
+redeveloped their performance measures in 2020 by asking the community through surveys and
+meetings, “What does an effective human service system in Santa Monica look like to you?” The
+division then developed key outcomes and measures based on those priorities.
+
+Step 2: Identify desired outcomes based on population needs.
+The next step is to frame the population’s needs and expectations as an outcome of your work.
+For instance, Berkeley residents receive a fast response to 911 calls, or job applicants receive a
+prompt review of their application. This framing is important because it connects performance
+measures to results, ensuring that performance measures reflect what matters most to people
+using a service.
+
+Step 3: Determine how to measure these outcomes.
+This step involves determining how to measure whether you are achieving desired outcomes.
+Some relevant questions to ask during this process are: how will people know whether we are
+successful? What data will demonstrate success in achieving these outcomes?
+There are multiple types of performance measures that can be useful in measuring an agency’s
+work:
+
+    •   Inputs – the resources used by an activity or process.
+
+        Example: money or staff allocated to a program.
+
+    •   Outputs – the goods or services delivered through a program.
+
+        Example: number of interviews conducted, number of permits approved.
+
+    •   Efficiency – the unit cost to deliver a product or service. This could also be a ratio of
+        inputs to outputs.
+
+        Example: building code enforcement complaints investigated per full-time employee,
+        cost per successful foster home placement.
+
+    •   Outcomes – how well an agency is providing services, or the overall benefit from a
+        program or service.
+
+        Example: reduction in traffic-related deaths, percentage of park users reporting
+        satisfaction with park services.
+
+Outcomes are considered the optimal performance measures, as they provide a clear measure of
+whether an agency is achieving its goals. However, other types of measures can provide
+
+                                                     7
+A Guide to Measuring Performance in the City of Berkeley
+
+important information or context associated with the desired outcome. Additional types of
+measures include benchmarks, which compare the performance of a service against peers or
+leaders in the field – for example, comparing Berkeley’s 911 response times to those of similar
+cities. Other measures include process measures, which describe aspects of a business process
+such as the error rate – for example, the percentage of paychecks with identified errors.
+
+Performance measures should also be understandable to a broad audience. Good performance
+measures align with the SMART model: they are specific, measurable, achievable, results-
+oriented, and time-based or reported consistently over time.
+
+Step 4: Develop a data collection process.
+The next step is to determine how you will collect and maintain data to report on the selected
+performance measures. This could include identifying data sources, assigning staff, establishing
+frequency of data collection, and estimating any costs associated with collecting data.
+
+Step 5: Establish baselines and targets.
+It is also important to set meaningful targets for each performance measure. Initially, this
+involves gathering data on current performance to establish baselines. This will help determine
+the level of performance that is possible given current performance. The next step is to identify
+reasonable performance targets for each measure. Targets could be selected based on past
+performance data, data from comparable jurisdictions, standards from professional
+associations, or state and federal requirements. For example, review all job applications within
+three weeks or respond to all fires within eight minutes. If your department consistently falls
+short of targets, that indicates the targets are not feasible and should be updated.
+
+Targets help readers to understand the context behind performance measures and if the City is
+successfully meeting its goals. Without targets, it can be difficult to establish accountability for
+performance measures. Targets should also signal when performance requires management
+attention or corrective action. However, performance data may not always be perfect. In some
+cases, it may be helpful to establish realistic short-term goals to track progress toward more
+ambitious long-term goals. This could demonstrate the department’s commitment to continuous
+improvement.
+
+Step 6: Establish reporting methods.
+The last step is to determine how and how often you will report performance measurement data.
+In the City of Berkeley, departments report on performance measures in the biennial budget
+book. However, there may be opportunities for additional reporting, such as a citywide annual
+report or a performance dashboard for users to access up-to-date information. It is important to
+                                                     8
+A Guide to Measuring Performance in the City of Berkeley
+
+standardize reporting periods and report data regularly so that stakeholders can track progress
+and view trends. Performance measure reporting should also provide context and a brief
+explanation of the measures for readers unfamiliar with the data, as well as communicate how
+each measure connects to desired outcomes.
+
+
+
+
+                                                     9
+A Guide to Measuring Performance in the City of Berkeley
+
+
+
+City of Berkeley Performance Measures.
+How does the City of Berkeley measure performance?
+Background on Berkeley’s Performance Measures
+The City first reported on performance measures by department in the fiscal year (FY) 2022
+budget book. In 2019, the Police and Planning departments participated in a pilot program to
+develop performance measures reflective of the City’s Strategic Plan goals, with other city
+departments joining this effort in subsequent years. The FY 2022 budget book stated that
+departments would refine and improve their performance measures to make them better tools
+for decision-making and continuous improvement.
+
+Berkeley departments continued to report performance measures in the FY 2023-2024 and FY
+2025-2026 budget books. Some departments collect and report additional performance data
+outside of the budget process through annual reports, dashboards, or program-specific
+reporting. However, the budget book is the most centralized location to access performance
+measurement data by department.
+
+
+Department Analysis
+To illustrate how the City of Berkeley currently measures performance, we selected three city
+departments to highlight: Information Technology (IT); Parks, Recreation and Waterfront; and
+Police. The following analysis only reflects what is reported in the budget books, it is not a full
+assessment of departmental performance or reporting of performance.
+
+
+
+
+                                                     10
+A Guide to Measuring Performance in the City of Berkeley
+
+
+Information Technology
+
+Table 1. Information Technology Performance Measures
+
+ Measure                        Type of    Target          FY 22 Budget       FY 23-24          FY 25-26
+                                Measure                    Actual             Budget            Budget
+                                                                              Actual            Actual
+ Metrics collected using        Outcome    99.999%*        98.888% Data       Not reported      Not reported
+ network management tools                                  Server Uptime,
+ that indicate the total                                   99.850%
+ “uptime” of the City servers                              Phone Server
+                                                           Uptime
+
+
+ Number of queries              Process    Increase        84% first call     84% first call    99.92% first
+ answered on the first                                     resolution, 311    resolution, 311   call
+ call by 311 (external)                                                                         resolution, 311
+ Number of queries              Process    Increase        45% first call     45% first call    36% first call
+ answered on the first                                     resolution, Help   resolution,       resolution,
+ call by Help Desk                                         Desk               Help Desk         Help Desk
+ (internal)
+ Abandoned calls                Process    Decrease        15% abandon        20% abandon       31% abandon
+ divided by the total                                      rate, 311          rate, 311         rate, 311
+ number of inbound
+ calls received by 311
+ (external)
+ Abandoned calls                Process    Decrease        21% abandon        Not reported      13% abandon
+ divided by the total                                      rate, Help Desk                      rate, Help
+ number of inbound                                                                              Desk
+ calls received by Help
+ Desk (internal)
+ Count of projects and          Output     n/a             326 total          Not reported      25 of 48
+ percent complete                                          projects, 51%                        projects or
+                                                           complete                             52% complete
+ Volume of requests             Input      n/a             Not reported       Not reported      117,593 total
+                                                                                                interactions,
+                                                                                                311; 5004 total
+                                                                                                requests,
+                                                                                                Service
+                                                                                                Desk
+
+*Target was 99.92% in FY 25-26
+
+Note: This table reflects performance measures as reported in the budget books. We did not review the
+source data for accuracy.
+
+Source: Auditor Analysis of FY 22, FY 23-24 and FY 25-26 City Budget Books
+
+The IT department reports on metrics that touch on various aspects of their work, such as 311
+Customer Service calls and network management. However, IT’s published performance
+measures only capture a small portion of their overall work. According to the IT Director, some
+
+                                                      11
+A Guide to Measuring Performance in the City of Berkeley
+
+areas of their work should not be publicly reported or do not translate well into simple metrics,
+such as cybersecurity, infrastructure reliance, and system modernization.
+
+Berkeley’s IT department is also considering starting an IT Governance Committee to manage
+and prioritize technology and infrastructure projects. According to the IT Director, there could
+be future opportunities to add project management performance metrics related to projects
+managed by the Governance Committee to communicate progress and value without disclosing
+sensitive information.
+
+Our analysis included a review of comparable cities to Berkeley and commonly reported
+performance measures among departments in other jurisdictions. To understand how other
+cities report performance, we reviewed publicly available information from several jurisdictions
+similar to Berkeley in terms of population size or location. The jurisdictions we selected were
+Hayward (CA), Fremont (CA), Oakland (CA), Pasadena (CA), Kirkland (WA), Redmond (WA),
+and Fort Collins (CO).
+
+Direct comparisons across cities can be limited by differences in services, reporting structures,
+and overall goals and priorities. However, there were some common measures reported by IT
+departments in other cities that may be relevant to Berkeley:
+
+    •   Number or percentage of service requests completed in a given timeframe.
+    •   Number or percentage of projects completed.
+    •   Percent of employees up to date on cybersecurity training.
+
+Some of these measures are outcome-oriented, such as the percentage of employees up-to-date
+on cybersecurity training. These measures illustrate how other IT departments measure their
+work and track progress toward goals.
+
+
+
+
+                                                     12
+A Guide to Measuring Performance in the City of Berkeley
+
+
+Parks, Recreation and Waterfront
+
+Table 2. Parks, Recreation and Waterfront Performance Measures
+
+ Measure                  Type of     Target         FY 22 Budget FY 23-24             FY 25-26
+                          Measure                    Actual         Budget             Budget
+                                                                    Actual             Actual
+ Number of community      Output      Increase       26             54                 54
+ communications,                                     communications communications     communications
+ including brochures,
+ press releases and
+ flyers
+ Number of, and time      Input       Increase       24 community      35 community    35 community
+ spent at, community                                 meetings/pop-     meetings/pop-   meetings/pop-
+ meetings/pop-ups                                    ups, 48.5 hours   ups, 95 hours   ups, 95 hours
+ Number of, and time      Input       Increase       49 Commission     32 Commission   32 Commission
+ spent at, Commission                                and Sub-          and Sub-        and Sub-
+ and Sub-Committee                                   Committee         Committee       Committee
+ meetings                                            meetings, 115     meetings, 75    meetings, 75
+                                                     hours             hours           hours
+ Amount of fire fuel      Output      Increase       154.5 tons        327 tons        327 tons
+ debris tonnage
+ removed from the hills
+
+Note: This table reflects performance measures as reported in the budget books. We did not review the
+source data for accuracy.
+
+Source: Auditor Analysis of FY 22, FY 23-24 and FY 25-26 City Budget Books
+
+The Parks, Recreation and Waterfront department reports on metrics related to forestry
+activities and community engagement. According to department leadership, their profession
+requires a significant amount of data collection and reporting beyond what appears in the
+budget book, such as data on water quality at city-run camps.
+
+The department also collects qualitative feedback through focus groups for camps and other
+youth programs. In addition, the department reports on capital projects in the City’s Capital
+Improvement Program book. Department leadership noted that there may be opportunities to
+communicate more of the work they do through performance measures in the budget book, such
+as the number of capital projects completed.
+
+Some benchmark cities reported the following performance measures that may be applicable to
+Berkeley’s Parks, Recreation and Waterfront department:
+
+    •   Customer satisfaction rating for parks or recreation programming.
+    •   Number of people accessing park areas or community programming.
+    •   Parks maintenance requests responded to in a given timeframe.
+
+
+                                                     13
+A Guide to Measuring Performance in the City of Berkeley
+
+These measures include outcome measures, such as the customer satisfaction rating for parks or
+recreation programming, while other measures describe the workload or process of that
+department.
+
+Police
+
+Table 3. Police Performance Measures
+
+ Measure                Type of         Target       FY 22 Budget FY 23-24                 FY 25-26
+                        Measure                      Actual           Budget               Budget
+                                                                      Actual               Actual
+ Number of deaths       Outcome         Decrease     2 deaths (2      8 deaths (8          0 deaths
+ relating to                                         vehicle, 0       vehicle, 0
+ vehicles/bicycles                                   bicycle)         bicycle)
+ Number of accidents    Outcome         Decrease     383 accidents    722 accidents        873 accidents
+ relating to                                         (316 vehicle, 67 (625 vehicle, 97     (665 vehicle, 110
+ vehicles/bicycles                                   bicycle)         bicycle)             bicycle, 99
+                                                                                           pedestrian)
+ Police Department      Benchmark       Parity       The department     The department     The department
+ demographic                                         is within 10% of   is within 10% of   is within 15.9%
+ information compared                                parity for race,   parity for race,   of parity for race,
+ to community                                        but not            but not for        but not for
+ information                                         for gender.        gender. 84.0%      gender. 85%
+                                                     86.5% male,        male,              male, 15%
+                                                     15.5% female;      16.0% female;      female;14.1%
+                                                     14.9% Black,       14.1% Black,       Black, 10.7%
+                                                     10.6% Hispanic,    10.7% Hispanic,    Hispanic, 60.4%
+                                                     60.2% White        60.4% White        White
+ Number of uses of      Outcome         Decrease     90 incidents       Not Reported       0.05% of the
+ force                                                                  (Reporting         63,791 total calls
+                                                                        standard           for service.
+                                                                        changed)
+ Number of external     Outcome         Decrease     24 complaints,     23 complaints;     36 complaints;
+ personnel complaints                                58,095 calls for   60,393 calls for   63,791 calls for
+ made against the                                    service            service            service
+ Police Department,
+ compared to number
+ of Calls for Service
+ Number of              Outcome         Increase     111                137                13
+ commendations the                                   commendations      commendations      commendations
+ Police Department
+ receives
+
+Note: This table reflects performance measures as reported in the budget books. We did not review the
+source data for accuracy.
+
+Source: Auditor Analysis of FY 22, FY 23-24 and FY 25-26 City Budget Books
+
+The Berkeley Police department (BPD) reports on metrics in the budget book that include
+number of accidents, demographic parity, uses of force, commendations, and complaints.
+According to BPD, the department collects and reports on a significant amount of additional
+                                              14
+A Guide to Measuring Performance in the City of Berkeley
+
+data through their online Transparency Hub and annual report. The department uses data
+frequently to make decisions, such as deployment and patrol capacity, based on crime trends
+and calls for service.
+
+Department staff also noted that metrics such as 911 call response times and case clearance rates
+are straightforward indicators of police activity and service levels. BPD reports on these metrics
+in their annual report, though there may be opportunities to also include that information in the
+budget book.
+
+Police departments in benchmark cities commonly reported the following performance
+measures:
+
+    •   Average emergency services response times.
+    •   Number of crimes per 1000 people.
+
+These measures are the most frequently reported among the wide range of performance
+measures used by Police departments in other cities. Some cities also report metrics on case
+clearance rates or police staffing levels; information which may be useful to report in Berkeley.
+
+The examples in this report show that Berkeley departments differ in the types of performance
+measures they report, reflecting the differences in their work along with data availability and
+reporting practices. The performance measures in benchmark cities illustrate how other
+jurisdictions report performance and may offer ideas for measures that can be developed in
+Berkeley. Developing outcome-oriented measures often requires additional time and resources
+to define outcomes and establish new data collection processes. However, these measures can
+ultimately support a strong performance management system in Berkeley.
+
+
+How do comparable cities report performance data?
+We additionally reviewed reporting practices from comparable jurisdictions to understand how
+other cities structure and report performance data.
+
+Reporting methods: Most benchmark cities report their performance measures in the
+budget book and use standardized reporting periods. Many report performance at least annually
+and include performance data from previous years in their budget books which allows readers to
+compare performance over time.
+
+Some cities also use a dashboard to report on performance measures outside of the budget
+process. For example, Fort Collins, CO reports quarterly on their performance measures through
+an online dashboard. Pasadena, CA also reports performance data on a dashboard.
+                                              15
+A Guide to Measuring Performance in the City of Berkeley
+
+Figure 1. Example – City of Pasadena IT Performance Measures
+
+
+
+
+Source: City of Pasadena FY 2026 Budget Book
+
+Four of the seven benchmark cities associate departmental performance measures with citywide
+goals or priorities. For example, Pasadena links department performance measures to specific
+City Council goals, which helps readers understand how departmental activities support broader
+city goals.
+
+Outcomes-based budgeting: Some benchmark cities follow an innovative process
+known as outcomes-based budgeting, which means they make budget decisions and allocate
+resources based on key goals or outcomes. This allows governments to prioritize specific
+programs or initiatives that help them achieve desired results.
+
+In Fort Collins, every program or service funded in the budget is connected to at least one
+strategic objective and has at least one performance metric so that the community can evaluate
+its success.
+
+Redmond, WA uses a similar process called Budgeting by Priorities. The city allocates funding to
+their programs through Budget Offers which are associated with one of the city’s four priorities:
+Healthy and Sustainable, Safe and Resilient, Strategic and Response, and Vibrant and
+Connected. Each Budget Offer includes a description of the program and two to three
+performance measures that evaluate the program’s success. The Redmond FY 2025-2026
+budget book states that this budgeting method allows the city to identify and fund programs that
+are most important to the Redmond community.
+
+
+
+
+                                                     16
+A Guide to Measuring Performance in the City of Berkeley
+
+Figure 2. Example – City of Redmond Budget Offer
+
+
+
+
+Source: City of Redmond FY 25-26 Budget Book
+
+
+
+
+                                                     17
+A Guide to Measuring Performance in the City of Berkeley
+
+
+
+Opportunities for Management Consideration
+To strengthen Berkeley’s performance management process, we identified opportunities for
+management consideration based on best practices literature and insight from comparable
+jurisdictions. These options may require additional staff time and coordination and would need
+to be balanced with other priorities.
+
+1. Organize and streamline reporting efforts.
+    There has been variation in some departments’ reported performance measures since fiscal
+    year 2022. Maintaining the same measures over time and using standardized reporting
+    periods for performance data could support comparability across years. This could also help
+    Council and the public evaluate the City’s progress toward its goals.
+
+    The City could also consider including prior years’ performance measurement data in the
+    budget book for easier comparison and clearer historical context. Berkeley may also consider
+    supplementing budget book performance measure reporting with tools such as dashboards
+    or annual performance measure reports to provide more timely updates between budget
+    cycles.
+
+
+2. Revisit Strategic Plan goals and alignment of performance
+   measures.
+    There may be an opportunity for Berkeley to revisit Strategic Plan goals and consider how
+    performance measures align with those goals. City Council approved Berkeley’s nine
+    Strategic Plan goals in January 2018. Since that time, there have been leadership changes in
+    both Council and City management. Current leadership may decide to reevaluate whether
+    the goals continue to reflect City priorities and determine if updates are necessary.
+
+
+    The FY 2022 and 2023-2024 budget books organized performance measures by Strategic
+    Plan goal, though this structure was not included in the FY 2025-2026 budget book. As
+    departments update their performance measures over time, it may be beneficial to reassess
+    how department performance measures connect to broader citywide priorities.
+
+3. Explore outcomes-based budgeting.
+    Some jurisdictions allocate funding by desired outcome rather than by department through a
+    process known as outcomes-based budgeting. This type of approach typically requires
+    significant coordination, clear outcomes, and mature performance data, and may not be
+    feasible to implement at a citywide level in the near term.
+                                                     18
+A Guide to Measuring Performance in the City of Berkeley
+
+  However, there may be opportunities to implement outcomes-based budgeting practices on a
+  smaller scale. For example, city departments could develop more outcome-oriented
+  performance measures and relate those measures to their department-wide goals.
+  Departments could then assess how much of their budget is allocated toward achieving their
+  goals, for example, dollars spent per service. Over time, this work can strengthen the
+  connection between resources, activities, and results, provide useful context for future budget
+  discussions, and can help the City prepare for potential outcomes-based budgeting efforts.
+
+
+
+
+                                                     19
+Mission Statement
+Promoting transparency and accountability in Berkeley government.
+
+
+Audit Team
+Erin Mullin, Audit Manager
+Kendle Kuechle, Auditor II
+
+
+City Auditor
+Jenny Wong
+
+Office of the City Auditor
+Phone: (510) 981-6750
+Email: CityAuditor@berkeleyca.gov
+Website: https://berkeleyca.gov/your-government/city-audits
+
+
+Copies of our audit reports are available at
+https://berkeleyca.gov/your-government/city-audits/city-auditor-reports
+
+
+
+Cover photograph provided by the City of Berkeley.
+                                                                               INFORMATION CALENDAR
+                                                                                      February 24, 2026
+
+
+To:        Honorable Mayor and Members of the City Council
+
+From:      Jenny Wong, City Auditor
+
+Subject: A Guide to Measuring Performance in the City of Berkeley
+
+INTRODUCTION
+The Auditor’s Office developed a special report that provides a practical guide for departments
+and city leadership to develop meaningful performance measures in the City of Berkeley. We
+developed this report to provide city management and City Council with information to assist
+with the fiscal year 2027-2028 budget process.
+
+CURRENT SITUATION AND ITS EFFECTS
+Governments can use performance measures to understand operations, make informed
+decisions, and measure progress towards goals. Performance measures provide governments
+with the data they need to make service improvements and maintain accountability. Quality
+performance measures help prioritize limited resources on specific department or citywide
+goals. During a budget deficit period, performance measures can help city leadership focus
+resources on programs that are successful and matter most to the Berkeley community.
+
+This report summarizes performance management best practices from leading organizations
+such as the Government Finance Officers Association (GFOA) and the International City/County
+Management Association (ICMA). We also reviewed Berkeley’s most recent budget books to
+identify the performance measures currently reported by a few departments. While this is not a
+comprehensive review of performance measures in every department, we provided three
+departments as examples to understand how the City currently presents and uses performance
+measures.
+
+In addition, we reviewed performance measures from comparable jurisdictions to identify
+common practices and examples of how other cities structure and report performance measures.
+Finally, this report synthesizes best practices from comparable jurisdictions and leading
+organizations to develop opportunities for management consideration on performance
+management. To enhance the City’s performance measurement process, we suggest
+management consider organizing and streamlining reporting efforts, revisiting Strategic Plan
+goals and alignment of performance measures, and exploring outcomes-based budgeting.
+
+BACKGROUND
+We developed this report based on a request from Councilmember Blackaby asking our office to
+conduct benchmarking and best-practice research on outcome-based budget metrics and
+compare selected city departments’ budget materials with those of peer jurisdictions. This was
+following a related item he authored requesting the City Manager develop 10-20 measurable
+
+
+
+
+                  2180 Milvia Street, Berkeley, CA 94704 ● Tel: (510) 981-6750 ● TDD: (510) 981-6903
+          E-mail: auditor@berkeleyca.gov Website: http://www.berkeleyca.gov/your-government/city-audits
+A Guide to Measuring Performance in the City of Berkeley                       INFORMATION CALENDAR
+
+
+
+goals and metrics that reflect key priorities for the City. That item was recently approved by the
+Health, Life Enrichment, Equity and Community Policy Committee.
+
+ENVIRONMENTAL SUSTAINABILITY
+There are no identifiable environmental effects or opportunities associated with this report.
+
+POSSIBLE FUTURE ACTION
+City Council may recommend city management consider this framework when developing
+performance measures and citywide goals. This report provides a practical guide for
+departments and city leadership to develop meaningful performance measures in the City of
+Berkeley. The report also provides opportunities for management consideration regarding
+performance measure reporting and outcomes-based budgeting.
+
+FISCAL IMPACTS OF POSSIBLE FUTURE ACTION
+Quality performance measures help prioritize limited resources on specific department or
+citywide goals. During a budget deficit period, specific performance measures can help city
+leadership focus resources on programs that are successful and matter most to the Berkeley
+community. Further exploration of outcomes-based budgeting practices may have implications
+for how Berkeley structures and allocates its budget. Additional resources may be needed for
+departments to fully implement comprehensive outcomes-based budgeting.
+
+CONTACT PERSON
+Jenny Wong, City Auditor, City Auditor’s Office, 510-981-6750
+
+
+Attachments:
+1: Report: A Guide to Measuring Performance in the City of Berkeley
+
+
+
+
+                                                                                            Pg. 2 of 2
+

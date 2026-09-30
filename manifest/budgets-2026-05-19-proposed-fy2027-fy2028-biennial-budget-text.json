@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-05-19-proposed-fy2027-fy2028-biennial-budget-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Proposed FY 2027 and FY 2028 Biennial Budget and Proposed Biennial Budget Public Hearing #1",
+  "file": "L1/sources/budgets/budgets-2026-05-19-proposed-fy2027-fy2028-biennial-budget-text.txt",
+  "sha256": "2184680af7ed25e8a6ccf65b048c34c98d7fa22ad514f0041ee6529cee0670f0",
+  "bytes": 224009,
+  "derived_from": {
+    "id": "budgets-2026-05-19-proposed-fy2027-fy2028-biennial-budget",
+    "sha256": "5761a6ddb3a81fe83614f945e4b337b867cdf494aa0e558411c5aff6ec7b8c62"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

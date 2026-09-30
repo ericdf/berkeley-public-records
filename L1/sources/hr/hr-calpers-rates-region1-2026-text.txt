@@ -1,0 +1,167 @@
+   CalPERS 2026 State Health Premiums (Actives and Annuitants)
+   Effective Date: January 1, 2026
+   Basic Monthly Premiums (B)
+                                                                Plan   Party   Party   Subscriber &   Plan   Party   Party     Subscriber &   Plan   Party   Party
+                                                   Subscriber   Code   Code    Rate    1 Dependent    Code   Code    Rate    2+ Dependents    Code   Code    Rate
+   Plan
+   Anthem Blue Cross Select HMO                   $1,090.98     181       1       1    $2,181.96      181       2       2      $2,836.55      181       3       3
+   Anthem Blue Cross Traditional HMO              $1,372.93     180       1       1    $2,745.86      180       2       2      $3,569.62      180       3       3
+   Blue Shield Access+ HMO                        $1,088.52     141       1       1    $2,177.04      141       2       2      $2,830.15      141       3       3
+   Blue Shield EPO                                $1,088.52     191       1       1    $2,177.04      191       2       2      $2,830.15      191       3       3
+   Blue Shield Trio HMO                            $936.58      471       1       1    $1,873.16      471       2       2      $2,435.11      471       3       3
+   CA Association of Highway Patrolmen            $1,041.70     230       1       1    $2,021.31      230       2       2      $2,642.58      230       3       3
+   California Correctional Peace Officers
+   Association - North
+                                                  $1,200.25     256       1       1    $2,405.37      256       2       2      $3,247.36      256       3       3
+   California Correctional Peace Officers
+   Association - South
+                                                   $989.76      266       1       1    $1,984.32      266       2       2      $2,681.22      266       3       3
+   Health Net Salud y Más                          $789.13      184       1       1    $1,578.26      184       2       2      $2,051.74      184       3       3
+   Kaiser Permanente                              $1,097.94     056       1       1    $2,195.88      056       2       2      $2,854.64      056       3       3
+   Peace Officers Research Association of CA       $974.00      207       1       1    $1,950.00      207       2       2      $2,534.00      207       3       3
+   PERS Gold                                      $1,043.37     642       1       1    $2,086.74      642       2       2      $2,712.76      642       3       3
+   PERS Platinum                                  $1,512.13     645       1       1    $3,024.26      645       2       2      $3,931.54      645       3       3
+   Sharp Performance Plus                          $916.20      189       1       1    $1,832.40      189       2       2      $2,382.12      189       3       3
+   UnitedHealthcare SignatureValue Alliance       $1,048.16     187       1       1    $2,096.32      187       2       2      $2,725.22      187       3       3
+   UnitedHealthcare SignatureValue Harmony         $920.82      319       1       1    $1,841.64      319       2       2      $2,394.13      319       3       3
+   Western Health Advantage HMO                    $969.58      176       1       1    $1,939.16      176       2       2      $2,520.91      176       3       3
+   Medicare (M) Advantage Monthly Premiums
+                                                                Plan   Party   Party   Subscriber &   Plan   Party   Party     Subscriber &   Plan   Party   Party
+   Plan                                            Subscriber   Code   Code    Rate    1 Dependent    Code   Code    Rate    2+ Dependents    Code   Code    Rate
+
+   Anthem Medicare Preferred PPO                   $571.70      258       1       4    $1,143.40      258       2       5      $1,715.10      258       3       6
+   Anthem Medicare Preferred PPO                   $571.70      473       1       4    $1,143.40      473       2       5      $1,715.10      473       3       6
+   Blue Shield Medicare PPO                        $539.43      013       1       4    $1,078.86      013       2       5      $1,618.29      013       3       6
+   California Correctional Peace Officers
+   Association Medicare
+                                                   $504.35      267       1       4    $1,003.70      267       2       5      $1,503.05      267       3       6
+   Kaiser Permanente Senior Advantage              $356.83      066       1       4      $713.66      066       2       5      $1,070.49      066       3       6
+   Kaiser Permanente Senior Advantage Summit       $426.31      468       1       4      $852.62      468       2       5      $1,278.93      468       3       6
+   Sharp Direct Advantage HMO                      $291.38      243       1       4      $582.76      243       2       5        $874.14      243       3       6
+   UnitedHealthcare Group Medicare Advantage
+   PPO
+                                                   $481.29      163       1       4      $962.58      163       2       5      $1,443.87      163       3       6
+   Medicare (M) Supplement Monthly Premiums
+                                                                Plan   Party   Party   Subscriber &   Plan   Party   Party     Subscriber &   Plan   Party   Party
+   Plan                                            Subscriber   Code   Code    Rate    1 Dependent    Code   Code    Rate    2+ Dependents    Code   Code    Rate
+
+   CA Association of Highway Patrolmen Medicare
+   Supplement
+                                                   $787.79      231       1       4    $1,454.66      231       2       5      $1,850.55      231       3       6
+   Peace Officers Research Association of CA
+   Medicare Supplement
+                                                   $597.00      208       1       4    $1,322.00      208       2       5      $1,791.00      208       3       6
+   PERS Gold Medicare Supplement                   $597.57      643       1       4    $1,195.14      643       2       5      $1,792.71      643       3       6
+   PERS Platinum Medicare Supplement               $665.50      646       1       4    $1,331.00      646       2       5      $1,996.50      646       3       6
+
+
+
+
+Updated: 8/1/2026                                                                                                                                                    1
+   CalPERS 2026 State Health Premiums (Actives and Annuitants)
+   Effective Date: January 1, 2026
+   Combination (Basic & Medicare Advantage) Monthly Premiums
+                                                                                                                                               Subscriber in M,
+                                                   Subscriber in M, &   Plan   Party   Party    Subscriber in M, &   Plan   Party   Party   1 Dependent in M, &   Plan   Party   Party
+
+   Plan                                             1 Dependent in B    Code   Code    Rate    2+ Dependents in B    Code   Code    Rate      1+ Dependent in B   Code   Code    Rate
+
+   Anthem Blue Cross Select HMO and Medicare
+   Preferred
+                                                        $1,662.68       456       4       7          $2,317.27       456       5       8          $1,797.99       456       6       9
+   Anthem Blue Cross Traditional HMO and
+   Medicare Preferred
+                                                        $1,944.63       309       4       7          $2,768.39       309       5       8          $1,967.16       309       6       9
+   Blue Shield Access+ HMO and Medicare                 $1,627.95       018       4       7          $2,281.06       018       5       8          $1,731.97       018       6       9
+   Blue Shield EPO and Medicare                         $1,627.95       028       4       7          $2,281.06       028       5       8          $1,731.97       028       6       9
+   Blue Shield Trio HMO and Medicare                    $1,476.01       030       4       7          $2,037.96       030       5       8          $1,640.81       030       6       9
+   California Correctional Peace Officers
+   Association North and Medicare
+                                                        $1,709.49       676       4       7          $2,551.48       676       5       8          $1,845.69       676       6       9
+   California Correctional Peace Officers
+   Association South and Medicare
+                                                        $1,498.92       119       4       7          $2,195.82       119       5       8          $1,700.60       119       6       9
+   Kaiser Permanente and Senior Advantage               $1,454.77       120       4       7          $2,113.53       120       5       8          $1,372.42       120       6       9
+   Kaiser Permanente and Senior Advantage
+   Summit
+                                                        $1,524.25       472       4       7          $2,183.01       472       5       8          $1,511.38       472       6       9
+   Sharp Performance Plus and Direct Advantage
+   HMO
+                                                        $1,207.58       244       4       7          $1,757.30       244       5       8          $1,132.48       244       6       9
+   UnitedHealthcare SignatureValue Alliance and
+   Group Medicare Advantage PPO
+                                                        $1,529.45       164       4       7          $2,158.35       164       5       8          $1,591.48       164       6       9
+   UnitedHealthcare SignatureValue Harmony and
+   Group Medicare Advantage PPO
+                                                        $1,402.11       398       4       7          $1,954.60       398       5       8          $1,515.07       398       6       9
+
+   Combination (Basic & Medicare Advantage) Monthly Premiums - Continued
+                                                                                                                                               Subscriber in B,
+                                                   Subscriber in B, &   Plan   Party   Party    Subscriber in B, &   Plan   Party   Party   1 Dependent in M, &   Plan   Party   Party
+
+   Plan                                            1 Dependent in M     Code   Code    Rate    2+ Dependents in M    Code   Code    Rate     1+ Dependent in B    Code   Code    Rate
+
+   Anthem Blue Cross Select HMO and Medicare
+   Preferred
+                                                        $1,662.68       456       7     10           $2,234.38       456       8     11           $2,317.27       456       9     12
+   Anthem Blue Cross Traditional HMO and
+   Medicare Preferred
+                                                        $1,944.63       309       7     10           $2,516.33       309       8     11           $2,768.39       309       9     12
+   Blue Shield Access+ HMO and Medicare                 $1,627.95       018       7     10           $2,167.38       018       8     11           $2,281.06       018       9     12
+   Blue Shield EPO and Medicare                         $1,627.95       028       7     10           $2,167.38       028       8     11           $2,281.06       028       9     12
+   Blue Shield Trio HMO and Medicare                    $1,476.01       030       7     10           $2,015.44       030       8     11           $2,037.96       030       9     12
+   California Correctional Peace Officers
+   Association North and Medicare
+                                                        $1,699.60       676       7     10           $2,198.95       676       8     11           $2,904.72       676       9     12
+   California Correctional Peace Officers
+   Association South and Medicare
+                                                        $1,489.11       119       7     10           $1,988.46       119       8     11           $2,483.67       119       9     12
+   Kaiser Permanente and Senior Advantage               $1,454.77       120       7     10           $1,811.60       120       8     11           $2,113.53       120       9     12
+   Kaiser Permanente and Senior Advantage
+   Summit
+                                                        $1,524.25       472       7     10           $1,950.56       472       8     11           $2,183.01       472       9     12
+   Sharp Performance Plus and Direct Advantage
+   HMO
+                                                        $1,207.58       244       7     10           $1,498.96       244       8     11           $1,757.30       244       9     12
+   UnitedHealthcare SignatureValue Alliance and
+   Group Medicare Advantage PPO
+                                                        $1,529.45       164       7     10           $2,010.74       164       8     11           $2,158.35       164       9     12
+   UnitedHealthcare SignatureValue Harmony and
+   Group Medicare Advantage PPO
+                                                        $1,402.11       398       7     10           $1,883.40       398       8     11           $1,954.60       398       9     12
+
+   Combination (Basic & Medicare Supplement) Monthly Premiums
+                                                                                                                                               Subscriber in M,
+                                                   Subscriber in M, &   Plan   Party   Party    Subscriber in M, &   Plan   Party   Party   1 Dependent in M, &   Plan   Party   Party
+
+   Plan                                             1 Dependent in B    Code   Code    Rate    2+ Dependents in B    Code   Code    Rate      1+ Dependent in B   Code   Code    Rate
+
+   CA Association of Highway Patrolmen and
+   Medicare Supplement
+                                                        $1,767.40       117       4       7          $2,388.67       117       5       8          $2,075.93       117       6       9
+   Peace Officers Research Association of CA and
+   Medicare Supplement
+                                                        $1,574.00       158       4       7          $2,158.00       158       5       8          $1,893.00       158       6       9
+   PERS Gold and Medicare Supplement                    $1,640.94       644       4       7          $2,266.96       644       5       8          $1,821.16       644       6       9
+   PERS Platinum and Medicare Supplement                $2,177.63       647       4       7          $3,084.91       647       5       8          $2,238.28       647       6       9
+
+   Combination (Basic & Medicare Supplement) Monthly Premiums - Continued
+                                                                                                                                               Subscriber in B,
+                                                   Subscriber in B, &   Plan   Party   Party    Subscriber in B, &   Plan   Party   Party   1 Dependent in M, &   Plan   Party   Party
+
+   Plan                                             1 Dependent in M    Code   Code    Rate    2+ Dependents in M    Code   Code    Rate      1+ Dependent in B   Code   Code    Rate
+
+   CA Association of Highway Patrolmen and
+   Medicare Supplement
+                                                        $1,708.57       117       7     10           $2,104.46       117       8     11           $2,329.84       117       9     12
+   Peace Officers Research Association of CA and
+   Medicare Supplement
+                                                        $1,571.00       158       7     10           $1,982.00       158       8     11           $2,158.00       158       9     12
+   PERS Gold and Medicare Supplement                    $1,640.94       644       7     10           $2,238.51       644       8     11           $2,266.96       644       9     12
+   PERS Platinum and Medicare Supplement                $2,177.63       647       7     10           $2,843.13       647       8     11           $3,084.91       647       9     12
+
+
+
+
+Updated: 8/1/2026                                                                                                                                                                        2
+

@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2014-04-01-berkeley-based-budgeting-goldman",
+  "layer": "L0",
+  "doc_type": "budget_document",
+  "collection": "budgets",
+  "publisher": "City of Berkeley — City Auditor (Information Calendar); report by Goldman School MPP students, UC Berkeley",
+  "title": "Berkeley Based Budgeting: Report from Goldman School of Public Policy Students (transmittal with Attachment 1, the 2013 report)",
+  "document_date": "2014-04-01",
+  "meeting_date": "2014-04-01",
+  "item": "Information Calendar Item 28",
+  "file": "L0/sources/budgets/budgets-2014-04-01-berkeley-based-budgeting-goldman.pdf",
+  "sha256": "d3b60f92c1994a3057fbb3cb4cc974986675162c0feb6f41901fbf1832347aa5",
+  "bytes": 2805731,
+  "source_url": null,
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "medium",
+  "source_note": "Supplied by the maintainer on 2026-08-31. Where it was obtained is not recorded."
+}

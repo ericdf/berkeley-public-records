@@ -1,0 +1,18 @@
+{
+  "id": "investments-investment-policy",
+  "layer": "L0",
+  "doc_type": "investment_report",
+  "collection": "investments",
+  "publisher": "City of Berkeley — Finance Department",
+  "title": "City of Berkeley Investment Policy (effective July 1, 2025)",
+  "document_date": "2025-07-01",
+  "file": "L0/sources/investments/investments-investment-policy.pdf",
+  "sha256": "0240a5a666350505bde4d6ffe0f2d87be4ef82347bf0d730d8d7b55af819973c",
+  "bytes": 1007604,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/investment-policy.pdf",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high"
+}

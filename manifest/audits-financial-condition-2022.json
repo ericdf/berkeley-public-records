@@ -1,0 +1,19 @@
+{
+  "id": "audits-financial-condition-2022",
+  "layer": "L0",
+  "doc_type": "audit_report",
+  "collection": "audits",
+  "publisher": "City of Berkeley — City Auditor",
+  "title": "Berkeley's Financial Condition (FY 2012 - FY 2021): Pension Liabilities and Infrastructure Need Attention",
+  "document_date": "2022-05-05",
+  "file": "L0/sources/audits/audits-financial-condition-2022.pdf",
+  "sha256": "63b6fe09af0b0cbef92d094a51a2b71e63dded738cb6572d924a3c794f33bbb9",
+  "bytes": 7573731,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/Berkeley%27s%20Financial%20Condition%20%28FY%202012%20-%20FY%202021%29-%20Pension%20Liabilities%20and%20Infrastructure%20Need%20Attention.pdf",
+  "retrieved": "2026-08-07",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high"
+}

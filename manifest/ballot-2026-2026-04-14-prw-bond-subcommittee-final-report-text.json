@@ -1,0 +1,21 @@
+{
+  "id": "ballot-2026-2026-04-14-prw-bond-subcommittee-final-report-text",
+  "layer": "L1",
+  "doc_type": "ballot_measure_record_text",
+  "collection": "ballot_2026",
+  "title": "Bond Measure Subcommittee — Final Report (Parks, Recreation and Waterfront Commission)",
+  "file": "L1/sources/ballot_2026/ballot-2026-2026-04-14-prw-bond-subcommittee-final-report-text.txt",
+  "sha256": "d0efebdc28d56252fe78d018bf10f58bc513194dd1dc0871f95ba343abcc466b",
+  "bytes": 36944,
+  "derived_from": {
+    "id": "ballot-2026-2026-04-14-prw-bond-subcommittee-final-report",
+    "sha256": "de9a16ec7897e117301045b7774891b5973fb901fd0f0f1cb2ca824b736a69e7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

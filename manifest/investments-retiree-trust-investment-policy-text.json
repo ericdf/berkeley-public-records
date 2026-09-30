@@ -1,0 +1,21 @@
+{
+  "id": "investments-retiree-trust-investment-policy-text",
+  "layer": "L1",
+  "doc_type": "investment_report_text",
+  "collection": "investments",
+  "title": "Retiree Trust Investment Management Plan / Policy (effective July 1, 2024)",
+  "file": "L1/sources/investments/investments-retiree-trust-investment-policy-text.txt",
+  "sha256": "9b39d7e9925474774ad6587183b2d2c23509f0d11ca4d1bd476977e8cf3acca5",
+  "bytes": 38954,
+  "derived_from": {
+    "id": "investments-retiree-trust-investment-policy",
+    "sha256": "edaaaa81dd85d9c961434ce2569c822dd9468a931f1e79f94b71a5e8294cab9e"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

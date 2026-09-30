@@ -1,0 +1,21 @@
+{
+  "id": "ballot-2026-measure-v-official-full-text-text",
+  "layer": "L1",
+  "doc_type": "ballot_measure_record_text",
+  "collection": "ballot_2026",
+  "title": "Full Text of Measure V — 2026 Transactions and Use Tax Ordinance",
+  "file": "L1/sources/ballot_2026/ballot-2026-measure-v-official-full-text-text.txt",
+  "sha256": "20d93129477c638f96a29b9714d1d9d6be20383e5a7d93cb6e48b44893f11b85",
+  "bytes": 20252,
+  "derived_from": {
+    "id": "ballot-2026-measure-v-official-full-text",
+    "sha256": "e17b23bfa17d28339393f8d07a9ec45af4734b0905f1c54be4593b4b6583d608"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

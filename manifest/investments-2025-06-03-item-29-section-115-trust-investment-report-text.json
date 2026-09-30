@@ -1,0 +1,21 @@
+{
+  "id": "investments-2025-06-03-item-29-section-115-trust-investment-report-text",
+  "layer": "L1",
+  "doc_type": "investment_report_text",
+  "collection": "investments",
+  "title": "Section 115 Trust Investment Report for: Inception to Period Ended June 30, 2024",
+  "file": "L1/sources/investments/investments-2025-06-03-item-29-section-115-trust-investment-report-text.txt",
+  "sha256": "08a7c8a03fd6176c2b892a4266e099df15cb0e231ae59020c9c3d1158fbf9ec8",
+  "bytes": 25544,
+  "derived_from": {
+    "id": "investments-2025-06-03-item-29-section-115-trust-investment-report",
+    "sha256": "503e9574339e3f29ab5b91ef4e169802e1759a7135e7d03196744a22b64f32ff"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

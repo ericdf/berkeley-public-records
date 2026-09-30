@@ -1,0 +1,21 @@
+{
+  "id": "ballot-2026-2026-06-30-ordinance-8028-sales-tax-text",
+  "layer": "L1",
+  "doc_type": "ballot_measure_record_text",
+  "collection": "ballot_2026",
+  "title": "Ordinance No. 8,028-N.S. — adding BMC Chapter 7.34, 0.5% transactions and use tax (second reading)",
+  "file": "L1/sources/ballot_2026/ballot-2026-2026-06-30-ordinance-8028-sales-tax-text.txt",
+  "sha256": "2b863829a01871d179da0498371eb042969e08eb7769459fce11349ac891ba65",
+  "bytes": 21922,
+  "derived_from": {
+    "id": "ballot-2026-2026-06-30-ordinance-8028-sales-tax",
+    "sha256": "e62175a7c0338c6c5de3bd17ba6fa8933c64d21899e210aee539b779bad4424e"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

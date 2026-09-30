@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2025-06-17-taplin-bond-issuance-referral-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Recommendations for the Formulation of Advanced Fiscal Policies to Institutionalize Strategic Bond Issuance, Optimize Municipal Investment Returns, and Leverage Intergovernmental and Philanthropic Capital Funding",
+  "file": "L1/sources/budgets/budgets-2025-06-17-taplin-bond-issuance-referral-text.txt",
+  "sha256": "04666436036b64b9b6da0b0ec96bc4f5e471382f226de2cf04265a95b16b6382",
+  "bytes": 17989,
+  "derived_from": {
+    "id": "budgets-2025-06-17-taplin-bond-issuance-referral",
+    "sha256": "4fb48eaed2d9d0bc778a814b2f45682c2fbf8693c978ea6e2d2cc017198a930e"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

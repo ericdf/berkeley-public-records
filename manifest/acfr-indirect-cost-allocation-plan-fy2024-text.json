@@ -1,0 +1,21 @@
+{
+  "id": "acfr-indirect-cost-allocation-plan-fy2024-text",
+  "layer": "L1",
+  "doc_type": "financial_report_or_policy_text",
+  "collection": "acfr",
+  "title": "Indirect Cost Allocation Plan, Fiscal Year 2024",
+  "file": "L1/sources/acfr/acfr-indirect-cost-allocation-plan-fy2024-text.txt",
+  "sha256": "55e68ae37f6b50f1bd4e03a6e5db2f148830078a8c828d60fa0c2d6bfd4a9a62",
+  "bytes": 422142,
+  "derived_from": {
+    "id": "acfr-indirect-cost-allocation-plan-fy2024",
+    "sha256": "7d044eceae7364083790ae5e95427b5a42e91f4a0f732ab9205876d9f94c1ed8"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

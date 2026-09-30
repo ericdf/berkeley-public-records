@@ -1,0 +1,21 @@
+{
+  "id": "ballot-2026-2025-12-02-potential-ballot-measures-tax-comparison-text",
+  "layer": "L1",
+  "doc_type": "ballot_measure_record_text",
+  "collection": "ballot_2026",
+  "title": "Discussion Regarding Potential Ballot Measures for the November 3, 2026, General Municipal Election (DUPLICATE)",
+  "file": "L1/sources/ballot_2026/ballot-2026-2025-12-02-potential-ballot-measures-tax-comparison-text.txt",
+  "sha256": "77dca07bf09c06ec64d26ec4b26b3447a2333e8d2b9ac4a82534de45cdaedf7d",
+  "bytes": 182863,
+  "derived_from": {
+    "id": "ballot-2026-2025-12-02-potential-ballot-measures-tax-comparison",
+    "sha256": "ddaa3c1594a29b3885eb10a9d7e20902a246c005009aef5cb47487c55b70eaa5"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

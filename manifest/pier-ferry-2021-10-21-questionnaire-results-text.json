@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2021-10-21-questionnaire-results-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Berkeley Pier/Ferry Feasibility Study — Online Questionnaire #1 Results Report",
+  "file": "L1/sources/pier_ferry/pier-ferry-2021-10-21-questionnaire-results-text.txt",
+  "sha256": "82e9231125ade01e0b13a30968eadb72ac3d5481d42e0d829e975d4c27a47497",
+  "bytes": 35358,
+  "derived_from": {
+    "id": "pier-ferry-2021-10-21-questionnaire-results",
+    "sha256": "26ff0ced99c1edbd92608a5fbfd1e487c21acb2ce3758c33ab565cbe02e8c22c"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

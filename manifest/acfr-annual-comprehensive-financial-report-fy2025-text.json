@@ -1,0 +1,21 @@
+{
+  "id": "acfr-annual-comprehensive-financial-report-fy2025-text",
+  "layer": "L1",
+  "doc_type": "financial_report_or_policy_text",
+  "collection": "acfr",
+  "title": "Annual Comprehensive Financial Report, fiscal year ended June 30, 2025",
+  "file": "L1/sources/acfr/acfr-annual-comprehensive-financial-report-fy2025-text.txt",
+  "sha256": "975e25fcbc554195104d0d567008a6cd898bf48bd9708ab72d0814d23cc66779",
+  "bytes": 1378512,
+  "derived_from": {
+    "id": "acfr-annual-comprehensive-financial-report-fy2025",
+    "sha256": "d6f54821affa11c04fcd1e6c4dd1a47715558ff2c2452d2321bc5884745ff7b3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "acfr-annual-comprehensive-financial-report-fy2023",
+  "layer": "L0",
+  "doc_type": "financial_report_or_policy",
+  "collection": "acfr",
+  "publisher": "City of Berkeley — Finance Department (audited by Badawi & Associates)",
+  "title": "Annual Comprehensive Financial Report, fiscal year ended June 30, 2023",
+  "document_date": "2023-12-21",
+  "file": "L0/sources/acfr/acfr-annual-comprehensive-financial-report-fy2023.pdf",
+  "sha256": "d5c60da6534ab55065dfa0d77be0a175af447c42e87638edaadbdf9a4ab10c14",
+  "bytes": 15723889,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/annual-comprehensive-financial-report-fy2023.pdf",
+  "archived": "2026-09-30",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "provenance_confidence": "high"
+}

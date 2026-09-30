@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2024-07-09-rincon-contract-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Contract: Rincon Consultants, Inc. for environmental support services for the Berkeley Water Transportation Pier Ferry Project",
+  "file": "L1/sources/pier_ferry/pier-ferry-2024-07-09-rincon-contract-text.txt",
+  "sha256": "b9a35bef2a3bc6b1a50b9547ab6445a9d7fd4a5d330412a795c7177554f4f228",
+  "bytes": 13322,
+  "derived_from": {
+    "id": "pier-ferry-2024-07-09-rincon-contract",
+    "sha256": "e2826f71653636a2e96dc0570f1f3c7b80f4393519950d01a72e45adb5f833bf"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

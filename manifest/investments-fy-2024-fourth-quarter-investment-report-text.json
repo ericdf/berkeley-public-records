@@ -1,0 +1,21 @@
+{
+  "id": "investments-fy-2024-fourth-quarter-investment-report-text",
+  "layer": "L1",
+  "doc_type": "investment_report_text",
+  "collection": "investments",
+  "title": "FY 2024 Fourth Quarter Investment Report: Ended June 30, 2024",
+  "file": "L1/sources/investments/investments-fy-2024-fourth-quarter-investment-report-text.txt",
+  "sha256": "081bc74157630e2fa921afd353ea21b2354d0ee9eba864c726b3a24454a3bacd",
+  "bytes": 132161,
+  "derived_from": {
+    "id": "investments-fy-2024-fourth-quarter-investment-report",
+    "sha256": "27fee41ee3d61feb904c4d915583de9368b80478e8bbfbb9a36b517f668d05ac"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

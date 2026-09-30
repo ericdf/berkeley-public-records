@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2023-12-05-skinner-resolution-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Nancy Skinner Municipal Pier Resolution",
+  "file": "L1/sources/pier_ferry/pier-ferry-2023-12-05-skinner-resolution-text.txt",
+  "sha256": "263077312a0751bea45b7be043cb34616095b447d1fa7dc56e0cc1e1417af34a",
+  "bytes": 5414,
+  "derived_from": {
+    "id": "pier-ferry-2023-12-05-skinner-resolution",
+    "sha256": "94a73af36ddb5dc4bc13c85f80dc6717e18442a42e2d1ca9515dc3a8b0f88654"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

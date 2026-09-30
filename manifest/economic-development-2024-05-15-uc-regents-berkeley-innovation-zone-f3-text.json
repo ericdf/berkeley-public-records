@@ -1,0 +1,21 @@
+{
+  "id": "economic-development-2024-05-15-uc-regents-berkeley-innovation-zone-f3-text",
+  "layer": "L1",
+  "doc_type": "economic_report_text",
+  "collection": "economic_development",
+  "title": "UC Regents Item F3 (May 2024): Berkeley Innovation Zone — South and North laboratory buildings, University/Oxford",
+  "file": "L1/sources/economic_development/economic-development-2024-05-15-uc-regents-berkeley-innovation-zone-f3-text.txt",
+  "sha256": "71649378d379dd84219f4447d77a7931e926bef4b82b0c0ec8b98529ca99856c",
+  "bytes": 34199,
+  "derived_from": {
+    "id": "economic-development-2024-05-15-uc-regents-berkeley-innovation-zone-f3",
+    "sha256": "95925d0e5bfff5248907c5c96f7e4f1178244b7e785c85ef239bcea7b69d94fd"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

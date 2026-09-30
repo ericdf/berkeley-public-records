@@ -1,0 +1,21 @@
+{
+  "id": "audits-audit-plan-fy2027-text",
+  "layer": "L1",
+  "doc_type": "audit_report_text",
+  "collection": "audits",
+  "title": "City Auditor Fiscal Year 2027 Audit Plan",
+  "file": "L1/sources/audits/audits-audit-plan-fy2027-text.txt",
+  "sha256": "17147fb8f21e5e76f16cd064cfc041df520363d8c688a94029a98221e54be8b8",
+  "bytes": 18489,
+  "derived_from": {
+    "id": "audits-audit-plan-fy2027",
+    "sha256": "b1828483d850a8637f683e5ca55c92118bb4df12d71fa84d2f88370333a1ce8f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

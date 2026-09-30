@@ -1,0 +1,21 @@
+{
+  "id": "investments-fy2025-fourth-quarter-investment-report-text",
+  "layer": "L1",
+  "doc_type": "investment_report_text",
+  "collection": "investments",
+  "title": "FY 2025 Fourth Quarter Investment Report: Ended June 30, 2025",
+  "file": "L1/sources/investments/investments-fy2025-fourth-quarter-investment-report-text.txt",
+  "sha256": "6f6946c0d8fad8a24a819ade73a8e145a23db661ee36fd97050c4ab0f62f43c6",
+  "bytes": 119280,
+  "derived_from": {
+    "id": "investments-fy2025-fourth-quarter-investment-report",
+    "sha256": "16e23b0eba724a6d420959d3b96b9669c606918a72dd97431496a61ecd8aec23"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

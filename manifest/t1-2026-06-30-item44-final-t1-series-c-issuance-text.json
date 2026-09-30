@@ -1,0 +1,21 @@
+{
+  "id": "t1-2026-06-30-item44-final-t1-series-c-issuance-text",
+  "layer": "L1",
+  "doc_type": "council_agenda_report_text",
+  "collection": "t1",
+  "title": "Issuance of $20,000,000 in General Obligation Bonds, Series C for the 2016 Election - Infrastructure and Facilities Improvements, Measure T1",
+  "file": "L1/sources/t1/t1-2026-06-30-item44-final-t1-series-c-issuance-text.txt",
+  "sha256": "9eaf4de150ba00b25e204096e36f2d37a3ee2d14f49f673714da48c9e8477e0a",
+  "bytes": 436609,
+  "derived_from": {
+    "id": "t1-2026-06-30-item44-final-t1-series-c-issuance",
+    "sha256": "6b29bfc45b93bf0b2cccf7c2a8d2b3e908cbc117c8a3f5d36b5549a7de334909"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

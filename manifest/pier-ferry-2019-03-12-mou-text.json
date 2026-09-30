@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2019-03-12-mou-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Memorandum of Understanding: Planning Phase for the viability of a potential WETA Ferry Service and Public Recreation Pier at the Berkeley Marina",
+  "file": "L1/sources/pier_ferry/pier-ferry-2019-03-12-mou-text.txt",
+  "sha256": "0bb15899d30f80451c7b7d7b205dbb9ddc60b3dbb38ac5b0758cbdfccbd7964e",
+  "bytes": 56602,
+  "derived_from": {
+    "id": "pier-ferry-2019-03-12-mou",
+    "sha256": "9757afbcefae1e7c3b32feb9389147e18130de48198131f4b8e46df5f4a16d92"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

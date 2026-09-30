@@ -1,0 +1,21 @@
+{
+  "id": "acfr-single-audit-report-fy2023-text",
+  "layer": "L1",
+  "doc_type": "financial_report_or_policy_text",
+  "collection": "acfr",
+  "title": "Single Audit Report, year ended June 30, 2023",
+  "file": "L1/sources/acfr/acfr-single-audit-report-fy2023-text.txt",
+  "sha256": "06d0647c180017d400e108dc7621aa71e99d4bd72a7643bef699ab360c47eb38",
+  "bytes": 54235,
+  "derived_from": {
+    "id": "acfr-single-audit-report-fy2023",
+    "sha256": "9666c29b47209747f6390aa20964af9a1d48f52f828e1f94614766a7c67f5c83"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

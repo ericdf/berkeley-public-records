@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2022-03-17-weta-business-plan-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "WETA Berkeley Ferry Service Business Plan, Version 1.0",
+  "file": "L1/sources/pier_ferry/pier-ferry-2022-03-17-weta-business-plan-text.txt",
+  "sha256": "d71f73b27a79f49270ad81379d6c30312e6db400aac13f69ee852cc3d01870d5",
+  "bytes": 202118,
+  "derived_from": {
+    "id": "pier-ferry-2022-03-17-weta-business-plan",
+    "sha256": "41aa06e298edeabd06747722a26afe063da67b84de8dd8d9ef6dc83e1203f7f2"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

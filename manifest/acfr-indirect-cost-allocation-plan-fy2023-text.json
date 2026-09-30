@@ -1,0 +1,21 @@
+{
+  "id": "acfr-indirect-cost-allocation-plan-fy2023-text",
+  "layer": "L1",
+  "doc_type": "financial_report_or_policy_text",
+  "collection": "acfr",
+  "title": "Indirect Cost Allocation Plan, Fiscal Year 2023",
+  "file": "L1/sources/acfr/acfr-indirect-cost-allocation-plan-fy2023-text.txt",
+  "sha256": "94404a789b104d8eda8cfcde7fada5e482d642a03730895ba467a0fefde7f2cc",
+  "bytes": 470057,
+  "derived_from": {
+    "id": "acfr-indirect-cost-allocation-plan-fy2023",
+    "sha256": "0d6d403fffbff7cbc7fb3328bf2becd1f0891ca68ef66b118d3081aae1cf8de0"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

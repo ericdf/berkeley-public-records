@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2021-12-07-preferred-concept-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Large Scale Ferry Feasibility Study – A Preferred Concept",
+  "file": "L1/sources/pier_ferry/pier-ferry-2021-12-07-preferred-concept-text.txt",
+  "sha256": "88a12d5fd62966283e796f6d04757ad32b4de31d75e2c1d293e67bf310b9780f",
+  "bytes": 54643,
+  "derived_from": {
+    "id": "pier-ferry-2021-12-07-preferred-concept",
+    "sha256": "4f8efc0e18f03c6e1203477dc4db4954eb2ed06a77e8ece3e25502aa6070daea"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
