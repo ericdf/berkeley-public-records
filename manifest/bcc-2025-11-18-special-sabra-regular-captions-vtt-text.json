@@ -1,0 +1,25 @@
+{
+  "id": "bcc-2025-11-18-special-sabra-regular-captions-vtt-text",
+  "layer": "L1",
+  "doc_type": "council_captions_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-11-18",
+  "meeting_label": "Special SABRA Regular",
+  "title": "BCC 2025-11-18 Special SABRA Regular Captioning.vtt",
+  "file": "L1/council-captions/bcc-2025-11-18-special-sabra-regular-captions-vtt-text.txt",
+  "sha256": "7bd7f0f086f339e45104328178754893d732bdf9ae3dbf16f0ac5f45fd8467a5",
+  "bytes": 400904,
+  "derived_from": {
+    "id": "bcc-2025-11-18-special-sabra-regular-captions-vtt",
+    "sha256": "5af9c2f788a496bf0178b3e7d14ddc1b9ae555273f5fd4ed7cf3545666b958d3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [
+    "This information provided by Zoom. The City of Berkeley cannot certify the following text since we did not create it."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

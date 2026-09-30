@@ -1,0 +1,21 @@
+{
+  "id": "bcc-2025-05-06-special-captions",
+  "layer": "L0",
+  "doc_type": "council_captions",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-05-06",
+  "meeting_label": "Special",
+  "title": "BCC 2025-05-06 Special Captioning",
+  "file": "L0/council-captions/bcc-2025-05-06-special-captions.pdf",
+  "sha256": "73b1b326e8cc9bf76399eee7c3d7f4a51c93fa5c2f1a70e2d3d8a45146556db7",
+  "bytes": 580635,
+  "source_url": null,
+  "source_note": "Caption PDF published by the City of Berkeley for this meeting; downloaded by the contributor before the archive existed. Original URL was not recorded.",
+  "retrieved": null,
+  "archived": "2026-04-09",
+  "wayback_url": null,
+  "notices": [
+    "This information provided by a Certified Realtime Reporter. The City of Berkeley cannot certify the following text since we did not create it."
+  ],
+  "contributed_by": "ericdf"
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "Speaker identifiers for L3 attribution. Members of the public are not listed here: they are identified as public:<name as it appears in the record>. Add an officeholder or staff role by pull request, citing the public record.",
+  "officeholders": [
+    {"id": "off-ishii", "name": "Adena Ishii", "office": "Mayor"},
+    {"id": "off-kesarwani", "name": "Rashi Kesarwani", "office": "Councilmember", "district": 1},
+    {"id": "off-taplin", "name": "Terry Taplin", "office": "Councilmember", "district": 2},
+    {"id": "off-bartlett", "name": "Ben Bartlett", "office": "Councilmember", "district": 3},
+    {"id": "off-tregub", "name": "Igor Tregub", "office": "Councilmember", "district": 4},
+    {"id": "off-okeefe", "name": "Shoshana O'Keefe", "office": "Councilmember", "district": 5},
+    {"id": "off-blackaby", "name": "Brent Blackaby", "office": "Councilmember", "district": 6},
+    {"id": "off-lunaparra", "name": "Cecilia Lunaparra", "office": "Councilmember", "district": 7},
+    {"id": "off-humbert", "name": "Mark Humbert", "office": "Councilmember", "district": 8}
+  ],
+  "staff_roles": [
+    {"id": "staff:city-manager", "role": "City Manager"},
+    {"id": "staff:deputy-city-manager", "role": "Deputy City Manager"},
+    {"id": "staff:city-clerk", "role": "City Clerk"},
+    {"id": "staff:city-attorney", "role": "City Attorney"},
+    {"id": "staff:city-auditor", "role": "City Auditor"},
+    {"id": "staff:budget-manager", "role": "Budget Manager"},
+    {"id": "staff:fire-chief", "role": "Fire Chief"},
+    {"id": "staff:police-chief", "role": "Police Chief"},
+    {"id": "staff:other", "role": "Other City staff (name the role in the segment's basis)"}
+  ]
+}

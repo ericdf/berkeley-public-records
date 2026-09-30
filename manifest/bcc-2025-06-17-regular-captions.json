@@ -1,0 +1,21 @@
+{
+  "id": "bcc-2025-06-17-regular-captions",
+  "layer": "L0",
+  "doc_type": "council_captions",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-06-17",
+  "meeting_label": "Regular",
+  "title": "BCC 2025-06-17 Regular Captioning",
+  "file": "L0/council-captions/bcc-2025-06-17-regular-captions.pdf",
+  "sha256": "777765fd6c68847d4f9aea0fa794f0af4b2ae62ca63f3693cc191f391097fa09",
+  "bytes": 2406751,
+  "source_url": null,
+  "source_note": "Caption PDF published by the City of Berkeley for this meeting; downloaded by the contributor before the archive existed. Original URL was not recorded.",
+  "retrieved": null,
+  "archived": "2026-04-09",
+  "wayback_url": null,
+  "notices": [
+    "This information provided by a Certified Realtime Reporter. The City of Berkeley cannot certify the following text since we did not create it."
+  ],
+  "contributed_by": "ericdf"
+}

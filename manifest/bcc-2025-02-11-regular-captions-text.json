@@ -1,0 +1,25 @@
+{
+  "id": "bcc-2025-02-11-regular-captions-text",
+  "layer": "L1",
+  "doc_type": "council_captions_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-02-11",
+  "meeting_label": "Regular",
+  "title": "BCC 2025-02-11 Regular Captioning",
+  "file": "L1/council-captions/bcc-2025-02-11-regular-captions-text.txt",
+  "sha256": "d1beb9aac6c808f916d4d6f859c2f611b2f62da7c70c881ac9db8c88c518fedb",
+  "bytes": 168219,
+  "derived_from": {
+    "id": "bcc-2025-02-11-regular-captions",
+    "sha256": "ef8b2754b5d642ebb64c3a8781b790c15ef6c0afe9f682728418524bf9110896"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [
+    "This information provided by a Certified Realtime Reporter. The City of Berkeley cannot certify the following text since we did not create it."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
