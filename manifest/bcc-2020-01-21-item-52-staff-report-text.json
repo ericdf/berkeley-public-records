@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2020-01-21-item-52-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2020-01-21",
+  "meeting_label": "regular",
+  "title": "Update on Measure T1 City Infrastructure Bond Program",
+  "file": "L1/staff-reports/bcc-2020-01-21-item-52-staff-report-text.txt",
+  "sha256": "c003266c3d65cc7a5d00f278f5ee3c039e1f54fe5dd56237f7155626702a3915",
+  "bytes": 78903,
+  "derived_from": {
+    "id": "bcc-2020-01-21-item-52-staff-report",
+    "sha256": "1fc7fd33b0977ff870066c62d93e4ad3eb9fe891ec48ffe441a516730fbaef4b"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

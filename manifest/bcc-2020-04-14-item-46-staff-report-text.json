@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2020-04-14-item-46-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2020-04-14",
+  "meeting_label": "regular",
+  "title": "Measure T1 Update",
+  "file": "L1/staff-reports/bcc-2020-04-14-item-46-staff-report-text.txt",
+  "sha256": "73314e00a0ca316f913d1a7ddab38173ce43cb986391070d6036f90c049b913d",
+  "bytes": 26780,
+  "derived_from": {
+    "id": "bcc-2020-04-14-item-46-staff-report",
+    "sha256": "ffba110cab9ac7c52ee2dc13c273961dbcf3db8d303dc92641d5177bab1a5ba8"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
