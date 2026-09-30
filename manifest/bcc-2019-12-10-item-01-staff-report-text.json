@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2019-12-10-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2019-12-10",
+  "meeting_label": "regular",
+  "title": "Minutes for Approval",
+  "file": "L1/staff-reports/bcc-2019-12-10-item-01-staff-report-text.txt",
+  "sha256": "6c74b3d1f22bfda42f11ecfc8920a3dc757b622c2c16d2752b0a64ac55fdf0e1",
+  "bytes": 91878,
+  "derived_from": {
+    "id": "bcc-2019-12-10-item-01-staff-report",
+    "sha256": "9b00e68ee2d57cc5da0ec3dfdc2193fc280896b4ceb14c38d01b471f705d53d7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

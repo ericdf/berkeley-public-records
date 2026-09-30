@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2023-04-11-item-34-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2023-04-11",
+  "meeting_label": "regular",
+  "title": "Approval of the Public Bank East Bay Viability Study",
+  "file": "L1/staff-reports/bcc-2023-04-11-item-34-staff-report-text.txt",
+  "sha256": "5a28d6297540fb0cab7d96af84fadc9389711db3c3c2000b40620a96e928ecd7",
+  "bytes": 159237,
+  "derived_from": {
+    "id": "bcc-2023-04-11-item-34-staff-report",
+    "sha256": "948f59bb69fbd7f22157de16b1243cb9134ddd9e5a105b1ed5d0cb485914c2e1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

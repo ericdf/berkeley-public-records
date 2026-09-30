@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-10-01-item-03-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-10-01",
+  "meeting_label": "regular",
+  "title": "Grant Contract: Housing and Urban Development (HUD) for the African American Holistic Resources Center Project",
+  "file": "L1/staff-reports/bcc-2024-10-01-item-03-staff-report-text.txt",
+  "sha256": "b5aa7f9f03048ba9def3ed3d7920b4c8788e33705fb108f0b08af4f1179b77da",
+  "bytes": 9678,
+  "derived_from": {
+    "id": "bcc-2024-10-01-item-03-staff-report",
+    "sha256": "66af495fe579a227b459b24fb6e13495452ea1f13d79223fce521186cda0a1db"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

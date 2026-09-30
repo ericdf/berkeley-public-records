@@ -1,0 +1,23 @@
+{
+  "id": "landmarks-preservation-commission-2025-03-06-item-11-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Landmarks Preservation Commission",
+  "meeting_date": "2025-03-06",
+  "title": "2113-2115 Kittredge Street – California Theater: Structural Alteration Permit #LMSAP2025-0002 (Staff Report)",
+  "file": "L1/staff-reports/landmarks-preservation-commission-2025-03-06-item-11-staff-report-text.txt",
+  "sha256": "2240f0deb2519095f051e77e3d1aa7887ddf2a9d6dad20e36fd8117acf4b2151",
+  "bytes": 7383,
+  "derived_from": {
+    "id": "landmarks-preservation-commission-2025-03-06-item-11-staff-report",
+    "sha256": "8c85fa4ed77f208b46dbe89ac368938b270ddec322f750d265e17ce1bbdfe533"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

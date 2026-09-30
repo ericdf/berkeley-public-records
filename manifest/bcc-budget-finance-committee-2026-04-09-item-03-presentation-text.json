@@ -1,0 +1,24 @@
+{
+  "id": "bcc-budget-finance-committee-2026-04-09-item-03-presentation-text",
+  "layer": "L1",
+  "doc_type": "presentation_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council Budget & Finance Policy Committee",
+  "meeting_date": "2026-04-09",
+  "meeting_label": "special",
+  "title": "City Real Property: Leases and License Agreements (presentation)",
+  "file": "L1/staff-reports/bcc-budget-finance-committee-2026-04-09-item-03-presentation-text.txt",
+  "sha256": "ff95a0d675d9bd2095a050fbdb96ec2033cb91fe86872376b1ee31bcb0ff0029",
+  "bytes": 14717,
+  "derived_from": {
+    "id": "bcc-budget-finance-committee-2026-04-09-item-03-presentation",
+    "sha256": "d8cb48259445c5089db10056c2927a72a95812d203230e581526396e493d1a50"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

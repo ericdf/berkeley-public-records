@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-07-30-item-18-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-07-30",
+  "meeting_label": "regular",
+  "title": "Berkeley Restaurant Inspections: Chronically Understaffed Program Did Not Meet Targets",
+  "file": "L1/staff-reports/bcc-2024-07-30-item-18-staff-report-text.txt",
+  "sha256": "655c1f27611f5ac1f563c0306285beb787c49fbf0d3bc1d92c52b2d5717ed256",
+  "bytes": 87224,
+  "derived_from": {
+    "id": "bcc-2024-07-30-item-18-staff-report",
+    "sha256": "577baae5f5b59f1c970c734e20514f61b9dd95e75ca9353d428e4443e49c2252"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

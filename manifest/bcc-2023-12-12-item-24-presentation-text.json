@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2023-12-12-item-24-presentation-text",
+  "layer": "L1",
+  "doc_type": "presentation_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2023-12-12",
+  "meeting_label": "regular",
+  "title": "Spending Aligned with Ballot Measure FF and the City Is Improving Internal Processes (presentation)",
+  "file": "L1/staff-reports/bcc-2023-12-12-item-24-presentation-text.txt",
+  "sha256": "8b67e0051d52c6350908f28545585b8f38bf7f2781acaf56829ab80ab9e26957",
+  "bytes": 7000,
+  "derived_from": {
+    "id": "bcc-2023-12-12-item-24-presentation",
+    "sha256": "897c429e0b326c26d54636e27e6155936cefa0b51204a97211bfaad67d3dea01"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

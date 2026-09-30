@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2019-10-15-item-37-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2019-10-15",
+  "meeting_label": "regular",
+  "title": "Pathways STAIR Center: First Year Data Evaluation and Results-Based Accountability Dashboard",
+  "file": "L1/staff-reports/bcc-2019-10-15-item-37-staff-report-text.txt",
+  "sha256": "3fe8d979ab82f06318fafa52f57dd43b212c57ef9e4d161901b2d82920c93e1e",
+  "bytes": 22862,
+  "derived_from": {
+    "id": "bcc-2019-10-15-item-37-staff-report",
+    "sha256": "81d0c7cee1a6b66c1040f12cca932c773c9fca8c7a1092e474a75dafa3c9048c"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

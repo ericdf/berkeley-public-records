@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2019-11-19-item-15-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2019-11-19",
+  "meeting_label": "regular",
+  "title": "FY 2019 Year-End Results and FY 2020 First Quarter Budget Update",
+  "file": "L1/staff-reports/bcc-2019-11-19-item-15-staff-report-text.txt",
+  "sha256": "fa479ae909db29cbe659aea6411d795adb9a466f209139a3a5608f8f3b0380b2",
+  "bytes": 113811,
+  "derived_from": {
+    "id": "bcc-2019-11-19-item-15-staff-report",
+    "sha256": "c22dea1ea0999119d8ea4cc8640e742409ca1254a5448125a7b91b8665cd4b1a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

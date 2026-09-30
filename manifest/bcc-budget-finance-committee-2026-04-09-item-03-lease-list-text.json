@@ -1,0 +1,24 @@
+{
+  "id": "bcc-budget-finance-committee-2026-04-09-item-03-lease-list-text",
+  "layer": "L1",
+  "doc_type": "agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council Budget & Finance Policy Committee",
+  "meeting_date": "2026-04-09",
+  "meeting_label": "special",
+  "title": "Item 03 PW and PRW and HHCS Lease List",
+  "file": "L1/staff-reports/bcc-budget-finance-committee-2026-04-09-item-03-lease-list-text.txt",
+  "sha256": "9ba7537d1fc0ed6de5c21768496eb519612e285ba247d30211e9201f5f5e8568",
+  "bytes": 33010,
+  "derived_from": {
+    "id": "bcc-budget-finance-committee-2026-04-09-item-03-lease-list",
+    "sha256": "8ca71bea59358b998421c561e190bf21e832fe1b87c1ea3b3f7c0a451025b22f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

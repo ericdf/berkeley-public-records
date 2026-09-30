@@ -1,0 +1,23 @@
+{
+  "id": "environment-climate-commission-2026-02-25-item-07b-fact-sheet-text",
+  "layer": "L1",
+  "doc_type": "agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Environment & Climate Commission",
+  "meeting_date": "2026-02-25",
+  "title": "Measure T1 General Obligation Bond – Fact Sheet",
+  "file": "L1/staff-reports/environment-climate-commission-2026-02-25-item-07b-fact-sheet-text.txt",
+  "sha256": "0afbc67e839fc48ebca32efcd2e8182edecb38d575d34df3afdc6cbf5b8de921",
+  "bytes": 14098,
+  "derived_from": {
+    "id": "environment-climate-commission-2026-02-25-item-07b-fact-sheet",
+    "sha256": "fcc3e07e5d6d54e87ff151fc5d9778c6ce7238bbbab835d39414b8df0f33df72"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}

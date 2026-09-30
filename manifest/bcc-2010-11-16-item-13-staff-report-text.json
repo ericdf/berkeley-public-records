@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2010-11-16-item-13-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2010-11-16",
+  "meeting_label": "regular",
+  "title": "Employee Benefits: Tough Decisions Ahead (Audit Report)",
+  "file": "L1/staff-reports/bcc-2010-11-16-item-13-staff-report-text.txt",
+  "sha256": "3f32cfccc0548988c2f0c0d5b383cfc7546ffdb55cb590ae82d32403aefaa042",
+  "bytes": 46418,
+  "derived_from": {
+    "id": "bcc-2010-11-16-item-13-staff-report",
+    "sha256": "aef8f987754e9ecb51928520a2ac1d9cad9768eeec6546e6f61a6c6d9501f9fb"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-09-30"
+}
