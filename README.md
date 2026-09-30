@@ -214,13 +214,17 @@ inducted whatever it shows.
   short-lived signed storage URL. The manifest records the stable request URL as `source_url`
   and the document's portal page under `cpra.document_url`.
 
-### Records released only to a requester
+### Only published records are archived
 
-Records the City released only to the person who asked, and has not yet published, enter the same
-queue (a queue file added by pull request, since the watcher cannot see them) and follow the same
-decision. Once inducted, their manifest entries carry a `source_note`
-naming the request and the release date. When the City later publishes them, the entry gains the
-public URL by pull request. The file never changes.
+The archive takes public-records releases only once the City has **published** them on the
+portal, so that every archived record carries a public URL anyone can check. Records released
+only to the person who asked are not archived from that private channel. A contributor who has
+received such records may add the request to the queue by pull request (the watcher cannot see
+unpublished requests); it stays `watching` until the City publishes it, and the public copy is
+what gets ingested.
+
+A request the City never publishes stays in the queue. If one matters enough to archive
+anyway, that is a maintainer decision recorded in the queue entry, with the reason.
 
 ---
 
