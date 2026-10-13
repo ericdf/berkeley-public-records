@@ -1,0 +1,23 @@
+{
+  "id": "bcc-budget-finance-committee-2025-06-12-item-02-supplemental-measure-p-memo-text",
+  "layer": "L1",
+  "doc_type": "supplemental_agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council Budget & Finance Policy Committee",
+  "meeting_date": "2025-06-12",
+  "title": "Measure P and Impact on Homeless Services in Berkeley (City Manager memo dated March 28, 2025)",
+  "file": "L1/staff-reports/bcc-budget-finance-committee-2025-06-12-item-02-supplemental-measure-p-memo-text.txt",
+  "sha256": "aeee894f8585f635e2511e83b6bfa2a6b336e4160c289d5ade84d3e8b80011f3",
+  "bytes": 38914,
+  "derived_from": {
+    "id": "bcc-budget-finance-committee-2025-06-12-item-02-supplemental-measure-p-memo",
+    "sha256": "b4a9666497acf86352a2b05078f377715c52268f7ebc2e11844eaf6b45317ff8"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-13"
+}

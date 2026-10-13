@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2019-01-15-ws-item-02-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2019-01-15",
+  "meeting_label": "work session",
+  "title": "Uses for Measure P Funding",
+  "file": "L1/staff-reports/bcc-2019-01-15-ws-item-02-staff-report-text.txt",
+  "sha256": "e6557588466f1b792ec97bab3ac4ba523cdb87b5b33793e9825e068bbba14b4a",
+  "bytes": 26155,
+  "derived_from": {
+    "id": "bcc-2019-01-15-ws-item-02-staff-report",
+    "sha256": "de87d31547022ebccdab259528d55aa8cd1c6839b539b860da52c1c390f2506b"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-13"
+}

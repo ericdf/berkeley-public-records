@@ -1,0 +1,21 @@
+{
+  "id": "measure-p-2018-11-06-measure-p-ballot-materials-text",
+  "layer": "L1",
+  "doc_type": "ballot_measure_record_text",
+  "collection": "measure_p",
+  "title": "Measure P — City of Berkeley (ballot measure submittal form, City Attorney's impartial analysis, ordinance text, and arguments), November 6, 2018 election",
+  "file": "L1/sources/measure_p/measure-p-2018-11-06-measure-p-ballot-materials-text.txt",
+  "sha256": "5fe6d2db24257c7d28e64c2d3ce147092418660b8dd08c8b580882bd12e99005",
+  "bytes": 21229,
+  "derived_from": {
+    "id": "measure-p-2018-11-06-measure-p-ballot-materials",
+    "sha256": "1f0cfdb7d0c9aed0056e75b7a8080b6dff91a44e07676a68ba6c74ae79ea213e"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-13"
+}

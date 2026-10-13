@@ -1,0 +1,1635 @@
+                                                Page 1 of 40                                             02a
+                                                                                                Special Meeting Item
+
+
+
+
+                                                                                            ACTION CALENDAR
+                                                                                                 July 29, 2025
+To:        Honorable Mayor and Members of the City Council
+
+From:      Jenny Wong, City Auditor
+
+Subject:   Homeless Response Team: Opportunities Exist to Strengthen Procedures and Better
+           Track Outcomes
+
+RECOMMENDATION
+We recommend City Council request that the City Manager report back during the audit follow-
+up period in Fall 2026, and annually thereafter, regarding the status of our audit
+recommendations until reported fully implemented by the Homelessness Response Team and
+the City Manager’s Office. The audit includes six recommendations to improve coordination with
+service providers, strengthen data procedures, expand and standardize outcome reporting,
+enhance public transparency, and assess staffing resources needed to support these efforts. The
+City Manager’s Office agreed to our findings and recommendations. Please see our report for
+their complete response.
+
+FISCAL IMPACTS OF RECOMMENDATION
+Implementing the audit recommendations will help the City better measure the impact of the
+Homeless Response Team’s work and enhance transparency around the use of public resources.
+Improving coordination with service providers, as recommended in the audit, may require
+continued staff time to maintain regular meetings and implement shared tools like the HMIS
+Outreach module. The HRT stated that limited administrative resources constrained their ability
+to support data and reporting efforts, and a 2024 staffing study recommended additional
+administrative support, though funding was not provided. Additional resources may be needed
+to sustain improvements to coordination, data sharing, and public reporting.
+
+CURRENT SITUATION AND ITS EFFECTS
+The Homeless Response Team (HRT) is an interdepartmental team that conducts both outreach
+and enforcement at encampments in Berkeley. To help move encampment residents indoors,
+the HRT must navigate a complex regional system with limited shelter and housing resources,
+most of which are managed by the Alameda County Continuum of Care. According to the Point-
+In-Time Count and Berkeley shelter data from the audit period, there were more than twice as
+many people experiencing homelessness as there were shelter beds in Berkeley.
+
+The HRT paused some coordination meetings with service providers for over a year, which one
+provider said resulted in clients being lost after encampment actions. Although the meetings
+have resumed, the team did not have written procedures for ongoing communication or formal
+coordination structures. The HRT also had limited access to shared information systems and
+could not conduct Coordinated Entry assessments – the entry point to access Alameda County
+shelter and resources – until September 2024, which hindered their ability to connect residents
+to services.
+
+
+
+                 2180 Milvia Street, Berkeley, CA 94704 ● Tel: (510) 981‐6750 ● TDD: (510) 981‐6903
+            E‐mail: auditor@berkeleyca.gov Website: https://berkeleyca.gov/your‐government/city‐audits
+                                              Page 2 of 40
+
+
+                                                                                                  ACTION CALENDAR
+                     Homeless Response Team: Opportunities Exist to Strengthen Procedures and Better Track Outcomes
+
+
+While the HRT tracked some outcomes related to its goals—such as shelter offers, encampment
+closures, and trash removal—it did not report on other meaningful outcomes like shelter
+enrollments or Coordinated Entry assessments until after the audit period. Reports were
+cumulative and not broken down by time period, which limited the ability to assess progress.
+Reports were also difficult to locate on the City’s website. HRT staff stated that limited
+administrative resources impacted their ability to analyze and report data.
+
+BACKGROUND
+The Berkeley City Council established the Homeless Response Team in 2021 to respond to
+encampments by conducting outreach and reducing health and safety threats without citation
+or arrest. Between 2022 and 2024, unsheltered homelessness in Berkeley decreased by 45
+percent—the largest decrease among the five largest cities in Alameda County. During this time,
+the City expanded its shelter and housing programs through local funding and state grants. The
+HRT is responsible for coordinating with other departments and providers but has limited
+authority over most shelter and housing placements. The team’s work is further shaped by legal
+constraints, including recent litigation and federal rulings on encampment actions. Local
+lawsuits, administrative regulations, and the City’s September 2024 Encampment Policy
+Resolution also affect how the HRT plans and conducts encampment interventions.
+
+
+ENVIRONMENTAL SUSTAINABILITY
+There are no identifiable environmental effects or opportunities associated with this report.
+
+RATIONALE FOR RECOMMENDATION
+The audit identified opportunities for the HRT to improve coordination with service providers,
+develop stronger procedures for internal data collection and reporting, and improve public
+transparency. Implementing the recommendations will strengthen the City’s ability to track
+progress toward its goals of reducing unsheltered homelessness, mitigating hazardous
+encampments, and maintaining a clean city.
+
+CONTACT PERSON
+Jenny Wong, City Auditor, City Auditor’s Office, 510-981-6750
+
+
+Attachments:
+1: Audit Report: Homeless Response Team: Opportunities Exist to Strengthen Procedures and Better
+   Track Outcomes
+
+
+
+
+                                                                                                          Pg. 2 of 2
+                                     Page 3 of 40
+
+
+
+
+Audit Report
+Audit Report
+May 27, 2021
+July 16, 2025
+
+
+
+
+Homeless Response
+Team: Opportunities
+Exist to Strengthen
+Procedures and
+Better Track
+Outcomes
+
+
+
+
+            Jenny Wong, City Auditor
+            Erin Mullin, Audit Manager
+            Kendle Kuechle, Auditor II
+            Pauline Miller, Auditor II
+
+
+
+    Promoting transparency and accountability in Berkeley government
+                                                    Page 4 of 40
+Homeless Response Team: Opportunities Exist to Strengthen
+Procedures and Better Track Outcomes
+
+  Report Highlights                                                                            July 16, 2025
+      Findings                                                               Objectives
+  1. The Homeless Response Team (HRT) acts in both outreach and              1. What role does the Homeless
+     enforcement roles and is impacted by resource constraints in the           Response Team have in
+     City as well as regionally. To help move encampment residents              responding to encampments?
+     indoors, the HRT must navigate a complex regional system with           2. How does the Homeless
+     limited shelter and housing resources.                                     Response Team coordinate with
+  The number of people experiencing homelessness far                            other organizations to respond
+  exceeded the number of shelter beds in Berkeley in 2024.                      to encampments?
+                                                                             3. How does the Homeless
+                                                                                Response Team use data to
+                                                                                measure progress toward goals,
+                                                                                and how is this communicated
+                                                                                to the public and decision
+                                                                                makers?
+
+                                                                             Why This Audit Is
+                                                                             Important
+                                                                             We initiated an audit of the HRT
+                                                                             because it is an important
+  Source: Auditor analysis of Alameda County 2024 PIT count and Berkeley     touchpoint for encampment
+  shelter data
+                                                                             residents in Berkeley and a key
+  2. The HRT paused some coordination meetings with service                  component of the City’s approach to
+     providers due to legal action which resulted in one provider            addressing unsheltered
+     losing track of clients after encampment actions. The HRT also          homelessness. The HRT works
+     had limited access to county information systems shared by other        alongside organizations providing
+     providers and did not have procedures for collecting encampment         outreach and services to
+     data.                                                                   encampments, and effective
+                                                                             coordination is important to meet
+  3. The HRT tracked some outcomes related to their program goals
+                                                                             the needs of encampment residents.
+     during the audit period, but did not report on other meaningful
+                                                                             The Berkeley community has
+     outcomes, such as Coordinated Entry assessments or number of
+                                                                             committed to addressing this issue
+     shelter enrollments. The team’s public reports were also difficult
+                                                                             through multiple tax measures, and
+     to access on the City’s website.
+                                                                             consistent reporting with more
+                                                                             outcomes can better communicate
+      Recommendations                                                        progress toward the HRT’s goals.
+
+  To improve coordination and address data inconsistencies, we
+  recommend the HRT document procedures for coordination with
+  service providers and data collection, as well as use a shared mapping
+  tool to assist with coordination. To more effectively measure the
+  HRT’s impact and enhance transparency, we recommend they
+  expand on their reported outcomes, consider sharing public reports
+                                                                           For the full report, visit:
+  in a more accessible format and assess staffing resources needed to      https://berkeleyca.gov/your-government/
+                                                                           http://www.cityofberkeley.info/auditor
+  make these improvements.                                                 city-audits
+
+
+         Promoting transparency and accountability in Berkeley government
+                                               Page 5Exist
+                 Homeless Response Team: Opportunities of 40
+                                                           to Strengthen Procedures and Better Track Outcomes
+
+
+Table of Contents
+
+ Page 3     Introduction
+ Page 4     Objectives, Scope and Methodology
+ Page 4     Background
+ Page 13    Finding 1: The Homeless Response Team conducts outreach and enforcement
+            with limited city and county resources.
+ Page 20    Finding 2: The HRT paused some coordination meetings and had limited
+            access to shared information systems.
+ Page 25    Finding 3: The HRT can strengthen its approach to using outcomes for
+            measuring progress toward goals and keeping the public informed.
+ Page 32    Recommendations and Management Response
+ Page 36    Methodology and Statement of Compliance
+
+
+
+Introduction
+Homelessness is a major crisis in the Bay Area and throughout the United States. The United States Interagency
+Council on Homelessness (USICH) acknowledges that no local government alone has the ability or the resources
+to completely solve the problem of homelessness. Though the City of Berkeley cannot end homelessness by
+itself, meaningfully and sustainably addressing this crisis requires systems to work together, and for
+communities to acknowledge their role in contributing to and solving homelessness. In recent years, Berkeley
+residents have committed to addressing this issue through tax measures such as Measure P, Measure O, and
+Measure W, that allocate resources for purposes including new permanent housing and shelter. Berkeley’s
+unsheltered population decreased by 45 percent between February 2022 and January 2024, the largest decrease
+among the five largest cities in Alameda County.
+
+We identified the City’s response to homeless encampments as an area for independent analysis due to
+community concerns over this issue. We focused on Berkeley’s Homeless Response Team (HRT) because they
+are an important touchpoint for people experiencing unsheltered homelessness in Berkeley. While Alameda
+County manages and controls access to many homeless resources, the HRT is the interdepartmental city team
+that responds to homeless encampments in Berkeley. This audit focuses on the HRT’s operations, data, and
+reporting; it does not make any recommendations regarding the City’s encampment response policies.
+
+
+
+
+                                                        3
+                                                  Page 6Exist
+                    Homeless Response Team: Opportunities of 40
+                                                              to Strengthen Procedures and Better Track Outcomes
+
+
+Objectives, Scope, and Methodology
+Our objectives were to answer the following questions:
+      1) What role does the Homeless Response Team have in responding to encampments?
+      2) How does the Homeless Response Team coordinate with other organizations to respond to
+         encampments?
+      3) How does the Homeless Response Team use data to measure progress toward goals and how is this
+         communicated to the public and decision makers?
+
+We evaluated the HRT’s operations between July 1, 2021 – June 30, 2024 (fiscal years 2022 – 2024). We also
+reviewed the HRT’s policies, data, outcomes, and public reporting. Additionally, we compared data and
+outcomes to best practices from research organizations and other jurisdictions. Lastly, we interviewed city and
+county officials, third-party outreach providers and homeless advocates to understand collaboration on
+encampment response efforts.
+
+
+Background
+The Berkeley City Council established the HRT in June 2021, and the City Manager’s Office launched the team
+in September 2021. The HRT’s initial stated purpose was to respond to homeless encampments in Berkeley by
+performing sustained outreach to move people indoors, simultaneously reducing the impact of encampments on
+the City with actions such as cleanings or closures that reduce health and safety threats while avoiding citation
+and arrest.
+
+Unsheltered homelessness is the result of the nationwide affordable housing crisis that stems from a
+combination of increasing rates of deep poverty and a lack of affordable housing.1 Berkeley uses the federally
+required point-in-time (PIT) counts to estimate the homeless population, which includes unsheltered and
+sheltered individuals.2 Every two years, communities conduct counts of people experiencing homelessness to
+measure its prevalence locally. In the January 2024 PIT count in Berkeley, the primary reported causes of
+homelessness were related to housing loss (33 percent) and job loss (39 percent) among those surveyed (Figure
+1).
+
+
+
+
+1 According to the U.S. Department of Housing and Urban Development (HUD), a person is considered to be experiencing unsheltered
+
+homelessness when they are living in a place not meant for human habitation, including in a tent or impermanent structure within an
+encampment.
+2 To measure the sheltered homeless population, Alameda County uses reported occupancy data to count the number of individuals in
+
+emergency shelter or transitional housing within Alameda County on the night of the PIT count.
+                                                                  4
+                                                   Page 7Exist
+                     Homeless Response Team: Opportunities of 40
+                                                               to Strengthen Procedures and Better Track Outcomes
+
+
+Figure 1. Primary Causes of Homelessness Among Berkeley’s Homeless Population, 2024
+
+
+
+
+Source: Alameda County 2024 PIT Count
+
+Structural racism also contributes to homelessness, as Black/African American and Hispanic & Latino/e/a
+individuals are overrepresented among the homeless population nationwide. In Berkeley’s PIT count,
+Black/African American residents were 43.8 percent of the homeless population surveyed, compared to only 7.8
+percent of Berkeley’s total population (Figure 2).
+
+Encampments refer to individuals or households who are involuntarily unhoused and use temporary shelters,
+such as tents, or accumulate large objects on public or City property, according to the HRT’s working
+definition.3 People experiencing homelessness may choose to live in encampments for a variety of reasons,
+including limited shelter availability or barriers such as shelter rules or conditions that may not meet their
+needs. For example, some shelters may have strict entry or exit times, or sobriety requirements. Additionally,
+some individuals may have concerns about personal health and safety in shelters, or value the autonomy,
+privacy, and sense of community in encampments.4
+
+However, life in encampments also presents significant risks, including hunger, disease, extreme weather, and
+violence. Many people living in encampments experience disabling conditions, such as mental or physical health
+conditions, or substance use disorders. Among those surveyed as part of Berkeley’s most recent PIT count, 43
+percent of people reported having a serious mental illness and 26 percent reported having a substance use
+disorder (Figure 2).5
+
+
+
+
+3 The definition for encampments varies by jurisdiction, as HUD does not have a standard definition for encampments.
+
+4 A February 2025 investigation by CalMatters found allegations of abuse and dangerous conditions in some California homeless shelters
+(‘A volunteer jail’: Inside the scandals and abuse pushing California’s homeless out of shelters).
+5 While some homeless Berkeleyans live in encampments, others may live in other sheltered or unsheltered situations. Berkeley’s total
+encampment population is unknown.
+                                                                      5
+                                               Page 8Exist
+                 Homeless Response Team: Opportunities of 40
+                                                           to Strengthen Procedures and Better Track Outcomes
+
+
+Figure 2. Characteristics of Berkeley’s Homeless Population, 2024
+
+
+
+
+Source: Alameda County 2024 PIT Count
+
+A 2023 statewide study of homelessness in California conducted by the University of California San Francisco
+acknowledges that for individuals, housing solves homelessness. Interview subjects experiencing homelessness
+expressed a high level of interest in obtaining permanent housing. As one participant explained:
+
+       I just want to get in a place. This pain that I’m feeling, emotional and physical pain, you know. If
+       I can just get beyond that, most of it would be solved by getting in a place. I’d be so happy to be in
+       my own place.
+
+                                                         6
+                                                    Page 9Exist
+                      Homeless Response Team: Opportunities of 40
+                                                                to Strengthen Procedures and Better Track Outcomes
+
+
+Participants in the study explained that permanent housing would provide the stability they need to find
+employment and address physical and behavioral health challenges.6 These findings highlight that access to
+affordable housing is crucial in reducing homelessness.
+
+The HRT is a key component of the City’s approach to addressing unsheltered homelessness, though it is only
+one piece of a larger regional system. While the HRT’s role is to respond to encampments, encampments will
+continue to exist unless sufficient resources are available to prevent people from losing their housing and
+permanently house those already experiencing homelessness. Although homelessness prevention is not the
+focus of the HRT’s work, it is part of the City’s broader homelessness strategy. By focusing on encampments, the
+HRT addresses the visible symptoms of a problem that is much larger than Berkeley itself. The team does not
+have the resources to solve homelessness on its own.
+
+
+Berkeley’s unsheltered population decreased by 45 percent between 2022 and
+2024.
+Unsheltered homelessness in Berkeley decreased by 45 percent from February 2022 to January 2024 according
+to the Alameda County PIT count, which was the largest decrease compared to the five largest cities in Alameda
+County (Figure 3).
+
+Figure 3. Change in Number of Unsheltered Individuals in Alameda County’s Five Largest Cities,
+2022 to 2024
+
+                                                                    Change in Number of
+                  City              2022            2024                                          Percent Change
+                                                                   Unsheltered Individuals
+
+         Berkeley                        803             445                            -358                     -45%
+
+         Fremont                         866             612                            -254                     -29%
+
+         San Leandro                     312             228                             -84                     -27%
+
+         Hayward                         267             278                            +11                      +4%
+
+         Oakland                       3,337           3,659                           +322                     +10%
+
+
+Source: Auditor analysis of Alameda County 2024 PIT Count
+
+
+
+
+6 Toward a New Understanding: The California Statewide Study of People Experiencing Homelessness (UCSF Benioff Homelessness and
+Housing Initiative)
+                                                               7
+                                               Page 10
+                  Homeless Response Team: Opportunities   of to
+                                                        Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+Berkeley’s reduction in the number of unsheltered individuals coincides with increased funding to address
+homelessness. As a result, Berkeley has been able to open new facilities providing shelter, transitional housing
+and permanent housing. The City has also used tax measure funding to apply for and receive state grants to
+address homelessness.
+
+The recent reduction in unsheltered homelessness is significant, especially considering that the City does not
+exist in a vacuum–regional conditions affect the City’s ability to completely eradicate homelessness. For
+example, the needs of unsheltered residents in other Bay Area cities impact Berkeley, as many resources are
+shared regionally and predominantly allocated at the county level.
+
+
+HRT Staff and Funding
+The HRT operates within the Neighborhood Services Division of the City Manager’s Office and is overseen by an
+Assistant to the City Manager, who also manages the Animal Services, Code Enforcement, and Special Events
+units, and oversees homeless policy for the City. The HRT includes a Homeless Response Team Coordinator,
+two Social Services Specialists, and a Homeless Services Coordinator (Figure 4).
+
+Figure 4. Homeless Response Team Organization Chart
+
+
+
+
+Source: City Manager’s Office
+
+The HRT also coordinates with other departments to respond to encampments, including Health, Housing and
+Community Services; Parks, Recreation and Waterfront; Public Works; Police; Fire; and the City Attorney’s
+Office.
+
+
+
+
+                                                        8
+                                                  Page 11
+                     Homeless Response Team: Opportunities   of to
+                                                           Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+According to HRT staff, they learn about encampments and related issues through multiple channels, including
+HRT outreach staff, referrals from other city departments, and public calls to 311. The number of cases assigned
+to the HRT from 311 increased from 880 cases in fiscal year 2022 to 1,090 cases in fiscal year 2024 (Figure 5).7
+This audit did not explore why 311 calls increased while the number of unsheltered individuals in Berkeley
+decreased.
+
+Figure 5. 311 Cases Assigned to the Homeless Response Team per Fiscal Year
+
+
+
+
+                                                                                               1090
+                                      880
+                                                                   743
+
+
+
+                                      FY 22                       FY 23                        FY 24
+
+Source: Auditor analysis of 311 cases from Berkeley Department of Information Technology
+
+
+
+
+7 These figures reflect only the cases reported through the 311 system, which does not capture the team’s entire workload. Additionally,
+some of these cases may represent multiple reports for the same issue.
+                                                                    9
+                                                  Page 12
+                     Homeless Response Team: Opportunities   of to
+                                                           Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+According to the City Manager’s Office, the City spent $35 million on homelessness-related activities in fiscal
+year 2024.8 This total included homelessness prevention, establishing new permanent housing, addressing
+street conditions and hygiene at encampments, and providing shelter. Measure P is the largest source of funding
+for homelessness programs, while other funding comes from federal, state or other local funds (Figure 6).9 The
+HRT had $1.1 million in total budgeted Measure P expenses in 2024, based on the City’s adopted budget, and
+includes expenses in the City Manager’s Office as well as the Police, Public Works, and Parks departments.10
+This made up just 3 percent of the $35 million total.
+
+Figure 6. Fiscal Year 2024 Spending by Dedicated Homeless Service Funding Source in the City
+of Berkeley, in Millions
+
+                                          Measure P Total
+                                              $23.1
+
+
+
+                                                                                                                                               Fed.
+HRT                                       Other Measure P                                        Other local funds       State grants
+                                                                                                                                              funds
+$1.1                                           $22.0                                                    $4.2                 $6.3
+                                                                                                                                               $1.4
+
+
+
+
+Note: The $1.1 million HRT total refers to the HRT’s total Measure P expenditures for fiscal year 2024. This figure does not
+include HRT salaries not paid through Measure P.
+
+Source: City Manager’s Office
+
+The City of Berkeley also receives funding from the State. For example, Berkeley was awarded $5.4 million in
+Encampment Resolution Funding in October 2024. Berkeley received three rounds of this funding between
+2022 and 2024, totaling approximately $15 million. Outside of Berkeley’s funding sources, the Department of
+Housing and Urban Development (HUD) has provided funding for homeless services that flows through local
+Continuums of Care (CoCs). Berkeley belongs to the Alameda County Continuum of Care.11
+
+
+
+
+8 Most HRT salaries were paid through the General Fund and are not included in $35 million total. We did not assess the extent to which
+there are additional homelessness-related costs outside of this total.
+9 The 2018 ballot Measure P increased the City's tax on high-value real property transfers from 1.5 percent to 2.5 percent in order to fund
+general municipal services including shelters, navigation centers, physical and mental health supports, rehousing, and other services for
+people experiencing homelessness. In 2024, Measure W made the tax permanent and introduced tiered rates to ensure future funding for
+homeless services.
+10 Measure P is a general tax, meaning it was approved by a simple majority of voters and its revenues can be used on any programs or
+services. In the City’s 2024 budget, Measure P revenues were included in the General Fund revenue projections but are removed from the
+General Fund baseline to reflect their policy-directed use. Although Measure P revenues were part of the City’s overall General Fund,
+they were tracked separately for policy purposes.
+11 A Continuum of Care (CoC) is a regional or local planning body required by HUD to organize and deliver housing and services to meet
+the specific needs of people who are homeless as they move to stable housing. CoC refers to the system for coordinating programs that
+address and prevent homelessness within a geographical region.
+                                                                     10
+                                                  Page 13
+                     Homeless Response Team: Opportunities   of to
+                                                           Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+The legal landscape shapes the City’s encampment actions.
+
+The HRT’s work is also informed by laws, legal precedents, and court orders, along with City ordinances and
+policies (Figure 7). The legal landscape that the City operates under includes:
+
+Figure 7. Legal Landscape for Encampment Actions
+
+
+
+
+                               Laws, Legal Precedents, and Court                                   City Ordinances
+                               Orders                                                              and Policies
+
+                   U.S. Constitution and statutes                                      Berkeley Homeless
+                   California Constitution and statutes                                 Response Team’s internal
+                   Martin v. Boise (overruled by Grants Pass)                           policy
+                   City of Grants Pass v. Gloria Johnson et al.                        Berkeley City Council
+                   Lawsuits against the City:                                           Encampment Policy
+                         o   2019 - Sullivan v. City of Berkeley                         Resolution
+                         o   2021 - Dominguez v. City of Berkeley                       Berkeley Administrative
+                         o   2022 - Galtney v. City of Berkeley                          Regulations 10.1 and 10.2
+                         o   2023 - Prado v. City of Berkeley                           Berkeley Municipal Code
+                         o   2023 - Parnell v. City of Berkeley
+                         o   2024 - Dennison v. City of Berkeley
+                         o   2024 - Fisher v. City of Berkeley
+                         o   2025 - Berkeley Homeless Union v. City
+                             of Berkeley (Harrison Corridor)
+                         o   2025 - Berkeley Homeless Union v. City
+                             of Berkeley (Ohlone Park)
+
+Source: Auditor analysis of relevant laws, legal precedents, court orders, city ordinances and policies; information on
+lawsuits provided by the City Attorney’s Office
+
+The HRT's internal policy guiding their efforts emphasizes eliminating the worst health and safety impacts with
+non-criminal interventions. This policy was developed within the framework of the Ninth Circuit Martin v.
+Boise decision (2018), which required jurisdictions to offer shelter to residents before closing encampments.12
+
+
+
+
+12 This policy also referenced the USICH guidance available at the time, which provides strategies for addressing encampments; updated
+federal guidance has since been released.
+                                                                  11
+                                               Page 14
+                  Homeless Response Team: Opportunities   of to
+                                                        Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+In June 2024, the Supreme Court altered the legal landscape with its ruling in City of Grants Pass v. Gloria
+Johnson et al., which upheld a city’s ability to enforce public camping bans without providing shelter. Following
+this decision, the Berkeley City Council adopted an Encampment Policy Resolution in September 2024. This
+policy affirmed Berkeley’s continued commitment to offer interim shelter when closing an encampment, but
+allowed for exceptions in six specific situations, such as environmental, fire or safety hazards.
+
+All encampment actions must still adhere to federal and state constitutional protections. This includes the
+Fourth Amendment, which guards against unreasonable searches and seizures, and the Fourteenth
+Amendment, which ensures due process before the government may deprive any person of life, liberty or
+property. Encampment actions must also comply with the Americans with Disabilities Act.
+
+Local legal challenges have also affected the City’s encampment operations. The City has been sued multiple
+times over their encampment actions. In some of those cases, Temporary Restraining Orders were filed against
+the City, which delayed the HRT’s planned encampment actions.
+
+City policies and ordinances also impact how the HRT responds to encampments. For example, Administrative
+Regulation 10.1 requires city staff to store property for at least 14 days, with a longer retention period of 45 days
+for shelter-related items such as tents and sleeping bags. The regulation also requires city staff to provide at
+least 24 hours’ notice before removing unattended property. Administrative Regulation 10.2 provides guidance
+around objects placed on sidewalks or parklets. Berkeley Municipal Code ordinances additionally impact the
+HRT’s work in encampments (see page 14).
+
+Together, these policies and legal cases influence how the HRT plans and carries out encampment actions.
+
+
+
+
+                                                         12
+                                               Page 15
+                  Homeless Response Team: Opportunities   of to
+                                                        Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+
+The Homeless Response Team conducts outreach and
+enforcement with limited city and county resources.
+The HRT works in partnership with other city departments and divisions to respond to encampments, operating
+in both an outreach and enforcement role. The HRT works within a complex regional system, with limited
+control over shelter and housing referrals managed by the Alameda County CoC. Their efforts are impacted by
+resource limitations at both the county and city levels.
+
+
+The Homeless Response Team acts in both outreach and enforcement roles.
+The HRT carries out a range of actions to respond to encampments, operating in both an outreach and
+enforcement role (Figure 8). The HRT works with other departments and divisions across the City to address
+encampments.
+
+Figure 8. Homeless Response Team Encampment Interventions
+
+            Intervention                                                     Description
+
+ Outreach       Shelter Referrals       Refer individuals to shelter based on availability
+                                        Perform Coordinated Entry assessments
+                Health and Hygiene      Provide dumpsters and voluntary trash removal, toilets and wash stations, mobile
+                                         showers and laundry
+ Enforcement    Public Noticing         Provide Berkeley Municipal Code notices
+                                        Encourage individuals to voluntarily relocate or comply with rules
+                Deep Cleaning           Remove excess debris, trash and/or hazardous materials
+                                        Provide pest control treatments
+                                        Perform street sweeping
+                                        Pressure wash sidewalks
+                                        Provide belongings storage
+                Closure                 Remove debris, tents, and/or other items
+                                        Require relocation of individuals and their possessions
+                                        Provide belongings storage
+
+
+Note: The HRT works in partnership with other departments and divisions to perform this work, including the
+Environmental Health Division, Fire Department, Police Department, Public Works Department, and others.
+Source: Homeless Response Team, City Policy
+
+
+
+
+                                                             13
+                                                  Page 16
+                     Homeless Response Team: Opportunities   of to
+                                                           Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+According to the HRT’s internal policy, the HRT evaluates encampments and categorizes their encampment
+interventions into low, medium, and high priority levels. The policy does not specify the types of interventions –
+such as health and hygiene interventions, public noticing, deep cleanings or closures – used for each priority
+level. The highest priority encampments for intervention contain severe hazards such as fire risks or raw
+sewage, according to the policy. The HRT has stated that limited staff resources across partner departments
+affect the number of operations they can conduct.
+
+Per HRT staff, the team provides outreach to encampments by visiting encampment sites and trying to connect
+people to services, sometimes coordinating with other service providers to do this work. The team can also refer
+people to available shelter beds or provide other support such as transportation assistance.
+
+The team follows Berkeley Municipal Code for enforcement actions, according to the HRT. These ordinances
+specify that residents cannot be in city parks after a certain hour or have a large structure in a park without a
+city permit. Other ordinances ban residents from camping on a roadway median, or obstructing sidewalks with
+belongings or other items.13
+
+Given the scope of the HRT’s work, they face challenges balancing the interests of the Berkeley community, as
+their outreach efforts may conflict with their role as an enforcement team. For example, people who work with
+the unsheltered population have stated that closing encampments can be destabilizing for encampment
+residents and interrupt their care. As one health professional stated:
+
+     Displacement is a huge barrier in continuity of care. It’s traumatic to move people around a lot. To get
+     people into housing when they match [with an available housing spot], you need to be able to find them.
+
+
+At the same time, other groups in Berkeley have advocated for encampment closures due to concerns including
+health and safety hazards or business impacts. The tension between these different public interests has played
+out in multiple court filings. In 2023, the City of Berkeley was sued over an encampment on Harrison Street,
+where the plaintiffs made several allegations against the City including that the City’s attempt to close the
+encampment violated their rights under the Americans with Disabilities Act (Prado v. City of Berkeley). That
+same encampment was also the subject of a separate lawsuit in 2024 filed by a group of businesses and property
+owners, claiming the City failed to address nuisances at the encampment and close it in a timely manner
+(Dennison et al v. City of Berkeley).14
+
+
+
+
+13 The Berkeley Municipal Code ordinances guiding the HRT’s encampment enforcement are BMC 6.32.030 (Park Rules), BMC
+14.32.040 (Medians), BMC 14.48.020 (Sidewalks), and BMC 14.48.120 (Objects).
+14 For a complete list of lawsuits affecting the City’s encampment actions, see Figure 7 on page 11.
+
+                                                                     14
+                                              Page 17
+                 Homeless Response Team: Opportunities   of to
+                                                       Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+To access most shelter and housing resources, the HRT must navigate a complex
+regional system with limited resources.
+Despite the significant responsibility the HRT has over city encampments, they have limited control over
+referrals for shelter and housing resources, most of which are overseen by the Alameda County Continuum of
+Care (CoC). The process to access shelter or resources through the CoC is complex: to access resources,
+individuals must undergo a Coordinated Entry assessment through one of the CoC-designated access points
+(Figure 9). These assessments evaluate factors like age, homeless status, and health to develop an assessment
+score and prioritize services and resources. Individuals who meet a certain threshold score can be placed in
+either the interim housing queue for emergency shelters or transitional housing, or the permanent housing
+queue. Individuals who do not meet the threshold score may be referred to other resources such as affordable
+housing waitlists or funds for move-in costs. This scoring system attempts to allocate limited resources
+equitably in the CoC.
+
+Figure 9. Alameda County Coordinated Entry Workflow
+
+
+
+
+Source: Alameda County Continuum of Care website
+
+
+
+
+                                                       15
+                                                Page 18
+                   Homeless Response Team: Opportunities   of to
+                                                         Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+However, a 2022 report by the Alameda County CoC noted that limited shelter and housing caused long wait
+times and made it harder for people to get connected to the help they need through Coordinated Entry. A
+consultant report for the City of Berkeley reported that people referred to a permanent housing program in the
+north Alameda County region, which includes Berkeley, spent an average of nine months in the permanent
+housing queue between July 2022 and March 2024. Only 22 percent were housed after one year in the queue.
+Interim housing in Alameda County, including shelters, has an estimated average wait time of 70 days according
+to the CoC’s analysis. The lack of resources can be a frustrating experience, as one unhoused person explained in
+an evaluation of Alameda County CoC:
+
+      There’s no resources out here…And what about the people who have already gone through all the
+      resources and don’t qualify? ...I am at the end of my rope. I don’t know what to do anymore.
+
+
+The City of Berkeley’s homeless encampment response extends beyond the HRT and other departments and
+divisions supporting their work. The HRT works alongside other organizations providing outreach and services
+to encampments, including contracted service providers and additional organizations providing services to
+encampments that are not funded by the City of Berkeley or the Alameda County CoC (Figure 10).
+
+Figure 10. City of Berkeley Street Outreach and Shelter Referral System
+
+
+
+
+       1. Street outreach is one method of reaching unsheltered individuals. Outreach workers can provide services and/or connect individuals to
+       shelter resources.
+
+       2. Along with the HRT, Berkeley contracts with other organizations that provide services to encampments, including Bay Area Community
+       Services (BACS) and Options Recovery Services. These organizations receive full or partial funding from the City. There are other
+       organizations providing street outreach in Berkeley that are not affiliated with the City.
+
+       3. Once entered into Coordinated Entry, eligible participants are placed into the Interim Housing Queue and/or the Permanent Housing
+       Queue. Alameda County CoC uses these queues to refer people to available resources.
+
+Source: Auditor analysis of City of Berkeley and Alameda County resources
+
+
+
+                                                                      16
+                                                Page 19
+                   Homeless Response Team: Opportunities   of to
+                                                         Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+Both the CoC and the HRT make shelter referrals based on the availability of shelter beds. According to the PIT
+count, there were 844 people experiencing homelessness in Berkeley on one night in January 2024, and 445 of
+those people were unsheltered. In August 2024, there were only 320 shelter beds in Berkeley, meaning there
+were more than two times as many people experiencing homelessness on any one night as there were shelter
+beds in Berkeley (Figure 11). These limited resources impact the HRT’s ability to help get unsheltered residents
+inside.
+
+Figure 11. The Number of People Experiencing Homelessness Far Exceeded the Number of
+Shelter Beds in Berkeley in 2024.
+
+
+
+
+Note: The number of people experiencing homelessness comes from the PIT count and is a snapshot in time from a single
+night. It does not reflect the total number of people experiencing homelessness throughout the year. These bed numbers
+provided by the HRT are from August 2024 and do not include the City’s 40 inclement weather shelter beds. We did not
+assess shelter utilization rates, which can change daily as residents move in and out of shelters. A consultant report for the
+City of Berkeley indicated that Berkeley shelters operated at an average capacity of 82% between January and February
+2024.
+Source: Auditor analysis of Alameda County 2024 PIT count and Berkeley shelter data
+
+As of August 2024, of the 320 shelter beds in Berkeley, the HRT had direct referral authority for 56 beds
+managed by the City, funded by a combination of state Encampment Resolution Funding (ERF) grants and
+Measure P funds. Berkeley also shares access to 264 shelter beds managed by the Alameda County CoC, but
+referrals for those beds are outside the HRT’s direct control (Figure 12).
+
+
+
+
+                                                              17
+                                               Page 20
+                  Homeless Response Team: Opportunities   of to
+                                                        Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+Figure 12. The Alameda County CoC controls referrals for most shelter beds in Berkeley.
+
+
+
+
+Note: These numbers provided by the HRT are from August 2024 and do not include the City’s 40 inclement weather
+shelter beds.
+
+Source: Berkeley shelter data
+
+Berkeley has made strides in increasing the amount of available shelter. According to the 2024 consultant
+report, the City more than tripled the supply of non-congregate (private) shelter beds since 2021. The same
+report noted the City increased its permanent housing supply by nearly one hundred beds between 2022 and
+2023.
+
+Still, due to system-wide limited bed availability and the HRT’s lack of control over most shelter and permanent
+housing referrals, the HRT must rely heavily on the CoC’s prioritization policies for housing and shelter
+resources. According to the HRT, these do not always align with Berkeley’s local needs. In a memo to Alameda
+County, the HRT requested the CoC prioritize housing resources for some residents of an encampment the HRT
+flagged as posing health and safety risks, but the CoC denied that request. This example shows that the HRT has
+limited flexibility in targeting housing resources to specific encampments in Berkeley.
+
+
+Limited city resources and legal issues also impact the HRT’s work in encampments.
+In addition to the CoC’s limitations in connecting unsheltered Berkeley residents to shelter and housing
+resources, resource constraints within the City also impact the HRT’s ability to address encampments.
+
+
+
+
+                                                         18
+                                              Page 21
+                 Homeless Response Team: Opportunities   of to
+                                                       Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+The HRT works with other departments and divisions in the City to respond to encampments and the
+availability of resources like staff and equipment can impact the HRT’s ability to conduct encampment
+interventions. Berkeley does not have staff dedicated to addressing encampments in every department, and staff
+in other departments and divisions balance encampment work with their regular workloads and other priority
+operations within the City. According to the Public Works Department, staff help with clearing, picking up and
+removing waste at encampments and use large equipment, like trucks, street sweepers, and backhoes to do this
+work. Since equipment is used to address various operational and service needs throughout the City, the
+availability of equipment – like a backhoe being used for street repair or vector truck being used for sewer line
+cleaning – can impact encampment operations.
+
+The rise in encampment-related lawsuits also affects staff time, based on estimates provided in May 2025. The
+HRT states that staff spend an estimated 10-15 percent of the work week responding to legal issues, which
+impacts their ability to conduct work in encampments. This also impacts staff outside of the HRT. According to
+the City Attorney’s Office, their staff spend an average of 1o to 40 hours a week per attorney responding to
+encampment-related legal matters.
+
+
+
+
+                                                        19
+                                              Page 22
+                 Homeless Response Team: Opportunities   of to
+                                                       Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+
+The HRT paused some coordination meetings and had
+limited access to shared information systems.
+During the audit period, the HRT paused some coordination meetings with service providers due to legal action
+over one encampment. The meetings were paused for over a year and have since resumed. According to one
+provider, without these meetings, they lost track of clients after encampment actions. Further, the full team had
+delayed access to countywide information systems which hindered their ability to connect encampment
+residents to shelter and resulted in challenges sharing information with other providers. The HRT also lacked
+internal procedures on encampment data collection. There are opportunities to improve coordination through
+use of a shared encampment mapping tool with service providers.
+
+
+The HRT paused some coordination meetings with service providers for one year
+during the audit period and did not have written procedures for ongoing
+communication.
+The HRT paused weekly case conference meetings with service providers for over a year, from October 2023 to
+September 2024. The HRT claimed the meetings were tied to a location-specific encampment closure, and that
+encampment closure was suspended when a lawsuit was filed against the City in 2023. However, data shows
+that encampment interventions took place at other sites during that time. These weekly case conference
+meetings included medical providers, behavioral health providers, homeless advocates, shelter staff, and other
+homeless service organizations. According to one medical provider, these meetings were helpful to coordinate
+care across multiple agencies for encampment residents around the City.
+
+According to the HRT, there were opportunities to coordinate care through other departments such as HHCS.
+However, during the pause in these case conference meetings, one provider reported not receiving enough
+information about the City’s planned encampment actions. According to this provider, there were instances
+where they lost track of their clients after the City’s encampment actions. When there are pauses in
+coordination, important information about residents’ needs can be missed. Providers such as street medicine
+teams and harm-reduction workers often have key insights that can improve service connections.
+
+These case conference meetings have since resumed, though the HRT does not have written procedures that
+could ensure continued communication with service providers. There is no standardized process for this
+communication or any formal coordination structure defining roles and responsibilities. This conflicts with
+guidance from USICH, which recommends having protocols and establishing clear communication strategies
+when multiple agencies are involved. USICH highlights specific strategies for coordination, which include:
+
+          Empowering outreach teams and health providers to lead efforts and including a broad range of
+           outreach and provider teams in planning and decisions.
+          Identifying the key organizations and decision makers to convene and communicate with regularly.
+
+                                                       20
+                                              Page 23
+                 Homeless Response Team: Opportunities   of to
+                                                       Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+Restarting regular case conference meetings with service providers is one step the HRT has taken that aligns
+with recommended strategies. However, given the number of organizations working to support unhoused
+residents in Berkeley, stronger coordination could help ensure no providers are left out of planning and that
+services are better aligned with residents’ needs.
+
+
+              While outside the scope of our audit, data-sharing limitations are a broader issue
+              within the region’s homelessness response. Though federal HIPAA laws allow
+              providers to share some information about clients to help coordinate care,
+              California state law has more restrictions on that information. California state law
+              prohibits exchanging information about clients’ substance use or mental health
+              issues without a signed release and can therefore be a barrier to providing
+              appropriate services. In 2017, California law AB 210 passed which allows counties
+              to establish multidisciplinary teams to share client-level data under privacy
+              obligations. Establishing a memorandum of understanding for information sharing
+              would allow providers involved in different stages of the homeless response system
+              to develop a specific treatment plan for unhoused individuals and connect them
+              with the right services and housing. San Mateo and Sonoma Counties have both
+              implemented a protocol along these lines that could serve as useful models for
+              Alameda County. Since Berkeley operates its own health department independently
+              from the County, the City has advocated amending state law to let cities, in addition
+              to counties, adopt similar memorandums.
+
+
+
+
+                                                       21
+                                                 Page 24
+                    Homeless Response Team: Opportunities   of to
+                                                          Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+The HRT had limited access to information systems through the County, hindering
+their ability to effectively coordinate services.
+During the audit period, the HRT had limited access to the Homeless Management Information System (HMIS),
+which is critical for securely sharing information across organizations.15 Organizations connected to the
+Alameda CoC use HMIS as mandated by HUD, which oversees CoCs across the country. Providers with the
+ability to conduct Coordinated Entry assessments for clients input these assessments into HMIS, which is the
+data system used for all Coordinated Entry activities in Alameda County. However, the HRT stated the team did
+not gain entry to HMIS until December 2022. Before then, HRT staff stated they could not access key client
+data, such as Coordinated Entry assessments, past program enrollments, and notes from care providers.
+According to the HRT, not having access to HMIS made it difficult for staff to connect clients to the appropriate
+resources.
+
+Instead, the HRT stored most of their data in Excel sheets, which were not readily accessible to other providers.
+We observed some gaps in the HRT’s internal data, including the number of tents and structures in
+encampments, the number of people in encampments, and the number of Coordinated Entry referrals. The HRT
+has transitioned most of its client-level data into HMIS and has developed procedures for how staff should track
+interactions with encampment residents. However, we did not review any procedures that detail what
+information the HRT will collect on encampments, or how they will maintain data accuracy. Internal procedures
+on what data should be collected could help guide the HRT’s efforts in coordinating with providers.
+
+Even after gaining access to HMIS, the system lacked a reliable tool to track or map encampments. According to
+the HRT, a new tool – the Outreach module – was still in testing and unreliable during the audit period. The
+Outreach module is a map-based program that allows providers to record and view location information about
+individuals and encampments in HMIS. The module allows providers to add location and encampment data to
+client profiles. San Mateo County reported that using the Outreach module allows them to keep track of the
+number of people at each encampment as well as their willingness to work with outreach teams. While the
+Alameda County CoC does not use the Outreach module widely, San Mateo County has successfully configured
+it to track encampment-level information. Berkeley has access to the Outreach module and started using it for
+some encampments in 2022 according to the HRT.
+
+
+
+
+15 The Homeless Management Information System (HMIS) is a local information technology system used to collect client-level data and
+data on the provision of housing and services to individuals and families at risk of and experiencing homelessness. Each CoC is
+responsible for selecting an HMIS software solution that complies with HUD's data collection, management, and reporting standards.
+                                                                 22
+                                                  Page 25
+                     Homeless Response Team: Opportunities   of to
+                                                           Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+Without a shared mapping tool for providers, it may have been difficult for providers to locate encampments
+and provide targeted outreach. According to one contracted outreach provider, it was sometimes difficult to
+locate clients after a referral from the HRT. The provider indicated a map system would be helpful to identify
+people for services. Clear standards can also help ensure client data is reliable with many different providers
+using HMIS and the Outreach module across the CoC. USICH best practices recommend setting standards
+across outreach teams for the kind of data that needs to be collected, as well as using mapping tools to identify
+outreach coverage and gaps.16 While the transient nature of the population means there can be difficulties
+locating people, a mapping tool and shared protocols can mitigate some of these effects.
+
+Alameda County also did not grant the HRT or other teams the ability to conduct Coordinated Entry
+assessments – the entry point into Alameda County services and shelters – until September 2024 (Figure 13).17
+This meant they had to contact another organization with Coordinated Entry access to do these assessments. As
+a result, the HRT could not take the first step needed to connect individuals to CoC services, including the 264
+county-run shelter beds located in Berkeley.
+
+Figure 13. Data Access Timeline
+
+
+
+
+Note: Though HRT gained access to HMIS in December 2022 and could view clients’ Coordinated Entry assessments, they
+could not perform these assessments themselves until September 2024.
+Source: City Manager’s Office
+
+The lack of a centralized information system resulted in limited coordination among providers. The additional
+step of having HRT coordinate with a separate provider to get clients into the Coordinated Entry system may
+have increased wait times to access resources. According to one HRT staff member, before they had Coordinated
+Entry access, they had to refer a client to another provider 50 percent of the time because that client did not
+have an updated assessment.
+
+
+
+
+16 USICH also recommends convening outreach teams with people experiencing homelessness and data experts to decide what data
+needs to be collected.
+17 Alameda County granted multiple teams - such as mental health clinics, schools, hospitals or outreach teams - access to Coordinated
+Entry in September 2024 as part of their first Limited Access Point cohort.
+                                                                   23
+                                              Page 26
+                 Homeless Response Team: Opportunities   of to
+                                                       Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+According to Alameda County officials, the delay in granting HRT access to Coordinated Entry was due to the
+County’s limited capacity to ensure proper training for a large number of users. However, best practices
+recommend ensuring all outreach teams are integrated within the larger homelessness system of care and
+Coordinated Entry process. According to the HRT, their persistent advocacy to Alameda County convinced the
+County to grant the HRT access to data systems, aligning with best practices.
+
+
+Recommendations
+ To avoid future lapses in communication with service providers, the HRT should:
+
+
+ 2.1    Document the coordination structure for encampment-related meetings. Continue to meet regularly
+        with key participants as identified by the City for all encampment outreach and interventions.
+
+ To address inconsistencies in data collection, the HRT should:
+
+
+ 2.2    Develop and document internal procedures for collecting data on HRT activities and encampments.
+        Include plans for regular review for data accuracy.
+
+ To address gaps in data sharing with service providers, the HRT should:
+
+
+ 2.3    Fully transition to the Outreach module and work with HHCS to consider including the module in
+        contracts with city-funded outreach teams who work with encampment residents. As part of this
+        recommendation, consider developing shared procedures for how HRT and city-funded outreach
+        teams can use the data to inform delivery of services.
+
+
+
+
+                                                       24
+                                               Page 27
+                  Homeless Response Team: Opportunities   of to
+                                                        Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+
+The HRT can strengthen its approach to using outcomes for
+measuring progress toward goals and keeping the public
+informed.
+The three goals guiding the HRT’s work in encampments were to reduce unsheltered homelessness, mitigate
+dangerous encampments, and maintain a clean City. The HRT tracked some outcomes related to these program
+goals during the audit period but reported information cumulatively which made it difficult to identify trends
+over time. They also did not report on other outcomes that could connect to their goal of reducing unsheltered
+homelessness, though they expanded on reported outcomes in a May 2025 report to Council. Going forward, it
+will be important for the HRT to consistently report on these outcomes related to their goals. Additionally, the
+HRT could improve the accessibility of their public reporting. Limited administrative staffing may constrain the
+HRT’s ability to collect, measure and report data, though it is important to fill gaps where possible.
+
+
+Reporting on more outcomes with consistency could help connect the HRT’s work
+with their goals, but additional resources may be needed.
+The HRT tracked some outcomes related to their program goals during the audit period. The
+three goals guiding their work in encampments were: our residents are sheltered, dangerous encampments are
+not inevitable, and our City is clean. To assess progress towards those goals, the HRT tracked the outcomes
+listed in the table below (Figure 14).
+
+
+
+
+                                                        25
+                                                  Page 28
+                     Homeless Response Team: Opportunities   of to
+                                                           Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+Figure 14. Homeless Response Team Goals and Outcomes
+
+         Goals                              Outcomes                                     Reported Results
+     Our residents     Percentage of people connected to shelter           655 offered shelter and 303 accepted shelter
+     are sheltered                                                         (46% acceptance rate), measured cumulatively
+                                                                           over the duration of the program.
+                       Percentage of people matched to housing resources   20% of HRT clients exit to permanent housing
+                                                                           situations, measured cumulatively over the
+                                                                           duration of the program.
+     Dangerous   Number of notices given                                   1405 notices, measured cumulatively over the
+     encampments                                                           duration of the program.
+     are not
+     inevitable
+
+                       Number of encampment closures                       59 closures, measured cumulatively over the
+                                                                           duration of the program.
+     Our City is       Pounds of trash and debris removed                  1 million pounds, measured cumulatively over
+     clean                                                                 the duration of the program.
+
+                       Number of storage notices given                     35 storage notices, measured cumulatively over
+                                                                           the duration of the program.
+
+Note: ‘Over the duration of the program’ refers to the time period between September 2021 and June 2024, the date of the
+HRT’s final presentation to Council during the audit period.
+Source: Homeless Response Team quarterly reports to City Council
+
+Reporting information by standardized reporting periods rather than cumulatively can make it
+easier to assess HRT’s progress toward its goals. During the audit period, the HRT reported on
+outcomes in their quarterly reports to Council as cumulative numbers, for example, 59 encampments closures
+or 655 shelter offers between 2021 and 2024 (Figure 14). Reporting this information as a total over the duration
+of the program, rather than by standard reporting periods such as per quarter, made it difficult to evaluate
+progress toward the HRT’s goals or identify trends over time.
+
+While the HRT reported on the outcomes above during the audit period, they did not report on
+other outcomes that could be useful to connect to the goal reducing unsheltered homelessness.
+For example, USICH recommends reporting on outreach outcomes like number of Coordinated Entry
+assessments or number of outreach encounters, which can shed light on the starting point of the process to get
+people connected to services and sheltered. Additionally, while the HRT reported the number of shelter offers
+and acceptances, they did not report on the number of actual shelter enrollments. This information is important
+because according to a sample of internal HRT data, people who accept shelter may not end up enrolling in
+shelter. Reporting on enrollment could help provide insight into challenges unhoused residents face to getting
+into shelter. Another city that reports shelter enrollment information is Seattle, which reports not only the
+number of shelter offers made and the number of accepted offers, but also reports the number of people who
+enrolled in shelter.
+
+
+
+                                                                   26
+                                                  Page 29
+                     Homeless Response Team: Opportunities   of to
+                                                           Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+Additionally, the HRT did not report on the reasons why people declined shelter offers during
+the audit period. Reporting on reasons that people decline shelter offers can better demonstrate success or
+reveal barriers in connecting encampment residents to shelter. People decline shelter enrollment for many
+reasons. As an example, the HRT has stated they generally see a higher shelter acceptance rate with non-
+congregate beds instead of congregate beds. Although there are challenges to systematically collecting this data,
+even limited or anecdotal data on why people decline shelter offers could provide additional insight into barriers
+to getting people sheltered. Additionally, the City requires Bay Area Community Services (BACS) – one of its
+contracted service providers – to collect data on why the people they engaged with declined shelter offers.
+
+The HRT added new outcomes to its reports to Council in May 2025. Though outside the scope of our
+audit, an off-agenda memo the HRT sent to Council on May 12, 2025 reported several additional outcomes
+including the number of people who enrolled in shelter and the number of Coordinated Entry assessments. The
+memo states that these additional outcomes were intended to provide valuable information to assess progress
+towards the first goal to resolve unsheltered homelessness. Going forward, it will be important for the HRT to
+consistently report on these outcomes to provide more information on the process of initial outreach to
+ultimately being sheltered. This information can help the public and City decision-makers to see trends over
+time, understand the connection between the City’s activities and goal of getting people sheltered, and reveal
+barriers or gaps that the City should address.
+
+Other useful information to report consistently in all reports to City Council going forward is
+demographic data such as race, gender, and health conditions for encampment residents.
+Continuing to report on demographics where possible, such as race, gender and disability status, can help
+identify barriers to providing and care. For instance, disability status may affect someone’s ability to accept a
+shelter offer if it is not ADA-compliant. Similarly, someone may hesitate to accept an offer of shelter for fear of
+experiencing gender-based violence. Advocates who work with the unsheltered population in Berkeley have
+explained that understanding the characteristics and needs of this population provides important context when
+planning encampment actions.18 As one advocate stated:
+
+          For people with physical or mental disabilities – these shortcomings become overwhelming. It doesn’t
+          take much to make a mistake that can jettison the efforts an individual has put forth. Many people in
+          encampments, older folks, a lot of people are out there with serious handicaps, and we don’t really
+          approach that… I’ve been running into people in their 60s and 70s, and they are not going to be
+          gainfully employed. We need to take these things into consideration.
+
+
+
+
+18 Some of the points raised by advocates may be subject to litigation and this audit did not independently investigate all their claims.
+
+                                                                     27
+                                               Page 30
+                  Homeless Response Team: Opportunities   of to
+                                                        Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+Consistent reporting on this information is especially important given that the May 2025 memo pointed out that
+HRT participants are far more vulnerable than Alameda County’s homeless population overall. For example, the
+memo stated that a larger proportion of HRT participants reported physical disabilities, mental health
+disorders, or substance use disorders compared to the overall homeless population in Alameda County.
+Reporting on this information can also help track HRT’s progress in serving these residents and inform
+allocation of resources to effectively provide services.
+
+There are some challenges to consistently collecting data and reporting on outcomes. The HRT
+stated that their reporting is an evolving and imperfect practice because there are few industry tools for
+measuring encampment outcomes and they have adapted their reporting over time based on what has worked
+for them. Additionally, some data may be difficult to systematically track and measure. For example, HMIS does
+not have a data field for reasons why people decline shelter, making this metric difficult to quantify.
+
+Additional resources may be needed to consistently measure and report on outcomes. HRT staff
+explained they had limited budget and administrative support for data analysis and reporting. A 2024 staffing
+study of the Neighborhood Services Division found that some staff felt overburdened by administrative
+responsibilities. Although the study recommended hiring an additional administrative support staff position,
+the division did not receive funding for it. Without robust data collection, analysis, and reporting, it may be
+difficult to identify outreach gaps, track results, or for City leadership to make strategic decisions and allocate
+resources effectively.
+
+
+The HRT's reports were difficult to access on the City’s website.
+Over the audit period, the HRT’s public reports were not easily accessible. The HRT’s reports were published in
+two different places on the City’s website without a central landing page, which made it difficult to access
+information about the HRT's work in encampments. As a comparison, other jurisdictions provide the public
+with more accessible information on their efforts to assist encampment residents. We did not assess staff
+resources in benchmark jurisdictions compared to Berkeley; these are examples of public reporting methods
+that may be useful for Berkeley to consider, keeping in mind resource constraints.
+
+The City and County of San Francisco makes information about coordinated entry accessible to the public
+(Figure 15).
+
+
+
+
+                                                           28
+                                              Page 31
+                 Homeless Response Team: Opportunities   of to
+                                                       Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+Figure 15. The City and County of San Francisco’s Department of Homelessness and Supportive
+Housing provides data on coordinated entry assessments.
+
+
+
+
+Source: City and County of San Francisco webpage
+
+Additionally, a few jurisdictions we reviewed also provided information related to outreach efforts on their
+online dashboard (Figures 16-17). For example, the City of Issaquah reports on the number of monthly face-to-
+face interactions with clients. The City of Portland shows the number helped into shelter and the number given
+housing referrals, among other outcomes.
+
+Figure 16. The City of Issaquah’s Homeless Outreach and Behavioral Health Dashboard shows
+monthly interactions with people experiencing homelessness.
+
+
+
+
+Source: City of Issaquah webpage
+
+
+                                                       29
+                                                 Page 32
+                    Homeless Response Team: Opportunities   of to
+                                                          Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+Figure 17. The City of Portland’s Navigation Team Outcomes webpage shows a range of outcomes
+by site, including number of individuals engaged.
+
+
+
+
+Source: City of Portland webpage
+
+Comprehensive and accessible public reporting aligns with best practices. For example, USICH recommends
+developing a public-facing dashboard to show progress on reducing unsheltered homelessness and encampment
+resolution strategies. In 2022, the HRT worked on a dashboard that included data such as shelter enrollments,
+program exits and exit destinations. However, the team put the project on hold, though they stated they are
+interested in producing a dashboard in the future.
+
+Not being able to easily access HRT data on a website or dashboard means that Council and members of the
+public may not understand the extent to which the HRT has been successful in achieving program goals of
+reducing unsheltered homelessness. It also becomes difficult for oversight bodies, such as the Homeless
+Services Panel of Experts, to provide adequate oversight over the HRT’s activities if they are not able to access
+information.19
+
+
+Recommendations
+ To more effectively measure the impact of their work and enhance transparency, the HRT should:
+
+
+ 3.1     Expand reported outcomes that align with the HRT’s goals and define how they will be measured.
+         Public reporting could include key information such as outreach efforts and shelter enrollments,
+         along with demographic breakdowns and reasons people decline shelter, where possible. Report on
+         the same outcomes over time using a consistent timeframe to support comparisons.
+
+
+
+19 The Homeless Services Panel of Experts (HSPE) was established with Measure P in 2018 to make recommendations on the City’s
+funding for programs to end or prevent homelessness in Berkeley and provide humane services and support.
+                                                                30
+                                             Page 33
+                Homeless Response Team: Opportunities   of to
+                                                      Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+To improve the accessibility of public reporting, the HRT should:
+
+
+3.2    Consider sharing public data in a more accessible format, such as on a single landing page on the
+       City’s website or through a dashboard.
+
+To ensure there is adequate staffing to focus on reporting and the measurement of impact, the City
+Manager’s Office should:
+
+
+3.3    Assess staffing resources needed to support data and reporting efforts without impacting HRT’s
+       operational duties.
+
+
+
+
+                                                      31
+                                              Page 34
+                 Homeless Response Team: Opportunities   of to
+                                                       Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+
+Recommendations and Management Response
+We provided a draft of this report to the HRT and city management for review and comment. City management
+agreed with our findings, conclusions, and recommendations. We generally expect the City to implement audit
+recommendations within two years of report issuance. The department provided the implementation dates and
+corrective action plan below. We will be conducting our standard recommendation follow-up process after the
+audit is issued. We have not yet confirmed to what extent the recommendations have been implemented prior to
+the audit release date.
+
+
+2.1    Document the coordination structure for encampment-related meetings. Continue to meet regularly
+       with key participants as identified by the City for all encampment outreach and interventions.
+
+       Management Response: Agree
+       Implementation Date: September 1, 2025
+       Corrective Action Plan: We are in the process of formalizing the coordination structure for
+       encampment-related meetings. Specifically, we will:
+          o Document the relevant parties to be included in the HRT’s regular Case Conference meetings,
+             including city staff, housing/shelter providers, and relevant outreach partners.
+          o Codify the group’s purpose, which will include the coordination of encampment supportive
+             services response, case conferencing around vulnerable clients, and collaborative use of the
+             HMIS Outreach module.
+          o Establish written procedures to guide participation, information sharing, and alignment with
+             citywide outreach protocols.
+
+       These meetings already occur weekly (city staffing permitting) and will continue on a regular basis,
+       serving as the central forum for coordinated encampment outreach and intervention efforts.
+
+2.2    Develop and document internal procedures for collecting data on HRT activities and encampments.
+       Include plans for regular review for data accuracy.
+
+       Management Response: Agree
+       Implementation Date: September 1, 2025
+       Corrective Action Plan: This recommendation is addressed through several recent improvements
+       already underway:
+           o The revamped HRT performance report (May 2025) includes clearly defined data points,
+              consistent timeframes, and demographic tracking tied to team activities and encampment
+              engagement.
+           o The HRT Case Conference group will serve as the anchor for data coordination, with documented
+              procedures being developed to guide use of the HMIS Outreach module.
+           o We will formalize internal workflows for collecting, reviewing, and verifying data related to
+              outreach contacts, shelter offers, and encampment activity.
+
+       Regular data accuracy reviews will be built into the case conferencing process and integrated into our
+       ongoing refinement of performance reporting. Data collection and accuracy review protocols resulting
+       from these plans will be codified in an internal HRT policy memo.
+
+                                                       32
+                                             Page 35
+                Homeless Response Team: Opportunities   of to
+                                                      Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+2.3   Fully transition to the Outreach module and work with HHCS to consider including the module in
+      contracts with city-funded outreach teams who work with encampment residents. As part of this
+      recommendation, consider developing shared procedures for how HRT and city-funded outreach teams
+      can use the data to inform delivery of services.
+
+      Management Response: Agree
+      Implementation Date: Phase 1: September 1, 2025; Phase 2: August 1, 2028
+
+      Corrective Action Plan: We agree with the value of utilizing the HMIS Outreach module to improve
+      coordination, data consistency, and service delivery across outreach teams. However, incorporating this
+      requirement into city-funded outreach contracts will require additional time due to the structure of
+      current service agreements. These contracts are renewed on a four-year cycle and were most recently
+      executed in 2024, meaning the next regular opportunity for revision will be in 2028. Given the recent
+      retirement of the Homeless Program Manager position in HHCS, and the subsequent freezing of that
+      vacancy to address the city’s general fund budget deficit, we seek to minimize off-cycle contract
+      amendments, as these impose significant administrative burden that would impact service delivery.
+
+      Moreover, including the City’s expectations for full participation in the HMIS Outreach module in the
+      next Community Agency Funding RFP will create more transparency and an equitable opportunity for
+      all agencies to position themselves for this funding. We anticipate that this can be completed with the
+      completion of new Community Agency contracts for the next funding cycle, likely by August 1, 2028.
+
+      In the interim, we will:
+         o   Begin regularly using the HMIS Outreach module as part of the HRT case conference process,
+             allowing for structured and coordinated use of this tool within our team and city partners.
+         o   Encourage voluntary use of the module by non-HRT outreach partners, including those funded
+             through county, federal, or other sources.
+         o   Develop shared policies and procedures based on lessons learned during our pilot of the
+             Outreach module, to guide consistent and effective use.
+         o   Incorporate in the policies and procedures, standards for entering client level data and set goals
+             for client engagement tracked within the module.
+
+      These interim steps can be taken and completed by September 1, 2025. While full implementation will
+      require future contract updates, we are proactively laying the groundwork for alignment across outreach
+      providers and are committed to making progress in advance of formal contract changes.
+
+3.1   Expand reported outcomes that align with the HRT’s goals and define how they will be measured. Public
+      reporting could include key information such as outreach efforts and shelter enrollments, along with
+      demographic breakdowns and reasons people decline shelter, where possible. Report on the same
+      outcomes over time using a consistent timeframe to support comparisons.
+
+      Management Response: Agree
+
+      Implementation Date: August 1, 2025
+
+      Corrective Action Plan: Since the time of the audit, the HRT has taken significant steps to improve
+      transparency, clarity, and alignment in our outcome reporting. In May 2025, we released a revamped
+      public report titled New Homeless Response Team Mission and Performance Data Report, which
+      directly addressed many of the Auditor’s findings and recommendations.
+                                                      33
+                                            Page 36
+               Homeless Response Team: Opportunities   of to
+                                                     Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+      The updated report includes:
+         o Clearly defined goals and a revised mission statement for the HRT.
+         o Quantitative outcomes such as outreach contacts, shelter enrollments, and service referrals.
+         o Demographic breakdowns of clients served, when available.
+         o Analysis of shelter enrollment rates based on shelter type.
+
+      This report format was developed to be consistent in content and updated regularly, allowing for year-
+      over-year comparisons and community accountability. We anticipate publishing the next quarterly
+      report, using this same format and covering the 2nd quarter of calendar year 2025, in August 2025,
+      which will support comparative trend analysis over time. We believe this work reflects the intent and
+      substance of the auditor’s recommendation.
+
+3.2   Consider sharing public data in a more accessible format, such as on a single landing page on the City’s
+      website or through a dashboard.
+
+      Management Response: Agree
+
+      Implementation Date: August 1, 2025
+
+      Corrective Action Plan: We agree with the importance of making HRT data more accessible to the
+      public. Our team is fully supportive of this recommendation. Moving forward, and beginning with the
+      August 2025 memo referenced above, we will begin publishing all quarterly performance data reports on
+      the Reporting Safety Concerns at an Encampment page:
+       https://berkeleyca.gov/safety-health/homeless-services/reporting-safety-concerns-encampment
+
+3.3   Assess staffing resources needed to support data and reporting efforts without impacting HRT’s
+      operational duties.
+
+      Management Response: Agree
+
+      Implementation Date: Completed
+
+      Corrective Action Plan: In January 2024, Neighborhood Services engaged VIVA Consulting to
+      perform a staffing analysis of the division, including the Homeless Response Team; the final report was
+      issued in May 2024. Pertinent to the Homeless Response Team, the report found the following:
+
+         o   Neighborhood Services needed more division-wide analytical support; in response, in November
+             2024 (midway through the Audit period), Neighborhood Services was assigned one FTE
+             Administrative Assistant. This has helped the division handle the large volume of administrative
+             work in the division.
+         o   In terms of operational duties, the City of Oakland has a similar encampment response approach
+             to Berkeley, but at the time of the staffing analysis, had 7 dedicated FTE in the City
+             Administrator’s Office to handle the workload, including two dedicated analysts. Of importance,
+             and at the time of the staffing analysis, Oakland’s Encampment Management Team also included
+             dedicated staff from several other departments including Public Works (10), Police (2), Fire (1
+             inspector), Human Services (1 analyst and 2 case managers), among others, all of whom worked
+             exclusively on encampment operations and the various data reporting associated with it.
+
+
+
+
+                                                      34
+                                       Page 37
+          Homeless Response Team: Opportunities   of to
+                                                Exist 40Strengthen Procedures and Better Track Outcomes
+
+
+ Neighborhood Services has 3 dedicated FTE (one Community Services Specialist III, the unit lead and
+supervisor, and two Social Services Specialists). It also receives analytical support from 1 FTE Homeless
+Services Coordinator, but this classification also supports data analysis and budget strategy work for the
+entire homeless system. With the adoption of the FY2026 Mid-biennial budget, the City Council added a
+third Social Services Specialist FTE to the team, bringing the total FTE to 4.
+
+Therefore, right-sizing the Berkeley Homeless Response Team to better meet the intensive demands of
+the work and the administrative, legal, and analytical work it engenders would require more dedicated
+staff both in Neighborhood Services and its various partner departments, and a blueprint for doing so
+has already been provided by this third-party consultant report. However, adding more authorized
+positions to the City’s budget during a time of ongoing structural deficit would require tradeoffs without
+new dedicated revenues, opportunities for which have not been identified given the State’s budget deficit
+and the Federal administration’s ongoing efforts to drastically downsize, not increase, the public sector’s
+workforce.
+
+
+
+
+                                                35
+                                                  Page 38 of 40
+                   Homeless Response Team: Opportunities Exist to Strengthen Procedures and Better Track Outcomes
+
+
+Methodology and Statement of Compliance
+We audited the Homeless Response Team’s (HRT) operations for fiscal years (FY) 2022 through 2024. We
+performed a risk assessment of the HRT’s practices and procedures to identify potential internal control
+weaknesses, including fraud risks, within the context of our audit objectives. This included a review of selected
+policies and procedures, as well as interviews with internal staff.
+
+To gain an understanding of the HRT’s operations and internal controls and to achieve our audit objectives, we
+used the following methodology:
+
+      We reviewed internal policies and procedures, meeting notes, email communications, and other
+        documentation related to HRT operations, interagency coordination, and encampment response
+        efforts.
+
+      We analyzed HRT data related to encampment activities, service connections, and outreach outcomes.
+        We evaluated the quality and consistency of data collection practices and assessed how the HRT used
+        data to measure progress toward its goals. We also reviewed how outcomes were reported to the
+        public, including through City Council materials, performance reports, and public communications.
+        We evaluated the clarity, completeness, and accessibility of HRT’s public reporting against best
+        practices in transparency and accountability. While we were unable to verify the accuracy of the HRT’s
+        internal data, we analyzed their data reporting in our audit in order to understand how they
+        communicate information to the public and make recommendations for improvement.
+
+      We compared HRT practices against published best practices and guidance from organizations such as
+        the U.S. Interagency Council on Homelessness (USICH), as well as models used in other jurisdictions
+        with similar encampment response challenges.
+
+      We reviewed documents and sources that shaped the operating context for the HRT, including:
+
+                     o   Biennial city budgets to understand HRT funding and staffing resources.
+
+                     o   Berkeley Municipal Code and Administrative Regulations related to encampments,
+                         homelessness response, and interdepartmental coordination.
+
+                     o   Local and federal court cases that influenced encampment policy, including Prado v.
+                         City of Berkeley, Johnson v. Grants Pass, and Martin v. Boise.
+
+                     o   City Council materials and reports that documented policy decisions and legal
+                         considerations relevant to HRT operations.
+
+
+
+
+                                                        36
+                                                   Page 39 of 40
+                 Homeless Response Team: Opportunities Exist to Strengthen Procedures and Better Track Outcomes
+
+      We interviewed a wide range of stakeholders to understand how the HRT coordinates with others and
+        uses data in its work. This included HRT staff and staff from other city departments involved in
+        homelessness response, Alameda County officials, and contracted outreach and service providers. We
+        also spoke with members of the Homeless Services Panel of Experts, city leadership, and homeless
+        advocates. These interviews provided insight into coordination challenges, service delivery gaps, and
+        differing perspectives on the City’s approach to encampments.
+
+      We attended community meetings held by city leadership regarding homeless encampment response
+        to better understand how information was shared with the public and how community concerns and
+        feedback were addressed. These meetings provided additional context for assessing the City’s
+        communication practices and stakeholder engagement.
+
+
+Data Reliability
+We assessed the reliability of encampment data by interviewing data system managers and owners and
+examining the data for completeness, consistency, and appropriateness. We determined that the data are
+sufficiently reliable for the purposes of our audit.
+
+Though we found the encampment data to be inconsistent and incomplete, we used encampment data to
+understand the type of data HRT collects and the data they present to the public, and therefore any
+inconsistencies in the data did not affect our audit findings. When cross-checking the data to additional
+sources, we could not independently verify certain data fields including the number offered and accepted
+shelter, the number of tents or structures, and the number of notices given. Therefore, we did not use the data
+for analysis or measurement. Our audit includes recommendations for improving management of encampment
+data to increase data system reliability.
+
+
+Statement of Compliance
+We conducted this performance audit in accordance with Generally Accepted Government Auditing Standards.
+Those standards require that we plan and perform the audit to obtain sufficient, appropriate evidence to
+provide a reasonable basis for our findings and conclusions based on our audit objectives. We believe that the
+evidence obtained provides a reasonable basis for our findings and conclusions based on our audit objectives.
+
+
+
+
+                                                        37
+                                Page 40 of 40
+
+
+
+
+Mission Statement
+Promoting transparency and accountability in Berkeley government.
+
+
+Project Contributors
+Erin Mullin, Audit Manager
+Caitlin Palmer, Audit Manager
+Kendle Kuechle, Auditor II
+Pauline Miller, Auditor II
+Katie Wysong, Auditor I
+
+
+City Auditor
+Jenny Wong
+
+Office of the City Auditor
+Phone: (510) 981-6750
+Email: CityAuditor@berkeleyca.gov
+Website: https://berkeleyca.gov/your-government/city-audits
+
+
+Copies of our audit reports are available at
+https://berkeleyca.gov/your-government/city-audits/city-auditor-reports
+
+
+
+Cover photograph provided by the City of Berkeley
+

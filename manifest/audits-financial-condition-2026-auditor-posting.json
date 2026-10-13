@@ -1,0 +1,19 @@
+{
+  "id": "audits-financial-condition-2026-auditor-posting",
+  "layer": "L0",
+  "doc_type": "audit_report",
+  "collection": "audits",
+  "publisher": "City of Berkeley — City Auditor",
+  "title": "Berkeley's Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability",
+  "document_date": "2026-04-08",
+  "file": "L0/sources/audits/audits-financial-condition-2026-auditor-posting.pdf",
+  "sha256": "ea0ed9cb2694667c64adf38556f52691b810104dccab9411fa48b1e2d2ca7410",
+  "bytes": 2664518,
+  "source_url": "https://berkeleyca.gov/sites/default/files/2026-03/Berkeleys_Financial_Condition_%28FY_2016-FY_2025%29_-_Structural_Deficit_Poses_Risk_to_Financial_Sustainability.pdf",
+  "source_note": "A separately posted file of the same report archived as audits-financial-condition-2026 (the April 28, 2026 Council agenda copy); the two files differ in fingerprint. Downloaded from source_url on 2026-10-13.",
+  "retrieved": "2026-10-13",
+  "archived": "2026-10-13",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

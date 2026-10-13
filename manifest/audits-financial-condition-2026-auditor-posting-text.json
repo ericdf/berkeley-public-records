@@ -1,0 +1,21 @@
+{
+  "id": "audits-financial-condition-2026-auditor-posting-text",
+  "layer": "L1",
+  "doc_type": "audit_report_text",
+  "collection": "audits",
+  "title": "Berkeley's Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability",
+  "file": "L1/sources/audits/audits-financial-condition-2026-auditor-posting-text.txt",
+  "sha256": "794f03ab52a70f54d278b8bf7d35cdee8e1c29182b9797a4d4cb64a14468e88c",
+  "bytes": 131365,
+  "derived_from": {
+    "id": "audits-financial-condition-2026-auditor-posting",
+    "sha256": "ea0ed9cb2694667c64adf38556f52691b810104dccab9411fa48b1e2d2ca7410"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-13"
+}

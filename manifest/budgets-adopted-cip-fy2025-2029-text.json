@@ -1,0 +1,21 @@
+{
+  "id": "budgets-adopted-cip-fy2025-2029-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Adopted Capital Improvement Program, Fiscal Years 2025-2029",
+  "file": "L1/sources/budgets/budgets-adopted-cip-fy2025-2029-text.txt",
+  "sha256": "c0eabd730a1aac171374ea637465edcda757dcbb2c805f8caea9ae0e618f8e41",
+  "bytes": 909364,
+  "derived_from": {
+    "id": "budgets-adopted-cip-fy2025-2029",
+    "sha256": "ff5decf0b99de78a743e7575202bd4190c927d83216dc170666f5e273f3b5519"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-13"
+}

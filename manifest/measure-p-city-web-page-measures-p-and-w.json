@@ -1,0 +1,19 @@
+{
+  "id": "measure-p-city-web-page-measures-p-and-w",
+  "layer": "L0",
+  "doc_type": "web_page",
+  "collection": "measure_p",
+  "publisher": "City of Berkeley",
+  "title": "Measures P and W: Real Property Transfer Tax to Fund Homeless Services",
+  "document_date": "2026-10-13",
+  "file": "L0/sources/measure_p/measure-p-city-web-page-measures-p-and-w.html",
+  "sha256": "55968c3d2784ee99df7d3edc69d71ad305118b2881f09ac291e5a967f35d8d33",
+  "bytes": 190563,
+  "source_url": "https://berkeleyca.gov/your-government/our-work/bond-revenue-measures/measure-p-w",
+  "source_note": "City web page; no date is printed on it. Saved as served (HTML) from source_url on 2026-10-13; document_date is the retrieval date.",
+  "retrieved": "2026-10-13",
+  "archived": "2026-10-13",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
