@@ -1,0 +1,2264 @@
+Audit Report
+April 8, 2026
+
+
+
+
+Berkeley’s Financial
+Condition (FY 2016-
+FY 2025): Structural
+Deficit Poses Risk to
+Financial
+Sustainability
+
+
+
+
+                Jenny Wong, City Auditor
+                Caitlin Palmer, Audit Manager
+                Manami Suenaga, Auditor I
+
+
+
+
+    Promoting transparency and accountability in Berkeley government
+Berkeley’s Financial Condition (FY 2016-FY 2025):
+Structural Deficit Poses Risk to Financial Sustainability
+
+Report Highlights                                                                                  April 8, 2026
+
+       Findings                                                             Objective
+                                                                            Our objective was to assess Berkeley’s
+Overall, Berkeley is facing ongoing challenges regarding its long-
+                                                                            financial condition using indicators
+term financial condition, similar to the findings from our 2022
+                                                                            for the following categories:
+audit. In the near term, the City faces a structural deficit, which
+poses additional risk to the City’s long-term financial sustainability.     1. Revenues and Expenses
+                                                                            2. Budgetary Practices
+Near-Term
+                                                                            3. Demographics and Economic
+Revenues and Expenses: Governmental activities revenues                        Indicators
+generally exceeded expenses, but the General Fund still faced a             4. Net Position, Liquidity, and
+structural deficit.                                                            Reserves
+Budgetary Practices: The City’s one-time balancing strategies can           5. Long-Term Debt and Liabilities
+put the long-term sustainability of some funds at risk. Some                6. Net Pension and Retiree
+enterprise funds also have structural deficits and receive transfers           Healthcare Liabilities
+                                                                            7. Capital Assets
+from the General Fund and other funds to balance.
+Demographic and Economic Indicators: The City’s economy
+                                                                            Why This Audit Is Important
+improved after the pandemic but experienced recent declines.
+Property value continues to grow, while median household income             The audit’s purpose is to provide a
+has not substantially grown. Unemployment recovered to pre-                 clear, accessible report for the public
+pandemic levels but has trended upward again.                               and City leadership to better
+Net Position, Liquidity, and Reserves: The City’s net position              understand the City’s near-term and
+increased, and its liquidity ratio is strong. The City is on track to       long-term financial condition and
+meet its updated reserves goal.                                             help inform decision making. This
+                                                                            audit is especially relevant as the City
+Long-Term                                                                   will need to make difficult decisions to
+Long-Term Debt and Liabilities: The City’s long-term liabilities            close the projected $32 million
+have grown. General obligation bond debt per resident peaked in FY          General Fund deficit in FY 2027 and
+2022 and declined in recent years. The City’s general obligation            $33 million in FY 2028.1
+bond debt remained at or less than one percent of taxable assessed
+property value.
+Net Pension and Retiree Healthcare Liabilities: The City’s
+net pension liability is still high risk. Net pension liability peaked in
+FY 2021 and decreased thereafter. Net retiree healthcare liability
+decreased. The City set aside resources to pre-fund pension
+obligations in a Section 115 Trust but has not consistently met its         1 This is the structural deficit estimate as
+
+annual contribution goal.                                                   of January 22, 2026.
+Capital Assets: The City’s unfunded capital and deferred
+maintenance needs have grown to $1.8 billion despite some
+increased investment. The City lacks advanced planning to finance
+its capital plan in the long term. Without sufficient investment,
+these unfunded capital needs will continue to grow.
+                                                                            For the full report, visit the City
+                                                                            Auditor’s website.
+
+
+       Promoting transparency and accountability in Berkeley government
+Report Highlights                                                                  April 8, 2026
+                                                                   Summary of
+        Findings
+                                                                   Recommendations
+Net Pension Liability Per Plan (in millions, in 2025               To help the City pass a structurally
+dollars)                                                           balanced budget, we recommend City
+                                                                   management propose a fiscal policy to
+                                                                   City Council to assess whether
+                                                                   recurring revenues and recurring
+                                                                   expenditures are balanced, and to
+                                                                   formalize developing the baseline
+                                                                   budget using the prior year’s actual
+                                                                   expenditures and projected needs.
+                                                                   To improve the financial
+                                                                   sustainability of enterprise funds, we
+                                                                   recommend the City adopt a citywide
+                                                                   policy to regularly evaluate enterprise
+                                                                   fees and establish reserves for each
+                                                                   enterprise fund.
+                                                                   To continue to strengthen the Section
+                                                                   115 Trust, we recommend City
+Source: Finance Department data
+                                                                   management amend the fiscal policies
+                                                                   to explicitly require the City replenish
+Unfunded Capital and Deferred Maintenance Needs                    the Trust after funds are withdrawn.
+(in 2025 dollars)
+                                                                   To improve the City’s ability to
+                                                                   anticipate capital infrastructure
+                                     $1.8 billion
+                                                                   needs, we recommend City
+                                                                   management extend the Capital
+                                                                   Improvement Program (CIP) beyond
+                                                                   five years.
+                                                                   To address the City’s long-term
+                                                                   capital infrastructure needs, we
+                                                                   recommend City management
+ $603.5 million                                                    develop a capital financing plan that
+                                                                   covers a period at least as long as the
+                                                                   CIP and proposes future funding
+                                                                   mechanisms beyond existing sources.
+                                                                   City management agreed or partially
+                                                                   agreed with these recommendations.
+
+
+
+
+Source: Berkeley’s unfunded liability reports (FY 2017-FY 2021);
+                                                                   For the full report, visit the City
+Capital Improvement Program (FY 2024)                              Auditor’s website.
+
+
+        Promoting transparency and accountability in Berkeley government
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+
+Table of Contents
+Introduction .......................................................................................................................... 2
+Objective .............................................................................................................................. 2
+Scope and Methodology ....................................................................................................... 2
+Background .......................................................................................................................... 3
+Revenues and Expenses: Governmental activities revenues generally exceeded expenses,
+but the General Fund still faced a structural deficit. .............................................................. 5
+Budgetary Practices: One-time balancing strategies can put the long-term sustainability of
+some funds at risk. .............................................................................................................. 13
+Demographic and Economic Indicators: Berkeley’s economy improved after the pandemic
+but experienced recent declines. ....................................................................................... 18
+Net Position, Liquidity, and Reserves: Berkeley’s net position, liquidity, and reserves
+indicate improvements. ...................................................................................................... 21
+Long-Term Debt and Liabilities: Long-term debt and liabilities have grown overall but
+general obligation bond debt per resident has decreased in recent years. ........................ 25
+Net Pension and Retiree Healthcare Liabilities: Berkeley’s net pension liability is still high
+risk and retiree healthcare liability decreased. .................................................................. 30
+Capital Assets: Unfunded capital needs have grown despite some increased investment. .. 34
+Management Response ....................................................................................................... 39
+Methodology and Compliance ............................................................................................ 43
+
+
+
+
+                                                                    1
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+
+Introduction
+This audit provides an update on Berkeley’s financial condition since our last financial condition
+audit in 2022.1 The audit’s purpose is to provide a clear, accessible report for the public and City
+leadership to better understand the City’s near-term and long-term financial condition and help
+inform decision making, especially ahead of difficult budget decisions. This audit does not assess
+the state of the national economy or project the potential impact of recent economic events.
+
+Overall, Berkeley is facing ongoing challenges regarding its long-term financial condition,
+similar to the findings from our 2022 audit. Berkeley’s net pension liability is still considered
+high risk. The City’s unfunded capital and deferred maintenance need has grown to $1.8 billion.
+In the near-term, the City faces a structural deficit, which poses additional risk to the City’s
+long-term financial sustainability. As we stated in our 2022 audit, it will continue to be
+important for the City to balance its near-term needs and long-term financial obligations.
+
+Throughout the report, we compared some of Berkeley’s financial indicators to other California
+cities with similar characteristics. For all the financial indicators that we benchmarked to peer
+cities, Berkeley is not an outlier and mostly falls in the middle of the range.
+
+
+Objective
+Our objective was to assess Berkeley’s financial condition using financial indicators for the
+following categories:
+
+    1. Revenues and Expenses
+    2. Budgetary Practices
+    3. Demographic and Economic Indicators
+    4. Net Position, Liquidity, and Reserves
+    5. Long-Term Debt and Liabilities
+    6. Net Pension and Retiree Healthcare Liabilities
+    7. Capital Assets
+
+
+Scope and Methodology
+This audit is an update to our previous financial condition audit, and we relied on a similar
+methodology for consistency. We used financial indicators included in the International
+
+
+1 Berkeley’s Financial Condition (FY 2012-FY 2021): Pension Liabilities and Infrastructure Need Attention
+
+
+                                                         2
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+City/County Management Association’s (ICMA) Evaluating Financial Condition handbook for
+local governments. We also included some indicators used by peer cities in their financial
+condition audits. We do not provide an in-depth analysis of causes and impact, but we point out
+areas of financial risk for the City to evaluate further.
+
+For our audit scope, we examined Berkeley’s financial data within the past 10 fiscal years, from
+FY 2016 to FY 2025, except for a few indicators for which data was only available for limited
+years. We relied mainly on data from Berkeley’s Annual Comprehensive Financial Reports
+(ACFRs). For some indicators, we also analyzed other sources of city financial data. Where
+appropriate, we adjusted financial indicators for inflation using the Bay Area Consumer Price
+Index calculated by the U.S. Bureau of Labor Statistics to express values in 2025 dollars.
+
+For some indicators, we benchmarked Berkeley to other California cities. We selected Long
+Beach, Oakland, Pasadena, Santa Clara, Santa Monica, and Palo Alto because these cities were
+similar to Berkeley across one or more criteria, such as population, general fund expenditures
+per resident, services provided, and presence of a large university.
+
+For more information on our methodology, see page 43.
+
+
+Background
+According to the ICMA, financial condition refers to a local government’s ability to finance its
+services on an ongoing basis. To understand Berkeley’s financial condition, this audit considers
+a series of financial indicators tracked over time. These indicators reflect Berkeley’s financial
+decisions as well as external factors outside of Berkeley’s control, such as changes in economic
+conditions, financial markets, and federal funding decisions.
+
+To provide a broad overview of Berkeley’s financial condition, our primary source was
+government-wide financial statements from the City’s ACFRs. Government-wide financial
+statements are also categorized into governmental and business-type activities. This audit report
+mainly focuses on governmental activities, which fund citywide operations that serve all
+Berkeley residents and are supported mostly by taxes. Governmental activities include service
+areas such as general government, public safety, transportation, community development, and
+culture and leisure. Business-type activities operate like businesses and are supported by
+enterprise funds, such as the Berkeley Marina and Parking Meter funds.
+
+This audit also takes into consideration Berkeley’s unique characteristics. Berkeley has the
+highest population density of any city in the East Bay. Berkeley’s economy is shaped by the
+
+                                                         3
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+presence of the University of California, Berkeley campus, the high assessed value of property,
+and a diverse tax base. The City provides residents a full range of services beyond those offered
+by most similarly-sized cities in California. The City offers its own sanitation, sewer, and waste
+management services; parks, recreation, and the Berkeley Marina; health, housing, and
+community services, including city-funded health clinics and mental health services; animal
+control; and library. Berkeley is also a relatively older city and faces challenges with aging
+infrastructure.
+
+
+
+
+                                                         4
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+
+Revenues and Expenses: Governmental
+activities revenues generally exceeded
+expenses, but the General Fund still faced a
+structural deficit.
+Berkeley’s governmental activities revenues exceeded expenses for all years in the audit scope
+except FY 2020. Governmental activities revenues increased overall, primarily from growth in
+revenues from property taxes, state and local taxes, and investment earnings. Governmental
+activities expenses also increased overall, primarily from growth in community development
+and housing as well as health and welfare. However, the General Fund still faced a structural
+deficit.
+
+
+Revenues
+Governmental activities revenues generally exceeded expenses.
+Governmental activities revenues exceeded governmental activities expenses for all years except
+FY 2020 (Figure 1). The exception in FY 2020 was because of revenue shortfalls due to the
+COVID-19 pandemic.
+
+Figure 1. Governmental Activities Revenues and Expenses (in millions, in 2025
+dollars)
+
+                                                                       $487      $477      $472         $475
+                     Revenues
+                                          $407      $417       $412
+                $352     $366     $368
+                                                                                           $448         $435
+                                                    $401       $393
+                                          $388                                   $387
+                                  $366
+                $327     $314                                          $316
+
+                       Expenses
+                                                  Governmental revenues exceeded governmental
+                                                  expenses for all years surveyed except for FY 2020.
+
+
+              2016       2017     2018    2019     2020        2021    2022      2023     2024      2025
+                                                     Fiscal Year
+
+Source: Berkeley ACFRs
+
+Compared to benchmark cities in FY 2024, Berkeley’s governmental revenues per resident were
+in the middle of the range and nearly the same as Oakland (Figure 2). Similarly, Berkeley was in
+the middle of the range relative to benchmark cities in our 2022 financial condition audit.
+
+                                                           5
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+Figure 2. Governmental Activities Revenues per Resident, FY 2024
+
+               Santa Monica                                                                   $6,328
+                   Palo Alto                                               $4,124
+                   Berkeley                                             $3,708
+                   Oakland                                             $3,673
+                  Pasadena                                            $3,493
+                Santa Clara                                  $2,743
+                Long Beach                               $2,551
+
+Source: Cities’ FY 2024 ACFRs
+Note: Not all cities reported population data by fiscal year. Santa Monica and Oakland's ACFR population
+figures are from calendar year 2024. Pasadena's population figure is from calendar year 2023.
+
+However, the General Fund still faced a structural deficit.
+The General Fund is the largest of all governmental funds and is the City’s primary operating
+fund which pays for services provided by the City. City leaders focus on the General Fund
+because it is a flexible source of funding and can help address the City’s most pressing needs.
+
+While the City’s governmental activities revenues generally exceeded expenses, the City still
+faced a structural General Fund deficit, with deficits ranging from $12 million to $40 million.
+This is because the City determines whether it has a structural deficit at the start of the budget
+process. A structural deficit occurs when budgeted revenues are projected to be less than
+budgeted expenditures. However, Berkeley can balance its budget through one-time measures,
+such as moving surpluses from other funds into the General Fund. These transfers are recorded
+as General Fund revenue. The City’s actual revenues generally cover its actual expenditures due
+in part to these balancing measures and adjustments to the City’s revenues and expenditure over
+the fiscal year. Therefore, while the General Fund still faced a structural deficit, the City’s
+governmental activities revenues generally exceeded expenses.
+
+In the next section starting on page 13, we discuss Berkeley’s budgetary practices in the context
+of the structural budget deficit in further detail.
+
+
+Where do revenues for Berkeley’s governmental activities come from?
+In FY 2025, the largest source of revenue was property taxes (49 percent), followed by state and
+local taxes (23 percent) and operating and capital grants and contributions (10 percent) (Figure
+3).
+
+
+
+
+                                                         6
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+Figure 3. Revenues for Governmental Activities by Source, FY 2025
+
+                                                           Other
+                                     Investment Earnings    1%
+                                              8%
+                        Operating and Capital Grants &                Property Taxes
+                                Contributions                              49%
+                                    10%
+                              Charges for Service
+                                      9%
+                                  State and Local Taxes
+                                          23%
+
+Source: Berkeley FY 2025 ACFR
+Note: “Other” includes revenues from contributions not restricted to specific programs, revenues (or
+losses) from the gain or loss on the sale of capital assets, miscellaneous revenues, and revenues from other
+unrestricted state subventions.
+
+How have revenues changed over time?
+In total, governmental activities revenues increased by 35 percent, from $352.0 million in FY
+2016 to $474.5 million in FY 2025, adjusted for inflation.
+
+Berkeley’s largest source of revenue was property taxes, which grew substantially and reached a
+peak in FY 2022. Between FY 2016 to FY 2025, revenue from property taxes increased by 39
+percent, from $166.5 million to $231.9 million, adjusted for inflation (Figure 4). The peak in FY
+2022 is explained by multiple factors, including increased assessed value of property, increased
+value of property sales, and the passage of Measure FF in 2020, a special tax to support fire
+services which was effective in FY 2022, adding more property based tax revenues.
+
+Figure 4. Revenues for Governmental Activities by Source (in millions, in 2025
+dollars)
+                 $300
+                                                                             Property Taxes
+                 $250
+
+                 $200
+
+                 $150                                                       State and Local Taxes
+      Millions   $100                                                      Operating and Capital Grants
+                                                                                 & Contributions
+                  $50                                                             Charges for Service
+                                                                               Investment Earnings
+                   $0                                                                 Other
+                 -$50
+                        2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+                                             Fiscal Year
+
+Source: Berkeley ACFRs
+                                                               7
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+Berkeley’s next largest source of revenue was state and local taxes, which also grew during the
+audit period. Between FY 2016 to FY 2025, revenue from state and local taxes increased by 27
+percent, from $87.1 million to $110.3 million, adjusted for inflation (Figure 4).
+
+Operating and capital grants and contributions more than doubled from FY 2019 to FY 2022,
+but these revenues have since declined (Figure 4). The increase was due in large part to the City
+receiving American Rescue Plan Act (ARPA) grant funds.
+
+Of all revenue streams, revenues from investment earnings had the largest percentage increase
+(693 percent) between FY 2016 and FY 2025. Investment earnings dipped in FY 2022, due to
+increased interest rates set by the Federal Reserve, but recovered above pre-pandemic levels by
+the end of the audit period.
+
+The Finance Department (Finance) updates City Council on the status of the City's investment
+portfolio through quarterly investment reports. These quarterly investment reports include the
+City’s investment rate of return for the quarter, indicating the outcomes of the City’s investment
+approach, policies, and other external factors. The reports evaluate performance changes from
+quarter to quarter within the past fiscal year and do not cover trends across multiple years.
+Other cities cover past trends across years. For example, the City of Palo Alto’s FY 2025 fourth
+quarter investment report showed their investment portfolio’s rate of return for the past twenty
+three years.
+
+Berkeley’s Investment Policy requires Finance to provide an annual investment report to
+Council in addition to quarterly reports. Finance currently does not submit an annual
+investment report to Council. However, Finance produced annual investment reports to Council
+in the past that covered key investment results, such as the rate of return on the City’s
+investments, and compared these results to the previous five fiscal years.
+
+According to the City’s Investment Policy, the City’s primary investment objective is to achieve a
+reasonable rate of return on public funds while minimizing the potential for losses. Without
+reporting that covers the City’s investment rate of return over a longer time span, it is difficult
+for the public to easily access information about past trends in the City’s investment
+performance.
+
+
+How have revenues from leases changed over time?
+During the audit period, Berkeley’s revenues from leases decreased by nearly one half. The City
+receives revenue from rent payments from tenants who lease City-owned properties. Between
+FY 2016 to FY 2025, the City’s revenue from leases decreased by 48 percent, from $4.9 million
+                                                         8
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+to $2.5 million, adjusted for inflation.
+
+While we did not investigate the cause of Berkeley’s decreased lease revenue, we do know that
+City management has opportunities to improve lease management, such as regularly monitoring
+leases to prevent them from going into holdover. From our Leases Audit Follow-Up report,
+released in January 2025, we found that the City lacks a clear approach to lease management
+and lacks a complete repository of leases.2 By improving tracking of leases, the City could
+improve revenue generation from leases on City-owned properties.
+
+
+Where do your property taxes go?
+Alameda County collects property tax revenue from Berkeley taxpayers and distributes them
+among multiple entities. Ad valorem taxes are one part of the property tax bill and are based on
+a percentage of the assessed value of property. There are two types of ad valorem taxes: the
+countywide 1 percent tax and voter-approved debt service taxes. The countywide 1 percent ad
+valorem property tax amounts to roughly one-half of the total property tax bill.3 However, this
+may differ for individual properties based on a variety of factors, such as assessed value and
+square footage. The other part of the property tax bill is fixed charges and/or special
+assessments, which include parcel taxes. In FY 2025, Berkeley received an estimated one-third
+of the countywide 1 percent ad valorem property tax revenue generated within the City limits
+(Figure 5).
+
+Figure 5. Berkeley’s Countywide 1 percent Ad Valorem Property Tax Distribution
+by Entity, FY 2025
+
+                                        Special Districts
+                                              9%                 City of Berkeley
+                                                                       33%
+
+
+
+                                      Schools
+                                       43%
+                                                                  County General Fund
+                                                                         15%
+
+Source: Auditor analysis of data from the Alameda County Auditor-Controller/Clerk-Recorder's Office
+Note: This figure is an estimate of the distribution of countywide 1 percent property tax revenue within
+City limits. Special districts include AC Transit, East Bay Regional Park, East Bay Municipal Utility
+District, Bay Area Rapid Transit and other regional entities. According to Alameda County, this does not
+include any amount that may be shifted due to the dissolution of Berkeley’s former redevelopment agency.
+
+2 2009 Leases Audit Follow-Up: Berkeley Faces the Same Risks 16 Years Later
+
+3 According to a 2025 City management report to Council, this estimate is based on a single-family
+
+residence with an assessed value of $550,000 and 1,900 square feet with a $7,000 homeowner’s
+exemption.
+                                                            9
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+What are your property taxes levied for?
+Berkeley receives revenues from property taxes that are levied for specific purposes. For every
+dollar of property tax revenue Berkeley received in FY 2025, a portion was levied for general
+purposes, library services, city parks, debt service for voter-approved bond measures, fire
+department services, and paramedic services. The largest portion was levied for general
+purposes (Figure 6).
+
+Figure 6. What are your property taxes levied for? (FY 2025)
+
+
+
+
+Source: Berkeley FY 2025 ACFR
+
+Expenses
+How have Berkeley’s expenses changed over time?
+Overall, Berkeley’s government activities expenses increased by 33 percent from $327.1 million
+in FY 2016 to $435.0 million in FY 2025, adjusted for inflation. In FY 2025, public safety
+represented the City’s largest expense by function (Figure 7). Between FY 2016 and FY 2025,
+City functions with the largest increases in spending were community development and housing
+(119 percent) and health and welfare (107 percent), adjusted for inflation.
+
+Figure 7. Expenses for Governmental Activities by Function (in millions, in 2025
+dollars)
+
+                      $152.9 $162.2
+
+
+              $65.5                                         $54.8            $68.7
+      $48.9                                                          $46.6                   $51.3
+                                      $23.5 $25.2   $26.4                            $23.4
+                                                                                                     $5.6 $5.6   $6.4 $8.3
+
+       General Public Safety Highways and Health and           Culture and Community Economic     Interest on
+      Government                Streets    Welfare             Recreation Development Development Long-Term
+                                                                           and Housing               Debt
+                                                       FY 2016  FY 2025
+
+Source: Berkeley ACFRs
+                                                                10
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+How has personnel expenditure changed over time?
+Salaries and benefits represent a large portion of Berkeley’s spending and have increased over
+time. Salaries and benefits represent approximately half of the citywide budget and about two-
+thirds of the General Fund budget. Between FY 2016 and FY 2025, Berkeley's total personnel
+expenditure increased by 20 percent from $308.2 million to $370.9 million, adjusted for
+inflation (Figure 8). Berkeley's budgeted full-time equivalent (FTE) employee count increased
+by approximately 30 percent from FY 2016 to FY 2025, despite total personnel expenditure only
+increasing by approximately 20 percent.
+
+Figure 8. Personnel Expenditures by Category (in millions, in 2025 dollars)
+
+                                                                                  $370.9 total
+                                                                                   1,747 FTE
+                       $308.2 total
+                        1,336 FTE
+                                                                           Salaries and Wages
+                                                                                  $224.6
+                        $181.3
+
+                                                                           Retirement Benefits
+                                                                                  $97.6
+                        $73.6
+                                                                                   Healthcare
+                                                                                     $40.8
+                        $30.3
+                                                                                   Other $7.9
+                        $23.1
+                         2016                        Fiscal Year                     2025
+Source: Berkeley City Manager, Budget Office data; Berkeley FY 2025 ACFR
+Note: This graphic includes budgeted FTE counts, which include the number of filled and vacant FTEs.
+“Salaries and wages” include regular and hourly pay, overtime pay, stipends, and workers’ compensation
+pay. “Healthcare” includes healthcare benefits, such as medical, dental, and vision insurance. “Retirement
+benefits” include retirement income, such as pensions, and retiree healthcare benefits. "Other" includes
+life insurance, commuter benefits, terminal payout, contributions to the workers’ compensation fund, and
+other fringe benefits.
+
+The City's growth in personnel expenditure is driven by increased spending on salaries and
+wages, retirement benefits, and healthcare. The City's spending on salaries and wages had the
+largest dollar increase ($43.3 million) from FY 2016 to FY 2025, followed by retirement benefits
+($23.9 million) and healthcare ($10.6 million) (Figure 8).
+
+Salaries and wages increased from FY 2016 to FY 2025 primarily due to a $33.3 million increase
+in regular salary expenditures for employees other than Police, and a $10.6 million increase in
+Police and Fire overtime expenditures, adjusted for inflation. Notably, regular salary
+expenditures for Police decreased by $4.8 million from FY 2016 to FY 2025, adjusted for
+
+                                                         11
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+inflation. In our 2022 audit of police overtime, we found the Berkeley Police Department (BPD)
+relied on overtime to achieve its staffing levels.4 Consistent with this audit’s findings, BPD’s
+actual overtime expenditures exceeded its overtime budget for the last three fiscal years,
+according to the BPD’s FY 2025 budget presentation to the Budget and Finance Committee.
+
+
+What is contributing to General Fund expenditure growth?
+In January 2026, the Budget Office highlighted General Fund expenditures that have
+substantially grown, including salaries, pension costs, overtime pay, and public liability
+insurance. However, these costs vary in their contribution to the General Fund baseline overall.
+For FY 2027, salaries are projected to represent 34.8 percent of the General Fund baseline,
+compared to pension costs representing 17.7 percent, overtime pay representing 4.2 percent,
+and public liability insurance representing 3.6 percent.
+
+According to the City Attorney’s Office, cost increases for public liability insurance reflect a
+statewide trend of increasing insurance or self-insurance costs for public entities. The City’s
+public liability insurance is a self-insurance pool administered by the Bay Cities Joint Power
+Insurance Authority (BCJPIA), whose members consist of cities, towns, and other public
+agencies located in the Bay Area. In FY 2025, the City’s public liability insurance cost through
+BCJPIA was $10.46 million, which included risk management support, claims handling, and
+general liability coverage, involving the payout of general liability claims.
+
+
+Recommendation
+1.1 To present clear information regarding the City’s investment performance, we recommend
+    the Finance Department provide an investment report to Council that compares the City’s
+    investment rate of return for the most recent fiscal year to at least the previous five fiscal
+    years, similar to the City’s past annual investment reports.
+
+
+
+
+4 Berkeley Police: Improvements Needed to Manage Overtime and Security Work for Outside Entities
+
+
+                                                        12
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+
+Budgetary Practices: One-time balancing
+strategies can put the long-term sustainability
+of some funds at risk.
+General Fund Deficit
+Berkeley’s General Fund faces a structural deficit. As mentioned previously, a structural deficit
+occurs when budgeted revenues are projected to be less than budgeted expenditures. Berkeley
+has faced a structural General Fund deficit for multiple years. The City currently faces a
+projected structural General Fund deficit that is estimated at $32 million in FY 2027 and $33
+million in FY 2028.5
+
+
+Berkeley relied on one-time balancing measures to address its structural
+deficit in the past.
+Berkeley faces an ongoing structural General Fund deficit due in part to one-time balancing
+measures. For several years, the City used one-time balancing measures to address the
+structural deficit rather than making structural changes to budgetary practices. While one-time
+solutions relying on other funds can be appropriate to balance the General Fund temporarily,
+they do not address the General Fund structural deficit in the long run and can put long-term
+sustainability of these other funds at risk.
+
+For example, to help balance the General Fund in FY 2025, the City redirected $4.7 million
+intended for the workers’ compensation fund to the General Fund. At the time, an external
+actuarial report had previously stated that the City’s workers’ compensation program did not
+have enough assets to cover its estimated future liabilities by approximately $2 million as of
+June 2024. Using funds intended for the workers’ compensation fund put the City at risk of not
+having enough assets to cover workers’ compensation benefits for employees who have suffered
+a work-related injury or illness. It also did not help address the structural deficit in the General
+Fund in the long run.
+
+The City also relied on the Section 115 Trust to help balance the General Fund in FY 2025. The
+City pulled $3 million from the Section 115 Trust to pay for its pension expenses instead of the
+General Fund. The Section 115 Trust is a rainy-day fund that allows the City to set aside
+resources to pay its pension obligations. While the City was authorized to use the Section 115
+Trust to pay for pension expenses, it is not sustainable for the City to continuously rely on the
+
+5 This is the structural deficit estimate as of January 22, 2026.
+
+
+                                                        13
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+Section 115 Trust to meet its pension obligations. By transferring funds out of the Section 115
+Trust, the City may be less prepared to meet its required pension contributions in the long term,
+which can negatively impact the City’s financial condition. We discuss the Section 115 Trust in
+further detail on page 32.
+
+
+City Council’s fiscal policies for budget development can be
+strengthened.
+City Council’s fiscal policies for budget development can be strengthened. By law, the City must
+pass a balanced budget. However, the City can meet the statutory definition of a balanced
+budget by using one-time solutions rather than sustainable strategies. In a 2022 risk analysis
+report commissioned by the City, the Government Finance Officers Association (GFOA)
+recommended the City adopt a policy that commits to using sustainable strategies to pass a
+structurally balanced budget, where recurring revenues are equal to or exceed recurring
+expenditures. GFOA also recommends that city budget policies call for communicating whether
+recurring revenues and recurring expenditures are balanced. While City Council has a fiscal
+policy that requires the budget to primarily allocate one-time revenue for one-time
+expenditures, the Council’s fiscal policies do not require a separate assessment of recurring
+revenues and recurring expenditures.
+
+Some cities have adopted this GFOA best practice in different ways. For example, the City of
+Long Beach adopted a policy that requires the General Fund budget to be structurally balanced
+for the fiscal year. If the General Fund is structurally unbalanced, the policy requires the City to
+explain their approach and time frame for achieving structural balance in the General Fund.
+
+City management has recently used some more sustainable strategies to develop the budget. For
+the fiscal year 2027 and 2028 budget, the Budget Office used the prior year’s actual
+expenditures and projected needs to develop the baseline budget, rather than using the prior
+year’s adopted budget, which had been the practice for many years. According to the Budget
+Office, this new baseline budget approach aims to more accurately project the real cost of
+service. GFOA also states that budgeting based on the estimated cost of services rather than
+assuming the prior year’s budget helps to avoid mid-year budget increases. However, this
+initiative from the Budget Office has not yet been formally adopted as a requirement for future
+budgets.
+
+In addition, the City is considering placing a sales and use tax measure on the 2026 ballot to
+help address its projected General Fund structural deficit and support essential City services.
+The potential 0.5 percent increase in the City’s sales and use tax would provide about $9 to $10
+
+                                                        14
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+million annually for general governmental use until ended by voters, according to sample ballot
+language for the proposed sales and use tax measure.
+
+
+Enterprise Fund Deficits
+Some enterprise funds have structural deficits and receive transfers
+from other funds to balance.
+Some enterprise funds have structural deficits. For example, the Off-Street Parking Fund has a
+deficit due in part to decreased parking revenues because of the pandemic and increased
+expenditures from debt service costs for the Center Street Garage Reconstruction Project. The
+Off-Street Parking Fund uses parking fees to support capital, operation, and maintenance costs
+of three off-street parking facilities owned by the City: the Center Street Garage, the Oxford
+Garage, and the Telegraph Channing Garage. In addition, some of the City’s parking fees have
+not been updated in five or more years, which may have slowed down Off-Street Parking Fund
+revenues. The Off-Street Parking Fund depleted its fund balance in FY 2020 and relies on
+surplus from the Parking Meter Fund to continue operations. In FY 2025, $1 million was
+transferred from the Parking Meter Fund to the Off-Street Parking Fund. The Off-Street Parking
+Fund also received $1.9 million in General Fund support in FY 2022 and a total of $4.1 million
+in ARPA funds in FY 2022 and FY 2023.
+
+The Marina Fund also has a structural deficit and has received transfers from other funds to
+help cover operational and capital needs for many years. According to the adopted FY 2025 and
+FY 2026 budget, the Marina Fund received over $30 million in total capital funding from the T1
+Bond Measure, grants, and General Fund over the previous three years.6 While not a transfer,
+the Marina Fund also received approximately $2.6 million in ARPA funds in FY 2022 and FY
+2023 to help balance the fund. According to Parks, Recreation and Waterfront (PRW)
+leadership, despite an investment in capital funding of more than $50 million over the last 10
+years, unfunded capital infrastructure needs at the waterfront still exceed an estimated $163
+million. Marina Fund revenues primarily come from fees generated from vessels that berth at
+the Marina, commercial building and ground leases, and recreation programs. According to
+PRW leadership, revenues have suffered because several commercial tenants have struggled to
+pay rent, and berth occupancy has not recovered from a safety- and infrastructure-related
+exodus starting in 2016.
+
+City Council’s fiscal policies require enterprise funds to balance. Enterprise funds are intended
+
+
+6 Measure T1 was a $100 million infrastructure bond passed in 2016 to fund improvements to City
+
+infrastructure and facilities.
+                                                        15
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+to be primarily self-supporting and are used for activities which charge fees to customers for
+goods or services. When enterprise funds have structural deficits, they may rely on transfers
+from the General Fund to balance and may worsen the overall City budget deficit.
+
+
+Some enterprise funds make annual transfers out to the General Fund.
+Some enterprise funds also make annual transfers out to the General Fund. In FY 2025, the
+Parking Meter Fund transferred approximately $1 million to the General Fund for the Public
+Commons for Everyone Initiative. This initiative was intended to improve Berkeley’s public
+areas and increase access to public toilets, public seating, trash cans, as well as housing and
+outreach services. The annual transfer out of the Parking Meter Fund to the General Fund may
+not be sustainable when the Parking Meter Fund surplus is also used to help balance the Off-
+Street Parking Fund. Other transfers from enterprise funds to the General Fund include indirect
+cost reimbursements related to the operations of the City as a whole, such as administrative
+support.
+
+
+The City can further strengthen its policies to address enterprise fund
+deficits.
+The City has taken some steps to address enterprise fund deficits. For example, for the fiscal
+year 2027 and 2028 budget, the Budget Office required departments to submit structural
+balancing plans for any fund projecting a deficit. Another example is that the Budget Office
+asked departments to evaluate current fees and propose adjustments where appropriate.
+However, the City does not have a documented citywide policy to regularly evaluate and adjust
+enterprise fees where appropriate. The City also has not regularly evaluated transfers out of
+enterprise funds and how these transfers impact the financial sustainability of these funds.
+
+In response to a GFOA recommendation, City management started but did not complete plans
+to develop reserve policies for enterprise funds. Reserves for enterprise funds can promote
+operational stability and lessen the need for transfers from other funds. On the other hand,
+according to department staff and leadership, reserves may not be feasible for some enterprise
+funds that do not have additional funds to set aside. Some jurisdictions have developed separate
+reserve goals for their enterprise funds. For example, the City of San Diego has different reserve
+goals for their enterprise funds based on a percentage of operating revenues or the minimum
+balance needed to support a specific number of days of operation.
+
+
+
+
+                                                        16
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+Recommendations
+2.1 To help the City pass a structurally balanced budget, we recommend City management
+    propose a fiscal policy to City Council to assess whether recurring revenues and recurring
+    expenditures are balanced, and communicate this information to City Council. We
+    recommend this policy also formalize City management’s initiative to develop the baseline
+    budget using the prior year’s actual expenditures and projected needs.
+
+2.2 To ensure sustainable budgetary strategies continue, we recommend the City publicly report
+     in the adopted budget book that departments are required to submit a structural balancing
+     plan to the Budget Office for enterprise funds that project a deficit. As part of this process,
+     we recommend the Budget Office and departments work together to regularly assess the
+     transfers in and out of these enterprise funds.
+
+2.3 To improve the financial sustainability of enterprise funds, we recommend the City adopt a
+     citywide policy to regularly evaluate enterprise fees and propose adjustments where
+     appropriate to strengthen revenues and help mitigate the future risk of enterprise fund
+     deficits.
+
+2.4 To further improve the financial sustainability of enterprise funds, we recommend the City
+     adopt a policy to establish a reserve for each enterprise fund as appropriate and legally
+     permitted. We recommend the Budget Office and departments work together to determine
+     the appropriate reserve goal for each enterprise fund.
+
+
+
+
+                                                        17
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+
+Demographic and Economic Indicators:
+Berkeley’s economy improved after the
+pandemic but experienced recent declines.
+Berkeley’s population returned to pre-pandemic levels and
+continued to grow.
+Berkeley’s population grew during the audit period between FY 2016 and FY 2025 (Figure 9).
+Population has exceeded pre-pandemic levels after the decline between FY 2020 and FY 2021
+that coincided with the onset of the COVID-19 pandemic.
+
+Figure 9. Population
+
+
+
+                                                                                                      128,348
+                                                                          124,563 123,562   125,327
+                                              123,328 122,580
+                            121,238 121,874
+                  119,915
+                                                                116,761
+
+
+
+
+                    2016     2017    2018      2019    2020      2021      2022    2023      2024      2025
+                                                       Fiscal Year
+
+Source: Berkeley FY 2025 ACFR
+
+UC Berkeley is the City’s largest employer and attracts
+thousands of students and staff to the City.
+During the audit period, University of California, Berkeley (UC Berkeley) brought an average of
+about 44,000 students to Berkeley each year. Between 2016 and 2025, the student population
+increased by about 6,000 students. UC Berkeley was the City’s largest employer, employing
+approximately one-fifth of the City’s workforce, or an average of 14,000 people each year over
+the audit period. University students and staff have contributed to local consumer spending and
+increased sales and use tax revenues. The university presence also generates expenses for the
+City of Berkeley due to students and staff using city services.7 In 2021, UC Berkeley agreed to
+pay the City $82.6 million over 16 years to support city expenses, including fire and other city
+services.
+
+
+
+7 UC Berkeley is a tax-exempt organization under the Internal Revenue Code Section 501(c)(3).
+
+
+                                                           18
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+Unemployment recovered to pre-pandemic levels but has
+trended upward again.
+The City’s unemployment rate increased more than three-fold from 3.1 to 13.5 percent between
+FY 2019 and FY 2020. However, the unemployment rate recovered to pre-pandemic levels in FY
+2022. More recently, the unemployment rate has trended upward again, from 3.1 percent in FY
+2022 to 5.0 percent in FY 2025.
+
+
+Property value continues to grow, while median household
+income has not substantially grown.
+Property values remain a strong and growing source of city revenues. Between FY 2016 and FY
+2025, the assessed value of taxable property in Berkeley increased by 48 percent, from $19.1
+billion to $28.2 billion, adjusted for inflation (Figure 10).
+
+Figure 10. Total Taxable Assessed Property Value (in billions, in 2025 dollars)
+
+                                                                                        $27.1   $28.2
+                                                   $22.1        $22.8   $23.0   $23.4
+                           $19.9   $20.2   $21.0
+                   $19.1
+
+
+
+
+                   2016    2017    2018    2019    2020         2021    2022    2023    2024    2025
+                                                     Fiscal Year
+Source: Berkeley FY 2025 ACFR
+
+Property values are integral to Berkeley’s overall financial health. Growth in taxable assessed
+property value corresponds to growth in property tax revenues because a portion of property
+taxes are based on a percentage of the assessed value of property, otherwise known as ad
+valorem property taxes. Berkeley residents who are renters and do not benefit from increased
+property values may also face higher rents passed down from property owners as a result of
+increased taxes on property.
+
+While property value grew, median household income has not substantially grown. The median
+household income in Berkeley increased by only 1 percent between 2016 and 2024, after
+adjusting for inflation. In 2024, Berkeley's median household income fell roughly in the middle
+of benchmark cities (Figure 11). This may mean that some Berkeley households, especially new
+homeowners, are paying higher ad valorem property taxes while their incomes may have not
+
+                                                           19
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+substantially grown after adjusting for inflation. Due in part to Proposition 13, owners of
+identical properties may pay different amounts of property taxes depending on their time of
+purchase. Under Proposition 13, the assessed value of property is generally determined by the
+purchase price and year of purchase. Therefore, new homeowners, whose properties have been
+recently reassessed at current market value, tend to have higher ad valorem property taxes.
+
+Figure 11. Median Household Income, 2024
+
+                $228,517
+
+                             $180,631
+
+                                         $130,928
+                                                      $105,048    $103,727     $102,235
+                                                                                            $91,318
+
+
+
+
+                Palo Alto   Santa Clara Santa Monica Pasadena     Berkeley     Oakland    Long Beach
+
+
+Source: 2024 American Community Survey (reported in calendar year)
+
+
+
+
+                                                        20
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+
+Net Position, Liquidity, and Reserves:
+Berkeley’s net position, liquidity, and
+reserves indicate improvements.
+Net position measures the difference between the City’s assets (what it owns) and its liabilities
+(what it owes). The City’s assets include cash and investments as well as resources such as
+capital assets that are not easily converted into cash. The City’s liabilities include debt and other
+obligations, such as accounts payable, accrued salaries and wages, and unfunded pension and
+retiree healthcare liabilities. Net position reflects a government’s financial condition at a point
+in time and can be thought of as the City’s remaining resources after its debts are accounted for.
+
+Liquidity measures the City’s cash position, which includes cash on hand and in the bank, as
+well as other assets that can easily be converted into cash, such as short-term investments.
+Liquidity tells us about the City’s ability to pay its short-term obligations, while net position
+represents a longer-term view of the City’s financial condition because it includes assets not
+easily converted into cash.
+
+Reserves are funds set aside for future use and are built up over time from operating surpluses.
+Strong reserves allow cities to weather economic downturns more effectively, manage the
+consequences of outside agency actions that may result in revenue reductions, and address
+unexpected emergencies like natural disasters and other catastrophic events such as pandemics.
+
+
+The City’s net position related to governmental activities
+increased, indicating an improvement.
+The City’s growth in net position indicates an improvement but may also reflect factors outside
+of the City’s control, such as changes in the financial market. Between FY 2018 and FY 2025,
+Berkeley’s net position related to governmental activities increased significantly from -$152.6
+million in FY 2018 to $197.8 million in FY 2025. Specifically, the largest change in net position
+took place between FY 2021 and FY 2022, when the City's net position increased by $169.8
+million (Figure 12). The large increase in net position between FY 2021 and FY 2022 was
+specifically due in part to a decrease in net pension and retiree healthcare liabilities from a gain
+in net investment income. In a later section of this report, we cover the City’s net pension and
+retiree healthcare liabilities in greater detail (see page 30).
+
+
+
+
+                                                        21
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+Figure 12. Governmental Activities Net Position (in millions, in 2025 dollars)
+
+
+                                                                                                             $197.8
+                                                                                $141.5         $162.8
+                                                                       $52.7
+
+
+                             -$124.4          -$139.2   -$117.1
+                -$152.6
+
+
+                 2018            2019          2020       2021       2022        2023           2024         2025
+                                                             Fiscal Year
+Source: Berkeley ACFRs
+Note: We modified the scope of this figure to start in FY 2018, instead of FY 2016, to take into
+consideration a GASB accounting change that impacted net position beginning in FY 2018.
+
+Berkeley’s liquidity ratio, or cash position, is strong and has
+increased since a dip in FY 2021.
+The liquidity ratio, otherwise known as cash position, measures the City's ability to pay its short-
+term obligations. According to the ICMA, the liquidity ratio is calculated by dividing cash and
+short-term investments (assets that can be easily converted to cash) by current liabilities (short-
+term obligations). A liquidity ratio of greater than one indicates that cash and short-term
+investments exceed current liabilities. A ratio of one or less than one would be a cause for
+concern, particularly if this trend persists for more than three years.
+
+Berkeley’s liquidity ratio is strong and has increased since a dip in FY 2021. Between FY 2021
+and FY 2025, the liquidity ratio increased because cash and short-term investments increased
+while current liabilities have decreased. Berkeley’s increased liquidity ratio suggests that
+Berkeley's capacity to pay its bills in the short term has improved. However, Berkeley’s liquidity
+ratio in FY 2025 was not as strong as it was in FY 2019, which suggests Berkeley’s capacity to
+pay its bills in the short-term has not fully recovered to pre-pandemic levels (Figure 13).
+
+Figure 13. Governmental Activities Liquidity Ratio (Current Assets Compared to
+Current Liabilities)
+
+                          5.6           5.9
+               4.5                                4.8                                                  4.3
+                                                                                         4.1
+                                                           3.0                                                   3.4
+                                                                       1.7     2.2
+
+
+
+              2016        2017      2018         2019     2020      2021       2022      2023       2024        2025
+                                                             Fiscal Year
+
+Source: Berkeley ACFRs
+                                                                  22
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+Berkeley has contributed annually to its reserves since our
+2022 audit.
+In FY 2017, the City created the Catastrophic Reserve and the Stability Reserve following a city
+audit of the General Fund reserve policy. The Catastrophic Reserve is intended to support
+General Fund operations in the event of a public emergency defined as extreme, one-time
+events, such as an earthquake, fire, flood, civil unrest, terrorist attack, public health
+emergencies, and pandemics. The Stability Reserve is intended to help the City maintain
+services and reduce financial risks associated with unexpected revenue shortfalls during a single
+fiscal year or prolonged period of recession.
+
+Since our 2022 financial condition audit, the City has contributed annually to its reserves. Our
+previous audit found that the City was not on track to meet its previous reserve balance goal of
+30 percent of budgeted General Fund revenues by FY 2027. This was due in part to the City
+borrowing from the reserves to balance a General Fund deficit caused by COVID-19. Since then,
+the City has made annual contributions and increased its overall reserve levels.
+
+
+The City updated its reserves goal to balance the need to save
+with the need to use funds for alternative uses.
+In July 2025, the City Council passed a resolution to update its General Fund Reserves policy
+based on a GFOA risk assessment of the City’s reserves. GFOA used a risk model to recommend
+a reserves goal that would enable Berkeley to cover projected risks within a ten-year period with
+sufficient confidence. GFOA recommended a range of 20 to 30 percent for the new reserve goal
+to balance the need to save with the need to use funds for alternative uses. Following GFOA’s
+recommendation, the City Council set a new reserves goal to achieve 20 to 30 percent of
+budgeted General Fund revenues within ten years. The new goal starts in FY 2026.
+
+
+The City is on track to meet its updated reserves goal.
+The City is on track to meet its updated reserves goal. As of FY 2025, the reserves level was at
+21.3 percent of General Fund revenues (Table 1).
+
+Table 1. The City is on track to meet its new reserves goal in FY 2026.
+
+         New reserves level goal               FY 2025 reserves level         On track to meet goal in FY 2026?
+                                                                                            YES
+         20 – 30 percent of adopted            21.3 percent of adopted
+          General Fund revenues                General Fund revenues
+
+Source: Berkeley City Manager, Budget Office data; Council Resolution No. 71,908-N.S.
+                                                        23
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+While FY 2026 is outside of our audit scope, City management estimates that the City is on track
+to achieve its new reserves goal in FY 2026, with reserves projected to be at 22.1 percent of
+adopted General Fund revenues. However, the City’s reserves level may change before the end of
+FY 2026 if the City decides to use the Stability Reserve to help address the FY 2027 and FY 2028
+structural General Fund deficit.
+
+
+
+
+                                                        24
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+
+Long-Term Debt and Liabilities: Long-term
+debt and liabilities have grown overall but
+general obligation bond debt per resident
+has decreased in recent years.
+(Not Including Pension and Retiree Healthcare Liabilities)
+An accounting liability is an obligation to make a payment in the future as a result of a past
+event. Long-term liabilities include debts, in addition to other long-term obligations like accrued
+vacation and sick leave, accrued workers’ compensation claims and judgments, and accrued
+public liability claims and judgments. Long-term liabilities can include unfunded pension and
+retiree healthcare liabilities, but they are not included in this section and instead discussed
+starting on page 30.
+
+
+Berkeley’s long-term liabilities have grown but still fall in the
+middle of the range compared to benchmark cities.
+Between FY 2016 and FY 2025, the City’s total long-term liabilities increased by 60 percent from
+$208.7 million to $333.8 million, adjusted for inflation (Figure 14).
+
+Figure 14. Governmental Activities Long-Term Liabilities (in millions, in 2025
+dollars)
+
+                                                               $310.9 $331.7 $317.7 $300.0 $333.8
+                                                     $270.6
+                                   $238.9
+                 $208.7
+                          $208.3            $229.2
+                                                       Change in accounting reporting standards
+                                                              in FY 2022 and FY 2023
+
+                  2016    2017     2018     2019     2020     2021    2022     2023    2024       2025
+                                                       Fiscal Year
+
+Source: Berkeley ACFRs
+
+In FY 2022, a change in Governmental Accounting Standards Board (GASB) standards required
+government entities to report leases payable as a long-term liability. In FY 2023, another change
+in GASB accounting standards required government entities to also report Information
+Technology (IT) subscriptions, such as software licenses, as a long-term liability. The addition of
+leases and IT subscriptions did not substantially alter the City's total long-term liabilities, except
+in FY 2025 when the addition of new leases accounted for more than half of the increase from
+FY 2024 to FY 2025 (Figure 14).
+                                                          25
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+Compared to benchmark cities, Berkeley’s long-term liabilities were in the middle of the range at
+$2,358 per resident in FY 2024 (Figure 15). In our 2022 financial condition audit, Berkeley was
+also in the middle of the range.
+
+Figure 15. Governmental Activities Long-Term Liabilities per Resident, FY 2024
+
+                   Santa Clara            $455
+                     Pasadena                                $1,557
+                    Long Beach                                           $2,308
+                       Berkeley                                          $2,358
+                      Oakland                                                     $2,775
+                  Santa Monica                                                             $3,355
+                      Palo Alto                                                                 $3,621
+
+Source: Cities' FY 2024 ACFRs
+
+Between FY 2016 and FY 2025, Berkeley’s long-term liabilities increased primarily due to
+increased bond debt from general obligation bonds. General obligation bonds are a form of long-
+term debt that cities use to finance capital infrastructure projects and are paid back through
+property taxes based on assessed value. General obligation bonds are approved through bond
+measures that must have at least two-thirds voter approval to pass.
+
+
+Most of Berkeley’s debt comes from general obligation bonds.
+In FY 2025, debt represented more than three-fourths of Berkeley's long-term liabilities. Eighty
+percent of Berkeley’s debt comes from general obligation bonds (Figure 16). The remaining
+twenty percent of Berkeley's debt comes from revenue bonds, building leases, capital equipment
+leases, loans payable, and IT subscriptions.
+
+Figure 16. Governmental Activities Debt by Type, FY 2025 (in millions)
+
+                                                                      Revenue Bonds
+                                                                        $17.0 (7%)
+                                                                              Building Leases
+                                                                                $22.2 (9%)
+                                 General
+                             Obligation Bonds                                  Capital Leases
+                              $205.4 (80%)                                        $8.8 (3%)
+                                                                               Loans Payable
+                                                                                  $2.5 (1%)
+                                                                          IT Subscriptions
+                                                                             $2.5 (1%)
+
+Source: Berkeley FY 2025 ACFR
+Note: This figure does not include unfunded pension and retiree healthcare liabilities, workers'
+compensation, or other long-term obligations.
+
+                                                        26
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+Berkeley’s general obligation bond rating remained favorable.
+Berkeley’s general obligation bond ratings have been consistently favorable. The City's general
+obligation bond ratings from Standard and Poor's remained at its second highest rating of AA+
+over the audit period (Table 2). The City's general obligation bond ratings from Moody's
+improved from Aa2 to Aa1 in FY 2019, the second highest rating offered by Moody's. Bond
+ratings issued by credit agencies are a measure of the certainty that the City will pay all interest
+and principal owed to investors. The higher the bond rating, the lower the cost of borrowing.
+The lower the cost of borrowing, the more savings the City can pass on to taxpayers.
+
+Table 2. Berkeley’s General Obligation Bond Ratings
+                                                                    Fiscal Year
+                                     2016   2017    2018     2019   2020 2021     2022   2023   2024   2025
+        Standard and Poors' Rating   AA+    AA+     AA+      AA+    AA+ AA+       AA+    AA+    AA+    AA+
+             Moody's Rating          Aa2    Aa2     Aa2      Aa1    Aa1     Aa1   Aa1    Aa1    Aa1    Aa1
+Source: Berkeley ACFRs
+
+Berkeley’s general obligation bond debt remained at or less
+than one percent of taxable assessed property value.
+To help ensure proper debt management, cities can limit how much general obligation bond
+debt they issue based on a set percentage of total taxable assessed property value.
+
+During the audit period, the City’s general obligation bond debt remained at or less than one
+percent of taxable assessed property value. In our previous financial condition audit, Berkeley's
+general obligation debt as a percentage of taxable assessed property value was significantly
+lower than the City's threshold of 15 percent at the time. As a result, we recommended the City
+update its debt management policy to set the general obligation threshold to a more locally
+appropriate level. The Finance Department then decreased the general obligation bond
+threshold from 15 percent of assessed value to a more locally appropriate threshold of 6 percent.
+
+
+Berkeley’s general obligation bond debt per resident peaked
+in FY 2022 and declined in recent years.
+General obligation bond debt per resident peaked in FY 2022 and declined after the City did not
+issue more general obligation bond debt (Figure 17).
+
+
+
+
+                                                        27
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+Figure 17. General Obligation Bond Debt per Resident (in 2025 dollars)
+
+                                                              $1,795   $1,880
+                                                                                $1,786
+                                                                                         $1,642
+                                                                                                  $1,524
+                                                $1,385      Measure O
+                          $1,202 $1,096                     $40M Debt
+             $958   $977                         Measure T1   Issued
+                                                  $45M Debt
+                                        Measure O Issued
+                         Measure T1     $38M Debt
+          Measure M      $35M Debt        Issued
+          $15M Debt        Issued
+            Issued
+
+            2016      2017     2018      2019     2020       2021      2022     2023     2024     2025
+                                                    Fiscal Year
+
+Source: Berkeley ACFRs
+
+If Berkeley issued more general obligation bonds, debt service
+tax rates would increase in the near term.
+Debt can be a reasonable financing strategy for local governments. General obligation bond debt
+allows Berkeley to borrow money for capital projects and spreads the cost burden over time so
+that taxpayers who will benefit from the asset now and in the future can help pay for it. Debt
+service is the amount that borrowers are required to pay back for issued debt. Voters approve
+general obligation bonds that are paid back through specific property tax rates based on
+assessed value, which are known as voter-approved ad valorem debt service taxes.
+
+With current resources alone, Berkeley does not have sufficient funding to fully address its
+unfunded capital and deferred maintenance needs, as we will cover in greater detail starting on
+page 34. The longer the City leaves unfunded capital needs unaddressed, the more expensive
+they will be to address in the future.
+
+If Berkeley issued more general obligation bonds, debt service tax rates would increase in the
+near term. City management submitted staff recommendations in December 2025 regarding a
+potential $300 million bond measure in 2026 to help address unfunded capital needs.
+According to City management’s analysis, if Berkeley issued this proposed general obligation
+bond, the projected 40-year average debt service tax rate for property owners would be less than
+the historical average debt service tax rate (Figure 18).8 This average debt service tax rate
+assumes that no other general obligation bonds will be issued other than the proposed $300
+million bond. In the near term, Figure 18 shows that debt service tax rates are likely to increase
+
+
+8 City management’s analysis assumes $100 million would be issued every five years.
+
+
+                                                         28
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+initially. Figure 18 also shows that property owners will not see decreased debt service tax rates
+in their property tax bill until about 20 years have passed.
+
+Figure 18. Historical and Projected Average Tax Rates to Pay Back General
+Obligation Bond Debt
+
+
+
+
+Source: City Manager’s Office
+Note: The historical and projected average tax rates are per $100,000 in assessed property value.
+
+
+
+
+                                                        29
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+
+Net Pension and Retiree Healthcare
+Liabilities: Berkeley’s net pension liability is
+still high risk and retiree healthcare liability
+decreased.
+What is a net pension or net retiree healthcare liability?
+Berkeley contributes to various employee retirement benefit plans including pensions through
+the California Public Employees Retirement System (CalPERS). Pension benefits are earned by
+employees each year to be paid out after they retire. In addition, Berkeley provides other post-
+employment benefits (OPEB), or earned compensation other than pensions, for employees when
+they retire. In Berkeley, OPEB refers to retiree healthcare coverage.
+
+A net pension or net retiree healthcare liability occurs when the estimated cost of benefits
+exceeds the value of the assets that have been set aside to pay for those benefits. The net pension
+liability or net retiree healthcare liability is the unfunded portion of the City’s total pension or
+retiree healthcare liability, also referred to as an unfunded liability.
+
+Pension and retiree healthcare contributions can place significant pressure on a city’s budget.
+Some factors, such as yearly required contributions for CalPERS plans, are set by CalPERS and
+are outside the City’s control, posing a widespread challenge for California cities. Cities that do
+not have substantial funds set aside today will likely face impacts to their credit rating and have
+to make higher contributions to plans later, which could limit funding for other priorities.
+
+
+Net Pension Liability
+Berkeley has three pension plans administered through CalPERS, which are the Miscellaneous
+Plan, the Public Safety Fire Plan, and the Public Safety Police Plan. Berkeley also has two older
+city-sponsored plans that are closed to new members and being phased out: the Berkeley
+Retirement Income Benefit Plan and Safety Members Pension Plan.
+
+
+The City’s net pension liability reached a peak in FY 2021 and
+decreased thereafter.
+The City’s net pension liability reached a peak in FY 2021, then decreased after the peak as
+pension assets increased more than pension liabilities. There was also considerable dip in the
+City’s net pension liability in FY 2022 likely due to a large increase in net investment income
+from the City's CalPERS pension plans (Figure 19). According to the GFOA, Berkeley would have
+                                                        30
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+the highest bond rating, and as a result cheaper borrowing, if not for its pension liabilities.
+
+Figure 19. Net Pension Liability by Plan (in millions, in 2025 dollars)
+
+                            $740.3            $741.2 $757.8
+                   $702.1            $706.6                            $720.0 $743.9 $694.8      Safety Members
+          $642.7
+                                                                                                 Pension Plan
+                                                                                                 Berkeley Retirement
+                                                              $482.5
+                                                                                                 Income Benefit Plan
+                                                                                                 CalPERS Public Safety
+                                                                                                 Police Plan
+                                                                                                 CalPERS Public Safety
+                                                                                                 Fire Plan
+                                                                                                 CalPERS
+                                                                                                 Miscellaneous Plan
+           2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+                                Fiscal Year
+
+Source: Finance Department data
+
+Decisions from the CalPERS Board impact the City’s net pension liability and required pension
+contributions. According to the City’s 2023 unfunded liability report, the City’s annual pension
+payment is estimated to increase from $76 million in FY 2025 to $108 million in FY 2034.
+
+
+Berkeley’s funded ratio is still high risk.
+Berkeley’s funded ratio is high risk according to past methodology from the California State
+Auditor’s Fiscal Health of California Cities dashboard, which is no longer published. The
+pension funded ratio compares the City’s pension plan assets to its accrued pension liabilities.
+Berkeley’s funded ratio, tied with Palo Alto, is ranked the second highest in risk among
+benchmark cities (Figure 20). In our 2022 financial condition audit, Berkeley’s funded ratio was
+also at 66 percent in FY 2020.
+
+Figure 20. Funded Ratio of Pension Plans, FY 2024
+
+        Santa Clara                                                              63%                       High risk
+            Berkeley                                                               66%                     (0-70%)
+           Palo Alto                                                               66%                     Moderate risk
+                                                                                                           (71-80%)
+           Oakland                                                                   68%
+          Pasadena                                                                         74%
+         Long Beach                                                                           78%
+       Santa Monica                                                                           78%
+
+Source: Cities' FY 2024 ACFRs and previous methodology from California State Auditor's Fiscal Health
+Dashboard
+Note: Funded ratios from 81 percent to 100 percent are considered low risk according to past criteria from
+the California State Auditor's dashboard. None of the benchmark cities had funded ratios in this range in
+FY 2024, so this category is not represented in the figure.
+                                                                 31
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+The City has increased its pension savings but has not consistently met
+its annual savings goal.
+Following a city audit of unfunded liabilities, the City authorized an IRS Section 115 Trust Fund
+(Trust) in FY 2018 to help pre-fund its pension obligations. The Trust acts as a rainy-day fund
+that allows the City to set aside resources restricted for payment of pension obligations and is
+intended to prepare for and partially offset increases in contributions in the coming years.
+
+It is important for the City to meet its Trust contribution goal to adequately prepare for
+projected increases in required pension contributions in the coming years. While the City has
+made Trust contributions every year since FY 2019, the City has only met its annual Trust
+contribution goal two out of the seven years (Figure 21). As of June 2025, the City's Trust had a
+balance of $29.5 million.
+
+Figure 21. Contributions to the Section 115 Trust (in millions)
+
+                      $5.2       $5.5                                           $5.7
+
+                                    Target Contribution             $4.3
+                                                          $3.6
+                     $4.5                                          Actual Contribution
+                                                                                           $2.4
+
+                                    $1.4   $1.5
+
+
+
+
+                      2019       2020        2021       2022        2023       2024       2025
+                                                     Fiscal Year
+
+Source: Berkeley ACFRs; May 14, 2019 staff report to City Council
+
+Since our previous audit, City Council adopted a new fiscal policy to increase Trust
+contributions. In June 2022, the City Council adopted a new fiscal policy to allocate one-third of
+additional revenue earned from the City's investments that is over the annual baseline of $6
+million to the Trust. Previously, Trust contributions primarily came from annual savings derived
+from prepayments to CalPERS and transfers from the General Fund and Capital Improvement
+Fund. This new fiscal policy added a new funding source for Trust contributions starting in FY
+2023.
+
+However, City Council’s fiscal policies do not explicitly require the City to replenish the Trust
+after funds are withdrawn. As previously mentioned, in FY 2025, to help balance the General
+Fund, the City used $3 million from the Trust to cover CalPERS contributions. This substantially
+decreased the net contribution made in that year. While the City’s contributions to the Trust are
+important, the City also needs to balance its contribution goals with operational needs.
+                                                32
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+Net Retiree Healthcare Liability
+Net retiree healthcare liability decreased.
+Overall, net retiree healthcare liability decreased by $103.8 million between FY 2016 and FY
+2025 (Figure 22). The City’s net retiree healthcare liability decreased because retiree healthcare
+assets increased while the liabilities decreased from FY 2016 to FY 2025. Notably, the City’s net
+investment income for retiree healthcare substantially increased within the audit period. If the
+City does not pay its retiree healthcare obligations, this could negatively impact the retirees
+receiving these benefits and the City’s bond rating, according to the Finance Director.
+
+Figure 22. Net Retiree Healthcare Liability (in millions, in 2025 dollars)
+
+
+               $147.2                              $165.5
+                        $130.7            $124.5             $132.6
+                                 $116.0
+                                                                      $86.7   $92.4   $84.8
+
+                                                                                               $43.4
+
+
+
+                2016    2017     2018      2019    2020      2021     2022    2023    2024     2025
+                                                     Fiscal Year
+
+Source: Finance Department data
+
+Recommendation
+3.1 To continue to strengthen the Section 115 Trust, we recommend City management propose
+     an amendment to the current Council fiscal policies to explicitly require the City to
+     replenish the Trust after funds are withdrawn, as long as contributions to the Trust are
+     needed to address increased pension costs and the City’s operational needs are taken into
+     consideration. The policy may be modeled off the City’s General Fund Reserve Policy, which
+     requires repayment to begin no more than five years from the date of withdrawal and to be
+     completed within ten years from the date of withdrawal.
+
+
+
+
+                                                        33
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+
+Capital Assets: Unfunded capital needs have
+grown despite some increased investment.
+How do the City’s capital assets impact its financial condition?
+Capital assets are used in city operations and have a life that extends beyond a single financial
+reporting period. Berkeley owns a wide range of capital assets, including public buildings,
+streets, sidewalks, sewers and storm drains, traffic signals, and parking infrastructure. The
+City’s responsibility for managing capital assets requires considerable resources and ongoing
+attention, which impacts the City’s financial condition. As a relatively older city, Berkeley faces
+the added challenges of aging infrastructure.
+
+If a city does not regularly maintain its capital assets, it can face deferred maintenance costs
+down the line. Addressing capital assets once their condition has severely deteriorated is often
+more expensive than regular preventative care or maintenance. According to the Metropolitan
+Transportation Commission, regular maintenance of roads is five to ten times cheaper than
+allowing roads to fail and then paying for the necessary rehabilitation (Figure 23).
+
+Figure 23. Pavement Maintenance Costs
+
+
+
+
+Source: Metropolitan Transportation Commission, Pothole Report III 2018
+
+As we reported in our 2020 audit of Berkeley’s streets, Berkeley needs significant additional
+funding to address the growing backlog of deteriorating streets.9 Since this finding, in November
+2024, voters approved Measure FF, a parcel tax expected to generate $15 million annually for 14
+years, with about 45 percent dedicated to street paving. According to Public Works' analysis,
+
+
+
+9 Rocky Road: Berkeley Streets at Risk and Significantly Underfunded
+
+
+                                                        34
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+Measure FF would not generate sufficient revenue to help the City achieve the pavement
+condition index rating of 70 out of 100, which falls within the good condition range.10
+
+
+Berkeley’s unfunded capital and deferred maintenance needs
+have grown to $1.8 billion.
+Unfunded capital and deferred maintenance needs have grown since our 2022 audit.11 In FY
+2024, the City reported about $1.8 billion in unfunded capital and deferred maintenance needs
+in the FY 2025-FY 2029 Capital Improvement Program (Figure 24). Without sufficient
+investment, these unfunded capital needs will continue to grow.
+
+Figure 24. Unfunded Capital and Deferred Maintenance Needs, FY 2017 to FY 2024
+(in 2025 dollars)
+
+
+                                                                   $1.8 billion      Other Infrastructure
+
+                                                                                     Bike, Pedestrian, and Transit
+                                                                                     Projects
+                                                                                     Traffic Signals
+
+                                                                                     Storm Drains
+
+                                                                                     Sewers
+    $603.5 million
+                                                                                     Streets and Roads
+
+                                                                                     Sidewalks
+
+                                                                                     Public Buildings
+
+                                                                                     Parks, Park Buildings, Pools,
+                                                                                     Waterfront, and Camps
+
+
+ FY 2017                 FY 2019                  FY 2021                  FY 2024
+
+Source: City of Berkeley's Unfunded Liability Reports (FY 2017-FY 2021); FY 2025-FY 2029 Capital
+Improvement Program (FY 2024)
+Note: We did not include IT-related assets due to incomplete data, and these costs would not significantly
+change the total amount of unfunded capital and deferred maintenance needs. Unfunded needs for
+sidewalks were reported starting in FY 2019. Similarly, unfunded needs for bike, pedestrian, and transit
+projects and other infrastructure were reported starting in FY 2024. Unfunded needs for public buildings
+included fire station rehabilitation projects but did not include full fire station renovations. Library
+facilities and facilities leased to other entities at the time of analysis were not included.
+
+10 The pavement condition index is a measure that rates segments of paved roadways on a scale of 0 to
+
+100 with condition categories ranging from a low of “failed” to a high of “excellent.” The “good” condition
+category is the third highest out of seven categories.
+11 Capital and deferred maintenance needs refer to a broad range of necessary activities, including
+
+investment in new capital assets, improving existing capital assets, replacing existing capital assets, and
+repairing existing capital assets.
+                                                        35
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+Berkeley has increased investment in capital infrastructure, but
+it is not enough to cover all its unfunded capital needs.
+Overall, Berkeley has increased investment in capital infrastructure. Over the last ten years,
+Berkeley spent an average of $63.4 million each fiscal year on capital assets (Figure 25). In FY
+2025, Berkeley spent $93.3 million on capital assets, which was the highest level of investment
+in capital assets compared to prior fiscal years in our audit scope (Figure 25). While the City has
+overall increased its investment in capital assets since FY 2016, it does not cover the $1.8 billion
+in unfunded capital needs, according to the current Capital Improvement Program.
+
+Figure 25. Capital Investments (in millions, in 2025 dollars)
+
+                                                                                                 $93.3
+                                 $77.3             $78.5        $79.6
+                                                                        $74.8
+                        $69.5
+
+                                                                                                   $63.4
+                                                    Ten-Year Average
+               $47.3                                                                     $49.9
+                                                                                $38.2
+                                         $25.8
+
+
+                2016     2017    2018     2019     2020         2021    2022    2023    2024     2025
+                                                     Fiscal Year
+
+Source: Berkeley ACFRs
+
+City management did not release an updated unfunded liability
+report for FY 2025 due to limited staff time.
+An important part of Berkeley’s planning process to address its unfunded capital need is City
+management’s presentation of a biennial unfunded liabilities report to City Council. In 2012,
+City Council adopted a resolution requiring the City Manager to report every other year on the
+City’s current liabilities and projections of future liabilities to provide accurate information to
+Council and the public ahead of the City’s budget deliberations. Due to limited staff time and
+competing priorities, City management did not release an updated unfunded liability report for
+FY 2025. As a result, City Council and the public do not have complete information regarding
+the City’s unfunded liabilities in a clear, easily accessible format to inform upcoming budget
+deliberations.
+
+
+
+
+                                                           36
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+The City lacks advanced planning to finance its capital plan in
+the long term.
+To ensure effective management of capital assets, the GFOA recommends that local
+governments prepare and adopt multi-year capital plans that cover a period of five to twenty-
+five years. The City has a Capital Improvement Program (CIP) that identifies capital needs and
+funding sources over five years, which is on the lower end of the recommended period. Given
+that capital assets have life cycles that can last decades, capital plans that cover longer time
+periods can help to anticipate and plan for these long-term costs.
+
+The GFOA also recommends that local governments develop multi-year financing plans
+covering the multi-year period of their capital plan to ensure that their plan is achievable within
+expected funding sources. According to the most recent CIP, the City’s local revenues have not
+kept pace with the investments needed to maintain or update aging infrastructure. This means
+the City will likely need to raise new funding, through sources such as bonds, to address its
+unmet capital needs. However, the CIP does not include advanced planning to determine if and
+when the City should propose new bond measures to address capital needs.
+
+Other jurisdictions have advanced bond planning. For example, San Francisco has a ten-year
+capital plan that includes a planned general obligation bond schedule that considers the City’s
+debt capacity, election schedule, and capital needs. Berkeley Unified School District (BUSD) has
+a ten-year Facilities Master Plan for school building improvements. Historically, BUSD proposes
+new general obligation bonds to Berkeley taxpayers every ten years, and the Master Plan helps
+to identify which capital projects will be financed through bond funding.
+
+As mentioned previously, City management submitted staff recommendations in December
+2025 regarding a potential $300 million bond measure in 2026 to help address unfunded
+capital needs. Beyond this, developing a multi-year capital financing plan that includes
+advanced bond planning could help the City better anticipate and communicate long-term
+funding needs and the proposed timing of future bond measures.
+
+
+Recommendations
+4.1 To provide clear and accurate information on City’s current liabilities and projections of
+     future liabilities, we recommend City management resume providing the biennial unfunded
+     liability report to City Council and the public ahead of the FY 2029 and FY 2030 budget.
+
+
+
+
+                                                        37
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+4.2 To improve the City’s ability to anticipate capital infrastructure needs, we recommend City
+     management extend the Capital Improvement Program (CIP) beyond five years, such as a
+     ten-year CIP.
+
+4.3 To address the City’s long-term capital infrastructure needs, we recommend City
+    management develop a capital financing plan that covers a period at least as long as the CIP
+    and proposes future funding mechanisms beyond existing sources. We recommend that the
+    City plan the timing and amount of potential general obligation bonds multiple years in
+    advance, taking into consideration the City’s existing amount of authorized debt and
+    capacity to borrow. The timing and amount of future bonds should aim to prevent sharp
+    changes in debt service tax rates when possible.
+
+
+
+
+                                                        38
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+
+Management Response
+We provided a draft of this report to the City Manager, Finance, Public Works, and the City
+Attorney for review and comment. City management agreed or partially agreed with our
+findings, conclusions, and recommendations.
+
+We will conduct our standard recommendation follow-up process after the audit is issued. We
+generally expect the City to implement audit recommendations within two years of report
+issuance. We have not yet confirmed to what extent any recommendations may have been
+implemented prior to the audit release date.
+
+Recommendation 1.1: To present clear information regarding the City’s investment
+performance, we recommend the Finance Department provide an investment report to Council
+that compares the City’s investment rate of return for the most recent fiscal year to at least the
+previous five fiscal years, similar to the City’s past annual investment reports.
+
+        Management Response: Partially Agree
+
+        Implementation Date: December 31, 2026
+
+        Corrective Action Plan: The city is required to file quarterly investment reports. For
+        all 4th quarter reports, staff will add a table showing the rate of return for the previous 5
+        years.
+
+Recommendation 2.1: To help the City pass a structurally balanced budget, we recommend
+City management propose a fiscal policy to City Council to assess whether recurring revenues
+and recurring expenditures are balanced, and communicate this information to City Council. We
+recommend this policy also formalize City management’s initiative to develop the baseline
+budget using the prior year’s actual expenditures and projected needs.
+
+        Management Response: Partially Agree
+
+        Implementation Date: June 30, 2028
+
+        Corrective Action Plan: As part of developing the budget, City management currently
+        assesses projected revenues and expenditures to determine whether or not the budget is
+        balanced. This information is communicated to the City Council as part of the budget
+        adoption process and per the City Charter, the City must adopt a balanced budget. For
+        this biennial budget, City management implemented a data driven approach by
+        developing the baseline budget using prior year actuals and projected needs. This change
+        in the process was included in the City’s Budget Instructions and will remain part of the
+
+                                                        39
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+        budget process going forward. Staff will evaluate whether a formal City Council fiscal
+        policy is necessary or whether the same objectives can be achieved through the Budget
+        Instructions and possibly by adding a dedicated section in the Budget Book.
+
+Recommendation 2.2: To ensure sustainable budgetary strategies continue, we recommend
+the City publicly report in the adopted budget book that departments are required to submit a
+structural balancing plan to the Budget Office for enterprise funds that project a deficit. As part
+of this process, we recommend the Budget Office and departments work together to regularly
+assess the transfers in and out of these enterprise funds.
+
+        Management Response: Agree
+
+        Implementation Date: Implemented for the FY 2027 and FY 2028 Biennial Budget
+        Process
+
+        Corrective Action Plan: For this Biennial Budget, the City required the Departments
+        that manages special funds experiencing structural deficits or projecting a deficit to
+        submit a balancing plan and a five-year fund forecast. This step is also documented in
+        the Budget Instructions. The Budget Book also has a dedicated section highlighting the
+        City’s major funds. Other funds that are projecting deficits not currently included can be
+        added for better visibility.
+
+Recommendation 2.3: To improve the financial sustainability of enterprise funds, we
+recommend the City adopt a citywide policy to regularly evaluate enterprise fees and propose
+adjustments where appropriate to strengthen revenues and help mitigate the future risk of
+enterprise fund deficits.
+
+        Management Response: Agree
+
+        Implementation Date: July 1, 2027
+
+        Corrective Action Plan: The City can evaluate when it is appropriate for each
+        enterprise fund to adjust its fees by working closely with the relevant departments and
+        fund managers. Because each enterprise fund is unique, establishing a single,
+        coordinated adjustment schedule may not be feasible. However, the City can develop a
+        set of criteria that would trigger a review and potential adjustments of fees.
+
+
+
+
+                                                        40
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+Recommendation 2.4: To further improve the financial sustainability of enterprise funds, we
+recommend the City adopt a policy to establish a reserve for each enterprise fund as appropriate
+and legally permitted. We recommend the Budget Office and departments work together to
+determine the appropriate reserve goal for each enterprise fund.
+
+        Management Response: Agree
+
+        Implementation Date: June 30, 2028
+
+        Corrective Action Plan: The City can establish a Special Fund Reserve Study Working
+        Group to evaluate and research best practices and industry standards. This group can
+        apply those practices to the City’s needs, fund specific needs and requirements to
+        develop appropriate reserve targets and policies. Since each enterprise fund is unique,
+        establishing a single reserve target for all funds is not feasible.
+
+Recommendation 3.1: To continue to strengthen the Section 115 Trust, we recommend City
+management propose an amendment to the current Council fiscal policies to explicitly require
+the City to replenish the Trust after funds are withdrawn, as long as contributions to the Trust
+are needed to address increased pension costs and the City’s operational needs are taken into
+consideration. The policy may be modeled off the City’s General Fund Reserve Policy, which
+requires repayment to begin no more than five years from the date of withdrawal and to be
+completed within ten years from the date of withdrawal.
+
+        Management Response: Agree
+
+        Implementation Date: To be determined
+
+        Corrective Action Plan: Council Approval Needed
+
+Recommendation 4.1: To provide clear and accurate information on City’s current liabilities
+and projections of future liabilities, we recommend City management resume providing the
+biennial unfunded liability report to City Council and the public ahead of the FY 2029 and FY
+2030 budget.
+
+        Management Response: Agree
+
+        Implementation Date: June 30, 2028
+
+        Corrective Action Plan: The City will resume providing the biennial Unfunded
+        Liability and Unfunded Capital Needs report to the City Council in the second half of FY
+        2028 and return to a regular biennial schedule thereafter.
+
+
+
+
+                                                        41
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+Recommendation 4.2: To improve the City’s ability to anticipate capital infrastructure needs,
+we recommend City management extend the Capital Improvement Program (CIP) beyond five
+years, such as a ten-year CIP.
+
+        Management Response: Partially Agree
+
+        Implementation Date: To be determined, will consider implementation of this
+        recommendation as part of the FY 29 – FY 30 Biennial Budget.
+
+        Corrective Action Plan: Developing long-term projections is necessary to plan. For
+        this reason, every two years the City develops a 5 Year Capital Improvement Program.
+        Projections beyond five years can be unreliable. With that being said, as part of the FY 29
+        – FY 30 Biennial Budget, staff will evaluate the potential to extend the Capital
+        Improvement Program beyond five years.
+
+Recommendation 4.3: To address the City’s long-term capital infrastructure needs, we
+recommend City management develop a capital financing plan that covers a period at least as
+long as the CIP and proposes future funding mechanisms beyond existing sources. We
+recommend that the City plan the timing and amount of potential general obligation bonds
+multiple years in advance, taking into consideration the City’s existing amount of authorized
+debt and capacity to borrow. The timing and amount of future bonds should aim to prevent
+sharp changes in debt service tax rates when possible.
+
+        Management Response: Agree
+
+        Implementation Date: June 30, 2028
+
+        Corrective Action Plan: There is an existing City Council referral that is similar for
+        the current budget cycle that will be implemented.
+
+
+
+
+                                                        42
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+
+Methodology and Compliance
+Methodology
+We used financial indicators included in the International City/County Management
+Association’s (ICMA) Evaluating Financial Condition handbook designed for local
+governments. Additionally, for a few indicators, we adapted methodology from the California
+State Auditor’s Office used for their Fiscal Health of California Cities dashboard that is no longer
+available. We also included some indicators used by peer cities in their financial condition
+audits.
+
+To better understand how some of Berkeley’s financial indicators compared to peer cities, we
+benchmarked Berkeley to other California cities which were selected during our previous
+financial condition audit. Specifically, we benchmarked Berkeley against Long Beach, Oakland,
+Pasadena, Santa Clara, Santa Monica, and Palo Alto because they were similar to Berkeley
+across one or more criteria, such as population, general fund expenditures per resident, services
+provided, and presence of a large university. We included Palo Alto and did not include Davis in
+this audit, unlike our previous financial condition audit, because Davis did not publish a FY
+2024 ACFR during the audit period. Due to variation in the availability of comparison cities’ FY
+2025 ACFRs, we used FY 2024 data for the comparisons where possible.
+
+To meet our objective, we reviewed the following:
+
+    •     Berkeley’s Annual Comprehensive Financial Reports (ACFRs),
+    •     Budget Office reports (Unfunded Liability Obligations and Unfunded Infrastructure
+          Needs reports, city budgets),
+    •     City Auditor reports on financial condition, leases, streets, and police overtime,
+    •     City policies on reserves, debt management, and investments,
+    •     Council reports and presentations related to the City’s finances, and
+    •     The City’s bond rating in the Moody’s 2025 Annual Comment Report.
+
+We also conducted interviews with:
+
+    •     The Director of Finance,
+    •     Staff from the Office of Budget and Fiscal Management (Budget Office) responsible for
+          overseeing the City’s budget and spending,
+    •     The Director of Public Works and Public Works staff responsible for overseeing city
+          spending on capital assets and financial management of the Public Works enterprise
+          funds, including the Off-Street Parking Fund and Parking Meter Fund,
+                                                  43
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+
+    •   The Director of Parks, Recreation and Waterfront responsible for overseeing the
+        financial management of the Marina Fund, and
+    •   Staff at the City’s external financial auditing firm, Badawi and Associates.
+
+We analyzed financial data from the sources below. For all indicators where we adjusted for
+inflation, we used the inflation factor as of June 2025 from the Consumer Price Index: San
+Francisco-Oakland-Hayward Table, 2016-2025, U.S. Department of Labor, Bureau of Labor
+Statistics.
+
+ Report Sources
+ Revenues and Expenses
+ Revenues and Expenses (trends)
+     • City of Berkeley FY 2016 – FY 2025 ACFRs, Government-Wide Financial Statements:
+        Statement of Activities
+ Revenue per Resident (benchmark)
+     • City of Berkeley, Oakland, Long Beach, Pasadena, Santa Clara, Santa Monica, and Palo Alto
+        FY 2024 ACFRs, Government-Wide Financial Statements: Statement of Activities; Statistical
+        Section: Demographic and Economic Statistics
+ Revenues by Source
+     • City of Berkeley FY 2025 ACFR, Government-wide Financial Statements: Statement of
+        Activities
+ Revenues by Source (trends)
+     • City of Berkeley FY 2016 – FY 2025 ACFRs, Government-wide Financial Statements:
+        Statement of Activities
+ Investment Reporting
+     • City of Berkeley Quarterly Investment Reports FY 2025
+     • City of Berkeley Annual Investment Reports
+     • City of Palo Alto and San Jose Investment Reports
+ Revenues from Leases
+     • City of Berkeley Finance Department data FY 2016 – FY 2025
+ Berkeley’s Countywide 1 Percent Ad Valorem Property Tax Distribution
+     • Alameda County Auditor-Controller/Clerk-Recorder’s Office data FY 2025
+ What are your property taxes levied for?
+     • City of Berkeley FY 2025 ACFR, Government-wide Financial Statements, Statement of
+        Activities
+ Expenses by Function
+     • City of Berkeley FY 2016 and FY 2025 ACFRs, Government-wide Financial Statements:
+        Statement of Activities
+ Personnel Expenditures by Category
+     • City of Berkeley City Manager, Budget Office data FY 2016 and FY 2025
+     • City of Berkeley FY 2025 ACFR, Statistical Section: Full-time Equivalent City Governmental
+        Employees by Function/Program
+ General Fund Expenditure Growth
+     • City of Berkeley City Manager, Budget Office’s presentation to the Budget and Finance
+        Committee (1/22/2026)
+ Budgetary Practices
+ General Fund Deficit
+    • City of Berkeley Budgets: FY 2020 and FY 2021, FY 2022, FY 2023 and FY 2024, FY 2024, FY
+        2025 and FY 2026
+    • City Council Resolutions to Adopt Budgets
+
+
+                                                        44
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+ Report Sources
+    • City of Berkeley City Manager, Budget Office: FY 2027 and FY 2028 Budget Development
+        Instructions
+    • Government Finance Officers Association Report: “A Risk-Based Analysis and Stress Test of
+        Long-Term Debt Affordability for the City of Berkeley, California,” 2022
+ Enterprise Fund Deficits
+    • City of Berkeley Budgets: FY 2020 and FY 2021, FY 2022, FY 2023 and FY 2024, FY 2024, FY
+        2025 and FY 2026
+    • City of Berkeley Departments’ presentations to the Budget and Finance Committee
+    • City of Berkeley City Manager, Budget Office: FY 2027 and FY 2028 Budget Development
+        Instructions
+    • City of Berkeley FY 2025 ACFR, Financial Section: Notes to Basic Financial Statements,
+        Interfund Transactions
+ Demographic and Economic Indicators
+ Population
+    • City of Berkeley FY 2025 ACFR, Statistical Section: Demographic and Economic Statistics
+ UC Berkeley Presence
+    • University of California website
+    • University of California Berkeley: Office of the Vice Chancellor website
+    • City of Berkeley Office of Economic Development 2024 Dashboard
+ Unemployment
+    • City of Berkeley FY 2025 ACFR, Statistical Section: Demographic and Economic Statistics
+ Assessed Property Value
+    • City of Berkeley FY 2025 ACFR, Statistical Section: Assessed Value and Estimated Values of
+        Taxable Property
+ Median Household Income (benchmark)
+    • 2016 American Community Survey, City of Berkeley
+    • 2024 American Community Survey, City of Berkeley, Oakland, Long Beach, Pasadena, Santa
+        Clara, Santa Monica, and Palo Alto
+ Net Position, Liquidity, and Reserves
+ Net Position
+     • City of Berkeley FY 2018 – FY 2025 ACFRs, Government-Wide Financial Statements:
+         Statement of Net Position
+ Liquidity Ratio
+     • City of Berkeley FY 2016 – FY 2025 ACFRs Government-Wide Financial Statements:
+         Statement of Net Position
+ General Fund Reserves
+     • City of Berkeley City Manager, Budget Office data, FY 2017 – FY 2025
+     • City of Berkeley City Manager, Budget Office, First Amendment to the FY 2026 Annual
+         Appropriations Ordinance Presentation to Budget and Finance Committee
+     • City Council Resolution Amending the General Fund Reserve Policy (7/29/2025)
+ Long-Term Debt and Liabilities
+ Governmental Activities Long-Term Liabilities
+    • City of Berkeley FY 2016 – FY 2025 ACFRs, Notes to Basic Financial Statements:
+        Governmental Activities Long-Term Liabilities Summary
+ Governmental Activities Long-Term Liabilities per Resident (benchmark)
+    • City of Berkeley, Oakland, Long Beach, Pasadena, Santa Clara, Santa Monica, and Palo Alto
+        FY 2024 ACFRs, Government-Wide Financial Statements: Statement of Net Position
+ Debt by Type
+    • City of Berkeley FY 2025 ACFR, Notes to Basic Financial Statements: Governmental Activities
+        Long-Term Liabilities Summary
+ Bond Ratings
+    • City of Berkeley FY 2016 – FY 2025 ACFRs, Introductory Section
+                                                        45
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+ Report Sources
+    • Standard and Poor’s Ratings Guide
+    • Moody’s Rating Definitions
+ General Obligation Bond Debt as a Proportion of Assessed Property Value
+    • City of Berkeley FY 2025 ACFR, Statistical Section: Ratios of General Bonded Debt
+        Outstanding
+    • City of Berkeley FY 2025 ACFR, Statistical Section: Assessed Value and Estimated Values of
+        Taxable Property
+    • City of Berkeley Debt Management and Disclosure Policy
+ General Obligation Bond Debt per Resident
+    • City of Berkeley FY 2021 and FY 2025 ACFR, Statistical Section: Ratios of General Bonded
+        Debt Outstanding
+    • City of Berkeley FY 2021 and FY 2025 ACFR, Statistical Section: Demographic and Economic
+        Statistics
+ General Obligation Debt Service
+    • City Council Special Meeting Item (12/02/2025), “Discussion Regarding Potential Ballot
+        Measures for the November 3, 2026, General Municipal Election”
+ Net Pension and Retiree Healthcare Liabilities
+ Net Pension Liability by Plan
+     • City of Berkeley Finance Department data FY 2016 – FY 2025
+ Funded Ratio Risk Level (benchmark)
+     • City of Berkeley, Oakland, Long Beach, Pasadena, Santa Clara, Santa Monica, and Palo Alto
+        FY 2024 ACFRs, Required Supplementary Information: Schedule of Changes in the Net
+        Pension Liability and Related Ratios
+ Section 115 Trust Fund
+     • City of Berkeley FY 2016 – FY 2025 ACFRs, Combining Financial Statements and Schedules:
+        Schedule of Revenue, Expenditures, and Changes in Fund Balances – Budget and Actual
+        PERS Savings Fund – Budgetary Basis
+     • City of Berkeley, May 14, 2019 staff report to City Council
+ Net Retiree Healthcare Liability
+     • City of Berkeley Finance Department data FY 2016 – FY 2025
+ Capital Assets
+ Pavement Maintenance Costs
+    • Metropolitan Transportation Commission, The Pothole Report: Bay Area Roads at Risk,
+         September 2018
+ Unfunded Capital and Deferred Maintenance Needs
+    • City of Berkeley Unfunded Liability Reports (FY 2017, FY 2019, FY 2021)
+    • City of Berkeley FY 2025 – FY 2029 Capital Improvement Program
+ Capital Investments
+    • City of Berkeley FY 2016 – FY 2025 ACFRs, Notes to the Basic Financial Statements: Capital
+         Assets
+
+
+Throughout the report, we use the terms expenses and expenditures. Government-wide financial
+statements (including governmental and business-type activities) use the accrual basis of
+accounting and refer to expenses. The accrual basis of accounting reports revenues and expenses
+in the period in which the underlying event occurs, regardless of the timing of cash flows. This
+means that revenues are recorded when earned and expenses are recorded when the liability is
+incurred, instead of when cash is actually received or disbursed. Governmental fund financial
+statements (including the General Fund) use the modified accrual basis of accounting and refer
+to expenditures. Under the modified accrual basis of accounting, revenues are recorded when
+                                              46
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability
+
+measurable and available, and expenditures are recorded when the liability is incurred, except
+for interest on long-term debt, judgments and claims, workers’ compensation, and compensated
+absences, which are recorded when paid.
+
+
+Data Reliability
+We reviewed information for reasonableness and consistency, and we researched data that
+needed additional explanation. We did not, however, audit the accuracy of all source documents
+or the reliability of the data in computer-based systems. As nearly all financial information
+presented is from the City’s ACFRs, we relied on the work performed by the City’s external
+financial auditors.
+
+
+Statement of Compliance
+We conducted this performance audit in accordance with Generally Accepted Government
+Auditing Standards. Those standards require that we plan and perform the audit to obtain
+sufficient, appropriate evidence to provide a reasonable basis for our findings and conclusions
+based on our audit objective. We believe that the evidence obtained provides a reasonable basis
+for our findings and conclusions based on our audit objective.
+
+
+
+
+                                                        47
+Mission Statement
+Promoting transparency and accountability in Berkeley government.
+
+Contributors
+Erin Mullin, Audit Manager
+Caitlin Palmer, Audit Manager
+Kendle Kuechle, Auditor II
+Pauline Miller, Auditor II
+Manami Suenaga, Auditor I
+Katie Wysong, Auditor I
+
+City Auditor
+Jenny Wong
+
+Office of the City Auditor
+Phone: (510) 981-6750
+Email: CityAuditor@berkeleyca.gov
+Website: https://berkeleyca.gov/your-government/city-audits
+
+
+Copies of our audit reports are available on our website.
+
+
+Cover photograph designed by Freepik
+                                                                                         CONSENT CALENDAR
+                                                                                       Tuesday, April 28, 2026
+
+To:        Honorable Mayor and Members of the City Council
+
+From:      Jenny Wong, City Auditor
+
+Subject:   Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to
+           Financial Sustainability
+
+RECOMMENDATION
+We recommend City Council request that the City Manager report back by Fall 2026, and
+annually thereafter, regarding the status of our audit recommendations until reported fully
+implemented by the Finance Department, Budget Office, and other relevant departments. This
+audit includes 9 recommendations to formalize the use of more sustainable budget strategies,
+ensure funds withdrawn from the Section 115 Trust are replenished, improve financial
+reporting, and develop a capital financing plan that proposes future funding mechanisms
+beyond existing sources to help address the City’s growing unfunded capital needs. City
+management agreed or partially agreed to our recommendations. Please see our report for
+their complete response.
+
+FISCAL IMPACTS OF RECOMMENDATION
+The audit recommendations intend to help the City achieve long-term financial sustainability
+and address the financial risks identified in the report. This audit is especially relevant as the
+City will need to make difficult decisions to close the FY 2027 and FY 2028 structural General
+Fund deficit.
+
+CURRENT SITUATION AND ITS EFFECTS
+This audit assessed Berkeley’s financial condition between FY 2016 and FY 2025 using various
+financial indicators. Overall, Berkeley’s long-term financial condition is facing ongoing
+challenges, similar to the findings from our 2022 audit. In the near-term, Berkeley’s structural
+deficit poses additional risk to the City’s long-term financial sustainability. As we stated in our
+2022 audit, it will continue to be important for the City to balance its near-term needs and long-
+term financial obligations.
+
+Near-Term Financial Indicators
+
+ 1. Revenues and Expenses: Despite budgetary challenges, the City’s revenues for
+    governmental activities generally covered actual expenses in the past ten fiscal years,
+    except for FY 2020. Berkeley’s largest source of revenue was property taxes. While a
+    smaller portion of revenue, investment earnings saw the largest percentage increase and
+    lease revenue decreased by nearly one half.
+
+
+
+
+                   2180 Milvia Street, Berkeley, CA 94704 ● Tel: (510) 981-6750 ● TDD: (510) 981-6903
+           E-mail: auditor@berkeleyca.gov Website: http://www.berkeleyca.gov/your-government/city-audits
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability   CONSENT CALENDAR
+
+
+
+
+  2. Budgetary Practices: The City’s previous one-time balancing strategies can put the long-
+     term sustainability of some funds at risk. Some enterprise funds also faced structural
+     deficits and received millions of dollars from the General Fund and other funds to balance.
+     The City is considering placing a sales and use tax measure on the 2026 ballot to generate
+     new revenues to help address its projected General Fund deficit.
+
+  3. Demographic and Economic Indicators: The City’s economy improved after the pandemic
+     but experienced recent declines. Property value continues to grow, while median
+     household income has not substantially grown. Unemployment recovered to pre-
+     pandemic levels but has trended upward again.
+
+  4. Net Position, Liquidity, and Reserves: The City’s net position increased, and its liquidity
+     ratio is strong. The City is on track to meet its updated General Fund reserves goal.
+
+Long-Term Financial indicators
+
+  5. Long-Term Debt and Liabilities: The City’s long-term liabilities have grown. General
+     obligation bond debt per resident peaked in FY 2022 and declined in recent years. The
+     City’s general obligation bond debt remained at or less than one percent of taxable
+     assessed property value.
+
+  6. Net Pension and Retiree Healthcare Liabilities: The City’s unfunded pension liability is still
+     considered high risk and totaled $694.8 million as of FY 2025. However, the City made
+     progress in decreasing its unfunded retiree healthcare liability by more than $100 million.
+     According to the Government Financial Officers Association, Berkeley would have the
+     highest bond rating, and as a result cheaper borrowing, if not for its pension liabilities. The
+     City has not consistently met its annual contribution goal to the Section 115 Trust.
+
+  7. Capital Assets: The City’s unfunded capital and deferred maintenance needs have grown
+     to $1.8 billion in FY 2024 despite some increased investment. Compared to other
+     jurisdictions, Berkeley lacks advanced planning to finance capital needs in the long term.
+     Advanced planning could help the City better anticipate and communicate plans for future
+     bond measures. Without sufficient investment, these unfunded capital needs will
+     continue to grow. To help address some of these capital needs, the City is considering
+     placing a $300 million bond measure on the 2026 ballot.
+
+BACKGROUND
+This audit provides an update on Berkeley’s financial condition since our last financial condition
+audit in 2022. The audit’s purpose is to provide a clear, accessible report for the public and City
+leadership to better understand the City’s near-term and long-term financial condition and help
+inform decision making, especially ahead of difficult budget decisions.
+
+ENVIRONMENTAL SUSTAINABILITY
+There are no identifiable environmental effects or opportunities associated with this report.
+
+
+
+                                                                                                                      Pg. 2 of 3
+Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to Financial Sustainability   CONSENT CALENDAR
+
+
+
+
+RATIONALE FOR RECOMMENDATION
+Implementing our recommendations will improve the City’s long-term financial sustainability. If
+the City uses more sustainable budget strategies rather than one-time solutions to pass future
+budgets, the City is more likely to have recurring revenues cover recurring expenses to sustain
+ongoing operations. If the City explicitly requires the Section 115 Trust to be replenished after
+Trust funds are withdrawn, the City is more prepared to meet its future pension obligations. If
+the City develops a capital financing plan that includes proposals to raise new funding, the City
+is more likely to have sufficient funding to address its unfunded capital and deferred
+maintenance needs.
+
+CONTACT PERSON
+Jenny Wong, City Auditor, City Auditor’s Office, 510-981-6750
+
+
+Attachments:
+1: Audit Report: Berkeley’s Financial Condition (FY 2016-FY 2025): Structural Deficit Poses Risk to
+   Financial Sustainability
+
+
+
+
+                                                                                                                      Pg. 3 of 3
+

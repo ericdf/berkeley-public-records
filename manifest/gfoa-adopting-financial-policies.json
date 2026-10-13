@@ -1,0 +1,20 @@
+{
+  "id": "gfoa-adopting-financial-policies",
+  "layer": "T0",
+  "doc_type": "third_party_publication",
+  "collection": "gfoa",
+  "publisher": "Government Finance Officers Association (GFOA), a professional association of government finance officials",
+  "relevance": "Professional finance-practice guidance on formally adopted financial policies, cited in discussion of Berkeley's real property transfer tax (Measures P and W).",
+  "title": "Adopting Financial Policies (GFOA best practice)",
+  "document_date": "2015-09-30",
+  "file": "T0/gfoa/gfoa-adopting-financial-policies.html",
+  "sha256": "f34dc6b8e5c83718c34ace906e86ccee22e7e99421a871843cfa822879121798",
+  "bytes": 243144,
+  "source_url": "https://www.gfoa.org/materials/adopting-financial-policies",
+  "source_note": "Web page saved as served (HTML) on 2026-10-13; document_date is the board approval date printed on it.",
+  "retrieved": "2026-10-13",
+  "archived": "2026-10-13",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

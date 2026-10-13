@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-07-30-special-item-06d-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-07-30",
+  "meeting_label": "special",
+  "title": "Ballot Measure Amending Chapter 7.52 of the Berkeley Municipal Code to Increase and Extend the General Real Property Transfer Tax",
+  "file": "L1/staff-reports/bcc-2024-07-30-special-item-06d-staff-report-text.txt",
+  "sha256": "b935b1f103c605b34be2909a4eec8c519edef8abe096fb2c9c1ceecf955b62ff",
+  "bytes": 53285,
+  "derived_from": {
+    "id": "bcc-2024-07-30-special-item-06d-staff-report",
+    "sha256": "11e723b00a1c1aff8e5828a1366d5c02dfaac3bd0ef9b9e16b6a1b359640ce4d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-13"
+}

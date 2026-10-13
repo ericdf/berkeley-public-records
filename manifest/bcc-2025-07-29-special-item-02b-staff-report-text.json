@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-07-29-special-item-02b-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-07-29",
+  "meeting_label": "special",
+  "title": "Homeless Response Team: Opportunities Exist to Strengthen Procedures and Better Track Outcomes",
+  "file": "L1/staff-reports/bcc-2025-07-29-special-item-02b-staff-report-text.txt",
+  "sha256": "9e027e5fabe4382eb37f19c79b3114d78a3d8ac6f5617347695b9a0d848f2f05",
+  "bytes": 99462,
+  "derived_from": {
+    "id": "bcc-2025-07-29-special-item-02b-staff-report",
+    "sha256": "03fd1b3ed7c4dfc192f6fc56291e97f92c5891c50a3f14ecdb5b972128dc90c2"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-13"
+}

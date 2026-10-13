@@ -1,0 +1,18 @@
+{
+  "id": "budgets-adopted-cip-fy2025-2029",
+  "layer": "L0",
+  "doc_type": "budget_document",
+  "collection": "budgets",
+  "publisher": "City of Berkeley — City Manager's Office, Office of Budget and Fiscal Management",
+  "title": "Adopted Capital Improvement Program, Fiscal Years 2025-2029",
+  "document_date": "2024",
+  "file": "L0/sources/budgets/budgets-adopted-cip-fy2025-2029.pdf",
+  "sha256": "ff5decf0b99de78a743e7575202bd4190c927d83216dc170666f5e273f3b5519",
+  "bytes": 9568734,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/FY-2025-2029-Capital-Improvement-Program.pdf",
+  "retrieved": "2026-10-13",
+  "archived": "2026-10-13",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

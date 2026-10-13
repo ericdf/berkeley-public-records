@@ -1,0 +1,20 @@
+{
+  "id": "gfoa-multi-year-capital-planning",
+  "layer": "T0",
+  "doc_type": "third_party_publication",
+  "collection": "gfoa",
+  "publisher": "Government Finance Officers Association (GFOA), a professional association of government finance officials",
+  "relevance": "Professional finance-practice guidance on capital planning, cited in discussion of Berkeley's capital program and the November 2026 Measure U bond.",
+  "title": "Multi-Year Capital Planning (GFOA best practice)",
+  "document_date": "2022-09-23",
+  "file": "T0/gfoa/gfoa-multi-year-capital-planning.html",
+  "sha256": "3b51854b30ab2bbd17c62d3a97ff776e1672c36bfe472ebe41ae47f99ca992ae",
+  "bytes": 234971,
+  "source_url": "https://www.gfoa.org/materials/multi-year-capital-planning",
+  "source_note": "Web page saved as served (HTML) on 2026-10-13; document_date is the board approval date printed on it.",
+  "retrieved": "2026-10-13",
+  "archived": "2026-10-13",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
