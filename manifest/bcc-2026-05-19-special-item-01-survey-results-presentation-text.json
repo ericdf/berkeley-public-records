@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-05-19-special-item-01-survey-results-presentation-text",
+  "layer": "L1",
+  "doc_type": "presentation_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-05-19",
+  "meeting_label": "special",
+  "title": "2026 Community Survey II Results & Ballot Measure Considerations",
+  "file": "L1/staff-reports/bcc-2026-05-19-special-item-01-survey-results-presentation-text.txt",
+  "sha256": "7d62dbe941b44e5a46841185ab2a064e2172bdd07a543f0865c2e47f089439b6",
+  "bytes": 23917,
+  "derived_from": {
+    "id": "bcc-2026-05-19-special-item-01-survey-results-presentation",
+    "sha256": "3b6247e4b6322cdfd7522471565104923fa6be62fde80cee74522bfa52cf7179"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-14"
+}
