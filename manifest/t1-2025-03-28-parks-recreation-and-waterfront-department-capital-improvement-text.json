@@ -1,0 +1,21 @@
+{
+  "id": "t1-2025-03-28-parks-recreation-and-waterfront-department-capital-improvement-text",
+  "layer": "L1",
+  "doc_type": "city_manager_memo_text",
+  "collection": "t1",
+  "title": "Parks, Recreation, and Waterfront Department Capital Improvement Project and Minor Maintenance Program Update",
+  "file": "L1/sources/t1/t1-2025-03-28-parks-recreation-and-waterfront-department-capital-improvement-text.txt",
+  "sha256": "56fb4f5072826ea1caba790aaabbcea1b4eab87ca63527ec04fbc983ae374847",
+  "bytes": 36381,
+  "derived_from": {
+    "id": "t1-2025-03-28-parks-recreation-and-waterfront-department-capital-improvement",
+    "sha256": "4270217bf18a2b5564f4f839a8d4e34c950d620428002f671e098a2e867563f6"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

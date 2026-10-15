@@ -1,0 +1,21 @@
+{
+  "id": "t1-2025-02-10-opening-of-the-24-hour-telegraph-channing-public-restroom-text",
+  "layer": "L1",
+  "doc_type": "city_manager_memo_text",
+  "collection": "t1",
+  "title": "Opening of the 24-Hour Telegraph-Channing Public Restroom",
+  "file": "L1/sources/t1/t1-2025-02-10-opening-of-the-24-hour-telegraph-channing-public-restroom-text.txt",
+  "sha256": "f18604df767cc6a657dd6e1438d23a795aca0676a747d369592706731730f698",
+  "bytes": 6615,
+  "derived_from": {
+    "id": "t1-2025-02-10-opening-of-the-24-hour-telegraph-channing-public-restroom",
+    "sha256": "eeb1826e3d9d78bd4170e929288fb3f2088bea5011e035355b0e1ec12ecfa8b1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}
