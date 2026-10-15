@@ -1,0 +1,21 @@
+{
+  "id": "t1-2024-03-13-measure-t1-quarterly-report-march-2024-text",
+  "layer": "L1",
+  "doc_type": "off_agenda_memo_text",
+  "collection": "t1",
+  "title": "Measure T1 Quarterly Report – March 2024",
+  "file": "L1/sources/t1/t1-2024-03-13-measure-t1-quarterly-report-march-2024-text.txt",
+  "sha256": "57e929c752f479768c273f9446dbb7267ea81c6f8d4e0ce4c50efb8734f321f3",
+  "bytes": 7912,
+  "derived_from": {
+    "id": "t1-2024-03-13-measure-t1-quarterly-report-march-2024",
+    "sha256": "195b7cd7cf640a24fb4f9fa71b75c26f0b65068a4d6dce25f0c5841349f7daf1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

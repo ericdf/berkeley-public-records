@@ -1,0 +1,21 @@
+{
+  "id": "t1-2026-03-05-measure-t1-aup-fy2024-fy2025-text",
+  "layer": "L1",
+  "doc_type": "agreed_upon_procedures_report_text",
+  "collection": "t1",
+  "title": "Independent Accountant's Report on Agreed-Upon Procedures Applied to Measure T1 Tax Revenues, For the period from July 1, 2023 to June 30, 2025",
+  "file": "L1/sources/t1/t1-2026-03-05-measure-t1-aup-fy2024-fy2025-text.txt",
+  "sha256": "a0197f477e9ad16efaadb31ae1a2ba75972dd4ae1e0e0bc34c94a9c95dd2a60b",
+  "bytes": 5132,
+  "derived_from": {
+    "id": "t1-2026-03-05-measure-t1-aup-fy2024-fy2025",
+    "sha256": "bc85abb6833bfce99ded44db1e2a485f486a8a5d43f354dee1ed5ebbf43530d1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}
