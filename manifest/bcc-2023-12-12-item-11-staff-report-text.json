@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2023-12-12-item-11-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2023-12-12",
+  "meeting_label": "regular",
+  "title": "Contract: Buhler Commercial for Willard Park Clubhouse and Restroom Replacement Project",
+  "file": "L1/staff-reports/bcc-2023-12-12-item-11-staff-report-text.txt",
+  "sha256": "adfe817411e2d576e181aeef8d61f28b5f0571a04a66ec600fd766a66824bffe",
+  "bytes": 10520,
+  "derived_from": {
+    "id": "bcc-2023-12-12-item-11-staff-report",
+    "sha256": "86d17471fef300ca928987a73b64486f14aac3d7b5c148228b1643278487af2f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}
