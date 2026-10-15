@@ -1,0 +1,23 @@
+{
+  "id": "commission-on-aging-2026-03-18-item-01-agenda-text",
+  "layer": "L1",
+  "doc_type": "agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Commission on Aging",
+  "meeting_date": "2026-03-18",
+  "title": "Commission on Aging — Regular Agenda, Wednesday, March 18, 2026",
+  "file": "L1/staff-reports/commission-on-aging-2026-03-18-item-01-agenda-text.txt",
+  "sha256": "252d7005f856fd34895c81f7d2db3eb3ec35493e65675b431168b6681518ae7d",
+  "bytes": 6621,
+  "derived_from": {
+    "id": "commission-on-aging-2026-03-18-item-01-agenda",
+    "sha256": "82f5195c3b8157a73f1cc7eee0d05e356b4728017aa7a713b16bd4765a2457b4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}
