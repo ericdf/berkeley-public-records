@@ -1,0 +1,21 @@
+{
+  "id": "ishii-2026-09-23-state-of-city-vtt",
+  "layer": "T0",
+  "doc_type": "third_party_publication",
+  "collection": "speeches",
+  "publisher": "Contributor-supplied machine transcription; original transcription producer not identified",
+  "relevance": "Transcript export of Mayor Adena Ishii's September 2026 State of the City address at the Freight & Salvage in Berkeley.",
+  "title": "State of the City: Doing Business in Berkeley — machine transcript (VTT export)",
+  "document_date": "2026-09-23",
+  "file": "T0/speeches/ishii-2026-09-23-state-of-city.vtt",
+  "sha256": "68bc9ec8390841d99f51f92ae431758f64e8112cadb4d13ce08a0a644b4daa12",
+  "bytes": 44933,
+  "source_url": null,
+  "source_note": "Supplied by the maintainer as a file upload on 2026-10-15. Original audiovisual recording, transcriber, and publication source not specified. This is an unverified machine transcription, not an official City transcript.",
+  "archived": "2026-10-15",
+  "wayback_url": null,
+  "notices": [
+    "Machine-generated transcript; speaker names and words have not been verified against the original recording."
+  ],
+  "contributed_by": "ericdf"
+}
