@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-06-23-special-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-06-23",
+  "meeting_label": "special",
+  "title": "Adoption of Fiscal Years 2027 and 2028 Biennial Budget and Fiscal Years 2027 – 2031 Capital Improvement Program",
+  "file": "L1/staff-reports/bcc-2026-06-23-special-item-01-staff-report-text.txt",
+  "sha256": "97b47ff7d805f46183455bd42437db0d3b901e5a509f34cb2c11a19b8510aaf9",
+  "bytes": 1052726,
+  "derived_from": {
+    "id": "bcc-2026-06-23-special-item-01-staff-report",
+    "sha256": "1556cdd4f90d36be5e568674a1cbed9b9da6bae1f2e79d143a7502532124ddf6"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-12-02-item-23-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-12-02",
+  "meeting_label": "regular",
+  "title": "Grant Application: Ocean Protection Council SB1 funds for the University Ave Sea-Level Rise Adaptation Plan",
+  "file": "L1/staff-reports/bcc-2025-12-02-item-23-staff-report-text.txt",
+  "sha256": "7c8135c6444e86f3541a49b80930113a2d5a150090fe5eda927145ed113de455",
+  "bytes": 6735,
+  "derived_from": {
+    "id": "bcc-2025-12-02-item-23-staff-report",
+    "sha256": "7725e9233404bc641d3900d6d25b9d79419759706ef161de6dedb03d006ec171"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

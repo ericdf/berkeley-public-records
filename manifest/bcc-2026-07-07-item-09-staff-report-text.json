@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-07-07-item-09-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-07-07",
+  "meeting_label": "regular",
+  "title": "Waterfront Specific Plan Environmental Review Authorization and Near-Term Priority Adjustments",
+  "file": "L1/staff-reports/bcc-2026-07-07-item-09-staff-report-text.txt",
+  "sha256": "5670764d46a1ebc5ac5afdaa7ce105c78cedf9ffb09785ca8c25c28c0f3c6353",
+  "bytes": 25616,
+  "derived_from": {
+    "id": "bcc-2026-07-07-item-09-staff-report",
+    "sha256": "0e7752a43ece0b345356ea2284070da8cc6f8642db15003306782430f02db2fd"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

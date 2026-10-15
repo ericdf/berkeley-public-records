@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-11-19-item-12-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-11-19",
+  "meeting_label": "regular",
+  "title": "Exclusive Negotiating Agreement with TSA Holdings, LLC, for the Property at 199 Seawall Drive",
+  "file": "L1/staff-reports/bcc-2024-11-19-item-12-staff-report-text.txt",
+  "sha256": "90f8d1c79bc82175c979864c0bf9985762e373a4207cdc9a196cd09098f2eb85",
+  "bytes": 31947,
+  "derived_from": {
+    "id": "bcc-2024-11-19-item-12-staff-report",
+    "sha256": "32a3fa9b1ffba2bb338057f2e52deda5233ab1e575b61580254bda87c58d470b"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

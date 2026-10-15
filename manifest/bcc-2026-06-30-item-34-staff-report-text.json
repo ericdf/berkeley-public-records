@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-06-30-item-34-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-06-30",
+  "meeting_label": "regular",
+  "title": "Contract: Redwood Engineering Construction for Cedar Rose Park 5-12 Playground Renovation and Site Improvements",
+  "file": "L1/staff-reports/bcc-2026-06-30-item-34-staff-report-text.txt",
+  "sha256": "0fd31c47c6cf27dabc05f5b50ae7cea264431b1671b799788a8c78d6e0c61ade",
+  "bytes": 7929,
+  "derived_from": {
+    "id": "bcc-2026-06-30-item-34-staff-report",
+    "sha256": "8214def6ba8c4aa881786ddc7f9674eb9d65292d7ea6245487413d176fc21b75"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

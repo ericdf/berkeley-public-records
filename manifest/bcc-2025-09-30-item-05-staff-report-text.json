@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-09-30-item-05-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-09-30",
+  "meeting_label": "regular",
+  "title": "Application to the Behavioral Health Continuum Infrastructure Program (BHCIP) Round 2: Unmet Needs",
+  "file": "L1/staff-reports/bcc-2025-09-30-item-05-staff-report-text.txt",
+  "sha256": "864f1a0795f45777f8bcb5820745a22bca32c2909fca296900fbc14897ae6694",
+  "bytes": 10593,
+  "derived_from": {
+    "id": "bcc-2025-09-30-item-05-staff-report",
+    "sha256": "848914c87b451530518ebe24e463a910beef54e48dd118e68cadf1f4a88754e2"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

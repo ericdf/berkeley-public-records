@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-09-24-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-09-24",
+  "meeting_label": "regular",
+  "title": "Contract: B-Bros Construction Inc. for Temporary Stabilization of Stair Tower Windows at 2180 Milvia Street",
+  "file": "L1/staff-reports/bcc-2024-09-24-item-01-staff-report-text.txt",
+  "sha256": "065b3b56bb491e6e76754e98c90d0bf75ecede14b4047c808524322d4cf5a2f2",
+  "bytes": 7018,
+  "derived_from": {
+    "id": "bcc-2024-09-24-item-01-staff-report",
+    "sha256": "48da66225edf3b8f2ea13a6a6aa989da2adab41d99bdb2d3f559eed39c50ea8a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

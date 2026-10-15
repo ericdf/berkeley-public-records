@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-06-16-item-36-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-06-16",
+  "meeting_label": "regular",
+  "title": "Affirming All-Electric Standards for the 2026 Infrastructure Bond Measure and City Capital Projects",
+  "file": "L1/staff-reports/bcc-2026-06-16-item-36-staff-report-text.txt",
+  "sha256": "216bbbb9e3c9505a1c3de9a2063d987fd946c9b9a2a37c82a3622a234e18017d",
+  "bytes": 15353,
+  "derived_from": {
+    "id": "bcc-2026-06-16-item-36-staff-report",
+    "sha256": "f6ae25209812199613005f0615ba7820bfabb96feae5a3a94d3ddb95fc27573a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-02-10-item-11-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-02-10",
+  "meeting_label": "regular",
+  "title": "Donation: Memorial Bench at Codornices Park in memory of Samuel Reitan Boyden",
+  "file": "L1/staff-reports/bcc-2026-02-10-item-11-staff-report-text.txt",
+  "sha256": "179885b8c31f051f52c60ddb767c10df6c477a66c173a324d418b67b0ca09767",
+  "bytes": 5244,
+  "derived_from": {
+    "id": "bcc-2026-02-10-item-11-staff-report",
+    "sha256": "2798e0908298f09e82d6bf1bc0d4dc1e9bae4dee622f094557f4d74341e98df8"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}
