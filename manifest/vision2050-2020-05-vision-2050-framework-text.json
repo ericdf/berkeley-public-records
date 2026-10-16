@@ -1,0 +1,21 @@
+{
+  "id": "vision2050-2020-05-vision-2050-framework-text",
+  "layer": "L1",
+  "doc_type": "planning_report_text",
+  "collection": "vision2050",
+  "title": "Sustainable and Resilient Infrastructure: Creating a Better Future for Berkeley (presented by the Vision 2050 Task Force)",
+  "file": "L1/sources/vision2050/vision2050-2020-05-vision-2050-framework-text.txt",
+  "sha256": "3673f33494dd26de92855903c63059cb27391cfb4a79d6151c788da4366d5bc8",
+  "bytes": 175536,
+  "derived_from": {
+    "id": "vision2050-2020-05-vision-2050-framework",
+    "sha256": "4406ea645f552205e668bea0bf88b7fb207f01659d0947d879f8f22daffdedb3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-16"
+}
