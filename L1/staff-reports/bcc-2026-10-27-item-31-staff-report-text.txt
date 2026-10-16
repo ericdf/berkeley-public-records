@@ -1,0 +1,840 @@
+                                               Page 1 of 34
+
+
+                                                                                                     31
+
+
+Office of the City Manager
+                                                                    INFORMATION CALENDAR
+                                                                    October 27, 2026
+
+To:              Honorable Mayor and Members of the City Council
+From:            Paul Buddenhagen, City Manager
+Submitted by: Jamie Parks, Director, Public Works
+Subject:         Audit Status Report: 2009 Leases Audit Follow-Up
+
+INTRODUCTION
+On January 24, 2025, the City Auditor released, 2009 Lease Audit Follow-Up – Berkeley
+Faces the Same Risks 16 Years Later1 to City Council with recommendations to
+improve the City’s lease oversight and management. The first status report was
+submitted to Council on October 28, 2025. This information item provides Council with
+an update on the implementation status of the report’s recommendations. This is the
+second status report regarding this audit.
+
+CURRENT SITUATION AND ITS EFFECTS
+The audit included eight recommendations. As of October 2026, staff have started
+implementation for six recommendations, one is partially implemented, and one has not
+started because it requires completion of the other seven before it can commence.
+While work on seven recommendations is ongoing, the only change of status since the
+last status report on October 28, 2025 is associated with recommendation 8.2.2
+
+Please see Attachment 1 for a detailed table of audit report recommendations,
+corrective action plans, and implementation progress. The next status report to Council
+is expected in Fall 2027.
+
+The partially implemented recommendation, 8.2, states, “Public Works and Finance
+should determine if the existing systems can be used to finalize a comprehensive list of
+City leases.” The Auditor’s finding provided further direction to assess existing, planned,
+and other software systems to, “enable more effective oversight of leases.” Public
+Works and Finance concluded the current system is insufficient for the City’s needs. A
+new software system capable of including information for all City owned properties and
+the ability to manage leases, license agreements, insurance documents, and creating
+
+
+
+1 Audit: 2009 Leases Audit Follow-Up: Berkeley Faces the Same Risks 16 Years Later
+2 Recommendation 1.2 is started, not partly implemented as incorrectly described in the 2025 status
+
+report.
+
+
+
+    2180 Milvia Street, Berkeley, CA 94704 ● Tel: (510) 981-7000 ● TDD: (510) 981-6903 ● Fax: (510) 981-7099
+                         E-Mail: manager@berkeleyca.gov Website: https://berkeleyca.gov/
+                                           Page 2 of 34
+
+Audit Report: 2009 Lease Audit Follow-Up                          INFORMATION CALENDAR
+                                                                          October 27, 2026
+
+
+
+
+reports for internal use and regulatory reporting would best serve the City and its real
+property needs.
+
+Staff conducted a thorough review of available options and determined that a cloud-
+based software system integrated with ERMA (i.e., the City’s Tyler Munis financial
+management system) is needed. A software needs checklist was developed in
+coordination with the Parks, Recreation & Waterfront; Health, Housing and Community
+Services; Finance; and IT Departments (“Lease Management Ad Hoc Team”).
+Attachment 2 identifies the Real Property Software Needs Checklist used to solicit
+informal bids from four vendors. Staff identified a preferred vendor, and purchase order
+processing is in progress.
+
+All recommendations require the formation of an interdepartmental team of staff
+involved in lease and license agreement tracking and management. A Lease
+Management Ad Hoc Team was formed and completed the following since the last
+update:
+   1. Built an interdepartmental shared lease list and presented it to the City Budget
+      and Finance Committee on April 9, 2026. Please see Attachment 3 for copies of
+      the list and presentation.
+   2. Documented inconsistencies in data collected by different departments and used
+      the information to create the software needs checklist.
+   3. Recommended an affordable and proven lease and property management
+      software provider for City Management consideration. Software has been
+      selected and implementation will begin no later than December 2026.
+BACKGROUND
+On February 11, 2025, the City Auditor presented 2009 Leases Audit Follow-Up -
+Berkeley Faces the Same Risks 16 Years Later, to City Council. The new report
+assessed the implementation of recommendations from the 2009 audit and concluded
+that the City still faces the same issues and lacks a clear approach to lease
+management, a relevant policy to guide leasing and licensing decisions, and a complete
+central inventory of leases and license agreements. The report asserts that these
+factors continue to compromise the City’s ability to strategically manage City-owned
+property and reopened eight prior recommendations that require collaboration across
+departments to better ensure sound management of City-owned and occupied
+properties.
+
+Public Works and the City Manager’s Office accepted the Auditor’s findings
+and guidance for implementation. The recommendations were re-opened and all parties
+agreed to provide annual updates on implementation until fully completed.
+
+
+
+
+                                              Page 2
+                                           Page 3 of 34
+
+Audit Report: 2009 Lease Audit Follow-Up                         INFORMATION CALENDAR
+                                                                         October 27, 2026
+
+
+
+
+ENVIRONMENTAL SUSTAINABILITY AND CLIMATE IMPACTS
+There are no identifiable environmental effects or opportunities associated with this
+report.
+
+POSSIBLE FUTURE ACTION
+Public Works will continue to work with all City Departments to create a shared list of
+revenue leases, expenditure leases and license agreements using the newly procured
+software system. Additionally, Public Works will lead interdepartmental work to submit a
+draft property management plan with data and recommendations for the City Manager’s
+Office’s consideration in early 2027.
+
+FISCAL IMPACTS OF POSSIBLE FUTURE ACTION
+None at this time.
+
+CONTACT PERSON
+Dionne Early, Real Property Administrator, Public Works, (510) 981-6453
+
+
+
+Attachments:
+1: Audit Findings, Recommendations, and Status Updates
+2: Real Property Software Needs Checklist
+3: Budget & Finance Committee April 9, 2026 Presentation/Handouts
+
+
+
+
+                                              Page 3
+                                                                                                                           Page 4 of 34
+                                                                                                        ATTACHMENT 1
+
+Report Title: 2009 Leases Audit Follow-Up: Berkeley Faces the Same Risks 16 Years Later
+Issue Date: January 24, 2025
+Finding                                         Recommendation                                         Department     Status Last   Current Status Update
+                                                                                                                      Period
+
+                                                            The City Manager should formalize and                                   Started. No change since the last update. The Real
+                                                            approve the division of responsibilities                                Property Administrator is still in the process of soliciting
+                                                            between the Public Works department                                     input from relevant departments about the benefits of
+The City’s 2002 plan to centralize property and             and other departments regarding lease                                   centralized, decentralized or hybrid lease management.
+facility lease management has not been                      management.                                                             Public Works anticipates delivering a draft proposal for
+implemented.                                          1.1                                              Public Works   Started       City Manager comment and input in early 2027.
+                                                                                                                                    Started. Public Works is still assessing the Real Property
+                                                                                                                                    Administrator’s job duties. According to Public Works, the
+                                                                                                                                    department identified a new lease management software
+                                                          The Public Works department should                                        which is expected to be implemented within 3 months.
+The City’s 2002 plan to centralize property and           determine and formally define the role of                                 The department reported they will assess whether
+facility lease management has not been                    the real property administration staff                                    additional staff resources are needed once the new
+implemented.                                          1.2 given available resources.                Public Works      Started       software is live.
+
+                                                                                                                                    Started. The Real Property Administrator last met with
+                                                                                                                                    the interdepartmental team responsible for lease
+The City’s 2002 plan to centralize property and           The City Manager should formally                                          management in April 2026. According to Public Works, a
+facility lease management has not been                    communicate a property management                                         final draft of the property management plan will be
+implemented.                                          1.5 plan with all affected City departments.     Public Works   Started       submitted to the City Manager in early 2027.
+
+                                                                                                                                    Not started. No change since the last update. Updates to
+                                                          Public Works and Finance should update                                    AR 6.6 will be initiated after the City has formally defined
+City staff did not comply with City rules and             Administrative Regulation 6.6 and                                         its lease management structure. This work will require the
+regulations because the City lacks clear                  Contracts Online to give clear direction to                               Real Property Administrator to edit the current AR before
+guidelines and simple tools for effective lease           City staff regarding administration and                                   submitting to the appropriate leadership teams for
+negotiations, reviews, approval, and oversight.       2.1 execution of lease agreements.              Public Works    Not Started   review.
+
+                                                          Public Works should determine what
+                                                          information is needed in a centralized
+                                                          repository of lease information. Staff in                                 Started. The Real Property Administrator collaborated
+                                                          the operating departments responsible                                     with the interdepartmental team responsible for
+                                                          for leases should be consulted to identify                                managing leases and licenses to update the list of City
+A complete inventory of City facility leases with         information that they need for monitoring                                 leases and licenses for an April 2026 presentation to the
+key information is not available; it is not known         leases. This information should be                                        Budget and Finance Committee. Public Works has not yet
+whether all current leases are properly                   included in the centralized repository of                                 provided an overview of the information needed in a
+authorized by executed contracts.                     4.1 lease information.                         Public Works     Started       centralized repository of lease information.
+                                                                                                                        Page 5 of 34
+
+
+
+                                                        Public Works should ensure that relevant
+                                                        detailed information such as contract
+                                                        numbers, annual
+A complete inventory of City facility leases with       cost of living adjustments, and other
+key information is not available; it is not known       lease terms, fees, covenants, and                                        Started. No change since the last update. The Real
+whether all current leases are properly                 locations are included in the complete                                   Property Administrator is still in the process of updating
+authorized by executed contracts.                   4.3 lease inventory detail.                  Public Works      Started       lease and license forms.
+
+                                                                                                                                 Started. According to Public Works, the department
+                                                                                                                                 continues to update a shared drive with lease data,
+                                                        Public Works should make the lease                                       however we were not able to verify the contents of the
+                                                        inventory detail available to City staff so                              shared drive. The department stated that it plans to begin
+                                                        they can utilize the                                                     managing lease and license agreements in the new lease
+A complete inventory of City facility leases with       information to make informed decisions.                                  management software once it is implemented. According
+key information is not available; it is not known       If possible, this information should be                                  to Public Works, the software will allow the Real Property
+whether all current leases are properly                 available online in a format that allows                                 Administrator to assign special permissions to staff for
+authorized by executed contracts.                   4.4 controlled updates of information.          Public Works   Started       editing and updating information.
+                                                                                                                                 Partly Implemented. According to Public Works, the
+                                                                                                                                 department has determined the existing systems are not
+                                                                                                                                 sufficient to finalize a comprehensive list of City leases
+Opportunities to use existing and planned               Public Works and Finance should                                          and licenses. The department has identified a new
+software and other systems to enable more               determine if the existing systems can be                                 property management software which will be used to
+effective oversight of leases and other contracts       used to finalize a                                                       track all City owned properties and associated lease and
+are being overlooked.                               8.2 comprehensive list of City leases.         Public Works    Started       license agreements.
+                                   ATTACHMENT    2
+                                      Page 6 of 34
+
+CITY OF BERKELEY
+REAL PROPERTY SOFTWARE NEEDS
+
+
+The City of Berkeley needs software that simpliﬁes managing a small but complex lease
+portfolio by centralizing data, automating ﬁnancial compliance, and providing proactive
+management tools. The software should act as a "single source of truth," allowing teams in
+Finance, PW real estate, PRW, HHCs and CAO to collaborate using the same up-to-date
+information.
+
+Training and Expansion
+
+While the software will initially be used by Public Works to meet its requirement to maintain
+citywide property and lease lists, assurance is needed that, if desired, expanding use and
+access to other departments is possible without increasing the cost to the City.
+
+    Include unlimited users and the ability to control each user’s access to di erent
+     aspects of the system.
+
+    Include comprehensive training for current and future users; trainers should be
+     experienced with the software but also have lease expertise and accounting expertise.
+
+    Include the ability to track and manage all City owned properties, not just those
+     occupied by third-party tenants.
+
+Key Capabilities Needed
+
+      Centralized Data Repository: To consolidate all lease documents, contracts, and utility
+       bills into one platform, breaking down data silos between departments.
+
+      Automated Accounting & Compliance: To automate calculations GASB 87 and other
+       required reporting to stated standards, generate journal entries, and produce
+       disclosure reports to ensure audit readiness.
+
+      Proactive Alerts & Date Management: Ability to set custom notiﬁcations for critical
+       dates such as renewals, expirations, rent increases, and insurance deadlines to avoid
+       penalties or missed opportunities.
+
+      AI-Powered Data Extraction (not a must but a nice to have): AI automated extraction of
+       key data points from complex lease agreements, reducing manual entry errors.
+
+      Seamless Integrations: It connects with major ERP and ﬁnancial systems (like ERMA)
+       to sync lease information with broader business processes. Flat ﬁles are preferred to
+       start to ensure seamless future integration without compromising ERMA.
+                                        Page 7 of 34
+
+CITY OF BERKELEY
+REAL PROPERTY SOFTWARE NEEDS
+
+
+      Sustainability & ESG Reporting: A platform that can track environmental data—such as
+       energy, waste, and water usage—to help the City have metrics for environmental,
+       social, and governance reporting.
+
+The following checklist aligns with typical municipal real property duties, such as managing
+lease agreements, tracking critical dates, and ensuring ﬁnancial transparency.
+
+Essential Management Tasks
+
+      Centralize Lease Inventory: Locate and consolidate all city leases from various
+       departments into a single "source of truth".
+
+      Monitor Critical Dates: Set automated alerts for lease renewals, expirations, rent
+       increases, and insurance deadlines to prevent penalties.
+
+      Manage Clause & Obligation Tracking: Track speciﬁc city requirements, such as ADA
+       compliance, maintenance responsibilities, and use restrictions directly within lease
+       records.
+
+      Automate Appropriation-Based Options: Use system workﬂows to manage annual
+       rollovers for leases tied to speciﬁc funding cycles.
+
+Standard & Custom Reporting
+
+      GASB 87 & GASB 96 Compliance Reports: Generate audit-ready disclosure reports,
+       including roll-forward reports and amortization schedules for both real estate and
+       software subscriptions (GASB 96 Subscription-Based Information Technology
+       Arrangements (SBITAs), requires government entities to recognize a right-to-use
+       intangible asset and a corresponding subscription liability for cloud computing and
+       software contracts, similar to lease accounting under GASB 87. It applies to contracts
+       over 12 months, e ective for ﬁscal years starting after June 15, 2022.).
+
+      Sustainability & ESG Reports: Track energy and emissions data to align with municipal
+       climate action plans and meet potential net-zero reporting goals.
+
+      Portfolio Health Dashboards: Visualize lease locations and costs through interactive
+       maps and high-level summaries for presentation to the City Council.
+
+      Budget & Forecasting Models: Model lease cost impacts within constrained
+       appropriation cycles to assist in annual city budget planning.
+                                        Page 8 of 34
+
+CITY OF BERKELEY
+REAL PROPERTY SOFTWARE NEEDS
+
+
+System Integrations
+
+      Financial & ERP Systems: Integrate with city ﬁnancial software (like ERMA) to sync
+       journal entries and lease payments with the broader general ledger.
+
+      Accounts Receivable: Streamline the collection of rent from third-party tenants leasing
+       city-owned property.
+
+      EPA Portfolio Manager: Export facility data directly to the EPA's benchmarking tool to
+       simplify public-sector transparency requirements.
+
+      GIS Integration: Connect lease records with the city’s GIS (Geographic Information
+       System) for spatial analysis of city-owned and leased land parcels.
+
+
+
+Communication Needs
+
+It is more important that real property software act as an internal collaboration and data
+centralization resource rather than acting as a direct two-way messaging app for tenants. City
+of Berkeley needs a system of record for ﬁnance, legal, and real estate teams across multiple
+departments. It is more important that the software can be set up to send standard and
+programmable alerts and reminders to the tenants AND to the assigned manager of the lease
+in each department to ensure they communicate with the tenant by phone or email.
+
+Software must support communication in the following ways:
+
+    Internal Collaboration: Multiple departments (Finance, Real Estate, Legal) can access
+     the same lease data and leave notes or track approvals within a controlled
+     environment to ensure everyone is aligned.
+
+    Contact Management: Store and track all contact details for every lease, including
+     tenants, property managers, and attorneys, to quickly ﬁnd who you need to reach via
+     traditional channels.
+
+    External Integration for Alerts: The platform can integrate with communication tools
+     like Outlook. This allows the system to push critical alerts (like renewal deadlines or
+     rent changes) to the appropriate team members who can then reach out to tenants.
+
+    Operational Transparency: By tracking performance and building occupancy, the
+     software provides data that helps the City in its role as property owners "improve
+                                       Page 9 of 34
+
+CITY OF BERKELEY
+REAL PROPERTY SOFTWARE NEEDS
+
+
+      communication" by giving them the facts needed to convey building updates or
+      renegotiate terms e ectively.
+
+    Visual and GIS-Friendly: Highly visual and user-friendly, with interactive maps and a
+     focus on administration.
+
+    Lease Life Focus: must be designed to handle the entire life of the lease after
+     compliance is met, such as tracking CAM (Common Area Maintenance)
+     reconciliations and legal disputes.
+
+    Fiscal Communication: Allows allocation of leases across di erent municipal funds
+     and prepares modiﬁed accrual journal entries easily.
+
+   Desire Operational Impact of the Software
+
+    Cost Savings: Will identify overpayments and non-conforming charges through
+     automated audits, the software helps control expenses and optimize space utilization.
+     Speciﬁcally need to address late payment, nonpayment, and underpayment of rent.
+
+    Enhanced Visibility: City leadership can use real-time dashboards and interactive
+     maps to visualize the entire portfolio of properties and make data-driven decisions
+     regarding acquisitions and/or sale of property and space planning.
+
+    Risk Mitigation: Robust internal controls and a complete audit trail for all lease
+     modiﬁcations help maintain data integrity and reduce the risk of non-compliance
+     particularly with regard to third-party insurance requirements.
+
+
+
+
+Dionne Early, Real Property Administrator
+City of Berkeley
+Department of Public Works – Real Property
+dearly@berkeleyca.gov
+510-981-6453
+                                                       Page 10 of 34
+
+                             ATTACHMENT 3
+
+
+
+
+City Real Property:
+Leases and license Agreements
+PRESENTED FOR
+Budget & Finance Committee
+April 9, 2026
+
+PRESENTED BY
+Public Works: Dionne Early, Real Property Administrator
+Parks, Recreation and the Waterfront: Director Scott Ferris
+                            Page 11 of 34
+
+
+
+   General
+   Property
+   Categories
+• City Administration
+• City Programs
+• City Operations
+• City Property
+  Leased/Licensed to Non-
+  City Tenants
+• Leases Related to Low-
+  Income Housing
+• Successor Agency
+  Properties
+                         Page 12 of 34
+
+
+
+
+                   • Use and Occupancy
+Department
+                   • Fiscal Management and Oversight
+Responsibilities
+                   • Operation and Maintenance
+                                           Page 13 of 34
+
+
+
+Department
+Responsibilities
+(cont.’d)
+• Berkeley Public Library is
+  administratively independent and
+  governed by the City’s only
+  appointed board.
+• PRW manages leases and licenses
+  in parks, camps and the
+  waterfront.
+• PW manages maintenance, repair,
+  and capital improvement of city
+  infrastructure, including streets,
+  sidewalks, utilities, all Civic Center
+  buildings, City garages,
+  Corporation Yard, and Transfer
+  Station, and Fire Stations.
+                          Page 14 of 34
+
+
+
+
+PRW Leases and Licenses
+April 9, 2026
+                                  Page 15 of 34
+
+
+
+
+Overview
+• PRW has 33 lease and license agreements / 41 facilities
+   • 23 active agreements
+   • 12 holdover – Currently working on renewing 9 agreements
+   • 1 pre-lease – 199 Seawall Drive (former Hs. Lordships)
+• Waterfront: 15 agreements
+• Parks: 11 agreements / 15 facilities
+• Non-Park: 3 agreements
+• Leased Facilities (City is tenant): 4 agreements / 8 facilities
+                                                   Page 16 of 34
+
+
+
+Waterfront – 15 Agreements
+• 9 Building Leases:
+   • Berkeley Yacht Club, Cal Adventures, Cal Sailing Club, Berkeley
+     Sportsman Center (Bait Shop), Hana Japan, International
+     Child Resource Institute (ICRI), Patpatia & Associates, Third
+     Plateau, CoB/BPD Traffic Bureau
+                                                                       Berkeley Yacht Club
+• 3 Ground Leases:
+   • Doubletree Hotel, Berkeley Marine Center, Skates on the Bay
+
+• 2 Licenses:
+   • Highline Kites, Roaming Bean Coffee
+
+• 1 Option Agreement for potential Ground
+  Lease:
+   • TSA Holdings at 199 Seawall Drive (Former Hs. Lordships)          125-127 University Ave. (Office suites & BPD Traffic Bureau)
+  Waterfront Agreements                                             Page 17 of 34
+
+                  Tenant                 Address               Lease Status           Initial Term Duration   Current Annual Base Rent
+
+Ground Leases
+
+       Berkeley Marine Center        1 Spinnaker Way               Active             51 years, 1978-2029        $24,480.00 + % rent
+
+            Doubletree Hotel          200 Marina Blvd              Active             61 years, 2020-2080       $985,379.64 + % rent
+
+            Skates on the Bay         100 Seawall Dr               Active             10 years, 2022-2032       $288,000.00 + % rent
+
+           TSA Holding Group          199 Seawall Dr         Option Agreement          2 years, 2026-2028                $0
+
+Building Leases
+
+           Berkeley Yacht Club         1 Seawall Dr                Active             30 years, 2016-2045         $19,696.44 + CIP
+
+    Cal Adventures (UC Berkeley)     124 University Ave   Holdover, In Negotiations    5 years, 2004-2008            $19,350.00
+
+            Cal Sailing Club         124 University Ave   Holdover, In Negotiations    5 years, 2015-2019            $12,762.72
+
+    Int’l Child Resource Institute   125-127 University   Holdover, In Negotiations    3 years, 2014-2017            $36,708.00
+
+              Third Plateau          125-127 University   Holdover, In Negotiations    3 years, 2017-2017            $40,866.00
+
+      Patpatia and Associates        125-127 University    Active, In Negotiations     5 years, 2021-2026            $42,172.32
+
+      CoB/BPD Traffic Bureau         125-127 University            Active              5 years, 2022-2026           $196,056.00
+
+     Berkeley Sportsman Center
+                                     225 University Ave   Holdover, In Negotiations    3 years, 2020-2023            $44,516.16
+             (Bait Shop)
+
+              Hana Japan             235 University Ave            Active              6 years, 2020-2026         $94,416.00 + CIP
+
+Licenses
+
+             Highline Kites          Cesar Chavez Park           Holdover              5 years, 2004-2008            $2,205.00
+
+        Roaming Bean Coffee             South Cove         Active, In Negotiations     1 year, 2024-2025             $3,831.60
+                                                  Page 18 of 34
+
+
+
+Parks – 11 Agreements / 14 Facilities
+• 9 Leases
+  • 5 at Aquatic Park: Bay Area Outreach Recreation Program (BORP),
+    Waterside Workshops, Korsa Musical Theater, Berkeley Rowing Club,
+    Berkeley Water Ski Club
+  • 2 at Live Oak Park: Berkeley Art Center,
+    Korsa Musical Theater
+  • 1 at Cedar Rose Park: Ala Costa Center
+                                                                         Berkeley Rowing Club at Aquatic Park
+  • 1 at James Kenney Park: Bay Area Hispano Institute for Advancement
+    (BAHIA)
+  • Of these, 6 non-profit tenants pay rent + make CIP improvements
+
+
+• 2 Licenses
+  • Aquatic Park: Bay Area Air Quality Management District (BAAQMD)
+  • Virginia-McGee Totland: Jon’s School of Music
+
+
+
+                                                                         BAHIA at James Kenney Park
+                                                                     Page 19 of 34
+Park Agreements
+         Tenant                Address                 Park             Lease Status   Initial Term Duration   Current Annual Base Rent
+LEASES
+ Bay Area Outreach
+                                                                        Holdover, In
+ Recreation Program          80 Bolivar Dr         Aquatic Park                         4 years, 2009-2013          $1,680.00 + CIP
+                                                                        Negotiations
+      (BORP)
+                             80, 82, 84, 90
+Waterside Workshops                                Aquatic Park            Active      10 years, 2022-2032          $2,400.00 + CIP
+                              Bolivar Dr
+Korsa Musical Theater         2925, 2945
+                                                   Aquatic Park            Active      10 years, 2024-2034          $1,200.00 + CIP
+    (Aquatic Park)             Bolivar Dr
+                                                                                                                    $1,300.00 + CIP
+ Berkeley Rowing Club      2851 W Bolivar Dr       Aquatic Park            Active      15 years, 2016-2030
+
+Berkeley Water Ski Club   2821 W Bolivar Drive     Aquatic Park           Holdover      2 years, 2008-2010            $4,900.00
+
+  Berkeley Art Center     1275 Walnut Street       Live Oak Park           Active      10 years, 2018-2028            $1.00 + CIP
+Korsa Musical Theater
+                          1301 Shattuck Ave        Live Oak Park           Active       3 years, 2024-2027            $6,000.00
+  (Live Oak Theater)
+   Ala Costa Center        1300 Rose Street       Cedar Rose Park         Holdover      1 year, 1998-1999               $1.00
+  Bay Area Hispano
+                                                                                                                    $6,556.36 + CIP
+    Institute for          1718 Eighth Street    James Kenney Park         Active      15 years, 2023-2038
+Advancement (BAHIA)
+LICENSES
+  Bay Area Air Quality
+    Mgmt District            80 Bolivar Dr         Aquatic Park            Active      15 years, 2013-2028            $9,803.40
+      (BAAQMD)
+                                                  Virginia-McGee        Holdover, In
+ Jon’s School of Music      1644 Virginia St                                               1 year, 2018               $9,744.00
+                                                   Totland Park         Negotiations
+                                                                   Page 20 of 34
+
+
+
+  Non-Park – 3 Lease Agreements
+                                                                                                 Initial Term
+         Tenant                                  Address                 Lease Status                                 Current Annual Base Rent
+                                                                                                  Duration
+Berkeley Lawn Bowling Club              2270 Acton Street, 94702            Holdover        15 years, 1994-2009              $1,200.00
+ Big Oaks Learning Center
+                                      1907 Harmon Street, 94703             Holdover         5 years, 1992-1997                $1.00
+       (Ephesians)
+ Cazadero Performing Arts               5385 Cazadero Highway,
+                                                                             Active         25 years, 2021-2045           $52,167.33 + CIP
+         Camp                             Cazadero, CA 95421
+
+
+
+
+         Big Oaks Learning Center (adjacent to Greg Brown Park)                       Cazadero Performing Arts Camp
+                                                   Page 21 of 34
+
+
+
+City is Tenant: 4 Agreements / 8 Facilities
+• 2 with US Forest Service (Special Use
+  Permit):
+   • Echo Lake, Tuolumne
+
+• 1 with BUSD (Joint Use Agreement):
+   • Martin Luther King, Jr. Youth Services Center/Young Adult
+     Project (YAP)
+   • Pools: King, West Campus                                      Echo Lake Camp
+   • Parks: King, Thousand Oaks
+
+• 1 with East Bay Regional Park District
+  (Ground Lease):
+   • Tom Bates Regional Sports Complex
+
+
+
+
+                                                                   MLK Jr. Youth Services Center (under construction)
+                                                                 Page 22 of 34
+
+
+Leased Facilities (City is tenant)
+
+
+          Facility                       Address          Lease Status           Initial Term Duration   Current Annual Base Rent/Fee
+ US Forest Service Special Use Permits
+
+                                  7 Echo Lakes Road,
+      Echo Lake Camp                                         Active              20 years, 2011-2030             $500-$2,500
+                                 Echo Lakes, CA 95721
+
+                                31585 Hardin Flat Road,
+      Tuolumne Camp                                          Active              30 years, 2020-2049           $25,000-$75,000
+                                 Groveland, CA 95321
+
+ BUSD Joint Use Agreement
+
+         MLK Youth
+                                     1730 Oregon St          Active              30 years, 2021-2051                 $0
+    Services Center/YAP
+
+         King Pool                 1700 Hopkins St           Active              30 years, 2021-2051                  $0
+
+
+     West Campus Pool              2100 Browning St          Active              10 years, 2021-2031                  $0
+
+
+         King Park                 1700 Hopkins St           Active              25 years, 2021-2046                  $0
+
+    Thousand Oaks Park          1700-1780 Tacoma Ave         Active              25 years, 2021-2046                  $0
+
+ East Bay Regional Parks District (Ground Lease)
+
+ Tom Bates Regional Sports
+                                     400 Gilman St           Active              46 years, 2007-2053                $1,000
+         Complex
+Page 23 of 34
+
+
+
+
+           Public Works Leases
+           and Licenses
+           April 9, 2026
+                                    Page 24 of 34
+
+
+
+
+Overview
+• PW has 16 active leases, 2 cooperative agreements, and 2
+  vacancies at 4 locations
+   • 11 holdover – Telegraph-Channing Mall and Garage
+   • 6 active – BHA’s Lease in 1947 will terminate before the end of fiscal year
+   • 1 cooperative agreement has a lease associated with it – BART at CSG
+   • 1 cooperative agreement is tied to Zero Waste – CCC/Berkeley Recycling
+   • 1 land lease
+• PW Lease Support Only Facilities (City is Tenant): 2 agreements/ 7
+  facilities
+• PW Co-Managed: 7 leases and 8 license agreements at 11
+  buildings
+                                            Page 25 of 34
+
+
+
+Garages – PW Leases
+• Telegraph-Channing Mall: 14 Retail Space
+  Leases, 1 Vacancy, all Market Rate
+   • Nonprofits – Dorothy’s Closet, We Wield The Hammer,
+     Friends of the Library
+   • Food – Plentea (2), Cheese n Stuff, SoDoI
+                                                               Center Street Garage
+   • Others – Framers, Revolution Books, Postal Annex, Moe’s
+     Flowers, M&M Threading
+   • 11 leases in holdover; 3 active; 1 vacancy
+
+
+• Center Street Garage: 2 Lease, 1
+  Cooperative Agreement
+   • Lexi’s Frozen Custard, BART
+
+
+
+                                                               Telegraph-Channing Mall and Garage
+Page 26 of 34
+                                    Page 27 of 34
+
+
+
+PW Lease Support Only
+• Police Accountability Board
+   • Return to their previous offices
+   • Built to PW design at no cost to City
+   • 10-year lease with option for additional 10
+                                                    1900 Addison – Police Accountability
+     years
+• New Fire Headquarters
+   • 6 Buildings
+   • Remodel to include new EOC, training
+     facility, admin
+   • Lease with Option to Purchase
+
+
+                                                    1250 Ninth Street – New Fire HQ
+Page 28 of 34
+                                                    Page 29 of 34
+
+
+
+Co-Managed Sites
+• Co-Manages Agreements with CMO and/or HHCS:
+   •   Old City Hall and Annex Office Building
+   •   Veterans Building
+   •   1947 Center Street
+   •   Ann Chandler Clinic
+   •   University Avenue Center (aka Premier Cru)
+   •   Land Lease – County Courthouse
+   •   Cultural Arts Center and Theater (BRG)
+   •   Animal Shelter Cell Antenna                                  Old City Hall
+
+
+
+• 6 Leases between $1 and $100 per year
+• 2 Leases for $24,000 per year maintenance fee
+• 8 License Agreements between $1 and $100 per year
+• 1 Lease for $25,885 per year for cell tower
+                                                                    University Avenue Center
+                                                                      Page 30 of 34
+
+
+
+
+Please note: 100% of funds collected for Ann Chandler Public Health Center are for PW’s structural maintenance of the building. No rent is collected.
+                                  Page 31 of 34
+
+
+
+Lease Analysis Summary:
+Identify Needed
+Investments
+
+ • Comprehensive Analysis of
+  Building Envelopes and Energy
+  Use Data
+
+ • Updating Retail Spaces and
+  Exploring Option
+
+ • Identify New Locations for
+  Current Old City Hall & Vets
+  Building Tenants
+                               Page 32 of 34
+
+
+
+
+Real Property • Select and Implement Property Management Software
+              • Build an Interactive Map of City Owned Property
+Work Plan     • Prepare RFP for Broker and Appraisal Services
+                  • Renegotiate Agreements in Holdover or Over 15 Years Old
+                  • Collect Unpaid Rent
+                  • Update and Expand Administrative Regulations for Real
+                    Property
+Page 33 of 34
+
+
+
+
+                Interactive
+                Map of City
+                Owned
+                Property +
+                More
+
+
+                https://experience.arcgis.com/experience/6
+                e91337674b646a7b5a4c937a1853539
+                              Page 34 of 34
+
+
+
+
+                   Thank You!
+           Any Questions or Comments?
+
+
+
+
+     Public Works                       Parks, Recreation & Waterfront
+        Dionne Early                                Scott Ferris
+Real Property Administrator                           Director
+       510.981.6453                                510.981.6711
+  DEarly@berkeleyca.gov                       SFerris@berkeleyca.gov
+
