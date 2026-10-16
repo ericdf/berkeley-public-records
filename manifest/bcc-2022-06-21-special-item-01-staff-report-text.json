@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2022-06-21-special-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2022-06-21",
+  "meeting_label": "special",
+  "title": "Discussion and Direction Regarding Vision 2050 Program Plan and Potential Ballot Measures for the November 8, 2022 General Municipal Election",
+  "file": "L1/staff-reports/bcc-2022-06-21-special-item-01-staff-report-text.txt",
+  "sha256": "75b2ecf9bd3cb537e62f28628019ea1c557eab584c88683b12cf0629d3268040",
+  "bytes": 175512,
+  "derived_from": {
+    "id": "bcc-2022-06-21-special-item-01-staff-report",
+    "sha256": "74d0de611aabca04fface0ae59b46012cbf1f45b2d5f589d9af539fcecd979b5"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-16"
+}
