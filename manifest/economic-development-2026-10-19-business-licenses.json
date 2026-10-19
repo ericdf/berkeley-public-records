@@ -1,0 +1,19 @@
+{
+  "id": "economic-development-2026-10-19-business-licenses",
+  "layer": "L0",
+  "doc_type": "economic_report",
+  "collection": "economic_development",
+  "publisher": "City of Berkeley — Open Data Portal",
+  "title": "Business Licenses",
+  "document_date": "2026-10-19",
+  "file": "L0/sources/economic_development/economic-development-2026-10-19-business-licenses.csv",
+  "sha256": "cbffc3b11b886cf8120d4b21d8725b0ca4f8553a5ddb11b6dcbe4f013e62da9c",
+  "bytes": 4203524,
+  "source_url": null,
+  "source_note": "CSV export of the Business Licenses dataset on the City of Berkeley open data portal (data.cityofberkeley.info), downloaded by the maintainer on 2026-10-19; downloaded file name Business_Licenses_20261019.csv.",
+  "retrieved": null,
+  "archived": "2026-10-19",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
