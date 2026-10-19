@@ -161,6 +161,17 @@ apart from the manifest so "archived and fingerprinted" never blurs into "known 
 - **Recordings are large:** a four-hour meeting's MP4 runs to gigabytes. Archive one only when
   a specific need calls for it, and prefer the MP3.
 
+### Third-party recordings
+
+**`catalog/third-party/recordings.json`** lists recordings published by someone other than a
+public body (forums, debates, community meetings) that bear on Berkeley public decisions. Like
+T0, they are kept apart from City records; unlike T0, nothing is downloaded or fingerprinted.
+
+- Each entry gives the `url`, the `title` and `publisher` as published, `upload_date`,
+  `duration`, a neutral `relevance` (why it is listed, not what it shows), and `first_listed`.
+- Entries are added by pull request and never deleted.
+- Archiving one of these recordings makes it a T0 document, by the large-file procedure.
+
 ## Large files
 
 Git is the wrong place for large or bulk binary files: every clone downloads every version
