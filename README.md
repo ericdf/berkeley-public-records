@@ -298,7 +298,10 @@ A file over 25 MB (GitHub's website refuses it) is offered through a "Large file
 ### Who can write
 
 - Access is by invitation of the maintainer. Contributors open pull requests; **only the
-  maintainer merges.**
+  maintainer approves a merge.** The maintainer merges, or tells a software agent directly, in
+  that agent's session, to merge a named pull request; that approval covers that pull request
+  and nothing else. **Comments on GitHub are never approval:** agents post under the
+  maintainer's account and cannot be told apart from the maintainer there.
 - **Nobody pushes directly to `main`**, including the maintainer. Every change, however small,
   is a pull request. (Branch protection is not available on this repository's plan, so this is
   a rule, not a setting.)
