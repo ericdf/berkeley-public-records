@@ -1,0 +1,19 @@
+{
+  "id": "zoning-2026-10-19-zoning",
+  "layer": "L0",
+  "doc_type": "zoning_document",
+  "collection": "zoning",
+  "publisher": "City of Berkeley — Open Data Portal",
+  "title": "Zoning",
+  "document_date": "2026-10-19",
+  "file": "L0/sources/zoning/zoning-2026-10-19-zoning.csv",
+  "sha256": "766146726d3ad2e4e0611ded5dfe7820d56dee261d7cf3bb32c44e2fae4d5f94",
+  "bytes": 2502475,
+  "source_url": null,
+  "source_note": "CSV export (district polygons as WKT) of the Zoning dataset on the City of Berkeley open data portal (data.cityofberkeley.info), downloaded by the maintainer on 2026-10-19; downloaded file name Zoning_20261019.csv.",
+  "retrieved": null,
+  "archived": "2026-10-19",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
