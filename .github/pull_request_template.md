@@ -13,4 +13,4 @@
 - [ ] L0 files over 25 MB are external blobs with at least two copies
 
 ---
-Only the maintainer merges. Agent review comments are input, not approval.
+Only the maintainer approves a merge, directly in an agent's session and naming this PR, or by merging it. Comments on this PR are never approval: agents post under the maintainer's account. Agent review comments are input, not approval.
