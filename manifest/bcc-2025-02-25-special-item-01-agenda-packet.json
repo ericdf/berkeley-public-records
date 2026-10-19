@@ -1,0 +1,21 @@
+{
+  "id": "bcc-2025-02-25-special-item-01-agenda-packet",
+  "layer": "L0",
+  "doc_type": "agenda_material",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "publisher": "City of Berkeley — City Clerk",
+  "title": "Special Meeting Agenda Packet, February 25, 2025 (Berkeley Economic Dashboards Update)",
+  "meeting_date": "2025-02-25",
+  "meeting_label": "special",
+  "item": "Item 1",
+  "file": "L0/staff-reports/bcc-2025-02-25-special-item-01-agenda-packet.pdf",
+  "sha256": "e2bb9209e3650a2070bd7cfefddef813cdf89827786a501dee01fdffa0257f58",
+  "bytes": 4792607,
+  "source_url": "https://berkeleyca.gov/sites/default/files/city-council-meetings/2025-02-25%20Special%20Agenda%20Packet%20-%20Council.pdf",
+  "retrieved": "2026-10-19",
+  "archived": "2026-10-19",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
