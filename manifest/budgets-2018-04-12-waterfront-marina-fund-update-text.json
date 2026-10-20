@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2018-04-12-waterfront-marina-fund-update-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Waterfront / Marina Fund Update",
+  "file": "L1/sources/budgets/budgets-2018-04-12-waterfront-marina-fund-update-text.txt",
+  "sha256": "7a188a63d91cd2970e9f1fe5ff518d3ac880ba19bdb7f18797bfb5fb1abe6b4e",
+  "bytes": 46490,
+  "derived_from": {
+    "id": "budgets-2018-04-12-waterfront-marina-fund-update",
+    "sha256": "d8cac1b47acfbd802bbb9798b400e0f63daa1d7a361ca7ee214b1e36bf44709f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}
