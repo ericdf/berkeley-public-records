@@ -512,6 +512,11 @@ class TestIngestLarge(Base):
         with self.assertRaisesRegex(il.Problem, "already in the archive as budgets-2026-old"):
             il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(len(dup), dup))
 
+    def test_issue_can_supply_an_archive_id(self):
+        body = ISSUE_BODY + "\n### Archive id, if needed\n\nballot-2026-2026-05-19-presentation-part-2\n"
+        p = il.plan(self.root, self.issue(body), tempfile.mkdtemp(), fetch=self.fake_fetch(BIG))
+        self.assertEqual(p["entry"]["id"], "ballot-2026-2026-05-19-presentation-part-2")
+
     def test_needs_a_source(self):
         body = ISSUE_BODY.replace("https://berkeleyca.gov/sites/default/files/2026-05/presentation.pdf",
                                   "_No response_")
@@ -537,6 +542,36 @@ class TestIngestLarge(Base):
         self.assertIsNone(ia["verified"])
         self.assertEqual(drive["verified"], "2026-10-01")
         self.assertEqual(self.validate_errors(), [])
+
+    def test_refuses_to_upload_when_the_branch_exists(self):
+        staging = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, staging)
+        p = il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(BIG), today="2026-10-01")
+        calls = []
+
+        def run(cmd, check=False, cwd=None, capture_output=False):
+            calls.append(cmd)
+            return subprocess.CompletedProcess(cmd, 0 if cmd[:2] == ["git", "rev-parse"] else 2)
+        with self.assertRaisesRegex(il.Problem, "already exists"):
+            il.execute(self.root, p, run=run, open_pr=True, today="2026-10-01")
+        self.assertFalse([c for c in calls if c[0] in ("rclone", "ia")])
+
+    def test_pull_request_branch_starts_from_origin_main(self):
+        staging = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, staging)
+        p = il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(BIG), today="2026-10-01")
+        calls = []
+
+        def run(cmd, check=True, cwd=None, capture_output=False):
+            calls.append(cmd)
+            if cmd[:2] == ["rclone", "copyto"] and cmd[2].startswith(il.REMOTE):
+                shutil.copy(p["staged"], cmd[3])
+            return subprocess.CompletedProcess(cmd, 1 if cmd[0] == "git" and capture_output else 0)
+        with contextlib.redirect_stdout(io.StringIO()):
+            il.execute(self.root, p, run=run, open_pr=True, today="2026-10-01")
+        switch = [c for c in calls if c[:2] == ["git", "switch"]][0]
+        self.assertEqual(switch[-1], "origin/main")
+        self.assertIn(["git", "fetch", "origin", "main"], calls)
 
 
 if __name__ == "__main__":

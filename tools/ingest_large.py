@@ -37,7 +37,7 @@ LABELS = {
     "Publisher": "publisher", "City web address": "source_url", "Google Drive link": "drive_link",
     "How you obtained it": "source_note", "Relevance (T0 only)": "relevance",
     "Collection, if you know it": "collection", "Size, if you know it": "size",
-    "Anything else": "notes",
+    "Anything else": "notes", "Archive id, if needed": "id",
 }
 Problem = pi.Problem
 
@@ -108,7 +108,7 @@ def plan(root, issue, staging, collection=None, fetch=None, today=None):
     f = parse_issue_body(issue.get("body") or "")
     where = f"issue #{n}"
     meta = {k: f[k] for k in ("title", "document_date", "layer", "publisher", "source_url",
-                              "source_note", "relevance", "collection") if f.get(k)}
+                              "source_note", "relevance", "collection", "id") if f.get(k)}
     if collection:
         meta["collection"] = collection
     if not meta.get("collection"):
@@ -143,7 +143,8 @@ def plan(root, issue, staging, collection=None, fetch=None, today=None):
         raise Problem(f"{where}: this file is already in the archive as {by_sha[digest]} (same sha256)")
     mid = place["id"]
     if mid in manifest or mid + "-text" in manifest:
-        raise Problem(f"{where}: id {mid} is already used; rerun after choosing another")
+        raise Problem(f"{where}: id {mid} is already used; add a distinct id under "
+                      f"'Archive id, if needed' in the Issue and rerun")
     if size <= pi.MAX_IN_GIT:
         raise Problem(f"{where}: the file is {size / 1048576:.1f} MB, not over 25 MB. Add it through "
                       f"the inbox instead (inbox/README.md); it was downloaded to {path}")
@@ -194,11 +195,24 @@ def ia_metadata(e):
     return [f"--metadata={k}:{v}" for k, v in md.items() if v]
 
 
+def branch_exists(root, branch, run=subprocess.run):
+    """True if branch exists locally or on origin."""
+    local = run(["git", "rev-parse", "--verify", "--quiet", "refs/heads/" + branch],
+                cwd=root, capture_output=True)
+    remote = run(["git", "ls-remote", "--exit-code", "--heads", "origin", branch],
+                 cwd=root, capture_output=True)
+    return local.returncode == 0 or remote.returncode == 0
+
+
 def execute(root, p, run=subprocess.run, open_pr=False, today=None):
     """The --upload path. Every external step is checked; nothing is written to the manifest
     unless the Drive copy verifies and the Internet Archive accepts the upload."""
     today = today or datetime.datetime.now(datetime.timezone.utc).date().isoformat()
     e, staged = p["entry"], p["staged"]
+    branch = f"large-file/{e['id']}"
+    if open_pr and branch_exists(root, branch, run):
+        raise Problem(f"branch {branch} already exists, locally or on origin: this file may already have "
+                      f"a pull request. Check before uploading again; nothing was uploaded.")
     remote_path = REMOTE + p["drive_path"]
     print(f"\n1. Copying to {remote_path} ...", flush=True)
     run(["rclone", "copyto", staged, remote_path], check=True)
@@ -227,11 +241,11 @@ def execute(root, p, run=subprocess.run, open_pr=False, today=None):
         files += [f"manifest/{text}.json", f"{p['place']['l1']}/{text}.txt"]
     for n in notes:
         print("note:", n)
-    branch = f"large-file/{e['id']}"
     body = (f"Adds `{e['id']}` as an external blob ({e['bytes']} bytes, sha256 `{e['sha256']}`): "
             f"Google Drive copy verified {today}; Internet Archive item `{p['ia_item']}` uploaded, "
             f"to be verified once public.\n\nCloses #{p['issue']}\n")
-    cmds = [["git", "switch", "-c", branch], ["git", "add", *files],
+    cmds = [["git", "fetch", "origin", "main"], ["git", "switch", "-c", branch, "origin/main"],
+            ["git", "add", *files],
             ["git", "commit", "-m", f"Add {e['id']} as an external blob\n\nCloses #{p['issue']}"],
             ["git", "push", "-u", "origin", branch],
             ["gh", "pr", "create", "--repo", REPO, "--base", "main",
