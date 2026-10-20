@@ -1,0 +1,19 @@
+{
+  "id": "streets-2026-10-20-street-centerlines",
+  "layer": "L0",
+  "doc_type": "streets_document",
+  "collection": "streets",
+  "publisher": "County of Alameda — Open Data Portal",
+  "title": "Street Centerlines",
+  "document_date": "2026-10-20",
+  "file": "L0/sources/streets/streets-2026-10-20-street-centerlines.geojson",
+  "sha256": "c6c0568cbd747a2e431e34d6ec1fb22a36da11a32463e635730c46ad37d47094",
+  "bytes": 3508138,
+  "source_url": null,
+  "source_note": "GeoJSON export of the Street Centerlines dataset on the Alameda County open data portal (data.acgov.org), downloaded by the maintainer on 2026-10-20; downloaded file name Street_Centerlines_-1565808225877531882.geojson. All 3,330 segments in the export are in Berkeley (CITYL and CITYR). Segment CREATE_DAT and REV_DATE values are 2015-09-26; document_date is the export date.",
+  "retrieved": null,
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
