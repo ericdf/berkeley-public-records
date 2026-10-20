@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-2026-07-31-san-francisco-bay-plan-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "San Francisco Bay Plan",
+  "file": "L1/sources/waterfront/waterfront-2026-07-31-san-francisco-bay-plan-text.txt",
+  "sha256": "22a07cc8d5ebee1c3d00f87c80766b89f6ac45182a43410699c753b42e527121",
+  "bytes": 630083,
+  "derived_from": {
+    "id": "waterfront-2026-07-31-san-francisco-bay-plan",
+    "sha256": "c58e39dbcf82b23afa4da6f56912c73c17ee5ece4629a53d8bdc9c744b3726ab"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

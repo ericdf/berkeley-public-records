@@ -1,0 +1,37 @@
+{
+  "id": "waterfront-2026-07-31-san-francisco-bay-plan",
+  "layer": "L0",
+  "doc_type": "waterfront_document",
+  "collection": "waterfront",
+  "publisher": "San Francisco Bay Conservation and Development Commission",
+  "title": "San Francisco Bay Plan",
+  "document_date": "2026-07-31",
+  "file": null,
+  "sha256": "c58e39dbcf82b23afa4da6f56912c73c17ee5ece4629a53d8bdc9c744b3726ab",
+  "bytes": 33976831,
+  "source_url": "https://www.bcdc.ca.gov/wp-content/uploads/sites/354/2025/05/SanFranciscoBayPlan_ADA.pdf",
+  "source_note": "Downloaded from the address above on 2026-10-20. The document prints \"Reprinted July 2026\"; document date is the end of that month.",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-waterfront-2026-07-31-san-francisco-bay-plan",
+        "path": "waterfront-2026-07-31-san-francisco-bay-plan.pdf",
+        "uploaded": "2026-10-20",
+        "verified": null,
+        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public."
+      },
+      {
+        "store": "google_drive",
+        "location": "berkeley-public-records-blobs/waterfront-2026-07-31-san-francisco-bay-plan.pdf",
+        "uploaded": "2026-10-20",
+        "verified": "2026-10-20"
+      }
+    ]
+  }
+}
