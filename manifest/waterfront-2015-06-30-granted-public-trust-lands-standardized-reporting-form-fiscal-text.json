@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-2015-06-30-granted-public-trust-lands-standardized-reporting-form-fiscal-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "Granted Public Trust Lands Standardized Reporting Form, Fiscal/Calendar Year: 2014/2015 (FY 2015)",
+  "file": "L1/sources/waterfront/waterfront-2015-06-30-granted-public-trust-lands-standardized-reporting-form-fiscal-text.txt",
+  "sha256": "f902bf46a353d3b6343c84c242ad6bb4efa3604f22f675ad0f93a428ec4e0fd2",
+  "bytes": 20308,
+  "derived_from": {
+    "id": "waterfront-2015-06-30-granted-public-trust-lands-standardized-reporting-form-fiscal",
+    "sha256": "0ee191b3cf586f1ec91638180fdaee7232c7dbdbe92e8309169dae958fac3975"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

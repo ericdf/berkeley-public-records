@@ -1,0 +1,19 @@
+{
+  "id": "waterfront-2020-06-30-granted-public-trust-lands-standardized-reporting-form-slc-150",
+  "layer": "L0",
+  "doc_type": "waterfront_document",
+  "collection": "waterfront",
+  "publisher": "City of Berkeley (grantee report filed with the California State Lands Commission under Public Resources Code § 6306; published by the California State Lands Commission)",
+  "title": "Granted Public Trust Lands Standardized Reporting Form, SLC 150 (formerly Form 12.26), Fiscal/Calendar Year: 2019/2020",
+  "document_date": "2020-06-30",
+  "file": "L0/sources/waterfront/waterfront-2020-06-30-granted-public-trust-lands-standardized-reporting-form-slc-150.pdf",
+  "sha256": "0e51035761543ed681eb478301f0af31c5cfda08a970d7f091e289a6f3372a00",
+  "bytes": 886668,
+  "source_url": "https://slcprdwordpressstorage.blob.core.windows.net/wordpressdata/2018/10/01-03Berkeley-2020.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. No filing date is printed; document_date is the last day of the fiscal year printed on the form (2019/2020).",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

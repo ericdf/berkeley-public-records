@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-2018-06-30-granted-public-trust-lands-standardized-reporting-form-fiscal-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "Granted Public Trust Lands Standardized Reporting Form, Fiscal/Calendar Year: 2017/2018 (FY 2018)",
+  "file": "L1/sources/waterfront/waterfront-2018-06-30-granted-public-trust-lands-standardized-reporting-form-fiscal-text.txt",
+  "sha256": "ae09413ab071654a3ad9ebf829d9ad9ae08d8dab447856f91f56eef7f8734d73",
+  "bytes": 9849,
+  "derived_from": {
+    "id": "waterfront-2018-06-30-granted-public-trust-lands-standardized-reporting-form-fiscal",
+    "sha256": "70accfed93843b8fd94f4ec80e9ee0238d2a9ac8e746ce2c2a3413be52fbd705"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

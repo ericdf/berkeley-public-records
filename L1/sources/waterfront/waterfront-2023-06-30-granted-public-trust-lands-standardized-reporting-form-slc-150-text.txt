@@ -1,0 +1,171 @@
+STATE OF CALIFORNIA – STATE LANDS COMMISSION
+GRANTED PUBLIC TRUST LANDS STANDARDIZED REPORTING FORM
+SLC 150 (formerly Form 12.26)
+
+                       DUE DECEMBER 31 Pursuant to Public Resources Code § 6306
+
+Fiscal/Calendar Year: 2022/2023
+Grantee Name: City of Berkeley
+Contact Person: Alexandra Endress
+Mailing Address: 201 University Ave., Berkeley, CA 94960
+
+1. Funds
+       a. Is a separate fund maintained for trust assets, liabilities, revenues and expenditures?
+                YES                 NO
+          If “Yes”, please list the name(s) of the fund(s).
+          Marina Fund
+
+          If “No”, under what fund are they accounted for?
+
+
+
+       b. Are separate financial statements prepared for the trust?
+                YES ✔               NO
+          If “Yes,” describe the organization of the separate financial statement.
+          City of Berkeley ACFR https://berkeleyca.gov/sites/default/files/documents/annual-comprehensive-financial-report-fy2023.pdf
+
+
+          If “No,” in which financial statements are they included? (Name of the document(s) and
+          the applicable page number(s)).
+
+
+
+2. Revenue
+       a. What was the gross revenue received or generated from trust land or trust assets during the
+          past fiscal year?
+          $6,561,217 (Page 50 of the ACFR, Attached)
+
+       b. Please list all sources of revenue and the amount of revenue generated from each source
+          (e.g., permits, rentals, percentage of lease, etc.).
+
+          Berth Rental Fees, Leases, Licenses, Marina Operation Fees, Launch Ramp Fees, Passenger
+          Fees, Lockers, Live Aboard Fees, Storage Fees, Grants, Loans, General Fund
+
+
+
+                                                                                                                              Page 1 of 2
+STATE OF CALIFORNIA – STATE LANDS COMMISSION
+GRANTED PUBLIC TRUST LANDS STANDARDIZED REPORTING FORM
+SLC 150 (formerly Form 12.26)
+
+
+3. Expenses
+        a. What was the total expenditure of funds received or generated from trust land or assets
+           during the past fiscal year?
+             $7,165,418 (Page 50 of the ACFR, Attached)
+
+        b. What expenses were allocated or charged directly to the trust? Please list the source of the
+           expenditure and the amount expended.
+            Labor, Non-Labor, Loan Repayment, Inter-Departmental Transfers, Utilities, Benefits, Transportation,
+            Communication, IT, Maintenance, Operations, Supplies
+
+        c. Have there been any capital improvements over $250,000 within the current fiscal year? Are
+           any capital improvements over $250,000 expected in the next fiscal year?
+            Yes. 2022/2023: $300,000 for 125/127 University Avenue Repairs. Anticipated 2023/2024: $4,070,000
+            for Selective Piling Replacement Construction and Sewer Replacement University Avenue.
+
+        d. Describe any other disposition of trust funds or assets or any other disposition of the trust
+           lands or trust assets themselves. Include any internal funds that were transferred to other
+           grantees, to the management of entity or under the management of another political
+           subdivision of the grantee under an agreement, settlement, or memorandum of
+           understanding.
+             None.
+
+
+
+
+4. Beginning and Ending Balance
+          Please list the beginning and ending balances for the tidelands trust fund(s) for this past fiscal
+          year.
+
+           Beginning: $3,920,721 | Ending: $1,657,778
+
+
+
+
+                                                                                                            Page 2 of 2
+/City of Berkeley, California                                                                Annual Comprehensive Financial Report
+
+
+
+
+Statement of Revenues, Expenses, and Changes in Net Position
+Proprietary Funds
+For the year ended June 30, 2023
+
+                                                                           Business-type Activities - Enterprise Funds
+
+                                                                   Zero               Marina              Sanitary       Clean Storm
+                                                                   Waste             Operations            Sewer            Water
+Operating revenues:
+  Parking related revenues                                     $            -    $             -     $              -    $           -
+  Marina operations and maintenance                                         -          4,275,479                    -                -
+  Sewer service fees                                                        -                  -           23,674,152                -
+  Clean storm water fees                                                    -                  -                    -        4,421,484
+  Refuse service fees                                              50,886,324                  -                    -                -
+  Building permits                                                          -                  -                    -                -
+  Other permits                                                             -                  -                    -                -
+  Plan checking fees                                                        -                  -                    -                -
+  Other fees                                                                -             15,977              545,109                -
+  Equipment rentals service charge                                          -                  -                    -                -
+  Building maintenance                                                      -                  -                    -                -
+  Central store service charge                                              -                  -                    -                -
+  Workers’ compensation fees                                                -                  -                    -                -
+  IT service fee                                                            -                  -                    -                -
+   Lease revenues                                                           -          2,208,011                    -                -
+   Other revenues                                                       1,407             61,750              166,617                -
+Total operating revenues                                           50,887,731          6,561,217           24,385,878        4,421,484
+
+Operating expenses:
+   Personnel services                                              13,347,377          2,426,508            4,747,579          865,516
+   Employee benefits                                                8,792,816          1,286,807            2,516,768          522,871
+   Transportation                                                   8,740,024            180,349              965,206          789,541
+   Repairs and maintenance                                          1,509,078            291,003            1,057,264          325,745
+   Materials and supplies                                             563,925            207,804              262,738          162,385
+   Utilities                                                          591,583            736,854               21,571           30,102
+   Insurance                                                                -             64,621                    -                -
+   Specialized and professional services                           14,919,443            810,662            1,078,161           95,023
+   Depreciation                                                       429,701            539,160            3,630,746          721,661
+   Judgments and claims                                                     -                  -                    -                -
+   Communication                                                       20,929             25,711               34,156            1,244
+   General administration                                           2,799,129            595,939            1,064,614          364,877
+Total operating expenses                                           51,714,005          7,165,418           15,378,803        3,878,965
+
+Operating income (loss)                                              (826,274)          (604,201)           9,007,075         542,519
+
+Nonoperating revenues (expenses):
+   Investment earnings                                               252,528                3,115            242,108           24,148
+   Interest expense                                                    3,368             (270,403)                 -                -
+   Disposal of capital asset                                               -           (2,517,339)                 -                -
+   Gain (loss) on disposal of capital assets                           1,847                    -                  -                -
+Total nonoperating revenues (expenses)                               257,743           (2,784,627)           242,108           24,148
+
+Income (loss) before transfers                                       (568,531)         (3,388,828)          9,249,183         566,667
+
+  Transfers in                                                              -          1,150,000               90,501         423,291
+  Transfers out                                                      (110,880)            (24,115)           (193,017)        (25,092)
+
+Change in net position                                               (679,411)         (2,262,943)          9,146,667         964,866
+
+
+52                                                                                                       FOR YEAR ENDED JUNE 30, 2023
+       INTRODUCTORY SECTION                                 FINANCIAL SECTION
+                                                              FINANCIAL SECTION                         STATISTICAL SECTION
+
+
+
+
+Total net position - beginning as restated ( see Note 15)                   5,423,304       3,920,721      166,790,104       26,366,259
+
+Total net position - ending                                           $     4,743,893   $   1,657,778    $ 175,936,771   $   27,331,125
+
+
+
+
+The accompanying notes are an integral part of these financial statements
+
+
+
+
+FOR YEAR ENDED JUNE 30, 2023                                                                                                        53
+
