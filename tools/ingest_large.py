@@ -194,11 +194,24 @@ def ia_metadata(e):
     return [f"--metadata={k}:{v}" for k, v in md.items() if v]
 
 
+def branch_exists(root, branch, run=subprocess.run):
+    """True if branch exists locally or on origin."""
+    local = run(["git", "rev-parse", "--verify", "--quiet", "refs/heads/" + branch],
+                cwd=root, capture_output=True)
+    remote = run(["git", "ls-remote", "--exit-code", "--heads", "origin", branch],
+                 cwd=root, capture_output=True)
+    return local.returncode == 0 or remote.returncode == 0
+
+
 def execute(root, p, run=subprocess.run, open_pr=False, today=None):
     """The --upload path. Every external step is checked; nothing is written to the manifest
     unless the Drive copy verifies and the Internet Archive accepts the upload."""
     today = today or datetime.datetime.now(datetime.timezone.utc).date().isoformat()
     e, staged = p["entry"], p["staged"]
+    branch = f"large-file/{e['id']}"
+    if open_pr and branch_exists(root, branch, run):
+        raise Problem(f"branch {branch} already exists, locally or on origin: this file may already have "
+                      f"a pull request. Check before uploading again; nothing was uploaded.")
     remote_path = REMOTE + p["drive_path"]
     print(f"\n1. Copying to {remote_path} ...", flush=True)
     run(["rclone", "copyto", staged, remote_path], check=True)
@@ -227,11 +240,11 @@ def execute(root, p, run=subprocess.run, open_pr=False, today=None):
         files += [f"manifest/{text}.json", f"{p['place']['l1']}/{text}.txt"]
     for n in notes:
         print("note:", n)
-    branch = f"large-file/{e['id']}"
     body = (f"Adds `{e['id']}` as an external blob ({e['bytes']} bytes, sha256 `{e['sha256']}`): "
             f"Google Drive copy verified {today}; Internet Archive item `{p['ia_item']}` uploaded, "
             f"to be verified once public.\n\nCloses #{p['issue']}\n")
-    cmds = [["git", "switch", "-c", branch], ["git", "add", *files],
+    cmds = [["git", "fetch", "origin", "main"], ["git", "switch", "-c", branch, "origin/main"],
+            ["git", "add", *files],
             ["git", "commit", "-m", f"Add {e['id']} as an external blob\n\nCloses #{p['issue']}"],
             ["git", "push", "-u", "origin", branch],
             ["gh", "pr", "create", "--repo", REPO, "--base", "main",
