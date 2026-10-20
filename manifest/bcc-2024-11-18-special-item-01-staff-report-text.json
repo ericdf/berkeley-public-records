@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-11-18-special-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-11-18",
+  "meeting_label": "special",
+  "title": "Update on the Waterfront Specific Plan for the City of Berkeley Public Tidelands Area",
+  "file": "L1/staff-reports/bcc-2024-11-18-special-item-01-staff-report-text.txt",
+  "sha256": "3413d7e841ae224f46fe73b7e341271b3a100bb014252c99c163cf1a9bbbac27",
+  "bytes": 86327,
+  "derived_from": {
+    "id": "bcc-2024-11-18-special-item-01-staff-report",
+    "sha256": "dc5f8798a34e92c6b27e2ddfe3df81a6610122330edfc9c4d19013257ab7303d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}
