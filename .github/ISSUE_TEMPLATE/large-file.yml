@@ -69,6 +69,11 @@ body:
       label: Collection, if you know it
       description: For example sources/budgets, clerk, council-captions, press. The maintainer fills it in otherwise.
   - type: input
+    id: archive_id
+    attributes:
+      label: Archive id, if needed
+      description: Leave blank; the id is worked out from the date and title. Fill in only when the maintainer asks, e.g. when two parts of one document would get the same id. Lowercase letters, digits and hyphens.
+  - type: input
     id: size
     attributes:
       label: Size, if you know it

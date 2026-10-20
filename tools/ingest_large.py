@@ -37,7 +37,7 @@ LABELS = {
     "Publisher": "publisher", "City web address": "source_url", "Google Drive link": "drive_link",
     "How you obtained it": "source_note", "Relevance (T0 only)": "relevance",
     "Collection, if you know it": "collection", "Size, if you know it": "size",
-    "Anything else": "notes",
+    "Anything else": "notes", "Archive id, if needed": "id",
 }
 Problem = pi.Problem
 
@@ -108,7 +108,7 @@ def plan(root, issue, staging, collection=None, fetch=None, today=None):
     f = parse_issue_body(issue.get("body") or "")
     where = f"issue #{n}"
     meta = {k: f[k] for k in ("title", "document_date", "layer", "publisher", "source_url",
-                              "source_note", "relevance", "collection") if f.get(k)}
+                              "source_note", "relevance", "collection", "id") if f.get(k)}
     if collection:
         meta["collection"] = collection
     if not meta.get("collection"):
@@ -143,7 +143,8 @@ def plan(root, issue, staging, collection=None, fetch=None, today=None):
         raise Problem(f"{where}: this file is already in the archive as {by_sha[digest]} (same sha256)")
     mid = place["id"]
     if mid in manifest or mid + "-text" in manifest:
-        raise Problem(f"{where}: id {mid} is already used; rerun after choosing another")
+        raise Problem(f"{where}: id {mid} is already used; add a distinct id under "
+                      f"'Archive id, if needed' in the Issue and rerun")
     if size <= pi.MAX_IN_GIT:
         raise Problem(f"{where}: the file is {size / 1048576:.1f} MB, not over 25 MB. Add it through "
                       f"the inbox instead (inbox/README.md); it was downloaded to {path}")

@@ -512,6 +512,11 @@ class TestIngestLarge(Base):
         with self.assertRaisesRegex(il.Problem, "already in the archive as budgets-2026-old"):
             il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(len(dup), dup))
 
+    def test_issue_can_supply_an_archive_id(self):
+        body = ISSUE_BODY + "\n### Archive id, if needed\n\nballot-2026-2026-05-19-presentation-part-2\n"
+        p = il.plan(self.root, self.issue(body), tempfile.mkdtemp(), fetch=self.fake_fetch(BIG))
+        self.assertEqual(p["entry"]["id"], "ballot-2026-2026-05-19-presentation-part-2")
+
     def test_needs_a_source(self):
         body = ISSUE_BODY.replace("https://berkeleyca.gov/sites/default/files/2026-05/presentation.pdf",
                                   "_No response_")
