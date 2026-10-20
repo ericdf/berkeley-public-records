@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-2026-07-20-city-attorney-s-impartial-analysis-of-measure-q-amending-the-city-s-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "City Attorney's Impartial Analysis of Measure “Q”: Amending the City's Special Parcel Tax to Fund Emergency Medical Services, Advanced Life Support and Fire Protection Services (EMS/ALS/Fire)",
+  "file": "L1/sources/peer_cities/peer-cities-2026-07-20-city-attorney-s-impartial-analysis-of-measure-q-amending-the-city-s-text.txt",
+  "sha256": "a9dc7502a600e55fc7f5fdab79a5815afd133e06660094c5130a62a89bf478fb",
+  "bytes": 3641,
+  "derived_from": {
+    "id": "peer-cities-2026-07-20-city-attorney-s-impartial-analysis-of-measure-q-amending-the-city-s",
+    "sha256": "507e86b179827d7bec028f83381116bbb0a48ca160a8ad2a73aa229c7a216017"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

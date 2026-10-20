@@ -1,0 +1,19 @@
+{
+  "id": "peer-cities-2026-07-20-city-attorney-s-impartial-analysis-of-measure-q-amending-the-city-s",
+  "layer": "L0",
+  "doc_type": "peer_city_document",
+  "collection": "peer_cities",
+  "publisher": "City of Albany — City Attorney",
+  "title": "City Attorney's Impartial Analysis of Measure “Q”: Amending the City's Special Parcel Tax to Fund Emergency Medical Services, Advanced Life Support and Fire Protection Services (EMS/ALS/Fire)",
+  "document_date": "2026-07-20",
+  "file": "L0/sources/peer_cities/peer-cities-2026-07-20-city-attorney-s-impartial-analysis-of-measure-q-amending-the-city-s.pdf",
+  "sha256": "507e86b179827d7bec028f83381116bbb0a48ca160a8ad2a73aa229c7a216017",
+  "bytes": 262258,
+  "source_url": "https://www.albanyca.gov/files/assets/city/v/2/city-clerk/documents/elections/2026-election/ballot-measures/city-attorney-impartial-analysis/3-ems-als-fire-protection-parcel-tax-measure-november-3-2026-election-c1.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. No document date is printed; the City Council voted on July 20, 2026 to place the measure on the November 3, 2026 ballot, and document_date is that Council date.",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
