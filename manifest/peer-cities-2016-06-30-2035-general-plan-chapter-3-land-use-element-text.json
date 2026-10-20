@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-2016-06-30-2035-general-plan-chapter-3-land-use-element-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "2035 General Plan, Chapter 3: Land Use Element",
+  "file": "L1/sources/peer_cities/peer-cities-2016-06-30-2035-general-plan-chapter-3-land-use-element-text.txt",
+  "sha256": "5f1c47a0c6e177b7556fa1ac7d218217c82ca4588dccdc385829a386489c89d7",
+  "bytes": 139972,
+  "derived_from": {
+    "id": "peer-cities-2016-06-30-2035-general-plan-chapter-3-land-use-element",
+    "sha256": "3d90f08c2f7e6fac20789866ecf42e48cb72a0bb9151c47d88b06cabc8f64378"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

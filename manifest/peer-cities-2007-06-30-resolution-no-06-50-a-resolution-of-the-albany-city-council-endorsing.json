@@ -1,0 +1,19 @@
+{
+  "id": "peer-cities-2007-06-30-resolution-no-06-50-a-resolution-of-the-albany-city-council-endorsing",
+  "layer": "L0",
+  "doc_type": "peer_city_document",
+  "collection": "peer_cities",
+  "publisher": "City of Albany — City Council",
+  "title": "Resolution No #06-50: A Resolution of the Albany City Council Endorsing and Directing Staff to Proceed with a City Directed Waterfront Planning Process",
+  "document_date": "2007-06-30",
+  "file": "L0/sources/peer_cities/peer-cities-2007-06-30-resolution-no-06-50-a-resolution-of-the-albany-city-council-endorsing.pdf",
+  "sha256": "5c42fe722a303db27a2b4c93491ab0c45400435c09a05eebf7dfcf9200b5f30d",
+  "bytes": 26064,
+  "source_url": "https://www.albanyca.gov/files/assets/city/v/1/administration/documents/waterfront/resolution-06050.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. No adoption date is printed; it cites a letter dated July 7, 2006, and document_date is the end of that fiscal year (FY2006-07).",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
