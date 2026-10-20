@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-1961-07-20-statutes-of-california-1961-chapter-2180-an-act-to-amend-section-1-of-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "Statutes of California 1961, Chapter 2180: An act to amend Section 1 of Chapter 347 of the Statutes of 1913, relating to a conveyance of tide and submerged lands to the City of Berkeley",
+  "file": "L1/sources/waterfront/waterfront-1961-07-20-statutes-of-california-1961-chapter-2180-an-act-to-amend-section-1-of-text.txt",
+  "sha256": "cd7c9088d144fa7cec7aa49710ce98bf4edb672737d667b69b5ed08cde9da7a8",
+  "bytes": 8568,
+  "derived_from": {
+    "id": "waterfront-1961-07-20-statutes-of-california-1961-chapter-2180-an-act-to-amend-section-1-of",
+    "sha256": "14d4d235ca3278f21a164d04ff1fb72f68384bf3efdda85cf1d7f12eb1191fa4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}
