@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-2026-07-20-full-text-of-measure-ordinance-no-2026-07-an-ordinance-amending-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "Full Text of Measure, Ordinance No. 2026-07: An Ordinance Amending Chapter 4 Section 4-7 of the Albany Municipal Code to Update the City's Emergency Medical Services, Advanced Life Support, and Fire Protection Special Tax",
+  "file": "L1/sources/peer_cities/peer-cities-2026-07-20-full-text-of-measure-ordinance-no-2026-07-an-ordinance-amending-text.txt",
+  "sha256": "55f39fbd1666c7e05b27af088c120309e8fda603939f725cdca5c0e29a482123",
+  "bytes": 25738,
+  "derived_from": {
+    "id": "peer-cities-2026-07-20-full-text-of-measure-ordinance-no-2026-07-an-ordinance-amending",
+    "sha256": "04080de5bb188956b08bf6a45329b23f06481aac06e3b9a6e0d61f7ff733ada7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}
