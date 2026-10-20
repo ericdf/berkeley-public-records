@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-2022-06-08-berkeley-marina-area-specific-plan-update-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "Berkeley Marina Area Specific Plan Update",
+  "file": "L1/sources/waterfront/waterfront-2022-06-08-berkeley-marina-area-specific-plan-update-text.txt",
+  "sha256": "90dc93f1f9cf6f57d5d333e0ffc53a2ff6dc94ac6397b395f23499458922764a",
+  "bytes": 11238,
+  "derived_from": {
+    "id": "waterfront-2022-06-08-berkeley-marina-area-specific-plan-update",
+    "sha256": "ef991e9d416536418ef34d73fb8437be45b2f965a56b0f1d6f819575e363f034"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}
