@@ -1,0 +1,19 @@
+{
+  "id": "peer-cities-2016-04-18-2035-general-plan-chapter-10-waterfront-element",
+  "layer": "L0",
+  "doc_type": "peer_city_document",
+  "collection": "peer_cities",
+  "publisher": "City of Albany",
+  "title": "2035 General Plan, Chapter 10: Waterfront Element",
+  "document_date": "2016-04-18",
+  "file": "L0/sources/peer_cities/peer-cities-2016-04-18-2035-general-plan-chapter-10-waterfront-element.pdf",
+  "sha256": "98e1845c944065ec26e5ac99099b34b08305ec957e2ff3a33bce845901ce501b",
+  "bytes": 2509615,
+  "source_url": "https://www.albanyca.gov/files/assets/city/v/1/administration/documents/waterfront/final-adopted-2035-general.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. The cover prints \"2035 General Plan Adopted April 18, 2016\". This file is Chapter 10 only (28 pages).",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

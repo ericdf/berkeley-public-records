@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-2010-04-05-voices-to-vision-a-community-vision-for-albany-s-waterfront-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "Voices to Vision: A Community Vision for Albany's Waterfront",
+  "file": "L1/sources/peer_cities/peer-cities-2010-04-05-voices-to-vision-a-community-vision-for-albany-s-waterfront-text.txt",
+  "sha256": "e9e5e2c260c3d4c182613ae315c12a0964e15f5ebe009b2c9ea75ee7ac35bc0a",
+  "bytes": 313249,
+  "derived_from": {
+    "id": "peer-cities-2010-04-05-voices-to-vision-a-community-vision-for-albany-s-waterfront",
+    "sha256": "d4a9612ff347bbef23ac5712929c988159f609cc453d2b470f6e911464a63cf6"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

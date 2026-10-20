@@ -1,0 +1,22 @@
+{
+  "id": "peer-cities-2026-07-20-measure-k-update-to-the-emergency-services-advanced-life-support-and-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "meeting_date": "2026-07-20",
+  "title": "Measure K Update to the Emergency Services, Advanced Life Support, and Fire Protection Special Tax (City Council presentation)",
+  "file": "L1/sources/peer_cities/peer-cities-2026-07-20-measure-k-update-to-the-emergency-services-advanced-life-support-and-text.txt",
+  "sha256": "1956f1da0a50ed5ea42542493242463b55ed743fa3db73c6647de8529c57c650",
+  "bytes": 2389,
+  "derived_from": {
+    "id": "peer-cities-2026-07-20-measure-k-update-to-the-emergency-services-advanced-life-support-and",
+    "sha256": "be0312f1780809174ce8a84b8b9bac16d85afaf90efb5d3636f2fcee668e9486"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}
