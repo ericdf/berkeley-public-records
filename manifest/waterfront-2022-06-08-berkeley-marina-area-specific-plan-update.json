@@ -1,0 +1,19 @@
+{
+  "id": "waterfront-2022-06-08-berkeley-marina-area-specific-plan-update",
+  "layer": "L0",
+  "doc_type": "waterfront_document",
+  "collection": "waterfront",
+  "publisher": "City of Berkeley — Office of the City Manager",
+  "title": "Berkeley Marina Area Specific Plan Update",
+  "document_date": "2022-06-08",
+  "file": "L0/sources/waterfront/waterfront-2022-06-08-berkeley-marina-area-specific-plan-update.pdf",
+  "sha256": "ef991e9d416536418ef34d73fb8437be45b2f965a56b0f1d6f819575e363f034",
+  "bytes": 180292,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/BMASP%20Update%20060822_0.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20.",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

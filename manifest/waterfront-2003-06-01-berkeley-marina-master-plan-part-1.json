@@ -1,0 +1,19 @@
+{
+  "id": "waterfront-2003-06-01-berkeley-marina-master-plan-part-1",
+  "layer": "L0",
+  "doc_type": "waterfront_document",
+  "collection": "waterfront",
+  "publisher": "City of Berkeley — Department of Parks Recreation & Waterfront (prepared in association with Wolfe Mason Associates, Inc.)",
+  "title": "Berkeley Marina Master Plan",
+  "document_date": "2003-06-01",
+  "file": "L0/sources/waterfront/waterfront-2003-06-01-berkeley-marina-master-plan-part-1.pdf",
+  "sha256": "ef917354bab16104c283bd196e6f47b5b032ae24cef4e8a7cb3f28faf67909a0",
+  "bytes": 5901527,
+  "source_url": "https://berkeleyca.gov/sites/default/files/2022-02/Berkeley-Marina-Master-Plan-1.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. Part 1 of 2 as posted by the City (45 pages; the cover is marked \"Attachment C\"). Scanned.",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
