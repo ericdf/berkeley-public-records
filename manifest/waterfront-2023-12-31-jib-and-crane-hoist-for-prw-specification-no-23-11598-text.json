@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-2023-12-31-jib-and-crane-hoist-for-prw-specification-no-23-11598-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "Jib and Crane Hoist for PRW, Specification No. 23-11598",
+  "file": "L1/sources/waterfront/waterfront-2023-12-31-jib-and-crane-hoist-for-prw-specification-no-23-11598-text.txt",
+  "sha256": "1eaae9f3eba598748183535824e9448afa9a4449a025b5ac8f85b2313961fe8e",
+  "bytes": 155647,
+  "derived_from": {
+    "id": "waterfront-2023-12-31-jib-and-crane-hoist-for-prw-specification-no-23-11598",
+    "sha256": "f0b96044823501f300ccc19545134248c7704e86777eefdcdffdc4eab4a408b8"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

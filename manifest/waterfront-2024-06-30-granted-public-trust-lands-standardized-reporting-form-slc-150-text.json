@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-2024-06-30-granted-public-trust-lands-standardized-reporting-form-slc-150-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "Granted Public Trust Lands Standardized Reporting Form, SLC 150 (formerly Form 12.26), Fiscal/Calendar Year: 2023/2024",
+  "file": "L1/sources/waterfront/waterfront-2024-06-30-granted-public-trust-lands-standardized-reporting-form-slc-150-text.txt",
+  "sha256": "ca92a2b3a67e25f9348ea4271278555144f50fb7087799f4ddc0cd9a6808f66a",
+  "bytes": 9730,
+  "derived_from": {
+    "id": "waterfront-2024-06-30-granted-public-trust-lands-standardized-reporting-form-slc-150",
+    "sha256": "411711e3bb0406941ae9d530e8173e482a2e92fff6365553545dcb08262c34b6"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

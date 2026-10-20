@@ -1,0 +1,160 @@
+STATE OF CALIFORNIA – STATE LANDS COMMISSION
+GRANTED PUBLIC TRUST LANDS STANDARDIZED REPORTING FORM
+SLC 150 (formerly Form 12.26)
+
+                      DUE DECEMBER 31 Pursuant to Public Resources Code § 6306
+
+Fiscal/Calendar Year: 2018/2019
+Grantee Name: City of Berkeley
+Contact Person: Alexandra Endress
+Mailing Address: 201 University Ave., Berkeley, CA 94960
+
+1. Funds
+       a. Is a separate fund maintained for trust assets, liabilities, revenues and expenditures?
+                YES ✔            NO
+          If “Yes”, please list the name(s) of the fund(s).
+          Marina Fund
+
+          If “No”, under what fund are they accounted for?
+
+
+
+       b. Are separate financial statements prepared for the trust?
+                YES ✔            NO
+          If “Yes,” describe the organization of the separate financial statement.
+          City of Berkeley CAFR
+
+          If “No,” in which financial statements are they included? (Name of the document(s) and
+          the applicable page number(s)).
+
+
+
+2. Revenue
+       a. What was the gross revenue received or generated from trust land or trust assets during the
+          past fiscal year?
+          $6,934,118 (Page 44 of the CAFR, attached)
+
+       b. Please list all sources of revenue and the amount of revenue generated from each source
+          (e.g., permits, rentals, percentage of lease, etc.).
+
+          Berth Rental Fees, Leases, Licenses, Marina Operation Fees, Launch Ramp Fees, Passenger
+          Fees, Lockers, Live Aboard Fees, Storage Fees, Grants, Loans, General Fund
+
+
+
+                                                                                             Page 1 of 2
+STATE OF CALIFORNIA – STATE LANDS COMMISSION
+GRANTED PUBLIC TRUST LANDS STANDARDIZED REPORTING FORM
+SLC 150 (formerly Form 12.26)
+
+
+3. Expenses
+        a. What was the total expenditure of funds received or generated from trust land or assets
+           during the past fiscal year?
+             $6,706,440 (Page 44 of the CAFR, attached)
+
+        b. What expenses were allocated or charged directly to the trust? Please list the source of the
+           expenditure and the amount expended.
+            Labor, Non-Labor, Loan Repayment, Inter-Departmental Transfers, Utilities, Benefits, Transportation,
+            Communication, IT, Maintenance, Operations, Supplies
+
+        c. Have there been any capital improvements over $250,000 within the current fiscal year? Are
+           any capital improvements over $250,000 expected in the next fiscal year?
+            No
+
+        d. Describe any other disposition of trust funds or assets or any other disposition of the trust
+           lands or trust assets themselves. Include any internal funds that were transferred to other
+           grantees, to the management of entity or under the management of another political
+           subdivision of the grantee under an agreement, settlement, or memorandum of
+           understanding.
+             None.
+
+
+
+
+4. Beginning and Ending Balance
+          Please list the beginning and ending balances for the tidelands trust fund(s) for this past fiscal
+          year.
+
+           Beginning: $1,626,996 | Ending: $1,615,163
+
+
+
+
+                                                                                                            Page 2 of 2
+/City of Berkeley, California                                                                         Comprehensive Annual Financial Report
+
+
+
+
+Statement of Revenues, Expenses, and Changes in Net Position
+Proprietary Funds
+For the year ended June 30, 2019
+
+                                                                                    Business-type Activities - Enterprise Funds
+
+                                                                            Zero                Marina               Sanitary       Clean Storm
+                                                                            Waste              Operations             Sewer            Water
+Operating revenues:
+   Parking related revenues                                           $              -     $              -     $              -    $            -
+   Marina operations and maintenance                                                 -            6,909,118                    -                 -
+   Sewer service fees                                                                -                    -           24,344,044                 -
+   Clean storm water fees                                                            -                    -                    -         3,949,602
+   Refuse service fees                                                      48,524,125                    -                    -                 -
+   Building permits                                                                  -                    -                    -                 -
+   Other permits                                                                     -                    -                    -                 -
+   Plan checking fees                                                                -                    -                    -                 -
+   Other fees                                                                        -                    -                    -                 -
+   Contract
+   Equipment rentals service charge                                                  -                    -                    -                 -
+   Building maintenance                                                              -                    -                    -                 -
+   Central store service charge                                                      -                    -                    -                 -
+   Workers’ compensation fees                                                        -                    -                    -                 -
+   Other revenues                                                                  789               25,000                    -                 -
+Total operating revenues                                                    48,524,914            6,934,118           24,344,044         3,949,602
+
+Operating expenses:
+   Personnel services                                                       11,104,405            2,280,635            4,226,342           648,018
+   Employee benefits                                                         8,722,102            1,661,379            3,569,176           526,053
+   Transportation                                                            6,035,813              141,604              641,725           108,466
+   Repairs and maintenance                                                     489,531               19,582              456,922            71,251
+   Materials and supplies                                                      999,682              386,855            4,314,811            49,863
+   Utilities                                                                   308,833              558,018               24,288             4,169
+   Insurance                                                                         -               53,354                    -                 -
+   Specialized and professional services                                    14,461,281              638,205              909,866            26,143
+   Depreciation                                                                330,014              491,975            3,097,338           655,473
+   Judgments and claims                                                              -                    -                    -                 -
+   Communication                                                                11,736               21,074               22,203             1,415
+   General administration                                                    2,732,441              453,759              884,244           281,575
+Total operating expenses                                                    45,195,838            6,706,440           18,146,915         2,372,426
+
+Operating income (loss)                                                      3,329,076             227,678             6,197,129         1,577,176
+
+Nonoperating revenues (expenses):
+   Investment earnings                                                        838,695               166,050             852,581            74,186
+   Interest expense                                                                 -              (305,837)                  -                 -
+   Operating grants                                                                 -                     -                   -                 -
+   Gain (loss) on disposal of capital assets                                        -                     -                   -                 -
+Total nonoperating revenues (expenses)                                        838,695              (139,787)            852,581            74,186
+
+Income (loss) before transfers                                               4,167,771              87,891             7,049,710         1,651,362
+
+  Transfers in                                                                         -                    -            90,501           452,198
+  Transfers of pension and OPEB related amounts
+  Transfers out                                                             (2,062,515)             (99,724)            (660,023)        (219,107)
+
+Change in net position                                                       2,105,256              (11,833)           6,480,188         1,884,453
+
+Total net position - beginning as restated                                  (3,679,855)           1,626,996         130,617,072         16,168,205
+
+Total net position - ending                                           $     (1,574,599) $         1,615,163     $ 137,097,260       $   18,052,658
+
+
+
+The accompanying notes are an integral part of these financial statements
+
+
+
+
+44                                                                                                                  FOR YEAR ENDED JUNE 30, 2019
+
