@@ -1,0 +1,19 @@
+{
+  "id": "streets-2025-04-30-city-of-berkeley-2024-pmp-update-p-tap-round-25-final-report",
+  "layer": "L0",
+  "doc_type": "streets_document",
+  "collection": "streets",
+  "publisher": "City of Berkeley — Department of Public Works (report prepared by Pavement Engineering Inc. under MTC's Pavement Technical Assistance Program)",
+  "title": "City of Berkeley 2024 PMP Update, P-TAP Round 25, Final Report",
+  "document_date": "2025-04-30",
+  "file": "L0/sources/streets/streets-2025-04-30-city-of-berkeley-2024-pmp-update-p-tap-round-25-final-report.pdf",
+  "sha256": "5e431b32fca3e2dcd96bb3698e19f14df6be734a9256bfdeb38d62472269e420",
+  "bytes": 4560585,
+  "source_url": "https://berkeleyca.gov/sites/default/files/2026-07/2024%20Pavement%20Management%20Plan%20Update%20%28PTAP25%29.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. The report is dated April 2025; document_date is the end of that month.",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
