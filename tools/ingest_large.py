@@ -20,7 +20,7 @@ Run by the maintainer (or an agent at the maintainer's direction), never by a Gi
 Requires: gh (signed in), rclone with remote bpr-drive: signed in as the archive account, and for
 --upload the Internet Archive CLI `ia` configured for the archive account. See README, "Large files".
 """
-import argparse, datetime, json, os, re, shutil, subprocess, sys, tempfile, urllib.parse, urllib.request
+import argparse, datetime, hashlib, json, os, re, shutil, subprocess, sys, tempfile, urllib.parse, urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import process_inbox as pi  # noqa: E402
@@ -30,6 +30,8 @@ REPO = "ericdf/berkeley-public-records"
 REMOTE = "bpr-drive:"
 DRIVE_FOLDER = "berkeley-public-records-blobs"
 DEFAULT_STAGING = os.path.expanduser("~/berkeley-public-records-pending-blobs")
+IA_PREFIX = "berkeley-public-records-"
+IA_MAX = 80  # the Internet Archive refuses identifiers longer than 80 characters
 LABELS = {
     "Document title": "title", "Document date": "document_date", "Layer": "layer",
     "Publisher": "publisher", "City web address": "source_url", "Google Drive link": "drive_link",
@@ -150,10 +152,21 @@ def plan(root, issue, staging, collection=None, fetch=None, today=None):
     entry = pi.build_entry(meta, place, digest, size, issue["author"]["login"], today, ext)
     entry["file"] = None
     return {"issue": n, "entry": entry, "place": place, "staged": staged, "ext": ext,
-            "ia_item": f"berkeley-public-records-{mid}", "drive_path": f"{DRIVE_FOLDER}/{mid}.{ext}"}
+            "ia_item": ia_identifier(mid), "drive_path": f"{DRIVE_FOLDER}/{mid}.{ext}"}
 
 
-def describe(p):
+def ia_identifier(mid):
+    """Internet Archive item for archive id mid: IA_PREFIX + mid when that fits in IA_MAX
+    characters; otherwise mid is cut short and the first 8 hex digits of its sha256 are
+    appended, so the item stays unique and the same id always gives the same item."""
+    item = IA_PREFIX + mid
+    if len(item) <= IA_MAX:
+        return item
+    tag = hashlib.sha256(mid.encode()).hexdigest()[:8]
+    return (IA_PREFIX + mid)[:IA_MAX - len(tag) - 1].rstrip("-") + "-" + tag
+
+
+def describe(p, upload=False):
     e = p["entry"]
     return "\n".join([
         f"id:        {e['id']}",
@@ -164,7 +177,7 @@ def describe(p):
         f"source:    {e.get('source_url') or e.get('source_note')}",
         f"staged at: {p['staged']}",
         "",
-        "With --upload this would:",
+        "Uploading now:" if upload else "With --upload this would:",
         f"  1. copy it to {REMOTE}{p['drive_path']} and verify the copy by downloading it",
         f"  2. upload it to the Internet Archive as item {p['ia_item']}  (PUBLIC AND PERMANENT)",
         f"  3. write manifest/{e['id']}.json (file: null, both copies) and L1 text if extractable",
@@ -187,13 +200,18 @@ def execute(root, p, run=subprocess.run, open_pr=False, today=None):
     today = today or datetime.datetime.now(datetime.timezone.utc).date().isoformat()
     e, staged = p["entry"], p["staged"]
     remote_path = REMOTE + p["drive_path"]
+    print(f"\n1. Copying to {remote_path} ...", flush=True)
     run(["rclone", "copyto", staged, remote_path], check=True)
     with tempfile.TemporaryDirectory() as td:
         back = os.path.join(td, "verify")
         run(["rclone", "copyto", remote_path, back], check=True)
         if pi.sha256_file(back) != e["sha256"]:
             raise Problem(f"the Drive copy at {remote_path} does not match sha256; not recorded")
+    print("   Drive copy verified.", flush=True)
+    print(f"2. Uploading to the Internet Archive as {p['ia_item']} ...", flush=True)
     run(["ia", "upload", p["ia_item"], staged, "--retries=5", *ia_metadata(e)], check=True)
+    print("   Upload accepted.", flush=True)
+    print(f"3. Writing manifest/{e['id']}.json and L1 text ...", flush=True)
     e["blob"] = {"copies": [
         {"store": "internet_archive", "item": p["ia_item"], "path": os.path.basename(staged),
          "uploaded": today, "verified": None,
@@ -249,7 +267,7 @@ def main(argv=None):
     except Problem as x:
         print("REFUSED", x, file=sys.stderr)
         return 2
-    print(describe(p))
+    print(describe(p, upload=a.upload))
     if not a.upload:
         print("\nDry run: nothing uploaded, nothing written to the repository.")
         return 0
