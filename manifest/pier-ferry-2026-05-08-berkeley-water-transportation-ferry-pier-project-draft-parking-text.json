@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2026-05-08-berkeley-water-transportation-ferry-pier-project-draft-parking-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Berkeley Water Transportation Ferry Pier Project: Draft Parking Management Implementation Plan, Public Review Draft",
+  "file": "L1/sources/pier_ferry/pier-ferry-2026-05-08-berkeley-water-transportation-ferry-pier-project-draft-parking-text.txt",
+  "sha256": "cdf71e9eac486da891f0f3f3354638c73dce409ea54e7ef8f21e7feaf78a3ced",
+  "bytes": 57728,
+  "derived_from": {
+    "id": "pier-ferry-2026-05-08-berkeley-water-transportation-ferry-pier-project-draft-parking",
+    "sha256": "09d306efa3815bb44b8a0505dc845823efdbb33986925ff1e62ccf83c5290576"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}
