@@ -1,0 +1,1695 @@
+STR ATEGI C A S S E T
+MA N AGEMEN T PL A N
+City of Berkeley
+
+
+
+
+                   APRIL 2022
+EXECUTIVE SUMMARY
+I am pleased to present the City of Berkeley’s (City) Strategic Asset
+Management Plan (SAMP). Asset Management is an important concept
+in which the City’s infrastructure systems are managed throughout
+the life cycle from ‘cradle to grave’. Taking an asset management
+approach was a key part of the City Council adopted Vision 2050
+recommendations to provide sustainable and resilient infrastructure to
+the residents of Berkeley.
+
+
+The purpose of this document is to develop policy guidance, to review the City’s current
+maintenance practices and to prepare a roadmap of key initiatives for implementing a full Asset
+Management Program (AMP) in Berkeley’s Public Works and Parks, Recreation & Waterfront
+Departments.
+
+
+Berkeley’s streets, sidewalks and utility pipelines date to the early decades of the 20th century.
+Critical systems that we depend on every day are simply wearing out. Recent budgets were
+inadequate for infrastructure capital and maintenance needs, let alone modernizing them.
+Aging infrastructure is not only costly to maintain but it does not meet current or future
+requirements. An AMP is needed to manage our infrastructure assets throughout their
+useful life.
+
+
+The City retained a consultant to assess the City’s current asset management practices against
+a global standard benchmark on Asset Management in these six areas: asset strategy and
+planning, asset management decision-making, lifecycle delivery, asset information, organization
+and people, and risk assessment. Based on the benchmark, Berkeley’s average assessment was
+in the ‘developing’ level of asset management implementation and comparable to many U.S.
+cities, but not nearly good enough.
+
+
+The consultant worked with City staff to develop a ‘Roadmap’ of key initiatives in the next two
+years to implement an effective AMP. The components include:
+›    Prepare an Asset Management policy for City Council adoption
+›    Form an Asset Management team, consisting of a team leader and two program staff
+›    Form an AM Steering Committee to guide the program implementation
+›    Provide consultant support resources
+›    Prepare the strategies, procedures and analyses to implement an AMP
+
+I thank the team for this important work and look forward to a future of well-maintained
+infrastructure systems.
+
+
+DEE WILLIAMS-RIDLEY
+City Manager
+                 TAB LE O F CO N T E N T S
+                   STRATEGIC ASSET MANAGEMENT PLAN
+
+
+
+
+4   April 2022
+   EXECUTIVE SUMMARY. . . . . . . . . . . . . . . . . . . . . . . . . . 3
+01 BACKGROUND AND PURPOSE	����������������������������������������������������������������� 6
+   1.1 Vision 2050 Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+   1.2 Purpose of a Strategic Asset Management Plan 	�������������������������������������������������9
+   1.3 Scope of Asset Categories. . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+02 CONCEPTS IN ASSET MANAGEMENT 	�����������������������������������������������������12
+   2.1 Definition of Asset Management 	����������������������������������������������������������������������13
+   2.2 Key Elements in Good Practice Asset Management 	�����������������������������������������14
+   2.3 Lifecycle Costs. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+03 THE IMPORTANCE OF MAINTENANCE	����������������������������������������������������16
+   3.1 What is Maintenance? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+   3.2 Benchmark for Maintenance Funding	����������������������������������������������������������������18
+04 CHALLENGES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+   4.1 Aging Asset Base. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+   4.2 Finance for Sustainability. . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+   4.3 Emerging Challenges. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+05 OVERVIEW OF ASSET PORTFOLIOS 	������������������������������������������������������� 22
+   5.1 Streets and Roads . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+   5.2 Sidewalks. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24
+   5.3 Transportation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+   5.4 Sanitary Sewers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+   5.5 Stormwater and Green Infrastructure	����������������������������������������������������������������27
+   5.6 Zero Waste. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+   5.7 Equipment and Fleet. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+   5.8 Building Facilities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+   5.9 Parks, Camps, Recreation Facilities, Waterfront and Trees                                           31
+06 REVIEW OF CURRENT ASSET MANAGEMENT PRACTICES                                                            32
+   6.1 Assessment of Asset Management Maturity	�����������������������������������������������������33
+   6.2 Summary of Asset Management Gaps 	�������������������������������������������������������������36
+07 STRATEGIC AM OBJECTIVES	������������������������������������������������������������������ 37
+08 ROADMAP FOR IMPLEMENTING AN AM PROGRAM                                                                  38
+   8.1 Principles for Asset Management Policy 	�����������������������������������������������������������39
+   8.2 Asset Management Roadmap 	��������������������������������������������������������������������������40
+09 APPENDICES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+   Appendix A: Acknowledgements	��������������������������������������������������������������������������43
+   Appendix B: Glossary of Terms . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+   Appendix C: Typical AM System Framework	����������������������������������������������������������47
+
+
+                                                                                  Strategic Asset Management Plan   5
+01                BACKGROUND
+                  AND PURPOSE
+
+
+ 6   April 2022
+ 6   April 2022
+ Street surface in need of repairs                 Sewer rehabilitation                     Marina dock in need of repairs
+
+
+
+1.1 Vision 2050 Background
+                                                               workers, and businesses trying to go about
+                                                               their daily lives, this can translate to unsafe
+     The Vision 2050 concept was initiated by                  conditions, unexpected costs, and inequity
+     Mayor Arreguin at his 2017 State of the City              between neighborhoods.
+     address. A residents’ task force of over 40
+     members was formed and the group worked to                Now, as we begin to grapple with Berkeley’s
+     prepare a framework to modernize Berkeley’s               $1.2 billion in needed infrastructure
+     infrastructure. Their report was adopted by               improvements, new challenges are emerging.
+     Berkeley’s City Council in September 2020.                The local impacts of global climate change are a
+     Berkeley voters approved Measure R in                     major threat to our aging infrastructure. Extreme
+     November 2018. The measure asked: “Shall                  storm events, wildfires, heatwaves, drought, and
+     the measure, advising the Mayor to engage                 sea level rise will challenge streets, pipes, and
+     citizens and experts in the development of                open spaces that were designed for a more
+     Vision 2050, a 30-year plan to identify and               benign environment. And all of this will be
+     guide implementation of climate-smart,                    happening as we wait and prepare for the next
+     technologically-advanced, integrated and                  major earthquake. If our city is to survive and
+     efficient infrastructure to support a safe, vibrant       thrive, we must confront these challenges.
+     and resilient future for Berkeley, be adopted?”           It was vital to reach out to the broader Berkeley
+     The response was a resounding yes.                        community to both build awareness and provide
+     Berkeley’s streets, storm drains, sewers, and             opportunities for input and engagement. Initial
+     water lines date to the early decades of the              Vision 2050 outreach began early in 2018 with
+     20th century. Critical systems that we depend             four information nights across Berkeley. This
+     on every day are simply wearing out. Recent               continued with outreach to neighborhood
+     budgets were inadequate for infrastructure                and faith-based groups and community
+     capital and maintenance needs, let alone                  organizations. To support this endeavor, the
+     modernizing them. Aging infrastructure is not             Mayor’s Office partnered with Berkeley’s Youth
+     only costly to maintain but it does not meet              in Government, a group of high school students,
+     current or future requirements. This leaves the           who were trained as Vision 2050 ambassadors.
+     community vulnerable to unplanned failure                 Using this model, the Mayor’s Office presented
+     and service interruptions. For residents,                 at thirteen community organization meetings.
+
+                                                                                Strategic Asset Management Plan       7
+                                                          P R I N C I P L E S , ST R AT E G I E S
+      VISION 2050                                       AND RECOMMENDED ACTIONS
+
+The Vision 2050 Task Force
+reviewed over 20 of the City’s             1    STATEGY ONE         Use Integrated and Balanced Planning
+
+current infrastructure plans. The
+plans are the result of lots of hard            >   Use multi-criteria decision-making
+work by City staff and community
+members over the years. It is helpful           >   Use adaptive planning
+to build on current planning and
+to learn what has worked well and               >   Prepare and implement a Dig Once policy
+what hasn’t. The City of Berkeley
+has an infrastructure system that has
+allowed us to thrive and grow for          2    STATEGY TWO         Manage Infrastructure from Cradle to Grave
+
+over 100 years. Now is the time to
+                                                >   Institute structured master planning
+incorporate new technologies and
+meet new environmental standards
+so that our systems can continue to             >   Develop an Asset Management Program
+reliably support us for another
+100 years.
+                                           3    STATEGY THREE Adopt Sustainable and Safe Technologies
+
+The Vision 2050 report
+                                                >   Accelerate the transition to clean energy and electriﬁcation
+recommended three guiding
+principles, five strategies and                 >   Implement Complete Streets to provide sustainable
+several actions, all of which are                   and healthy transportation
+summarized to the right in Figure 1.
+                                                >   Develop natural streetscapes that provide ecosystem services
+An important concept in the
+report is Strategy Two: Manage                  >   Use sensors, data, and advanced technologies
+Infrastructure from Cradle to
+Grave. This was a recognition that              >   Prepare a wildﬁre mitigation and safety plan
+we not only need to build more
+sustainable infrastructure, but that
+we need to properly maintain it
+over its useful life. More specifically,   4    STATEGY FOUR        Invest in Our Future
+
+Strategy 2, task B recommends                   >   Take advantage of a strong ﬁnancial position to address
+the development of an Asset                         infrastructure needs and commit to reducing large unfunded
+Management Program.                                 infrastructure liability by doubling capital expenditures
+
+
+
+                                           5    STATEGY FIVE
+                                                                    Prepare the City’s Organization to Implement
+                                                                    a Major Capital Program
+
+                                                >   Develop an organization that is integrated and has
+                                                    capacity to deliver
+
+                                                >   Prepare a program approach with management tools
+
+                                                >   Provide independent oversight and reporting
+
+                                               Figure 1: Vision 2050 Principles, Strategies, and Recommended Actions
+      8      April 2022
+1.2 Purpose of a Strategic Asset
+   Management Plan
+   A Strategic Asset Management Plan (SAMP)
+   is the start to implementing a full Asset
+   Management Program. The purpose of this
+   document is to develop policy guidance, to
+   review the City’s current maintenance practices
+   and to prepare a roadmap of key initiatives for
+   implementing a full AMP in Berkeley’s Public
+   Works and Parks, Recreation & Waterfront
+   Departments. This includes setting specific and
+   measurable Asset Management objectives. The
+   SAMP was prepared by the consultants AMCL
+   and Bellecci and Associates, working with City
+   staff. A description of the project participants is
+   in Appendix A.
+
+
+   Few U.S. cities currently have a comprehensive
+   approach to Asset Management (AM) across
+   different asset categories and service areas.
+   Berkeley has succeeded in moving forward
+   in selected asset categories, such as with the
+   sewer system, fleet and vehicles, and parking
+   meters. The objective now is to develop a
+   comprehensive AMP that is integrated, funded
+   and staffed to maintain all asset categories.
+
+
+
+
+                                                         Protected Bicycle Lanes on Adeline Street
+
+
+
+                                                                    Strategic Asset Management Plan   9
+1.3 Scope of Asset Categories
+   The scope of the SAMP will include all the
+   following families of physical assets, with the
+   asset information required to maintain them,
+   throughout their lifecycles.
+
+
+   Public Works Department
+   ›   Streets and roads
+
+   ›   Sidewalks
+
+   ›   Streetlights
+
+   ›   Transportation assets (bikeways, parking
+       meters, traffic signals, parking garages,
+       signage, etc.)
+
+   ›   Sanitary sewers
+
+   ›   Stormwater and green infrastructure
+
+   ›   Zero waste
+
+   ›   Fleet and vehicles
+
+   ›   Building facilities
+
+
+   Parks, Recreation, and
+   Waterfront Department
+   ›   Parks
+
+   ›   Camps
+
+   ›   Recreation facilities
+
+   ›   Waterfront
+
+   ›   Trees
+
+   ›   Natural environment and habitat
+
+   To put these in context, much of Berkeley’s
+   critical infrastructure is not owned or controlled
+   by the City; Figure 2 summarizes what is and is
+   not controlled by the City.
+                                                        Transportation Infrastructure Serving All Users
+
+
+
+ 10     April 2022
+     MAJOR INFRASTRUCTURE SYSTEMS IN BERKELEY
+   Infrastructure System              Controlled by City                          Controlled by Others
+
+
+                                                                      •   AC Transit buses
+                                 •   215 miles of streets             •   BART system
+Streets, sidewalks, paths,       •   300 miles of sidewalks           •   AMTRAK and trains
+bikeways, and tunnels            •   50 miles of paths and            •   Taxis, Lyft, Uber and rideshare,
+                                     bikeways                             ZipCar
+                                                                      •   Bicycles and Micro-Mobility
+
+
+                                                                      •   PG&E, EBCE electricity and natural
+Power and                                                                 gas delivery systems
+                                 7,000 street lights
+communication systems                                                 •   Private telecommunications and
+                                                                          Internet services
+
+                                 •   42,000 street, park,
+Parks, street trees and              and camp trees
+                                 •   52 parks and                     East Bay Regional Parks
+public plantings
+                                     play grounds
+
+
+Water supply system              11 creek watersheds                  EBMUD potable and recycled water
+
+
+Sanitary sewers                  380 miles of sewers                  EBMUD sewage treatment
+
+
+                                 220 miles of storm sewers
+Stormwater system                                                     Large portion of creeks
+                                 6,000 storm drain facilities
+
+                                 •   7.45 acre transfer/
+                                     recycling station                •   Private landfill
+                                 •   All residential, multi-          •   Alameda County household
+                                     family and commercial                hazardous waste services center
+                                     collection of refuse,                (residents only)
+Solid waste management
+                                     recycling (fiber, glass,         •   Organics composting
+                                     etc.) and organics               •   Construction and demolition
+                                     (green/food) materials.              hauling, sorting and recycling
+                                 •   Roll-off box (primarily          •   Roll-off box services
+                                     compactors) services
+
+                                                                      BUSD buildings, UC Berkeley
+Public buildings                 95 public buildings                  buildings, transportation hubs
+                                                                      e.g. Berkeley City College
+
+                                 Berkeley marina
+Berkeley marina                  Municipal pier                       State of California
+
+                             Figure 2: Major Infrastructure Systems in Berkeley
+                                                                           Strategic Asset Management Plan     11
+02                    CONCEPTS IN
+                   ASSET MANAGEMENT
+
+
+12
+ 12   April
+      April2022
+            2022
+2.1 Definition of Asset
+   Management
+   Asset Management is a pro-active process                  As a society, we have effectively managed
+   to ensure that the design, construction,                  infrastructure assets for many decades, relying
+   maintenance, refurbishment, replacement                   on the commitment, experience and knowledge
+   and disposal of physical assets are planned
+                                                             of our teams on the ground. Good practice
+   together to optimize cost and that the systems
+                                                             Asset Management continues to depend on
+   perform properly. The process is data driven
+                                                             such commitment and knowledge but adds to
+   and includes preparing an asset inventory,
+                                                             this key information and analysis in order to be
+   assessment of the condition of assets, risk
+   assessment and the pro-active repair and                  able to optimize the assets, in other words to
+
+   replacement of asset over its useful life. This           deliver levels of service at the right balance of
+   concept is illustrated in Figure 3.                       cost, performance and risk (see Figure 4).
+
+
+
+
+           Figure 3: Proactive Asset Management               Figure 4: Asset Management optimizes Asset Cost, Risk
+                                                                                and Performance
+
+
+
+
+                                    Woolsey Cistern and Bio-Swale by Billy Hustace
+
+
+
+                                                                                Strategic Asset Management Plan       13
+2.2 Key Elements in Good
+                                                         This also depends on having adequate
+                                                         resources – enough of the right people in the
+   Practice Asset Management
+                                                         right jobs – and a general culture of proactive,
+
+   A good model of Asset Management used                 coordinated and longer-term management of
+   around the globe starts with the alignment            our physical assets.
+   of goals and activities: how the organizational
+   goals must explicitly drive how we manage the         As well as embedding continuous
+   assets. This may sound obvious, but in practice,      improvement, formal ‘Plan-Do-Check-Act’
+   asset decisions are often uncoordinated and not       learning processes, good asset management
+   explicitly focused on levels of service and other     is explicitly based on a better understanding
+   targets. Organizations continue doing what we         of risk – where risk is defined as the impact of
+   have done in the past, rather than actively seek      uncertainty on our organizational objectives.
+   to maximize asset contribution to current and         Risk includes safety risks, but it also includes
+   future goals.                                         how physical assets may impact any of our
+                                                         goals, including the environment, equity, cost
+   To coordinate asset decisions to deliver our          control, and committed levels of service to
+   goals, the model shown in Figure 5 highlights
+                                                         our customers.
+   six main elements.
+
+                                                         These elements – asset strategy and planning,
+   The first core elements are proactive asset
+                                                         asset decision-making, asset information,
+   strategy and integrated planning, together with
+                                                         organization and people, risk, and review, along
+   improved decision techniques. This could be
+                                                         with the adequacy of current delivery processes
+   summarized as making full use of developments
+                                                         – were used to assess the current understanding
+   in risk-based asset decisions, in a framework of
+                                                         and practice in all the service areas in scope.
+   ‘thinking again’ and ’thinking longer term’.
+   More strategic approaches to longer term
+                                                         Good Asset Management practice is also
+   asset planning, and good practice decision
+                                                         described by the International Organization
+   techniques such as prioritizing replacement and
+                                                         for Standardization, ISO, in their ISO 55001 –
+   maintenance on their impact to levels of service
+   (‘risk to customer service’), depend on               Asset Management. This International Standard
+
+   good asset information: on adequate data on           specifies the requirements for the establishment,
+
+   what assets we have, their condition and rate         implementation, maintenance and improvement
+
+   of deterioration, good understanding of past          of a management system for asset management,
+   failures in order to forecast future risks, as well   referred to as an “asset management system”.
+   as the knowledge and experience of our skilled        This informed the proposed ‘roadmap’, or
+   people on the ground.                                 initiatives to implement the Asset
+                                                         Management Program.
+
+  14    April 2022
+                                   Figure 5: Asset Management Landscape Conceptual Model
+
+
+
+2.3 Lifecycle costs
+   The costs and resources required to manage
+   assets through their useful life are far more than
+   just the upfront costs to build them.
+                                                                Figure 6: Typical Lifecycle Costs, from AMCL AM Training
+
+
+   In practice, for many assets, the costs after
+   construction are significantly larger than the cost
+   to construct.
+
+
+   Managing the asset after construction is a major
+   commitment, up to 80% or more of the total
+   cost of ownership. This document particularly
+   focuses on what is required after construction, as
+                                                                    Figure 7: Typical costs to manage a facility from
+   that is usually less visible.                                       construction to disposal, from RTD Denver
+
+
+                                                                                  Strategic Asset Management Plan          15
+03                 THE IMPORTANCE
+                   OF MAINTENANCE
+
+
+16
+ 16   April
+      April2022
+            2022
+3.1 What is Maintenance?
+                                                               maintenance than with new investment.
+                                                               Many organizations have a general category
+                                                               of renewals to cover both refurbishments
+   Maintenance is often categorized into re-active
+                                                               and replacements, bringing out the cyclical
+   (fix it when there is a problem) or pro-active
+                                                               nature of asset management.
+   (fix it before there is a problem). There are also
+   other terms used to describe maintenance and           6.   Life-extension of existing assets tends
+                                                               to cover refurbishment, replacement of
+   these are summarized as follows.
+                                                               some components, and timely repair, that
+   1.   Repair or replacement on failure – also                is a lower cost means to maintain function
+        called ‘reactive’ maintenance. Failure is              without having to replace the whole asset.
+        best defined in terms of function: can the             The basic concept is the same: to not allow
+        asset still fulfil its functions for the City?         an asset to degrade past the point where it
+        Such a definition includes continuing to               can only be replaced.
+        function safely, in compliance with laws, and
+        meeting customer needs.                           7.   Upgrading existing assets to make them
+                                                               compliant, more equitable, or safe, or to
+   2.   Routine inspections and regular condition
+                                                               exploit new technology to better deliver
+        assessment to catch problems that require              the existing services, should also be
+        reactive maintenance or more generally to
+                                                               included in a definition of sustaining the
+        monitor the degradation of assets, to plan
+                                                               assets to sustain the service they provide.
+        ahead for preventative actions before they
+                                                               Replacing ‘like for like’ is often not the best
+        become problems.
+                                                               option, and ‘modern equivalent asset’ a
+   3.   Preventative actions such as planned                   better default.
+        replacement of components (e.g., changing
+        the timing belt in a vehicle) before they fail.   These different levels of maintenance can
+                                                          involve work defined as ‘capital’ or ‘on-going
+        Inspections, condition assessments,
+        and preventative work are generally               operations and maintenance’. The accounting
+        all categorized together as planned               and funding categorization of the work may be
+        maintenance, as opposed to reactive               defined by a dollar threshold or on whether
+        maintenance.
+                                                          the work adds to the balance sheet. Funding
+   4.   Major refurbishment of worn assets, often         is frequently more readily accessible for work
+        using capital funding (where available).
+                                                          defined as ‘capital’.
+        Refurbishment covers a wide range of
+        options short of total replacement of an
+        asset. Major structures such as roads,            However, Asset Management seeks to optimize
+        bridges or even some buildings may never          cost over an asset’s useful life, including getting
+        be ‘replaced’, only repeatedly refurbished.
+                                                          value from the existing assets. This involves
+   5.   Replacement of worn or obsolete                   considering the optimized combination of
+        assets, generally using capital funding.
+                                                          several different kinds of work and the best
+        Replacement is usually ‘capital’, but
+        because it is about continuing to provide         value for money may often come from improved
+        an existing function, is better grouped with      on-going maintenance.
+
+                                                                           Strategic Asset Management Plan       17
+3.2 Benchmark for
+  Maintenance Funding
+  While proper maintenance funding can prevent
+  much more expensive repairs later, identifying
+  a proper benchmark to gauge whether the City
+  of Berkeley’s maintenance funding is sufficient
+  can be more art than science. The Society of
+  Maintenance and Reliability Professionals (SMRP)
+  suggests that best-in-class values for total annual
+  maintenance cost should range between .7%
+  and 3.6% of the asset’s estimated replacement
+  value. It is safe to assume that assets with longer
+  useful lives, such as underground pipes, are
+  probably on the lower end of that range, and
+  those with shorter useful lives, such as pavement
+  and building components, trend toward the
+  higher end. However, this determination is asset
+  specific, and as the City’s asset management
+  practices gain in maturity, City-generated data
+  and analysis will enable the use of more accurate
+  and localized benchmarks rather than
+  a generalized one.
+
+
+
+
+                                                        Street Paving Work 2021
+
+
+
+ 18    April 2022
+04
+     CHALLENGES
+
+
+
+              Strategic Asset Management Plan   19
+4.1 Aging Asset Base
+                                                          While this estimate is high, known emerging
+
+                                                          issues will likely drive this estimate higher.
+  Much of Berkeley’s infrastructure was built             These issues include:
+  before the Second World War, during the
+                                                          ›    The City is updating its Watershed
+  Great Depression, as the population grew.
+                                                               Management Plan that was last prepared
+  Both civic facilities and infrastructure systems are
+                                                               in 2011. The new plan will incorporate
+  wearing out and require increasing maintenance
+                                                               new concepts and will likely have different
+  and renewal.
+                                                               estimated costs.
+
+  Aging infrastructure often also does not meet           ›    The City is preparing a long-term
+  current or future requirements, whether that is              street surfacing plan. The new plan will
+  safety standards, demand, or equity. The City                incorporate sustainable technologies, traffic
+  prepares a Capital Improvement Program (CIP)                 safety and complete streets concepts.
+  and the plan for FY2022 outlined a greater need
+  for investments in our public infrastructure. The
+                                                          ›    The City has prepared a plan to
+
+  estimated funding need is over $1 billion and is             underground overhead utility wires along
+
+  summarized as follows.                                       its evacuation routes to improve safety. The
+                                                               cost of that program is not included in the
+      INFRASTRUCTURE CATAGORY             FUNDING NEEDS        above estimates.
+                                            $ MILLIONS
+
+
+                                                          ›    This calculation does not yet reflect the cost
+          PARKS, PARK BUILDINGS, POOLS,
+          WATERFRONT, AND CAMPS              220               to implement the City’s adopted bicycle
+                                                               and pedestrian plans in future years.
+          PUBLIC BUILDINGS                   285
+                                                          ›    This calculation does not yet reflect cost
+                                                               estimates related to the to improving Civic
+          SIDEWALKS                            10
+                                                               Center, including the old City Hall building
+                                                               and the Veteran’s building, and the City’s
+          STREETS AND ROADS                  250
+                                                               Transfer Station.
+
+          SEWERS                             175          ›    This calculation does not reflect the costs of
+                                                               implementing the City’s Resilience and/or
+                                                               Climate Plan in future years.
+          STORM WATER                        245
+                                                          ›    A Berkeley Marina Area Specific Plan is
+          TRAFFIC SIGNALS AND PARKING          15              being prepared that will recommend
+                                                               improvements to the Marina, waterfront,
+                   TOTAL                    $1.2 B             municipal pier and a potential ferry. The
+                                                               planning is not completed yet.
+         Figure 8: Capital and Maintenance Costs
+                  (continuously updated)
+ 20    April 2022
+4.2 Finance for Sustainability                          4.3 Emerging Challenges
+   The City has a need to fund capital                  Emerging challenges to existing infrastructure
+   improvements and on-going operations and             include planning for an environment that is
+   maintenance costs. The estimate in Figure 8          changing and becoming more challenging.
+   includes both capital and maintenance costs.         The Vision 2050 process sought to anticipate the
+   However, the distinction between what is capital     changes and to create a future Berkeley that is
+   and what is maintenance is currently not well        safe and liveable. Our approach to meeting the
+   defined. The development of the full AMP will        challenges include the following:
+   need to analyze the following financing topics.      ›   To address the multiple risks from climate
+                                                            change, including extreme storm events,
+   ›   Define the threshold for maintenance
+                                                            wildfires, heatwave, drought and sea level
+       and capital costs
+                                                            rise. This is on top of the risk of major
+   ›   Incorporate updates from the long-range              earthquakes. Our infrastructure will need to
+       infrastructure planning underway                     be sustainable and resilient in all its aspects,
+                                                            including the use of green technologies,
+   ›   Define the current level of maintenance              low impact development, undergrounding
+       funding and prepare an estimate of long-             utilities, water reuse and using long
+       term maintenance funding needed                      lasting materials.
+
+   ›   Evaluate creating a building                     ›   To provide infrastructure services equitably
+       replacement fund.                                    to all of our communities.
+
+                                                        ›   To improve the quality of life in our
+                                                            City by having vibrant public realm that
+                                                            includes open spaces, trees, recreational
+                                                            opportunities, community placemaking and
+                                                            safety for bicyclists and pedestrians.
+
+                                                        ›   To incorporate new technologies, including
+                                                            reliable wi-fi available to the public and
+                                                            electrification to reduce our greenhouse
+                                                            gas emissions.
+
+                                                        Our infrastructure systems need to be
+                                                        maintained at a state of operational readiness.
+                                                        Letting systems deteriorate will limit our ability
+                                                        to meet the wide range of conditions that are
+                                                        emerging. And keeping these systems in a state
+                                                        of operational readiness means having
+                                                        a workforce that is engaged, well-trained,
+         North Berkeley Senior Center in Construction
+                                                        and healthy.
+
+                                                                          Strategic Asset Management Plan      21
+05                   OVERVIEW OF
+                   ASSET PORTFOLIOS
+
+
+22
+ 22   April
+      April2022
+            2022
+5.1 Streets and Roads
+                                                              life can save $8 spent on more expensive
+                                                              repairs later. Yet the City’s annual paving
+                                                              funding is far short of the needed
+   There are approximately 215 centerline miles of
+                                                              amount to make cost-effective repairs.
+   improved streets in Berkeley and their estimated
+                                                              To keep City streets at the current PCI
+   replacement value is $816,753,950. Every two
+                                                              would require boosting annual funding
+   to three years, portions of Berkeley’s streets are         from approximately $7 million to $15
+   inspected using the Metropolitan Transportation            million, according to the City’s pavement
+   Commission’s Pavement Management System                    management system. With current annual
+   (PMS) to identify repair needs and assign                  funding, Berkeley’s PCI is expected to
+   a pavement condition index (PCI). The City                 decline by 6 points (to a PCI of 51) in the
+   uses the PMS and PCI to track and prioritize               next five years.
+
+   pavement rehabilitation and maintenance needs          ›   The recently updated Street Maintenance
+   on individual asphalt streets and the overall              and Rehabilitation Policy (2022) identified a
+   condition of the City’s street pavement network.           goal of good condition for the City’s streets,
+                                                              which is a PCI between 70 to 79. To reach a
+   The primary purpose of the street rehabilitation           PCI in this range would require $115-$200
+                                                              million or more.
+   program is to maintain a safe surface
+   conveyance system in the public right-of-way for       ›   The needs described above only address
+   vehicles, bicycles, and transit. The right-of-way          the pavement surface, markings, and
+   also provides pedestrian access and ancillary              curb cuts. The costs related to drainage
+   functions of a storm water conveyance system               improvements, green infrastructure, and
+                                                              implementation of the City’s bicycle,
+   and the location of public utilities. Regular street
+                                                              pedestrian, and Vision Zero plans are
+   maintenance includes Public Works’ staff crack
+                                                              not included.
+   sealing and filling potholes, and ongoing capital
+   projects for seals, refreshing markings, and           The City dedicates approximately $7.5M
+   other activities. Asphalt streets are upgraded         annually to the maintenance of the City’s streets,
+   with a surface overlay or are reconstructed.           or .92% of the replacement value. This is at
+                                                          the very low end of the maintenance funding
+   The following is a summary of Berkeley’s current       benchmark. Given street condition is “at risk”
+   street condition.                                      and declining even more in the next five years,
+   ›   Of the 215 centerline miles of streets             it is clear that this maintenance funding is far
+       (22mi of arterials, 37mi of collectors and         short of what is required. Boosting annual
+       156mi of residential streets), the current
+                                                          funding to $15 million would result in a
+       overall average PCI rating is 56 (out of 100).
+       This puts Berkeley’s streets in the ‘at-risk’      maintenance over replacement value of 1.84%,
+       category.                                          which is the mid-range of the benchmark for
+
+   ›   Studies show that $1 invested in pavement          maintenance funding. The following illustrates
+       treatment early in the pavement’s useful           some of the work to maintain our streets.
+
+                                                                           Strategic Asset Management Plan     23
+ Street surface in need of repairs                  Street being repaired                   Completed street surface overlay
+
+
+                                                               The following illustrates some of the work to
+5.2 Sidewalks                                                  maintain our sidewalks.
+
+       The City has 400 miles of sidewalk. Public
+       Works manages a sidewalk repair program
+       to keep the City’s sidewalks safe and provide
+       for safe pedestrian passage, including make-
+       safe repairs, annual proactive repair program,
+       and the City’s 50/50 replacement cost-share
+       program in which the City shares the costs for
+       broken sidewalks with property owners. Public
+       Works staff respond to all reported sidewalk
+       hazards, assesses each situation and installs an
+       asphalt make-safe or grinds the sidewalk hazard
+       if applicable, and on occasion perform limited
+       sidewalk removal and replacement if a sidewalk
+                                                                             Sidewalk tripping hazard
+       hazard can’t be made reasonably safe.
+
+
+       These sidewalks have an estimated replacement
+       value of $400,000,000. Approximately $1
+       million is available in annual funding towards
+       sidewalks maintenance and repair from baseline
+       allocations from the Capital Improvement
+       Fund and 50/50 Program contributions from
+       residents. This represents .25% of sidewalk
+       replacement value, which is at the very low end
+       of the maintenance funding benchmark. This is
+       consistent with the growing backlog of sidewalk
+       repairs and the results of a recent proactive
+       condition assessment of sidewalk, rather than
+       relying on residents reports, that suggests a
+                                                                             Sidewalk hazard repaired
+       possible $50M+ backlog of repairs.
+
+  24       April 2022
+                                                        markings, the full inventory of which was
+5.3 Transportation                                      collected in the last year using 3-D scanning.
+                                                        The department’s Parking Meter Maintenance
+   The City is committed to improving traffic safety;
+                                                        Unit handles maintenance of the parking
+   encouraging transit use, bicycling and walking;
+                                                        meters. The City’s parking meters have an
+   and addressing a variety of transportation
+                                                        online management system, and an up-time
+   issues. Public Works’ Transportation and
+                                                        of 97%. However, the inventory is aging and
+   Engineering Divisions manage various
+                                                        a replacement of many existing meters is
+   capital projects related to the City’s parking
+                                                        necessary to ensure adaptability to the new 4G
+   facilities; street improvements; traffic calming
+                                                        networks. Developing replacement values so
+   measures, such as signs, markings, striping,
+                                                        that the City can benchmark its Transportation
+   and traffic circles; and bicycle and pedestrian
+                                                        maintenance budget is a required next step
+   infrastructure improvements, such as pathways,
+                                                        of the SAMP.
+   on-street facilities, and bicycle parking.
+   Multiple transportation capital projects were
+   implemented in the past few years, including:
+
+   ›   Center Street Garage construction
+
+       completion and opening
+
+   ›   Ordination of the installation of City’s 37
+       Ford GoBike Bike Share stations
+
+   ›   Completion of Ashby Corridor Safety
+       Improvements Project which included
+       bike lanes, new rectangular rapid flashing
+       beacons at Tunnel Road/The Uplands,
+       new pedestrian hybrid beacon at Ashby/                       Hearst Avenue complete street
+       Hillegass, and new left turn signal phase at
+       Telegraph/Ashby
+
+   ›   Completion of traffic calming measures
+       along Le Conte Ave., including signal
+       upgrade at the Hearst/Gayley intersection
+
+   ›   Completion of construction of the Shattuck
+       Avenue Reconfiguration, Downtown
+       Berkeley BART Plaza and Transit Area
+       Capital Improvement Projects
+
+   ›   Expansion of the goBerkeley Program in the
+       Euclid/Hearst Area
+
+   Public Work’s Traffic Maintenance Unit handles
+   maintenance of street signs and pavement                            Center Street parking garage
+
+
+
+                                                                           Strategic Asset Management Plan   25
+                                                          rate study was completed. These costs will have
+5.4 Sanitary Sewers                                       to be closely monitored going forward over the
+                                                          duration of the Consent Decree, in case funding
+      The City owns and operates 255 miles of sewer
+                                                          supplementation from additional sources or
+      mains and 165 miles of lower laterals. Their
+                                                          future rate adjustments are needed to fund the
+      estimated replacement value is $820,000,000,
+                                                          cost of the required capital improvements.
+      and annual maintenance funding is
+      $15,140,637. The result is a ratio of maintenance
+      funding to replacement value of 1.85%, which
+      is in the mid range of the maintenance funding
+      benchmark. This level of funding is probably on
+      target, given underground pipes are expected
+      to be on the lower end of the benchmark range
+      and much of the sewer pipe network has been
+      replaced since the 1980’s.
+
+
+      In 2014, the City (along with EBMUD and
+      all agencies conveying flows to EBMUD)
+      concluded negotiations with the Environmental
+      Protection Agency and the Department of
+      Justice for violation of the Clean Water Act
+      and agreed to a stipulated settlement known
+      as the final Consent Decree. To comply with
+      the Consent Decree, the City is required to
+      rehabilitate an average of 4.2 miles of sewer
+      pipeline annually based on a three-year rolling
+      average. Effectively, this mandated significant
+      additional maintenance activities and capital
+      improvements, and resulted in increased costs
+      of managing the City’s existing sewer system.
+      After a sewer rate study was completed, a series
+      of rate adjustments were adopted beginning in
+      FY 2016 to support the added financial load of
+      the Consent Decree requirements. The City is
+      currently on track to meet rehabilitation mileage
+      targets with revenues generated from sanitary
+      sewer fees, however, the costs per mile for
+                                                                         Storm Drains Repaired
+      sewer construction have increased since the
+
+ 26       April 2022
+    Deteriorated pipe                           Green infrastructure                           Piedmont Circle
+
+
+
+5.5 Stormwater and
+   Green Infrastructure
+   The City’s engineered storm drains include               already started to address implementing
+   approximately 78 miles of underground pipes,             LID. In 2012, City Council adopted the City’s
+   manholes, catch basins and cross-drains, all of          Watershed Management Plan (WMP). The WMP
+   which have an estimated replacement value of             uses LID methods to develop an integrated and
+   $440,253,101. Annual maintenance funding is              sustainable strategy for managing stormwater
+   $4,397,750, which is 1% of replacement value.            resources that addresses water quality, flooding,
+   Given the life of these assets, expanding green          and the preservation of local creek habitats and
+   infrastructure requirements, and new threats             the San Francisco Bay. Since then, the City has
+   from more intense, climate-fuelled storms,
+                                                            installed green infrastructure at 30 locations.
+   maintenance funding should probably grow
+   to the middle end of the maintenance funding
+                                                            The City prepared a Green Infrastructure Plan
+   benchmark range. Assuming near term growth
+                                                            (GI Plan) in 2019 as required by the Stormwater
+   to 1.5%, that would require $6,603,796 of
+                                                            NPDES Permit. The GI Plan is a dynamic
+   maintenance funding annually, or $2,206,046
+                                                            planning document that includes goals for
+   more than the current funded amount.
+                                                            future green streets retrofits, prioritization
+                                                            tools, and guidelines for incorporating green
+   Much of the stormwater infrastructure is
+                                                            infrastructure into future capital projects.
+   over 80 years old and needs substantial
+   rehabilitation. The backlog of projects includes:
+                                                            The GI Plan and the WMP do not address
+   rehabilitation of pipeline reaches; replacement
+   of deteriorated drain inlets and piping; major           rehabilitating and replacing the aging
+
+   cleaning of the primary storm collectors in              infrastructure. The City needs to integrate
+
+   the lower Berkeley drainage watersheds; and              the findings of the WMP and the GI Plan
+   replacement of street cross drains. The                  with requirements to rehabilitate or replace
+   City desires to address these issues while               aging infrastructure and address future flows.
+   forwarding its policies to improve the                   This integration will be done by preparing
+   environment by pursuing Low Impact                       a Stormwater Comprehensive Plan, which is
+   Development (LID) methods. The City has                  kicking off in calendar year 2022.
+
+                                                                             Strategic Asset Management Plan     27
+5.6 Zero Waste
+      The Transfer Station, which was constructed
+      in 1982, is in need of a redesign and has an
+      estimated replacement value of $76 million. A
+      Feasibility Study was completed in 2019 and
+      included over 40 hours of public input. The
+      project is proceeding with design/engineering
+      plans (to 10% design level) and CEQA Process
+      (to be completed mid-2023). Currently, the
+      Transfer Station has two below-grade refuse           Transfer Station
+      and organic materials load out tunnels that
+      top-load trailers with up to 20 tons materials.
+      The Transfer Station and its ancillary structures
+      and operations are in need of replacement; the
+      facilities are showing considerable wear and
+      tear after thirty 38 years of operation; and the
+      current facilities are not configured for efficient
+      diversion or customer-friendly recycling of
+      incoming materials due to the complexity of
+      a site with one government and two non-
+      profit partners. The Transfer Station replacement
+      is especially important for ensuring the City
+      makes progress towards its goal of Zero Waste.          Zero Waste
+
+
+
+
+                                                            Transfer Trailer
+
+
+
+ 28       April 2022
+5.7 Equipment and Fleet
+
+  The City has a fleet of 621 vehicles. All City
+  Departments make annual replacement
+  contributions into the Equipment Maintenance
+  Fund and to the Equipment Replacement Fund.
+  The former funds the mechanics, technicians, and
+  parts and supplies required to maintain the fleet,
+  and the latter funds the eventual replacement of
+  vehicles when they reach or exceed their
+  useful life.
+
+
+  Historically, the Equipment Maintenance
+  Division has been responsible for determining
+  what each Department’s replacement
+  contribution will be, recommending a schedule
+  of vehicle replacements to the City Manager,
+                                                           Vactor truck maintenance
+  and purchasing the replaced equipment in
+  accordance with the replacement schedule.
+  Staff continue to be identify vehicles on the
+  schedule that can be replaced with electric
+  vehicles. The Division utilizes a newly
+  implemented computerized fleet management
+  system AssetWorks and Syn-tech, fuel
+  management software.
+
+
+  Total replacement value of the fleet is
+  $53,592,626. Vehicles and equipment are
+  a unique asset category not subject the
+  maintenance funding benchmark. The
+  equipment replacement backlog is currently
+  estimated at $13.2 million per the City
+  Auditor’s report.
+
+
+
+
+                                                       Waste collection truck maintenance
+
+
+
+                                                              Strategic Asset Management Plan   29
+5.8 Building Facilities
+      The City is responsible for the maintenance of
+      95 facilities, not including Library facilities and
+      facilities leased to other entities, which were
+      not part of this analysis. Of these 95 facilities,
+      39 are in the Parks Recreation and Waterfront’s
+      inventory and 56 are in Public Works’ inventory.
+      A third-party expert has provided facility
+      condition assessments for 30 of these buildings.
+      All projects included in these assessments are
+      considered maintenance, according to the
+      definition used in this report. Repairs to minor
+      components such as plumbing, electrical,
+      HVAC, painting, etc.—what this SAMP refers
+      to as routine maintenance—are handled by
+      the Facilities Division. Staff have developed a
+      5-Year Facility Capital Improvement Program
+      with approximately $85 million in building
+      maintenance projects, yet the current budget
+      allocation for this work over that time period is
+      only $4 million.
+
+
+      The total replacement value of the buildings in
+      this inventory exceeds $540 million. The City
+      allocates $4,686,074 annually for maintenance
+      and $900,000 for major refurbishment or
+      replacement of building components. This
+      results in a ratio of 1.04% maintenance
+      funding to replacement value. Given building
+      components are on the higher end of annual
+      maintenance cost according to SMRP guidance,
+      the shortfall is estimated at 2-3.6%, or $5.2
+      million to $11.7 million annually. Some of this
+      annual funding gap is covered by one-time
+                                                            Mental Health Building Renovation
+      allocations from the General Fund or T1 funds.
+
+ 30       April 2022
+    King Park renovation                 Berkeley Tuolumne Camp renovation                San Pablo Park playground
+
+
+
+
+5.9 Parks, Camps, Recreation
+                                                           reports over the few years, there is a diminishing
+                                                           ability to pay for the pressing capital needs in
+   Facilities, Waterfront,                                 the Waterfront. The Marina Fund, which is the
+   and Trees                                               City’s mechanism for managing all Waterfront
+                                                           revenues and expenditures, is approaching
+   The Parks, Recreation & Waterfront Department
+                                                           insolvency. Revenues steeply declined in
+   (PRW) operates, maintains and manages 52
+                                                           the last two years as a result of safety and
+   parks, 4 community centers, 2 clubhouses, 2
+                                                           security concerns and failing infrastructure. The
+   pools, 3 resident camps, 15 sports fields, 49
+                                                           combination of falling revenue and increasing
+   sports courts, 63 play areas, 36 picnic areas,
+                                                           expenditure needs have strained the relatively
+   42,000 street, parks and camp trees, 152
+                                                           small Marina Fund to a breaking point.
+   landscaped street medians and triangles, 263
+   street irrigation systems, and 30 restrooms and         The City has begun a long-term planning
+   out-buildings. In addition, PRW operates and            effort – the Berkeley Marina Area Specific Plan
+   maintains the Berkeley Waterfront and its related       – to establish the community’s vision for the
+   facilities, including the docks, pilings, channel,      Waterfront and a plan for making the Marina
+   streets, pathways, parking lots, buildings, trails,     Fund viable and stable. There is still a need
+   Adventure Playground, and 1,000 boat and                to address an estimated $10.33 million in
+   berth rentals.                                          urgent infrastructure repairs to finger docks,
+                                                           pilings, electrical systems, and restrooms. If
+   The unfunded needs in parks, waterfront, pools          these investments are not made, facilities and
+   and camps and infrastructure are estimated at           infrastructure will either require more costly
+   $220 million. The majority of these unfunded            emergency funding or be closed as in the case
+   needs are at the Waterfront, where many of the          of the Berkeley Pier. Waterfront customers
+   docks, pilings, buildings, parking lots and streets     will continue to leave the Berkeley Marina,
+   have reached the end of their useful life and           continuing the downward spiral of revenue loss
+   are starting to fail. As documented in multiple         and blight.
+
+                                                                             Strategic Asset Management Plan     31
+06                 REVIEW OF CURRENT
+                   ASSET MANAGEMENT
+                        PRACTICES
+
+32
+ 32   April
+      April2022
+            2022
+6.1 Assessment of Asset
+                                                                   this development, although this cannot
+                                                                   happen without sufficient resourcing on the
+   Management Maturity                                             data processes needed to populate and
+                                                                   maintain the core asset data.
+   To develop a forward-looking Asset
+                                                            ›      Based on AMCL’s experience, the City’s
+   Management Program, current practices
+                                                                   Public Works and Parks, Recreation &
+   were reviewed. This included both project                       Waterfront Departments measure up well
+   management and on-going maintenance                             on Asset Management understanding
+   (‘Lifecycle Delivery’) as well as strategic activities          against many U.S. cities. The U.S. municipal
+                                                                   sector is generally less developed in Asset
+   on asset planning, asset decision making,
+                                                                   Management compared to places where it
+   asset information and data, resourcing, and
+                                                                   has been practiced for a longer time (such
+   understanding risk management.                                  as the U.K., Australia and Canada). This
+                                                                   gives the City a good start to learn from
+   To do this efficiently in a short time, AMCL                    good practice elsewhere.
+   used an existing best practice methodology
+                                                            The questions posed to each workshop (one
+   for assessing Asset Management Maturity and              each on streets & transportation assets; sanitary
+   tailored it to Berkeley priorities. A series of          sewers, stormwater & green infrastructure
+                                                            assets; parks, recreation & waterfront assets;
+   workshops were conducted in July 2021 with
+                                                            facilities and buildings; vehicles; and zero
+   the managers responsible for maintaining each            waste assets) were organized in these
+   of the City’s asset categories to understand the         assessment categories:
+   City’s current practices and their understanding                            Assessment Catagories
+   of life cycle asset management principles.                   Asset Strategies
+
+                                                                Demand Analysis
+   A summary of the findings is as follows:
+                                                                Asset Management Planning
+
+   ›    Small teams are all working hard with                   Optimization
+        limited resources to maintain the assets.               Capital Investment Decision-Making
+        Vacancies are of particular concern.                    Resourcing Strategy
+
+                                                                Asset Creation & Acquisition
+   ›    There is limited pro-active maintenance
+                                                                Maintenance Delivery
+        being done due to the lack of resources,
+                                                                Fault & Incident Response
+        especially in some areas such as with
+        facilities and building maintenance.                    Asset Information Strategy
+
+                                                                Asset Information Systems
+   ›    There is encouraging evidence of                        Data & Information Management
+        good practice such as capital project                   Cost data
+        management, reliability engineering and a
+                                                                Procurement & Supply Chain Management
+        promising start on life cycle management
+                                                                Asset Management Leadership
+        with sewer maintenance.
+                                                                Competence Management
+   ›    A key development will be the                           Risk Assessment & Management
+        successful implementation of NexGen,                    Asset Performance Monitoring
+        a new IT system for asset data and work                 Asset Health Monitoring
+        management. Teams are enthusiastic about                       Figure 9: Topics covered in Workshops
+
+
+                                                                                   Strategic Asset Management Plan   33
+     The results were tabulated using a standard approach to ‘maturity’, as shown on Figure 10.
+
+
+
+
+                                       Figure 11: AMCL AM Maturity Scale
+
+
+ The average score against the scale was
+ 24%, with some areas higher and some lower
+ than this. To put the results in context, fully
+ meeting the international standard on Asset
+ Management, ISO 55000, would require an
+ average of 45%. The City of Berkeley is currently
+ rated at the ‘developing’ level. This means that
+ the City has a good start for developing an AMP.
+
+
+ The average score across the Public Works and
+ Parks, Recreation and Waterfront departments is
+                                                                           James Kenney Park
+ shown on Figure 11.
+
+34       April 2022
+                       AVERAGE MATURITY SCORE
+Assessment Catagories                                                                 Average Score
+
+Organizational Direction                                                                    20%
+
+SAMP                                                                                        25%
+
+Asset Strategies                                                                            28%
+
+Demand Analysis                                                                             30%
+
+Asset Management Planning                                                                   35%
+
+Optimization                                                                                31%
+
+Capital Investment Decision-Making                                                          35%
+
+Resourcing Strategy                                                                         20%
+
+Asset Creation & Acquisition                                                                21%
+
+Maintenance Delivery                                                                        31%
+
+Fault & Incident Response                                                                   36%
+
+Asset Information Strategy                                                                  19%
+
+Asset Information Systems                                                                   22%
+
+Data & Information Management                                                               26%
+
+Cost data                                                                                    10%
+
+Procurement & Supply Chain Management                                                        20%
+
+Asset Management Leadership                                                                  20%
+
+Competence Management                                                                        15%
+
+Risk Assessment & Management                                                                 15%
+
+Asset Performance Monitoring                                                                 26%
+
+Asset Health Monitoring                                                                      24%
+
+Total Average                                                                               24%
+
+                            Figure 12: Major Infrastructure Systems in Berkeley
+
+
+                                                                           Strategic Asset Management Plan   35
+6.2 Summary of Asset
+                                                               to make asset decisions, how the City will
+                                                               collect that information, and how the City
+   Management Gaps                                             will ensure that the information is accurate
+                                                               and of good quality.
+   The following is a summary of the current gaps
+   in having a full Asset Management Program.             3.   The operations and maintenance costs
+                                                               of infrastructure systems are not currently
+   1.   Asset Planning needs to be integrated to               captured and tracked, which hinders the
+        move beyond reactive work to sustainable               ability to understand lifecycle costs and
+        proactive maintenance, both with capital               determine optimal strategies for each type
+        renewals and on-going work. Vision 2050                of asset.
+        explicitly calls for integrated planning.
+        Planning should optimize different activities     4.   The next steps are to ensure an overall
+        and should integrate across short, medium              understanding of an ISO 55000-type Asset
+        and longer-term perspectives.                          Management system and to put an AM
+                                                               effective framework in place, to build on
+        Integrated planning supports a realistic               what is already there and implement good
+        understanding of funding and resourcing                practice Asset Management across the
+        needs going forward. Progress should be
+                                                               different service areas.
+        monitored and reported, and the principle
+        of continuous improvement applied to the          One important step already taken by the
+        planning itself – that every planning cycle
+                                                          City is the implementation of NexGen Asset
+        learns from the last one, towards increasing
+        maturity in meeting City objectives.              Management software in Public Works
+                                                          operations. The system went live at the end
+   2.   A more strategic approach to Asset
+                                                          of 2021 and it will be valuable in maintaining
+        Information, including appropriate data
+        governance processes, is needed to                asset inventories, in issuing work orders and
+        understand what information is needed             maintaining a record of work accomplished.
+
+
+
+
+                                     Figure 13: Screen Shot of NexGen system
+
+
+  36    April 2022
+07      STRATEGIC ASSET
+     MANAGEMENT OBJECTIVES
+     The following are AM objectives developed through this SAMP.
+
+
+     1.   Develop an internal communications and awareness plan around an ISO
+          55001 compliant AM system.
+
+     2.   Develop a communications and awareness plan of sustainable Asset
+          Management with external stakeholders.
+
+     3.   Prepare a plan of the organizational structure, staffing resources,
+          consultants, and system programs needed to fully implement an AMP. This
+          should be prepared in time for the FY2023 budgeting process.
+
+     4.   Develop an understanding of the maintenance funding shortfalls and to
+          place a revenue measure on the November 2022 ballot.
+
+     5.   To move towards preparing an annual maintenance plan across asset
+          classes that increases transparency and defines the critical required
+          maintenance, the funding and resources to perform the work.
+
+     6.   To increase the AM maturity score year over year.
+
+     7.   To have a long-term projection of the infrastructure repair and replacement
+          cost and schedule across all asset categories. The goal is to have pro-active
+          maintenance while minimizing risks and optimizing costs.
+
+     8.   Maintaining a record of work accomplished.
+
+
+
+                                                                    Strategic Asset Management Plan   37
+08                        ROADMAP FOR
+                         IMPLEMENTING
+                        AN AM PROGRAM
+              This section presents a proposed ‘roadmap’ of key initiatives in the next two
+              years for moving to implementing an effective Asset Management Program.
+
+
+
+
+38
+ 38   April
+      April2022
+            2022
+8.1 Principles for AM Policy
+   We propose that a City policy on Asset
+   Management be presented to the Council along
+   with this SAMP report. The following are some
+   principles to be included with the policy.
+
+
+   ›   Life Cycle Approach – Apply a life-of-an-asset
+       methodology for managing infrastructure
+       assets, including planning, acquisition,
+       operations, maintenance, renewal and
+       surplus or disposal.
+
+   ›   Financial Stewardship – Understand the
+       resources and funding required to sustain
+       the assets to deliver defined levels of service,
+       through appropriate asset cost, risk and
+       performance information
+
+   ›   Service Level – Understand the service
+       level and use of each asset to inform the
+       prioritization of asset maintenance or
+       replacement as it relates to the capital
+       improvement plan.
+
+   ›   Risk Mitigation – Understand and mitigate
+       risk associated with physical assets based
+       on their condition and usability.
+
+   ›   Process Optimization – Continuously seek
+       opportunities and tools to improve asset
+       management processes.
+
+   ›   Standard Operating Procedures (SOP)–
+       Establish and, as processes and tools
+       change, update SOPs to allow for consistent
+       implementation of asset management policy
+       principles.
+
+   ›   ISO 55000 - Compliant Asset Management
+       system based on Plan-Do-Check-Act with
+       targets, independent audit and
+       continuous improvement.
+
+
+
+                                                          Marina dock in need of repairs
+
+
+
+                                                                Strategic Asset Management Plan   39
+8.2 AM Roadmap
+                                                         5.   Form an Asset Management Steering
+      This report proposes a ‘roadmap’ of key Asset           Committee and create a charter.
+      Management initiatives from now until 2024
+                                                         6.   Prepare a job description for an Asset
+      to build an effective AMP. Asset Management             Management Program manager and staff
+      Roadmaps generally plan for an implementation           and begin the recruitment upon approval
+      period of 18 to 24 months. The intent is to             of funding.
+      develop near term ‘quick wins’ and to set          7.   Prepare data on current maintenance
+      the foundation for longer term processes. A             budgets, estimated budget needs and
+      major part of any successful AM Roadmap is              options for funding the shortfall.
+      communications and awareness building.             8.   Implement the NexGen software system.
+
+      This Roadmap describes the implementation
+                                                         Work Activities in 2023 and 2024
+      activities and schedule, forming an Asset
+                                                         With the Asset Management team in place,
+      Management Steering Committee, identifying
+                                                         the work activities through 2023 shall include
+      an Asset Management Program Manager and
+                                                         the following.
+      the team and a recommendation for resources.
+                                                         ›    Prepare a manual of inital Asset
+                                                              Management Standard Operating
+      Implementation Activities
+                                                              Procedures.
+      and Schedule
+      The following activities are proposed from the     ›    Prepare a clear definition of capital versus
+      beginning of 2022 to the end of 2023.                   maintenance and the required budgets
+                                                              for each.
+
+      Work Activities in 2022                            ›    Define equity and how Asset Management
+      The activities in 2022 are to launch the AMP and        can promote it in Berkeley.
+      to incorporate the needs of Asset Management       ›    Communicate progress to internal staff and
+      in the FY2023 budgeting process. The activities         external stakeholders.
+      shall include the following.
+                                                         ›    Continue expanding inventory of assets.
+
+      1.   Develop funding requests for staffing and     ›    Continue expanding condition assessments
+           consultant support in the FY2023 budget.           of assets.
+
+      2.   Conduct outreach to internal staff and
+           external stakeholders on the AMP.
+                                                         Asset Management
+      3.   Continue expanding inventory of assets        Steering Committee
+           and include replacement values.
+                                                         We recommend that an Asset Management
+      4.   Continue expanding condition assessments      Steering Committee be formed to guide the
+           of assets.                                    implementation of the AMP. The members of the
+
+
+ 40        April 2022
+committee could include the following people:       We propose that the Asset Management team
+›   Director and a Deputy Director of               include two other staff. Their skills can be in
+                                                    budgetary analysis, condition assessment, asset
+    Public Works Department
+                                                    management software, risk analysis or other
+›   Director and Deputy Director of Parks,          related topics.
+    Recreation and Waterfront Department
+
+›   Assistant City Manager
+                                                    Resource Requirements
+                                                    The following resources are likely to be needed
+›   Finance Director or his designee
+                                                    to support the Asset Management team.
+›   Other staff, commissioners, or residents with
+                                                    ›   Funding for consultant services to support
+    expertise in Asset Management
+                                                        the preparation of Standard Operating
+›   We recommend that the committee prepare             Procedures, strategies and funding analysis
+    a charter that defines the objectives and
+                                                    ›   Funding for consultant services to support
+    performance goals for an AMP.
+                                                        improving inventory and condition
+                                                        assessments
+
+                                                    ›   There is the potential for additional software
+Asset Management Program
+                                                        needed to implement the AMP
+Manager and Team
+We recommend that an Asset Management
+Program Manager be hired or appointed
+from current staff. Asset Management is about
+people, relationships, assets and strategies. We
+will need an AM leader that has knowledge of
+each. The responsibilities of the person shall
+include the following.
+
+›   Coordinate the preparation of
+    Asset Management Standard
+    Operating Procedures
+
+›   Lead the implementation of Asset
+    Management, including AM training
+    and communications
+
+›   Define capital versus maintenance and
+    develop models for tracking funding needs
+
+›   Key role in defining the asset
+    information strategy
+
+›   Key role in defining the asset risk framework
+
+›   Focus for improved asset decision
+    techniques and models
+
+                                                                    Strategic Asset Management Plan      41
+09
+                   APPENDICES
+
+
+
+42
+ 42   April
+      April2022
+            2022
+Appendix A:
+Aknowledgements
+City of Berkeley                             Consultant Team
+Liam Garland, Director                       AMCL
+Public Works                                 Ruth Wallsgrove, Project Manager
+                                             Nick Lee, Project Engineer
+Scott Ferris, Director
+Parks, Recreation and Waterfront             Bellecci & Associates
+                                             Daniel Leary, Principal
+Ray Yep, Vision 2050 Implementation
+Team Lead (volunteer)
+
+
+Margo Schueler, Vision 2050 Implementation
+Team Co-lead (volunteer)
+
+
+Andrew Brozyna, Deputy Director
+Public Works
+
+
+Farid Javandel, Deputy Director
+Public Works
+
+
+Christina Erickson, Deputy Director
+Parks, Recreation and Waterfront
+
+
+Joe Enke, Manager of Engineering
+Public Works
+
+
+Input from Division Managers in the Public
+Works and Parks, Recreation and Waterfront
+Departments
+
+
+
+
+                                                              Strategic Asset Management Plan   43
+ Appendix B:
+ Glossary of Terms
+ Asset Categories                                     assets while operating within
+ A logical grouping of similar assets or              established constraints.
+ equipment types used to categorize,
+ organize and manage the asset portfolio.             Asset Life Cycle
+ Also termed ‘asset type’ in ISO 55000. IAM           Time interval that commences with the
+ definition: Grouping of assets having common         identification of the need for an asset and
+ characteristics that distinguish those assets as     terminates with the legal disposal of the asset
+
+ a group or class. This is normally defined using     and any associated liabilities. The phases of
+
+ pragmatic asset management considerations            an asset life cycle include initiation, planning,
+
+ rather than theoretically defined by value, size     design, construction or installation, hand-over,
+                                                      operations and maintenance, replacement/
+ or criticality.
+                                                      refurbishment, decommission/ retirement and
+                                                      salvage/disposal.
+ Asset Class Strategy
+ The document or group of linked documents
+                                                      Asset Life Cycle Delivery
+ that states how City of Berkeley will achieve the
+                                                      The execution of asset operations, maintenance
+ objectives for an asset class or family. The Asset
+                                                      and investment plans.
+ Class Strategy will consider all phases of the
+ asset life cycle, including design, procurement,
+                                                      Asset Management Capabilities
+ operations and maintenance, the approach for
+                                                      An organization’s people, processes,
+ capital replacements and upgrades over the
+                                                      technology, leadership and culture to derive
+ asset’s life cycle, and retirement and salvage.
+                                                      and deliver value from its assets to meet the
+                                                      needs of the organization and its stakeholders in
+ Asset Information Strategy
+                                                      a sustainable manner.
+ The Asset Information Strategy is the plan and
+ process to achieve and implement identified          Asset Management Enablers
+ improvements to asset information. The Asset         The tools, processes, skills and competencies
+ Information Strategy defines the current and         that support effective asset management.
+ future states, along with priority improvements
+ in support of the Asset Management System.           Asset Management Maturity
+                                                      The level of an organization’s AM capability
+ Asset Planning                                       normally assessed by a standard proprietary
+ Data driven planning that improves operational,      or non-proprietary assessment tool; effectively
+ maintenance and capital forecasting of potential     a benchmark of the organization against a
+ needs, and optimization of portfolios of             standard (such as ISO 55000) or database of
+ investments to realize the greatest value from       other organizations.
+
+44    April 2022
+Asset Management Objective
+The plan and process to achieve and implement        Asset System
+an identified improvement to the asset               An Asset System is a grouping of assets; usually
+management system. The SAMP identifies               grouped for reporting, organizational, technical
+foundational asset management objectives             or financial purposes. Example in City of
+that are necessary to build and improve City of      Berkeley include a sewer or stormwater network,
+Berkeley’s asset management system.                  a fleet of vehicles, or a parking meter system.
+
+
+Asset Management Plan (AMP)                          Six Box Model
+An Asset Management Plan provides a typically        Widely used diagram of main elements of Asset
+5-plus years forecast of capital and operating       Management, from the Global Framework
+requirements for asset systems and classes to        for Maintenance & Asset Management Asset
+achieve the appropriate balance of asset cost,       Management Landscape. These six elements
+performance and risk to meet the organization’s      are: Organization & People, Strategy & Planning,
+asset management objectives.                         Asset Management Decision Making, Asset
+                                                     Information, Lifecycle Delivery, Risk & Review.
+Asset Management Policy
+The approved Policy which expresses the key AM
+principles to be applied to all decision making
+when managing the organization’s assets.
+
+
+Asset Management Roadmap
+The program of asset management initiatives
+that City of Berkeley has in place to develop and
+improve its asset management capabilities and
+asset management system.
+
+
+Asset Management System
+The Asset Management System is the set of
+people, processes, tools and other resources         ISO 55000 Series
+involved in the delivery of asset management,        The international standard on Asset
+including governance.                                Management. Often referred to as ISO 55000,
+                                                     the ‘meat’ of the standard is in ISO 55001.
+Asset Sustainment Requirement
+Work plan identifying all work activities required   Optimize
+to maintain a specific asset throughout its          To achieve by quantitative or qualitative method,
+lifecycle, as identified by the asset strategy.      as appropriate, the best value compromise
+It includes both resource requirements and           between conflicting factors such as performance,
+forecasted capital and operating expenditures.       cost and risk within established constraints.
+                                                                      Strategic Asset Management Plan    45
+     Strategic Asset Management Plan (SAMP)
+
+ A SAMP translates the corporate goals and
+
+ objectives to Asset Management Objectives
+
+ and documents the strategic actions identified
+
+ to build and improve the asset management
+
+ system. The SAMP lays out a roadmap for the
+
+ ongoing build out of City of Berkeley’s Asset
+
+ Management System to meet organizational
+
+ objectives and challenges and define
+
+ performance targets for the assets.
+
+
+
+ The Corporate SAMP – this document – is a City
+
+ of Berkeley wide strategy driven by corporate
+
+ challenges and the Corporate AM Policy.
+
+
+
+
+ References
+ The following references were used in the
+
+ development of this terminology list:
+
+
+ ›      ISO 55000 Series, 2014
+
+ ›      BSI PAS 55-1 Asset Management Part 1:
+        Specification for the optimized management
+        of physical infrastructure assets, 2008
+
+ ›      Institute for Asset Management (IAM)
+        Definitions https://theiam.org/knowledge/
+        definitions
+
+ ›      IAM Asset Management: an anatomy,
+        version 3, December 2015
+
+ ›      International Infrastructure Management
+        Manual, 2015
+
+46      April 2022
+Appendix C:
+Typical AM System Framework
+
+
+
+
+                              Strategic Asset Management Plan   47
+ STRATEG I C A SSE T
+ M ANAGE M E N T PL A N
+ City of Berkeley
+                            2180 Milvia Street
+                          Berkeley, CA 94704
+ APRIL 2022                CityofBerkeley.info
+
+
+
+
+48   April 2022
+

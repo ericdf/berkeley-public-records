@@ -1,0 +1,19 @@
+{
+  "id": "vision2050-2022-04-30-strategic-asset-management-plan",
+  "layer": "L0",
+  "doc_type": "planning_report",
+  "collection": "vision2050",
+  "publisher": "City of Berkeley",
+  "title": "Strategic Asset Management Plan",
+  "document_date": "2022-04-30",
+  "file": "L0/sources/vision2050/vision2050-2022-04-30-strategic-asset-management-plan.pdf",
+  "sha256": "01974de776d6634a1fb64910fd0fe796b72eea217a9f56fd74c8ff03ab5dade3",
+  "bytes": 3082254,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/Strategic-Asset-Management-Plan.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. The cover prints \"APRIL 2022\"; document_date is the end of that period.",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
