@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-2006-06-30-albany-shoreline-protection-initiative-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "Albany Shoreline Protection Initiative",
+  "file": "L1/sources/peer_cities/peer-cities-2006-06-30-albany-shoreline-protection-initiative-text.txt",
+  "sha256": "51b76bdcfaec850c5c6346703c729f1ac3b5713ba7741cda9107b4ab868be941",
+  "bytes": 26028,
+  "derived_from": {
+    "id": "peer-cities-2006-06-30-albany-shoreline-protection-initiative",
+    "sha256": "62a7b4e2448b3768da70a384ee8be61f9ab427a3b10d8b424f0d067b86b756c8"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-2007-06-30-resolution-06-46-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "Resolution #06-46",
+  "file": "L1/sources/peer_cities/peer-cities-2007-06-30-resolution-06-46-text.txt",
+  "sha256": "5f2e0685aeb2be1f80123b7039d1b27fb1443793503d0bb9b263948bbe557c1b",
+  "bytes": 3497,
+  "derived_from": {
+    "id": "peer-cities-2007-06-30-resolution-06-46",
+    "sha256": "913b898964cd09a3b74e88bb5dbf1f33e76c246c53da05018a52c190db436195"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

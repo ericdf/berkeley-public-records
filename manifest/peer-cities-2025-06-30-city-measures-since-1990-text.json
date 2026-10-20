@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-2025-06-30-city-measures-since-1990-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "City Measures Since 1990",
+  "file": "L1/sources/peer_cities/peer-cities-2025-06-30-city-measures-since-1990-text.txt",
+  "sha256": "6ca2853b1821d0bcaf78950e5784c081c203962b553ddccdec31d76e38c15f19",
+  "bytes": 8708,
+  "derived_from": {
+    "id": "peer-cities-2025-06-30-city-measures-since-1990",
+    "sha256": "c0abae947ba451f632577fa73c4f7fe1250dbecfc2758704762c2c98b496f9d6"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}
