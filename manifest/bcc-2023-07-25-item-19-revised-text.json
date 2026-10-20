@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2023-07-25-item-19-revised-text",
+  "layer": "L1",
+  "doc_type": "supplemental_agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2023-07-25",
+  "meeting_label": "regular",
+  "title": "$5.5M Loan for D and E Dock Replacement Project at the Berkeley Waterfront (Revised Agenda Material)",
+  "file": "L1/staff-reports/bcc-2023-07-25-item-19-revised-text.txt",
+  "sha256": "999f07b2e2403bce6a210d7ec46e8dc89692eef546dcea4e03640d7797ba90cd",
+  "bytes": 30976,
+  "derived_from": {
+    "id": "bcc-2023-07-25-item-19-revised",
+    "sha256": "83bfd9e7ff471b067d952d55f888bd14ef8ad4302a687c045256e4ee66c43462"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

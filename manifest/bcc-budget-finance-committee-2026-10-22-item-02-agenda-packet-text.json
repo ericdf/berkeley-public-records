@@ -1,0 +1,23 @@
+{
+  "id": "bcc-budget-finance-committee-2026-10-22-item-02-agenda-packet-text",
+  "layer": "L1",
+  "doc_type": "agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council Budget & Finance Policy Committee",
+  "meeting_date": "2026-10-22",
+  "title": "Berkeley City Council Budget & Finance Committee Regular Meeting Agenda, October 22, 2026",
+  "file": "L1/staff-reports/bcc-budget-finance-committee-2026-10-22-item-02-agenda-packet-text.txt",
+  "sha256": "1fe374eed35c690d9f52dee6ccb175ae4fcdce810a92b3a9021a0325e752195f",
+  "bytes": 18862,
+  "derived_from": {
+    "id": "bcc-budget-finance-committee-2026-10-22-item-02-agenda-packet",
+    "sha256": "b902aa2a4c8a311c73e69fea2b1d67f3d86ef5aed1c0af618b939f041346a9f5"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

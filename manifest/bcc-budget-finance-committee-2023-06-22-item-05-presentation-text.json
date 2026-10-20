@@ -1,0 +1,23 @@
+{
+  "id": "bcc-budget-finance-committee-2023-06-22-item-05-presentation-text",
+  "layer": "L1",
+  "doc_type": "presentation_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council Budget & Finance Policy Committee",
+  "meeting_date": "2023-06-22",
+  "title": "Marina Fund / DBW Loan Update (presentation)",
+  "file": "L1/staff-reports/bcc-budget-finance-committee-2023-06-22-item-05-presentation-text.txt",
+  "sha256": "c005003c308252e2bf83fe40c2f693540e6c744bc15e4a5e6e435057672ccb3e",
+  "bytes": 3471,
+  "derived_from": {
+    "id": "bcc-budget-finance-committee-2023-06-22-item-05-presentation",
+    "sha256": "c3c277386f05e83ec6f0d2e18510ff110d69a53aa3a656da0ac2a8b4922adee3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}
