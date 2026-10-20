@@ -1,0 +1,37 @@
+{
+  "id": "waterfront-2024-11-08-draft-waterfront-specific-plan-for-the-city-of-berkeley-public",
+  "layer": "L0",
+  "doc_type": "waterfront_document",
+  "collection": "waterfront",
+  "publisher": "City of Berkeley — Parks, Recreation & Waterfront",
+  "title": "DRAFT Waterfront Specific Plan for the City of Berkeley Public Tidelands Area (Public Draft November 8, 2024)",
+  "document_date": "2024-11-08",
+  "file": null,
+  "sha256": "e279c71c9fac20b58f79e0336088dbae29fd8f02e377039ce8a92ae6245a3eb4",
+  "bytes": 172643353,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/BWSP_Draft_2024-11-08.pdf",
+  "source_note": "Downloaded from the address above on 2026-10-20.",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-waterfront-2024-11-08-draft-waterfront-specific-285e39e3",
+        "path": "waterfront-2024-11-08-draft-waterfront-specific-plan-for-the-city-of-berkeley-public.pdf",
+        "uploaded": "2026-10-20",
+        "verified": null,
+        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public."
+      },
+      {
+        "store": "google_drive",
+        "location": "berkeley-public-records-blobs/waterfront-2024-11-08-draft-waterfront-specific-plan-for-the-city-of-berkeley-public.pdf",
+        "uploaded": "2026-10-20",
+        "verified": "2026-10-20"
+      }
+    ]
+  }
+}
