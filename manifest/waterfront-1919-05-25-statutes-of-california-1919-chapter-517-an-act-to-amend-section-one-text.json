@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-1919-05-25-statutes-of-california-1919-chapter-517-an-act-to-amend-section-one-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "Statutes of California 1919, Chapter 517: An act to amend section one of an act entitled \"An act to amend an act entitled 'An act granting to the city of Berkeley the salt marsh, tide and submerged lands of the State of California, including the right to wharf out therefrom, to the city of Berkeley, and regulating the management, use and control thereof,' approved June 11, 1913,\" approved May 27, 1915",
+  "file": "L1/sources/waterfront/waterfront-1919-05-25-statutes-of-california-1919-chapter-517-an-act-to-amend-section-one-text.txt",
+  "sha256": "bc90b80bcfcdeb7d5a4e2c9f65961782f1d00304cfa22ddb57723ef9d929b52f",
+  "bytes": 4181,
+  "derived_from": {
+    "id": "waterfront-1919-05-25-statutes-of-california-1919-chapter-517-an-act-to-amend-section-one",
+    "sha256": "b12b95b5e9b276b9ca277a733308346884b13df03603ea94da0bcfb8c7851a97"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

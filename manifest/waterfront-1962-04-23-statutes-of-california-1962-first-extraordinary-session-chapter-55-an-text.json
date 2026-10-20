@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-1962-04-23-statutes-of-california-1962-first-extraordinary-session-chapter-55-an-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "Statutes of California, 1962 First Extraordinary Session, Chapter 55: An act to amend Section 1 of Chapter 347 of the Statutes of 1913, relating to a conveyance of tide and submerged lands to the City of Berkeley",
+  "file": "L1/sources/waterfront/waterfront-1962-04-23-statutes-of-california-1962-first-extraordinary-session-chapter-55-an-text.txt",
+  "sha256": "d7520e35b70db89cb4a14d94ed6b77927b4cdc04c7cbb899d1f8b6232b3f8418",
+  "bytes": 8188,
+  "derived_from": {
+    "id": "waterfront-1962-04-23-statutes-of-california-1962-first-extraordinary-session-chapter-55-an",
+    "sha256": "3689c03c00db261d3d8e40c50b936aba93afdc7ce257bb9bc8acfef4103280e2"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

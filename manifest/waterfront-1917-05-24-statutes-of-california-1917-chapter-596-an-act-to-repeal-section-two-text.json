@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-1917-05-24-statutes-of-california-1917-chapter-596-an-act-to-repeal-section-two-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "Statutes of California 1917, Chapter 596: An act to repeal section two of an act entitled \"An act granting to the city of Berkeley the salt marsh, tide and submerged lands of the State of California, including the right to wharf out therefrom to the city of Berkeley, and regulating the management, use and control thereof,\" approved June 11, 1913, also approved May 27, 1915",
+  "file": "L1/sources/waterfront/waterfront-1917-05-24-statutes-of-california-1917-chapter-596-an-act-to-repeal-section-two-text.txt",
+  "sha256": "cb2ee8c5551b265f8d8d7eb87cd1c3f20fc75cd6b0c66ba0dad3966237a001f3",
+  "bytes": 888,
+  "derived_from": {
+    "id": "waterfront-1917-05-24-statutes-of-california-1917-chapter-596-an-act-to-repeal-section-two",
+    "sha256": "7ba67b11809e460d7d38a6ac5ca299e0b96a8b68e9a52daa1239e48dfa531a60"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}
