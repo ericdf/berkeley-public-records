@@ -1,0 +1,19 @@
+{
+  "id": "peer-cities-2006-07-13-election-code-9212-report-on-the-albany-waterfront-specific-plan",
+  "layer": "L0",
+  "doc_type": "peer_city_document",
+  "collection": "peer_cities",
+  "publisher": "City of Albany",
+  "title": "Election Code 9212 Report on the Albany Waterfront Specific Plan Initiative: Final Report",
+  "document_date": "2006-07-13",
+  "file": "L0/sources/peer_cities/peer-cities-2006-07-13-election-code-9212-report-on-the-albany-waterfront-specific-plan.pdf",
+  "sha256": "ccfdecd8f3f4505de4cef5707efa2bc2c8be3ed4d742a9bccfbe37fd1e3b1715",
+  "bytes": 2214803,
+  "source_url": "https://www.albanyca.gov/files/assets/city/v/1/administration/documents/waterfront/election-code-report.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20.",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
