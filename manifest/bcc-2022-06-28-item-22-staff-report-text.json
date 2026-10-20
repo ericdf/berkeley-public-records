@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2022-06-28-item-22-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2022-06-28",
+  "meeting_label": "regular",
+  "title": "Amending Contract No. 32100184 with O.C. Jones & Sons, Inc. for the Berkeley Marina Roadway Improvements Project",
+  "file": "L1/staff-reports/bcc-2022-06-28-item-22-staff-report-text.txt",
+  "sha256": "cd19bd4c2333e0754c834137fb4644bd6fdd5cf5772d25f733bdc2ca577aa7db",
+  "bytes": 8277,
+  "derived_from": {
+    "id": "bcc-2022-06-28-item-22-staff-report",
+    "sha256": "24b1cf495c8f1c96ccabd68259251b0dd0c7b7e53a399ef567226115d3223d97"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

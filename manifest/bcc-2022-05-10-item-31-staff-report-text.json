@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2022-05-10-item-31-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2022-05-10",
+  "meeting_label": "regular",
+  "title": "Vision 2050: Strategic Asset Management Plan and Asset Management Policy",
+  "file": "L1/staff-reports/bcc-2022-05-10-item-31-staff-report-text.txt",
+  "sha256": "e521e447d4e6ef05a9695637abe06ec69a573c967588e2f33ec55138c4c47a6b",
+  "bytes": 117444,
+  "derived_from": {
+    "id": "bcc-2022-05-10-item-31-staff-report",
+    "sha256": "de079b96483debc2365ff54ceefaf508e5b5a5d87a58c67400adfd00fb845524"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}
