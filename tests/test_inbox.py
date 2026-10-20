@@ -486,10 +486,22 @@ class TestIngestLarge(Base):
         self.assertEqual(e["bytes"], BIG)
         self.assertEqual(e["contributed_by"], "contributor1")
         self.assertEqual(e["retrieved"], "2026-10-01")
-        self.assertEqual(p["ia_item"], "berkeley-public-records-" + e["id"])
+        self.assertEqual(p["ia_item"], il.ia_identifier(e["id"]))
+        self.assertLessEqual(len(p["ia_item"]), 80)
         self.assertTrue(p["staged"].endswith(e["id"] + ".pdf"))
         self.assertIn("PUBLIC AND PERMANENT", il.describe(p))
         self.assertEqual(sorted(os.listdir(os.path.join(self.root, "manifest"))), before)
+
+    def test_ia_identifier_fits_the_internet_archive_limit(self):
+        short = "bcc-2025-03-25-item-08-staff-report"
+        self.assertEqual(il.ia_identifier(short), "berkeley-public-records-" + short)
+        long_id = "waterfront-2024-11-08-draft-waterfront-specific-plan-for-the-city-of-berkeley-public"
+        item = il.ia_identifier(long_id)
+        self.assertLessEqual(len(item), 80)
+        self.assertTrue(item.startswith("berkeley-public-records-waterfront-2024-11-08-"))
+        self.assertEqual(item, il.ia_identifier(long_id))
+        self.assertNotEqual(item, il.ia_identifier(long_id + "-x"))
+        self.assertRegex(item, r"^[a-z0-9-]+$")
 
     def test_refuses_small_files_and_duplicates(self):
         staging = tempfile.mkdtemp()
