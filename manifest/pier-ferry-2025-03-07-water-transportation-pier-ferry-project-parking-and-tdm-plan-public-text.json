@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2025-03-07-water-transportation-pier-ferry-project-parking-and-tdm-plan-public-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Water Transportation Pier-Ferry Project Parking and TDM Plan, Public Draft",
+  "file": "L1/sources/pier_ferry/pier-ferry-2025-03-07-water-transportation-pier-ferry-project-parking-and-tdm-plan-public-text.txt",
+  "sha256": "7e8b2ea4a3e4d74ec1d6ebeb4464a4c661de8ddd27e72d9cd8389f08c175d882",
+  "bytes": 302090,
+  "derived_from": {
+    "id": "pier-ferry-2025-03-07-water-transportation-pier-ferry-project-parking-and-tdm-plan-public",
+    "sha256": "47754e67e338385972662d67360c5aea74b93448dac3302bd0469e48d05acca1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

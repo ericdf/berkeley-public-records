@@ -1,0 +1,963 @@
+CITY OF BERKELEY PARKS, RECREATION & WATERFRONT
+Berkeley Water Transportation Ferry Pier Project
+
+
+
+
+DRAFT PARKING MANAGEMENT
+IMPLEMENTATION PLAN
+Public Review Draft
+
+
+5/8/2026
+
+
+
+
+Parks, Recreation & Waterfront
+City of Berkeley Parks, Recreation & Waterfront                                           DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                                                        Version: 5/8/2026
+
+
+
+                                                                Table of Contents
+1       Purpose ..............................................................................................................................................1
+2       Existing Conditions ........................................................................................................................2
+    2.1     Parking Inventory ................................................................................................................................................. 2
+    2.2     Existing Parking Management ......................................................................................................................... 2
+       2.2.1     Paid Parking ................................................................................................................................................... 2
+       2.2.2     Existing Permits & Passes ........................................................................................................................ 4
+       2.2.3     Time Limited / Access-Restricted Parking ....................................................................................... 5
+    2.3     Existing Parking Use & Availability ............................................................................................................... 5
+       2.3.1     Skates / N Lot ................................................................................................................................................ 6
+       2.3.2     Marina Blvd .................................................................................................................................................... 7
+       2.3.3     Seawall Parking Lot & Drive ................................................................................................................... 7
+3       Berkeley Ferry Parking Management .....................................................................................8
+    3.1     Ferry Parking Demand & Assumptions........................................................................................................ 8
+    3.2     Year 1 Parking Management Plan .................................................................................................................. 9
+    3.3     Parking Management Implementation ..................................................................................................... 11
+       3.3.1    Time Limits ................................................................................................................................................. 11
+       3.3.2    Paid Parking ................................................................................................................................................ 12
+       3.3.3    Permits .......................................................................................................................................................... 13
+       3.3.4    Signage & Wayfinding ............................................................................................................................. 14
+       3.3.5    Enforcement ............................................................................................................................................... 14
+    3.4     Long Term Dynamic Parking Management ............................................................................................. 14
+4       Regulatory Approvals ................................................................................................................ 15
+    4.1         Berkeley City Council........................................................................................................................................ 15
+    4.2         San Francisco Bay Conservation & Development Commission (BCDC) ...................................... 15
+5       Next Steps....................................................................................................................................... 15
+    5.1         Public Feedback .................................................................................................................................................. 16
+    5.2         San Francisco Bay Conservation & Development Commmission................................................... 16
+    5.3         Berkeley City Council........................................................................................................................................ 16
+
+
+
+
+Draft Parking Management Implementation Plan | Table of Contents
+CITY OF BERKELEY PIER FERRY PROJECT                                                                                                                                                 i
+City of Berkeley Parks, Recreation & Waterfront                                  DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                                               Version: 5/8/2026
+
+
+
+LIST OF TABLES
+Table 1: Berkeley Waterfront Parking Inventory ....................................................................................................... 3
+Table 2: Existing Paid Parking Fee Structure............................................................................................................... 4
+Table 3: Skates/N Lot Spaces Available ......................................................................................................................... 6
+Table 4: Marina Blvd Spaces Available ........................................................................................................................... 7
+Table 5: Parking Management Plan, Year 1 of Ferry Operations...................................................................... 10
+Table 6: Ferry Terminal and Transit Parking Fee Comparison .......................................................................... 13
+
+
+
+
+LIST OF APPENDICES
+Appendix A: Pier Ferry Parking Management Plan Year 1 Figures
+
+
+
+
+Draft Parking Management Implementation Plan | Table of Contents
+CITY OF BERKELEY PIER FERRY PROJECT                                                                                                                              ii
+City of Berkeley Parks, Recreation & Waterfront     DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                  Version: 5/8/2026
+
+
+
+1 PURPOSE
+This Parking Management Plan (Plan) establishes implementation strategies to manage parking
+demand resulting from the Berkeley Water Transportation Pier Ferry (WTPF) Project to mitigate
+parking conflicts and ensure balanced, equitable access for recreational users, slip holders, and
+local business patrons at the Berkeley Waterfront.
+
+Specifically, this Plan:
+
+ Identifies designated full-day parking areas that could be used by ferry commuters within the
+  existing Waterfront parking supply;
+ Establishes management strategies (including time limits, paid parking, and permit systems) to
+  mitigate parking conflicts and optimize parking turnover;
+ Protects existing public shoreline access and accommodates the continued needs of City, non-
+  profit, and commercial businesses operating within the Waterfront; and
+ Supports long-term flexibility in deploying parking management options in response to changing
+  conditions over time.
+This Plan is consistent with the Metropolitan Transportation Commission (MTC) Transit-Oriented
+Communities (TOC) parking management policy, which classifies ferry terminals as Tier 4 facilities
+and establishes parking maximums for associated commercial and residential development. It also
+addresses applicable Bay Conservation and Development Commission (BCDC) permit requirements
+governing public access to the Bay shoreline.
+
+Primary technical references used in the preparation of this Plan include:
+
+ Kittelson & Associates, Inc., Water Transportation Pier-Ferry Project Parking and TDM Plan, City
+  of Berkeley, March 7, 2025 (WTPF Parking and TDM Plan).
+ Kittelson & Associates, Inc., Water Transportation Pier-Ferry Project Parking and TDM Plan –
+  Revised Draft Addendum, May 2025 (TDM Plan Addendum).
+ City of Berkeley, Selected Marina Fee Increases – City Council Agenda Packet (Public Hearing),
+  June 17, 2025 and January 27, 2026.
+ City of Alameda, Planning, Building, and Transportation Department. (August 2024). Alameda
+  Ferry Terminal Parking Pricing Strategy. Prepared with support from Dixon Resources Unlimited.
+This plan is intended to establish parking management strategies for daily, routine Waterfront uses.
+Special events occur infrequently and would implement short-term special parking management
+rules determined on a case-by-case basis.
+
+The Parking Management Plan outlined herein would be implemented concurrent with the start of
+Ferry operations, currently anticipated to be early 2030, pending identification of construction
+funding for the Pier-Ferry Project.
+
+
+
+
+Draft Parking Management Implementation Plan | Purpose                                              1
+City of Berkeley Parks, Recreation & Waterfront       DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                    Version: 5/8/2026
+
+
+2 EXISTING CONDITIONS
+2.1   PARKING INVENTORY
+The Berkeley Waterfront currently has approximately 2,250 parking stalls distributed across 19
+parking areas or facilities. The Waterfront is organized into three geographic sub-areas—North
+Facilities, Central Facilities, and South Facilities—with parking facilities distributed throughout
+each. Table 1 summarizes the existing Waterfront parking inventory, types and regulations.
+
+2.2   EXISTING PARKING MANAGEMENT
+The City currently uses a variety of parking management tools at the Berkeley Waterfront,
+including paid parking (with hourly, daily or annual paid options at some parking lots), permits,
+gated access, and overnight parking restrictions. Table 1 provides a summary of existing parking
+regulations for each parking facility at the Waterfront.
+
+2.2.1 Paid Parking
+Prior to the introduction of Waterfront parking fees in 2025, the only paid public parking at the
+Waterfront was at the Launch Ramp facility (used for launching trailered vessels) and Doubletree
+Hotel. The Launch Ramp uses gate-controlled paid parking, with payment collected at the entrance
+gate. Doubletree Hotel also uses gate-controlled paid parking.
+
+In June 2025, the Berkeley City Council adopted new parking fees for three of the most heavily
+utilized public parking lots: South Cove East, South Cove West, and J/K Lots (Resolution No. 71,840-
+N.S.). The City is now in the process of installing parking meters and implementing parking fees in
+these three lots. Table 2 summarizes the Council-approved paid parking fee structure at the
+Berkeley Waterfront.
+
+Once implemented, payment at these lots may be made by payment card at one of six pay stations
+(two per lot), via text-to-pay from any mobile phone, or in cash at the Waterfront Office (8 AM – 4
+PM, Monday through Saturday). Visitors may also pre-pay at a pay station or via text-to-pay prior
+their arrival. Cars with a valid permit (see Section 2.2.2) are not required to pay parking fees.
+
+
+
+
+Draft Parking Management Implementation Plan | Existing Conditions                                    2
+City of Berkeley Parks, Recreation & Waterfront                  DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                               Version: 5/8/2026
+
+
+Table 1: Berkeley Waterfront Parking Inventory
+   PARKING LOT / FACILITY (SPACES)                     AREA         EXISTING PARKING TYPE / REGULATIONS 1
+
+   D & E (129)                                         North        Slipholder Permit Only
+   Spinnaker Way Lot (36)                              North        Public – Free
+                                                                    Open 5 AM – 10 PM
+   Marina Boulevard (150)                              North        Public (On-Street) – Free, No Parking 2 AM– 6 am
+   Spinnaker Way (127)                                 North        Public (On-Street) – Free
+   F & G (63)                                          North        Slipholder Permit Only
+   H & I (52)                                          North        Slipholder Permit Only
+   Launch Ramp (Paid) (76)                             North        Public - Paid
+   Dry Boat Storage Lot (73)                           North        Dry Storage Permit Only
+   Berkeley Marine Center & Boatyard (39)              North        Leased; not open to the Public
+   J & K (92)                                          Central      Public – Paid, Slipholder Permit only 12 AM – 10
+                                                                    PM
+
+
+   South Cove West (85)                                Central      Public – Paid
+   South Cove East (96)                                Central      Public – Paid
+   L & M (148)                                         Central      Leased / Slipholder Permit Only
+   University Ave Shoulder (70)                        Central      Public (On-Street)
+                                                                    No Parking 2 AM – 6 AM
+   Doubletree Leased Lot (408)                         Central      Leased – Paid Public Parking
+   O Lot (72)                                          South        Public – Free
+                                                                    Slipholder Permit only 2 AM – 10 AM
+   Seawall Drive South of University (84)              South        Public (On-Street) – Free
+                                                                    2-Hour limit at 6 stalls north of University Ave
+                                                                    No Parking 11 PM – 5 AM
+   Skates / N (137)                                    South        Public – Free
+                                                                    Slipholder permit required 12 AM – 10 AM
+   Seawall Lot (320)                                   South        Public – Free, partially open
+
+
+
+
+1 All Parking is limited to 72-hours per Berkeley Municipal Code. This table does not include overnight parking restrictions,
+     which vary by lot. Paid Parking at South Cove East, South Cove West and J/K Lot is in the process of being implemented as
+     of May 2026
+
+
+
+Draft Parking Management Implementation Plan | Existing Conditions                                                              3
+City of Berkeley Parks, Recreation & Waterfront         DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                      Version: 5/8/2026
+
+
+Table 2: Existing Paid Parking Fee Structure
+                                                                         PAID
+    PARKING
+                           FEE STRUCTURE 2                               PARKING          PRIMARY USERS
+    FACILITY
+                                                                         HOURS
+    South Cove East Lot    $1/hr, $6/day or                              9 AM – 5 PM      Recreation water
+    (96 spaces)            $500 / Year Waterfront Parking Pass           daily            access
+
+    South Cove West Lot    $1/hr, $6/day or                              9 AM – 5 PM      Recreation water
+    (85 spaces)            $500 / Year Waterfront Parking Pass           daily            access, charters,
+                                                                                          park, playground
+    J & K Lot              $1/hr, $6/day or                              9 AM – 5 PM      Boaters, charters,
+    (92 spaces)            $500 / Year Waterfront Parking Pass           daily            diners
+
+    Doubletree             0–3 hrs: $24; 3–6 hrs: $30; 6+ hrs: $45;      24 hours         Hotel Visitors
+    (408 spaces)           Valet $47/day
+
+    Launch Ramp            $20/day; $120/month; $400/season              24 hours         Boaters with
+    (76 spaces)                                                                           trailered vessels
+
+
+
+2.2.2 Existing Permits & Passes
+The City manages a variety of parking permit / pass programs.
+
+Slipholder Permit
+The City maintains a slipholder (AKA berther) permit program for the 1,000-slip Berkeley Marina,
+the largest public marina in San Francisco Bay. Permits authorize exclusive use of designated
+permit parking lots (D&E, F&G, H&I, L&M) by berth holders and provide an exemption from hourly
+parking rates at the South Cove East, South Cove West, and J/K Lots.
+
+Dry Boat Storage
+The dry boat storage lot operates as a stand-alone, permitted lot. After entering into an agreement
+with the City, a dry-boat storage permit is issued that allows parking / storage within this lot. This
+permit is limited to this parking lot and does not confer slipholder parking permit benefits.
+
+Waterfront Parking Pass
+The Waterfront Parking Pass was introduced in 2026 as part of the paid parking program. Holders
+of a Waterfront parking pass (whether issued through a tenant allocation or public purchase) are
+exempt from the standard hourly ($1/hour) and daily ($6/day) parking fees in the South Cove East,
+South Cove West, and J/K Lots. Each Waterfront business tenant receives a baseline allocation of
+annual parking passes, scaled to reflect the business's revenue and employee needs. This baseline
+allocation is provided at no additional cost as part of the tenancy. Tenant staff requiring parking
+
+
+
+
+2
+  Paid Parking at South Cove East, South Cove West and J&K Lot has been approved by Berkeley City Council and is
+in the process of being implemented
+
+
+Draft Parking Management Implementation Plan | Existing Conditions                                             4
+City of Berkeley Parks, Recreation & Waterfront       DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                    Version: 5/8/2026
+
+
+beyond this allocation may purchase additional annual Waterfront Parking Passes at $200 per pass
+per year. Members of the public may purchase an annual Waterfront parking pass for $500.
+
+2.2.3 Time Limited / Access-Restricted Parking
+Currently, time-limited parking at the Berkeley Waterfront is restricted to no-parking or permit-
+only periods (i.e. restricted hours). Duration-limited parking, which limits the length of a
+continuous stay, is not currently enforced at any Waterfront parking facility apart from the City-
+wide 72-hour parking limit established under the Berkeley Municipal Code (BMC Chapter 14.52).
+
+The most common access-restricted parking tool at the Waterfront is limiting specific parking lots
+to slipholder permit holders only during designated hours. Initiated in 2018, this program
+effectively reserves overnight capacity for Marina users with a direct operational relationship with
+the facility, while maintaining daytime public access. The restricted hours vary by lot, weekday
+versus weekend, and are routinely adjusted to reflect evolving needs.
+
+Prior to the implementation of new parking fees, the South Cove East Lot used manual gate controls
+to restrict access during early morning hours, preventing all-day parking by private charter boat
+customers.
+
+2.3   EXISTING PARKING USE & AVAILABILITY
+Parking utilization data was collected by City of Berkeley Waterfront Monitors from May 2021
+through September 2024, over a total of 748 days. The WTPF Parking and TDM Plan
+supplemented this data with detailed continuous parking counts conducted over five days by
+Quality Counts (QC) from April through August 2024. Key findings from the WTPF Parking and
+TDM Plan and the May 2025 Addendum are summarized below. These documents are published on
+the City’s Pier-Ferry Project website.
+
+ The peak month for parking utilization during the 2021 – 2024 data collection period was June,
+  followed closely by August, July and May. Peak parking utilization occurs on Saturdays followed
+  by Sundays. On average, weekday parking utilization is 33 percent lower than on Saturdays.
+ Some parking lots reach or exceed 100 percent capacity on peak Saturdays in June, including
+  Spinnaker Way Lot, South Cove East/West Lots, and O Lot.
+ Only one parking lot - Spinnaker Way Lot – is at capacity on an average Saturday in June.
+ No parking lots in the Berkeley Waterfront are at capacity on average or peak weekdays in June.
+ Average duration of stay (6 AM – 9 PM) was under four hours at Spinnaker Way and Lot, Marina
+  Blvd, South Cove East, Skates/N Lot, Seawall Drive and Seawall Lot.
+ Average duration of stay (6 AM – 9 PM) was between four and six hours at D&E, F&G, H&I, J&K,
+  L&M, O and South Cove West Lots. The average duration of stay did not exceed six hours in any
+  parking lot between 6 AM – 9 AM.
+ Public review of draft documents raised concerns that the primary count times of 10 AM and 8
+  PM might miss a midday peak. In response, the TDM Addendum isolated mid-day count data
+
+
+
+Draft Parking Management Implementation Plan | Existing Conditions                                     5
+City of Berkeley Parks, Recreation & Waterfront           DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                        Version: 5/8/2026
+
+
+     (collected at 2 PM and 4 PM over 29 days from April through August 2024), which found similar
+     occupancy trends, including that no parking lot is at capacity mid-day on weekdays.
+Based on these findings, the City plans to use the Skates/N Lot, Seawall Lot and Marina Blvd for
+shared use parking with ferry riders. Each of these facilities, and their suitability for shared use, is
+described in more detail below.
+
+2.3.1 Skates / N Lot 3
+The Skates/N Lot has 140 parking stalls and is located north of University Avenue. The lot
+primarily serves Skates Restaurant to its west and provides overflow parking for the O and M Lots
+located to the north and east. Peak occupancy in the Skates/N Lot generally occurs in the evening
+hours (6-8 PM weekdays, 7–9 PM weekends), making it well suited for shared use with ferry
+commuters, whose demand is generally concentrated during daytime hours.
+
+Table 3 summarizes the number of parking stalls unoccupied in the Skates/N Lot under different
+analysis scenarios from the WTPF Parking and TDM Plan.
+
+Table 3: Skates/N Lot Spaces Available
+    ANALYSIS METHODOLOGY /                 NO. OF AVAILABLE
+    DATA SOURCES                           PARKING SPACES
+    Weekday (June, 2021 – 2023) 4
+                                                        127 - 136
+    All Data
+    Weekend (June, 2021 – 2023) 5
+                                                           73 - 96
+    All Data
+    Weekday (April – August 2024)
+                                                           74 - 99
+    Mid-Day Data Only6
+    Weekday, 6 AM – 6 PM 7
+                                                          80 - 137
+    Quality Counts Data
+    Weekend, 6 AM – 6 PM 8
+                                                          75 - 137
+    Quality Counts Data
+
+
+
+
+3
+  The Skates/N Lot is being repaved / restriped in Summer 2026; stall count reflects permitted plans for the
+restriping.
+4
+  WTPF Parking and TDM Plan Table 2
+5
+  Ibid.
+6
+  WTPF Parking and TDM Plan Addendum, Figure 3
+7
+  WTPF Parking and TDM Plan Addendum Table 1
+8
+  WTPF Parking and TDM Plan Addendum Table 2
+
+
+Draft Parking Management Implementation Plan | Existing Conditions                                             6
+City of Berkeley Parks, Recreation & Waterfront       DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                    Version: 5/8/2026
+
+
+2.3.2 Marina Blvd
+Marina Blvd refers to the unpaved area on the eastern side of Marina Blvd between University
+Avenue and Spinnaker Way. The area is not striped and has an estimated capacity of 150 vehicles.
+The northern end of the parking area, farthest from the proposed Ferry terminal, primarily serves
+visitors accessing Cesar Chavez Park or McLaughlin Eastshore Parkway. The remainder serves as
+overflow parking from surrounding lots and DoubleTree guests and staff.
+
+Table 4 summarizes the number of parking stalls unoccupied on Marina Blvd under different
+analysis scenarios from the WTPF Parking and TDM Plan.
+
+Table 4: Marina Blvd Spaces Available
+    ANALYSIS METHODOLOGY /              NO. OF AVAILABLE
+    DATA SOURCES                        PARKING SPACES
+    Weekday (June, 2021 – 2023) 9
+                                                    91 - 109
+    All Data
+    Saturday (June, 2021 – 2023) 10
+                                                      59 - 91
+    All Data
+    Weekday (April – August 2024)
+                                                     83 - 116
+    Mid-Day Data Only11
+    Weekend (April – August 2024)
+                                                         101
+    Mid-Day Data Only12
+    Weekday, 6 AM – 6 PM 13
+                                                    83 - 103
+    Quality Counts Data
+    Weekend, 6 AM – 6 PM 14
+                                                     92 - 105
+    Quality Counts Data
+
+2.3.3 Seawall Parking Lot & Drive
+The Seawall Parking Lot currently has 320 parking stalls. The adjacent Seawall Drive has about 84
+stalls south of University Avenue (the six stalls on Seawall Drive north of University are included in
+the 140 Skates/N Lot stalls). The Seawall Parking Lot was intermittently closed during most of the
+2021 – 2024 data collection period, opened only during high-visitation weekend days or holidays.
+Weekday parking counts from this period therefore reflect the redistribution of vehicles to other
+
+
+
+
+9
+  WTPF Parking and TDM Plan Table 2
+10
+   Ibid.
+11
+   WTPF Parking and TDM Plan Addendum, Figure 3
+12
+   WTPF Parking and TDM Plan Addendum, Figure 4
+13
+   WTPF Parking and TDM Plan Addendum Table 1
+14
+   WTPF Parking and TDM Plan Addendum Table 2
+
+
+Draft Parking Management Implementation Plan | Existing Conditions                                   7
+City of Berkeley Parks, Recreation & Waterfront          DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                       Version: 5/8/2026
+
+
+parking facilities. Notably, during this period of Seawall Parking Lot closure, Skates/N Lot -
+immediately north of the Seawall Parking Lot – was not routinely full outside of special event
+periods. This substantiates that sufficient capacity exists at the Berkeley Waterfront to
+accommodate new uses such as ferry service, given that a multi-year closure of the Waterfront’s
+largest parking lot did not result in an adjacent lot reaching capacity.
+
+Observed parking on Seawall Drive ranged from 24 to 38 spaces occupied on an average to peak
+weekday and between 35 to 77 stalls occupied on an average to peak Saturday in June 15.
+
+3 BERKELEY FERRY PARKING MANAGEMENT
+The goal of this Plan is to provide reasonable parking options for ferry riders while protecting
+existing public shoreline access accommodating the ongoing needs of City, non-profit, and
+commercial businesses operating within the Waterfront. This will be achieved by directing ferry
+riders to specific, underutilized parking lots designated for shared use and restricting full-day
+parking by ferry riders in higher-demand areas through a combination of time limits and permit
+requirements. Paid parking is also used to encourage alternative transportation and improve turn-
+over for recreation visitors.
+
+This Plan proposed targeted parking management tools at designated locations in the Waterfront,
+however the City will continue to adjust the implementation of these tools to respond to actual
+parking patterns and needs over time.
+
+3.1      FERRY PARKING DEMAND & ASSUMPTIONS
+WETA projects that the Berkeley ferry terminal will initially serve 915 average weekday boardings
+(conservatively assumed to all originate in Berkeley), increasing over 20-years to 1,160 unique
+riders under full service, including connecting service to Mission Bay. With TDM measures
+incorporated into the Project, including paid parking, this ridership results in a weekday parking
+demand of 314 to 347 stalls and a weekend demand of 236 – 269 stalls in the first year of service 16.
+
+Actual Year 1 ferry ridership is unlikely to reach WETA's projected levels immediately upon service
+launch. Ridership typically builds incrementally as a new service gains ridership, and mode shift to
+non-driving alternatives tends to increase over time as riders become familiar with the service and
+TDM infrastructure matures. This Plan is designed to be responsive to actual ridership patterns and
+will be revisited and adjusted to respond to actual parking patterns and demand.
+
+In summary, this Plan proposes to allocate a total of 265 stalls to full-day, paid parking (200 in
+Seawall Lot, 65 in Skates/N Lot). These stalls will be available to any waterfront visitor who needs
+full day parking, including ferry riders. Free full-day parking will remain available on Marina Blvd
+and University Avenue for Waterfront visitors as an alternative option to paid parking. Four-hour
+
+
+
+
+15
+     WTPF Parking and TDM Plan, Table 2
+16
+     WTPF Parking and TDM Plan, Section 3.4.3, assuming implementation of paid parking on weekdays
+
+
+Draft Parking Management Implementation Plan | Berkeley Ferry Parking Management                       8
+City of Berkeley Parks, Recreation & Waterfront     DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                  Version: 5/8/2026
+
+
+time limits will be used in combination with permits and an early-bird access option to ensure that
+the remaining parking is not occupied by commuter ferry riders.
+
+3.2   YEAR 1 PARKING MANAGEMENT PLAN
+The initial parking management plan is summarized below. This Plan would be implemented
+concurrent with the start of Ferry operations (i.e., “Year 1”) and adjusted in response to actual
+parking demand, patterns and public feedback. Future adjustments could include changes to
+parking fees, permit types and restrictions, and the location and extent of time and duration limits.
+
+The Year 1 Parking Management Plan proposes no changes to existing parking regulations (refer to
+Table 1) for the following facilities:
+
+ Slip holder / Leased Lots D&E, F&G, H&I, L&M, Berkeley Marine Center, Dry Boat Storage,
+  DoubleTree, Launch Ramp
+ Spinnaker Way
+ Spinnaker Way Lot
+ Marina Blvd
+ University Ave (west of Marina Blvd)
+
+
+
+
+Draft Parking Management Implementation Plan | Berkeley Ferry Parking Management                        9
+City of Berkeley Parks, Recreation & Waterfront                     DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                                  Version: 5/8/2026
+
+
+Table 5: Parking Management Plan, Year 1 of Ferry Operations
+   PARKING LOT                                                                YEAR 1 PARKING TYPE /
+                          EXISTING PARKING TYPE /
+   / FACILITY                                                                 REGULATIONS 18
+                          REGULATIONS 17
+   (SPACES)
+
+                                                                              Paid, 9 AM – 5 PM, 7 days / week
+                          Paid, 9 AM – 5 PM, 7 days / week
+   J&K                                                                        4-hour Limit 9 am – 5 pm
+                          Slipholder Permit only 12 AM – 10 AM
+                                                                              Six stalls reserved for Slipholder Permit
+                                                                              Paid, 9 AM – 5 PM, 7 days / week
+                          Paid, 9 AM – 5 PM, 7 days / week
+   South Cove West                                                            4-hour Limit 9 am – 5 pm
+                                                                              Early Bird Paid Full Day Parking
+                          Paid, 9 AM – 5 PM, 7 days / week                    Paid, 9 AM – 5 PM, 7 days / week
+   South Cove East
+                                                                              4-hour limit 9 am – 5 pm
+                                                                              Free
+                          Free
+                                                                              4-hour limit 8 AM – 5 pm, 7 days / week
+   O Lot                  Slipholder Permit only 2 AM – 9 AM on
+                                                                              Slipholder Permit only 2 AM – 8 AM on
+                          weekdays / 2 AM – 6 AM on weekends
+                                                                              weekdays & 2 AM – 6 AM on weekends
+                                                                              65 Stalls: Paid 8 AM – 5 pm weekdays;
+                          Free                                                Free on Weekends
+   Skates / N             Slipholder permit required 12 AM – 10               75 Stalls: Free, 4-hour limited 9 AM – 5
+                          AM                                                  pm; Slipholder permit required 12 AM –
+                                                                              10 AM
+                                                                              13 Stalls: Free, 4-hour limited 8 am – 5
+                                                                              pm
+                          320 Stalls (existing)
+   Seawall Lot                                                                150 Stalls: Restaurant Parking
+                          Free, partially open on weekends only
+                                                                              200 Stalls: Paid, Full Day Parking, 8 AM –
+                                                                              5 PM
+                                                                              96 Stalls
+                          84 Stalls (existing)
+   Seawall Drive                                                              Free
+                          Free
+                                                                              4-Hour limit 8 AM – 5 PM
+                          No Parking 11 PM – 5 AM
+                                                                              No Parking 11 PM – 5 AM
+
+
+
+As reflected in Table 5, the Year 1 Parking Management Plan allocates 265 paid, full day parking
+spaces available to Ferry riders. The remaining 49 – 82 vehicles generated by ferry riders would
+park on Marina Blvd or University Avenue. All other spaces in closer proximity to the Ferry landing
+(O Lot, Seawall Drive, South Cove East, South Cove West, L&M and J&K) would have restrictions
+
+
+
+17 All Parking is limited to 72-hours per Berkeley Municipal Code. Implementation of paid parking at J&K, South Cove West and
+     South Cove East Lots is currently underway
+18 All Parking is limited to 72-hours per Berkeley Municipal Code
+
+
+
+
+Draft Parking Management Implementation Plan | Berkeley Ferry Parking Management                                           10
+City of Berkeley Parks, Recreation & Waterfront     DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                  Version: 5/8/2026
+
+
+limiting parking to permit holders or to a maximum of four hours, which does not accommodate
+ferry commuters. A detailed description of how these tools would be implemented follows.
+
+This Parking Management Plan assumes that the restaurant at 199 Seawall Drive (former HS
+Lordships) is re-opened by Year 1 of Ferry operations and allocates a total of 150 parking stalls for
+restaurant use. If the restaurant is not yet opened then other parking management tools described
+in this Plan would be implemented in those stalls until such time as the restaurant is re-opened.
+
+Appendix A of this Plan provides figures showing the Year 1 Parking Management Plan summarized
+in Table 5.
+
+3.3   PARKING MANAGEMENT IMPLEMENTATION
+The City has authority under the Berkeley Municipal Code to implement and modify parking
+regulations throughout the Waterfront. The following describes the proposed application of each
+management tool under this Plan.
+
+3.3.1 Time Limits
+Time limits, whether restricted no-parking hours or duration limits, are critical parking
+management tools.
+
+Restricted Hours
+
+Under this Plan, restricted hours via permit rules or gate controls will continue to be used as a tool
+to protect slipholder parking and public access. The Year 1 Parking Management Plan proposes no
+changes to existing restricted hours and practices, except for a small adjustment of slipholder only
+hours in the O Lot. In the future the City may consider adjustments to restricted hours and
+expanding gate-controlled management in lots where all-day unauthorized parking is a persistent
+challenge.
+
+Duration Limited
+
+Duration limits with strict enforcement are the primary tool used to protect recreational parking
+access. Duration limits are proposed at selected lots that serve primarily recreational or short-stay
+users, where all-day ferry commuter parking would reduce access for the intended user groups. An
+initial duration limit of four hours is proposed, subject to adjustments based on public feedback and
+observed parking patterns. In the Seawall Drive, Seawall Lot, O, and Skates/N Lot, the duration
+limit is proposed to be in effect from 8 AM to 5 PM. In the South Cove East/West and J/K Lots, the
+duration limit is proposed from 9 AM to 5 PM. This allows for longer stays by early-morning
+recreators (for example, a 6-hour kayak trip is accommodated if departure is by 7 am) while
+preventing full-day occupation by ferry commuters.
+
+Duration-limited parking would be implemented through: (1) posted time-limit signage with
+enforcement by parking officers or (2) paid parking with time limits (supported by existing pay
+station infrastructure). Duration limits will be coordinated with permit systems to allow permit
+holders to exceed the time limit where appropriate.
+
+
+
+Draft Parking Management Implementation Plan | Berkeley Ferry Parking Management                     11
+City of Berkeley Parks, Recreation & Waterfront       DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                    Version: 5/8/2026
+
+
+Early Bird Full Day Parking
+
+Early Bird parking is a tool to allow pre-payment for full-day parking where time limits normally
+apply. Proposed for use at the South Cove West lot, the program would allow visitors who arrive
+before 6 am to pre-pay for full day parking in that lot. For parking paid for after 6 AM, only the
+maximum four-hour time duration would be available. This allows early morning recreation
+visitors, including charter boat passengers, to access full day parking while excluding ferry
+commuters (ferry operations begin at 6:30 am).
+
+3.3.2 Paid Parking
+As described in Section 2.3.1, paid parking is in place at some Waterfront facilities and is currently
+being implemented at South Cove East, South Cove West, and J/K Lots.
+
+Paid parking serves multiple management objectives:
+
+ Revenue Generation: Parking revenue helps offset the structural deficit in the Marina Fund, and
+  is important to ensuring that the Waterfront and its amenities are maintained and open to the
+  public.
+ Increased Access: Paid parking discourages extended parking in high-demand lots, improving
+  turnover and increasing access for short-stay recreational users 19.
+ Transportation Demand Management: A well-implemented paid parking program at the
+  Berkeley Waterfront would reduce ferry rider parking demand by approximately 42 vehicles 20.
+  Paid parking can also direct vehicles to less utilized parking areas to manage overall occupancy
+  and demand.
+ Equity: Paid parking programs can be designed to accommodate users with varying financial
+  circumstances while ensuring parking resources are not monopolized by any single user group.
+This plan does not propose specific fees for full day parking. Fees would be developed nearer to
+implementation, and subject to approval by Berkeley City Council. Proposed parking fees for full
+day parking spaces would consider fees charged at comparable ferry terminal and transit parking
+facilities, and may incorporate demand-based fee structures.
+
+Table 6 provides a summary of current ferry terminal and BART parking programs.
+
+
+
+
+19
+   2014, Impacts of Parking Pricing and Parking Management on Passenger Vehicle Use and Greenhouse Gas
+Emissions, Policy Brief, California EPA Air Resources Board
+20
+   WTPF Parking and TDM Plan, Appendix C
+
+
+Draft Parking Management Implementation Plan | Berkeley Ferry Parking Management                         12
+City of Berkeley Parks, Recreation & Waterfront          DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                       Version: 5/8/2026
+
+
+Table 6: Ferry Terminal and Transit Parking Fee Comparison
+ Facility /                  Base Daily            Paid Parking
+                                                                      Notes
+ Jurisdiction                Rate                  Hours
+ Alameda Harbor Bay         $3/day                 6:00 AM–4:00 PM    Demand-responsive pricing;
+ Ferry Terminal                                    Tues-Thurs         quarterly adjustments up to $7/day
+
+ Alameda Seaplane           $3/day                 6:00 AM–4:00 PM,   Demand-responsive pricing;
+ Lagoon Ferry Terminal                             Tues-Thurs         quarterly adjustments up to $7/day
+
+ Alameda Main Street        Free                   N/A                Demand-responsive pricing;
+ Ferry Terminal             (as of May, 2026)                         quarterly adjustments up to $7/day
+
+ Vallejo Ferry Terminal     $8/day                 All days/hours     $50/month
+
+ Golden Gate Ferry –        $2/day                 5:00 AM–1:00 PM    $20/month
+ Larkspur                                          Mon–Fri
+
+ BART (Ashby, North         $3.80 - $6.60/day      4:00 AM–3:00 PM    $115.50/month
+ Berkeley)                                         Mon–Fri
+
+ Jack London Square         Free (12 hrs)          N/A                Requires validation
+ Ferry (Oakland)
+
+
+
+3.3.3 Permits
+As summarized previously, the City currently administers four parking permit types at the
+Waterfront:
+
+ Slipholder Permit: Issued to holders of an active berth permit at the Berkeley Marina or tenants.
+  Authorizes parking during restricted hours and in designated slipholder lots (D&E, F&G, H&I, and
+  portions of L&M), exempts permit holder from payment of hourly or daily fee. Additional permits
+  for slipholders and tenants may be purchased for $200/year.
+ Annual Waterfront Parking Pass: Established by Council Resolution in June 2025 at $500/year.
+  Authorizes parking in the three paid parking lots (South Cove East, South Cove West, J/K)
+  without payment of the hourly or daily fee.
+ Launch Ramp: Parking available in Launch Ramp lot, with payment of launch ramp fee ($20/day,
+  $105/month, or $350/6-months).
+ Dryboat Storage: While not formally classified as a permit, this effectively operates as one,
+  authorizing long term parking (typically of vessels) in the Dryboat Storage Lot.
+This Plan proposes to retain the existing Slipholder, Tenant, Launch Ramp and Dryboat Storage
+parking permits. A public annual parking pass would no longer be offered, as there is no
+mechanism to ensure that purchasers are recreational visitors rather than ferry commuters.
+
+
+
+
+Draft Parking Management Implementation Plan | Berkeley Ferry Parking Management                           13
+City of Berkeley Parks, Recreation & Waterfront     DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                  Version: 5/8/2026
+
+
+3.3.4 Signage & Wayfinding
+Effective signage and wayfinding are critical to directing ferry riders to designated parking areas
+and communicating restrictions to all Waterfront visitors. The WTPF Parking and TDM Plan
+emphasizes wayfinding as a foundational Year 1 strategy, noting that it allows the City to leverage
+existing underutilized capacity rather than requiring costly new construction.
+
+For the WTPF Project, static wayfinding would be added at existing vehicle wayfinding locations
+along University Avenue, and at parking lot entrances and drive aisles throughout the Waterfront.
+Signage will clearly distinguish between free and paid parking and between day-long and duration-
+limited parking areas.
+
+3.3.5 Enforcement
+Consistent, predictable enforcement is essential to the effectiveness of this Plan. The following
+principles would guide enforcement under this Plan.
+
+ Consistency: Enforcement would be applied consistently across all lots, establishing clear
+  expectations among Waterfront visitors.
+ Proportionality: Initial enforcement would emphasize education and warning notices before
+  transitioning to citations, particularly for newly implemented duration limits where users may be
+  unfamiliar with the regulations.
+ Digital Support: License plate recognition (LPR) technology reduces the personnel cost of
+  enforcing duration-limited parking, particularly in larger lots. The City plans to deploy LPR for
+  Waterfront lots as part of the implementation plan.
+
+3.4   LONG TERM DYNAMIC PARKING MANAGEMENT
+The City has historically adjusted parking management tools at the Waterfront in response to
+changing conditions, including security concerns, lease modifications, evolving user group needs,
+and public feedback. This adaptive approach has been essential to maintaining an effective and
+equitable parking program at a complex, multi-use facility. This Plan is designed to continue this
+tradition of dynamic management.
+
+This Plan and its Appendix describe the Year 1 implementation in detail. Parking patterns and
+demand will evolve based on ferry ridership growth relative to WETA projections, mode shifts as
+riders become familiar with the service and alternative options, changes in recreation demands,
+lease agreements, and programmatic uses at the Waterfront as well as the growth of shared
+mobility services and autonomous vehicles. The City will routinely review and modify parking
+management, including the designation of all-day parking spaces, time limits and durations, permit
+fee structures and paid parking rates. Additional tools that may be implemented in the future
+include:
+
+ Additional Transportation Demand Management Measures: The City has identified locations
+  throughout the Waterfront for additional bike parking and micro-mobility shared stations
+  (scooters or e-bikes). The WTPF Parking and TDM Plan identifies a suite of additional TDM
+
+
+
+
+Draft Parking Management Implementation Plan | Berkeley Ferry Parking Management                      14
+City of Berkeley Parks, Recreation & Waterfront      DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                   Version: 5/8/2026
+
+
+  strategies including shuttle service, valet parking, transit subsidies, and capital improvements to
+  Marina Blvd.
+ Demand-Based Parking Fees: Demand responsive parking fees can manage vehicle use of specific
+  lots and encourage alternative modes of transportation.
+ Dynamic Wayfinding: Dynamic wayfinding uses real-time occupancy sensors and electronic
+  message boards to communicate parking availability to drivers at key access points before they
+  commit to a specific parking location. This technology can reduce circling, deter illegal parking,
+  and distribute demand more efficiently across available facilities.
+ Expanded Permit Programs: The City could implement a monthly parking permit for ferry riders,
+  like the Vallejo and Larkspur/Golden Gate Ferry models. Daily, monthly or annual permits for
+  recreational visitors could also be implemented with appropriate controls to prevent abuse by
+  ferry commuters.
+
+4 REGULATORY APPROVALS
+As described above, the City plans to regularly revisit and update parking management tools
+described in this Plan, including the designation of ferry commuter lots, time limit durations, permit
+fee structures, and paid parking rates. Some parking management changes will require regulatory
+approvals.
+
+4.1   BERKELEY CITY COUNCIL
+Under the California Government Code (Sections 66014 et seq.) and the City of Berkeley's charter
+and fee ordinance provisions, new or increased fees for City-provided services, including parking
+fees, must be approved by the Berkeley City Council following a noticed public hearing. The City
+Council must find that the proposed fees do not exceed the reasonable cost to the City of providing
+the parking service.
+
+This requirement applies to all paid parking fees at the Waterfront, including daily, hourly, and
+annual pass fees, as well as any new permit fees established in connection with this Plan.
+Administrative changes to time limits and permit eligibility criteria (not involving fee changes) may
+generally be made without Council action, subject to existing delegated authority under the
+Berkeley Municipal Code.
+
+4.2   SAN FRANCISCO BAY CONSERVATION & DEVELOPMENT COMMISSION (BCDC)
+The Pier Ferry Project, including the physical pier reconstruction and associated landside
+modifications, will require a BCDC permit under the McAteer-Petris Act. The Final Parking
+Management Plan will be submitted as part of the WTPF Project's BCDC permit application.
+
+5 NEXT STEPS
+Successful implementation of this Parking Management Plan will require coordinated action by City
+staff, the Berkeley City Council, BCDC, and WETA. The following summarizes the key next steps
+associated with each major phase of Plan implementation.
+
+
+
+
+Draft Parking Management Implementation Plan | Regulatory Approvals                                    15
+City of Berkeley Parks, Recreation & Waterfront      DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                   Version: 5/8/2026
+
+
+5.1   PUBLIC FEEDBACK
+The City will solicit input on this Parking Management Plan through a public engagement process
+prior to finalizing the Plan and initiating BCDC permitting. This Draft Plan will be published on the
+City’s project website, and in addition to accepting written comments, the City will conduct
+community and focus group meetings to gather public input. The Plan will be revised to
+incorporate public input before submission to BCDC.
+
+5.2   SAN FRANCISCO BAY CONSERVATION & DEVELOPMENT COMMMISSION
+The WTPF Project will require a BCDC permit under the McAteer-Petris Act, including review of this
+Parking Management Plan as part of the public access analysis. The permit application will
+document how the Plan protects and enhances public access to the Bay shoreline in connection
+with the ferry service. The City will work with BCDC to ensure that the permit framework provides
+adequate operational flexibility for the dynamic management approach described in Section 3.4,
+while satisfying BCDC's public access protection requirements.
+
+5.3   BERKELEY CITY COUNCIL
+The Berkeley City Council is not expected to formally adopt this Parking Management Plan as a
+standalone action. Rather, this Plan serves as a technical document informing future City Council
+decisions regarding the WTPF Project, including decisions related to Use Permit issuance and other
+discretionary Project approvals.
+
+
+
+
+Draft Parking Management Implementation Plan | Next Steps                                           16
+City of Berkeley Parks, Recreation & Waterfront     DRAFT PARKING MANAGEMENT IMPLEMENTATION PLAN
+Berkeley Water Transportation Ferry Pier Project                                  Version: 5/8/2026
+
+
+
+
+                  Appendix A: Pier Ferry Parking Management Plan Year 1 Figures
+
+
+
+
+Draft Parking Management Implementation Plan | Appendix
+                                                                        No changes to existing
+                                                                        parking regulations in
+                                                                        dashed area
+
+
+
+
+                                                                   LEGEND
+                                             Free Full Day                  Paid – Launch Ramp
+                                             (383 stalls)                   / Hotel (484 stalls)
+                                             Free Time Limited              Paid Full Day
+                                             (256 stalls)                   (265 stalls)
+                                             Slipholder or Tenant           Paid - Time Limited
+                                             Permit Only (510 stalls)       (267 stalls)
+                                                                            Restaurant Parking
+                                                                            (150 stalls)
+
+
+Pier-Ferry Parking Management Plan: Year 1
+                    Weekday
+* Early-Bird Paid Full Day Parking at South Cove West Lot
+** Assumes Restaurant at 199 Seawall Drive is re-opened
+                                                                        No changes to existing
+                                                                        parking regulations in
+                                                                        dashed area
+
+
+
+
+                                                                   LEGEND
+                                             Free Full Day                  Paid – Launch Ramp
+                                             (648 stalls)                   / Hotel (484 stalls)
+                                             Free Time Limited              Paid Full Day
+                                             (256 stalls)                   (0 stalls)
+                                             Slipholder or Tenant           Paid - Time Limited
+                                             Permit Only (510 stalls)       (267 stalls)
+                                                                            Restaurant Parking
+                                                                            (150 stalls)
+
+
+Pier-Ferry Parking Management Plan: Year 1
+                    Weekend
+* Early-Bird Paid Full Day Parking at South Cove West Lot
+** Assumes Restaurant at 199 Seawall Drive is re-opened
+ SEAWALL DRIVE AND LOT (459 Stalls) WEEKDAY               SEAWALL DRIVE AND LOT (459 Stalls) WEEKDAY
+Public Free Parking: 4-Hour Time Limit 8 am – 5 pm       Public Free Parking: 4-Hour Time Limit 8 am – 5 pm
+(78 stalls on Seawall Drive, 13 stalls in Seawall Lot)   (78 stalls on Seawall Drive, 13 stalls in Seawall Lot)
+Public EV Charging: 4-Hour Limit, 8 am – 5 pm            Public EV Charging: 4-Hour Limit, 8 am – 5 pm (18 Stalls)
+(18 stalls on Seawall Drive)
+
+ Public Paid Parking 8 am – 5 pm (182 Stalls)            Public Free Parking (182 Stalls)
+
+Paid Parking EV Charging, 8 am–5 pm (18 Stalls)          Public EV Charging, 8 am–5 pm (18 Stalls)
+
+Restaurant Parking (138 Stalls)                          Restaurant Parking (138 Stalls)
+Restaurant EV Charging (12 Stalls)                       Restaurant EV Charging (12 Stalls)
+       SKATES/N and O LOTS: WEEKDAY                          SKATES/N and O LOTS: WEEKEND
+
+Public Free Parking: 4-Hour Limit 9 am – 5 pm         Public Free Parking: 4-Hour Limit 9 am – 5 pm
+(75 Stalls)                                           (75 Stalls)
+
+Public Paid Parking 8 am – 5 pm                       Public Free Parking
+(65 Stalls)                                           (65 Stalls)
+
+Public Free Parking 8 am – 2 am                       Public Free Parking 8 am – 2 am
+4-hour limit 8 am – 5 pm (slipholder permit exempt)   4-hour limit 8 am – 5 pm (slipholder permit exempt)
+Slipholder Permit Only 2 am – 8 am                    Slipholder Permit Only 2 am – 6 am
+         SOUTH COVE, J/K and L/M LOTS: WEEKDAY & WEEKEND
+
+Public Paid Parking 9 am – 5 pm (267 Stalls)
+4-hour time limit 9 am – 5 pm except for South Cove West Early Bird (before 6 am) Paid Full Day Parking
+Slipholder / Tenant Permit not subject to fees or time limit
+
+
+
+
+ Tenant or Slipholder Permit Only (148 Stalls)
+
