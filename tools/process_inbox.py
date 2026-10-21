@@ -29,7 +29,7 @@ DOC_DATE_RE = re.compile(r"^\d{4}(-\d{2}(-\d{2})?)?$")
 TOPIC_RE = re.compile(r"^[a-z0-9][a-z0-9_]*$")
 T0_COLLECTION_RE = re.compile(r"^[a-z0-9][a-z0-9_-]*$")
 IGNORED = {"README.md", ".gitkeep"}
-DOC_EXTENSIONS = {"pdf", "doc", "docx", "xls", "xlsx", "csv", "ppt", "pptx", "txt", "htm", "html",
+DOC_EXTENSIONS = {"pdf", "doc", "docx", "xls", "xlsx", "csv", "geojson", "ppt", "pptx", "txt", "htm", "html",
                   "rtf", "png", "jpg", "jpeg", "tif", "tiff"}
 FIELDS = {
     "layer": "L0 (made or published by a public body) or T0 (published by someone else)",
