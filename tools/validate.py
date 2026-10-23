@@ -64,6 +64,10 @@ def main():
         for f in ("meeting_date", "retrieved", "archived"):
             if e.get(f) is not None and not DATE_RE.match(str(e[f])):
                 err(where, f"{f} must be YYYY-MM-DD")
+        if e.get("document_date") == "undated" and (e["layer"] != "T0" or not (e.get("wayback_url") or e.get("retrieved"))):
+            err(where, 'document_date "undated" is for T0 only, with wayback_url or retrieved')
+        if e.get("wayback_url") and not re.match(r"^https://web\.archive\.org/web/\d{14}/https?://\S+$", e["wayback_url"]):
+            err(where, "wayback_url must be https://web.archive.org/web/<14-digit timestamp>/<address>")
         if e["layer"] == "T0" and not (e.get("publisher") and e.get("relevance")):
             err(where, "T0 needs publisher (who published it) and relevance (the public decision it bears on)")
         if e["layer"] in ORIGINALS and not e.get("source_url") and not e.get("source_note"):

@@ -175,6 +175,29 @@ class TestProcessInbox(Base):
             self.assertEqual(t["extraction"]["command"], "pdftotext -layout <T0> <L1>")
         self.assertEqual(self.validate_errors(), [])
 
+    def test_undated_t0_with_wayback_url(self):
+        wb = "https://web.archive.org/web/20181026150626/http://wellstoneclub.org/current-endorsements/"
+        self.drop("u", dict(T0, document_date="undated", wayback_url=wb, collection="campaigns"))
+        r = self.run_process()
+        e = self.entry(r["added"][0]["id"])
+        self.assertEqual(e["document_date"], "undated")
+        self.assertEqual(e["wayback_url"], wb)
+        self.assertTrue(e["id"].startswith("campaigns-council-adopts"))   # no date in the id
+        self.assertEqual(self.validate_errors(), [])
+
+    def test_undated_needs_t0_and_a_seen_date(self):
+        self.drop("u", dict(T0, document_date="undated"))                # no wayback_url or retrieved
+        with self.assertRaisesRegex(pi.Problem, "wayback_url"):
+            self.run_process()
+        self.drop("u", dict(L0_URL, document_date="undated"))
+        with self.assertRaisesRegex(pi.Problem, "only for T0"):
+            self.run_process()
+
+    def test_bad_wayback_url_refused(self):
+        self.drop("u", dict(T0, wayback_url="https://web.archive.org/web/2018/http://x"))
+        with self.assertRaisesRegex(pi.Problem, "wayback_url"):
+            self.run_process()
+
     def test_duplicate_sha_refused(self):
         self.drop("dup", L0_URL, data=b"%PDF-1.4 existing document\n%%EOF\n")
         with self.assertRaisesRegex(pi.Problem, "already in the archive as budgets-2026-old"):

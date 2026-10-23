@@ -26,6 +26,7 @@ MIN_WORDS = 30
 ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]*$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 DOC_DATE_RE = re.compile(r"^\d{4}(-\d{2}(-\d{2})?)?$")
+WAYBACK_RE = re.compile(r"^https://web\.archive\.org/web/\d{14}/https?://\S+$")
 TOPIC_RE = re.compile(r"^[a-z0-9][a-z0-9_]*$")
 T0_COLLECTION_RE = re.compile(r"^[a-z0-9][a-z0-9_-]*$")
 IGNORED = {"README.md", ".gitkeep"}
@@ -35,12 +36,15 @@ FIELDS = {
     "layer": "L0 (made or published by a public body) or T0 (published by someone else)",
     "collection": "where it is filed, e.g. sources/budgets, clerk, council-captions, staff-reports, press",
     "title": "the document's title as printed on it",
-    "document_date": "the date on the document: YYYY-MM-DD (or YYYY-MM, or YYYY); optional for staff-reports",
+    "document_date": ("the date on the document: YYYY-MM-DD (or YYYY-MM, or YYYY); optional for staff-reports; "
+                      "\"undated\" for a T0 page that prints no date, which then needs wayback_url or retrieved"),
     "publisher": "who made or published it (required for T0)",
     "relevance": "T0 only: the public decision or official it bears on, in neutral terms",
     "source_url": "where it was published online",
     "source_note": "if not online: how and when you obtained it",
     "retrieved": "optional: the date you downloaded it, YYYY-MM-DD",
+    "wayback_url": ("optional: the Wayback Machine capture the file was taken from, "
+                    "https://web.archive.org/web/<14-digit timestamp>/<address>"),
     "meeting_date": "optional: the meeting it belongs to, YYYY-MM-DD (required for staff-reports)",
     "meeting_label": "council-captions, annotated-agendas, and Council staff-reports: e.g. regular, special",
     "item": "optional: the agenda item as printed, e.g. Consent Calendar Item 12 (required for staff-reports)",
@@ -178,7 +182,18 @@ def check_metadata(name, meta, manifest, where=None):
                       'or "T0" (published by someone else, such as a newspaper).')
 
     ddate = text("document_date")
-    if ddate and not DOC_DATE_RE.match(ddate):
+    wayback = text("wayback_url")
+    if wayback and not WAYBACK_RE.match(wayback):
+        issues.append(f'"wayback_url" must look like https://web.archive.org/web/20181026150626/http://...; '
+                      f'got "{wayback}".')
+    if ddate == "undated":
+        if layer != "T0":
+            issues.append('"document_date" may be "undated" only for T0 (third-party) documents; a public '
+                          'body\'s document needs its printed date.')
+        elif not (wayback or text("retrieved")):
+            issues.append('an undated document needs "wayback_url" or "retrieved", so the date it was seen is '
+                          'on record.')
+    elif ddate and not DOC_DATE_RE.match(ddate):
         issues.append(f'"document_date" is "{ddate}"; write it as YYYY-MM-DD, e.g. 2026-09-12.')
     for f in ("retrieved", "meeting_date"):
         v = text(f)
@@ -365,7 +380,8 @@ def build_entry(meta, place, digest, size, contributor, today, ext):
              source_url=(meta.get("source_url") or "").strip() or None)
     if meta.get("source_note"):
         e["source_note"] = meta["source_note"].strip()
-    e.update(retrieved=meta.get("retrieved") or None, archived=today, wayback_url=None,
+    e.update(retrieved=meta.get("retrieved") or None, archived=today,
+             wayback_url=(meta.get("wayback_url") or "").strip() or None,
              notices=list(meta.get("notices") or []), contributed_by=contributor)
     return e
 

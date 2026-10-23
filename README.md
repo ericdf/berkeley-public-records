@@ -112,6 +112,7 @@ trusting whoever added a file.
 | `source_note` | Required when `source_url` is null: how the document was obtained |
 | `retrieved`, `archived` | When it was downloaded (if known) and when it entered the archive |
 | `wayback_url` | Internet Archive Wayback Machine capture of `source_url`, if one exists |
+| `document_date` | The date printed on the document; `"undated"` only for a T0 page that prints none, recorded with `wayback_url` or `retrieved` |
 | `derived_from` | L1–L3: the `id` and `sha256` of the document it was derived from |
 | `extraction` | L1: the tool, version, and command that produced it |
 | `blob` | External copies, for files not stored in git (below) |
