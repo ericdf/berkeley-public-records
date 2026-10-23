@@ -1,0 +1,18 @@
+{
+  "id": "campaign-finance-netfile-filing-212437769",
+  "layer": "L0",
+  "doc_type": "campaign_finance_document",
+  "collection": "campaign_finance",
+  "publisher": "City of Berkeley — City Clerk (NetFile Connect2 public campaign-finance API)",
+  "title": "NetFile filing record 212437769, Berkeley Federation of Teachers, AFT 1078 Issues",
+  "document_date": "2026-10-23",
+  "file": "L0/sources/campaign_finance/campaign-finance-netfile-filing-212437769.json",
+  "sha256": "75ad41ba54368ce13e8123cacfece583f875217cc9a38832cbc918f2bc30538d",
+  "bytes": 490,
+  "source_url": "https://netfile.com/Connect2/api/public/filing/info/212437769?format=json",
+  "retrieved": "2026-10-23",
+  "archived": "2026-10-23",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
