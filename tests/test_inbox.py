@@ -198,6 +198,17 @@ class TestProcessInbox(Base):
         with self.assertRaisesRegex(pi.Problem, "wayback_url"):
             self.run_process()
 
+    def test_json_document_with_meta_json(self):
+        meta = dict(L0_URL, title="Transaction query response", collection="sources/campaign_finance")
+        with open(os.path.join(self.root, "inbox", "q.json"), "wb") as f:
+            f.write(b'{"results": []}')
+        with open(os.path.join(self.root, "inbox", "q.meta.json"), "w") as f:
+            json.dump(meta, f)
+        r = self.run_process()
+        e = self.entry(r["added"][0]["id"])
+        self.assertTrue(e["file"].endswith(".json"))
+        self.assertEqual(self.validate_errors(), [])
+
     def test_duplicate_sha_refused(self):
         self.drop("dup", L0_URL, data=b"%PDF-1.4 existing document\n%%EOF\n")
         with self.assertRaisesRegex(pi.Problem, "already in the archive as budgets-2026-old"):

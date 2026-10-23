@@ -113,6 +113,9 @@ was seen is on record. Never put the capture date in `document_date`.
 }
 ```
 
+**A document that is itself JSON** (for example a response from a public API): name its metadata
+`<name>.meta.json` instead of `<name>.json`, so the two do not collide.
+
 ## What the fields mean
 
 | Field | |
