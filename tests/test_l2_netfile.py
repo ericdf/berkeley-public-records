@@ -43,6 +43,15 @@ class TestNetfileL2(unittest.TestCase):
         self.assertTrue(any(",1,0,0" in l for l in lines))           # the PAC is flagged org-like
         self.assertEqual(nt.build(self.recipe(), self.root)[0], data)  # deterministic
 
+    def test_same_amount_on_two_schedules_kept(self):
+        r = self.recipe()
+        a = tx("s1", "300", "Pat Roe", "2017-12-27", 3883.1)
+        b = dict(tx("s2", "300", "Pat Roe", "2017-12-27", 3883.1), transactionType=2)   # Schedule I line, same figures
+        self.put("w1", {"totalMatchingCount": 2, "results": [a, b]})
+        r["excluded_filing_info"], r["superseded"] = [], []
+        data, n = nt.build(r, self.root)
+        self.assertEqual(n, 2)
+
     def test_refuses_paged_window_and_early_exclusion(self):
         r = self.recipe()
         self.put("w1", {"totalMatchingCount": 5, "results": []})
