@@ -5,8 +5,8 @@
  "collection": "campaign_finance",
  "title": "Berkeley campaign-finance transactions from NetFile, 2017-01-01 to 2026-10-22, as of 2026-10-22 08:10 PT (contributor names hashed)",
  "file": "L2/campaign_finance/campaign-finance-netfile-berkeley-transactions-2017-2026-as-of-2026-10-22.csv",
- "sha256": "891e2fdb0a2deef90d5e5f971f3897883da618ddb5497d7049c8914e4d1f6f92",
- "bytes": 7791099,
+ "sha256": "5d68602b779a9b103b88a6751f9f9dd1c0ea6eeed22464ff8a04df5ce56322ae",
+ "bytes": 7945181,
  "derived_from": [
   {
    "id": "campaign-finance-netfile-transactions-2017-01-01-to-2017-01-16",
