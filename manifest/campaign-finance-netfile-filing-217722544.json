@@ -1,0 +1,18 @@
+{
+  "id": "campaign-finance-netfile-filing-217722544",
+  "layer": "L0",
+  "doc_type": "campaign_finance_document",
+  "collection": "campaign_finance",
+  "publisher": "City of Berkeley — City Clerk (NetFile Connect2 public campaign-finance API)",
+  "title": "NetFile filing record 217722544, Coalition to Keep Berkeley Money Local Supporting Measure Z 2026",
+  "document_date": "2026-10-23",
+  "file": "L0/sources/campaign_finance/campaign-finance-netfile-filing-217722544.json",
+  "sha256": "8d69891f56556b7ce3a2475ebce0c85ae61e88efb2fdd997fcdc7c6779c93fb0",
+  "bytes": 563,
+  "source_url": "https://netfile.com/Connect2/api/public/filing/info/217722544?format=json",
+  "retrieved": "2026-10-23",
+  "archived": "2026-10-23",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

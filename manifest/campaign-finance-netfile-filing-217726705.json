@@ -1,0 +1,18 @@
+{
+  "id": "campaign-finance-netfile-filing-217726705",
+  "layer": "L0",
+  "doc_type": "campaign_finance_document",
+  "collection": "campaign_finance",
+  "publisher": "City of Berkeley — City Clerk (NetFile Connect2 public campaign-finance API)",
+  "title": "NetFile filing record 217726705, Laura Babitt for Berkeley City Council 2026",
+  "document_date": "2026-10-23",
+  "file": "L0/sources/campaign_finance/campaign-finance-netfile-filing-217726705.json",
+  "sha256": "f9c6d430cb51f7c6afd84194fbf9709c6823a9c15ba95523aa5a8b6777a3d067",
+  "bytes": 544,
+  "source_url": "https://netfile.com/Connect2/api/public/filing/info/217726705?format=json",
+  "retrieved": "2026-10-23",
+  "archived": "2026-10-23",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
