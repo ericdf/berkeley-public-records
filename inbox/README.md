@@ -94,6 +94,25 @@ commission). No `document_date` is needed; `meeting_label` is needed for Council
 }
 ```
 
+**A page taken from the Wayback Machine** (the original is gone or changed). `source_url` is the
+page's own address; `wayback_url` is the capture the file came from. If the page prints no date,
+write `"undated"`: allowed for T0 only, and only with `wayback_url` or `retrieved`, so the date it
+was seen is on record. Never put the capture date in `document_date`.
+
+```json
+{
+  "layer": "T0",
+  "collection": "campaigns",
+  "title": "Endorsement Results from the August and September 2018 Meetings",
+  "document_date": "undated",
+  "publisher": "Wellstone Democratic Renewal Club, a political club",
+  "relevance": "Endorsements in Berkeley's November 6, 2018 municipal election.",
+  "source_url": "http://wellstoneclub.org/current-endorsements/",
+  "wayback_url": "https://web.archive.org/web/20181026150626/http://wellstoneclub.org/current-endorsements/",
+  "retrieved": "2026-10-23"
+}
+```
+
 ## What the fields mean
 
 | Field | |
@@ -101,7 +120,8 @@ commission). No `document_date` is needed; `meeting_label` is needed for Council
 | `layer` | Required. `L0`: made or published by a public body. `T0`: published by anyone else. |
 | `collection` | Required. L0: `clerk`, `council-captions`, `annotated-agendas`, `staff-reports`, or `sources/<topic>` (existing topics include `sources/budgets`, `sources/audits`, `sources/acfr`, `sources/investments`, `sources/ballot_2026`, `sources/t1`, `sources/hr`, `sources/pier_ferry`). T0: `press`, `campaigns`, or another single word. |
 | `title` | Required. As printed on the document. |
-| `document_date` | Required, except for `staff-reports`. The date on the document. |
+| `document_date` | Required, except for `staff-reports`. The date on the document. `"undated"` for a T0 page that prints none (needs `wayback_url` or `retrieved`). |
+| `wayback_url` | Optional: the Wayback Machine capture the file was taken from. |
 | `publisher` | Required for T0; recommended for L0. |
 | `relevance` | T0 only, required: why it is here, not what it shows. |
 | `source_url` or `source_note` | One is required. A web address, or how and when you obtained it. Never guess a URL. |
