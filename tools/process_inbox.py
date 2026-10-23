@@ -30,7 +30,7 @@ WAYBACK_RE = re.compile(r"^https://web\.archive\.org/web/\d{14}/https?://\S+$")
 TOPIC_RE = re.compile(r"^[a-z0-9][a-z0-9_]*$")
 T0_COLLECTION_RE = re.compile(r"^[a-z0-9][a-z0-9_-]*$")
 IGNORED = {"README.md", ".gitkeep"}
-DOC_EXTENSIONS = {"pdf", "doc", "docx", "xls", "xlsx", "csv", "geojson", "ppt", "pptx", "txt", "htm", "html",
+DOC_EXTENSIONS = {"pdf", "doc", "docx", "xls", "xlsx", "csv", "geojson", "json", "ppt", "pptx", "txt", "htm", "html",
                   "rtf", "png", "jpg", "jpeg", "tif", "tiff"}
 FIELDS = {
     "layer": "L0 (made or published by a public body) or T0 (published by someone else)",
@@ -120,7 +120,8 @@ def slug(text, limit=70):
 def pair_inbox(inbox):
     """Group inbox files into (name, document path, metadata path). Returns (pairs, problems)."""
     docs, metas, problems = {}, {}, []
-    for n in sorted(os.listdir(inbox)):
+    names = set(os.listdir(inbox))
+    for n in sorted(names):
         if n in IGNORED or n.startswith("."):
             continue
         p = os.path.join(inbox, n)
@@ -132,7 +133,11 @@ def pair_inbox(inbox):
             problems.append(f"inbox/{n} has no file extension (such as .pdf). Rename it.")
             continue
         ext = ext.lower()
-        if ext == "json":
+        # Metadata is <name>.json, or <name>.meta.json, which a JSON document needs (its own name ends .json).
+        if n.lower().endswith(".meta.json"):
+            metas[n[: -len(".meta.json")]] = p
+            continue
+        if ext == "json" and f"{stem}.meta.json" not in names:
             metas[stem] = p
         elif ext in DOC_EXTENSIONS:
             if stem in docs:

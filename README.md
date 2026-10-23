@@ -42,7 +42,7 @@ published, and each file is listed in `manifest/`.
 |---|---|---|
 | **L0 — originals** | Documents exactly as published or produced by a public body: meeting caption transcripts, agendas, annotated agendas, staff reports, budgets, audits, financial statements, records obtained by public-records request | As authoritative as the source itself. Never edited. |
 | **L1 — mechanical text** | Text extracted from an L0 document by a recorded tool and command | Reproducible: running the recorded command on the L0 file yields the L1 file byte for byte. |
-| **L2 — structured extractions** | Machine-readable data parsed from L0/L1, e.g. motion-level votes from annotated agendas | Only as good as its parser; each L2 dataset ships with its validator and tests. None yet. |
+| **L2 — structured extractions** | Machine-readable data parsed from L0/L1, e.g. motion-level votes from annotated agendas | Only as good as its parser; each L2 dataset ships with its validator and tests. Each is built by a tool in `tools/l2/` from a recipe in `tools/l2/recipes/` naming its L0 inputs; `derived_from` lists every input with its sha256, and `<tool> <recipe> --check` rebuilds it byte for byte. |
 | **L3 — speaker attribution** | Who is speaking in each segment of a caption transcript | **Not authoritative.** See the notice below. None yet. |
 
 ### T0 — published third-party documents

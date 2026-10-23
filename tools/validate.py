@@ -103,14 +103,17 @@ def main():
         manifest[e["id"]] = e
 
     # derived_from must point at a real entry with a matching fingerprint
+    # (an L2 dataset built from several documents lists them all)
     for i, e in manifest.items():
-        d = e.get("derived_from")
-        if d:
+        ds = e.get("derived_from")
+        for d in (ds if isinstance(ds, list) else [ds] if ds else []):
             src = manifest.get(d.get("id"))
             if not src:
                 err(f"manifest/{i}.json", f"derived_from {d.get('id')!r} not in manifest")
             elif src["sha256"] != d.get("sha256"):
                 err(f"manifest/{i}.json", "derived_from sha256 does not match the source entry")
+        if e["layer"] == "L2" and ds and not (e.get("extraction") or {}).get("command"):
+            err(f"manifest/{i}.json", "L2 needs extraction.command, the recorded build")
 
     # every file in a layer directory is listed
     for layer in LAYERS:
