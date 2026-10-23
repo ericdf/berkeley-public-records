@@ -9,8 +9,8 @@ filings excluded because NetFile dates them after the cutoff (each backed by an 
 record), and the superseded originals restored because a post-cutoff amendment replaced them (each
 backed by the amendment's filing-info record and a ShowSuperceded=true response).
 
-Rows are deduplicated by NetFile transaction id, then by (filer, contributor name as filed, date,
-amount): a contribution reported on a late 497 and again on a 460 is returned once per filing.
+Rows are deduplicated by NetFile transaction id, then by (filer, transaction type, contributor name
+as filed, date, amount): a contribution reported on a late 497 and again on a 460 is returned once per filing.
 Contributor names are replaced by name_key, the first 16 hex digits of the SHA-256 of the lowercased,
 trimmed name, so donors are countable without listing private individuals; three mechanical flags
 record the name tests downstream aggregation needs. Output is sorted and written with LF endings, so
@@ -65,7 +65,7 @@ def build(recipe, root=ROOT):
         by_id.setdefault(r["id"], r)
     dd = {}
     for r in by_id.values():
-        dd.setdefault((r["filerName"], r.get("name") or "", r["date"], r["amount"]), r)
+        dd.setdefault((r["filerName"], r["transactionType"], r.get("name") or "", r["date"], r["amount"]), r)
     out = []
     for r in dd.values():
         name = (r.get("name") or "").strip()
