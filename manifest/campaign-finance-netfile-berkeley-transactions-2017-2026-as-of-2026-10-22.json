@@ -1,0 +1,796 @@
+{
+ "id": "campaign-finance-netfile-berkeley-transactions-2017-2026-as-of-2026-10-22",
+ "layer": "L2",
+ "doc_type": "campaign_finance_transactions",
+ "collection": "campaign_finance",
+ "title": "Berkeley campaign-finance transactions from NetFile, 2017-01-01 to 2026-10-22, as of 2026-10-22 08:10 PT (contributor names hashed)",
+ "file": "L2/campaign_finance/campaign-finance-netfile-berkeley-transactions-2017-2026-as-of-2026-10-22.csv",
+ "sha256": "5d68602b779a9b103b88a6751f9f9dd1c0ea6eeed22464ff8a04df5ce56322ae",
+ "bytes": 7945181,
+ "derived_from": [
+  {
+   "id": "campaign-finance-netfile-transactions-2017-01-01-to-2017-01-16",
+   "sha256": "7d22ab825604eddbe59cb74fee542452ab0dfed1d3e9d8ce75e01f0b5bfd4f41"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2017-01-17-to-2017-01-31",
+   "sha256": "7db0b9b21c12943239f515336b7af3135e9e73d3e8732d9167385447d154290c"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2017-02-01-to-2017-02-14",
+   "sha256": "cdd02155691f61d85e653f789ec267ec4219784b4b1e30d5577ab36c9c28a3a6"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2017-02-15-to-2017-02-28",
+   "sha256": "be8e1df6b28240c3bd94222075a2df3c67e0053c2979d7d3798e46d7823ff361"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2017-03-01-to-2017-03-31",
+   "sha256": "e67ddba14f804e73a7db38dbe4155b8daf0305d2a6202e0a92bdfe03f310b958"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2017-04-01-to-2017-04-30",
+   "sha256": "b46d19e0e43561882470e3cfa32cbd078f079076102b75fce340eadba443ee55"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2017-05-01-to-2017-05-31",
+   "sha256": "822eabb90fea7a3f58577487dc3b8fc99c7196e9bd35aaab70290890e0dceb8b"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2017-06-01-to-2017-06-30",
+   "sha256": "cd604c453a9c382393dac9845736f78c1210b9c996d92c3e4623444c5308ab2d"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2017-07-01-to-2017-07-31",
+   "sha256": "c380700d11fb1bdab0ffb57d12eeb1891c477d297722c627edce73990787839b"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2017-08-01-to-2017-08-31",
+   "sha256": "4c24390e44325db0b9aca58b3126ca2a3e82ebb678fff5ed487417dca9f8704c"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2017-09-01-to-2017-09-30",
+   "sha256": "e1cfb6c0b64a3a266758e442edfb14ae8253409e45ccac5da8b798a7619d0082"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2017-10-01-to-2017-10-31",
+   "sha256": "9693129af8fac0cbb1779a28ff5704354b46088b1cef2df2cb0a9e8736760883"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2017-11-01-to-2017-11-30",
+   "sha256": "201c11bb7bb642a78605479f03af35df6726cb0d035369b15d9823935ccb1f94"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2017-12-01-to-2017-12-31",
+   "sha256": "ad43505295bea5616e0acb7cdb52cb83ed17d036d187a833228c0eccd107c1b9"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-01-01-to-2018-01-31",
+   "sha256": "dc02bbb872a97ab133f80da966bdd5579278b1af5580d53309e1dc70ef213fb6"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-02-01-to-2018-02-28",
+   "sha256": "951eabe191791a0efc82bfe87c990ad0f968894884a57a7a43158e600250a6bc"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-03-01-to-2018-03-31",
+   "sha256": "9382309a7e85831e2a509268831508c88894781f0a85f5e98322d01d07ec0e0c"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-04-01-to-2018-04-15",
+   "sha256": "760c701385e8df000151b4c3a92051a684d2d06d22d2d0665b744536b3c76ace"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-04-16-to-2018-04-30",
+   "sha256": "cad91d1c8a7d35fe3263ed19ce98279e4d1fd1b4fef97a8d632a4a5ca4b99f62"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-05-01-to-2018-05-08",
+   "sha256": "92a6c808fabb785f97049c3987c5540cd149a6b01afe7f6e8370f28f4d3a9858"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-05-09-to-2018-05-16",
+   "sha256": "777a491d74d094e3c044abc76f57c3ee9291c3798a9ec449558036d6246492bc"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-05-17-to-2018-05-31",
+   "sha256": "563c64083dda616204ed6bba7d484662b36b16323518a4511d6d7271a3eeed9a"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-06-01-to-2018-06-08",
+   "sha256": "c03f12a09d69319658a2dbbe196bcbdfb9fc1549c8561e8ef167b1d1ef92eb24"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-06-09-to-2018-06-15",
+   "sha256": "5998981cf94d4f93a2e8888410b3ea124c2b3769da48a2604d6e01325809d10a"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-06-16-to-2018-06-30",
+   "sha256": "fdd7debd599370ed2e55971d3b55fb651ee74f7bc1ee26b8aa3c0df76b24bab1"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-07-01-to-2018-07-08",
+   "sha256": "9f3a39ac9c2032b6eefddb8f523fd325209b0a5fec6a5bdba69b7a4212585e99"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-07-09-to-2018-07-16",
+   "sha256": "e66081c0a58b0d7f0eb1ae28400544c9ec0a12d8665a6681cc6728a0fa66f508"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-07-17-to-2018-07-31",
+   "sha256": "e5d0df1c1997ad73fcd6e96ac6170e650fd277cbf20f42d0ef91478d7bae0e0c"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-08-01-to-2018-08-04",
+   "sha256": "852af67b1d137eb3be809cc029663fcef257365e6c33316aaae77a183125a9eb"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-08-05-to-2018-08-08",
+   "sha256": "2da61ad57c9b31e016bcc703034e769267437066f2725ad6dc3e6854db1f083a"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-08-09-to-2018-08-16",
+   "sha256": "b81da8f2556a5c8badcdde2fd5576077365956a4ee905aa8b8c5ca7811390f04"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-08-17-to-2018-08-31",
+   "sha256": "805717acc418e6831a0b0a0e3393cf906a7c9c0d58d9bc68ece5d748b99bd9c5"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-09-01-to-2018-09-15",
+   "sha256": "3d07e46583a5a034893f12335f2d2684ebaf56efccb2159c92a0047f9911c0a7"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-09-16-to-2018-09-30",
+   "sha256": "18c7f0549cd52225bb000f55ae467741b1464e0a1bd45cfb32e2268f0ee84daf"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-10-01-to-2018-10-08",
+   "sha256": "bc1c07a0f4ea141eb523a400f6ca923d0a14537752a12181f49d4b2a54462c3a"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-10-09-to-2018-10-16",
+   "sha256": "e60cadb5f7cb73fd339606bc9ab0ff621a66dd66a56ec5e4c91533b35d39aa55"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-10-17-to-2018-10-24",
+   "sha256": "ab4dea0e74daf380af51888c158bddf58664b86cc897187535513b7abca607e5"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-10-25-to-2018-10-31",
+   "sha256": "eec9f184a1caca504971bafb7abf951539c1525f27aedc1e9a7d63e660b6d12c"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-11-01-to-2018-11-30",
+   "sha256": "7fb5f40606830e83705021ca64f671646d25c97cb4a9bc51f867066898f828a9"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2018-12-01-to-2018-12-31",
+   "sha256": "66eb04978f8ce26253f256d38d3991360ff9ec051289d60f33bab335341f63a8"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-01-01-to-2019-01-31",
+   "sha256": "82b3aaac7be259da4d0f018dbb530b21f077ff374c25c16004779b58e88982e8"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-02-01-to-2019-02-28",
+   "sha256": "2dc8b12f2b379ace64a08cea2d1155ef6a9c3c138df067f0ac52078905dd6b21"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-03-01-to-2019-03-31",
+   "sha256": "ad03f15a4e04b86e20163e5ebb9249f360c91dfbf024cf9677881f6ad0ff95e7"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-04-01-to-2019-04-30",
+   "sha256": "4bcac0b3fcd7b0076ff86c27751c4d6bdfc36cf15da53f988220b048d665d4e8"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-05-01-to-2019-05-31",
+   "sha256": "2bc1fa01598da542f496ff313315a55ecd91cec60f85f181d1708241c163b042"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-06-01-to-2019-06-30",
+   "sha256": "1e30edd56f90190e5ded11318f75e3a69a5cb6f90ea14b4ef181f4f9f20de381"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-07-01-to-2019-07-31",
+   "sha256": "807e19a0050cd4ff881a06cdede954e208bfebdda44da7997d56ce3db580ba8c"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-08-01-to-2019-08-31",
+   "sha256": "ee60c77a43f36670851765fe29d7e9189978843be0a473521040f31c1f048909"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-09-01-to-2019-09-30",
+   "sha256": "f818f4a46c1b186dd0cf9bb39974065694c7381758ea9f6ea5f63acda7513b6b"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-10-01-to-2019-10-31",
+   "sha256": "29245f5e3bb15efcccb4d1d594c728274f0b42cdda75811cb697fdb51a7a1dd0"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-11-01-to-2019-11-15",
+   "sha256": "6d9d6e469962011949fa5ed3e6cb01678a6ece71ec6959677314f25a170df9fe"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-11-16-to-2019-11-30",
+   "sha256": "67af1187eee7392fc975aad132652025f55cad225adc3d2c2dbeb60b09754200"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-12-01-to-2019-12-16",
+   "sha256": "81320f64526ed73e9fffb38c7dda4744159571048943438f67144e97198042a5"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2019-12-17-to-2019-12-31",
+   "sha256": "ead7a5223366a5765c5a4f6241b64661a98fad3e6f4f65135fd702ac9264b25c"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-01-01-to-2020-01-16",
+   "sha256": "c3bbc34303919bdf80693af196da15509b2fde44ba8485253f162df99f2ba55b"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-01-17-to-2020-01-31",
+   "sha256": "b415d64a96c1040bb7a5618fb3b3121f66f00f8349809b4280719e8999a0d641"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-02-01-to-2020-02-15",
+   "sha256": "6aa2d50c97e9fa47c0d3aaa5d95f59b6c86dfa7b837f97e2484b9100a65fe04d"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-02-16-to-2020-02-29",
+   "sha256": "f6b222f1ebd9995f777fbe70829785d930a44f0ef3d22ecebfd5e9f80f02e32a"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-03-01-to-2020-03-31",
+   "sha256": "b8d85f5f7233610c7bcc156fc30206ca6dcd1ef390e23925a7816325960f8643"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-04-01-to-2020-04-15",
+   "sha256": "4fb92381350fdde3cba8f48c419afed571238e3d5115b3b7a498ce166379eefb"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-04-16-to-2020-04-30",
+   "sha256": "f0b56787f504474acc0d5e69def6c064e624fe4b2eca07c8f6ddf44381b4cf8f"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-05-01-to-2020-05-08",
+   "sha256": "28c447537f21de49a7278f26084bfdfa0ddbd4eb79ddccf2468984550097a033"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-05-09-to-2020-05-16",
+   "sha256": "296dbb36a5a97ddb647dcac10af5261d24cd0b2a57eb4bbd6656640ffb10ba4e"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-05-17-to-2020-05-31",
+   "sha256": "84d49b99ac714507f417634fc3e85f268ab6d3a80bbf73e77e8366a3f2ee037d"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-06-01-to-2020-06-08",
+   "sha256": "4d3006f00e2a622f7473e57705986eb9447dcd19fa355aee23e0061a70a27ff4"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-06-09-to-2020-06-15",
+   "sha256": "65e6708facd4e7e48302033ef837fbd3594de45f465d27a801e5304d991c983b"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-06-16-to-2020-06-19",
+   "sha256": "309ef0b98b9346476d216bbb65bcc2fbd86f5f93266f873f78968fe0a53d7302"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-06-20-to-2020-06-23",
+   "sha256": "54c47d33716af5b742bdf0422d85609e36ec6aca896bceefd6defaf3598757f0"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-06-24-to-2020-06-27",
+   "sha256": "541fb9d0557fc54165128a5d5f72de74cc68d7c4230e7e01db7d6856d60dd0c9"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-06-28-to-2020-06-29",
+   "sha256": "ef4643f6ebea9e1d0223781a2202aea22981fa03d0039749d84b2e88a8a54895"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-06-30-to-2020-06-30",
+   "sha256": "083c322439f960f410512b5aa0b3ab0caea18011e0aeea552aa1cf7a264d60a4"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-07-01-to-2020-07-16",
+   "sha256": "fddf1dea3138cc92268b6d9775d9d0d41b6f0f99d23d873351a43ce7431f990d"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-07-17-to-2020-07-31",
+   "sha256": "5e8dcf8c93a43faaf86ea7f03adcaeec3e85b767b9a5e4da4de5666ce0dde3d1"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-08-01-to-2020-08-16",
+   "sha256": "8656beefa5ce1d15a13a80a443fc2255fdebc496afd45afc5b26b959ab99fd80"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-08-17-to-2020-08-24",
+   "sha256": "3ada0da909d594dca4b046343579c450aa6ee7c0f8f51423f24ac240f450461e"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-08-25-to-2020-08-31",
+   "sha256": "99f14536c1597b015e40927026ebba4236eeb997e1d8feb538558ff98e71e8b0"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-09-01-to-2020-09-08",
+   "sha256": "a4bf7a6ec167990db6e2290363969ae6402023473493a3e4da6cd550060cfc74"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-09-09-to-2020-09-15",
+   "sha256": "21204ebe174ec02b0db8c932cb254979eb6aca1849154dca2c7efacc38fdd715"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-09-16-to-2020-09-19",
+   "sha256": "3cbeffe17faf8b6b3e6b1ffadd3f02af05a3e0ec07fac406ebe7f53f4efd913f"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-09-20-to-2020-09-23",
+   "sha256": "3423707fac48f9fce4f540934f055da404f73340e28b21209a9b3184b599c923"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-09-24-to-2020-09-30",
+   "sha256": "262ec4215ac6ec9ca43d9698decf052c11fa6554049adb5757215ae390eb070e"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-10-01-to-2020-10-04",
+   "sha256": "c2e5fc2b877ddd8eb75916bddf888ef84def9468c429f6a04b2f219224aa9eb9"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-10-05-to-2020-10-08",
+   "sha256": "65517f51f1fd0a7e077e24a205ad61ac0b76f66e9a62698dea91f0b66306f639"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-10-09-to-2020-10-12",
+   "sha256": "fcfcef86dc2121ab0d3e39b8584af778a53543cdbcaf0434f2866a4cd9aeff3c"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-10-13-to-2020-10-16",
+   "sha256": "d8aafc0a2fe56488fb79bfff52e90c37d70988e6f0477c7fa525ab65c42fa6a7"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-10-17-to-2020-10-20",
+   "sha256": "051fbe201841cf625465cdf97f60867fcb6847bd90c7abaa8fb90c59d8c7590a"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-10-21-to-2020-10-24",
+   "sha256": "9865ff079bc128af23cc754a331cfa6fccb67d2d6a55e760e4679b4db29d82b6"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-10-25-to-2020-10-31",
+   "sha256": "ed0c4e406d881a05dee6d4b98bb4a425ceb96b232a1b0e41e0b62fc6b00cd066"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-11-01-to-2020-11-30",
+   "sha256": "f9bfd6c564cc702c6c6fcf35fbf705348e83f575cb1fc288d776848990d2abc6"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2020-12-01-to-2020-12-31",
+   "sha256": "a242506ee321e6280553cf254dc028f5e939957cfb611606436bc02b97c7f4db"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2021-01-01-to-2021-01-31",
+   "sha256": "eb1b6163f69245d9fd6a03094357bfa1b4191893397625b0e34ada006bed8af5"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2021-02-01-to-2021-02-28",
+   "sha256": "2b19fcf9851ea5afc860e1b87ebf1f2cad6f5329e99d326b455c5236bd44abb2"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2021-03-01-to-2021-03-31",
+   "sha256": "4feeb545771977562f53cbb17dd37623780c703b1fdcf9ecf50ae6f766705087"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2021-04-01-to-2021-04-30",
+   "sha256": "9ea7ce50ea6084ce4ea9d20a0cf6d5b61e9bd3c06a3c571803be47fccc6d2f66"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2021-05-01-to-2021-05-31",
+   "sha256": "8ece80691244720e13d497a02b257333b60872c17a8f95fda8aa1bea8e65281a"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2021-06-01-to-2021-06-30",
+   "sha256": "bf9e92bbd8a39bc49a3c35381d78159b5e1fca4fe773599cc827d643e37d2b3c"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2021-07-01-to-2021-07-31",
+   "sha256": "f51387582ab4511aa03cec9fba439f1f26e9f78dcfa14b4a0308d6b868eb0355"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2021-08-01-to-2021-08-31",
+   "sha256": "90531d2f463d85c253d13bf6a655bbe5d14b1d57cbdb9581e811c82214fb0dbd"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2021-09-01-to-2021-09-30",
+   "sha256": "0bb6423e870027af107c1fadf3efb80e370a4b246ea6a26f831ed9f8d15de4cf"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2021-10-01-to-2021-10-31",
+   "sha256": "cfe37c9e2f3cbdffcad2d5fb620cd805d7e0fcafe24a2dfb9f3e76b867029836"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2021-11-01-to-2021-11-30",
+   "sha256": "95677b58bcb2df7fd65ad29ae9fe5b9072486c3c92c5e2ff9315077508485cc3"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2021-12-01-to-2021-12-31",
+   "sha256": "f3d2146118c878cfafa1a69cb1607a4c375da3c0a5945a111485383547437623"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-01-01-to-2022-01-31",
+   "sha256": "9df98118d9a72e860cb53f985e6081ada79e84a310b65910e900db7684d57d12"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-02-01-to-2022-02-28",
+   "sha256": "729fe65fb2bf7108a1837c7aa23034495baa8418c4c7575398eea97251dbf522"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-03-01-to-2022-03-31",
+   "sha256": "7b4d31ede750a64d7aeacac71063070367b26337dad0e02cc8d9372fbf82b86e"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-04-01-to-2022-04-30",
+   "sha256": "c0a3e37a4506d6a953edced2f604501f655bdaedf71383cbcb4097462a36af61"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-05-01-to-2022-05-31",
+   "sha256": "289f86fde82e16c4493c03874b33f9fba03c418eb64a29b14eb5888a6f5a6ac9"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-06-01-to-2022-06-30",
+   "sha256": "442e38cb6f46bd742db92e8ad03b757baefc38f7da9e58890917caec6691c634"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-07-01-to-2022-07-31",
+   "sha256": "f845355242c7ee59d03b44dd4fd68ee88449e2c49fce2cb50f873238c2bec3b5"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-08-01-to-2022-08-16",
+   "sha256": "96f97015e91ab5dbdaf4ee4f229aeba498c0d073d6b84ef62567132a0f727e62"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-08-17-to-2022-08-31",
+   "sha256": "63c5570ee67ee9dd3c01c1b75a7081614e2f7fe4a228c83014188e6a41c9cd11"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-09-01-to-2022-09-15",
+   "sha256": "d04f3e4a9b5b82a00de0a0845578f8b7f8b2b361106863f16d8f8d8d0a54ab8c"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-09-16-to-2022-09-30",
+   "sha256": "35c09c9fd757879cd6cd8b5a462c84272654a228cda9903480d2c875d9049924"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-10-01-to-2022-10-16",
+   "sha256": "8be351ba75cecf027c517e106447df39d2b3b654db6a9132a316740005789514"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-10-17-to-2022-10-31",
+   "sha256": "2355bbe02f309df5c1f47638b2e5d5b3a952114914395282ed299813aae8ca00"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-11-01-to-2022-11-30",
+   "sha256": "d7a047509cd4909c5cbac118cfaf21899dc0eed8e4186a463d21a627e053443a"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2022-12-01-to-2022-12-31",
+   "sha256": "ee364e039737c1a094909ade98b955ee19fee604a62adf5409859eb6ac23ccd9"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2023-01-01-to-2023-01-31",
+   "sha256": "6a9ead71486c725a27c315e0bf907e41e90b8222b1ff2482a6174846ada920d2"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2023-02-01-to-2023-02-28",
+   "sha256": "0be470de822af90423c1659aa2ad03b904670af554ac1e9ee34043996090c7e9"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2023-03-01-to-2023-03-31",
+   "sha256": "2f6ae632209df8b1a5acb2d578f7733202ebc6221ce1ab6497453c38044dd1e1"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2023-04-01-to-2023-04-30",
+   "sha256": "3c85f678e6da71d8e1bfe4091955c655b631c2e4708503025771ad7706dd20e7"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2023-05-01-to-2023-05-31",
+   "sha256": "5a049e664b1225c40ac6a6db4734f38070cc2a1a5f5450f854d3d0a1e9a06964"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2023-06-01-to-2023-06-30",
+   "sha256": "47b5cfed375500add3b100c8561bff4c871050217b818ec84825514f7cfde895"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2023-07-01-to-2023-07-31",
+   "sha256": "70bbaec3d927b46a7678a6c6adc088c12e06f4772749008bbd55f288e8d45645"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2023-08-01-to-2023-08-31",
+   "sha256": "8966759c16e397ba66b82d54ee8e3831927aaf6352959b1f57f418b90e56443e"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2023-09-01-to-2023-09-30",
+   "sha256": "528ed3d75c0e249648b826219f2d2adbfb1563ed2ec42296f8c4fc612ef5ba21"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2023-10-01-to-2023-10-31",
+   "sha256": "3c3bd97afd2218c0e4df0eb1b656832f511d26f79c5f8dda47435daac0d965b3"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2023-11-01-to-2023-11-30",
+   "sha256": "00d71979da9241347f55093fae4ba4e756ab2d4b512a0c7c500127fe3bfaa34d"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2023-12-01-to-2023-12-31",
+   "sha256": "89edc30edd575c6b7604e817d39061956caaeed24e57bbdeb9526fc810b40c56"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-01-01-to-2024-01-31",
+   "sha256": "7f50d098320480817c71c56fa56303a70f120bb86d494e2016ead59cb1b2137d"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-02-01-to-2024-02-15",
+   "sha256": "be9259d7d0fdce1adc8eb115678aad6834efb25ea36878ed356693eebd340e30"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-02-16-to-2024-02-29",
+   "sha256": "1c6877268f6a83ec661885c3d23ec7b150eb9cc8224ecc218da99523cc8559a9"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-03-01-to-2024-03-31",
+   "sha256": "ecb8ff0e5fa582670dc8fc40abd5c23784d9be3a10c684071567b2de3f60b4dd"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-04-01-to-2024-04-15",
+   "sha256": "181a06d6714c2c819ab1e2d5231acf4a74171c27c98da395f7fe127cf4d5d64d"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-04-16-to-2024-04-30",
+   "sha256": "7c73796b801c0f5af7dae5cfaeed790b4f36454aa9a2dd6c53d585dce77fa5b8"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-05-01-to-2024-05-16",
+   "sha256": "6e6aae576b4fb962c10ccc274607558e47bf2b09486d62e2925aee24b05e0423"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-05-17-to-2024-05-31",
+   "sha256": "e37d21b063f184af2da133ca558068963c8226e923046add64d3b4771bca9d08"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-06-01-to-2024-06-15",
+   "sha256": "c58c74efe4d6c83b067cf8cd48e9f7c617994a028940e9240040c2ac24658b65"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-06-16-to-2024-06-30",
+   "sha256": "a579aff96b9605000f2d4048b512d10c7d70f06b1b29304ce7ba1bbb283136d8"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-07-01-to-2024-07-31",
+   "sha256": "27f01aae7c0675d8346b3d0a41d1f4b5e13afe24776e26daa5bdd328bea832fb"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-08-01-to-2024-08-16",
+   "sha256": "327c4bf1f58aa5bfce2fe5e3a5ad4aeb802eddafb81cbb80c85040f1802ff352"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-08-17-to-2024-08-31",
+   "sha256": "d7e6900ca3871186f2471f68ed987fd7faaa29fa46ad2837ca9c07eea9791fd5"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-09-01-to-2024-09-15",
+   "sha256": "57c7058cd64ad6489a915b7c0fd09765033d5f47b8a9c3fc1350ddb2670cd9c2"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-09-16-to-2024-09-23",
+   "sha256": "0b94c8dc2e066ca0ff58f7421ed7f81577e92bb0463b771157a671f10154e66b"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-09-24-to-2024-09-30",
+   "sha256": "2c7a33940f497b2ca483882504781b4d0342fdd58d38accb9ead415d1e6f7d7f"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-10-01-to-2024-10-08",
+   "sha256": "bbe4bc4efa34eab5fcb63d55c86f2f66407111ceb42cc2b0e59e707230626bec"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-10-09-to-2024-10-16",
+   "sha256": "fe493e83e2b689bbbd927972851a6d937f8c70791de4e3dd86217727db559b1b"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-10-17-to-2024-10-24",
+   "sha256": "bb40aa335510cab0334dddc15e519d4093fde03e0a61c45bc54cd874b06fad88"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-10-25-to-2024-10-31",
+   "sha256": "79c5d203b9fa5e6bc16f507a5658b7aaddc5fca1f856691bf7798b9b39ad1538"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-11-01-to-2024-11-30",
+   "sha256": "d93dccebd50cfe01509f466bf4ba280cf490c4303404b20da0de339e258754fc"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2024-12-01-to-2024-12-31",
+   "sha256": "a7a1a11bef6262d9dabe01c1b5ebe4d544994e48554de839ffe22ca6751f1a40"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2025-01-01-to-2025-01-31",
+   "sha256": "331ca4308464ba6e79d95c298d460d0475f1e0f859967ea38af19e186abc2831"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2025-02-01-to-2025-02-28",
+   "sha256": "a703e961da4bd3acad47cb6b0e998b9a126b7f118f6390e39c1d7d918841e684"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2025-03-01-to-2025-03-31",
+   "sha256": "89e0ae504939ba14186333ff19885dc7a595782af6c84ed26d0dd583716b5ade"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2025-04-01-to-2025-04-30",
+   "sha256": "2ea92f5197b99325823cd0b77f946bb15e3a515496dfc30e60a2a791d107ce92"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2025-05-01-to-2025-05-31",
+   "sha256": "97acc50e4fc7643652a44d620c42bba5447febe71be769ff5a40ca4907072eda"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2025-06-01-to-2025-06-30",
+   "sha256": "d4309605b12547a0bec837dd14f473b7dff73afe507af5457e5000c1cd43becb"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2025-07-01-to-2025-07-31",
+   "sha256": "07eb2d22771e3a28b89e886a3a827bcd5f997d764a8ad55bc5db5500fc82c2a7"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2025-08-01-to-2025-08-31",
+   "sha256": "7daba57ddf0b1af0cef14263f73a2ec2806c472980965ab862a964236823d5bb"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2025-09-01-to-2025-09-30",
+   "sha256": "f09d6cd53e583c2c7cc34a4d0be814ffd7d09407188d0a79b0694fc33f72a172"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2025-10-01-to-2025-10-31",
+   "sha256": "3b5406cfcae1fbd7fab89e5b7bedf0bb68d84d076b6c0371c5afcad9a1b96e56"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2025-11-01-to-2025-11-30",
+   "sha256": "dc95b078623c0b613307d980b3d5d9af702b6a6bd8f6a01d84a835b261a2d488"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2025-12-01-to-2025-12-31",
+   "sha256": "78fab41d89851ececc8051ddf461a6ab19cbf485122f54e6ccb49b355d0a30d2"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2026-01-01-to-2026-01-31",
+   "sha256": "4413bfadcd93e3a6b70544b0c73e68315e0965d75d7e5925e30fb1463506eee9"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2026-02-01-to-2026-02-28",
+   "sha256": "5206f5785e1b27aea818f9c3eaeafffd20bbbd97d6e1702f7908244197a2f4e3"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2026-03-01-to-2026-03-31",
+   "sha256": "adc1aae12b2645c201a1e5619594e4eec9983a5a1be5cf442613d8d6fcb8d9a1"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2026-04-01-to-2026-04-30",
+   "sha256": "f4aaa8ff9093f212260cbe18e659b9d4a9542643a8b3c3df862f63512a755c2a"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2026-05-01-to-2026-05-31",
+   "sha256": "20b950557c1dfdff9541dedec6b04e22a0ae43914b250fc07e5afacebbbc1f2b"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2026-06-01-to-2026-06-30",
+   "sha256": "a412bf5d27b348c0bfdad840ec401dd26e54c51be16e364b091eca5576d41e94"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2026-07-01-to-2026-07-31",
+   "sha256": "8f766889ce269976d8dd9e2ac318d8d4e2abad9556f01b6476b2924c5983d1b1"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2026-08-01-to-2026-08-31",
+   "sha256": "7ca4ed717330aa1e182a9950527e559e0296767d9357a5cb4a75d674cb7b0b3e"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2026-09-01-to-2026-09-15",
+   "sha256": "87850ed8ff25178afbfc10a1c9bf7969cdcbff3c4eb349dacc48f7fea80557cc"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2026-09-16-to-2026-09-30",
+   "sha256": "9b6f8043c11f767638ab782b53ac5997f92ba5a963d578d20bdc704990829ba5"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-2026-10-01-to-2026-10-22",
+   "sha256": "4fe7453334f4784def14e0ef69c92445a325d37532d21ccc20923ed633feb52b"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217700028",
+   "sha256": "11aa20adad4d1222a9db991bc97573d51494bae227a53cb26aa147be71e11220"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217701765",
+   "sha256": "aa8c8e21537d2f87e4216747e2beb5db30f88783e97f336ea23a179980188a2f"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217704965",
+   "sha256": "124e841a15f106e48684a3db40866fa31f0611ba324d96cb02507067e30434d6"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217709510",
+   "sha256": "f92f9496f04301d901e8ebd9d125c608317490c763ab8b7449a114a30a1940a0"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217710619",
+   "sha256": "7e996fd5db55438df21c1110b6880afc2bd41930519212dae0241baede35099e"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217710674",
+   "sha256": "736a2973c4c491626fdd8ed78cb7cc1281fdb8769140a2804be17325c9552920"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217710939",
+   "sha256": "540e9a83857756d7d34da9d8a0dd73a7c04d815b61b32d95c5460d8c58f8d007"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217719607",
+   "sha256": "f1f2ce8e71d3ce9472077594dd9fa49e3249dbab66e2e8101c865d2bfc6f2018"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217719950",
+   "sha256": "434f2db1e686289ea5b8e83fae9d3a57893a46d2d28a705ead40d70ad3889759"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217721672",
+   "sha256": "e37695a347242188914457bbe84e1b92227e8a982c1dbc0c975a01fc09e47c34"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217721702",
+   "sha256": "2eba7c8969c86a8d83a103f469b26057d69c91e7f1b62dd5531aa26e9df4c698"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217722283",
+   "sha256": "d579244b9482f6111c00e43ecbc1161ef5cf30782a16f3afbcfc4577cd4e6456"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217722544",
+   "sha256": "8d69891f56556b7ce3a2475ebce0c85ae61e88efb2fdd997fcdc7c6779c93fb0"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217723418",
+   "sha256": "7db625a86fa011f93ba7bdc46e7aeb5a865f0d33b0f721cd3d0bfcacb6545ff6"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217726146",
+   "sha256": "bbb1d95d4ce8452229c9eda55473f5543bc15da5778e0adc829e94e279af1d1c"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217726309",
+   "sha256": "2982ad8b44e5f4de27bcfbc56c1e42bdece225882e0b272e735f846cb08fe731"
+  },
+  {
+   "id": "campaign-finance-netfile-filing-217726705",
+   "sha256": "f9c6d430cb51f7c6afd84194fbf9709c6823a9c15ba95523aa5a8b6777a3d067"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-superseded-217478819",
+   "sha256": "762b0d0c6ffb3a546700642b30a51f1b511a3eadf26801c9f646b292abbd6de7"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-superseded-217489760",
+   "sha256": "d3d6ceb125b2f121adffba1561dde3198f715f10814dede3b8e595ef90cd1ec9"
+  },
+  {
+   "id": "campaign-finance-netfile-transactions-superseded-217695587",
+   "sha256": "f51f16c1821c4c72cfd94db328b990d1de2f275c1a11b4b56f215a62ace2a27e"
+  }
+ ],
+ "extraction": {
+  "tool": "tools/l2/netfile_transactions.py",
+  "command": "python3 tools/l2/netfile_transactions.py tools/l2/recipes/campaign-finance-netfile-berkeley-transactions-2017-2026-as-of-2026-10-22.json",
+  "recipe": "tools/l2/recipes/campaign-finance-netfile-berkeley-transactions-2017-2026-as-of-2026-10-22.json"
+ },
+ "notices": [],
+ "contributed_by": "ericdf",
+ "archived": "2026-10-23"
+}
