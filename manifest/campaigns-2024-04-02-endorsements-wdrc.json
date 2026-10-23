@@ -1,0 +1,19 @@
+{
+  "id": "campaigns-2024-04-02-endorsements-wdrc",
+  "layer": "T0",
+  "doc_type": "third_party_publication",
+  "collection": "campaigns",
+  "publisher": "Wellstone Democratic Renewal Club",
+  "relevance": "Endorsements and campaign material in Berkeley mayoral, City Council and ballot-measure elections.",
+  "title": "Endorsements - WDRC",
+  "document_date": "2024-04-02",
+  "file": "T0/campaigns/campaigns-2024-04-02-endorsements-wdrc.html",
+  "sha256": "23f36883714a6d1a454f62676c70171b7582f417319ea5d0de7800eaa9268a5b",
+  "bytes": 78150,
+  "source_url": "https://wellstoneclub.org/endorsements/",
+  "retrieved": "2026-10-23",
+  "archived": "2026-10-23",
+  "wayback_url": "https://web.archive.org/web/20240422195834/https://wellstoneclub.org/endorsements/",
+  "notices": [],
+  "contributed_by": "ericdf"
+}
