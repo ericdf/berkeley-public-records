@@ -1,0 +1,22 @@
+{
+  "id": "clerk-2019-05-11-berkeley-city-council-special-meeting-minutes-saturday-may-11-2019-text",
+  "layer": "L1",
+  "doc_type": "clerk_record_text",
+  "collection": "clerk",
+  "meeting_date": "2019-05-11",
+  "title": "Berkeley City Council Special Meeting Minutes, Saturday, May 11, 2019",
+  "file": "L1/clerk/clerk-2019-05-11-berkeley-city-council-special-meeting-minutes-saturday-may-11-2019-text.txt",
+  "sha256": "257d5854aab2de6a8dc75ad9a9e6d92c5d524de0089bc8520fc10434e8fff8f9",
+  "bytes": 2826,
+  "derived_from": {
+    "id": "clerk-2019-05-11-berkeley-city-council-special-meeting-minutes-saturday-may-11-2019",
+    "sha256": "513bfd73746fe0f269b6f6a15b9b812775928bc7b592c5e1d07a245ff6a6a93f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}
