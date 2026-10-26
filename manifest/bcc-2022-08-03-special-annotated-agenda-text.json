@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2022-08-03-special-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2022-08-03",
+  "meeting_label": "special",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2022-08-03",
+  "file": "L1/annotated-agendas/bcc-2022-08-03-special-annotated-agenda-text.txt",
+  "sha256": "9f712002eac43881397c0fcecfbd5f2a208122a62673fa90931c8ea93454d97f",
+  "bytes": 16343,
+  "derived_from": {
+    "id": "bcc-2022-08-03-special-annotated-agenda",
+    "sha256": "1683f864fd52e2d70e2844cc9c1bad0233e18f68d959035949e2b801e34d2786"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}
