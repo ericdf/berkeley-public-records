@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2018-03-13-regular-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2018-03-13",
+  "meeting_label": "regular",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2018-03-13",
+  "file": "L1/annotated-agendas/bcc-2018-03-13-regular-annotated-agenda-text.txt",
+  "sha256": "0ecf91c4869f4ba4f035bad51ec2278741e390c61960f7d9f7525154ece79d06",
+  "bytes": 38146,
+  "derived_from": {
+    "id": "bcc-2018-03-13-regular-annotated-agenda",
+    "sha256": "308cc822b45f34969a31e85d7a1e4cdc52a1365895cbc705105ec6fc10d772dd"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}
