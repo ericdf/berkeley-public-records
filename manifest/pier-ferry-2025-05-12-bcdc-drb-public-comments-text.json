@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2025-05-12-bcdc-drb-public-comments-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Public comments received for the May 12, 2025 BCDC Design Review Board meeting (Berkeley Waterfront and Berkeley Pier Ferry Project)",
+  "file": "L1/sources/pier_ferry/pier-ferry-2025-05-12-bcdc-drb-public-comments-text.txt",
+  "sha256": "d82aa97c321e70528fad20d529d42c4e84e6152fd0e354c30e089526ed33550a",
+  "bytes": 31999,
+  "derived_from": {
+    "id": "pier-ferry-2025-05-12-bcdc-drb-public-comments",
+    "sha256": "8917b4cd8ff5547522014707886798604b90e4df321025f8ad668f147592e390"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

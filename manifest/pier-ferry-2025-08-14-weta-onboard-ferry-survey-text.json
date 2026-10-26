@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2025-08-14-weta-onboard-ferry-survey-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "2025 Onboard Ferry Survey Summary Report",
+  "file": "L1/sources/pier_ferry/pier-ferry-2025-08-14-weta-onboard-ferry-survey-text.txt",
+  "sha256": "2ad826cc2f95fa7bc04a5a0a05e17c2c23c15408de4a16e089e6960bf5865448",
+  "bytes": 145042,
+  "derived_from": {
+    "id": "pier-ferry-2025-08-14-weta-onboard-ferry-survey",
+    "sha256": "10054a7410239fb52821bf979fd8b44579bc85eeaecafb6fc5751f5aacf6a828"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}
