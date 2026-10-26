@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2024-10-10-richmond-service-update-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Richmond Service Update",
+  "file": "L1/sources/pier_ferry/pier-ferry-2024-10-10-richmond-service-update-text.txt",
+  "sha256": "5c1c801a917d24ae4bb6beb40e70b623b2afa20eca05b828c1c043c39904cebd",
+  "bytes": 24906,
+  "derived_from": {
+    "id": "pier-ferry-2024-10-10-richmond-service-update",
+    "sha256": "95a88d42f1e8cab8570937af0353175df6463536c46abf5a31204785c8b961f1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

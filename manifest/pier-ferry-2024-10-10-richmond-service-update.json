@@ -1,0 +1,18 @@
+{
+  "id": "pier-ferry-2024-10-10-richmond-service-update",
+  "layer": "L0",
+  "doc_type": "project_record",
+  "collection": "pier_ferry",
+  "publisher": "San Francisco Bay Area Water Emergency Transportation Authority (San Francisco Bay Ferry)",
+  "title": "Richmond Service Update",
+  "document_date": "2024-10-10",
+  "file": "L0/sources/pier_ferry/pier-ferry-2024-10-10-richmond-service-update.pdf",
+  "sha256": "95a88d42f1e8cab8570937af0353175df6463536c46abf5a31204785c8b961f1",
+  "bytes": 3253657,
+  "source_url": "https://d262kwcyxl71on.cloudfront.net/wp-content/uploads/20241115153301/b101024aDECK-1.pdf",
+  "retrieved": "2026-10-26",
+  "archived": "2026-10-26",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
