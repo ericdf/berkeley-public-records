@@ -1,0 +1,22 @@
+{
+  "id": "council-rules-2019-11-12-city-council-rules-of-procedure-and-order-revisions-revised-agenda-text",
+  "layer": "L1",
+  "doc_type": "council_rules_document_text",
+  "collection": "council_rules",
+  "meeting_date": "2019-11-12",
+  "title": "City Council Rules of Procedure and Order Revisions — Revised Agenda Material",
+  "file": "L1/sources/council_rules/council-rules-2019-11-12-city-council-rules-of-procedure-and-order-revisions-revised-agenda-text.txt",
+  "sha256": "bc7b52d10eb6515efb793dd1182185f6fc820257cd2e2bfe3e23de45b7556f95",
+  "bytes": 541744,
+  "derived_from": {
+    "id": "council-rules-2019-11-12-city-council-rules-of-procedure-and-order-revisions-revised-agenda",
+    "sha256": "a55df44270170840375ac51f94ea2f7512803ce31231d0820b582b1b834bb479"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}
