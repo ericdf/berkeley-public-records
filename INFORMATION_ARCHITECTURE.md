@@ -110,9 +110,11 @@ meetings on the same date. The City labels each meeting `Regular`, `Special`,
 - **The official record of what the Council decided is the annotated agenda and the adopted
   minutes.** Adopted minutes are not yet collected, so for now the annotated agenda is the only
   archived decision record.
-- **The agenda packet is the record of what was before the Council as of the agenda's
-  publication.** Material added later (supplemental, revised, or handed out at the meeting) is a
-  separate record with its own id, never folded into the packet.
+- **The agenda packet is the record of what was before the Council as of its publication.** When
+  the City revises a packet it links only the revision, so the City-listed packet is the latest
+  version; the original as first published is a separate document (see Versions). Material added
+  later (supplemental, revised, or handed out at the meeting) is a separate record with its own
+  id, never folded into the packet.
 - **A caption transcript is a research aid, not the record.** It was produced by a captioner or
   by Zoom, and each carries the City's notice, kept verbatim in `notices`, that the City cannot
   certify it. It has transcription errors, and any speaker labels in it come from the captioning, not from the City.
@@ -137,6 +139,27 @@ meetings on the same date. The City labels each meeting `Regular`, `Special`,
   (`doc_type: supplemental_agenda_material`, `part: supp-2`, `revised`), because what the
   Council had in front of it, and when, is part of the record.
 
+### Versions
+
+The City revises and replaces documents after publishing them, and its agenda page then links
+only the newest file. Every version is a separate L0 document; nothing is overwritten.
+
+| Case | How it shows | Archived as |
+|---|---|---|
+| **Labeled revision** | The City's filename or title says "Revised" (22 Council packets from December 2024 to October 2026) | The revision with id `…-revised` and `version_label: "Revised"`; the original as well, from its former address, when it still downloads |
+| **Unlabeled replacement** | Same document, new file at a new address (for example `…Council_0.pdf`), different fingerprint (7 annotated agendas found in October 2026) | The replacement with id `…-v2`, no `version_label`, and a `version_note` saying the City replaced the file without labeling it |
+| **Moved, unchanged** | New address, same fingerprint | Not a new document: the new address is added to the entry's `published_at` |
+
+- The later version carries `revision_of` (the earlier id) and the earlier carries `revised_by`
+  (a list); the validator checks they agree.
+- An original the City no longer serves, and the Wayback Machine never captured, is recorded on
+  the revision's `version_note` as not located, with the address tried and the date.
+- The two versions are evidence of different things. For a packet, the original is what the
+  public saw during the comment period and the revision what the Council had at the meeting.
+  For an annotated agenda, the replacement is the City's corrected account of the action.
+- `tools/meeting_map.py --check-links` finds replacements: where the City now links a different
+  address for a document the archive holds, it downloads the file and compares fingerprints.
+
 ### Cardinality
 
 A meeting usually has at most one of each role, with these exceptions:
@@ -155,7 +178,8 @@ A meeting usually has at most one of each role, with these exceptions:
 | Key | Joins |
 |---|---|
 | City meeting slug (`city-council-2026-10-27`) | The City's row: agenda, packet, annotated agenda, recording links |
-| `source_url` | A manifest entry to the City row that links to it (packets and annotated agendas) |
+| `source_url`, `published_at` | A manifest entry to the City row that links to it (packets and annotated agendas) |
+| `revision_of` / `revised_by` | Versions of one document |
 | `meeting_date` + `meeting_label` | Manifest entries of every document of that meeting, compared word by word |
 | MP3/MP4 URL | The City's row to the Granicus catalog entry (the URLs are identical) |
 | `meeting_date` + `item` | Item material to its meeting |
@@ -197,7 +221,10 @@ manifest.
 - `tools/meeting_map.py` prints the gaps: what the City lists that the archive does not hold,
   from the earliest archived caption transcript or annotated agenda (or `--since`).
 - `tools/meeting_map.py --meeting city-council-2026-10-27` prints one meeting's record.
-- `tools/meeting_map.py --json FILE` writes the whole map.
+- `tools/meeting_map.py --json FILE` writes the whole map. Each meeting's `listed` names the
+  archived document the City currently links for a role, and `versions` its revision links.
+- `tools/meeting_map.py --check-links [--write]` downloads what the City links where it differs
+  from the archived address and reports whether the file moved or was replaced.
 
 It also lists archived meeting documents that match no listed meeting: material from before
 2021, and committee and work-session material, are expected there.
@@ -296,7 +323,7 @@ per file and the bytes are the same. Packets as external blobs add only their L1
 |---|---|---|
 | `tools/catalog_city_agendas.py` | The City agenda listing | `catalog/city-council-agendas/meetings.json` |
 | `tools/catalog_granicus.py` | The Granicus listing | `catalog/granicus/city-council.json` |
-| `tools/meeting_map.py` | Both catalogs and the manifest | Nothing (prints, or `--json FILE`) |
+| `tools/meeting_map.py` | Both catalogs and the manifest; with `--check-links`, the City files | Nothing (prints, or `--json FILE`); `--check-links --write` adds `published_at` |
 | `tools/process_inbox.py` | `inbox/` | L0/T0, L1, manifest; fills a meeting's date and label from the City catalog by `source_url` |
-| `tools/ingest_large.py` | A Large file Issue | Blob copies, manifest, L1, and for a packet its item index |
+| `tools/ingest_large.py` | A Large file Issue, or City-listed meetings (`--meeting`) | Blob copies, manifest, L1, and for a packet its item index; revised packets with their originals; one draft PR per batch |
 | `tools/l2/packet_items.py` | A packet's L1 text | `L2/agenda-packets/`, its recipe and manifest entry |

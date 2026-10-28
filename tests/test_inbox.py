@@ -346,6 +346,126 @@ class TestMeetingCollections(Base):
         self.assertEqual((e["meeting_date"], e["meeting_label"]), ("2026-09-29", "regular"))
 
 
+class TestMeetingBatches(Base):
+    """ingest_large.py --meeting: packets planned from the City catalog, revised packets with
+    their originals, and one batch pull request."""
+    FILES = "https://berkeleyca.gov/sites/default/files/city-council-meetings/"
+
+    def setUp(self):
+        super().setUp()
+        self.served = {}
+        path = os.path.join(self.root, pi.CITY_MEETINGS)
+        os.makedirs(os.path.dirname(path))
+        self.entries = []
+        with open(path, "w") as f:
+            json.dump({"entries": self.entries}, f)
+
+    def listing(self, slug, date, label, packet):
+        self.entries.append({"meeting": slug, "date": date, "label": label,
+                             "city": {"agenda_packet": self.FILES + packet, "annotated_agenda": None}})
+        with open(os.path.join(self.root, pi.CITY_MEETINGS), "w") as f:
+            json.dump({"entries": self.entries}, f)
+
+    def fetch(self, fields, dest):
+        url = fields["source_url"]
+        if url not in self.served:
+            raise il.urllib.error.HTTPError(url, 404, "Not Found", {}, None)
+        path = os.path.join(dest, "download.pdf")
+        with open(path, "wb") as f:
+            f.write(self.served[url])
+        return path
+
+    def plans(self, slug):
+        return il.plan_meeting(self.root, slug, tempfile.mkdtemp(), "ericdf", fetch=self.fetch,
+                               today="2026-10-28", wayback=lambda u: None)
+
+    def test_plain_packet(self):
+        self.listing("city-council-2026-10-27", "2026-10-27", "regular",
+                     "2026-10-27%20Agenda%20Packet%20-%20Council%20-%20WEB.pdf")
+        self.served[self.FILES + "2026-10-27%20Agenda%20Packet%20-%20Council%20-%20WEB.pdf"] = b"%PDF-1.4 a\n"
+        [p] = self.plans("city-council-2026-10-27")
+        e = p["entry"]
+        self.assertEqual(e["id"], "bcc-2026-10-27-regular-agenda-packet")
+        self.assertEqual(e["title"], "Agenda Packet, Berkeley City Council Regular Meeting, October 27, 2026")
+        self.assertEqual((e["publisher"], e["meeting_label"]), (il.PUBLISHER, "regular"))
+        self.assertNotIn("version_label", e)
+
+    def test_revised_packet_with_its_original(self):
+        listed = "2026-06-16%20Revised%20Agenda%20Packet%20-%20Council%20-%20WEB.pdf"
+        self.listing("city-council-2026-06-16", "2026-06-16", "regular", listed)
+        self.served[self.FILES + listed] = b"%PDF-1.4 revised\n"
+        self.served[self.FILES + "2026-06-16%20Agenda%20Packet%20-%20Council%20-%20WEB.pdf"] = b"%PDF-1.4 original\n"
+        orig, rev = self.plans("city-council-2026-06-16")
+        self.assertEqual(orig["entry"]["id"], "bcc-2026-06-16-regular-agenda-packet")
+        self.assertEqual(orig["entry"]["revised_by"], ["bcc-2026-06-16-regular-agenda-packet-revised"])
+        self.assertIn("No longer linked", orig["entry"]["source_note"])
+        self.assertEqual(rev["entry"]["id"], "bcc-2026-06-16-regular-agenda-packet-revised")
+        self.assertEqual((rev["entry"]["revision_of"], rev["entry"]["version_label"]),
+                         ("bcc-2026-06-16-regular-agenda-packet", "Revised"))
+        self.assertTrue(rev["entry"]["title"].startswith("Revised Agenda Packet"))
+        calls = []
+
+        def run(cmd, check=True, cwd=None, **kw):
+            if drive_about(cmd):
+                return drive_about(cmd)
+            calls.append(cmd)
+            if cmd[:2] == ["rclone", "copyto"] and cmd[2].startswith(il.REMOTE):
+                src = orig if orig["entry"]["id"] in cmd[2] and "revised" not in cmd[2] else rev
+                shutil.copy(src["staged"], cmd[3])
+            return subprocess.CompletedProcess(cmd, 1 if cmd[:2] == ["git", "rev-parse"] or cmd[:2] == ["git", "ls-remote"] else 0)
+        with contextlib.redirect_stdout(io.StringIO()):
+            il.execute_batch(self.root, [orig, rev], run=run, open_pr=True, today="2026-10-28", branch="large-file/test")
+        first_upload = next(k for k, c in enumerate(calls) if c[0] == "rclone")
+        self.assertIn(["git", "switch", "-c", "large-file/test", "origin/main"], calls[:first_upload])
+        pr = [c for c in calls if c[:3] == ["gh", "pr", "create"]][0]
+        self.assertIn("--draft", pr)
+        self.assertEqual([x for x in self.validate_errors() if "not verified" not in x], [])
+
+    def test_revised_packet_whose_original_is_gone(self):
+        listed = "2026-07-14%20Revised%20Agenda%20Packet%20-%20Council%20-%20WEB.pdf"
+        self.listing("city-council-2026-07-14", "2026-07-14", "regular", listed)
+        self.served[self.FILES + listed] = b"%PDF-1.4 revised only\n"
+        [rev] = self.plans("city-council-2026-07-14")
+        self.assertNotIn("revision_of", rev["entry"])
+        self.assertIn("original was not located", rev["entry"]["version_note"])
+        self.assertIn("404", rev["entry"]["version_note"])
+
+    def test_meeting_already_archived_is_skipped(self):
+        url = "2026-10-27%20Agenda%20Packet%20-%20Council%20-%20WEB.pdf"
+        self.listing("city-council-2026-10-27", "2026-10-27", "regular", url)
+        pi.write_json(os.path.join(self.root, "manifest", "x.json"), {"id": "x", "source_url": self.FILES + url})
+        self.assertEqual(self.plans("city-council-2026-10-27"), [])
+
+
+class TestVersions(Base):
+    def test_inbox_revision_links_both_ways_and_validator_checks_it(self):
+        self.drop("v1", {"layer": "L0", "collection": "annotated-agendas", "title": "Annotated Agenda",
+                         "document_date": "2026-07-28", "meeting_date": "2026-07-28", "meeting_label": "regular",
+                         "source_url": "https://berkeleyca.gov/a.pdf"})
+        self.run_process()
+        self.drop("v2", {"layer": "L0", "collection": "annotated-agendas", "title": "Annotated Agenda",
+                         "document_date": "2026-07-28", "meeting_date": "2026-07-28", "meeting_label": "regular",
+                         "source_url": "https://berkeleyca.gov/a_0.pdf", "id": "bcc-2026-07-28-regular-annotated-agenda-v2",
+                         "revision_of": "bcc-2026-07-28-regular-annotated-agenda",
+                         "version_note": "The City replaced the file without labeling it."},
+                  data=make_pdf(["Line: a different version of the annotated agenda, with corrected text."] * 6))
+        self.run_process()
+        old = self.entry("bcc-2026-07-28-regular-annotated-agenda")
+        self.assertEqual(old["revised_by"], ["bcc-2026-07-28-regular-annotated-agenda-v2"])
+        self.assertEqual(self.validate_errors(), [])
+        old["revised_by"] = []
+        pi.write_json(os.path.join(self.root, "manifest", old["id"] + ".json"), old)
+        errors = self.validate_errors()
+        self.assertTrue(any("does not list" in x for x in errors), errors)
+
+    def test_inbox_refuses_unknown_revision_of(self):
+        self.drop("v2", {"layer": "L0", "collection": "annotated-agendas", "title": "Annotated Agenda",
+                         "document_date": "2026-07-28", "meeting_date": "2026-07-28", "meeting_label": "regular",
+                         "source_url": "https://berkeleyca.gov/a_0.pdf", "revision_of": "no-such-id"})
+        with self.assertRaisesRegex(pi.Problem, "not an archive id"):
+            self.run_process()
+
+
 class TestStaffReports(Base):
     def test_council_staff_report(self):
         self.drop("s", STAFF)

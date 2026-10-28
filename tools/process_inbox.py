@@ -57,6 +57,10 @@ FIELDS = {
     "notices": "optional: disclaimers printed on the document, copied word for word",
     "doc_type": "optional: the kind of document; normally worked out for you",
     "id": "optional: the archive id; normally worked out for you",
+    "revision_of": ("optional: the archive id of the earlier version this document revises; the earlier "
+                    "entry gets revised_by pointing back"),
+    "version_label": "optional, with revision_of: the public body's word for this version, e.g. Revised",
+    "version_note": "optional: a short note about this version, e.g. why an earlier one was not located",
 }
 # Collections with their own top-level directory. Everything else from a public body goes
 # under sources/<topic>/, as the existing holdings do.
@@ -415,6 +419,9 @@ def build_entry(meta, place, digest, size, contributor, today, ext):
         e["meeting_date"] = meta["meeting_date"]
     if meta.get("item"):
         e["item"] = str(meta["item"]).strip()
+    for f in ("revision_of", "version_label", "version_note"):
+        if meta.get(f):
+            e[f] = str(meta[f]).strip()
     e.update(file=f"{place['l0']}/{place['id']}.{ext}", sha256=digest, bytes=size,
              source_url=(meta.get("source_url") or "").strip() or None)
     if meta.get("source_note"):
@@ -508,6 +515,10 @@ def process(root, contributor, today=None, log=print):
         if not isinstance(meta, dict):
             problems.append(f"inbox/{name}.json must be one {{ ... }} object; see inbox/README.md.")
             continue
+        if meta.get("revision_of") and str(meta["revision_of"]).strip() not in manifest:
+            problems.append(f"inbox/{name}.json: \"revision_of\" is {meta['revision_of']!r}, which is not an "
+                            "archive id. Give the id of the earlier version as it appears in manifest/.")
+            continue
         if str(meta.get("collection") or "").strip() in BLOB_ONLY_COLLECTIONS:
             problems.append(f"inbox/{name}: agenda packets are always stored outside git, whatever "
                             "their size. Remove both files and open a \"Large file\" Issue with the "
@@ -561,6 +572,12 @@ def process(root, contributor, today=None, log=print):
                 "bytes": entry["bytes"], "text": None}
         result["added"].append(item)
         item["text"] = write_l1(root, entry, place, dest, tool, result["notes"])
+        if entry.get("revision_of"):
+            opath = os.path.join(root, "manifest", entry["revision_of"] + ".json")
+            with open(opath) as f:
+                orig = json.load(f)
+            orig["revised_by"] = sorted(set(orig.get("revised_by") or []) | {entry["id"]})
+            write_json(opath, orig)
     return result
 
 
