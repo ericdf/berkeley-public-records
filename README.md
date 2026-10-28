@@ -61,6 +61,14 @@ apart so no one mistakes one for the other.
 - Copyright stays with the publisher. The archive is private to invited collaborators; if it is
   ever made public, T0 holdings are reviewed first.
 
+### Withdrawn documents
+
+The maintainer may withdraw the bytes of a T0 document whose publisher's text should not be
+redistributed, such as a news article. A withdrawn entry stays in the manifest: `file` becomes
+`null`, `sha256` and `bytes` still identify the copy that was archived, and `withdrawn` records
+the `date` and `reason`. The entry keeps `source_url` or `wayback_url`, so a reader can still
+find the document. Its L1 text is withdrawn with it. `tools/validate.py` enforces this.
+
 ### Current holdings
 
 | Collection | Layer | Path |

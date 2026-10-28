@@ -79,7 +79,17 @@ def main():
                 err(where, "derived_from is null without a source_note explaining why")
         if e["layer"] == "L1" and e.get("derived_from") and not (e.get("extraction") or {}).get("command"):
             err(where, "L1 needs extraction.command")
-        if e["file"] is None:
+        if e["file"] is None and e.get("withdrawn") is not None:
+            w = e["withdrawn"]
+            if not isinstance(w, dict) or not DATE_RE.match(str(w.get("date") or "")) or not w.get("reason"):
+                err(where, "withdrawn needs date (YYYY-MM-DD) and reason")
+            if e["layer"] == "T0" and not (e.get("source_url") or e.get("wayback_url")):
+                err(where, "a withdrawn T0 document needs source_url or wayback_url, where readers find it now")
+            if e["layer"] not in ("T0", "L1"):
+                err(where, "only T0 documents and their L1 text may be withdrawn")
+        elif e.get("withdrawn") is not None:
+            err(where, "withdrawn needs file null; the bytes are no longer held")
+        elif e["file"] is None:
             copies = (e.get("blob") or {}).get("copies") or []
             if len(copies) < 2:
                 err(where, "external blob needs at least two independent copies")

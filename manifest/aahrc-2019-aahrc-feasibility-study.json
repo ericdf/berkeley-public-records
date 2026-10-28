@@ -11,11 +11,11 @@
   "file": "L0/sources/aahrc/aahrc-2019-aahrc-feasibility-study.pdf",
   "sha256": "c416acdbd8bb9318cd75a05d37bfdaa158665cd21d4dc416fcb85934d68e9de6",
   "bytes": 3157140,
-  "source_url": null,
+  "source_url": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2021/12/2019-03-06_Info-Item_AAHRC-Feasibility-Study-Final-2019.pdf",
   "archived": "2026-09-30",
-  "wayback_url": null,
+  "wayback_url": "https://web.archive.org/web/20240623114207/https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2021/12/2019-03-06_Info-Item_AAHRC-Feasibility-Study-Final-2019.pdf",
   "notices": [],
   "contributed_by": "ericdf",
   "provenance_confidence": "medium",
-  "source_note": "Supplied by the maintainer as an upload. File mtime 2026-08-06."
+  "source_note": "A City document; source_url is a copy hosted by Berkeleyside, and the file served there on 2026-10-28 matches this sha256."
 }

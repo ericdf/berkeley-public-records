@@ -7,7 +7,7 @@
   "relevance": "News coverage of Berkeley mayoral, City Council and ballot-measure elections.",
   "title": "Election 2022: Who's giving to campaigns for Measure L, M (Berkeleyside, Nico Savidge)",
   "document_date": "2022-10-14",
-  "file": "T0/press/press-2022-10-14-election-2022-who-s-giving-to-campaigns-for-measure-l-m-berkeleyside.html",
+  "file": null,
   "sha256": "9d7c7b86fba51cf016a19f3ed9fec8de16cf8e49e11ded86728043271dfd4a62",
   "bytes": 230874,
   "source_url": "https://www.berkeleyside.org/2022/10/14/berkeley-election-2022-donors-measure-l-m/",
@@ -15,5 +15,9 @@
   "archived": "2026-10-23",
   "wayback_url": "https://web.archive.org/web/20221014204359/https://www.berkeleyside.org/2022/10/14/berkeley-election-2022-donors-measure-l-m/",
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "withdrawn": {
+    "date": "2026-10-28",
+    "reason": "copyright: the publisher's text is not redistributed; read it at source_url or wayback_url. sha256 and bytes identify the copy that was archived."
+  }
 }

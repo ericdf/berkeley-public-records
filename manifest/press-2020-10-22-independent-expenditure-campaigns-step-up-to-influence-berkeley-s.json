@@ -7,7 +7,7 @@
   "relevance": "News coverage of Berkeley mayoral, City Council and ballot-measure elections.",
   "title": "Independent expenditure campaigns step up to influence Berkeley's elections (Berkeleyside)",
   "document_date": "2020-10-22",
-  "file": "T0/press/press-2020-10-22-independent-expenditure-campaigns-step-up-to-influence-berkeley-s.html",
+  "file": null,
   "sha256": "bbabcf1cb9805035e2f0958a249571047749553e8d120b4547b8d63b8b6e4ae6",
   "bytes": 112391,
   "source_url": "https://www.berkeleyside.com/2020/10/22/independent-expenditure-campaigns-spend-big-to-influence-rent-board-district-2-city-council-race/",
@@ -15,5 +15,9 @@
   "archived": "2026-10-23",
   "wayback_url": "https://web.archive.org/web/20201101025211/https://www.berkeleyside.com/2020/10/22/independent-expenditure-campaigns-spend-big-to-influence-rent-board-district-2-city-council-race/",
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "withdrawn": {
+    "date": "2026-10-28",
+    "reason": "copyright: the publisher's text is not redistributed; read it at source_url or wayback_url. sha256 and bytes identify the copy that was archived."
+  }
 }

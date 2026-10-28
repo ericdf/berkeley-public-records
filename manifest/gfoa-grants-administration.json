@@ -7,14 +7,18 @@
   "relevance": "Professional finance-practice guidance on grants administration, cited in discussion of Berkeley's grant-funded capital projects and programs.",
   "title": "Grants Administration (GFOA best practice)",
   "document_date": "2022-09-01",
-  "file": "T0/gfoa/gfoa-grants-administration.html",
+  "file": null,
   "sha256": "7f42eac2562c3396a10a588c3f92e19b3aa38a2e1b8d4a9f11255db782924dd7",
   "bytes": 239165,
   "source_url": "https://www.gfoa.org/materials/grants-administration",
   "source_note": "Web page saved as served (HTML) on 2026-10-13; document_date is the board approval date printed on it.",
   "retrieved": "2026-10-13",
   "archived": "2026-10-13",
-  "wayback_url": null,
+  "wayback_url": "https://web.archive.org/web/20260421010230/https://www.gfoa.org/materials/grants-administration",
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "withdrawn": {
+    "date": "2026-10-28",
+    "reason": "copyright: the publisher's text is not redistributed; read it at source_url or wayback_url. sha256 and bytes identify the copy that was archived."
+  }
 }
