@@ -1,0 +1,19 @@
+{
+  "id": "measure-p-2022-09-01-measure-p-program-projection",
+  "layer": "L0",
+  "doc_type": "program_projection",
+  "collection": "measure_p",
+  "publisher": "City of Berkeley",
+  "title": "Transfer Tax -- Measure P Program Projection as of 9/1/22",
+  "document_date": "2022-09-01",
+  "file": "L0/sources/measure_p/measure-p-2022-09-01-measure-p-program-projection.pdf",
+  "sha256": "32cfe87392a5db41004a9d5cdf5a307e25a1df44e17dcf4112c629bc9a2afb8e",
+  "bytes": 198591,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/Measure-P-Programs.pdf",
+  "source_note": "Downloaded from source_url (file name 'Measure-P-Programs') on 2026-10-15. No office is printed on the document; document_date is the 'as of' date printed in its title.",
+  "retrieved": "2026-10-15",
+  "archived": "2026-10-15",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

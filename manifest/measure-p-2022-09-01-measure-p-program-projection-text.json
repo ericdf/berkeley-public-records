@@ -1,0 +1,21 @@
+{
+  "id": "measure-p-2022-09-01-measure-p-program-projection-text",
+  "layer": "L1",
+  "doc_type": "program_projection_text",
+  "collection": "measure_p",
+  "title": "Transfer Tax -- Measure P Program Projection as of 9/1/22",
+  "file": "L1/sources/measure_p/measure-p-2022-09-01-measure-p-program-projection-text.txt",
+  "sha256": "ade3dece8fb78272895566fea7fa482bc2a778743b837645b0e4399014ebf25e",
+  "bytes": 8595,
+  "derived_from": {
+    "id": "measure-p-2022-09-01-measure-p-program-projection",
+    "sha256": "32cfe87392a5db41004a9d5cdf5a307e25a1df44e17dcf4112c629bc9a2afb8e"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}
