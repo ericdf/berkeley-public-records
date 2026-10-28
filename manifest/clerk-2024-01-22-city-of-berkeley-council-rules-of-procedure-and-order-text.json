@@ -1,0 +1,21 @@
+{
+  "id": "clerk-2024-01-22-city-of-berkeley-council-rules-of-procedure-and-order-text",
+  "layer": "L1",
+  "doc_type": "clerk_record_text",
+  "collection": "clerk",
+  "title": "City of Berkeley Council Rules of Procedure and Order",
+  "file": "L1/clerk/clerk-2024-01-22-city-of-berkeley-council-rules-of-procedure-and-order-text.txt",
+  "sha256": "624572fc6d59ccb37f33c6dacf06224beeb512df8090eb904c689831b0693e36",
+  "bytes": 129208,
+  "derived_from": {
+    "id": "clerk-2024-01-22-city-of-berkeley-council-rules-of-procedure-and-order",
+    "sha256": "dea9731e353988735aec0ae7a2f964d5161e18a38c2a8c67cd84283efa2ee6f3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-23"
+}
