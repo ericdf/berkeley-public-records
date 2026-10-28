@@ -17,6 +17,30 @@ the map both of them assume.
 The manifest is the only list of what the archive holds. `catalog/` lists what the City
 publishes and `queue/` what is pending; neither is a holding.
 
+## Authority
+
+**Git on GitHub is the archive.** A document is in the archive when, and only when, its manifest
+entry is merged to `main`. Every other store (the Internet Archive, Google Drive, a contributor's
+download, the City's website) holds copies or sources, and a copy is good if and only if its
+sha256 matches the manifest. The repository holds records and their reproducible
+transformations; analysis, interpretation and publication belong to the projects that read it.
+
+## Layers
+
+Each layer says how far a file is from the original record.
+
+| Layer | Holds | Standing |
+|---|---|---|
+| **L0** | Originals as a public body published or produced them | As authoritative as the source. Never edited. |
+| **T0** | Originals published by a third party (press, community reports) | Not public records; kept apart from L0 |
+| **L1** | Text extracted from an L0 or T0 file by a recorded command | Reproducible byte for byte from its parent |
+| **L2** | Structured data parsed from L0 or L1 | Only as good as its parser; ships with the parser, a validator and tests, and rebuilds byte for byte with `--check` |
+| **L3** | Speaker attribution for caption transcripts | **Not authoritative**: inferred by software and volunteers, to be verified against the video |
+
+A derived file (L1–L3) names its parent's id and sha256 in `derived_from`. A finding drawn from a
+derived layer is checked against the layer it came from: L1 against the PDF, L2 against the
+page it cites, L3 against the recording.
+
 ## Entities
 
 ```
@@ -81,8 +105,21 @@ meetings on the same date. The City labels each meeting `Regular`, `Special`,
 | Individual item material | — (linked from the agenda) | City page | Before the meeting; supplemental and revised material up to and during it | `staff-reports` | Git |
 | Adopted minutes | — | City Clerk | Weeks later | Not yet collected | — |
 
-**The official record of what the Council decided is the annotated agenda and the adopted
-minutes.** Caption transcripts carry the City's notice that it cannot certify them.
+### What each document is evidence of
+
+- **The official record of what the Council decided is the annotated agenda and the adopted
+  minutes.** Adopted minutes are not yet collected, so for now the annotated agenda is the only
+  archived decision record.
+- **The agenda packet is the record of what was before the Council as of the agenda's
+  publication.** Material added later (supplemental, revised, or handed out at the meeting) is a
+  separate record with its own id, never folded into the packet.
+- **A caption transcript is a research aid, not the record.** It was produced by a captioner or
+  by Zoom, and each carries the City's notice, kept verbatim in `notices`, that the City cannot
+  certify it. It has transcription errors, and any speaker labels in it come from the captioning, not from the City.
+- **L3 speaker attribution is not authoritative** at any level short of `verified`, which
+  requires a video timestamp, who checked it, and when.
+- **The recording is the primary evidence of what was said and who said it.** It is catalogued,
+  not archived, until a specific need calls for archiving it.
 
 ### Supersession rules
 
@@ -150,8 +187,9 @@ City changes is visible in the catalog's history.
 
 ### The meeting map
 
-`tools/meeting_map.py` joins the City catalog, the manifest and the Granicus catalog, and
-reports for every listed meeting the archive ids filling each role: `agenda_packet`,
+`tools/meeting_map.py` joins three sources: the City catalog (what the City lists), the
+manifest (what the archive holds), and the Granicus catalog (the City's recordings, matched to a
+meeting by the MP3 or MP4 URL the two listings share). It reports for every listed meeting the archive ids filling each role: `agenda_packet`,
 `annotated_agenda`, `captions`, `items`, `packet_index`, and the Granicus clip of its
 recording. It is computed on demand and never stored, so it cannot fall out of date with the
 manifest.
@@ -201,7 +239,43 @@ item PDF is archived in `staff-reports` in addition only when a document needs i
 The provenance of a document is how this archive obtained it, which is not always how the City
 distributes it to others.
 
-## Storage and growth
+## Storage
+
+Two external stores serve two different purposes, and neither is ever edited directly.
+
+| Store | Role | What it holds | Written by |
+|---|---|---|---|
+| Git on GitHub | **The archive** | Manifest, every file up to 25 MB that is not a bulk collection, all L1–L3, catalogs, queue | Pull requests merged to `main` |
+| Internet Archive, item `berkeley-public-records-<id>` | **External copy** of a large or bulk file | One L0 or T0 file per item | `tools/ingest_large.py --upload`, with the maintainer's approval each time (public and permanent) |
+| Google Drive, folder `berkeley-public-records-blobs` | **External copy** of a large or bulk file, the second independent copy | The same files | `tools/ingest_large.py --upload` |
+| Google Drive, folder `berkeley-public-records-mirror` | **Backup mirror** of git, so the archive survives the loss of GitHub access | Every git-tracked file as of one commit of `main`, recorded in `MIRRORED_COMMIT.txt` | `tools/mirror_to_drive.sh`, from a clean checkout of `main` |
+
+Both Drive folders belong to the archive account, `berkeleypublicrecords@gmail.com`.
+
+- **An external blob has two copies, with different verification.** The Drive copy is verified
+  when it is uploaded, by downloading it again and checking its sha256. The Internet Archive copy
+  is recorded with `verified: null` until the item is public and its download has been checked;
+  that check is recorded in a follow-up pull request.
+- **Nothing is added to either Drive folder by hand, and nothing is shared from them.** A file
+  placed there is not part of the archive, and the next mirror run overwrites the mirror.
+- **A copy anywhere is checked against the manifest's sha256**, never trusted because of where it
+  is stored.
+
+### Google Drive as a way in, and Google Docs
+
+Google Drive is an **ingest channel** as well as a store: a contributor may share a file with the
+archive account and give its link in a Large file Issue. That file is downloaded, fingerprinted
+and archived like any other, and from then on the archive copy is authoritative and the shared
+original is only a source.
+
+**Google Docs, Sheets and Slides have no role in the archive.** A native Google document has no
+fixed bytes (each export can differ), so it cannot carry a sha256, and it can be edited in
+place, which L0 never is. One becomes a record only when it is exported to a fixed format such as
+PDF and archived as a file, with a `source_note` saying what it was exported from and when. The
+same holds for any live or editable source: what is archived is a fixed file, never the
+document it was taken from.
+
+## Growth
 
 | Content | Where | Why |
 |---|---|---|
