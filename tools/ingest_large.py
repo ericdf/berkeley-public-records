@@ -342,6 +342,27 @@ def pending_ia(root):
                   if c.get("store") == "internet_archive" and not c.get("verified"))
 
 
+def _hash_stream(blocks):
+    h, n = hashlib.sha256(), 0
+    for block in blocks:
+        h.update(block)
+        n += len(block)
+    return h, n
+
+
+def ia_server_url(item, path, meta_url="https://archive.org/metadata/{item}"):
+    """The file's address on the Internet Archive storage server holding the item, from the
+    item's metadata, or None."""
+    try:
+        with urllib.request.urlopen(meta_url.format(item=item), timeout=60) as r:
+            d = json.load(r)
+    except (OSError, ValueError):
+        return None
+    if not (d.get("d1") and d.get("dir")) or not any(f.get("name") == path for f in d.get("files", [])):
+        return None
+    return f"https://{d['d1']}{d['dir']}/{urllib.parse.quote(path)}"
+
+
 def verify_ia(root, mid, stream=ia_stream, today=None):
     """Check the Internet Archive copy of blob `mid` against its manifest sha256 and record the
     result. Raises Problem, changing nothing, if the copy is missing or does not match."""
@@ -355,13 +376,20 @@ def verify_ia(root, mid, stream=ia_stream, today=None):
     if not copy:
         raise Problem(f"{mid}: no Internet Archive copy recorded")
     url = IA_DOWNLOAD.format(item=copy["item"], path=urllib.parse.quote(copy["path"]))
-    h, n = hashlib.sha256(), 0
     try:
-        for block in stream(url):
-            h.update(block)
-            n += len(block)
+        h, n = _hash_stream(stream(url))
     except OSError as x:
-        raise Problem(f"{mid}: could not download {url} ({x}); the item may not be public yet")
+        # archive.org/download can keep answering 404 for a while after an item is public;
+        # the item's storage server, named in its metadata, serves the same file.
+        direct = ia_server_url(copy["item"], copy["path"])
+        if not direct:
+            raise Problem(f"{mid}: could not download {url} ({x}); the item may not be public yet")
+        try:
+            h, n = _hash_stream(stream(direct))
+        except OSError as y:
+            raise Problem(f"{mid}: could not download {url} ({x}) or {direct} ({y}); the item may not be "
+                          "public yet")
+        url = direct
     if h.hexdigest() != e["sha256"] or n != e["bytes"]:
         raise Problem(f"{mid}: the Internet Archive copy at {url} does not match the manifest "
                       f"({n} bytes, sha256 {h.hexdigest()}); not recorded")
@@ -472,10 +500,11 @@ def execute_batch(root, plans, run=subprocess.run, open_pr=False, today=None, br
             f"Google Drive copies verified {today}; Internet Archive items uploaded.\n\n{lines}\n\n"
             + DRAFT_NOTE.format(ids="pending") + "\n")
     cmds = [["git", "add", *files],
-            ["git", "commit", "-m", f"Add {len(plans)} Council agenda packets as external blobs"],
+            ["git", "commit", "-m", f"Add {len(plans)} Council agenda packet{'s' if len(plans) != 1 else ''} as external blobs"],
             ["git", "push", "-u", "origin", branch],
             ["gh", "pr", "create", "--repo", REPO, "--base", "main", "--draft",
-             "--title", f"Add {len(plans)} Council agenda packets (external blobs)", "--body", body]]
+             "--title", f"Add {len(plans)} Council agenda packet{'s' if len(plans) != 1 else ''} (external "
+                        f"blob{'s' if len(plans) != 1 else ''})", "--body", body]]
     finish(root, cmds, run, open_pr)
     return files
 
