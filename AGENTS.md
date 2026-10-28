@@ -4,6 +4,10 @@ You are contributing to an archive of Berkeley public records. README.md is the 
 policy and binds you; this file is how to follow it. When they disagree, README.md wins: stop
 and tell the human.
 
+**Read [INFORMATION_ARCHITECTURE.md](INFORMATION_ARCHITECTURE.md) before adding anything tied to
+a meeting.** It maps how documents relate to bodies, meetings and items, which document
+supersedes which, where each kind comes from, and where its bytes are stored.
+
 ## Non-negotiables
 
 - **Records, not analysis.** Add documents, mechanical text, and metadata. Never add analysis,
@@ -70,7 +74,11 @@ processes them on the pull request and comments with the result.
 | Scanned PDF with no text | Process it anyway. The tool records "no text layer; needs OCR". Do not OCR it yourself unless the human asks for a recorded OCR command. |
 | File over 25 MB | Do not commit it. Tell the human to open a "Large file" Issue (the form takes the City URL, or a Google Drive link shared with `berkeleypublicrecords@gmail.com`). The maintainer runs the large-file procedure below. |
 | Council captions | `council-captions` needs `meeting_date`, `meeting_label`, and `notices` with the City's disclaimer copied verbatim. |
-| After a Council meeting | Run `tools/catalog_granicus.py` and open a PR with the updated `catalog/granicus/city-council.json`. This catalogs the City's recording URLs and downloads nothing. Never archive a recording unless the human asks; if they do, follow the large-file procedure. |
+| Caption transcript emailed by the Clerk | `council-captions`; `source_note` naming the City Clerk's office, that it arrived by email, and the date received. Never invent the date; ask the human. A transcript covering a special meeting that runs into a regular one is one document labeled `Special and Regular`. |
+| Council agenda packet | External blob whatever its size: follow "File over 25 MB" with collection `agenda-packets` (the inbox refuses packets). The meeting date and label come from the City catalog by the packet's City URL; pass `--meeting-date`/`--meeting-label` if it is not listed. The id is `bcc-<date>-<label>-agenda-packet`. `ingest_large.py --upload` writes the L1 text and the packet item index. Never split a packet into item files. |
+| Agenda vs annotated agenda | If the meeting's annotated agenda is available, archive it and not the agenda. The packet is archived either way. For an annotated agenda or packet the City lists, `meeting_date` and `meeting_label` may be left out: the tools fill them from the City catalog by `source_url`. |
+| What is missing for a meeting | `python3 tools/meeting_map.py` lists what the City publishes that the archive does not hold; `--meeting <slug>` shows one meeting. |
+| After a Council meeting | Run `tools/catalog_city_agendas.py` and `tools/catalog_granicus.py` and open a PR with the updated `catalog/city-council-agendas/meetings.json` and `catalog/granicus/city-council.json`. These catalog the City's meetings and recording URLs and download nothing. Never archive a recording unless the human asks; if they do, follow the large-file procedure. |
 | Agenda item report | `staff-reports`, for a document on a Council, Council committee or commission agenda: staff reports, presentations, attachments, supplemental material. Needs `body` (e.g. `Berkeley City Council`, `Planning Commission`), `meeting_date`, and `item` as printed (e.g. `Consent Calendar Item 7`); Council items also need `meeting_label`. `doc_type` is `staff_report` (the default), `presentation`, `agenda_material` or `supplemental_agenda_material`; for anything but the report itself, add `part`, a short name such as `lease-list`. `document_date` is optional. The id is formed for you, e.g. `bcc-2026-06-16-item-37-staff-report`, `bcc-2024-12-10-special-item-01-staff-report`, `planning-commission-2026-04-15-item-10b-chairs-memo`. |
 
 ## Large-file procedure (maintainer, or you at the maintainer's direction)
@@ -81,12 +89,15 @@ processes them on the pull request and comments with the result.
 2. Show the human the plan. **Internet Archive uploads are public and permanent.** Run
    `--upload` only after the maintainer explicitly approves that upload, every time; an earlier
    approval never carries over.
-3. `python3 tools/ingest_large.py <n> --upload [--open-pr]` copies the file to Google Drive
+3. `python3 tools/ingest_large.py <n> --upload [--open-pr]` checks that Google Drive will keep
+   at least 1 GiB free after the file (the dry run reports the same), copies it there
    (verified by download), uploads it to the Internet Archive, writes the manifest entry
    (`file: null`, both copies, the Internet Archive copy unverified until public) and L1 text,
-   and opens a PR that closes the Issue (or prints the commands).
-4. Once the Internet Archive item is public, download it, check its sha256, and record
-   `verified` in a follow-up PR.
+   and opens a draft PR that closes the Issue (or prints the commands).
+4. Once the Internet Archive item is public, run `python3 tools/ingest_large.py --verify-ia <id>`
+   on the same branch: it downloads the copy, checks its sha256, and records `verified`. Commit,
+   push, and mark the pull request ready. The pull request is opened as a draft and the validator
+   fails until both copies are verified; never merge a blob with an unverified copy.
 
 ## Never
 

@@ -15,6 +15,13 @@ import ingest_large as il  # noqa: E402
 import validate  # noqa: E402
 
 HAVE_PDFTOTEXT = shutil.which("pdftotext") is not None
+
+
+def drive_about(cmd, free=10 * 2**30, total=15 * 2**30):
+    """A faked `rclone about --json` reply, or None for any other command."""
+    if cmd[:2] == ["rclone", "about"]:
+        return subprocess.CompletedProcess(cmd, 0, stdout=json.dumps({"free": free, "total": total}))
+    return None
 BIG = pi.MAX_IN_GIT + 1
 
 
@@ -316,6 +323,29 @@ STAFF = {"layer": "L0", "collection": "staff-reports", "body": "Berkeley City Co
          "retrieved": "2026-10-01"}
 
 
+class TestMeetingCollections(Base):
+    def test_inbox_refuses_agenda_packets(self):
+        self.drop("packet", {"layer": "L0", "collection": "agenda-packets", "title": "Agenda Packet",
+                             "document_date": "2026-10-27", "meeting_date": "2026-10-27",
+                             "meeting_label": "regular", "source_url": "https://berkeleyca.gov/p.pdf"})
+        with self.assertRaisesRegex(pi.Problem, "Large file"):
+            self.run_process()
+        self.assertEqual(self.inbox_left(), ["packet.json", "packet.pdf"])
+
+    def test_annotated_agenda_meeting_filled_from_the_city_catalog(self):
+        url = "https://berkeleyca.gov/sites/default/files/city-council-meetings/2026-09-29%20Annotated%20Agenda.pdf"
+        path = os.path.join(self.root, pi.CITY_MEETINGS)
+        os.makedirs(os.path.dirname(path))
+        with open(path, "w") as f:
+            json.dump({"entries": [{"meeting": "city-council-2026-09-29", "date": "2026-09-29", "label": "regular",
+                                    "city": {"agenda_packet": None, "annotated_agenda": url}}]}, f)
+        self.drop("annotated", {"layer": "L0", "collection": "annotated-agendas", "title": "Annotated Agenda",
+                                "document_date": "2026-09-29", "source_url": url, "retrieved": "2026-10-28"})
+        self.run_process()
+        e = self.entry("bcc-2026-09-29-regular-annotated-agenda")
+        self.assertEqual((e["meeting_date"], e["meeting_label"]), ("2026-09-29", "regular"))
+
+
 class TestStaffReports(Base):
     def test_council_staff_report(self):
         self.drop("s", STAFF)
@@ -564,7 +594,9 @@ class TestIngestLarge(Base):
         p = il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(BIG), today="2026-10-01")
         calls = []
 
-        def run(cmd, check=True, cwd=None):
+        def run(cmd, check=True, cwd=None, **kw):
+            if drive_about(cmd):
+                return drive_about(cmd)
             calls.append(cmd)
             if cmd[:2] == ["rclone", "copyto"] and cmd[2].startswith(il.REMOTE):
                 shutil.copy(p["staged"], cmd[3])              # the verification download
@@ -575,7 +607,56 @@ class TestIngestLarge(Base):
         ia, drive = e["blob"]["copies"]
         self.assertIsNone(ia["verified"])
         self.assertEqual(drive["verified"], "2026-10-01")
+        errors = self.validate_errors()                      # not mergeable until IA is verified
+        self.assertEqual(len(errors), 1)
+        self.assertIn("internet_archive is not verified", errors[0])
+        self.assertEqual(il.pending_ia(self.root), [e["id"]])
+        with open(p["staged"], "rb") as f:
+            data = f.read()
+        url = il.verify_ia(self.root, e["id"], stream=lambda u: iter([data]), today="2026-10-03")
+        self.assertTrue(url.startswith("https://archive.org/download/" + p["ia_item"] + "/"))
+        ia = self.entry(e["id"])["blob"]["copies"][0]
+        self.assertEqual(ia["verified"], "2026-10-03")
+        self.assertNotIn("verify_note", ia)
         self.assertEqual(self.validate_errors(), [])
+        self.assertEqual(il.pending_ia(self.root), [])
+
+    def test_refuses_upload_when_drive_lacks_room(self):
+        staging = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, staging)
+        p = il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(BIG), today="2026-10-01")
+        calls = []
+
+        def run(cmd, check=True, cwd=None, **kw):
+            calls.append(cmd)
+            return drive_about(cmd, free=BIG + il.DRIVE_MARGIN - 1)
+        with self.assertRaisesRegex(il.Problem, "Nothing was uploaded"):
+            il.execute(self.root, p, run=run, today="2026-10-01")
+        self.assertEqual(calls, [["rclone", "about", il.REMOTE, "--json"]])
+        self.assertFalse(os.path.exists(os.path.join(self.root, "manifest", p["entry"]["id"] + ".json")))
+
+    def test_verify_ia_refuses_a_mismatched_copy(self):
+        staging = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, staging)
+        p = il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(BIG), today="2026-10-01")
+
+        def run(cmd, check=True, cwd=None, **kw):
+            if drive_about(cmd):
+                return drive_about(cmd)
+            if cmd[:2] == ["rclone", "copyto"] and cmd[2].startswith(il.REMOTE):
+                shutil.copy(p["staged"], cmd[3])
+        with contextlib.redirect_stdout(io.StringIO()):
+            il.execute(self.root, p, run=run, today="2026-10-01")
+        before = self.entry(p["entry"]["id"])
+        with self.assertRaisesRegex(il.Problem, "does not match"):
+            il.verify_ia(self.root, p["entry"]["id"], stream=lambda u: iter([b"wrong bytes"]))
+        self.assertEqual(self.entry(p["entry"]["id"]), before)
+
+        def offline(url):
+            raise OSError("404")
+            yield b""
+        with self.assertRaisesRegex(il.Problem, "may not be public yet"):
+            il.verify_ia(self.root, p["entry"]["id"], stream=offline)
 
     def test_refuses_to_upload_when_the_branch_exists(self):
         staging = tempfile.mkdtemp()
@@ -590,13 +671,71 @@ class TestIngestLarge(Base):
             il.execute(self.root, p, run=run, open_pr=True, today="2026-10-01")
         self.assertFalse([c for c in calls if c[0] in ("rclone", "ia")])
 
+    PACKET_URL = ("https://berkeleyca.gov/sites/default/files/city-council-meetings/"
+                  "2026-10-27%20Agenda%20Packet%20-%20Council%20-%20WEB.pdf")
+
+    def packet_issue(self):
+        body = (ISSUE_BODY.replace("Presentation on Potential Ballot Measures", "Agenda Packet, October 27, 2026")
+                .replace("2026-05-19", "2026-10-27")
+                .replace("https://berkeleyca.gov/sites/default/files/2026-05/presentation.pdf", self.PACKET_URL)
+                .replace("sources/ballot_2026", "agenda-packets"))
+        return self.issue(body)
+
+    def write_catalog(self):
+        path = os.path.join(self.root, pi.CITY_MEETINGS)
+        os.makedirs(os.path.dirname(path))
+        with open(path, "w") as f:
+            json.dump({"entries": [{"meeting": "city-council-2026-10-27", "date": "2026-10-27", "label": "regular",
+                                    "city": {"agenda_packet": self.PACKET_URL, "annotated_agenda": None}}]}, f)
+
+    def test_agenda_packet_is_a_blob_whatever_its_size(self):
+        self.write_catalog()
+        p = il.plan(self.root, self.packet_issue(), tempfile.mkdtemp(), fetch=self.fake_fetch(1000),
+                    today="2026-10-28")
+        e = p["entry"]
+        self.assertEqual(e["id"], "bcc-2026-10-27-regular-agenda-packet")
+        self.assertEqual((e["doc_type"], e["meeting_date"], e["meeting_label"]),
+                         ("agenda_packet", "2026-10-27", "regular"))
+        self.assertIsNone(e["file"])
+        self.assertEqual(p["place"]["l1"], "L1/agenda-packets")
+        self.assertIn("2026-10-27", " ".join(il.ia_metadata(e)))
+
+    @unittest.skipUnless(HAVE_PDFTOTEXT, "pdftotext not installed")
+    def test_packet_upload_writes_text_and_survives_an_unindexable_packet(self):
+        self.write_catalog()
+        staging = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, staging)
+        p = il.plan(self.root, self.packet_issue(), staging, fetch=self.fake_fetch(len(TEXT_PDF), TEXT_PDF),
+                    today="2026-10-28")
+
+        def run(cmd, check=True, cwd=None, **kw):
+            if drive_about(cmd):
+                return drive_about(cmd)
+            if cmd[:2] == ["rclone", "copyto"] and cmd[2].startswith(il.REMOTE):
+                shutil.copy(p["staged"], cmd[3])
+        out = io.StringIO()
+        with contextlib.redirect_stdout(out):
+            files = il.execute(self.root, p, run=run, today="2026-10-28")
+        self.assertIn("manifest/bcc-2026-10-27-regular-agenda-packet-text.json", files)
+        self.assertIn("no packet item index", out.getvalue())
+        self.assertEqual([x for x in self.validate_errors() if "not verified" not in x], [])
+
+    def test_agenda_packet_needs_its_meeting(self):
+        with self.assertRaisesRegex(il.Problem, "meeting_date"):
+            il.plan(self.root, self.packet_issue(), tempfile.mkdtemp(), fetch=self.fake_fetch(1000))
+        p = il.plan(self.root, self.packet_issue(), tempfile.mkdtemp(), fetch=self.fake_fetch(1000),
+                    meeting={"meeting_date": "2026-10-27", "meeting_label": "regular"})
+        self.assertEqual(p["entry"]["id"], "bcc-2026-10-27-regular-agenda-packet")
+
     def test_pull_request_branch_starts_from_origin_main(self):
         staging = tempfile.mkdtemp()
         self.addCleanup(shutil.rmtree, staging)
         p = il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(BIG), today="2026-10-01")
         calls = []
 
-        def run(cmd, check=True, cwd=None, capture_output=False):
+        def run(cmd, check=True, cwd=None, capture_output=False, **kw):
+            if drive_about(cmd):
+                return drive_about(cmd)
             calls.append(cmd)
             if cmd[:2] == ["rclone", "copyto"] and cmd[2].startswith(il.REMOTE):
                 shutil.copy(p["staged"], cmd[3])
@@ -605,6 +744,7 @@ class TestIngestLarge(Base):
             il.execute(self.root, p, run=run, open_pr=True, today="2026-10-01")
         switch = [c for c in calls if c[:2] == ["git", "switch"]][0]
         self.assertEqual(switch[-1], "origin/main")
+        self.assertIn("--draft", [c for c in calls if c[:3] == ["gh", "pr", "create"]][0])
         self.assertIn(["git", "fetch", "origin", "main"], calls)
 
 

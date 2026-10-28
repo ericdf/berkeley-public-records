@@ -121,7 +121,7 @@ was seen is on record. Never put the capture date in `document_date`.
 | Field | |
 |---|---|
 | `layer` | Required. `L0`: made or published by a public body. `T0`: published by anyone else. |
-| `collection` | Required. L0: `clerk`, `council-captions`, `annotated-agendas`, `staff-reports`, or `sources/<topic>` (existing topics include `sources/budgets`, `sources/audits`, `sources/acfr`, `sources/investments`, `sources/ballot_2026`, `sources/t1`, `sources/hr`, `sources/pier_ferry`). T0: `press`, `campaigns`, or another single word. |
+| `collection` | Required. L0: `clerk`, `council-captions`, `annotated-agendas`, `staff-reports`, or `sources/<topic>`; Council agenda packets (`agenda-packets`) come through a Large file Issue, never the inbox (existing topics include `sources/budgets`, `sources/audits`, `sources/acfr`, `sources/investments`, `sources/ballot_2026`, `sources/t1`, `sources/hr`, `sources/pier_ferry`). T0: `press`, `campaigns`, or another single word. |
 | `title` | Required. As printed on the document. |
 | `document_date` | Required, except for `staff-reports`. The date on the document. `"undated"` for a T0 page that prints none (needs `wayback_url` or `retrieved`). |
 | `wayback_url` | Optional: the Wayback Machine capture the file was taken from. |

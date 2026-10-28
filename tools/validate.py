@@ -83,6 +83,11 @@ def main():
             copies = (e.get("blob") or {}).get("copies") or []
             if len(copies) < 2:
                 err(where, "external blob needs at least two independent copies")
+            for c in copies:
+                if not DATE_RE.match(str(c.get("verified") or "")):
+                    err(where, f"external blob copy in {c.get('store')} is not verified; a blob is merged only "
+                               "once every copy's sha256 has been checked (python3 tools/ingest_large.py "
+                               f"--verify-ia {e['id']} for the Internet Archive copy)")
             if e["layer"] not in ORIGINALS:
                 err(where, "only L0/T0 files may be external blobs")
         else:
