@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-10-28-item-33-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-10-28",
+  "meeting_label": "regular",
+  "title": "Telegraph Multimodal Corridor Project Conceptual Design",
+  "file": "L1/staff-reports/bcc-2025-10-28-item-33-staff-report-text.txt",
+  "sha256": "523cac7bf6528bbb90807174ad899d81b2c18bfaf221d9992adce7c1108f4a6d",
+  "bytes": 1233765,
+  "derived_from": {
+    "id": "bcc-2025-10-28-item-33-staff-report",
+    "sha256": "43f1913bb40204b5ef746d67eaf4f08123f7ea3507296a36c74db3ab8c2c94f8"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

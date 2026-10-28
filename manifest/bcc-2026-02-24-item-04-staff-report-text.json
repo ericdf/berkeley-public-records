@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-02-24-item-04-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-02-24",
+  "meeting_label": "regular",
+  "title": "Accept Grant Funds from the California Ocean Protection Council’s Senate Bill 1 Sea Level Rise Adaptation Planning Grant Program and contract with Association of Bay Area Governments/San Francisco Estuary Partnership",
+  "file": "L1/staff-reports/bcc-2026-02-24-item-04-staff-report-text.txt",
+  "sha256": "be641091ed6b1448616ceee1712e307fe8edcc84655810badec1ac3c2345f9d6",
+  "bytes": 52579,
+  "derived_from": {
+    "id": "bcc-2026-02-24-item-04-staff-report",
+    "sha256": "64aa66e7faacc43daf7b6264d3edb9151ea587a5220e426a4fb4a3226ab75dff"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

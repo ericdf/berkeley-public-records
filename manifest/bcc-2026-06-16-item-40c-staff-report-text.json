@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-06-16-item-40c-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-06-16",
+  "meeting_label": "regular",
+  "title": "Proposed Five-Year Capital Improvement Program (CIP) and Proposed Five-Year CIP Public Hearing No. 1",
+  "file": "L1/staff-reports/bcc-2026-06-16-item-40c-staff-report-text.txt",
+  "sha256": "27bd7e9392df902b0382d4a43d42dbd6208c7468edef1c5bb9d2a7a7db9166b7",
+  "bytes": 382057,
+  "derived_from": {
+    "id": "bcc-2026-06-16-item-40c-staff-report",
+    "sha256": "98186e2cae115f276c2989884106f37c9ef205721973ddc447b5f0804f571a98"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

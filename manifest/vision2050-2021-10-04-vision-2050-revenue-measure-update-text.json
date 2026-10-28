@@ -1,0 +1,21 @@
+{
+  "id": "vision2050-2021-10-04-vision-2050-revenue-measure-update-text",
+  "layer": "L1",
+  "doc_type": "city_manager_memo_text",
+  "collection": "vision2050",
+  "title": "Vision 2050 Revenue Measure Update (memo to the Mayor and Council)",
+  "file": "L1/sources/vision2050/vision2050-2021-10-04-vision-2050-revenue-measure-update-text.txt",
+  "sha256": "ad18bfec35a7fcb478e8a642ce261a21881f4f9ae88394c334f4277152d80b2d",
+  "bytes": 4481,
+  "derived_from": {
+    "id": "vision2050-2021-10-04-vision-2050-revenue-measure-update",
+    "sha256": "39e7ecf41982d8d2b59fb80017230f5a996b1bead34192bbeb72255cd201ce16"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-16"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-07-28-item-17-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-07-28",
+  "meeting_label": "regular",
+  "title": "Contract No. 32500050 Amendment: The Dutra Group for Berkeley Marina Docks D&E Replacement Project",
+  "file": "L1/staff-reports/bcc-2026-07-28-item-17-staff-report-text.txt",
+  "sha256": "d2ea64c5be4cff66202de1d541f60004e6f4030855a0c7c6eb3e7c85ea7eeeae",
+  "bytes": 8706,
+  "derived_from": {
+    "id": "bcc-2026-07-28-item-17-staff-report",
+    "sha256": "af894c0b81f1bc2a726492ca36c007aa2dc12760413cdfe2e4f59259958550cd"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

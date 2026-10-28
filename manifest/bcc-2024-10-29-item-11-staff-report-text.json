@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-10-29-item-11-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-10-29",
+  "meeting_label": "regular",
+  "title": "Contract: American Debris Box Services, Inc. for Portable Toilet Service",
+  "file": "L1/staff-reports/bcc-2024-10-29-item-11-staff-report-text.txt",
+  "sha256": "a0a825f18f361dc716f2bee11e8c7797701833399caf6f670e102983fab716e7",
+  "bytes": 6097,
+  "derived_from": {
+    "id": "bcc-2024-10-29-item-11-staff-report",
+    "sha256": "487aa686c678ace8a3210dfb7e9e2a8e93cbc14b9fadc220b82a7370569e5d35"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

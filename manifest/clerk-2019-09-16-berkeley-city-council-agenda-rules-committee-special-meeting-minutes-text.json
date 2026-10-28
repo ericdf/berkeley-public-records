@@ -1,0 +1,22 @@
+{
+  "id": "clerk-2019-09-16-berkeley-city-council-agenda-rules-committee-special-meeting-minutes-text",
+  "layer": "L1",
+  "doc_type": "clerk_record_text",
+  "collection": "clerk",
+  "meeting_date": "2019-09-16",
+  "title": "Berkeley City Council Agenda & Rules Committee Special Meeting Minutes, Monday, September 16, 2019",
+  "file": "L1/clerk/clerk-2019-09-16-berkeley-city-council-agenda-rules-committee-special-meeting-minutes-text.txt",
+  "sha256": "f6d9c5ff5a03521fd3d098805d859b4f90d07d326b6657c493cc4a2008065e48",
+  "bytes": 2485,
+  "derived_from": {
+    "id": "clerk-2019-09-16-berkeley-city-council-agenda-rules-committee-special-meeting-minutes",
+    "sha256": "c2ed8aadb40435570e8e878a391797ad0377b6204546e8595d2cc9bc3b65e759"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

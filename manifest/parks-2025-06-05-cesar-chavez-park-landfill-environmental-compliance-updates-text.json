@@ -1,0 +1,21 @@
+{
+  "id": "parks-2025-06-05-cesar-chavez-park-landfill-environmental-compliance-updates-text",
+  "layer": "L1",
+  "doc_type": "parks_document_text",
+  "collection": "parks",
+  "title": "Environmental Compliance Updates at former Landfill at César Chávez Park (City Manager off-agenda memo)",
+  "file": "L1/sources/parks/parks-2025-06-05-cesar-chavez-park-landfill-environmental-compliance-updates-text.txt",
+  "sha256": "2c7c7089aab85f42e644557320b0b99ea22a746dd26ce62fc36a7e031b7be763",
+  "bytes": 2922675,
+  "derived_from": {
+    "id": "parks-2025-06-05-cesar-chavez-park-landfill-environmental-compliance-updates",
+    "sha256": "0778fc79b1ef46229939317a4030d4ebcb10099e699b07c1587496f55148866f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-16"
+}

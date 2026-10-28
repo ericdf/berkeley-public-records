@@ -1,0 +1,19 @@
+{
+  "id": "t1-city-web-page-measure-t1-funded-projects-p4",
+  "layer": "L0",
+  "doc_type": "web_page",
+  "collection": "t1",
+  "publisher": "City of Berkeley",
+  "title": "Measure T1 (funded projects table, page 4 of 6)",
+  "document_date": "2026-10-15",
+  "file": "L0/sources/t1/t1-city-web-page-measure-t1-funded-projects-p4.html",
+  "sha256": "57dfacf2ea8eb1387ed5c1a647b8347fc10375cf9cae2094857c43f2a773b926",
+  "bytes": 166196,
+  "source_url": "https://berkeleyca.gov/your-government/our-work/ballot-measures/measure-t1/measure-t1-funded-projects?page=3",
+  "source_note": "City web page; no date is printed on it. The funded-projects table is paginated in six pages; this is page 4. Saved as served (HTML) from source_url on 2026-10-15; document_date is the retrieval date.",
+  "retrieved": "2026-10-15",
+  "archived": "2026-10-15",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

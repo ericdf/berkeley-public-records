@@ -1,0 +1,21 @@
+{
+  "id": "measure-p-2023-04-25-measure-p-and-impact-on-homeless-services-text",
+  "layer": "L1",
+  "doc_type": "off_agenda_memo_text",
+  "collection": "measure_p",
+  "title": "Measure P and Impact on Homeless Services in Berkeley",
+  "file": "L1/sources/measure_p/measure-p-2023-04-25-measure-p-and-impact-on-homeless-services-text.txt",
+  "sha256": "e24a78dbf08958576f6d14e405b502605a705713e8a8d0c6d9c120bbd7f74e7a",
+  "bytes": 28164,
+  "derived_from": {
+    "id": "measure-p-2023-04-25-measure-p-and-impact-on-homeless-services",
+    "sha256": "f3ffc210c2efe112611851a62f0731ef6f891ddb91bd60a16320490a5f2a35c4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-01-27-item-08-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-01-27",
+  "meeting_label": "regular",
+  "title": "Contract: B Bros Construction, Inc. for Fire Station #6 Remodel",
+  "file": "L1/staff-reports/bcc-2026-01-27-item-08-staff-report-text.txt",
+  "sha256": "8cf4f183945fd0051d9dd0e5a17f9414c16bac29c585c8111128bf0b6ebb92c8",
+  "bytes": 6807,
+  "derived_from": {
+    "id": "bcc-2026-01-27-item-08-staff-report",
+    "sha256": "974c1e307ef34ef0feb7fb8379b0292a67bd4f48cbe133b8be2c2de472820e3a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

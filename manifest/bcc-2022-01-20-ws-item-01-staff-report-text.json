@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2022-01-20-ws-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2022-01-20",
+  "meeting_label": "work session",
+  "title": "Discuss Vision 2050, Infrastructure Priorities, Stakeholder and Community Engagement, and City’s Bonding Capacity; and Seek Direction on November 2022 Revenue Measure(s)",
+  "file": "L1/staff-reports/bcc-2022-01-20-ws-item-01-staff-report-text.txt",
+  "sha256": "db33b295e7d9b0690046c8c94a3600bb85a73bb07380643836d586b802264c5e",
+  "bytes": 114235,
+  "derived_from": {
+    "id": "bcc-2022-01-20-ws-item-01-staff-report",
+    "sha256": "6bda2ea854d83a40bdae332aa939723191f30af5b60f45ca1079a027071ce804"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-16"
+}

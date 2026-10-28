@@ -1,0 +1,21 @@
+{
+  "id": "t1-2025-07-22-t1-quarterly-update-text",
+  "layer": "L1",
+  "doc_type": "project_update_bulletin_text",
+  "collection": "t1",
+  "title": "T1 Quarterly Update",
+  "file": "L1/sources/t1/t1-2025-07-22-t1-quarterly-update-text.txt",
+  "sha256": "5887bacb462037d9da08cd078040481386d9602670d9ddbf23233bd4ede38c68",
+  "bytes": 13820,
+  "derived_from": {
+    "id": "t1-2025-07-22-t1-quarterly-update",
+    "sha256": "5eb03f30e74666c4aaa159202c666a83faaf322c2175bc72bfb758c5a429bd65"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

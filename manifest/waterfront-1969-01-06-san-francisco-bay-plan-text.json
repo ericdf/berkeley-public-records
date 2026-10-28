@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-1969-01-06-san-francisco-bay-plan-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "San Francisco Bay Plan",
+  "file": "L1/sources/waterfront/waterfront-1969-01-06-san-francisco-bay-plan-text.txt",
+  "sha256": "ee426d8a3868ad097ed4b335fc7de345aea048e48a8a24a3dddf6d298a5d4314",
+  "bytes": 423007,
+  "derived_from": {
+    "id": "waterfront-1969-01-06-san-francisco-bay-plan",
+    "sha256": "ec13f8188ff27aa3b083edfb5f82d045d5b6309dcc4559341906aab2aa660176"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-27"
+}

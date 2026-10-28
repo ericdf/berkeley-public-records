@@ -1,0 +1,21 @@
+{
+  "id": "t1-2026-02-02-prw-capital-projects-monthly-update-january-2026-text",
+  "layer": "L1",
+  "doc_type": "project_update_bulletin_text",
+  "collection": "t1",
+  "title": "PRW Capital Projects Monthly Update – January 2026",
+  "file": "L1/sources/t1/t1-2026-02-02-prw-capital-projects-monthly-update-january-2026-text.txt",
+  "sha256": "89f78c05dda216be7a2571ea0d4a29981fbca2475395aaf354d58f90a6e34852",
+  "bytes": 6751,
+  "derived_from": {
+    "id": "t1-2026-02-02-prw-capital-projects-monthly-update-january-2026",
+    "sha256": "563d0cf2609749e315bc1ad52b44177bb98a97f9c20676a47d784d2124f43c27"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

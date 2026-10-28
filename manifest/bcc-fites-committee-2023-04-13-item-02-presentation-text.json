@@ -1,0 +1,23 @@
+{
+  "id": "bcc-fites-committee-2023-04-13-item-02-presentation-text",
+  "layer": "L1",
+  "doc_type": "presentation_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council Facilities, Infrastructure, Transportation, Environment & Sustainability Policy Committee",
+  "meeting_date": "2023-04-13",
+  "title": "Public Works Audit Status Reports (presentation)",
+  "file": "L1/staff-reports/bcc-fites-committee-2023-04-13-item-02-presentation-text.txt",
+  "sha256": "5cabb3c378374c54c2ac2f01bdeab61149d76b5b9f922c55275f6a18eaa7c352",
+  "bytes": 3960,
+  "derived_from": {
+    "id": "bcc-fites-committee-2023-04-13-item-02-presentation",
+    "sha256": "b841121241b30090a6ba2bd2324965d585b2635d13ff1cf5d893338ce1a98032"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-16"
+}

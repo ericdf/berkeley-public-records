@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-10-14-item-13-supplemental-1-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-10-14",
+  "meeting_label": "regular",
+  "title": "Urging Police Accountability Board Regulations Completion (Supplemental 1)",
+  "file": "L1/staff-reports/bcc-2025-10-14-item-13-supplemental-1-text.txt",
+  "sha256": "0c26304b243f187cdc99d0aabc76f68bf3a9b20956287f44999c0a756d67c859",
+  "bytes": 12426,
+  "derived_from": {
+    "id": "bcc-2025-10-14-item-13-supplemental-1",
+    "sha256": "a8d21dd883a2b00f98b69d0425388bcca3c6aede4b559b0bf1c41343aa0ee75e"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-23"
+}

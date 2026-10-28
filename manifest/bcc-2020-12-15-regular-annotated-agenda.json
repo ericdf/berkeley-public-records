@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2020-12-15-regular-annotated-agenda",
+  "layer": "L0",
+  "doc_type": "annotated_agenda",
+  "body": "Berkeley City Council",
+  "meeting_date": "2020-12-15",
+  "meeting_label": "regular",
+  "publisher": "City of Berkeley — City Clerk",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2020-12-15",
+  "document_date": "2020-12-15",
+  "file": "L0/annotated-agendas/bcc-2020-12-15-regular-annotated-agenda.pdf",
+  "sha256": "1ec3612a91278d4aba31a4f7d83847b39927db80833424783abc4a3487b5a520",
+  "bytes": 170585,
+  "source_url": "https://www.cityofberkeley.info/Clerk/City_Council/2020/12_Dec/Documents/12-15_Annotated_Agenda_6pm_pdf.aspx",
+  "retrieved": "2026-10-26",
+  "archived": "2026-10-26",
+  "wayback_url": "https://web.archive.org/web/20210514132643/https://www.cityofberkeley.info/Clerk/City_Council/2020/12_Dec/Documents/12-15_Annotated_Agenda_6pm_pdf.aspx",
+  "notices": [],
+  "contributed_by": "ericdf",
+  "revised_by": [
+    "bcc-2020-12-15-regular-annotated-agenda-v2"
+  ]
+}

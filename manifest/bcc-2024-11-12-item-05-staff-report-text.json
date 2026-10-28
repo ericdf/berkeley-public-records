@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-11-12-item-05-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-11-12",
+  "meeting_label": "regular",
+  "title": "Budget Referral Funding South Cove Seawall Design Project",
+  "file": "L1/staff-reports/bcc-2024-11-12-item-05-staff-report-text.txt",
+  "sha256": "a7931fbf0939b6502c2fb1e3de64a8a86cccf29757172382fbe38ed3f6e94936",
+  "bytes": 3130,
+  "derived_from": {
+    "id": "bcc-2024-11-12-item-05-staff-report",
+    "sha256": "f15c30d355e7dd35f0949662d5df769fcd123bf2f54661ed9383088167086ce5"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

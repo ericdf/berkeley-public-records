@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-09-29-item-26-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-09-29",
+  "meeting_label": "regular",
+  "title": "Referral to the City Manager to develop an updated Cross Departmental Program Plan and Strategic Asset Management Plan per the Realize Vision 2050 Plan to address the City’s Long-term Infrastructure Needs and Maintenance Schedule and Provide Semi-annual Progress Reports to City Council",
+  "file": "L1/staff-reports/bcc-2026-09-29-item-26-staff-report-text.txt",
+  "sha256": "9573443de145368cddc8574293c9270ce95721e672d48ab62c9ced8af1fd0a4d",
+  "bytes": 5261,
+  "derived_from": {
+    "id": "bcc-2026-09-29-item-26-staff-report",
+    "sha256": "b675cf9c5763c4386f22cfa8e7c4b0fc9765d75572bb7dd47b4ed254be9c5aa7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-16"
+}

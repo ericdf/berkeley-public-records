@@ -755,6 +755,35 @@ class TestIngestLarge(Base):
         self.assertEqual(calls, [["rclone", "about", il.REMOTE, "--json"]])
         self.assertFalse(os.path.exists(os.path.join(self.root, "manifest", p["entry"]["id"] + ".json")))
 
+    def test_verify_ia_falls_back_to_the_storage_server(self):
+        staging = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, staging)
+        p = il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(BIG), today="2026-10-01")
+
+        def run(cmd, check=True, cwd=None, **kw):
+            if drive_about(cmd):
+                return drive_about(cmd)
+            if cmd[:2] == ["rclone", "copyto"] and cmd[2].startswith(il.REMOTE):
+                shutil.copy(p["staged"], cmd[3])
+        with contextlib.redirect_stdout(io.StringIO()):
+            il.execute(self.root, p, run=run, today="2026-10-01")
+        with open(p["staged"], "rb") as f:
+            data = f.read()
+        server = "https://ia600000.us.archive.org/2/items/x/" + p["entry"]["id"] + ".pdf"
+
+        def stream(url):
+            if url.startswith("https://archive.org/download/"):
+                raise OSError("HTTP Error 404: Not Found")
+            yield data
+        old = il.ia_server_url
+        il.ia_server_url = lambda item, path: server
+        try:
+            url = il.verify_ia(self.root, p["entry"]["id"], stream=stream, today="2026-10-02")
+        finally:
+            il.ia_server_url = old
+        self.assertEqual(url, server)
+        self.assertEqual(self.entry(p["entry"]["id"])["blob"]["copies"][0]["verified"], "2026-10-02")
+
     def test_verify_ia_refuses_a_mismatched_copy(self):
         staging = tempfile.mkdtemp()
         self.addCleanup(shutil.rmtree, staging)
@@ -775,8 +804,13 @@ class TestIngestLarge(Base):
         def offline(url):
             raise OSError("404")
             yield b""
-        with self.assertRaisesRegex(il.Problem, "may not be public yet"):
-            il.verify_ia(self.root, p["entry"]["id"], stream=offline)
+        old = il.ia_server_url
+        il.ia_server_url = lambda item, path: None                 # no network in tests
+        try:
+            with self.assertRaisesRegex(il.Problem, "may not be public yet"):
+                il.verify_ia(self.root, p["entry"]["id"], stream=offline)
+        finally:
+            il.ia_server_url = old
 
     def test_refuses_to_upload_when_the_branch_exists(self):
         staging = tempfile.mkdtemp()

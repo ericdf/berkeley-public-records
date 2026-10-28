@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2022-12-13-special-item-02-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2022-12-13",
+  "meeting_label": "special",
+  "title": "Grant Contracts with the State Coastal Conservancy to receive the FY2022 State Budget Allocation of $15 Million for improvement projects at the Berkeley Waterfront",
+  "file": "L1/staff-reports/bcc-2022-12-13-special-item-02-staff-report-text.txt",
+  "sha256": "2f6ad20b5f7b3ecab394e4b7aad9d9e05374207463fd67b58e5e4e381c565593",
+  "bytes": 16947,
+  "derived_from": {
+    "id": "bcc-2022-12-13-special-item-02-staff-report",
+    "sha256": "23eb0ee1026b2573ca30870d3498a1d3bb81d470a9457ebf90a5aaad803dd600"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

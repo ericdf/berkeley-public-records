@@ -1,0 +1,22 @@
+{
+  "id": "council-rules-2019-11-19-city-council-rules-of-procedure-and-order-revisions-supplemental-text",
+  "layer": "L1",
+  "doc_type": "council_rules_document_text",
+  "collection": "council_rules",
+  "meeting_date": "2019-11-19",
+  "title": "City Council Rules of Procedure and Order Revisions — Supplemental Agenda Material for Supplemental Packet 2, submitted by Councilmember Hahn",
+  "file": "L1/sources/council_rules/council-rules-2019-11-19-city-council-rules-of-procedure-and-order-revisions-supplemental-text.txt",
+  "sha256": "8056d1d81819472c7c25ed84fd395b3e27f333f32756b509e05e954aab189f94",
+  "bytes": 156531,
+  "derived_from": {
+    "id": "council-rules-2019-11-19-city-council-rules-of-procedure-and-order-revisions-supplemental",
+    "sha256": "ab2b15de9fdb278bf5d89174c151be8dd20c69f1926579bc310d4c2e40b68897"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

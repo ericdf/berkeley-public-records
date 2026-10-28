@@ -1,0 +1,23 @@
+{
+  "id": "parks-recreation-and-waterfront-commission-2026-03-11-item-09-draft-minutes-text",
+  "layer": "L1",
+  "doc_type": "agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Parks, Recreation and Waterfront Commission",
+  "meeting_date": "2026-03-11",
+  "title": "Parks, Recreation, and Waterfront Commission — Regular Meeting, Wednesday, March 11, 2026 — Minutes - Draft (with attachments)",
+  "file": "L1/staff-reports/parks-recreation-and-waterfront-commission-2026-03-11-item-09-draft-minutes-text.txt",
+  "sha256": "11892776cef899624e6bf643002d1059905cfc32e95e79efa7da013b63658100",
+  "bytes": 48343,
+  "derived_from": {
+    "id": "parks-recreation-and-waterfront-commission-2026-03-11-item-09-draft-minutes",
+    "sha256": "bae4370b5098e6ebf7fe1f17d258fe303ce1b5e7d8c442c20d7490f138c5f58a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

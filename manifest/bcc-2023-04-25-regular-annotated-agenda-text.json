@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2023-04-25-regular-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2023-04-25",
+  "meeting_label": "regular",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2023-04-25",
+  "file": "L1/annotated-agendas/bcc-2023-04-25-regular-annotated-agenda-text.txt",
+  "sha256": "1b489b551207a4023f574d4f8cd2c791994d69affa581c1b4c6477d73bec77a7",
+  "bytes": 32208,
+  "derived_from": {
+    "id": "bcc-2023-04-25-regular-annotated-agenda",
+    "sha256": "ac8329ae211fb49ec92f9e5e9374312acd597115e113819c77d82389d4403f16"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

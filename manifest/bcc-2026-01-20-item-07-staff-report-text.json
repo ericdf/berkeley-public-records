@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-01-20-item-07-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-01-20",
+  "meeting_label": "regular",
+  "title": "Contract: Bauman Landscape and Construction, Inc. for Adeline Street Landscaping Improvements Project",
+  "file": "L1/staff-reports/bcc-2026-01-20-item-07-staff-report-text.txt",
+  "sha256": "60b46233fa7d7224d5615b430cfae0b1d5fe86451bf4b52105a65584feb629f8",
+  "bytes": 8479,
+  "derived_from": {
+    "id": "bcc-2026-01-20-item-07-staff-report",
+    "sha256": "89511b8142104a6177b089b258081d7013356baaac41397a05c6bb508eb1ce6c"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

@@ -1,0 +1,2357 @@
+1
+Acknowledgements
+
+This document was prepared by Harris & Associates and City of Berkeley’s Parks, Recreation, and
+Waterfront and Public Works staff. Graphics were prepared by MIG, Inc.
+
+We would like to thank the Parks and Waterfront and Public Works Commissions for providing
+feedback.
+Table of Contents
+1.     Purpose and Scope .............................................................................................................. 1
+2.     Program Description ............................................................................................................ 1
+     2.1.    Background ......................................................................................................................... 1
+     2.2.    Program Phasing Schedule .................................................................................................. 3
+     2.3.    Requirements, Limitations, and Restrictions ....................................................................... 3
+     2.4.    Program Projects ................................................................................................................. 6
+     2.5.    Program Project Schedules.................................................................................................. 6
+3.     Program Management Team Organization .......................................................................... 6
+     3.1.    T1 Management Team ........................................................................................................ 6
+     3.2.    T1 Financial Team................................................................................................................ 7
+     3.3.    T1 Project Management Staff ............................................................................................. 7
+4.     Program Management......................................................................................................... 8
+     4.1.    Budgeting ............................................................................................................................ 8
+     4.2.    Project Selection and Prioritization ..................................................................................... 9
+     4.3.    Project Sequencing ............................................................................................................ 13
+     4.4.    Program Controls .............................................................................................................. 14
+     4.5.    Program Change Management ......................................................................................... 19
+     4.6.    Document Control ............................................................................................................. 20
+     4.7.    Communications ................................................................................................................ 21
+5.     Project Management ......................................................................................................... 23
+     5.1.    Project Roles and Responsibilities ..................................................................................... 23
+     5.2.    Project Control ................................................................................................................... 24
+     5.3.    Project Change Management ........................................................................................... 25
+     5.4.    Community Engagement and Communications................................................................ 27
+
+Appendices
+Appendix A. Strikeout/Underline Revisions to Measure T1 Bond Policies and Procedures Manual
+(January 2019)
+
+
+
+
+                                                                         i
+1. Purpose and Scope
+  The purpose of the Measure T1 Bond Policies and Procedures Manual is to provide clear and
+  concise guidelines on the management of T1 funds. The manual is intended to document
+  program goals and performance metrics, program management structure and processes,
+  project management guidelines, bond requirements and restrictions, and expenditure control
+  policies and procedures. This Manual is expected to improve the understanding of policies
+  and procedures by staff and the community, and help prepare the City for future audits.
+
+  The Manual is intended to be updated to reflect needed clarifications or current best
+  practices. The responsibility for keeping the Manual current and sensitive to Program
+  requirements belongs to the T1 Management Team. This is Version 02 of the Manual; a
+  comparison of Version 02 to the original Manual is included in Appendix A.
+
+
+2. Program Description
+  The following section provides background on the Measure T1 program, an overview of the
+  implementation schedule, and a brief description of general requirements, restrictions, and
+  limitations.
+
+  2.1. Background
+       In May 2016, City Council resolved to place a General Obligation (GO) bond to fund the
+       repair, renovation, replacement, or reconstruction of the City’s existing infrastructure
+       and facilities before the voters at the following November General Municipal Election
+       (Resolution No. 67,522-N.S.). The resolution identified the significant need to fund
+       necessary improvements so that the public can continue to benefit from the use of City
+       infrastructure and facilities. The City’s existing funds and funding sources are
+       inadequate to pay for the necessary improvements.
+
+       2.1.1. Existing City Infrastructure and Facilities
+              The Departments of Public Works (PW) and Parks, Recreation & Waterfront
+              (PRW) are jointly responsible for managing, maintaining, and upgrading an
+              extensive portfolio of community-serving capital assets and infrastructure.
+
+              PW operates, maintains, and manages 56 facilities, including fire stations; senior
+              centers; police stations, buildings dedicated to the delivery of health services;
+              facilities that support City government operations and other City-owned
+              property such as public garages. PW is also responsible for maintaining other
+              City infrastructure such as: approximately 325 retaining walls, bridges, tunnels,
+
+
+
+                                              1
+       culverts and other miscellaneous non-building structures within the public right
+       of way and easements; 254 miles of public sanitary sewer mains and 130 miles of
+       public sewer laterals; 300 miles of concrete sidewalks; a storm drain system
+       containing 78 miles of underground pipes, manholes, catch basins, and cross
+       drains; and 216 miles of City streets and related facilities such as traffic signals
+       and street lights.
+
+       PRW operates, maintains and manages 54 parks, five community centers, two
+       pools, three resident camps, and approximately 15 sports fields, 49 sports
+       courts, 63 play areas, 36 picnic areas, 33,000 street and park trees, 124 street
+       medians, 263 street irrigation systems, and 29 restrooms and out buildings. PRW
+       is also responsible for maintaining related infrastructure such as water and
+       irrigation systems, sewer laterals, storm drain systems, electric conduits and
+       lighting, trails, pathways, and parking lots. In addition, PRW operates and
+       maintains the Berkeley Waterfront and resident camps and its related facilities,
+       such as docks, piers, parking lots, trails, 1,000 boat berths and other
+       infrastructure and buildings, including the Nature Center, Adventure Playground,
+       office buildings, and restaurants.
+
+       The City’s existing infrastructure and facilities provide important and critical
+       services to the public. These facilities and services require significant resources
+       to repair and maintain for ongoing public benefit.
+
+2.1.2. Bond Inception and Authorization
+       In November 2016, a proposed $100 Million dollar GO bond to repair, renovate,
+       replace, or reconstruct the City’s aging infrastructure and facilities, including
+       sidewalks, storm drains, parks, streets, senior and recreation centers, and other
+       important City facilities and buildings, was placed before Berkeley voters as
+       Measure T1. Measure T1 passed with 86.5% of the vote, and the residents of the
+       City of Berkeley authorized the City to incur bonded debt and issue a GO bond
+       (Resolution No. 67,795-N.S.).
+
+       In June 2017, City Council adopted the first set of projects for implementation in
+       phase one of Measure T1 to help address the significant and growing unfunded
+       infrastructure needs (Resolution No. 68,076-N.S.). These bond-funded capital
+       projects were added to the City’s overall Capital Improvement Program.
+
+
+
+
+                                        2
+                       In October 2017, City Council authorized the first sale of GO bonds, which
+                       totaled $35 Million for phase one (Resolution No. 68,199-N.S.). The GO bonds
+                       were sold in November 2017. In April 2021, City Council authorized the second
+                       series of bonds under the 2016 authorization, and sold an additional $45 Million
+                       in GO bonds for phase two (Resolution No. 69,832-N.S.). The GO bonds were
+                       sold in May 2021. It is expected that the third and final tranche of T1 GO bonds
+                       will be issued in November 2022.
+
+      2.2. Program Phasing Schedule
+             Measure T1 projects are anticipated to be performed in two phases spanning a total of
+             nine years (Figure 1). This enables the City to evenly distribute workload over time and
+             allows significant time for public input. Each phase includes a robust public project
+             selection process, City Council review and approval of projects, and a bond sale.
+
+
+
+
+     Figure 1: Measure T1 Program Schedule including Key Phases and Milestones
+
+      2.3. Requirements, Limitations, and Restrictions 1
+             The City is empowered under Article 4.5 of Chapter 3 of Part 1 of Division 2 of Title 5 of
+             the Government Code of the State of California (the “Bond Law”) to issue general
+             obligation bonds that are authorized by two-thirds of the electors voting on the
+             proposition. The bonds are payable as to both principal and interest from the proceeds
+             of the levy of ad valorem taxes on all property subject to such taxes in the City
+             (Resolution No. 68,199- N.S.).
+
+
+1   Unless otherwise noted, source is: City of Berkeley, Report to Council, “Recommendations for allocating and managing Measure
+    T1 General Obligation Bond funds,” Office of the City Manager, December 22, 2016.
+
+
+                                                                3
+2.3.1. Projects and Goals
+       As stated in the bond language (Resolution No. 67,522-N.S.), the proceeds of the
+       bonds sold shall be used to fund the improvements and functional art integrated into
+       the improvements. Improvements are defined as the City’s existing infrastructure and
+       facilities that are in need of significant repair, renovation, replacement, or
+       reconstruction so that the public can continue to benefit from them.
+
+       Existing infrastructure critical to protecting public safety and welfare and
+       enabling the residents of Berkeley to have a high quality of life include, but are
+       not limited to:
+
+             •   Streets and sidewalks which provide for transportation and accessibility
+                 for both the general public and public safety personnel
+             •   Storm drains and green infrastructure projects which protect the public
+                 from flooding and improve the quality of runoff into San Francisco Bay
+             •   Senior Centers which provide important services for the City’s seniors,
+                 including educational courses, activities, social support, and meals. In
+                 emergencies, Senior Centers can also serve as local care and shelter
+                 facilities for all members of the community
+             •   Parks and recreation community centers and facilities which provide
+                 recreational, educational and social opportunities, and support for
+                 children and families. In emergencies, Community Centers can also serve
+                 as local care and shelter facilities for all members of the community
+             •   The City’s public buildings and other facilities, which are both important
+                 cultural resources in themselves and provide public services to the
+                 residents of Berkeley
+
+     In Resolution 67,795-N.S., Council resolved that 1% of bond proceeds shall be
+     available for functional art integrated into T1-funded improvements, as and to the
+     extent determined by City Council.
+
+
+
+
+                                        4
+2.3.2. Expenditure Timing Requirement
+       Bond proceeds are not to be used so as to cause the bonds to be “arbitrage
+       bonds.” Under federal tax law, for each Measure T1 phase, the City must have a
+       reasonable expectation of spending at least 100% of bond proceeds within five
+       years of the sale. If 100% is not spent, there are two consequences:
+
+             •   The unspent project funds must be yield-restricted, i.e. invested at a
+                 rate that generates less than the bond yield; and
+             •   If the City’s bonds are audited, and the Federal Internal Revenue
+                 Service (IRS) determines that the City did not have a reasonable
+                 expectation at the time bonds were sold, that it could spend 100%
+                 within five years, then the IRS could conclude that interest on the
+                 bonds is taxable, which could require a payment by the City to the IRS.
+
+2.3.3. Staffing and Overhead Costs and Limitations
+       Bond proceeds may be used for labor (staff costs) to work on projects, and
+       associated facility costs (such as rent and utilities), equipment, services and
+       supply costs, but not for purely “community process” efforts. For example, a
+       bond-funded project manager is not prohibited from talking to residents or
+       attending meetings, but funds should not be used to hire consultants to facilitate
+       general public outreach. Bond funds may be used to pay administrative costs
+       (including staff time) directly related to bond-funded projects.
+
+2.3.4. Private Activity Bond Limitation
+       Bond proceeds are not to be used so as to cause the Bonds to satisfy the private
+       business tests of Section 141(b) of the Federal Tax Code or the private loan
+       financing test of Section 141(c) of the Federal Tax Code.
+
+2.3.5. Leased Property Restriction
+       Bond proceeds may only be spent for the improvement of real property with
+       “municipal improvements” as defined in BMC Section 7.64.020. Expenditures are
+       limited to property owned or leased by the City. Thus, bond funds may not be
+       spent to improve real property that is not owned or under a long-term lease by
+       the City. For example, properties owned by the school district that are not under
+       a long-term lease with the City are not eligible.
+
+
+
+
+                                       5
+  2.4. Program Projects
+       Eligible projects are selected as described in Section 4.2 Project Selection and
+       Prioritization. The project selection process includes staff analysis and recommendation,
+       commission review, community input, and City Council approval. See Section 4.5
+       Program Change Management for policies and procedures regarding changes to the list
+       of approved projects.
+
+  2.5. Program Project Schedules
+       Approved T1 Projects are scheduled over each phase of Measure T1 to balance
+       workload and effort into the City’s established capital improvement program. The
+       length of the planning, design, and construction phases of each project are taken into
+       consideration to estimate the life of each project. The construction phase is scheduled
+       to minimize disruption to the public as City services and facilities are removed from
+       service to undergo renovations. Projects are scheduled with the expectation of spending
+       at least 100% of the total bond amount within five years of the sale of the bond.
+
+
+3. Program Management Team Organization
+  The following section provides a general overview of the T1 Program Management Team.
+
+  3.1. T1 Management Team
+       The T1 Management Team, shown in Figure 2 below, is responsible for implementing
+       the projects funded through Measure T1, including project planning, resourcing, and
+       management. The T1 Management Team is comprised of the PW and PRW Directors,
+       Deputy Directors, the Manager of Engineering, Senior Management Analysts, Fiscal
+       Managers, and Supervising Civil Engineers. This team is supported by the T1 Associate
+       Management Analyst. Responsibilities include meeting regularly to review the Measure
+       T1 budget, expenditures, project progress, and to prepare detailed reports for Council,
+       commissions, and the community about how Measure T1 funds are being expended.
+
+
+
+
+                                              6
+                   Figure 2: Measure T1 Team Organization
+
+3.2. T1 Financial Team
+    The T1 Financial Team is a subset of the T1 Management Team consisting of the T1
+    Associate Management Analyst, Fiscal Managers, and Analysts from the Public Works and
+    the Parks, Recreation and Waterfront Departments. This team meets regularly regarding
+    the overall program budget, expenditures, and administration of the bond program.
+
+3.3. T1 Project Management Staff
+    T1 Project Management Staff consist of various staff from within the Public Works and
+    the Parks, Recreation & Waterfront Departments. Full-time equivalent (FTE) employees
+    will be allocated to manage Measure T1 projects based on personnel expertise and
+    project timelines. The FTEs are comprised of the Supervising Civil Engineers, Associate
+    Civil Engineers, Assistant Engineers, Inspectors, and others who are directly responsible
+    for managing or facilitating Measure T1 projects.
+
+    Five FTEs were allocated to the Measure T1 Program in total, currently spread across 11
+    staff in the PW and PRW departments. The T1 Associate Management Analyst position
+    accounts for one FTE. The number of staff allocated to Measure T1 may change over
+
+
+                                           7
+             time as the number of active and planned projects change, including during the onset
+             and outset of subsequent phases.
+
+             As with all Measure T1-related costs, staff charges to Measure T1 will be based on
+             actual time worked on Measure T1 projects. Labor costs for all other administration,
+             such as Directors, Deputy Directors, other managers, departmental payroll, purchasing,
+             budget staff, and other City-wide support services like IT, Human Resources, and
+             Finance are not billed to Measure T1.
+
+
+4. Program Management
+      The following section describes the processes and methods for managing the Measure T1
+      Program, including financial and technical controls, coordination, and communication.
+
+      4.1. Budgeting
+             The purpose of this section is to define how the T1 Management Team will develop
+             budgets for Measure T1 costs. The $100 Million total funds will be allocated to projects
+             in two phases. The budgets for each phase are created in the following sequence:
+
+                             1. The Finance Department and Bond Counsel determines the total
+                                budget for the phase based on bond sales. The bond sales limit “is set
+                                by the terms of the bond program, which requires that the upper limit
+                                of bond sales cannot exceed the total debt covered by the current 10-
+                                year average tax rate for a Berkeley resident.” 2 The limit is determined
+                                at the time of sale for each phase of the program.
+                             2. Per Resolution 67,795-N.S., Council resolved that 1% of bond proceeds
+                                shall be available for functional art integrated into Measure T1-funded
+                                improvements. These proceeds are set aside before the T1
+                                Management Team allocates the available budget to projects, staffing,
+                                facilities, equipment, supplies, and services based on the results of the
+                                project selection process (see Section 4.2).
+
+             Interest income from investing the bonds may become part of the total Measure T1
+             budget, as determined by the Finance Department. Any changes in the T1 budget for
+             approved projects are reviewed and approved by the T1 Management Team.
+
+
+
+
+2   Measure T1 Bi-Annual Update Report, November 7, 2017, Page 5-6.
+
+
+                                                             8
+      4.2. Project Selection and Prioritization
+             The purpose of this section is to document the process by which projects have been selected
+             and prioritized for the Measure T1 Program. This process was carried out separately for each
+             phase as described in the Program Phasing Schedule in Section 2.2. The extensive project
+             selection and prioritization process for each phase took about two years, including bond
+             requirements and considerations, City Council guidance, and community input.
+
+             4.2.1. Project Selection Criteria
+             The following criteria were utilized for project selection and prioritization for each phase.
+
+               Table 1: Measure T1 Project Selection and Prioritization Considerations 3
+                        Criteria                     Description
+                       Greatest Benefit             Project provides impact to the greatest number of Berkeley
+                                                     residents.
+                       Equity                       Criteria applied after looking at full list of projects. Consideration
+                                                     of geographic and demographic distribution of projects.
+                       Health, Safety, and          Project addresses public health and safety, such as improvements
+                        Resilience                   for disaster preparedness and emergency response.
+                       Environmental                Project improves water quality, has elements of green
+                        Sustainability/              infrastructure, or also includes energy, climate, or other zero waste
+                        Durability                   goals. Project uses durable elements or technologies that may
+                                                     lower long-term cost.
+                       Project Readiness            Consideration of projects that are already underway or already
+                                                     shovel-ready.
+                       Leveraging Other Funds       Project utilizes other funding sources.
+                       Feasibility                  Consideration of the following:
+                                                       a) The ability to complete a project/sequencing: project does not
+                                                           have any known barriers, such as site conditions, funding, or
+                                                           permitting issues, that will substantially delay or prevent
+                                                           completion of the project.
+                                                       b) Renovating infrastructure before end of useful life to avoid
+                                                           larger expense or closure of amenity.
+
+
+             4.2.2. Project Selection Process
+             The project selection process resulted in a set of projects that met the criteria listed
+             above to the extent possible, were vetted by the community and commissions, and
+             were approved by City Council.
+
+             The project selection sequence is shown in Figure 3 and discussed in detail below.
+
+
+3   City of Berkeley City Council Consent Item #4, January 31, 2017 and Resolution 67,666-N.S., September 13, 2016.
+
+
+                                                                 9
+                Figure 3: Measure T1 Project Selection Sequence
+
+Step 1: Staff Analysis
+The T1 Management Team provided cost estimates of potential projects to provide to
+the commissions and community during the public process to facilitate discussions to
+determine the support, wants, needs, and priorities of the public for implementation in
+Measure T1. In addition, the T1 Management Team accepted feedback through the T1
+website and email address.
+
+The PW and PRW departments have reported significant unfunded infrastructure and
+facility needs. Based on these reports and public input received, the T1 Management Team
+prepared a list of priority projects. The list was organized by infrastructure type and in
+conjunction with the City’s overall capital improvement programs. The T1 Management
+Team solicited preliminary input from City commissions and other City departments to
+provide a broad list of project options. At a minimum, the T1 Management Team provided
+the following information about each project, as applicable:
+
+            •    Name
+            •    Infrastructure Type
+            •    Brief Scope
+
+
+                                       10
+            •   Phase (conceptual, design, construction)
+            •   Cost Estimate
+            •   Timeframe
+
+Projects were defined as a Conceptual, Design, or Construction project. Conceptual
+projects focus on public processes, feasibility studies and analyses that culminate in a
+preferred project plan and cost estimate. These projects will be ready for the design
+and construction phase when funding is identified. Design projects include public
+process, design, permits and bid package, and are intended to produce shovel-ready
+projects for a later phase of T1 funding, grant funding, or other funding. Construction
+projects will be entirely designed and built.
+
+The initial list of projects represented a cost significantly greater than the Measure T1
+funding available. However, the list comprised a set of options from which all
+stakeholders were able to select a final set of recommended options.
+
+Step 2: Community Input Process and Analysis
+City staff along with PW and Parks and Waterfront (P&W) Commissions jointly
+facilitated a robust community engagement process that included the public and
+participating commissions. Their recommendations were submitted to City Council. The
+purpose of this process was to receive input on:
+              • Project priorities from a wide range of community members
+              • How best to balance the wide range of projects needs that are eligible
+                 to be funded by Measure T1
+              • How best to equitably distribute the benefits of Measure T1
+
+The Community Input Process is outlined below. For both phase one and phase two, the
+process was highly successful in terms of gaining broad community participation and
+support. However, additional public engagement was desired for phase two, even though
+the second phase took place during the height of the COVID-19 stay-at-home orders.
+
+To increase public participation in phase two, staff and Lead Commissions led a two-
+year public process including over two dozen virtual community meetings that were
+held utilizing Zoom Meetings. This allowed for more meetings and also a higher
+number of participants at many of the meetings. The end result was a significantly
+higher level of community engagement during the phase two Project Selection Process.
+
+
+
+
+                                       11
+2a. Commissions Review – The PW and P&W Commissions serve as the lead
+commission for the Measure T1 Program. They reviewed the initial set of projects
+from Step 1 and finalized the community engagement process that included
+additional commissions. The commissions jointly documented the process used to
+engage the community in the final report to City Council.
+
+2b. Staff and Commission Collaboration – Staff worked with the lead commissions
+to develop a proposed project list.
+
+2c. Participating Commissions Input – The lead commissions (PW and P&W)
+sought input from other participating commissions in order to make an informed
+decision about the proposed projects. Participating commissions provided
+feedback by sending a commission representative to one of the lead commissions,
+delegating City staff who attended their commission meetings to provide their
+comments to one of the lead commissions, or providing written comments to the
+lead commissions.
+
+The following commissions participated in the Measure T1 phase one and phase
+two Input Processes: Children, Youth, and Recreation Commission; Civic Arts
+Commission; Commission on Aging; Commission on Disability; Community
+Environmental Advisory Commission; Disaster & Fire Safety Commission; Energy
+Commission; Housing Advisory Commission; Landmarks Preservation Commission;
+Transportation Commission; and the Zero Waste Commission.
+
+2d. Public Meetings
+The lead commissions and staff facilitated community meetings organized by the
+specific type of infrastructure – for example, facilities, streets, green
+infrastructure, and parks.
+
+The community input gathered at these meetings, as well as that submitted via
+email (T1@CityofBerkeley.info), was compiled by staff for consideration by the
+commissions and staff in developing the final list of recommended projects that
+were presented and approved by City Council.
+
+2e. Staff and Commissions Review
+The lead commissions and staff reviewed input gathered from the community and
+finalized a proposed list of projects.
+
+
+
+
+                                12
+         2f. Preparation of Staff and Commissions Recommendations to City Council
+         After collecting the full set of community input, the PW and P&W Commissions
+         jointly prepared a report to City Council describing:
+
+                •   Overview of the selection process, including the community
+                    engagement process
+                •   Recommendations for projects to be included
+                •   Brief justifications for each selection organized by type of project
+                •   Prioritization of selected projects
+                •   Recommendations
+
+     Step 3: City Council Review
+     City Council considered the proposed projects and adopted a resolution approving a
+     final list of projects.
+
+4.3. Project Sequencing
+    Under federal tax law, 100% of bond funds must be spent in five years. Projects are
+    sequenced to meet this requirement. The purpose of this section is to describe the
+    process for sequencing the projects for each phase. The key factors that determine
+    project sequencing include, but are not limited to:
+
+                •   Grants and alternate funding timeline requirements – Projects that
+                    receive grant funds will have additional requirements that may require
+                    additional deadlines, reporting, and coordination.
+                •   Reducing construction impacts to residents – The goal is to deliver
+                    construction projects in a sequence that reduces overall disruptions to
+                    City services.
+                •   Coordination with outside agencies – Some projects may require
+                    coordination and permitting with regional agencies such as East Bay
+                    Municipal Utility District, the California Department of Transportation
+                    (Caltrans), East Bay Regional Parks District, and/or the San Francisco
+                    Bay Conservation, and Development Commission.
+                •   Coordination with other City departments – Some projects may require
+                    coordination, permit, review, or approval from other City departments
+                    or City entities, such as Civic Arts, Landmarks, Building and Planning
+                    Department, IT, etc.
+                •   Construction timeline – Some projects may have specific timelines for
+                    construction, such as work needed during dry weather or low tide.
+
+
+                                          13
+    The T1 Management Team will assess the project timelines as projects are developed
+    over the course of the selection process according to the key factors listed above.
+
+4.4. Program Controls
+    The purpose of this section is to document a set of program controls that enable the T1
+    Management Team and the public to track progress of the program and make informed
+    course corrections as conditions change over the course of program implementation.
+
+    4.4.1. Program Performance Tracking
+           Key performance indicators are useful for progress reporting as well as
+           improving performance over time. These indicators will describe how the T1
+           Team can monitor progress against targets at the program level. Clearly
+           presenting the progress achieved by using Measure T1 funds is important to
+           demonstrate the value of the program to the public.
+
+           4.4.1.1. Program Schedule Report
+                    The T1 Management Team coordinates with the public as needed in order
+                    to deliver projects within the Program Schedule. Staff may prepare a
+                    program-level schedule displayed in six-month increments. The T1
+                    Management Team updates City Council by including the schedule in its
+                    bi-annual reports and a brief discussion of relevant issues that arise.
+
+           4.4.1.2. Program Performance Indicators (Expenditures)
+                    The T1 Administrative Team will meet at least monthly to review
+                    program/project budgets and expenditures against projected
+                    expenditures. These reviews will include tracking the initial
+                    program/project budget, current year expenditures, current year
+                    encumbrances, and planned expenditures for each of the remaining
+                    years of the phase to calculate the projected expenditures for the full
+                    phase. They will also include information such as available and spent
+                    bond funds and City Council approved amounts to track the projected
+                    expenditures against these amounts. Total changes in T1 allocations to
+                    each project will also be tracked.
+
+
+
+
+                                          14
+     Table 2: Measure T1 Key Program Performance Indicators
+        Year to date expenditures against budget
+        Year to date encumbrances against budget
+        Planned expenditures against budget
+        Percent projects complete
+        Project to date expenditures and encumbrances against budget
+
+
+4.4.2. Project Estimating Guidelines
+       It is important to define how cost estimates are developed for projects. Cost
+       estimates become more precise as a project shifts from conceptual planning, to
+       design, and then to construction.
+
+       4.4.2.1. Conceptual Planning Phase Estimates
+                The Project Manager prepares project cost estimates at the initial phase
+                of a project. The cost estimates are based on recent projects of a similar
+                nature and modified for anticipated changes in the costs such as
+                inflation. The project contingency percentage at this stage of
+                development can be up to 50% of the overall project cost.
+
+       4.4.2.2. Design Phase Estimates
+                Project Managers may contract with a Design Consultant who will prepare
+                a detailed cost estimate based on the developing parameters of the design.
+                The cost estimate is reviewed by the Project Manager and Supervising Civil
+                Engineer. The Design Consultant typically prepares a cost estimate at each
+                submittal (such as 35%, 65%, 95% and Final). The project contingency
+                percentage declines as design is developed and can be reduced to as low as
+                10% at final design stage. Final design stage cost estimates are used to
+                finalize base bid scopes and identify additive alternates to the project.
+
+       4.4.2.3. Bid Estimates and Construction Bid Results
+                Construction bid documents are planned to include both base bid
+                minimum scope and additive alternates to meet the identified project
+                budget. When construction bids are received, the construction bids shall
+                be reviewed by the T1 Management Team to confirm the construction
+                budget and to make a recommendation for the amount of construction
+                contingency (typically up to 20% of construction). If the construction bids
+                received differ from the identified project budget, the T1 Management
+                Team will decide on alternative courses of action (see Section 4.5).
+
+
+                                       15
+             4.4.3. Procurement
+                    Procurements that relate to Measure T1 must follow the City’s Purchasing Manual
+                    and procurement standards and guidelines, 4 which are summarized below.
+
+                       4.4.3.1. Facility, Equipment, Services, and Supplies (FESS)
+                                The T1 Associate Management Analyst will submit purchase orders for
+                                items that relate to the management and administration of Measure T1.
+                                These costs will be assigned to the Measure T1 FESS budget code. The
+                                FESS budget is prepared for each phase and is reviewed annually.
+
+                       4.4.3.2. Consultant Selection and Contracting Process
+                                Projects that are in the concept and design phase are typically carried
+                                out through on-call contracting arrangements. Architectural,
+                                engineering, and construction management work is typically (though not
+                                exclusively) carried out through on-call contracts.
+
+                                 On-call contracts are solicited through a Request for Qualifications (RFQ).
+                                 Project-specific proposals are then submitted and approved by task order.
+                                 Due to the time constraints of each phase, T1 staff will use these on-call
+                                 consultants to expedite the contract process whenever possible.
+
+                                 Project-specific Requests for Qualifications or Requests for Proposals
+                                 may be used for projects requiring specific expertise.
+
+                       4.4.3.3. Construction Procurement Process
+                                Purchases above $25,000 require a formal Request for Proposal
+                                (“RFP”)/Invitation for Bid (“IFB”) process and will be awarded to the
+                                lowest responsive and responsible bidder per the California Public
+                                Contract Code. The City Manager has the authority to approve
+                                construction projects with a value under $200,000. Projects with a value
+                                greater than $200,000 require City Council approval.
+
+                                 If the construction bid is within the project budget, the proposal shall be
+                                 reviewed for completeness, responsiveness, price, contractor’s
+                                 experience and qualifications, and if applicable, will then be brought to
+                                 City Council for approval to award the contract.
+
+
+4   City of Berkeley Purchasing Manual, 2015.
+
+
+                                                        16
+4.4.4. Cost Accounting
+       The T1 Administrative Team maintains records for the Measure T1 program
+       budget and costs as shown below.
+
+      4.4.4.1. Labor Costs
+               Approximately five full-time equivalent (FTE) staff-hours have been
+               assigned to support the implementation of Measure T1. This includes
+               one full-time (FTE) Associate Management Analyst. The remaining staff
+               time equivalent to four FTEs are allocated to the Parks, Recreation and
+               Waterfront and Public Works staff that directly manage Measure T1
+               projects. The FTE and percentage of total time allocated to each
+               individual supporting Measure T1 projects are estimated on an annual
+               basis. The T1 Administrative Team monitors and updates staff FTE if
+               necessary to ensure that the departments are within their four FTE
+               budget. With the exception of the T1 Associate Management Analyst
+               and the Supervising Civil Engineers, labor costs for the T1 Management
+               Team and the T1 Administrative Team will not be billed to Measure T1.
+               Project staff time allocations are done through the City’s standard
+               procedures process. See specific guidance below:
+
+              Direct Project Management Time Allocations
+              Applies to: All Project Managers
+              The amount of time that staff allocate on their timecard is based on the
+              proportion of time each one works on a Measure T1 project. For project-
+              specific work (i.e. direct project management), all time is coded to a
+              specific Measure T1 project code.
+
+              For example, if a Project Manager is directly managing a T1 project and
+              has a project update meeting with a construction contractor that is
+              directly managing that project, the Project Manager would code the
+              meeting time to that project’s Measure T1 project code.
+
+              Unallocated Staff Time
+              Applies to: All T1 Staff
+              Unallocated staff time refers to staff time that is not charged to a project
+              code due to general office activities, meetings, training, and time off.
+
+
+
+
+                                      17
+        In the City’s financial system, an employee’s payroll default is based on
+        the proportion of time the employee is estimated to work on certain
+        projects. This default is used to ensure that unallocated staff time, such
+        as leave time, is charged based on the employee’s work allocation.
+
+        For example, an employee is anticipated to spend 30% of their time on
+        projects funded by Measure T1 and 70% on projects funded by other sources.
+        When the employee uses their vacation or sick time, this leave time will be
+        charged at 30% to Measure T1 and 70% to the other funding sources.
+
+        Supervision/ Administration/ Planning
+        For non-specific Measure T1 project work, such as Measure T1 meetings
+        and supervision of Project Managers, staff time should be project coded
+        to the assigned project code for supervision/administration/planning.
+
+        For example, if a Supervising Civil Engineer has a meeting on a Measure T1
+        project that they are not the Project Manager of, they should charge their
+        supervision time to the assigned project code for
+        supervision/administration/planning. The project manager of that Measure
+        T1 project should code their time to the assigned Measure T1 project code.
+
+        The T1 Associate Management Analyst will always code their time to the
+        assigned supervision/administration/planning project code because the
+        position is providing general support to the overall Measure T1 program.
+
+4.4.4.2. Project Costs
+         Project costs are organized according to the individual project budgets
+         that are assigned to a specific project code. This work is largely
+         performed under contract with external parties (see Section 5 for more
+         details on contract management related to Measure T1 projects).
+
+4.4.4.3. Other Costs
+         Facility (rent and utilities), equipment, and supply costs associated with
+         carrying out Measure T1 projects are set in the budget for each phase.
+         Professional Services, training, and travel costs associated with carrying
+         out Measure T1 projects are budgeted in each phase. All of these costs
+         are billed to the assigned Measure T1 project code.
+
+
+
+
+                                18
+4.5. Program Change Management
+   The T1 Management Team is responsible for ensuring the completion of all Council-
+   approved Measure T1 projects within budget, i.e. the value of bonds sold. This involves
+   monitoring scope, cost, project schedules, and schedule for all projects and making
+   adjustments to ensure that the approved projects are completed.
+
+   As the Measure T1 Bond Program progresses, situations may arise where the initial
+   priority list established at the Program Project Selection Phase (Section 4.2) may need to
+   be re-evaluated and revised. Once the T1 Management Team is aware that they will not
+   be able to complete the list of projects, the team will discuss and evaluate next steps.
+
+   T1 staff has the ability to make changes at the project-level as long as it does not affect
+   the program level. For example, staff can reallocate underspent funds from one project
+   to another as long as it does not affect the construction of another project or reduce
+   planning and design project scopes to conceptual. Changes should be transparent and
+   summarized on project reports.
+
+   When changes need to be made at the program-level, such as adding/removing a
+   project or changing the project’s level of completion, staff will review these options with
+   the lead commissions and work with Council to discuss changes and gain approval to
+   revise the approved list (Section 4.5.2). This process is intended to ensure that any
+   change to the approved Measure T1 project list is made with community input,
+   commission oversight, and Council approval.
+
+   4.5.1. Reprioritization of Projects
+          This process of reprioritizing projects starts with staff evaluating options, then
+          discussing with lead commissions. This is important because it can start the
+          community process early enough to prevent delays in spending bond program funds.
+
+           The T1 Management Team will prepare and present the revised options for
+           reprioritizing the project list to the lead commissions for review and comment.
+           These options will be based on the Measure T1 project selection considerations
+           (see Section 4.2).
+
+           The lead commissions will engage and seek input from the community as well
+           as other commissions, as appropriate, and provide feedback to the T1
+           Management Team.
+
+
+
+
+                                           19
+            This process revises priorities, but does not change the Measure T1 project list.
+
+    4.5.2. Making Changes to the Measure T1 Project List
+          Council approval is needed to make any change to the Measure T1 project list.
+          Changes could include adding a project, removing a project, or changing the level
+          of completion from a construction project to a planning or design project.
+
+          The process for making a change to the project list is summarized in Figure 4 below.
+
+
+
+
+          Figure 4: Process for making a change to the Measure T1 Project List
+          The T1 Management Team will either receive or initiate requests to make a
+          change to the T1 Project List. The process will then be as follows:
+
+                1. The T1 Management Team will prepare and present one or more
+                   options for changing the project list or project scopes to the lead
+                   commissions for review and comment.
+                2. The lead commissions should gather public input in order to discuss and
+                   make an informed recommendation through a joint report to City
+                   Council for action.
+                3. City Council will take an action on the proposed changes.
+
+4.6. Document Control
+    The T1 Management Team maintains a set of records that relate to planning, managing,
+    and carrying out Measure T1 activities. The T1 Associate Management Analyst has
+    overall responsibility for maintaining the document control system.
+
+    4.6.1. Filing
+           Measure T1 records should be retained in accordance with the City’s Records
+           Management Program. Program documents will be stored in a central server
+
+
+
+                                           20
+           location. Project specific files are stored in a central server location separate
+           from the Measure T1 program documents.
+
+           The Measure T1 Program folder organization includes folders for the Planning
+           and Community Process, Administration, Bond Information, Budget & Planning,
+           commission documents, and projects (see Section 4.2).
+
+           The T1 Associate Management Analyst is responsible for keeping the folders up
+           to date after T1 Management Team meetings, T1 Administrative Team meetings,
+           commission meetings, and all reports to City Council.
+
+           Project specific files include bids, notices of award, notices to proceed, contract
+           agreements, insurance, change orders, progress payments, retention,
+           acceptance, as-builts, recordation, release of retention, reports, specifications,
+           and other records. Project Managers are responsible for keeping the project
+           folders up to date. Supervising Civil Engineers are responsible for verifying
+           adequate record keeping.
+
+4.7. Communications
+    The purpose of this section is to document how staff shall communicate internally, with
+    the community, commissions, and City Council in terms of receiving input and
+    communicating Measure T1’s progress.
+
+    4.7.1. Communication with the Community
+              • Website – The Measure T1 webpage is the community’s primary means
+                 of communication for information and updates on Measure T1. The
+                 webpage contains background information on the bond program, a
+                 story map showing Measure T1 project locations and pictures, project
+                 updates, and details on meetings or events pertaining to the Measure
+                 T1 program.
+              • Community Meetings – Community meetings will be held to collect
+                 input from the community regarding Measure T1 projects. These
+                 meetings are communicated to the community via the following
+                 channels:
+                     o Measure T1 website under “Community Meetings and Events
+                         Schedule,”
+                     o The City of Berkeley’s community calendar,
+
+
+
+                                            21
+                    o Distributing mailers to residents within a minimum 300 foot
+                        radius from the project site,
+                    o Notifying Councilmembers about projects in their districts,
+                    o Meeting notices posted around the project site and other
+                        related sites, and
+                    o Public posting to one or more news media websites.
+            •   Quarterly Reporting – The T1 Management Team is responsible for
+                preparing summary updates on a quarterly basis. The report is
+                prepared digitally and posted on the Measure T1 webpage.
+            •   Email and Written Communications – Measure T1 staff are responsible
+                for replying to email and written communications it receives related to
+                Measure T1. Emails and written communications shall be saved and
+                stored in accordance with the City’s Records Management Program. For
+                questions, comments or general information, community members can
+                contact T1@CityofBerkeley.info.
+            •   Signage – Signs indicating “Your T1 Bond Dollars at Work” will be
+                posted at project sites during construction.
+
+4.7.2. Communication Amongst Staff
+          • Meetings – Meetings are held internally to monitor, evaluate, and
+             report program progress against expected results. These include:
+                 o Project Status Meetings – PW and PRW project managers meet
+                     regularly with their Supervising Civil Engineers to monitor scope,
+                     schedule, and project budget(s).
+                 o T1 Program Meetings – The T1 Management Team meets monthly
+                     to monitor any changes that influence the overall program.
+                 o T1 Administrative Meetings – The T1 Administrative Team meets
+                     monthly to monitor expenditures, program/project budgets, and
+                     address any purchasing or budget/fiscal issues that arise.
+
+4.7.3. Communication to Commissions
+          • Measure T1 Joint Subcommittee Meetings – The Measure T1 Joint
+             Subcommittee consists of PW and P&W commission members. Staff
+             will meet with the Measure T1 Joint Subcommittee as needed.
+          • Commission Meetings
+                 o Planning: Staff will work with the lead commissions to plan the
+                     Measure T1 bond program phases.
+
+
+
+                                     22
+                                        o Bi-Annual Report: Staff will meet with the lead commissions during
+                                          their regularly scheduled commission meetings to review the bi-
+                                          annual update report before submitting the report to City Council.
+                                        o Project-specific Coordination: Staff will meet with lead and/or
+                                          participating commissions during their regularly scheduled
+                                          commission meetings to provide updates and/or seek additional
+                                          consultation on project-specific coordination.
+
+             4.7.4. Communication to City Council
+                    Bi-Annual Reporting – The T1 Management Team is responsible for preparing Bi-
+                    Annual reports to City Council. The report is prepared in digital format and is
+                    delivered to City Council for review four weeks before the City Council meeting.
+                    The T1 Management Team presents the report to the City Council. These reports
+                    are also posted to the Measure T1 Webpage.
+
+                       The report may include program status updates, community engagement,
+                       project status updates, coordination, important issues, bond program
+                       management, grants, and planning activities.
+
+
+5. Project Management
+      The purpose of this section is to provide a general overview of the processes and procedures
+      that apply to projects that are funded by Measure T1 funds. As with all capital improvement
+      projects that fall under the responsibility of PW and PRW, existing City project management
+      guidelines should be followed by the T1 Project Management Staff. The overall goal of project
+      management is to complete projects on schedule, on budget, in accordance with industry
+      standards and best practices, and meet local, state, and federal requirements.
+
+      5.1. Project Roles and Responsibilities
+             The management of each Measure T1 project is directed by qualified 5 PW and PRW T1
+             Project Management Staff as discussed in Section 3. These responsibilities include
+             schedule control, finance control, coordination with entities in and outside the City,
+             public outreach, and technical oversight of the design and construction work.
+             Supervising Civil Engineers have the responsibility to supervise project managers.
+
+
+
+
+5   California Licensed Professional Engineers and other design professionals are on staff to ensure that proper design procedures
+    and methods are used on T1 projects.
+
+
+                                                                 23
+             Project Manager Responsibilities
+                         • Managing project from initial planning through project close-out
+                         • Setting up project resources and budgets
+                         • Providing and maintaining the schedule for planning, design, and
+                            construction
+                         • Managing design professionals and consultants providing professional
+                            services and project-specific expertise
+                         • Facilitating project meetings and coordination
+                         • Monitoring project scope and requirements
+                         • Reporting schedule or budget variances
+                         • Managing contract changes as required
+
+             Supervising Civil Engineer Responsibilities
+                          • Supervising Project Managers and their work
+                          • Providing technical and administrative resources for Measure T1 projects
+                          • Providing administrative and management control
+
+             Manager of Engineering
+                         • Overall responsibility for capital improvement project implementation
+                         • Acts as the City Engineer, the City’s final licensed civil engineer authority
+
+      5.2. Project Control
+             The controls and the methods for managing the scope, scheduling, and budget of
+             projects funded by Measure T1 include: 6
+
+             5.2.1. Scope Control
+                    Scope of projects are developed based on the project’s purpose, building code
+                    requirements, permit requirements, public benefits, community feedback, and
+                    overall cost and value. Project Managers are responsible for reviewing all
+                    feedback, project requirements, and implementing each project consistent with
+                    established best practices and appropriate planning and design standards.
+                    Project Managers also review scope changes for cost and schedule impacts.
+
+             5.2.2. Schedule Control
+                    A project schedule, including all phases of the project from planning, design,
+                    permitting, and through construction (if applicable), will be prepared at the
+
+6   These procedures are primarily sourced from the Project Management Manual, Revision 3 (2014), Department of Public Works.
+
+
+                                                              24
+           preliminary design stage and updated regularly. The project schedule is maintained
+           by the Project Managers and reviewed regularly by the Supervising Civil Engineers.
+           Project Managers also review schedule changes for impacts to cost.
+
+    5.2.3. Cost Control
+           Project budgets include the total project costs including indirect costs such as
+           staff costs, consultant fees, design fees, surveys, reports, printing, temporary
+           relocation of staff during construction and any related rent/lease costs, and
+           advertising. Other direct costs may include permits, inspections, and
+           construction (including labor, materials, and equipment). Costs for each project
+           are developed at scheduled milestones using standard best practices adjusted
+           for inflation and current bidding climates. The budgets for each project will be
+           monitored by each Project Manager and reviewed regularly by the Supervising
+           Civil Engineers.
+
+    5.2.4. Contract Control
+           Contract documents are prepared using standard forms and general conditions
+           developed by the City, including the Public Works Department, the Parks,
+           Recreation & Waterfront Department, the Finance Department, the City
+           Attorney’s Office, and the City Manager’s Office. T1 Project Management Staff
+           are responsible for preparing the project descriptions for Requests for
+           Qualifications and Requests for Proposals, including Invitations to Bid, the
+           Bidding Schedule, Construction Special Provisions, and any other related work.
+           Project Managers are responsible for supervising design and construction
+           contracts. This includes the procedures for progress payments, additional
+           work/change orders, testing, inspection procedures, and acceptance of work.
+
+5.3. Project Change Management
+    Managing changes to a project’s scope, schedule, or budget is performed by the
+    assigned T1 Project Management Staff. The Project Manager is responsible for providing
+    regular scope, schedule, and cost updates to their Supervising Civil Engineer. The
+    Supervising Civil Engineer and Project Manager evaluate project changes and determine
+    appropriate courses of action if needed. If the Supervising Civil Engineer determines
+    that project changes have program-level impacts, the impacts are discussed with the T1
+    Management Team and the Program Change Management procedures should be
+    followed (see Section 4.5).
+
+
+
+
+                                          25
+When project budgets increase, options include cutting scope, cutting projects, putting
+projects on hold, and/or finding funding elsewhere (with City Council approval).
+
+5.3.1. Planning and Design Changes
+       Project costs are developed at project milestones. During the planning and design
+       phases, the Project Manager and Supervising Civil Engineers have the expertise and
+       discretion to adjust the project scope or schedule. The intent is to align the
+       projected costs with the project’s budget, taking into account the project’s goals and
+       requirements. Changes in scope or schedule may be escalated to the T1
+       Management Team for review and discussion when appropriate.
+
+5.3.2. Construction Contingency
+       T1 Project Management staff generally employ a construction contingency of up
+       to 20% for each project in the construction phase based on the complexity of the
+       project. Construction contingency funds are monitored in individual project
+       budgets along with the full project budget. Project Managers use the project’s
+       available construction contingency to fund approved changes to the project as a
+       Construction Change Order (see Section 5.3.3).
+
+5.3.3. Construction Change Orders
+       Project changes during construction are managed through the City’s standard
+       change order process for capital improvement projects. If the proposed Change
+       Order exceeds the project’s available construction contingency or may impact
+       the overall project budget, the change is then directed to the T1 Management
+       Team for review, discussion, and approval. If the change impacts the overall
+       Measure T1 Program, changes shall be reviewed under Section 4.5 Program
+       Change Management.
+
+       Change Orders must be authorized by the PW or PRW Department Director prior
+       to the commencement of work.
+
+5.3.4. Project Closeout
+       Projects are closed out according to the City’s standard practices for capital
+       improvement projects. All outstanding change orders and all claims are settled
+       and processed. All project files, including as-built drawings, specifications,
+       project manual, warranties, etc. are filed for storage in accordance with the
+       City’s Records Management Program. Any unused Measure T1 funds are
+
+
+
+
+                                        26
+           liquidated and returned to the Measure T1 Program. Funds shall return to the
+           Program to be utilized under Section 4.5 Program Change Management.
+
+5.4. Community Engagement and Communications
+    The purpose of this section is to describe the community engagement process for
+    projects funded by Measure T1. A combination of methods are employed to ensure the
+    results of the project provide the greatest public value. This includes a combination of
+    community input opportunities and outreach efforts that communicate the status and
+    progress of projects. The level of outreach efforts can vary depending on the scope and
+    complexity of each project.
+
+    A number of community input opportunities and events can be held over the life of
+    Measure T1 projects. Interested parties and members of the public are encouraged to
+    participate. Measure T1 staff collect contact information of attendees at each event,
+    maintain contact lists for each project and provide additional notifications to the
+    general public. The notification process may include the following:
+
+                    1. Post fliers in public spaces at the project location and at the site of
+                       the event.
+                    2. Send mailers that include information about the project to
+                       addresses within a minimum 300 foot radius of the project site.
+                    3. Send mailers directly to known contacts of interested parties.
+                    4. Send fliers to the City Council representative(s) nearest the
+                       project’s location.
+                    5. Post information about the project and events to the Measure T1
+                       webpage and a local news media (such as Berkeleyside).
+
+    Measure T1 staff compiles all feedback. When applicable, changes are incorporated into
+    the project (see Section 5.2 Project Control).
+
+    5.4.1. Community Engagement Plan
+           At the community engagement meeting(s), an overview of the area impacted by
+           the project, the project scope, and the general schedule may be shared. Input
+           from the community meetings enables project staff to shape the project design
+           and implementation in a way that best responds to community needs.
+
+
+
+
+                                           27
+5.4.2. Community Engagement Plan for Each Project Phase
+       The community engagement process will span the life of the project across the
+       conceptual planning, design, and construction phases, and can vary with the
+       complexity of the specific project (Figure 5).
+
+       Conceptual Phase – At least one session can be held with the community. At this
+       conceptual stage of the project, the purpose is to elicit public preferences and
+       priorities, to inform the public of the preliminary scope and scale of the project,
+       and to start a contact list for the duration of the project. This session will also
+       inform the community about the community engagement process for the
+       project, including other anticipated sessions and the different opportunities and
+       methods to provide feedback to the Measure T1 staff.
+
+       Design Phase – At the design stage, more detailed information regarding design
+       decisions, project costs, and construction scheduling will be shared.
+
+       Construction Phase – At the construction stage, a groundbreaking ceremony
+       may be planned. Flyers and mailers are sent to the community and posted on
+       the Measure T1 website and include basic construction hours, contact
+       information, and any anticipated service disruptions that will occur. Signage is
+       also posted at the project site. At the conclusion of construction, a Re-opening
+       Ceremony may be planned.
+
+
+
+
+                       Figure 5: Project Level Public Engagement
+
+
+
+
+                                      28
+5.4.3. Project Updates
+       Measure T1 staff will provide regular updates on the status of each project. The
+       public is encouraged to check the webpage frequently for the latest information
+       on all active projects.
+
+
+
+
+                                      29
+Appendix A. Strikeout/Underline Revisions to Measure T1 Bond Policies and
+Procedures Manual (January 2019)
+1
+Acknowledgements
+
+This document was prepared by Harris & Associates and City of Berkeley’s Parks, Recreation, and
+Waterfront and Public Works staff. Graphics were prepared by MIG, Inc.
+
+We would like to thank the Parks and Waterfront and Public Works Commissions for providing
+feedback.
+Table of Contents
+1.     Purpose and Scope .............................................................................................................. 1
+2.     Program Description ............................................................................................................ 1
+     2.1.    Background ......................................................................................................................... 1
+     2.2.    Program Phasing Schedule .................................................................................................. 3
+     2.3.    Requirements, Limitations, and Restrictions ....................................................................... 4
+     2.4.    Program Projects ................................................................................................................. 7
+     2.5.    Program Project Schedules.................................................................................................. 7
+3.     Program Management Team Organization .......................................................................... 7
+     3.1.    T1 Management Team ........................................................................................................ 7
+     3.2.    T1 Financial Team................................................................................................................ 9
+     3.3.    T1 Project Management Staff ............................................................................................. 9
+4.     Program Management......................................................................................................... 9
+     4.1.    Budgeting ............................................................................................................................ 9
+     4.2.    Project Selection and Prioritization ................................................................................... 10
+     4.3.    Project Sequencing ............................................................................................................ 15
+     4.4.    Program Controls .............................................................................................................. 16
+     4.5.    Program Change Management......................................................................................... 21
+     4.6.    Document Control ............................................................................................................. 23
+     4.7.    Communications ................................................................................................................ 24
+5.     Project Management ......................................................................................................... 27
+     5.1.    Project Roles and Responsibilities ..................................................................................... 27
+     5.2.    Project Control ................................................................................................................... 28
+     5.3.    Project Change Management ........................................................................................... 29
+     5.4.    Community Engagement and Communications................................................................ 30
+
+Appendices
+Appendix A. Strikeout/Underline Revisions to Measure T1 Bond Policies and Procedures Manual
+(January 2019)
+
+
+
+
+                                                                         i
+1. Purpose and Scope
+  The purpose of thisthe Measure T1 Bond Policies and Procedures Manual is to provide clear
+  and concise guidelines on the management of T1 funds. ThisThe manual is intended to
+  document program goals and performance metrics, program management structure and
+  processes, project management guidelines, bond requirements and restrictions, and
+  expenditure control policies and procedures. This Manual is expected to improve the
+  understanding of policies and procedures by staff and the community, and help prepare the
+  City for future audits.
+
+  ThisThe Manual is intended to be updated to reflect needed clarifications or current best
+  practices. The responsibility for keeping the Manual current and sensitive to Program
+  requirements belongs to the T1 Management Team. This is Version 02 of the Manual; a
+  comparison of Version 02 to the original Manual is included in Appendix A.
+
+
+2. Program Description
+  The following section provides background on the Measure T1 program, an overview of the
+  implementation schedule, and a brief description of general requirements, restrictions, and
+  limitations.
+
+  2.1. Background
+       In May 2016, City Council resolved to place a General Obligation (GO) bond to fund the
+       repair, renovation, replacement, or reconstruction of the City’s existing infrastructure
+       and facilities before the voters at the following November General Municipal Election
+       (Resolution No. 67,522‐N.S.). The resolution identified the significant need to fund
+       necessary improvements so that the public can continue to benefit from the use of City
+       infrastructure and facilities. The City’s existing funds and funding sources are
+       inadequate to pay for the necessary improvements.
+
+       2.1.1. Existing City Infrastructure and Facilities
+              The Departments of Public Works (PW) and Parks, Recreation & Waterfront
+              (PRW) are jointly responsible for managing, maintaining, and upgrading an
+              extensive portfolio of community‐serving capital assets and infrastructure.
+
+              PW operates, maintains, and manages 56 facilities, including fire stations; senior
+              centers; police stations, buildings dedicated to the delivery of health services;
+              facilities that support City government operations and other City‐owned
+              property such as public garages. PW is also responsible for maintaining other
+
+
+
+                                              1
+       City infrastructure such as: approximately 325 retaining walls, bridges, tunnels,
+       culverts and other miscellaneous non‐building structures within the public right
+       of way and easements; 254 miles of public sanitary sewer mains and 130 miles of
+       public sewer laterals; 300 miles of concrete sidewalks; a storm drain system
+       containing 78 miles of underground pipes, manholes, catch basins, and cross
+       drains; and 216 miles of City streets and related facilities such as traffic signals
+       and street lights.
+
+       PRW operates, maintains and manages 5254 parks, 5five community centers,
+       2two pools, 3three resident camps, and approximately 15 sports fields, 49 sports
+       courts, 63 play areas, 36 picnic areas, 33,000 street and park trees, 124 street
+       medians, 263 street irrigation systems, and 29 restrooms and out buildings.
+       PRW is also responsible for maintaining related infrastructure such as water and
+       irrigation systems, sewer laterals, storm drain systems, electric conduits and
+       lighting, trails, pathways, and parking lots. In addition, PRW operates and
+       maintains the Berkeley Waterfront and resident camps and its related facilities,
+       such as docks, piers, parking lots, trails, 1,000 boat berths and other
+       infrastructure and buildings, including the Nature Center, Adventure Playground,
+       office buildings, and restaurants.
+
+       The City’s existing infrastructure and facilities provide important and critical
+       services to the public. These facilities and services require significant resources
+       to repair and maintain for ongoing public benefit.
+
+2.1.2. Bond Inception and Authorization
+       In November 2016, a proposed $100 millionMillion dollar GO bond to repair,
+       renovate, replace, or reconstruct the City’s aging, infrastructure and facilities,
+       including sidewalks, storm drains, parks, streets, senior and recreation centers,
+       and other important City facilities and buildings, was placed before Berkeley
+       voters as Measure T1. Measure T1 passed with 86.5% of the vote, and the
+       Peopleresidents of the City of Berkeley authorized the City of Berkeley to incur
+       bonded debt and issue a GO bond, (Resolution No. 67,795‐N.S.).
+
+       In June 2017, City Council adopted the first set of projects for implementation in
+       phase 1one of Measure T1 to help address the significant and growing unfunded
+       infrastructure needs. The total estimated amount for phase 1 projects was
+       $37,365,000, (Resolution No. 68,076‐N.S.). These bond‐funded capital projects
+       were added to the City’s overall Capital Improvement Program.
+
+
+                                        2
+           In October 2017, City Council authorized the first sale of GO bonds, which
+           totaled $35 Million for phase 1,one (Resolution No. 68,199‐N.S.). The GO
+           bonds were sold in November 2017. In April 2021, City Council authorized the
+           second series of bonds under the 2016 authorization, and sold an additional
+           $45 Million in GO bonds for phase two (Resolution No. 69,832‐N.S.). The GO
+           bonds were sold in May 2021. It is expected that the third and final tranche
+           of T1 GO bonds will be issued in November 2022.
+
+
+2.2. Program Phasing Schedule
+    Measure T1 projects are anticipated to be performed in threetwo phases spanning a
+    total of 12nine years. (Figure 1). This will enableenables the City to evenly distribute
+    workload over time and allowallows significant time for public input. Each phase will
+    includeincludes a robust public project selection process, City Council review and
+    approval of projects, and a bond sale.
+
+
+
+
+                                             3
+     Figure 1,: Measure T1 Program Schedule including Key Phases and Milestones
+
+      2.3. Requirements, Limitations, and Restrictions1
+             The City is empowered under Article 4.5 of Chapter 3 of Part 1 of Division 2 of Title 5 of
+             the Government Code of the State of California (the “Bond Law”) to issue general
+             obligation bonds that are authorized by two‐thirds of the electors voting on the
+             proposition. The bonds are payable as to both principal and interest from the proceeds
+
+1   Unless otherwise noted, source is: City of Berkeley, Report to Council, “Recommendations for allocating and managing Measure
+    T1 General Obligation Bond funds,” Office of the City Manager, December 22, 2016.
+
+
+                                                                4
+of the levy of ad valorem taxes on all property subject to such taxes in the City.
+(Resolution No. 68,199‐ N.S.).
+
+2.3.1. Projects and Goals
+       As stated in the bond language (Resolution No. 67,522‐N.S.), the proceeds of the
+       bonds sold shall be used to fund the improvements and functional art integrated into
+       the improvements. Improvements are defined as the City’s existing infrastructure and
+       facilities that are in need of significant repair, renovation, replacement, or
+       reconstruction so that the public can continue to benefit from them.
+
+       Existing infrastructure critical to protecting public safety and welfare, and
+       enabling the residents of Berkeley to have a high quality of life include, but are
+       not limited to:
+
+                Streets and sidewalks which provide for transportation and accessibility
+                 for both the general public and public safety personnel
+                Storm drains and green infrastructure projects which protect the public
+                 from flooding and improve the quality of runoff into San Francisco Bay
+                Senior Centers which provide important services for the City’s seniors,
+                 including educational courses, activities, social support, and meals. In
+                 emergencies, Senior Centers can also serve as local care and shelter
+                 facilities for all members of the community
+                Parks and recreation community centers and facilities which provide
+                 recreational, educational and social opportunities, and support for
+                 children and families. In emergencies, Community Centers can also serve
+                 as local care and shelter facilities for all members of the community
+                The City’s public buildings and other facilities, which are both important
+                 cultural resources in themselves and provide public services to the
+                 residents of Berkeley
+
+     In Resolution 67,795‐N.S., Council resolved that 1% of bond proceeds shall be
+     available for functional art integrated into T1‐funded improvements, as and to the
+     extent determined by City Council.
+
+
+
+
+                                        5
+2.3.2. Expenditure Timing Requirement
+       Bond proceeds are not to be used so as to cause the bonds to be “arbitrage
+       bonds.” Under federal tax law, for each Measure T1 phase, the City must have a
+       reasonable expectation of spending at least 85100% of bond proceeds within
+       3five years of the sale. If 85100% is not spent, there are two consequences:
+
+
+                The unspent project funds must be yield‐restricted, i.e. invested at a
+                 rate that generates less than the bond yield; and
+                If the City’s bonds are audited, and the Federal Internal Revenue
+                 Service (IRS) determines that the City did not have a reasonable
+                 expectation at the time bonds were sold, that it could spend 85100%
+                 within threefive years, then the IRS could conclude that interest on the
+                 bonds is taxable, which could require a payment by the City to the IRS.
+
+2.3.3. Staffing and Overhead Costs and Limitations
+       Bond proceeds may be used for labor (staff costs) to work on projects, and
+       associated facility costs (such as rent and utilities), equipment, services and
+       supply costs, but not for purely “community process” efforts. For example, a
+       bond‐funded project manager is not prohibited from talking to residents or
+       attending meetings, but funds should not be used to hire consultants to facilitate
+       general public outreach. Bond funds may be used to pay administrative costs
+       (including staff time) directly related to bond‐funded projects.
+
+2.3.4. Private Activity Bond Limitation
+       Bond proceeds are not to be used so as to cause the Bonds to satisfy the private
+       business tests of Section 141(b) of the Federal Tax Code or the private loan
+       financing test of Section 141(c) of the Federal Tax Code.
+
+2.3.5. Leased Property Restriction
+       Bond proceeds may only be spent for the improvement of real property with
+       “municipal improvements” as defined in BMC Section 7.64.020. Expenditures are
+       limited to property owned or leased by the City. Thus, bond funds may not be
+       spent to improve real property that is not owned or under a long‐term lease by
+       the City. For example, properties owned by the school district that are not under
+       a long‐term lease with the City are not eligible.
+
+
+
+
+                                       6
+  2.4. Program Projects
+       Eligible projects are selected as described in Section 4.2 Project Selection and
+       Prioritization. The project selection process includes staff analysis and recommendation,
+       commission review, community input, and City Council approval. See Section 4.5
+       Program Change Management for policies and procedures regarding changes to the list
+       of approved projects.
+
+  2.5. Program Project Schedules
+       Approved T1 Projects are scheduled over each phase of Measure T1 to balance
+       workload and effort into the City’s established capital improvement program. The
+       length of the planning, design, and construction phases of each project are taken into
+       consideration to estimate the life of each project. The construction phase is scheduled
+       to minimize disruption to the public as City services and facilities are removed from
+       service to undergo renovations. Projects are scheduled with the expectation of spending
+       at least 85100% of the total bond amount within 3five years of the sale of the bond.
+
+
+3. Program Management Team Organization
+  The following section provides a general overview of the T1 Program Management Team.
+
+  3.1. T1 Management Team
+       The T1 Management Team, shown in Figure 2 below, is responsible for implementing
+       the projects funded through Measure T1, including project planning, resourcing, and
+       management. The T1 Management Team is comprised of the PW and PRW Directors,
+       Deputy Directors, the Manager of Engineering, Senior Management Analysts, Fiscal
+       Managers, and Supervising Civil Engineers. This team is supported by the T1
+       AssistantAssociate Management Analyst. Responsibilities include meeting regularly to
+       review the Measure T1 budget, expenditures, project progress, and to prepare detailed
+       reports for Council, Commissionscommissions, and the community about how Measure
+       T1 funds are being expended.
+
+
+
+
+                                              7
+                              Figure 2,: Measure T1 Team Organization2
+
+
+2
+    Bi‐Annual Update on Measure T1 City Infrastructure Bond, pg. 4, November 7, 2017.
+
+
+                                                          8
+  3.2. T1 Financial Team
+       The T1 Financial Team is a subset of the T1 Management Team consisting of the T1
+       AssistantAssociate Management Analyst, Fiscal Managers, and also includes Analysts from
+       the Public Works and the Parks, Recreation and Waterfront Departments. This team
+       meets regularly regarding the overall program budget, expenditures, and administration
+       of the bond program.
+
+  3.3. T1 Project Management Staff
+       T1 Project Management Staff consists of various staff from within the Public Works and
+       the Parks, Recreation & Waterfront Departments. Full‐time equivalent (FTE) employees
+       will be allocated to manage Measure T1 projects based on personnel expertise and
+       project timelines. The FTEs are comprised of the Supervising Civil Engineers, Associate
+       Civil Engineers, Assistant Engineers, Inspectors, and others who are directly responsible
+       for managing or facilitating Measure T1 projects.
+
+       Five FTEs were allocated to the Measure T1 Program in total, currently spread across
+       11 staff in the PW and PRW departments. The T1 AssistantAssociate Management
+       Analyst position accounts for one FTE. The number of staff allocated to Measure T1
+       may change over time as the number of active and planned projects change, including
+       during the onset and outset of subsequent phases.
+       As with all Measure T1‐related costs, staff charges to Measure T1 will be based on
+       actual time worked on Measure T1 projects. Labor costs for all other administration,
+       such as Directors, Deputy Directors, other managers, departmental payroll, purchasing,
+       budget staff, and other City‐wide support services like IT, Human Resources, and
+       Finance are not billed to Measure T1.
+
+
+4. Program Management
+  The following section describes the processes and methods for managing the Measure T1
+  Program, including financial and technical controls, coordination, and communication.
+
+  4.1. Budgeting
+       The purpose of this section is to define how the T1 Management Team will develop
+       budgets for Measure T1 costs. The $100 Million total funds will be allocated to projects
+       in threetwo phases. The budgets for each phase are created in the following sequence:
+
+                    1. The Finance Department and Bond Counsel determines the total
+                       budget for the phase based on bond sales. The bond sales limit “is set
+
+
+                                              9
+                                 by the terms of the bond program, which requires that the upper limit
+                                 of bond sales cannot exceed the total debt covered by the current 10 ‐
+                                 year average tax rate for a Berkeley resident.”3. The limit is determined
+                                 at the time of sale for each phase of the program.
+                              2. Per Resolution 67,795‐N.S., Council resolved that 1% of bond proceeds
+                                 shall be available for functional art integrated into Measure T1‐funded
+                                 improvements. These proceeds are set aside before the T1
+                                 Management Team allocates the available budget to projects, staffing,
+                                 facilities, equipment, supplies, and services based on the results of the
+                                 project selection process (see Section 4.2).
+
+             Interest income from investing the bonds may become part of the total Measure T1
+             budget, as determined by the Finance Department. Any changes in the T1 budget for
+             approved projects are reviewed and approved by the T1 Management Team.
+
+      4.2. Project Selection and Prioritization
+             The purpose of this section is to document the process by which projects arehave been
+             selected and prioritized for the Measure T1 Program. This process iswas carried out
+             separately for each phase as described in the Program Phasing Schedule in Section 2.2. The
+             extensive project selection and prioritization process for each phase is expected to be
+             extensive and has an expected overall timeframe oftook about two years. This process takes
+             into account the Bond, including bond requirements and considerations, City Council
+             guidance, and community input. Going forward, project prioritization should be performed
+             during the initial project selection phase to facilitate responsiveness to change during project
+             implementation considering bond timing requirements. The following criteria are considered as
+             projects are selected and prioritized for each phase.
+
+
+             4.2.1. Project Selection Criteria
+             The following criteria were utilized for project selection and prioritization for each phase.
+
+Table 1,: Measure T1 Project Selection and Prioritization Considerations4
+                    Criteria                           Description
+                   Greatest Benefit                   Project provides impact to the greatest number of Berkeley
+                                                       residents.
+                   Equity                             Criteria applied after looking at full list of projects. Consideration
+                                                       of geographic and demographic distribution of projects.
+
+
+
+3   Measure T1 Bi‐Annual Update Report, November 7, 2017, Page 5‐6.
+4   City of Berkeley City Council Consent Item #4, January 31, 2017 and Resolution 67,666‐N.S., September 13, 2016.
+
+
+                                                                10
+    Health, safetySafety, and       Project addresses public health and safety, such as improvements
+     resilienceResilience            for disaster preparedness orand emergency response.
+    Environmental Sustainability/   Project which improves water quality, havehas elements of green
+     Durability                      infrastructure, or also includeincludes energy, climate, or other zero
+                                     waste goals. Project uses durable elements or technologies that
+                                     may lower long ‐term cost.
+    Project readinessReadiness      ConsideringConsideration of projects that are already underway or
+                                     already shovel‐ready.
+    Leveraging other fundsOther     Project utilizes other funding sources.
+     Funds
+    Feasibility                     Consideration of the following:
+                                       a) theThe ability to complete a project/sequencing: project does
+                                          not have any known barriers, such as site conditions, funding,
+                                          or permitting issues, that will substantially delay or prevent
+                                          completion of the project.
+                                       b) renovatingRenovating infrastructure before end of useful life
+                                          to avoid larger expense or closure of amenity.
+
+
+4.2.2. Project Selection Process
+The result of the project selection process isresulted in a set of projects that meetsmet
+the criteria listed above to the extent possible, has beenwere vetted by the community
+and commissions, and were approved by City Council.
+The project selection sequence is shown in Figure 3 and discussed in detail below.
+
+
+
+
+                                            11
+         Figure 3,: Measure T1 Project Selection Sequence
+
+Step 1: Staff Analysis (6 months)
+The T1 Management Team will provideprovided cost estimates of potential projects to
+provide to the commissions and community during the public process to facilitate
+discussions to determine the support, wants, needs, and priorities of the public for
+implementation in Measure T1. In addition, the T1 Management Team
+acceptsaccepted feedback at any time through the T1 website and email address.
+
+The PW and PRW departments have reported significant unfunded infrastructure and
+facility needs. Based on these reports and any public input received, the T1 Management
+Team will prepareprepared a list of priority projects. The list shall bewas organized by
+infrastructure type and in conjunction with the City’s overall capital improvement
+programs. The T1 Management Team will solicitsolicited preliminary input from City
+commissions and other City departments to provide a broad list of project options. At a
+minimum, the T1 Management Team will provideprovided the following information
+about each project, ifas applicable:
+
+            •   Name
+
+
+                                      12
+               •   Infrastructure Type
+               •   Brief Scope
+               •   Phase (conceptual, design, construction)
+               •   Cost Estimate
+               •   Timeframe
+
+  Projects were defined as a Conceptual, Design, or Construction project. Conceptual
+  projects will focus on public processes, feasibility studies and analyses that culminate in
+  a preferred project plan and cost estimate. These projects will be ready for the design
+  and construction phase when funding is identified. Design projects will include public
+  process, design, permits and bid package, and are intended to produce shovel‐ready
+  projects for a later phase of T1 funding, grant funding, or other funding. Construction
+  projects will be entirely designed and built.
+
+  The initial list of projects is expected to representrepresented a cost significantly
+  greater than the Measure T1 funding available. However, the list will
+  representcomprised a set of options from which all stakeholders canwere able to select
+  a final set of recommended options.
+
+  Step 2: Community Input Process and Analysis (12 months)
+City staff along with PW and Parks and Waterfront (P&W) Commissions will jointly
+facilitatefacilitated a robust community engagement process that will includeincluded
+the public and participating commissions. Their recommendations will bewere
+submitted to City Council. The purpose of this process is:
+  Towas to receive input on project:
+              Project priorities from a wide range of community members.
+             • To receive input on howHow best to balance the wide range of projects
+                 needs that are eligible to be funded by Measure T1.
+             • To receive input on howHow best to equitably distribute the benefits of
+                 Measure T1.
+
+The process is as follows:
+  The Community Input Process is outlined below. For both phase one and phase two, the
+  process was highly successful in terms of gaining broad community participation and
+  support. However, additional public engagement was desired for phase two, even though
+  the second phase took place during the height of the COVID‐19 stay‐at‐home orders.
+
+
+
+
+                                         13
+To increase public participation in phase two, staff and Lead Commissions led a two‐
+year public process including over two dozen virtual community meetings that were
+held utilizing Zoom Meetings. This allowed for more meetings and also a higher
+number of participants at many of the meetings. The end result was a significantly
+higher level of community engagement during the phase two Project Selection Process.
+
+    2a. Commissions Review – The PW and P&W Commissions serve as the lead
+    commission for the Measure T1 Program. They will meet to reviewreviewed the
+    initial set of projects from Step 1 and finalize the community input approach.
+    These meetings will launchfinalized the community engagement process that will
+    includeincluded additional commissions. The Commissions willcommissions jointly
+    documentdocumented the process used to engage the community in the final
+    report to City Council.
+
+    2b. Staff and Commission Collaboration – Staff worksworked with the lead
+    commissions to develop a proposed project list.
+
+    2c. Participating Commissions Input – The lead Commissionscommissions (PW and
+    P&W) will seeksought input from other participating commissions in order to make
+    an informed decision about the proposed projects. Participating commissions can
+    provideprovided feedback by sending a commission representative to one of the
+    lead commissions, delegating City staff who attended their commission meetings
+    to provide their comments to one of the lead commissions, or providing written
+    comments to the lead commissions.
+
+    The following commissions participated in the Measure T1 Phase 1phase one and
+    phase two Input ProcessProcesses: Children, Youth, and Recreation Commission;
+    Civic Arts Commission; Commission on Aging; Commission on Disability,;
+    Community Environmental Advisory Commission; Disaster & Fire Safety
+    Commission; and Energy Commission; Housing Advisory Commission; Landmarks
+    Preservation Commission; Transportation Commission; and the Zero Waste
+    Commission;.
+
+    Other interested commissions are invited to provide input through the two lead
+    commissions.
+    2c2d. Public Meetings
+    The lead Commissionscommissions and staff will facilitatefacilitated community
+    meetings organized by the specific type of infrastructure – for example, facilities,
+
+
+                                      14
+         streets, green infrastructure, and parks. The community input gathered at these
+         meetings, as well as submitted via email (T1@cityofberkeley.info) will be compiled
+         by staff for consideration by commission and staff developing the final list of
+         recommended projects to be presented to City Council.
+
+         The community input gathered at these meetings, as well as that submitted via
+         email (T1@CityofBerkeley.info), was compiled by staff for consideration by the
+         commissions and staff in developing the final list of recommended projects that
+         were presented and approved by City Council.
+
+         2e. Staff and Commissions Review
+         The lead Commissionscommissions and staff will reviewreviewed input gathered
+         from the community and finalizefinalized a proposed list of projects.
+
+         2e2f. Preparation of Staff and Commissions Recommendations to City Council
+         After collecting the full set of community input, the PW and P&W Commissions
+         will jointly prepareprepared a report to City Council describing:
+
+                •   Overview of the selection process, including the community
+                    engagement process
+                •   Recommendations for projects to be included
+                •   Brief justifications for each selection organized by type of project
+                •   Prioritization of selected projects
+                •   Recommendations
+
+
+      Staff may prepare a separate companion report.
+
+
+     Step 3: City Council Review
+     City Council will considerconsidered the proposed projects and adoptadopted a
+     resolution approving a final list of projects.
+
+4.3. Project Sequencing
+    Under federal tax law, 85100% of bond funds must be spent in threefive years. Projects
+    are sequenced to meet this requirement. The purpose of this section is to describe the
+    process for sequencing the projects for each phase. The key factors that determine
+    project sequencing include, but are not limited to:
+
+
+
+
+                                          15
+                   Grants and alternate funding timeline requirements ‐– Projects that
+                    receive grant funds will have additional requirements that may require
+                    additional deadlines, reporting, and coordination.
+                   Reducing construction impacts to residents – The goal is to deliver
+                    construction projects in a sequence that reduces overall disruptions to
+                    City services.
+                   Coordination with outside agencies – Some projects may require
+                    coordination and permitting with regional agencies such as East Bay
+                    Municipal Utility District, the California Department of Transportation
+                    (Caltrans), East Bay Regional Parks District, and/or the San Francisco
+                    Bay Conservation, and Development Commission.
+                   Coordination with other City Departmentsdepartments – Some projects
+                    may require coordination, permit, review, or approval from other City
+                    departments or City entities, such as Civic Arts, Landmarks, Building
+                    and Planning Department, IT, etc.
+                   Construction timeline – Some projects may have specific timelines for
+                    construction, such as work needed during dry weather or low tide.
+
+    The T1 Management Team will assess the project timelines as projects are developed
+    over the course of the selection process according to the key factors listed above.
+
+4.4. Program Controls
+    The purpose of this section is to document a set of program controls that enable the T1
+    Management Team and the public to track progress of the program and make informed
+    course corrections as conditions change over the course of program implementation.
+
+    4.4.1. Program Performance Tracking
+           Key performance indicators are useful for progress reporting as well as
+           improving performance over time. These indicators will describe how the T1
+           Team can monitor progress against targets at the program level. Clearly
+           presenting the progress achieved by using Measure T1 funds is important to
+           demonstrate the value of the program to the public.
+
+           4.4.1.1. Program Schedule Report
+                    The T1 Management Team coordinates with the public as needed in order
+                    to deliver projects within the Program Schedule. Staff may prepare a
+                    program‐level schedule displayed in six‐month increments. The T1
+
+
+
+                                          16
+                      Management Team updates City Council by including the schedule in its
+                      bi‐annual reports and a brief discussion of relevant issues that arise.
+
+              4.4.1.2. Program Performance Indicators (Expenditures)
+                       The T1 Administrative Team will meet at least monthly to review
+                       program/project budgets and expenditures against projected
+                       expenditures. These reviews will include tracking the initial
+                       program/project budget, current year expenditures, current year
+                       encumbrances, and planned expenditures for each of the remaining
+                       years of the phase to calculate the projected expenditures for the full
+                       phase. They will also include information such as available and spent
+                       bond funds and City Council approved amounts to track the projected
+                       expenditures against these amounts. Total changes in T1 allocations to
+                       each project will also be tracked.
+
+Table 2,: Measure T1 Key Program Performance Indicators
+
+               Year to date expenditures against budget
+               Year to date encumbrances against budget
+               Planned expenditures against budget
+               Percent projects complete
+               Project to date expenditures and encumbrances against budget
+
+
+       4.4.2. Project Estimating Guidelines
+              It is important to define how cost estimates are developed for projects. Cost
+              estimates become more precise as a project shifts from conceptual planning, to
+              design, and then to construction.
+
+              4.4.2.1. Conceptual Planning Phase Estimates
+                       The Project Manager prepares project cost estimates at the initial phase
+                       of a project. The cost estimates are based on recent projects of a similar
+                       nature and modified for anticipated changes in the costs such as
+                       inflation. The project contingency percentage at this stage of
+                       development can be up to 50% of the overall project cost.
+
+              4.4.2.2. Design Phase Estimates
+                       Project Managers may contract with a Design Consultant who will prepare
+                       a detailed cost estimate based on the developing parameters of the design.
+
+
+                                              17
+                                 The cost estimate is reviewed by the Project Manager and Supervising Civil
+                                 Engineer. The Design Consultant typically prepares a cost estimate at each
+                                 submittal (such as 35%, 65%, 95% and Final). The project contingency
+                                 percentage declines as design is developed and can be reduced to as low as
+                                 10% at final design stage. Final design stage cost estimates are used to
+                                 finalize base bid scopes and identify additive alternates to the project.
+
+                       4.4.2.3. Bid Estimates and Construction Bid Results
+                                Construction Bid Documentsbid documents are planned to include both
+                                base bid minimum scope and additive alternates to meet the identified
+                                project budget. When construction bids are received, the construction
+                                bids shall be reviewed by the T1 Management Team to confirm the
+                                Construction Budgetconstruction budget and to make a recommendation
+                                for the amount of Construction Contingencyconstruction contingency
+                                (typically up to 20% of construction). If the Construction Bidsconstruction
+                                bids received differ from the identified project budget, see Changethe T1
+                                Management procedures forTeam will decide on alternative courses of
+                                action. (see Section 4.5).
+
+
+             4.4.3. Procurement
+                    Procurements that relate to Measure T1 must follow the City’s Purchasing Manual
+                    and procurement standards and guidelines5,guidelines,5 which are summarized
+                    below.
+
+
+                       4.4.3.1. Facility, Equipment, Services, and Supplies (FESS)
+                                The T1 AssistantAssociate Management Analyst will submit purchase
+                                orders for items that relate to the management and administration of
+                                Measure T1. These costs will be assigned to the Measure T1 FESS budget
+                                code. The FESS budget is prepared for each phase and is reviewed
+                                annually.
+
+                       4.4.3.2. Consultant Selection and Contracting Process
+                                Projects that are in the concept and design phase are typically carried
+                                out through On‐Callon‐call contracting arrangements. Architectural,
+                                engineering, and construction management work is typically (though not
+                                exclusively) carried out through on‐call contracts.
+
+5   City of Berkeley Purchasing Manual, 2015.
+
+
+                                                        18
+              On‐Callcall contracts are solicited through a Request for Qualifications
+              (RFQ). Project‐specific proposals are then submitted and approved by task
+              order. Due to the time constraints of each phase, T1 staff will use these
+              on‐call consultants to expedite the contract process whenever possible.
+
+              Project‐specific Requests for Qualifications or Requests for Proposals
+              may be used for projects requiring specific expertise.
+
+      4.4.3.3. Construction Procurement Process
+               Purchases above $25,000 require a formal Request for Proposal
+               (“RFP”)/Invitation for Bid (“IFB”) process and will be awarded to the
+               lowest responsive and responsible bidder per the California Public
+               Contract Code (look up reference). The City Manager has the authority to
+               approve construction projects with a value under $200,000. Projects
+               with a value greater than $200,000 require City Council approval.
+
+              If the construction bid is within the project budget, the proposal shall be
+              reviewed for completeness, responsiveness, price, contractor’s
+              experience and qualifications, and if applicable, will then be brought to
+              City Council for approval to award the contract.
+
+4.4.4. Cost Accounting
+       The T1 Administrative Team maintains records for the Measure T1 program
+       budget and costs as shown below.
+
+      4.4.4.1. Labor Costs
+            Approximately five full‐time equivalent (FTE) staff‐hours have been
+            assigned to support the implementation of Measure T1. This includes one
+            full‐time (FTE) AssistantAssociate Management Analyst. The remaining
+            staff time equivalent to four FTE’sFTEs are allocated to the Parks,
+            Recreation and Waterfront and Public Works staff that directly manage
+            Measure T1 projects. The FTE and percentage of total time allocated to
+            each individual supporting Measure T1 projects are estimated on an
+            annual basis. The T1 Administrative Team monitors and updates staff FTE
+            if necessary to ensure that the departments are within their four FTE
+            budget. LaborWith the exception of the T1 Associate Management Analyst
+            and the Supervising Civil Engineers, labor costs for the T1 Management
+
+
+                                     19
+Team, including and the T1 Administrative Team, will not be billed to
+Measure T1. Project staff time allocations are done through the City’s
+standard procedures process.
+See specific guidance below:
+
+  Direct Project Management Time Allocations
+  Applies to: All Project Managers
+  The amount of time that staff allocate on their timecard is based on the
+  proportion of time each one works on a Measure T1 project. For project‐
+  specific work (i.e. direct project management), all time is coded to a
+  specific Measure T1 project code.
+
+  For example, if a Project Manager is directly managing a T1 project and
+  has a project update meeting with a construction contractor and arethat
+  is directly managing that project, theythe Project Manager would code
+  theirthe meeting time to that project’s Measure T1 project code.
+
+  Unallocated Staff Time
+  Applies to: All T1 Staff
+  Unallocated staff time refers to staff time that is not charged to a project
+  code due to general office activities, meetings, trainingstraining, and time
+  off.
+
+  In the City’s financial system, an employee’s payroll default is based on
+  the proportion of time the employee is estimated to work on certain
+  projects. This default is used to ensure that unallocated staff time, such
+  as leave time, is charged based on the employee’s work allocation.
+
+  For example, an employee is anticipated to spend 30% of their time on
+  projects funded by Measure T1 and 70% on projects funded by other sources.
+  When the employee uses their vacation or sick time, this leave time will be
+  charged at 30% to Measure T1 and 70% to the other funding sources.
+
+  Supervision/ Administration/ Planning
+  For non‐specific Measure T1 project work, such as Measure T1 meetings
+  and supervision of Project Managers, staff time should be project coded
+  to the assigned project code for supervision/administration/planning.
+
+
+
+                          20
+                   For example, if a Supervising Civil Engineer has a meeting on a Measure T1
+                   project that they are not the Project Manager of, they should charge their
+                   supervision time to the assigned project code for
+                   supervision/administration/planning. The project manager of that Measure
+                   T1 project should code their time to the assigned Measure T1 project code.
+
+                   The T1 AssistantAssociate Management Analyst will always code their
+                   time to the assigned supervision/administration/planning project code
+                   because the position is providing general support to the overall Measure
+                   T1 program.
+
+          4.4.4.2. Project Costs
+                   Project costs are organized according to the individual project budgets
+                   that are assigned to a specific project code. This work is largely carried
+                   out by contractsperformed under contract with external parties (see
+                   Section 5 for more details on contract management related to Measure
+                   T1 projects).
+
+          4.4.4.3. Other Costs
+                   Facility (rent and utilities), equipment, and supply costs associated with
+                   carrying out Measure T1 projects are set in the budget for each phase.
+                   Professional Services, training, and travel costs associated with carrying
+                   out Measure T1 projects are budgeted in each phase. All of these costs
+                   are billed to the assigned Measure T1 project code.
+
+4.5. Program Change Management
+   The T1 Management Team is responsible for ensuring the completion of all Council‐
+   approved Measure T1 projects within budget, i.e. the value of bonds sold. This involves
+   monitoring scope, cost, project schedules, and schedule for all projects and making
+   adjustments to ensure that the approved projects are completed.
+
+   As the Measure T1 Bond Program progresses, situations may arise where the initial
+   priority list established at the Program Project Selection Phase (Section 4.2) may need to
+   be re‐evaluated and revised. Once the T1 Management Team is aware that they will not
+   be able to complete the list of projects, the team will discuss and evaluate next steps.
+
+   T1 staff has the ability to make changes at the project‐level as long as it does not affect
+   the program level. For example, staff can reallocate underspent funds from one project
+
+
+                                           21
+to another as long as it does not affect the construction of another project or reduce
+planning and design project scopes to conceptual. Changes should be transparent and
+summarized on project reports.
+
+When changes need to be made at the program‐level, such as adding/removing a
+project or changing the project’s level of completion, staff will review these options with
+the Lead Commissions and seek Council’slead commissions and work with Council to
+discuss changes and gain approval to revise the approved list (Section 4.5.2). This
+process is intended to ensure that any change to the approved Measure T1 project list is
+made with community input, Commissioncommission oversight, and Council approval.
+
+4.5.1. Reprioritization of Projects
+       This process of reprioritizing projects startstarts with staff evaluating options, then
+       discussiondiscussing with Lead Commissions.lead commissions. This is important
+       because it can start the community process early enough to prevent delays in
+       spending bond program funds.
+
+         The T1 Management Team will prepare and present the revised options for
+         reprioritizing the project list to the Lead Commissionslead commissions for
+         review and comment. These options will be based on the Measure T1 project
+         selection considerations (See sectionsee Section 4.2).
+
+         The Lead Commissionslead commissions will engage and seek input from the
+         community as well as other Commissionscommissions, as appropriate, and
+         provide feedback to the T1 Management Team.
+
+         This process revises priorities, but does not change the Measure T1 project list.
+
+
+4.5.2. Making Changes to the Measure T1 Project List
+      Council approval is needed to make any change to the Measure T1 project list.
+      Changes could include adding a project, removing a project, or changing the level
+      of completion from a construction project to a planning or design project.
+
+       The process for making a change to the project list is summarized in the graphicFigure
+       4 below.
+
+
+
+
+                                          22
+          Figure 4.: Process for making a change to the Measure T1 Project List
+
+          The T1 Management Team will either receive or initiate requests to make a
+          change to the T1 Project List. The process will then be as follows:
+
+                1. The T1 Management Team will prepare and present one or more
+                   options for changing the project list or project scopes to the Lead
+                   Commissionslead commissions for review and comment.
+                2. The Lead Commissionslead commissions should gather public input in
+                   order to discuss and make an informed recommendation through a
+                   joint report to City Council for action.
+                3. City Council will take an action on the proposed changes.
+
+4.6. Document Control
+    To establish the methods for maintainingThe T1 Management Team maintains a set of
+    records that relate to planning, managing, and carrying out Measure T1 activities. The
+    T1 AssistantAssociate Management Analyst has overall responsibility for maintaining the
+    document control system.
+
+
+
+
+                                          23
+    4.6.1. Filing
+           Measure T1 records should be retained in accordance with the City’s Records
+           Management Program. Program documents will be stored in a central server
+           location. Project specific files are stored in a central server location separate
+           from the Measure T1 program documents.
+
+           The Measure T1 Program folder organization includes folders for the Planning
+           and Community Process, Administration, Bond Information, Budget & Planning,
+           commission documents, and projects. (See section (see Section 4.2).
+
+           The T1 AssistantAssociate Management Analyst is responsible for keeping the
+           folders up to date after T1 Management Team meetings, T1 Administrative Team
+           meetings, Commission Meetingscommission meetings, and all reports to City
+           Council.
+
+           Project specific files include bids, notices of award, notices to proceed, contract
+           agreements, insurance, change orders, progress payments, retention,
+           acceptance, as‐builts, recordation, release of retention, reports, specifications,
+           and other records. Project Managers are responsible for keeping the project
+           folders up to date. Supervising Civil Engineers are responsible for verifying
+           adequate record keeping.
+
+4.7. Communications
+    The purpose of this section is to document how staff shall communicate internally, with
+    the community, Commissionscommissions, and City Council in terms of receiving input
+    and communicating Measure T1’s progress.
+
+    4.7.1. Communication with the Community
+
+
+                    Website ‐– The Measure T1 webpage is the community’s primary
+                     means of communication for information and updates on Measure T1.
+                     The webpage contains background information on the bond program, a
+                     story map showing Measure T1 project locations and pictures, project
+                     updates, and details on meetings or events pertaining to the Measure
+                     T1 program.
+
+
+
+
+                                            24
+              Community Meetings ‐– Community meetings will be held to collect
+               input from the community regarding Measure T1 projects. These
+               meetings are communicated to the community via the following
+               channels:
+                  o Measure T1 website under “Community Meetings and Events
+                       Schedule,”
+                  o The City of Berkeley’s community calendar,
+                  o Distributing mailers to residents within a minimum 300 foot
+                       radius from the project site,
+                  o Notifying Councilmembers about projects in their districts,
+                  o Meeting notices posted around the project site and other
+                       related sites, and
+                  o Public posting to one or more news media websites.
+
+
+
+              Quarterly Reporting ‐– The T1 Management Team is responsible for
+               preparing summary updates on a quarterly basis. The report is
+               prepared digitally and posted on the Measure T1 webpage.
+
+
+              Email and Written Communications ‐– Measure T1 staff are
+               responsible for replying to email and written communications it
+               receives related to Measure T1. Emails and written communications
+               shall be saved and stored in accordance with the City’s Records
+               Management Program. For questions, comments or general
+               information, community members can contact T1@CityofBerkeley.info.
+
+
+              Signage ‐– Signs indicating “Your T1 Bond Dollars at Work” will be
+               posted at project sites during construction.
+
+4.7.2. Communication Amongst Staff
+           Meetings ‐– Meetings are held internally to monitor, evaluate, and
+             report program progress against expected results. These include:
+                 o Project Status Meetings – PW and PRW project managers meet
+                     regularly with their Supervising Civil EngineerEngineers to
+                     monitor scope, schedule, and project budget(s).
+
+
+
+
+                                     25
+                    o T1 Program Meetings – The T1 Management Team meetmeets
+                      monthly to monitor any changes that influence the overall
+                      program.
+                    o T1 Administrative Meetings – The T1 Administrative Team
+                      meetmeets monthly to monitor expenditures, program/project
+                      budgets, and address any purchasing or budget/fiscal issues that
+                      arise.
+
+4.7.3. Communication to Commissions
+           Measure T1 Joint Subcommittee Meetings ‐– The Measure T1 Joint
+             Subcommittee consists of PW and P&W commission members. Staff
+             will meet with the Measure T1 Joint Subcommittee as needed.
+
+
+                Commission Meetings
+                    o Planning: Staff will work with the lead commissions to plan the
+                      Measure T1 bond program phases.
+
+
+                    o Bi‐Annual Report: Staff will meet with the lead commissions during
+                      their regularly scheduled commission meetings to review the bi‐
+                      annual update report before submitting the report to City Council.
+
+
+                    o Project‐specific Coordination: Staff will meet with lead and/or
+                      participating commissions during their regularly scheduled
+                      commission meetings to provide updates and/or seek additional
+                      consultation on project‐specific coordination.
+
+4.7.4. Communication to City Council
+       Bi‐Annual Reporting ‐– The T1 Management Team is responsible for preparing
+       Bi‐ Annual reports to City Council. The report is prepared in digital format and is
+       delivered to City Council for review four weeks before the City Council meeting.
+       The T1 Management Team presents the report to the City Council. These reports
+       are also posted to the Measure T1 Webpage.
+
+       The report may include program status updates, community engagement,
+       project status updates, coordination, important issues, bond program
+       management, grants, and planning activities.
+
+
+
+                                       26
+5. Project Management
+      The purpose of this section is to provide a general overview of the processes and procedures
+      that apply to projects that are funded by Measure T1 funds. As with all capital improvement
+      projects that fall under the responsibility of PW and PRW, existing City project management
+      guidelines should be followed by the T1 Project Management Staff. The overall goal of project
+      management is to complete projects on schedule, on budget, in accordance with industry
+      standards and best practices, and meet local, state, and federal requirements.
+
+
+      5.1. Project Roles and Responsibilities
+             The management of each Measure T1 project is directed by qualified6 PW and PRW T1
+             Project Management Staff as discussed in Section 3. These responsibilities include
+             schedule control, finance control, coordination with entities in and outside the City,
+             public outreach, and technical oversight of the design and construction work.
+             Supervising Civil Engineers have the responsibility to supervise project managers.
+
+             Project Manager Responsibilities
+                          Managing project from initial planning through project close‐out
+                          Setting up project resources, and budgets, and schedules
+                          Providing and maintaining the schedule for planning, design, and
+                            construction
+                          Managing design professionals and consultants providing professional
+                            services and project‐specific expertise
+                          Facilitating project meetings and coordination
+                          Monitoring project scope and requirements
+                          Reporting schedule or budget variances
+                          Managing contract changes as required
+
+             Supervising Civil Engineer Responsibilities
+                           Supervising Project Managers and their work
+                           Providing technical and administrative resources for Measure T1 projects
+                           Providing administrative and management control
+
+             Manager of Engineering
+                          Overall responsibility for capital improvement project implementation
+
+6   California Licensed Professional Engineers and other design professionals are on staff to ensure that proper design procedures
+    and methods are used on T1 projects.
+
+
+                                                                 27
+                                 Acts as the City Engineer, the City’s final licensed civil engineer authority
+
+      5.2. Project Control
+             The controls and the methods for managing the scope, scheduling, and budget of
+             projects funded by Measure T1 include:7
+
+             5.2.1. Scope Control
+                    Scope of projects are developed based on the project’s purpose, building code
+                    requirements, permit requirements, public benefits, community feedback, and
+                    overall cost and value. Project Managers are responsible for reviewing all
+                    feedback, project requirements, and implementing each project consistent with
+                    established best practices and appropriate planning and design standards.
+                    Project Managers also review scope changes for cost and schedule impacts.
+
+             5.2.2. Schedule Control
+                    A project schedule, includesincluding all phases of the project from planning, design,
+                    permitting, and through construction (if applicable), will be prepared at the
+                    preliminary design stage and updated regularly. The project schedule is maintained
+                    by the Project Managers and reviewed regularly by the Supervising Civil Engineers.
+                    Project Managers also review schedule changes for impacts to cost.
+
+             5.2.3. Cost Control
+                    Project budgets include the total project costs including indirect costs such as
+                    staff costs, consultant fees, design fees, surveys, reports, printing, temporary
+                    relocation of staff during construction and any related rent/lease costs, and
+                    advertising. Other direct costs may include permits, inspections, and
+                    construction (including labor, materials, and equipment). Costs for each project
+                    are developed at scheduled milestones using standard best practices adjusted
+                    for inflation and current bidding climates. The budgets for each project will be
+                    monitored by each Project Manager and reviewed regularly by the Supervising
+                    Civil Engineers.
+             5.2.4. Contract Control
+                    Contract documents are prepared using standard forms and general conditions
+                    developed by the City, including the Public Works Department, the Parks,
+                    Recreation & Waterfront Department, the Finance Department, the City
+                    Attorney’s Office, and the City Manager’s Office. T1 Project Management Staff
+
+
+7   These procedures are primarily sourced from the Project Management Manual, Revision 3 (2014), Department of Public Works.
+
+
+                                                              28
+           are responsible for preparing the project descriptions for Requests for
+           Qualifications and Requests for Proposals, including Invitations to Bid, the
+           Bidding Schedule, Construction Special Provisions, and any other related work.
+           Project Managers are responsible for supervising design and construction
+           contracts. This includes the procedures for progress payments, additional
+           work/change orders, testing, inspection procedures, and acceptance of work.
+
+5.3. Project Change Management
+    Managing changes to a project’s scope, schedule, or budget is performed by the
+    assigned T1 Project Management Staff. The Project Manager is responsible for
+    providing regular scope, schedule, and cost updates to their Supervising Civil Engineer.
+    The Supervising Civil Engineer and Project Manager evaluate project changes and
+    determine appropriate courses of action if needed. If the Supervising Civil Engineer
+    determines that project changes have program‐level impacts, the impacts are
+    discussed with the T1 Management Team and the Program Change Management
+    procedures should be followed (Seesee Section 4.5).
+    When project budgets increase, options include cutting scope, cutting projects, putting
+    projects on hold, and/or finding funding elsewhere (with City Council approval).
+
+    5.3.1. Planning and Design Changes
+           Project costs are developed at project milestones. During the planning and design
+           phases, the Project Manager and Supervising Civil Engineers have the expertise and
+           discretion to adjust the project scope or schedule. The intent is to align the
+           projected costs with the project’s budget, taking into account the project’s goals and
+           requirements. Changes in scope or schedule may be escalated to the T1
+           Management Team for review and discussion when appropriate.
+
+    5.3.2. Construction Contingency
+           T1 Project Management staff generally employ a construction contingency of up
+           to 20% for each project in the construction phase based on the complexity of the
+           project. Construction contingency funds are monitored in individual project
+           budgets along with the full project budget. Project Managers use the project’s
+           available construction contingency to fund approved changes to the project as a
+           Construction Change Order (Seesee Section 5.3.3).
+
+
+
+
+                                            29
+    5.3.3. Construction Change Orders
+           Project changes during construction are managed through the City’s standard
+           change order process for capital improvement projects. If the proposed Change
+           Order exceeds the project’s available construction contingency or may impact
+           the overall project budget, the change is then directed to the T1 Management
+           Team for review, discussion, and approval. If the change impacts the overall
+           Measure T1 Program, changes shall be reviewed under Section 4.5 Program
+           Change Management.
+
+           Change Orders must be authorized by the PW or PRW Department Director prior
+           to the commencement of work.
+
+    5.3.4. Project Closeout
+      Projects are closed out according to the City’s standard practices for capital
+      improvement projects. All outstanding change orders and all claims are settled and
+      processed. All project files, including as‐built drawings, specifications, project
+      manual, warranties, etc. are filed for storage in accordance with the City’s Records
+      Management Program. Any unused Measure T1 funds are liquidated and returned
+      to the Measure T1 Program. Funds shall return to the Program to be utilized under
+      Section 4.5 Program Change Management.
+
+
+5.4. Community Engagement and Communications
+    The purpose of this section is to describe the community engagement process for
+    projects funded by Measure T1. A combination of methods are employed to ensure the
+    results of the project provide the greatest public value. This includes a combination of
+    community input opportunities and outreach efforts that communicate the status and
+    progress of projects. The level of outreach efforts can vary depending on the scope and
+    complexity of each project.
+
+    A number of community input opportunities and events can be held over the life of
+    Measure T1 projects. Interested parties and members of the public are encouraged to
+    participate. Measure T1 staff collect contact information of attendees at each event,
+    maintain contact lists for each project and provide additional notifications to the
+    general public. The notification process may include the following:
+
+                    1. Post fliers in public spaces at the project location and posted at the
+                       site of the event.
+
+
+
+                                          30
+                2. Send mailers that include information about the project to
+                   addresses within a minimum 300 foot radius of the project site.
+                3. Send mailers directly to known contacts of interested parties.
+                4. Send fliers to the City Council representative(s) nearest the
+                   project’s location.
+                5. Post information about the project and events to the Measure T1
+                   webpage and a local news media (such as BerkleysideBerkeleyside).
+
+Measure T1 staff compiles all feedback. When applicable, changes are incorporated into
+the project, (see Section 5.2 Project Control).
+
+5.4.1. Community Engagement Plan
+       At the Communitycommunity engagement meeting(s), an overview of the area
+       impacted by the project, the project scope, and the general schedule may be
+       shared. Input from the community meetings enables project staff to shape the
+       project design and implementation in a way that best responds to community
+       needs.
+
+
+
+
+            Figure 5, The Elements of Community Engagement
+                            for Measure T1 Projects
+
+
+
+
+                                     31
+5.4.2. Community Engagement Plan for Each Project Phase
+       The community engagement process will span the life of the project across the
+       conceptual planning, design, and construction phases, and can vary with the
+       complexity of the specific project (Figure 5).
+
+       Conceptual Phase – At least one session can be held with the community. At this
+       conceptual stage of the project, the purpose is to elicit public preferences and
+       priorities, to inform the public of the preliminary scope and scale of the project,
+       and to start a contact list for the duration of the project. This session will also
+       inform the community about the community engagement process for the
+       project, including other anticipated sessions and the different opportunities and
+       methods to provide feedback to the Measure T1 staff.
+
+       Design Phase – At the design stage, more detailed information regarding design
+       decisions, project costs, and construction scheduling will be shared.
+
+       Construction Phase – At the construction stage, a groundbreaking ceremony
+       may be planned. Flyers and mailers are sent to the community and posted on
+       the Measure T1 website and include; basic construction hours, contact
+       information, and any anticipated service disruptions that will occur. Signage is
+       also posted at the project site. At the conclusion of construction, a Re‐opening
+       Ceremony may be planned.
+
+
+
+
+                       Figure 4: Project Level Public Engagement
+
+
+
+
+                                      32
+5.4.3. Project Updates
+       Measure T1 staff will provide regular updates on the status of each project. The
+       public is encouraged to check the webpage frequently for the latest information
+       on all active projects.
+
+
+
+
+                                      33
+Appendix A. Strikeout/Underline Revisions to Measure T1 Bond Policies and
+Procedures Manual (January 2019)
+
