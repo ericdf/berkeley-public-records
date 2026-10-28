@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-01-27-item-19-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-01-27",
+  "meeting_label": "regular",
+  "title": "Selected Marina Fee Increases",
+  "file": "L1/staff-reports/bcc-2026-01-27-item-19-staff-report-text.txt",
+  "sha256": "a68f74c18edafae323d9158a2ca016c5ef2ef77a5d2c009232e9e428bdc6f608",
+  "bytes": 37305,
+  "derived_from": {
+    "id": "bcc-2026-01-27-item-19-staff-report",
+    "sha256": "b63c7a97ea107a931d73d0082df1835d87f8808952362e68d855c33b09b3cb47"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

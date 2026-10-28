@@ -1,0 +1,18 @@
+{
+  "id": "campaign-finance-netfile-filing-217700028",
+  "layer": "L0",
+  "doc_type": "campaign_finance_document",
+  "collection": "campaign_finance",
+  "publisher": "City of Berkeley — City Clerk (NetFile Connect2 public campaign-finance API)",
+  "title": "NetFile filing record 217700028, Ida Martinac for Rent Board 2026",
+  "document_date": "2026-10-23",
+  "file": "L0/sources/campaign_finance/campaign-finance-netfile-filing-217700028.json",
+  "sha256": "11aa20adad4d1222a9db991bc97573d51494bae227a53cb26aa147be71e11220",
+  "bytes": 537,
+  "source_url": "https://netfile.com/Connect2/api/public/filing/info/217700028?format=json",
+  "retrieved": "2026-10-23",
+  "archived": "2026-10-23",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

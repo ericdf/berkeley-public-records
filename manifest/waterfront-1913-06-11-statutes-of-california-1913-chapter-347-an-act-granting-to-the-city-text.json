@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-1913-06-11-statutes-of-california-1913-chapter-347-an-act-granting-to-the-city-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "Statutes of California 1913, Chapter 347: An act granting to the city of Berkeley the salt marsh, tide and submerged lands of the State of California, including the right to wharf out therefrom to the city of Berkeley, and regulating the management, use and control thereof",
+  "file": "L1/sources/waterfront/waterfront-1913-06-11-statutes-of-california-1913-chapter-347-an-act-granting-to-the-city-text.txt",
+  "sha256": "945b5d0643b40391ac5e1a78b0cb117da546bbca897b6736d9629a47af7254df",
+  "bytes": 7518,
+  "derived_from": {
+    "id": "waterfront-1913-06-11-statutes-of-california-1913-chapter-347-an-act-granting-to-the-city",
+    "sha256": "7c795327b3230d487233ce5fed08fbb6b1e5bb5505d8d06f50577383e3f09b3b"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

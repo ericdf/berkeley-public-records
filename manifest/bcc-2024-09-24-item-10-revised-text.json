@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-09-24-item-10-revised-text",
+  "layer": "L1",
+  "doc_type": "supplemental_agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-09-24",
+  "meeting_label": "regular",
+  "title": "Clarifying the Intent of Measure Y (2024) – Increasing the Parks, Trees and Landscaping Maintenance Tax (Revised Agenda Material)",
+  "file": "L1/staff-reports/bcc-2024-09-24-item-10-revised-text.txt",
+  "sha256": "95eb844eebe0dbbc11b22058e33c2df4cdba0dd5db38acbe2052f7462571c368",
+  "bytes": 5615,
+  "derived_from": {
+    "id": "bcc-2024-09-24-item-10-revised",
+    "sha256": "cd473802dcccae087e1674b547edb534a672892659b8ad41b3afa6ed8ccdbfa8"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

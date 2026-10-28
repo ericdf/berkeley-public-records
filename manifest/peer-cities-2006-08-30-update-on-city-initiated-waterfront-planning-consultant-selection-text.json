@@ -1,0 +1,22 @@
+{
+  "id": "peer-cities-2006-08-30-update-on-city-initiated-waterfront-planning-consultant-selection-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "meeting_date": "2006-09-05",
+  "title": "Update on City-initiated Waterfront Planning Consultant Selection Process",
+  "file": "L1/sources/peer_cities/peer-cities-2006-08-30-update-on-city-initiated-waterfront-planning-consultant-selection-text.txt",
+  "sha256": "a5880a11d78a9684db438bc3d19dd0c26819a5952b9cca5c1383dd312acd1ac5",
+  "bytes": 3632,
+  "derived_from": {
+    "id": "peer-cities-2006-08-30-update-on-city-initiated-waterfront-planning-consultant-selection",
+    "sha256": "68e47aa2221aec68fccb3f547537389916ed9a0fbffc55cd340aa6b418fa57b6"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

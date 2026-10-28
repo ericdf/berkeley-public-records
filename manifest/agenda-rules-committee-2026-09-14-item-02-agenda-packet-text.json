@@ -1,0 +1,23 @@
+{
+  "id": "agenda-rules-committee-2026-09-14-item-02-agenda-packet-text",
+  "layer": "L1",
+  "doc_type": "agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Agenda & Rules Committee",
+  "meeting_date": "2026-09-14",
+  "title": "Berkeley City Council Agenda & Rules Committee Special Meeting Agenda Packet, September 14, 2026",
+  "file": "L1/staff-reports/agenda-rules-committee-2026-09-14-item-02-agenda-packet-text.txt",
+  "sha256": "69422da8ea6cc4897dfc0fc3cae7ebbb6f01a8b92e408502660613981cc5a33a",
+  "bytes": 136257,
+  "derived_from": {
+    "id": "agenda-rules-committee-2026-09-14-item-02-agenda-packet",
+    "sha256": "318839aaebf267d45777694da8d1c810e4c659706adeb0398b24935b9a88641a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

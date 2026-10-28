@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2026-02-28-berkeley-water-transportation-pier-ferry-project-draft-environmental-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Berkeley Water Transportation Pier Ferry Project Draft Environmental Impact Report",
+  "file": "L1/sources/pier_ferry/pier-ferry-2026-02-28-berkeley-water-transportation-pier-ferry-project-draft-environmental-text.txt",
+  "sha256": "3c8b3f0accb07ed660a1c7294627260f97602ffd529b0537da0afec589dd678f",
+  "bytes": 2368033,
+  "derived_from": {
+    "id": "pier-ferry-2026-02-28-berkeley-water-transportation-pier-ferry-project-draft-environmental",
+    "sha256": "9bcc5677bbd5f7ac2339d378b60d3c775a5b396835f136d5e6d0502943557f1e"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

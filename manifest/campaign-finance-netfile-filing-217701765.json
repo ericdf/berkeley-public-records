@@ -1,0 +1,18 @@
+{
+  "id": "campaign-finance-netfile-filing-217701765",
+  "layer": "L0",
+  "doc_type": "campaign_finance_document",
+  "collection": "campaign_finance",
+  "publisher": "City of Berkeley — City Clerk (NetFile Connect2 public campaign-finance API)",
+  "title": "NetFile filing record 217701765, Keep Berkeley Safe PAC, Sponsored by Berkeley Firefighters Association Local 1227",
+  "document_date": "2026-10-23",
+  "file": "L0/sources/campaign_finance/campaign-finance-netfile-filing-217701765.json",
+  "sha256": "aa8c8e21537d2f87e4216747e2beb5db30f88783e97f336ea23a179980188a2f",
+  "bytes": 586,
+  "source_url": "https://netfile.com/Connect2/api/public/filing/info/217701765?format=json",
+  "retrieved": "2026-10-23",
+  "archived": "2026-10-23",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

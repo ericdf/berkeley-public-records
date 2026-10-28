@@ -1,0 +1,27 @@
+{
+  "id": "bcc-2024-11-18-special-annotated-agenda",
+  "layer": "L0",
+  "doc_type": "annotated_agenda",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-11-18",
+  "meeting_label": "special",
+  "publisher": "City of Berkeley — City Clerk",
+  "title": "Annotated Agenda, Special Meeting of the Berkeley City Council, Monday, November 18, 2024",
+  "document_date": "2024-11-18",
+  "file": "L0/annotated-agendas/bcc-2024-11-18-special-annotated-agenda.pdf",
+  "sha256": "1f121b7c7a2e22d05f3717e2b56f5b8d2a931919406f6adf26601782255d139f",
+  "bytes": 145771,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/2024-11-18_Annotated-Agenda-Council.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20.",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "published_at": [
+    {
+      "url": "https://berkeleyca.gov/sites/default/files/city-council-meetings/2024-11-18%20Annotated%20Agenda%20-%20Council.pdf",
+      "seen": "2026-10-28"
+    }
+  ]
+}

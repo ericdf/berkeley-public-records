@@ -1,0 +1,19 @@
+{
+  "id": "peer-cities-2007-06-30-resolution-06-46",
+  "layer": "L0",
+  "doc_type": "peer_city_document",
+  "collection": "peer_cities",
+  "publisher": "City of Albany — City Council",
+  "title": "Resolution #06-46",
+  "document_date": "2007-06-30",
+  "file": "L0/sources/peer_cities/peer-cities-2007-06-30-resolution-06-46.pdf",
+  "sha256": "913b898964cd09a3b74e88bb5dbf1f33e76c246c53da05018a52c190db436195",
+  "bytes": 16489,
+  "source_url": "https://www.albanyca.gov/files/assets/city/v/1/administration/documents/waterfront/resolution-06046.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. No adoption date is printed; it cites a letter dated July 7, 2006, and document_date is the end of that fiscal year (FY2006-07).",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

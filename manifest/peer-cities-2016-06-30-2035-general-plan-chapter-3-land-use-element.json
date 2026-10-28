@@ -1,0 +1,19 @@
+{
+  "id": "peer-cities-2016-06-30-2035-general-plan-chapter-3-land-use-element",
+  "layer": "L0",
+  "doc_type": "peer_city_document",
+  "collection": "peer_cities",
+  "publisher": "City of Albany",
+  "title": "2035 General Plan, Chapter 3: Land Use Element",
+  "document_date": "2016-06-30",
+  "file": "L0/sources/peer_cities/peer-cities-2016-06-30-2035-general-plan-chapter-3-land-use-element.pdf",
+  "sha256": "3d90f08c2f7e6fac20789866ecf42e48cb72a0bb9151c47d88b06cabc8f64378",
+  "bytes": 5798458,
+  "source_url": "https://www.albanyca.gov/files/assets/city/v/2/community-development/planning-and-zoning/documents/general-plan/chapter3landuse.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. No date is printed; the 2035 General Plan was adopted April 18, 2016, and document_date is the end of that fiscal year (FY2015-16).",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t1-2020-04-29-measure-t1-aup-fy2018-fy2019-text",
+  "layer": "L1",
+  "doc_type": "agreed_upon_procedures_report_text",
+  "collection": "t1",
+  "title": "Independent Accountant's Report on Agreed-Upon Procedures Applied to Measure T1 Tax Revenues, For the period from July 1, 2017 to June 30, 2019",
+  "file": "L1/sources/t1/t1-2020-04-29-measure-t1-aup-fy2018-fy2019-text.txt",
+  "sha256": "5cce424bfa6dc0c66b528a4c1974cee75ee308df0c941cba091b607746a52144",
+  "bytes": 4432,
+  "derived_from": {
+    "id": "t1-2020-04-29-measure-t1-aup-fy2018-fy2019",
+    "sha256": "dd510ecb4b31cf198d2aa9eb5f64f8fa520aa63e9e1b530a025fd1a78774ba93"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

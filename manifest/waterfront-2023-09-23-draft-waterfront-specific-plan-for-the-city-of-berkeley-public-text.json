@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-2023-09-23-draft-waterfront-specific-plan-for-the-city-of-berkeley-public-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "DRAFT Waterfront Specific Plan for the City of Berkeley Public Tidelands Area (Public Draft September 23, 2023)",
+  "file": "L1/sources/waterfront/waterfront-2023-09-23-draft-waterfront-specific-plan-for-the-city-of-berkeley-public-text.txt",
+  "sha256": "d802b5d8cb705c52bbe57655eff6a6e5e52a890bfb1170017e0d7bf1a3ffbec5",
+  "bytes": 1469661,
+  "derived_from": {
+    "id": "waterfront-2023-09-23-draft-waterfront-specific-plan-for-the-city-of-berkeley-public",
+    "sha256": "3d8a25867fb4b968fe130445b1fcff3fab46a0ae14495032b91e8fad704f2dd6"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

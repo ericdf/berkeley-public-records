@@ -1,0 +1,18 @@
+{
+  "id": "campaign-finance-netfile-filing-217719950",
+  "layer": "L0",
+  "doc_type": "campaign_finance_document",
+  "collection": "campaign_finance",
+  "publisher": "City of Berkeley — City Clerk (NetFile Connect2 public campaign-finance API)",
+  "title": "NetFile filing record 217719950, Berkeley Arts Coalition Sponsored by Berkeley Non-Profit Arts and Cultural Organizations, Yes on Measure Y",
+  "document_date": "2026-10-23",
+  "file": "L0/sources/campaign_finance/campaign-finance-netfile-filing-217719950.json",
+  "sha256": "434f2db1e686289ea5b8e83fae9d3a57893a46d2d28a705ead40d70ad3889759",
+  "bytes": 614,
+  "source_url": "https://netfile.com/Connect2/api/public/filing/info/217719950?format=json",
+  "retrieved": "2026-10-23",
+  "archived": "2026-10-23",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

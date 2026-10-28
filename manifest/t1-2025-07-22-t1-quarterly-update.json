@@ -1,0 +1,18 @@
+{
+  "id": "t1-2025-07-22-t1-quarterly-update",
+  "layer": "L0",
+  "doc_type": "project_update_bulletin",
+  "collection": "t1",
+  "publisher": "City of Berkeley",
+  "title": "T1 Quarterly Update",
+  "document_date": "2025-07-22",
+  "file": "L0/sources/t1/t1-2025-07-22-t1-quarterly-update.pdf",
+  "sha256": "5eb03f30e74666c4aaa159202c666a83faaf322c2175bc72bfb758c5a429bd65",
+  "bytes": 1911591,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/T1%20Bond%20Measure%20Quarterly%20Update%20July%202025.pdf",
+  "retrieved": "2026-10-15",
+  "archived": "2026-10-15",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

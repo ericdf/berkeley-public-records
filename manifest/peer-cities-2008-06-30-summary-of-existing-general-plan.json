@@ -1,0 +1,19 @@
+{
+  "id": "peer-cities-2008-06-30-summary-of-existing-general-plan",
+  "layer": "L0",
+  "doc_type": "peer_city_document",
+  "collection": "peer_cities",
+  "publisher": "City of Albany",
+  "title": "Summary of Existing General Plan",
+  "document_date": "2008-06-30",
+  "file": "L0/sources/peer_cities/peer-cities-2008-06-30-summary-of-existing-general-plan.pdf",
+  "sha256": "28703ac2cb2be11fcd697d944a06d77852af7be6662267c4035cc1e2d931a41e",
+  "bytes": 29996,
+  "source_url": "https://www.albanyca.gov/files/assets/city/v/1/administration/documents/waterfront/summary-of-existing-genera.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. No date is printed; the PDF was created December 2007, and document_date is the end of that fiscal year (FY2007-08).",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

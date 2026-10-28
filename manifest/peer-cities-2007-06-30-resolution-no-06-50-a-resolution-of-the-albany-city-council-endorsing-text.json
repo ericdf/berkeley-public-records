@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-2007-06-30-resolution-no-06-50-a-resolution-of-the-albany-city-council-endorsing-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "Resolution No #06-50: A Resolution of the Albany City Council Endorsing and Directing Staff to Proceed with a City Directed Waterfront Planning Process",
+  "file": "L1/sources/peer_cities/peer-cities-2007-06-30-resolution-no-06-50-a-resolution-of-the-albany-city-council-endorsing-text.txt",
+  "sha256": "d3a3eebf00295dee80c0510dfce101f6a66f5322cb992f9c066259a72cde88b8",
+  "bytes": 7632,
+  "derived_from": {
+    "id": "peer-cities-2007-06-30-resolution-no-06-50-a-resolution-of-the-albany-city-council-endorsing",
+    "sha256": "5c42fe722a303db27a2b4c93491ab0c45400435c09a05eebf7dfcf9200b5f30d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

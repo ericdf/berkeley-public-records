@@ -1,0 +1,36 @@
+{
+  "id": "pier-ferry-2026-02-28-berkeley-water-transportation-pier-ferry-project-draft-environmental",
+  "layer": "L0",
+  "doc_type": "project_record",
+  "collection": "pier_ferry",
+  "publisher": "City of Berkeley — Parks, Recreation & Waterfront Department (prepared by Rincon Consultants, Inc.)",
+  "title": "Berkeley Water Transportation Pier Ferry Project Draft Environmental Impact Report",
+  "document_date": "2026-02-28",
+  "file": null,
+  "sha256": "9bcc5677bbd5f7ac2339d378b60d3c775a5b396835f136d5e6d0502943557f1e",
+  "bytes": 30735010,
+  "source_url": "https://berkeleyca.gov/sites/default/files/2026-02/Berkeley-Water-Transportation-Pier-Ferry-Project-Draft-EIR.pdf",
+  "source_note": "Downloaded from the address above on 2026-10-20. The cover prints \"February 2026\"; document date is the end of that month.",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-pier-ferry-2026-02-28-berkeley-water-transporta-ca0299a0",
+        "path": "pier-ferry-2026-02-28-berkeley-water-transportation-pier-ferry-project-draft-environmental.pdf",
+        "uploaded": "2026-10-20",
+        "verified": "2026-10-28"
+      },
+      {
+        "store": "google_drive",
+        "location": "berkeley-public-records-blobs/pier-ferry-2026-02-28-berkeley-water-transportation-pier-ferry-project-draft-environmental.pdf",
+        "uploaded": "2026-10-20",
+        "verified": "2026-10-20"
+      }
+    ]
+  }
+}

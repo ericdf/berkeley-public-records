@@ -1,0 +1,18 @@
+{
+  "id": "campaign-finance-netfile-filing-212441853",
+  "layer": "L0",
+  "doc_type": "campaign_finance_document",
+  "collection": "campaign_finance",
+  "publisher": "City of Berkeley — City Clerk (NetFile Connect2 public campaign-finance API)",
+  "title": "NetFile filing record 212441853, Berkeleyans for Better Planning - Yes on Measure EE - Fix Our Streets and Sidewalks",
+  "document_date": "2026-10-23",
+  "file": "L0/sources/campaign_finance/campaign-finance-netfile-filing-212441853.json",
+  "sha256": "2ba5e9818d60af9ed2c0c303f1f7de3a6ac3b1430de1b64e6dfa49e314db00cc",
+  "bytes": 525,
+  "source_url": "https://netfile.com/Connect2/api/public/filing/info/212441853?format=json",
+  "retrieved": "2026-10-23",
+  "archived": "2026-10-23",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

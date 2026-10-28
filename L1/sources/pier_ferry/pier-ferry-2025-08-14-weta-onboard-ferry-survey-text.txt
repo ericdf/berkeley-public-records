@@ -1,0 +1,2618 @@
+2025 Onboard Ferry Survey
+Summary Report
+
+
+
+
+Prepared and conducted by
+COREY, CANAPARY & GALANIS RESEARCH
+447 Sutter Street – Penthouse North
+San Francisco, CA 94108
+www.ccgresearch.com
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+
+
+TABLE OF CONTENTS
+
+Introduction ...................................................................................................................................3
+Executive Summary.........................................................................................................................5
+Detailed Results ..............................................................................................................................7
+   Overall Rating ....................................................................................................................................... 8
+   Reasons for Using SF Bay Ferry........................................................................................................... 14
+   Trip Origin and Destination................................................................................................................. 15
+   Access (getting to) and Egress (going from) ....................................................................................... 21
+   Trip Purpose ........................................................................................................................................ 26
+   Ridership Frequency ........................................................................................................................... 27
+   Alternatives to SF Bay Ferry................................................................................................................ 29
+   Home Location .................................................................................................................................... 30
+   Demographics ..................................................................................................................................... 33
+Appendices ................................................................................................................................... 37
+   Questionnaires.................................................................................................................................... 38
+   Verbatim Responses ........................................................................................................................... 43
+Note: Crosstabulated tables included under separate cover
+
+
+
+
+2|Page
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+
+Introduction
+This report details the findings of an onboard survey of San Francisco Bay Ferry passengers conducted
+by Corey, Canapary & Galanis (CC&G).
+ The onboard ferry survey was conducted between April 12, 2025, and April 30, 2025 on all regular
+    routes.
+
+Key objectives of the survey include:
+    Reporting trip characteristics, such as rider frequency, fare media usage, trip purpose and
+       origin/destination.
+    Rider home location, to differentiate the needs and preferences of local versus visiting riders.
+    Motivators for use of the ferry as well as possible alternative transportation modes for riders.
+
+This report includes the following key sections: Executive Summary and Detailed Results by Question.
+
+Questions regarding this project may be directed to Thomas Hall, Director, Operations & Customer
+Experience, San Francisco Bay Ferry | Water Emergency Transportation Authority (WETA).
+thomas.hall@sfbayferry.com.
+
+This report version was published on August 14, 2025.
+
+Methodology and Response Rate
+The survey was conducted as an onboard self-administered questionnaire distributed to San
+Francisco Bay Ferry riders. Surveyors boarded pre-selected ferries. Surveyors were instructed to
+survey in certain areas of pre-selected ferries. This ensured that multiple trips on each route were
+surveyed and represented various times of day, direction, and chosen level of the ferry. It is
+important to spread out the ferry surveying, as otherwise it is possible to gather the entire number of
+surveys on just a few busy trips.
+
+Overall, 1,932 total surveys were distributed resulting in 1,786 completed surveys, with 262
+nonresponses from eligible passengers, totaling 2,048 eligible respondents on all sections of surveyed
+ferries. This represents an 87% response rate (e.g. 1,786 completed surveys / 2,048 eligible
+respondents).
+
+Respondents could complete the survey onboard and return it to the surveyor, complete it at home
+and mail to CC&G, or complete it online. Of these 1,786 completed surveys, 1,712 were completed
+onboard, 42 were completed online and 32 were mailed back.
+
+Surveys were available in English, Spanish, and Chinese. Of the 1,786 completed surveys, 1,761 were
+completed in English, 23 in Spanish, and 2 in Chinese.
+
+Specific steps were taken to ensure the highest possible response rate. This included using
+professional, experienced onboard surveyors on the project, making the questionnaire available in
+
+
+3|Page
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+multiple languages (English, Spanish and Chinese), and providing an online option for persons who
+did not have time to complete the survey onboard.
+
+Surveyors returned completed questionnaires to Corey, Canapary & Galanis’ office following the
+completion of the fieldwork. Data entry, editing, and coding were done in-house by Corey, Canapary
+& Galanis once questionnaires were returned.
+
+Margin of Error
+In total, 1,786 completed surveys were conducted. This total equates to a system-wide margin of
+error of +/- 2.31% (at the 95% confidence level).
+
+Statistically Significant Differences
+The margins of error for some key sub-groups shown in this report are:
+   - Weekday (n = 1,281). +/- 2.37% at the 95% confidence level;
+   - Weekend (n = 505). +/- 4.34% at the 95% confidence level.
+
+   -   Alameda Seaplane (n = 185). +/- 7.19% at the 95% confidence level;
+   -   Harbor Bay (n = 211). +/- 6.72% at the 95% confidence level;
+   -   Oakland/Alameda (n = 458). +/- 4.56% at the 95% confidence level;
+   -   Richmond (n = 280). +/- 5.83% at the 95% confidence level;
+   -   Vallejo (n = 611). +/- 3.95% at the 95% confidence level.
+   -   S. San Francisco (n = 41). +/- 15.27% at the 95% confidence level;
+            o Note: The smaller sample size for S. San Francisco is representative of the lower
+                ridership on this route. Given this smaller sample size, percentages broken out
+                specifically on this route should be considered more directional in nature.
+
+General Notes about the Results
+ Totals may appear to be more than 100% due to rounding.
+ Questions with no total percentage shown allowed for multiple responses.
+ For some open-ended questions, only the top responses are shown, and this is noted on that
+   particular question. Please refer to the statistical tables for a complete list.
+
+
+
+
+4|Page
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+Executive Summary
+ Respondents overall were very satisfied with the service provided by SF Bay Ferry,
+  with an average rating of 4.69 out of 5.00.
+     o 98% of riders in 2025
+        rated their experience as            Overall Satisfaction with SF Bay Ferry
+        “Very Satisfied” or
+                                                                     2%
+        “Satisfied.” This is the
+        same as in 2024 and is
+        comparable to the 99%                      27%
+        rating in 2022. In 2017,
+        this rating was 88%.
+     o While the share of riders
+        rating their experience                                            Neutral/Dissatisfied
+        “Very Satisfied” or                                                Satisfied
+        “Satisfied” is the same in                                         Very Satisfied
+        2025 as 2024 (98%), the
+                                                   71%
+        mean score in 2025 is
+        slightly lower than in
+        2024 (4.69 vs. 4.73). This
+        decrease is caused by a
+        decrease in respondents
+        very satisfied with the
+        ferry (71% in 2025 vs. 76%
+        in 2024) and an increase in respondents satisfied with the ferry (27% in 2025
+        vs. 22% in 2024).
+     o Riders on the Alameda Seaplane Ferry were the most satisfied, rating their
+        experience 4.79 (out of 5). While still very high, riders on the South San
+        Francisco Ferry were slightly less satisfied, rating their experience at 4.49 out
+        of 5.
+     o Comments regarding the ratings, which were provided by 32% of
+        respondents, suggest that frequency, staff, operating hours, and reliability
+        are key contributors to the high ratings.
+
+ Respondents were most satisfied with feeling safe (4.81 out of 5.00), the ferry crew
+  (4.71 out of 5.00), and the ease of fare payment (4.69 out of 5.00). They were least
+  satisfied with terminal access and amenities (4.51 out of 5.00), concessions (4.34
+  out of 5.00), and service alerts / delay notifications (4.15 out of 5.00).
+
+5|Page
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+ Three-quarters of respondents (74%) say they use the ferry to relax or reduce
+  stress, making this the top reason among respondents overall.
+
+ The Oakland & Alameda Ferry has the highest share of riders from outside the San
+  Francisco Bay Area (15%), while South San Francisco (<1%) and Harbor Bay (3%)
+  ferries have the lowest.
+
+ Among all respondents, nearly two-thirds (62%) used some form of car-based
+  transportation to access their ferry, while 17% walked all the way, 13% used a bike
+  or scooter, 9% used public transit, and 1% used a private shuttle.
+
+ Among all respondents, one-third (38%) used some form of car-based
+  transportation to get from the ferry to their destination, while 34% walked all the
+  way, 16% used public transit, 15% used a bike or scooter, and 2% used a private
+  shuttle.
+
+ Overall, respondents use the ferries to commute to work or school (55%), travel to
+  entertainment or recreation locations (34%) or for sightseeing (12%).
+
+ Overall, respondents ride their ferry an average of 2.4 days per week.
+    o Average use per week is roughly the same as in 2024 (2.4 days/week in 2025
+        vs. 2.3 days/week in 2024)
+    o The most frequent users of SF Bay Ferry tend to be on the Harbor Bay
+        (average 3.4 days/week) Alameda Seaplane, and South San Francisco (both
+        average 3.2 days/week) routes.
+
+ Two-thirds of riders (65%) would use a car-based type of transport if they didn’t
+  take a ferry, with 43% opting to drive alone. Slightly fewer (58%) would use public
+  transit, with 45% opting for BART or other rail transit. Notably, 10% of riders have
+  no alternative to SF Bay Ferry.
+
+
+
+
+6|Page
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+
+
+                                  Detailed Results
+
+
+
+
+7|Page
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+Overall Rating
+Respondents overall were very satisfied with the service provided by SF Bay Ferry, with an average
+rating of 4.69 out of 5.00.
+     98% of riders in 2025 rated their experience as “Very Satisfied” or “Satisfied.” This is the same
+        as in 2024 and is comparable to the 99% rating in 2022. In 2017, this rating was 88%.
+     While the share of riders rating their experience “Very Satisfied” or “Satisfied” is the same in
+        2025 as 2024 (98%), the mean score in 2025 is slightly lower than in 2024 (4.69 vs. 4.73). This
+        decrease is caused by a decrease in respondents very satisfied with the ferry (71% in 2025 vs.
+        76% in 2024) and an increase in respondents satisfied with the ferry (27% in 2025 vs. 22% in
+        2024).
+     In both 2024 and 2025, 1% of respondents said they were neither satisfied nor dissatisfied
+        with the service, and 1% of respondents said they were dissatisfied or very dissatisfied with
+        the service.
+     Riders on the Alameda Seaplane Ferry were the most satisfied, rating their experience 4.79
+        (out of 5). While still very high, riders on the South San Francisco Ferry were slightly less
+        satisfied, rating their experience at 4.49 out of 5.
+
+Comments regarding the ratings, which were provided by 32% of respondents, suggest that while
+satisfied overall, riders felt SF Bay Ferry should have more frequency and longer operating hours. .
+
+Overall rating of SF Bay Ferry service
+
+                                  2025    2024
+                                 TOTAL   TOTAL
+ Base: (All Respondents)         1,786     1,744
+ 5 - Very Satisfied               71%      76%
+ 4 - Satisfied                    27%      22%
+ 3                                1%       1%
+ 2 - Dissatisfied                 <1%      <1%
+ 1 - Very Dissatisfied            <1%      <1%
+                     Blank (#)     4        38
+                       TOTAL     100%     100%
+      Average (mean) score       4.69     4.73
+
+                                  2025    2024
+                                 TOTAL   TOTAL
+ Base: (All Respondents)         1,786     1,744
+ Satisfied (4 or 5)               98%      98%
+ Dissatisfied (1 or 2)            <1%      1%
+ Neutral                           1%      1%
+                    TOTAL        100%     100%
+       Average (mean) score      4.69     4.73
+
+
+8|Page
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+                                                          - - - - - - - - - - - -- - - - - - - - read % across - - - - - - - - - - - - - - -
+                                                   VERY                               VERY                                      MEAN
+                                                   SATISFIED                   DISSATISFIED                          BLANK      SCORE
+                                                   5      4                  3    2      1                             [#] (5 Pt. Scale)
+
+
+Alameda Seaplane
+      April 2025 (N=185) .................... 79%             21%           -             -           -                   -                    4.79
+      April 2024 (N=242)....................... 81%           18%          <1%            -          1%                   5                    4.78
+
+Harbor Bay
+       April 2025 (N=211) .................... 72%            28%            -            -            -                  1                    4.72
+       April 2024 (N=207)....................... 82%          17%           1%            -            -                  1                    4.81
+
+Oakland/Alameda
+      April 2025 (N=458) .................... 76%             22%           2%          -           1%                   1                     4.72
+      April 2024 (N=476)....................... 80%           18%           1%         <1%          <1%                  15                    4.77
+
+Richmond
+      April 2025 (N=280) .................... 77%             22%           1%           -           -                    -                    4.76
+      April 2024 (N=222)....................... 79%           19%            -          1%          <1%                   4                    4.76
+
+S. San Francisco
+        April 2025 (N=41) ...................... 56%          39%           2%          2%             -                  -                    4.49
+        April 2024 (N=49) ......................... 57%       36%           6%           -             -                  2                    4.51
+
+Vallejo
+          April 2025 (N=611) .................... 64%         33%           2%         <1%          <1%                  3                     4.60
+          April 2024 (N=551)....................... 67%       31%           2%         <1%           -                   11                    4.65
+
+
+
+
+9|Page
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+Comments
+
+                                                                               By Route
+                                              Alameda      Harbor     Oakland/                      S. San
+                                    TOTAL     Seaplane      Bay       Alameda      Richmond       Francisco   Vallejo
+ Base: (Left Comment)                 575         63         100         119           86            19        188
+ Need more frequency                 16%        16%         19%          8%          28%            21%       14%
+ Staff are friendly,                 16%        17%         14%         14%          20%            21%       14%
+ professional, helpful
+ Need expanded hours                 10%        13%         19%          7%           6%            21%        7%
+ Ferry is reliable/on-time           8%          8%         10%          3%           3%            5%        12%
+ Ferry is clean                      7%          6%         7%           5%           8%            5%         9%
+ Comfortable/Relaxing/Be             6%          2%         2%           8%           8%             -         7%
+ autiful views
+ More routes/stops closer             5%         5%          5%          8%           7%            5%         2%
+ to my origin/destination
+ Better notification for              4%         2%         12%           -           5%            11%        3%
+ delayed/cancelled ferries
+ Reduce crowding                      4%         3%         3%           1%           1%            11%        8%
+ More reliability                     4%         2%         10%           -           2%            11%        4%
+ More /safe/cheaper                   3%         5%         4%            -           1%            5%         6%
+ parking
+ Be more bike friendly                3%         2%         10%          1%           1%              -        1%
+ (more bike storage, no
+ stairs for bikes, rule
+ changes, protected from
+ salt spray, etc.)
+ Food onboard is                      3%         2%          1%          3%           1%              -        4%
+ expensive/poor
+ quality/Need more food
+ options
+
+*Only coded comments from over 3% of respondents are included here. See tables for a full list.
+
+
+
+
+10 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+Rating of SF Bay Ferry Service
+Respondents were most satisfied with feeling safe (4.81 out of 5.00), the ferry crew (4.71 out of 5.00),
+and the ease of fare payment (4.69 out of 5.00). They were least satisfied with terminal access and
+amenities (4.51 out of 5.00), concessions (4.34 out of 5.00), and service alerts / delay notifications
+(4.15 out of 5.00).
+     With the exception of “Concessions,” Harbor Bay riders rated the attributes higher than riders
+       on other routes. Except for “On-time performance,” Vallejo Ferry riders rated the individual
+       attributes lower than riders on other routes.
+
+
+                                                                        Mean Scores (5 point scale)
+                                                                        2025
+                                                                       TOTAL     Weekday     Weekend
+ Base: (All Respondents)*                                                1,786       1,281        505
+ Feeling safe while onboard                                              4.81        4.81         4.83
+ Ferry crew                                                              4.71        4.72         4.68
+ Ease of fare payment                                                    4.69        4.69         4.71
+ On-time performance                                                     4.63        4.60         4.73
+ Cleanliness (onboard)                                                   4.63        4.61         4.66
+ Terminal access and amenities                                           4.51        4.49         4.56
+ Concessions                                                             4.34        4.32         4.40
+ Service alerts / delay notifications                                    4.15        4.06         4.38
+
+
+
+
+11 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+                                                           - - - - - - - - - - - -- - - - - - - - read % across - - - - - - - - - - - - - - -
+                                                        VERY                                                VERY         MEAN
+                                                        SATISFIED                                     DISSATISFIED BLANK SCORE
+                                                          5       4                   3               2       1     [#]   (5 Pt)
+
+
+Feeling safe while onboard
+ Total (N=1,786) .................................      86%         12%             1%             <1%             1%              16           4.81
+ Alameda Seaplane (N=185)..................             90%          9%               -             -              1%              1            4.87
+ Harbor Bay (N=211) .............................       91%          8%             <1%             -                               -           4.91
+ Oakland/Alameda (N=458) ..................             88%          9%              2%             -              1%              5            4.84
+ Richmond (N=280) ...............................       88%         10%             1%             <1%            <1%              2            4.85
+ South San Francisco (N=41) .................           88%         10%              2%             -               -               -           4.85
+ Vallejo (N=611) ....................................   79%         17%             2%             <1%            1%               8            4.72
+
+Ferry crew
+ Total (N=1,786) .................................      79%         16%             3%              1%            1%               23           4.71
+ Alameda Seaplane (N=185)..................             84%         14%              1%             1%             1%              3            4.78
+ Harbor Bay (N=211) .............................       85%         15%             <1%              -              -               -           4.84
+ Oakland/Alameda (N=458) ..................             80%         14%              3%             1%             2%              8            4.69
+ Richmond (N=280) ...............................       84%         13%              3%              -            <1%              2            4.80
+ South San Francisco (N=41) .................           88%         12%               -              -              -               -           4.88
+ Vallejo (N=611) ....................................   72%         20%             6%              1%            1%               10           4.61
+
+Ease of fare payment
+ Total (N=1,786) .................................      79%         14%             4%              2%            1%               19           4.69
+ Alameda Seaplane (N=185)..................             86%         10%              3%              -            1%               1            4.80
+ Harbor Bay (N=211) .............................       86%         14%             <1%              -              -               -           4.85
+ Oakland/Alameda (N=458) ..................             80%         12%              5%             2%             1%              7            4.70
+ Richmond (N=280) ...............................       86%          9%              4%             1%            <1%              2            4.79
+ South San Francisco (N=41) .................           85%         15%               -              -              -               -           4.85
+ Vallejo (N=611) ....................................   71%         20%             5%              3%            2%               9            4.55
+
+On-time performance
+ Total (N=1,786) .................................      72%         22%              4%            1%             1%               21           4.63
+ Alameda Seaplane (N=185)..................             69%         25%              4%             1%             1%              11           4.60
+ Harbor Bay (N=211) .............................       80%         15%              4%             1%            <1%              10           4.73
+ Oakland/Alameda (N=458) ..................             80%         17%              1%             1%             1%              2            4.75
+ Richmond (N=280) ...............................       51%         39%              9%            <1%              -               -           4.40
+ South San Francisco (N=41) .................           79%         16%              3%             1%             1%              5            4.73
+ Vallejo (N=611) ....................................   79%         18%              2%            1%             <1%              2            4.74
+
+
+
+
+12 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+                                                           - - - - - - - - - - - -- - - - - - - - read % across - - - - - - - - - - - - - - -
+                                                        VERY                                                VERY         MEAN
+                                                        SATISFIED                                     DISSATISFIED BLANK SCORE
+                                                          5       4                   3               2       1     [#]   (5 Pt)
+
+Cleanliness (onboard)
+ Total (N=1,786) .................................      71%         23%              5%            1%             1%               19           4.63
+ Alameda Seaplane (N=185)..................             77%         18%              4%             1%             1%              2            4.70
+ Harbor Bay (N=211) .............................       76%         21%              2%            <1%              -               -           4.73
+ Oakland/Alameda (N=458) ..................             77%         18%              4%            <1%             1%              6            4.70
+ Richmond (N=280) ...............................       76%         19%              4%            <1%            <1%              2            4.70
+ South San Francisco (N=41) .................           76%         17%              7%              -              -               -           4.68
+ Vallejo (N=611) ....................................   60%         30%              7%            1%             2%               9            4.47
+
+Terminal access and amenities
+ Total (N=1,786) .................................      63%         27%             8%             1%             1%               19           4.51
+ Alameda Seaplane (N=185)..................             64%         29%              5%             2%             1%              3            4.54
+ Harbor Bay (N=211) .............................       65%         28%              6%            <1%            <1%               -           4.57
+ Oakland/Alameda (N=458) ..................             66%         24%              9%            <1%             1%              4            4.54
+ Richmond (N=280) ...............................       69%         22%              8%             1%              -              2            4.59
+ South San Francisco (N=41) .................           54%         32%             15%              -              -               -           4.39
+ Vallejo (N=611) ....................................   57%         30%             10%            1%             1%               10           4.41
+
+Concessions
+ Total (N=1,786) .................................      57%         24%             16%             2%             1%             102           4.34
+ Alameda Seaplane (N=185)..................             65%         19%             12%             2%             1%             15            4.46
+ Harbor Bay (N=211) .............................       51%         28%             19%             2%              -             10            4.28
+ Oakland/Alameda (N=458) ..................             63%         20%             14%             1%             2%             31            4.41
+ Richmond (N=280) ...............................       59%         23%             16%             2%             1%             19            4.36
+ South San Francisco (N=41) .................           67%         13%             18%             3%              -              2            4.44
+ Vallejo (N=611) ....................................   52%         28%             16%             3%             1%             25            4.25
+
+Service alerts / delay notifications
+ Total (N=1,786) .................................      49%         25%             20%            4%              2%              76           4.15
+ Alameda Seaplane (N=185)..................             49%         28%             20%             2%             1%              5            4.23
+ Harbor Bay (N=211) .............................       31%         31%             25%             9%             3%              3            3.77
+ Oakland/Alameda (N=458) ..................             61%         21%             15%             2%             1%              33           4.38
+ Richmond (N=280) ...............................       49%         22%             23%             5%             1%              14           4.13
+ South San Francisco (N=41) .................           30%         23%             28%            13%             8%              1            3.55
+ Vallejo (N=611) ....................................   48%         26%             19%             4%             3%              20           4.14
+
+
+
+
+13 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+Reasons for Using SF Bay Ferry
+Three-quarters of respondents (74%) say they use the ferry to relax or reduce stress, making this the
+top reason among respondents overall.
+ Riders on the South San Francisco ferry (78%) are much more likely than riders overall (64%) to
+   use the ferry to avoid traffic or because it’s a productive use of time (54% vs. 29%)
+ A higher share of both Alameda Seaplane (58%) and Harbor Bay (58%) riders said they use the
+   ferry because it is faster (compared with 40% overall).
+ While 21% of riders overall use the ferries to sightsee, 35% of the Oakland/Alameda ferry use the
+   ferry for this purpose.
+
+What are the main reasons you ride the ferry?
+(Multiple responses accepted)
+
+                                                                               By Route
+                                               Alameda     Harbor     Oakland/                       S. San
+                                    TOTAL      Seaplane     Bay       Alameda      Richmond        Francisco   Vallejo
+ Base: (All Respondents)             1,786        185        211         458           280              41      611
+ Relaxing / reduces stress           74%         77%        81%         76%           81%               88%    66%
+ Avoids traffic                      64%         65%        69%         52%           64%               78%    70%
+ Faster                              40%         58%        58%         29%           44%               44%    35%
+ Productive use of time              29%         32%        33%         25%           29%               54%    29%
+ Less expensive                      29%         34%        27%         26%           35%               15%    29%
+ Better for the                      28%         33%        27%         30%           35%               32%    22%
+ environment
+ Parking is easier / less            26%         30%        23%         25%           37%               15%    21%
+ expensive
+ Sightseeing                         21%         15%        11%         35%           24%               2%     15%
+ Don’t have a car / don’t            10%          9%        9%           9%           6%                17%    12%
+ drive
+ Fun/Enjoy being on the               2%         1%         <1%          4%            5%                -      1%
+ water/Enjoy boating
+ Blank (#)                            41          4           2          16             5                2       12
+
+*Only reasons representing at least 2% of responses are shown. Please see tables for a complete list.
+
+
+
+
+14 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+Trip Origin and Destination
+Two-thirds of respondents (69%) started their trip in San Francisco (36%) or Alameda (33%) counties.
+
+       Among those living in the San Francisco Bay Area, 37% said they started their trip in San
+        Francisco, 25% said they started their trip in Alameda County, 6% said they started their trip in
+        Solano County and 10% said they started their trip in another Bay Area county (other than San
+        Francisco, Alameda, or Solano).
+       Among those who live outside the Bay Area, 35% started their trip in San Francisco County,
+        34% began in Alameda County, 17% in Solano County and 13% in another Bay Area county.
+
+Where did you BEGIN this trip?
+
+ County of Origin                                                          By Route
+                                            Alameda     Harbor     Oakland/                    S. San
+                                  TOTAL     Seaplane     Bay       Alameda     Richmond      Francisco        Vallejo
+ Base: (All Respondents)           1,786       185        211        458          280            41            611
+ Bay Area County                   98%       100%       100%         98%          99%          100%            97%
+   San Francisco County            36%        27%        43%         37%          43%            -             36%
+   Alameda County                  33%        73%        56%         56%          10%           95%             1%
+   Solano County                   16%         -          -            -           2%            -             48%
+   Contra Costa County             8%          -         1%           3%          43%            -              1%
+   Napa County                     4%          -          -            -          <1%            -             11%
+   San Mateo County                <1%         -         <1%          1%            -           5%             <1%
+   Santa Clara County              <1%         -          -           1%          <1%            -             <1%
+   Marin County                    <1%         -          -           1%          <1%            -               -
+   Sonoma County                   <1%         -          -          <1%            -            -             <1%
+ Other California County           2%          -          -           2%           1%            -              3%
+   Sacramento County               1%          -          -           1%           1%            -              2%
+   San Joaquin County              <1%         -          -           1%            -            -             <1%
+   Placer County                   <1%         -          -            -          <1%            -             <1%
+   Fresno County                   <1%         -          -            -            -            -             <1%
+   Monterey County                 <1%         -          -            -            -            -             <1%
+   Navada County                   <1%         -          -          <1%            -            -               -
+   Santa Cruz County               <1%         -          -          <1%            -            -               -
+   Tuolumne County                 <1%         -          -          <1%            -            -               -
+   Yolo County                     <1%         -          -            -            -            -             <1%
+   Yuba County                     <1%         -          -            -            -            -             <1%
+                   Blank (#)        90         7          3           25           16            -              39
+                     TOTAL        100%       100%       100%        100%         100%          100%           100%
+*Answers from respondents who provided the same location for both their origin and destination were removed
+
+
+
+
+15 | P a g e
+    San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+
+
+    Alameda Seaplane Route (City of Origin) *
+     Eastbound                   Total       Westbound        Total
+     Base: (All Respondents)      48                           128
+     San Francisco               100%         Alameda         97%
+                                              Oakland         3%
+
+    Harbor Bay Route (City of Origin) *
+     Eastbound                   Total       Westbound        Total
+     Base: (All Respondents)      89                           117
+     San Francisco               99%           Alameda        90%
+                                             San Leandro      5%
+                                               Oakland        2%
+                                             San Ramon        2%
+
+    Oakland/Alameda Route (City of Origin) *
+                                    Week       Week                                           Week     Week
+Eastbound                Total      day        end            Westbound               Total   day      end
+Base: (All                 144         76       68                                     233     121       112
+Respondents)
+San Francisco             96%          99%     93%            Oakland                 55%      71%      38%
+                                                              Alameda                 23%      9%       38%
+                                                              Berkeley                6%       4%       7%
+                                                              Hayward                 2%       4%        -
+                                                             Walnut Creek             2%       3%       1%
+
+
+    Richmond Route (City of Origin) *
+                                    Week       Week                                           Week     Week
+Northbound               Total      day        end            Southbound              Total   day      end
+Base: (All                 110         60       50                                     139      79       60
+Respondents)
+San Francisco             97%          97%     98%             Richmond               55%      57%      52%
+                                                                Berkeley              9%       3%       17%
+                                                               San Pablo              9%       13%      3%
+                                                                 Albany               7%       5%       8%
+                                                               El Cerrito             5%       6%       3%
+                                                              El Sobrante             4%       5%       2%
+                                                              Kensington              2%       1%       3%
+    *Answers from respondents who provided the same location for both their origin and destination were removed. Only
+    responses from 2% or greater of riders overall are shown, see crosstabulated tables for complete list.
+
+
+    16 | P a g e
+    San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+    South San Francisco Route (City of Origin) *
+     Eastbound                     Total        Westbound               Total
+     Base: (All Respondents)         2                                   39
+     South San Francisco          100%           Alameda                59%
+                                                 Oakland                33%
+                                                  Albany                3%
+                                                Emeryville              3%
+                                               San Leandro              3%
+
+
+    Vallejo Route (City of Origin) *
+                                 Week       Week                                              Week     Week
+Eastbound                Total   day        end               Westbound               Total   day      end
+Base: (All                 193    150         43                                       324     270       54
+Respondents)
+San Francisco             96%     96%       95%                 Vallejo               50%      52%      41%
+                                                               Fairfield              11%      12%      7%
+                                                                 Napa                 8%       8%       7%
+                                                               Benicia                7%       7%       9%
+                                                           American Canyon            6%       5%       9%
+                                                              Vacaville               4%       4%       6%
+                                                             Sacramento               2%       2%       4%
+                                                              Calistoga               2%       2%        -
+                                                             Suisun City              2%       2%        -
+    *Answers from respondents who provided the same location for both their origin and destination were removed. Only
+    responses from 2% or greater of riders overall are shown, see crosstabulated tables for complete list.
+
+
+
+
+    17 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+Three quarters (75%) of respondents were going to a destination in San Francisco (57%) or Alameda
+(18%) counties.
+
+Where will you END this trip? (County of destination)*
+
+                                                                           By Route
+                                            Alameda     Harbor    Oakland/                     S. San
+                                  TOTAL     Seaplane     Bay      Alameda      Richmond      Francisco     Vallejo
+ Base: (All Respondents)           1,786       185        211        458          280           41             611
+ Bay Area County                   99%       100%       100%         99%        100%          100%             99%
+   San Francisco County            57%        72%        54%         58%         51%            -              60%
+   Alameda County                  18%        28%        43%         38%          3%           2%              <1%
+   Solano County                   10%          -          -           -           -            -              30%
+   Contra Costa County             8%           -        <1%          2%         45%           2%               1%
+   San Mateo County                3%           -         2%         <1%          1%           95%               -
+   Napa County                     2%           -          -           -           -            -               6%
+   Santa Clara County              <1%         1%          -           -           -            -              <1%
+   Marin County                    <1%          -          -           -           -            -              <1%
+   Sonoma County                   <1%          -          -         <1%           -            -
+ Other California County           1%           -          -         1%          <1%            -           1%
+   Sacramento County               <1%          -          -           -         <1%            -            1%
+   San Joaquin County              <1%          -          -         <1%           -            -           <1%
+   Placer County                   <1%          -          -         <1%           -            -             -
+   Stanislaus County               <1%          -          -         <1%           -            -             -
+                   Blank (#)       116          9          8          37          16            -            46
+                     TOTAL        100%       100%       100%        100%        100%          100%         100%
+
+*Answers from respondents who provided the same location for both their origin and destination were removed.
+
+
+
+
+18 | P a g e
+    San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+    Alameda Seaplane Route (City of Destination) *
+     Eastbound                   Total        Westbound        Total
+     Base: (All Respondents)      47                            127
+     Alameda                     98%         San Francisco     98%
+     Oakland                      2%
+
+
+
+
+    Harbor Bay Route (City of Destination) *
+     Eastbound                   Total           Westbound             Total
+     Base: (All Respondents)      88                                    113
+     Alameda                     88%            San Francisco          96%
+     San Leandro                  3%         South San Francisco       4%
+     Hayward                      2%
+     Oakland                      2%
+     San Lorenzo                  2%
+
+    Oakland/Alameda Route (City of Destination) *
+                                    Week        Week                                          Week     Week
+Eastbound                Total      day         end            Westbound              Total   day      end
+Base: (All                 150         79        71                                    215     114       101
+Respondents)
+Oakland                   63%          79%      47%           San Francisco           99%      98%     100%
+Alameda                   17%          4%       32%
+Berkeley                   3%          3%        3%
+Hayward                    3%          3%        3%
+Lafayette                  2%          4%         -
+    *Answers from respondents who provided the same location for both their origin and destination were removed. Only
+    responses from 2% or greater of riders overall are shown, see crosstabulated tables for complete list.
+
+
+
+
+    19 | P a g e
+    San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+    Richmond Route (City of Destination) *
+                                      Week      Week                                            Week   Week
+Northbound                Total       day       end           Southbound                Total   day    end
+Base: (All                  113        74        39                                      129     78      51
+Respondents)
+Richmond                   60%        68%       51%          San Francisco              98%     97%    100%
+El Cerrito                  8%        5%        11%
+San Pablo                   7%        6%         7%
+Pinole                      4%        5%         4%
+Albany                      3%         -         7%
+El Sobrante                 3%        5%         2%
+Hercules                    3%        3%-        4%
+Kensington                  3%        5%         2%
+Port Richmond               3%        2%         4%
+
+
+    South San Francisco Route (City of Destination) *
+      Eastbound                        Total           Westbound                Total
+      Base: (All Respondents)               2                                    39
+      Alameda                          50%        South San Francisco           90%
+      Dublin                           50%             Brisbane                 3%
+                                                       Daly City                3%
+                                                       Millbrae                 3%
+                                                      San Bruno                 3%
+
+    Vallejo Route (City of Destination) *
+                                      Week      Week                                            Week   Week
+Eastbound                  Total      day       end           Westbound                 Total   day    end
+Base: (All Respondents)         201   157        44                                      308    262      46
+Vallejo                     61%       64%       50%          San Francisco              99%     99%     98%
+Fairfield                   10%       9%        16%
+Napa                        10%       10%        9%
+Benicia                     4%        3%         5%
+Sacramento                  2%        1%         2%
+Vacaville                   2%        2%          -
+    *Answers from respondents who provided the same location for both their origin and destination were removed. Only
+    responses from 2% or greater of riders overall are shown, see crosstabulated tables for complete list.
+
+
+
+
+    20 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+Access (getting to) and Egress (going from)
+Among all respondents, nearly two-thirds (62%) used some form of car-based transportation to
+access their ferry, while 17% walked all the way, 13% used a bike or scooter, 9% used public transit,
+and 1% used a private shuttle.
+
+       Those respondents coming from home were the most likely to drive (50%) to the ferry. Those
+        coming from work were the most likely (43%) to walk to the ferry.
+       When viewed by terminal:
+           o Respondents leaving from Vallejo were most likely to use car-based transit (89%) to
+               reach the terminal.
+           o Respondents leaving from Harbor Bay were most likely to use a bike or scooter (31%)
+               to get to that terminal.
+           o Those leaving from San Francisco were most likely to use public transit (16%) to access
+               that terminal. They were also the most likely to walk all the way to access that
+               terminal (25%).
+
+
+
+How did you get to this ferry? (Multiple responses accepted)
+
+                                       2025       2024                  2025
+                                      TOTAL      TOTAL     Weekday         Weekend
+ Base: (All Respondents)              1,786       1,744         1,281          505
+ Car-Based (Net)                      64%         56%           61%            72%
+  Drive (park and ride)               48%         40%           45%            54%
+  Dropped off by car                  12%          9%           12%            12%
+  Uber / Lyft / Waymo                  5%          7%            4%             6%
+  Taxi                                <1%         <1%           <1%              -
+ Walked all the way                   17%         21%           17%            16%
+ Bike / Scooter                       13%         14%           16%            8%
+ Public transit (bus/rail)            9%          11%           9%             8%
+ Private/Employer shuttle             <1%         1%            1%             <1%
+                          Blank (#)    15          17            11              4
+
+
+
+
+21 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+Among all respondents, one-third (38%) used some form of car-based transportation to get from the
+ferry to their destination, while 34% walked all the way, 16% used public transit, 15% used a bike or
+scooter, and 2% used a private shuttle.
+
+       Those respondents coming from home were the most likely to walk (44%) to their destination.
+        Those coming from work were the most likely (41%) to drive.
+       When viewed by terminal:
+           o Respondents arriving in Vallejo were most likely to use car-based transit (78%) to reach
+               their destination.
+           o Respondents arriving at Alameda Seaplane were most likely to use a bike or scooter
+               (50%) to get to their destination.
+           o Those arriving in San Francisco were most likely to use public transit (23%) to access
+               their destination. These respondents were also the most likely to walk all the way to
+               their destination (44%).
+
+And how will you get to your destination after you exit this ferry? (Multiple responses accepted)
+
+                                        2025     2024               2025
+                                       TOTAL    TOTAL     Weekday     Weekend
+ Base: (All Respondents)                1,786     1,786     1,281          505
+ Car-Based (Net)                        38%       40%       31%            56%
+  Drive (park and ride)                 23%       24%       20%            32%
+  Picked up by car                       8%        8%        6%            12%
+  Uber / Lyft / Waymo                    6%        7%        4%            11%
+  Taxi                                   1%        1%        1%            <1%
+ Walk all the way                       34%       30%       37%            26%
+ Public transit (bus/rail)              16%       16%       16%            15%
+ Bike / Scooter                         15%       15%       18%             7%
+ Private/Employer shuttle               2%        2%         2%            <1%
+                           Blank (#)    309       299       197            112
+
+
+
+
+22 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+Access/Egress by Terminal
+Alameda Main Street Terminal
+
+                   Access*                                    Egress^
+ Base: (All Respondents)        92          Base: (All Respondents)     49
+ Car-Based (Net)               74%          Car-Based (Net)             67%
+  Drive (park and ride)        58%           Drive (park and ride)      47%
+  Dropped off by car           13%           Picked up by car           10%
+  Uber/Lyft/Waymo               3%           Uber/Lyft/Waymo            10%
+ Walked all the way            14%          Walk all the way            22%
+ Bike / Scooter                12%          Bike / Scooter              12%
+ Public transit (bus/rail)     3%           Public transit (bus/rail)   2%
+
+Alameda Seaplane Terminal
+
+                   Access*                                    Egress^
+ Base: (All Respondents)        135         Base: (All Respondents)     44
+ Car-Based (Net)               82%          Bike / Scooter              50%
+  Drive (park and ride)        71%          Car-Based (Net)             11%
+  Dropped off by car           10%           Drive (park and ride)       7%
+  Uber/Lyft/Waymo               1%           Picked up by car            5%
+ Bike / Scooter                19%          Walk all the way            36%
+ Walked all the way            10%          Public transit (bus/rail)   2%
+ Public transit (bus/rail)     1%
+
+
+Harbor Bay Terminal
+
+                   Access*                                    Egress^
+ Base: (All Respondents)        119         Base: (All Respondents)     80
+ Car-Based (Net)               47%          Car-Based (Net)             38%
+  Drive (park and ride)        35%           Drive (park and ride)      29%
+  Dropped off by car           11%           Picked up by car            9%
+  Uber/Lyft/Waymo               1%          Bike / Scooter              29%
+ Bike / Scooter                31%          Walk all the way            24%
+ Walked all the way            22%          Private/Employer            8%
+                                            shuttle
+ Public transit (bus/rail)     4%           Public transit (bus/rail)   4%
+ Private/Employer              3%
+ shuttle
+
+*Boarded at this terminal
+^Alighted at the terminal
+
+
+
+
+23 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+Oakland Terminal
+
+                   Access*                                    Egress^
+ Base: (All Respondents)        196         Base: (All Respondents)     112
+ Car-Based (Net)               60%          Car-Based (Net)             52%
+  Drive (park and ride)        42%           Drive (park and ride)      38%
+  Uber/Lyft/Waymo               9%           Uber/Lyft/Waymo             7%
+  Dropped off by car            8%           Picked up by car            6%
+ Walked all the way            23%           Taxi                        1%
+ Bike / Scooter                14%          Walk all the way            29%
+ Public transit (bus/rail)     7%           Bike / Scooter              13%
+                                            Public transit (bus/rail)   8%
+
+Richmond Terminal
+
+                   Access*                                    Egress^
+ Base: (All Respondents)        147         Base: (All Respondents)     116
+ Car-Based (Net)               86%          Car-Based (Net)             71%
+  Drive (park and ride)        69%           Drive (park and ride)      59%
+  Dropped off by car           16%           Picked up by car            9%
+  Uber/Lyft/Waymo               1%           Uber/Lyft/Waymo             3%
+ Walked all the way            7%           Walk all the way            18%
+ Bike / Scooter                7%           Bike / Scooter              9%
+ Public transit (bus/rail)     2%           Public transit (bus/rail)   4%
+
+
+San Francisco Terminal
+
+                   Access*                                    Egress^
+ Base: (All Respondents)        723         Base: (All Respondents)     824
+ Car-Based (Net)               47%          Walk all the way            44%
+  Drive (park and ride)        35%          Public transit (bus/rail)   23%
+  Dropped off by car            7%          Car-Based (Net)             22%
+  Uber/Lyft/Waymo               5%           Drive (park and ride)      10%
+  Taxi                         <1%           Uber/Lyft/Waymo             7%
+ Walked all the way            25%           Picked up by car            4%
+ Public transit (bus/rail)     16%           Taxi                        1%
+ Bike / Scooter                15%          Bike / Scooter              15%
+ Private/Employer              <1%          Private/Employer            1%
+ shuttle                                    shuttle
+
+*Boarded at this terminal
+^Alighted at the terminal
+
+
+
+
+24 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+South San Francisco Terminal
+                   Access*                                    Egress^
+ Base: (All Respondents)         2          Base: (All Respondents)     35
+ Car-Based (Net)               50%          Bike / Scooter              40%
+  Drive (park and ride)        50%          Walk all the way            26%
+ Public transit (bus/rail)     50%          Public transit (bus/rail)   20%
+                                            Private/Employer            14%
+                                            shuttle
+                                            Car-Based (Net)             11%
+                                             Uber/Lyft/Waymo            11%
+
+
+Vallejo Terminal
+
+                   Access*                                    Egress^
+ Base: (All Respondents)        353         Base: (All Respondents)     207
+ Car-Based (Net)               89%          Car-Based (Net)             78%
+  Drive (park and ride)        59%           Drive (park and ride)      44%
+  Dropped off by car           25%           Picked up by car           24%
+  Uber/Lyft/Waymo               5%           Uber/Lyft/Waymo             9%
+  Taxi                         <1%           Taxi                        1%
+ Bike / Scooter                 6%          Walk all the way            11%
+ Public transit (bus/rail)      5%          Public transit (bus/rail)   7%
+ Walked all the way            3%           Bike / Scooter              6%
+ Private/Employer              <1%          Private/Employer            <1%
+ shuttle                                    shuttle
+
+*Boarded at this terminal
+^Alighted at the terminal
+
+
+
+
+25 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+Trip Purpose
+Overall, respondents use the ferries to commute to work or school (55%), travel to entertainment or
+recreation locations (34%) or sightseeing (12%)
+
+       Respondents on the South San Francisco and the Harbor Bay ferries were the most likely to be
+        using the ferry to commute to work or school (98% and 87% respectively). Respondents on
+        the Oakland/Alameda ferry were the most likely to be traveling to an entertainment or
+        recreation destination (59%) or for sightseeing (16%).
+       Weekday riders were most likely to be commuting (74%). Weekend riders were most likely to
+        be traveling to an entertainment/recreation destination (81%) or sightseeing (22%).
+       Bay Area residents were most likely to be commuting (61%) and visitors to be traveling to an
+        entertainment/recreation destination (63%).
+
+What is the purpose of your trip? (Multiple responses accepted)
+
+                                         2025        2024                2025
+                                        TOTAL       TOTAL      Weekday     Weekend
+ Base: (All Respondents)                1,786       1,744       1,281           505
+ Commute to/from work or school         55%         56%         74%              6%
+ Entertainment/Recreation               34%         34%         16%             81%
+ Sightseeing                            12%         11%          8%             22%
+ Shopping                               4%           5%          2%             9%
+ Medical/Dental                         2%           1%          2%             <1%
+ Work related meeting/event             1%           1%          1%               -
+ Personal business                      1%           1%          1%             1%
+ Volunteer/Church                       <1%         <1%         <1%             1%
+                        Blank (#)        30          24          13              17
+
+                                                                    By Route (2025)
+                                         Alameda      Harbor    Oakland/                     S. San
+                               TOTAL     Seaplane      Bay      Alameda         Richmond   Francisco   Vallejo
+ Base: (All Respondents)        1,786      185         211         458            280         41        611
+ Commute to/from work           55%       86%         87%         29%             45%        98%       57%
+ or school
+ Entertainment/Recreation       34%        9%          6%         59%             47%         -        30%
+ Sightseeing                    12%        7%          2%         16%             12%        2%        14%
+ Shopping                       4%         1%          1%          5%             8%          -         3%
+ Medical/Dental                 2%         2%          2%          1%             1%          -         2%
+ Work related                   1%         1%          1%          1%             1%          -         1%
+ meeting/event
+ Personal business              1%          -           -          1%             <1%          -        1%
+ Volunteer/Church               <1%         -           -         <1%             <1%          -        1%
+                   Blank (#)     30         -           -           9              6           -        15
+
+
+
+26 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+Ridership Frequency
+Overall, respondents ride their ferry an average of 2.4 days per week.
+
+         Average use per week is roughly the same as in 2024 (2.4 days/week in 2025 vs. 2.3
+          days/week in 2024)
+         The most frequent users of SF Bay Ferry tend to be on the Harbor Bay (average 3.4
+          days/week) Alameda Seaplane, and South San Francisco (both average 3.2 days/week) routes.
+         Frequency of use tends to be higher during typical rush hour periods. Weekday peak users
+          tend to use the service about 3.1 days per week, while off peak weekday users use the service
+          an average of 1.8 days/week, and weekend users ride SF Bay Ferry an average of 0.8
+          days/week. Use during AM Peak appears to be more frequent (average 3.4 days/week) than
+          during PM Peak (2.7 days/week).
+         Those living in the Bay Area overall average 2.5 days/week, while visitors average 1
+          days/week.
+
+How often do you use SF Bay Ferry?
+
+                                          2025    2024
+                                         TOTAL   TOTAL
+Base: (All Respondents)                  1,786    1,744
+6 to 7 days/week                          2%       1%
+(6.5 days/week)
+5 days/week                              17%      18%
+(5 days/week)
+3 to 4 days/week                         25%      23%
+(3.5 days/week)
+1 to 2 days/week                         14%      15%
+(1.5 days/week)
+1 to 3 days/month                        13%      14%
+(0.25 days/week)
+Less than once per month (0.1            19%      19%
+days/week)
+This is my first time on the ferry        10%      10%
+                             Blank (#)     7        8
+                               TOTAL     100%     100%
+
+                  Average # days/week    2.36     2.31
+
+
+
+
+27 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+                                                                   By Route (2025)
+
+                                         Alameda    Harbor      Oakland/                S. San    Vallejo
+                                 TOTAL   Seaplane    Bay        Alameda    Richmond   Francisco
+ Base: (All Respondents)         1,786     185       211          458        280         41        611
+ 6 to 7 days/week                 2%        -        1%           3%         3%         2%         2%
+ (6.5 days/week)
+ 5 days/week                     17%      26%       31%           6%         14%        17%       20%
+ (5 days/week)
+ 3 to 4 days/week                25%      41%       43%          13%         19%        51%       22%
+ (3.5 days/week)
+ 1 to 2 days/week                14%      18%       11%          12%         15%        17%       15%
+ (1.5 days/week)
+ 1 to 3 days/month               13%       5%        7%          19%         14%        7%        13%
+ (0.25 days/week)
+ Less than once per month        19%       4%        3%          33%         24%        2%        18%
+ (0.1 days/week)
+ This is my first time on the    10%       6%        4%          15%         11%        2%        10%
+ ferry
+                     Blank (#)     7        -         -            4          -          -          3
+                       TOTAL     100%     100%      100%         100%       100%       100%       100%
+
+       Average # days/week       2.36     3.20      3.43         1.42       2.07        3.16      2.42
+
+
+
+
+28 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+Alternatives to SF Bay Ferry
+Two thirds of riders (65%) would use a car-based type of transport if they didn’t take a ferry, with
+43% opting to drive alone. Slightly fewer (58%) would use public transit, with 45% opting for BART or
+other rail transit. Notably, 10% of riders have no alternative to SF Bay Ferry.
+
+       Richmond (65%) and Oakland/Alameda (56%) riders were the most likely to use BART/Rail as
+        an alternative to the ferry. South San Francisco (68%) and Vallejo (48%) riders were the most
+        likely to drive alone as an alternative to the ferry.
+       Weekday riders were as likely to use a car-based type of transport rather than public transit as
+        an alternative to the ferry (60% for each mode). Weekend riders, however, were much more
+        likely to use a car-based type of transport rather than public transit (78% vs. 54%).
+
+What other type of transportation would you have used if you didn’t take the ferry for your trip
+today? (Multiple responses accepted)
+
+                                                                        By Route
+                                         Alameda    Harbor      Oakland/                S. San
+                                 TOTAL   Seaplane    Bay        Alameda    Richmond   Francisco   Vallejo
+ Base: (All Respondents)         1,786     185       211          458         280        41        611
+ Auto (Net)                      65%      57%       52%          66%         65%        85%        71%
+  Drive alone                    43%      40%       37%          39%         39%        68%        48%
+  Carpool                        12%       8%        7%          11%         16%        10%        13%
+  Uber / Lyft / Waymo            10%       9%        8%          16%         10%         7%         9%
+ Public Transit (Net)            58%      67%       64%          68%         72%        49%        41%
+  BART / rail transit            45%      37%       49%          56%         65%        39%        31%
+  Bus                            13%      30%       16%          12%          7%        10%        10%
+ Bicycle                         <1%        -         -          <1%         1%           -        <1%
+ Ferry is my only option         10%      12%       13%           4%         5%         7%         16%
+ Would not have made trip        <1%      1%        1%           <1%           -          -        <1%
+                     Blank (#)    14        1         -           11           -          -          2
+
+
+
+
+29 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+Home Location
+The Oakland & Alameda Ferry has the highest share of riders from outside the San Francisco Bay Area
+(15%), while South San Francisco (<1%) and Harbor Bay (3%) ferries have the lowest.
+
+What is your five-digit home zip code?
+
+Zip Code is in:
+                                                                                By Route
+                                               Alameda      Harbor     Oakland/                      S. San
+                                    TOTAL      Seaplane      Bay       Alameda      Richmond       Francisco      Vallejo
+ Base: (All Respondents)             1,786        185         211         458          280             41           611
+ Bay Area County                      91%        96%        97%          85%          94%            100%          91%
+   Alameda County                     38%        77%         74%         65%           13%            95%           1%
+   Solano County                      22%          -          -          <1%            2%             -           65%
+   Contra Costa County                14%         1%         2%           5%           70%             -            3%
+   San Francisco County               11%        18%         20%         12%            8%             -            7%
+   Napa County                        5%           -          -            -             -             -           14%
+   San Mateo County                   1%           -         1%           1%            1%            2%           <1%
+   Sonoma County                      <1%          -          -          <1%             -             -           <1%
+   Marin County                       <1%          -          -          <1%           <1%             -             -
+   Santa Clara County                 <1%          -          -          <1%             -            2%             -
+ Other California County*             5%         <1%         <1%         9%            3%             <1%          6%
+   Sacramento County                   1%          -          -          <1%           1%              -            3%
+   San Joaquin County                  1%          -          -           2%             -             -           <1%
+ Outside California                   4%         4%          2%          7%            3%              -           4%
+                   Blank (#)          122         13          8           36            13             -            52
+                     TOTAL           100%       100%        100%        100%          100%           100%         100%
+
+*Outside the San Francisco Bay Area, only counties representing at least 1% overall of responses are shown. Please see
+tables for a complete list
+
+                                                                                By Route
+                                               Alameda      Harbor     Oakland/                      S. San
+                                    TOTAL      Seaplane      Bay       Alameda      Richmond       Francisco      Vallejo
+ Base: (All Respondents)             1,786        185         211         458          280             41           611
+ Live in the San Francisco           91%         96%         97%         85%           94%           100%          91%
+ Bay Area
+ Visiting                             9%         4%          3%          15%           6%              -           9%
+                    Blank (#)         122        13           8           36           13              -           52
+                      TOTAL          100%       100%        100%        100%          100%           100%         100%
+
+
+
+
+30 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+Home Zip Code by Route
+Alameda Seaplane Route*
+                            Total       Weekday      Weekend
+ Base: (All Respondents)     185          185           -
+ 94501                      71%           71%            -
+ 94117                       3%            3%            -
+ 94110                       2%            2%            -
+ 94502                       2%            2%            -
+ 94107                       2%            2%            -
+ 94109                       2%            2%            -
+
+
+Harbor Bay Route*
+                            Total       Weekday      Weekend
+ Base: (All Respondents)     211          211           -
+ 94502                      47%           47%            -
+ 94501                      18%           18%            -
+ 94107                       3%            3%            -
+ 94577                       3%            3%            -
+ 94109                       3%            3%            -
+ 94117                       2%            2%            -
+
+
+Oakland/Alameda Route*
+                            Total       Weekday      Weekend
+ Base: (All Respondents)     458          228          230
+ 94501                      15%            5%          25%
+ 94607                      12%           19%           6%
+ 94610                       6%           10%           2%
+ 94611                       4%            6%           2%
+ 94605                       4%            3%           4%
+ 94602                       3%            3%           3%
+ 94606                       3%            2%           4%
+ 94612                       2%            3%           1%
+ 94608                       2%            2%           1%
+
+
+*Only zip codes representing at least 2% overall of responses are shown. Please see tables for a complete list
+
+
+
+
+31 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+Richmond Route*
+                            Total       Weekday      Weekend
+ Base: (All Respondents)     280          147          133
+ 94804                      28%           34%          22%
+ 94806                      13%           15%          10%
+ 94801                       9%            7%          11%
+ 94530                       7%            6%           9%
+ 94706                       6%            4%           7%
+ 94803                       4%            6%           2%
+ 94805                       4%            4%           4%
+ 94707                       3%            2%           5%
+ 94547                       2%            3%           2%
+ 94564                       2%            3%           1%
+
+South San Francisco Route^
+                            Total       Weekday      Weekend
+ Base: (All Respondents)     49           49            -
+ 94501                      41%           41%            -
+ 94502                      12%           12%            -
+ 94608                      10%           10%            -
+ 94605                       5%            5%            -
+ 94607                       5%            5%            -
+
+Vallejo Route*
+                            Total       Weekday      Weekend
+ Base: (All Respondents)     611          469          142
+ 94590                      17%           18%          16%
+ 94591                      17%           20%          10%
+ 94589                       8%            9%           6%
+ 94534                       6%            6%           6%
+ 94533                       5%            6%           2%
+ 94510                       5%            5%           6%
+ 94503                       5%            5%           5%
+ 94558                       4%            3%           5%
+ 94559                       3%            4%           2%
+ 95687                       2%            2%           2%
+ 94585                       2%            2%           1%
+*Only zip codes representing at least 2% overall of responses are shown. Please see tables for a complete list
+^Only zip codes representing at least 4% overall of responses are shown. Please see tables for a complete list
+
+
+
+
+32 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+Demographics
+What languages do you regularly speak at home? (Multiple respondents accepted)
+
+                                                                                By Route
+                                               Alameda      Harbor     Oakland/                       S. San
+                                       TOTAL   Seaplane      Bay       Alameda      Richmond        Francisco      Vallejo
+ Base: (All Respondents)               1,786      185         211         458           280            41              611
+ English                               94%       97%         96%         94%           96%            95%              94%
+ Spanish                               12%        9%         3%          12%           18%            5%               13%
+ Chinese                               3%         2%          6%          3%            3%            5%                1%
+ Tagalog                               1%         1%          1%         <1%           <1%             -                3%
+ French                                1%         1%         <1%          1%           <1%             -               <1%
+ German                                1%         1%           -          1%           <1%             -               <1%
+                           Blank (#)    29         4           5           5             7             -                 8
+
+*Only responses with at least 1% response shown above (see tables for full list). It should be noted this survey was
+offered in English, Spanish and Chinese.
+
+How well do you speak English?
+
+                                                                                By Route
+                                               Alameda      Harbor     Oakland/                       S. San
+                                       TOTAL   Seaplane      Bay       Alameda      Richmond        Francisco      Vallejo
+ Base: (All Respondents)               1,786      185         211         458           280            41              611
+ Very Well – 4                          92%       95%        96%         95%           91%            95%           89%
+ Well – 3                               5%         2%         3%          3%           6%             5%             8%
+ Not Well – 2                           2%         3%        <1%          1%           2%              -             2%
+ Not at All – 1                         1%          -          -         <1%           1%              -             1%
+                  Blank (#)              27         3          4           7            3              -             10
+                    TOTAL              100%      100%       100%        100%          100%           100%          100%
+       Average (mean) score            3.90      3.92       3.96        3.93          3.88           3.95          3.85
+
+Gender
+
+                                                                                By Route
+                                               Alameda      Harbor     Oakland/                       S. San
+                                       TOTAL   Seaplane      Bay       Alameda      Richmond        Francisco      Vallejo
+ Base: (All Respondents)               1,786      185         211         458           280            41              611
+ Female                                 50%       49%        47%         48%           56%            37%           52%
+ Male                                   48%       50%        52%         49%           42%            61%           47%
+ Non-Binary/Other                       2%         1%        <1%          3%           1%             2%             2%
+                 Blank (#)               50         3         6           17            11             -             13
+                   TOTAL               100%      100%       100%        100%          100%           100%          100%
+
+
+
+
+33 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+Race/Ethnicity (multiple responses accepted) *
+
+                                                                              By Route
+                                              Alameda      Harbor    Oakland/                      S. San
+                                   TOTAL      Seaplane      Bay      Alameda      Richmond       Francisco      Vallejo
+Base: (All Respondents)              1,786       185        211         458           280            41           611
+Caucasian/White                      50%        60%         49%         59%          47%            60%          40%
+Asian/Pacific Islander               29%        28%         43%         20%          29%            35%          30%
+Hispanic/Latino                      20%        14%         9%          20%          27%            5%           23%
+African American/Black               11%         7%         5%          12%          9%             8%           16%
+Native American                      1%          1%         1%           1%          1%              -            2%
+                    Blank (#)         97          9          10          30           10             1            37
+                       TOTAL        100%       100%        100%        100%         100%           100%         100%
+
+                                        2025              2024
+                                       TOTAL             TOTAL
+Caucasian/White                         50%               54%
+Asian/Pacific Islander                  29%               25%
+Hispanic/Latino                         20%               18%
+African American/Black                  11%               11%
+Native American                          1%                2%
+Blank (#)                                97                118
+ TOTAL                                 100%              100%
+
+Age
+
+                                                                              By Route
+                                              Alameda      Harbor    Oakland/                      S. San
+                                   TOTAL      Seaplane      Bay      Alameda      Richmond       Francisco      Vallejo
+  Base: (All Respondents)            1,786       185        211         458           280            41           611
+  13-17 (15 years)                   3%          1%          -           3%          4%              -            3%
+  18-23 (20.5 years)                 6%          5%         4%           6%          6%             2%            9%
+  24-35 (29.5 years)                 24%        29%         29%         24%          19%            27%          21%
+  35-44 (39.5 years)                 28%        37%         28%         29%          26%            34%          24%
+  45-54 (49.5 years)                 18%        16%         20%         15%          23%            32%          16%
+  55-64 (59.5 years)                 13%         8%         10%         14%          14%            2%           15%
+  65 and older (70 years)            9%          5%         9%           9%          9%             2%           12%
+                     Blank (#)        33          -          1           16           3              -            13
+                       TOTAL        100%       100%        100%        100%         100%           100%         100%
+       Average age (# years)        42.4       40.3        42.7        42.3         43.2           40.8         42.9
+
+*Prior to 2024, this was a single response question. Respondents who were of more than one ethnicity selected "more
+than one race." In 2024, as a multiple response question, respondents of more than one ethnicity could select multiple
+ethnicities. For this reason, previous results are not shown.
+
+
+
+
+34 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+                                    2025            2024          2022               2017
+                                   TOTAL           TOTAL         TOTAL              TOTAL
+Under 35                            33%             34%           38%                29%
+35-44                               28%             24%           20%                25%
+45-54                               18%             18%           21%                22%
+55-64                               13%             13%           14%                16%
+65 and older                         9%             11%            8%                 8%
+
+Annual Household Income
+
+                                                                         By Route
+                                        Alameda                  Oakland/                     S. San
+                                TOTAL   Seaplane    Harbor Bay   Alameda      Richmond      Francisco   Vallejo
+Base: (All Respondents)         1,786      185         211         458          280            41         611
+Under $15,000 ($7,500)           3%          -         -           3%           3%              -         4%
+$15,000 - $24,999 ($19,999.5)    2%          -         -           2%           2%              -         4%
+$25,000 - $49,999 ($37,499.5)    6%         4%        4%           6%           4%             3%         8%
+$50,000 - $74,999 ($62,499.5)    9%         2%        2%           9%           10%            3%        13%
+$75,000 - $99,999 ($87,499.5)   11%         8%        3%          12%           15%            8%        12%
+$100,000 - $149,999             21%        22%        14%         22%           19%           15%        23%
+($124,500)
+$150,000 - $199,999             14%        17%        14%         12%           18%           13%        14%
+($174,999.5)
+$200,000 and above              34%        47%        63%         35%           30%           59%        21%
+($225,000)
+                     Blank (#) 247         27          35          57           41             2         85
+                       TOTAL 100%         100%        100%        100%         100%          100%       100%
+           Average income ($) 146,338    172,357     188,786     144,846      144,236       183,577     123,642
+
+
+                                   2025             2024          2022           2017
+                                  TOTAL            TOTAL         TOTAL          TOTAL
+Under $100,000                     30%              31%           29%            32%
+$100,000 - $199,999                35%              33%           40%            43%
+$200,000 and above                 34%              36%           30%            25%
+
+
+
+
+35 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+Household Size
+
+                                                                          By Route
+                                          Alameda                 Oakland/                  S. San
+                                  TOTAL   Seaplane   Harbor Bay   Alameda      Richmond   Francisco   Vallejo
+Base: (All Respondents)           1,786     185         211         458          280         41        611
+1                                  19%      20%         17%         23%          22%        20%        15%
+2                                  34%      34%         34%         36%          33%        27%        33%
+3                                  19%      21%         20%         16%          18%        24%        19%
+4                                  18%      14%         23%         15%          18%        24%        20%
+5                                  7%        9%         6%           6%          6%          5%         7%
+6 or more                          4%        3%         3%           2%          4%           -         6%
+                      Blank (#)    247       27          35          57           41          2         85
+                        TOTAL     100%     100%        100%        100%         100%       100%       100%
+           Average # people in     2.7      2.7         2.8         2.5          2.6        2.7        2.9
+                   household
+
+
+
+
+36 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+
+
+                                       Appendices
+
+
+
+
+37 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+
+
+Questionnaires
+
+
+
+
+38 | P a g e
+                                 Customer Survey 2025
+Dear Ferry Passenger,
+Thank you for participating! Please complete this survey to help us plan for the future. You can hand the survey back or
+complete it online at: https://ferrysurvey.com.
+
+ABOUT THIS TRIP
+
+1. Ferry Terminals: Where did you board this ferry and               5. Trip Purpose. What is the purpose of your trip?
+where will you exit?                                                    Commute to/from work or school
+   Boarding Terminal            Exiting Terminal                        Medical/Dental
+     Alameda (Main Street)       Alameda (Main Street)                Shopping
+     Alameda (Seaplane)          Alameda (Seaplane)                   Entertainment/Recreation
+     Harbor Bay                  Harbor Bay                           Sightseeing
+     Oakland                     Oakland                              Other: ____________________________
+     Richmond                    Richmond
+     San Francisco               San Francisco                     6. How often do you use SF Bay Ferry?
+     South San Francisco         South San Francisco                  6 to 7 days/week
+     Vallejo                     Vallejo                              5 days/week
+                                                                        3 to 4 days/week
+2. Starting Point: Where did you BEGIN this trip?                       1 to 2 days/week
+  (NOT Ferry Terminal)
+                                                                        1 to 3 days/month
+     Home            Work        Somewhere else
+                                                                        Less than once per month
+  a. City:________________________________________                      This is my first time on the ferry
+
+  b. Address*:_____________________________________                  7. What other type of transportation would you have
+    * Cross-streets or landmark OK instead                           used if you didn’t take the ferry for your trip today?
+                                                                        Drive alone
+3. Destination: Where will you END this trip?                           Carpool
+  (NOT Ferry Terminal)                                                  Uber / Lyft / Waymo
+     Home            Work        Somewhere else                      Bus
+                                                                        BART / rail transit
+  a. City:_______________________________________
+                                                                        Ferry is my only option
+                                                                        Other: _______________________________________
+  b. Address*:_____________________________________
+    * Cross-streets or landmark OK instead
+                                                                     8. What are the main reasons you ride the ferry?
+                                                                     (select up to three)
+4. Access. How did you get to this ferry? And how will you
+get to your final destination after you exit this ferry?                Faster
+(Check all that apply)                           Will Use to            Less expensive
+                                    Got to      Get to Final            Relaxing / reduces stress
+                                    Ferry       Destination
+                                                                        Avoids traffic
+Walk(ed) all the way                                                  Better for the environment
+Bike / Scooter                                                        Parking is easier / less expensive
+                                                                        Productive use of time
+Drive (park and ride)                                                 Don’t have a car / don’t drive
+Dropped off / Picked up by car                                        Sightseeing
+                                                                        Other:__________________________
+Public transit (bus/rail)                          
+Private/Employer shuttle                           
+Taxi                                               
+Uber / Lyft / Waymo                                
+Other (specify):                 __________ __________
+                                                                                                               Run ID: ________
+YOUR OPINION OF SF BAY FERRY SERVICE                                     ABOUT YOU (continued)
+
+9. Overall rating of SF Bay Ferry service:                               12. What is your 5 digit home Zip Code?
+   Very Satisfied
+   Satisfied                                                                    ___ ___ ___ ___ ___
+   Neither satisfied nor dissatisfied                                                            Live outside U.S.
+   Dissatisfied
+                                                                         13. What languages do you regularly speak at home?
+   Very Dissatisfied
+                                                                            English
+COMMENTS: ______________________________________                            Spanish
+                                                                            Chinese
+________________________________________________                            Other: _________________
+
+________________________________________________                         14. How well do you speak English?
+                                                                            Very well
+________________________________________________
+                                                                            Well
+                                                                            Not well
+10. Rating of SF Bay Ferry service on….(circle rating)                      Not at all
+                                            Very              Very
+                                          Dissatisfied       Satisfied   15. Gender:
+                                                                              Male
+Terminal access and amenities ..... 1                2   3   4     5          Female
+                                                                              Non-binary
+Service alerts / delay notifications 1               2   3   4     5          Other: _____________
+
+On-time performance ................... 1            2   3   4     5     16. Race/Ethnicity: (Check all that apply)
+                                                                            Caucasian/White
+Ferry crew ................................... 1     2   3   4     5        Hispanic/Latino
+                                                                            African American/Black
+Cleanliness (onboard) .................. 1           2   3   4     5        Asian/Pacific Islander
+                                                                            Native American
+Feeling safe while onboard .......... 1              2   3   4     5        Other:______________
+
+                                                                         17. How many people are in your household?
+Ease of fare payment ................... 1           2   3   4     5
+                                                                                1      2       3       4    5            6+
+Concessions ................................ 1       2   3   4     5     18. Annual Household Income:
+                                                                            Under $15,000            $75,000 - $99,999
+                                                                            $15,000 - $24,999        $100,000 - $149,999
+ABOUT YOU
+                                                                            $25,000 - $49,999        $150,000 - $199,999
+11. Age:   Under 13                       35 – 44                         $50,000 - $74,999        $200,000 and above
+           13 - 17                        45 - 54
+           18 - 24                        55 - 64
+           25 - 34                        65 & older
+
+
+CONTACT INFORMATION
+May we contact you in the future to ask your opinion about SF Bay Ferry? If so, please complete the following:
+
+Name: ______________________________________________________ Phone: (_______) _____________________
+
+Email Address: ____________________________________________________________________________________
+
+Thank you for your responses! You can also complete this survey online (see link on first page) OR mail to: SF Bay Ferry Survey 2025,
+c/o Corey, Canapary & Galanis, 447 Sutter Street – PH North, San Francisco, CA 94108
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+
+
+Verbatim Responses
+Comments provided as a response to Q9 (Overall Rating of SF Bay Ferry Service)
+
+
+
+
+43 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                        Comments from the Alameda Seaplane Ferry
+                             Q9 Rating – Very Satisfied (5)
+I HAVE BEEN TAKING THE FERRY FOUR YEARS AND I LOVE IT.
+LOVE IT! WISH WE HAD MORE STATIONS.
+[NAMES REMOVED] ARE AMAZING - THEY CARE AND SUPPORT THE NEEDS OF THE CONSUMER
+GREAT CREW/GREAT EXPERIENCE
+NOTE: THERE NEEDS TO BE MORE DONE ON SECURITY AT THE SEAPLNE PARKING DUE TO VEHICLE
+THEFTS AND DAMAGE
+APPRECIATE PUBLIC SAFETY ANNOUNCEMENT, BUT SOMETIMES LOUD AND REPEATS IN MULTIPLE
+LANGUAGES. FOR THE SHORT TRIP, IT MAKES MY READING EXPERIENCE LESS ENJOYABLE.
+BEST COMMUTE IN THE USA
+BEST COMMUTE
+I SIGNED UP FOR SERVICE ALERTS BUT NEVER RECEIVE THEM
+BEST WAY TO COMMUTE. NEED MORE ROUTES TO SF- ESPECIALLY TO MISSION BAY.
+I'M SO GLAD YA'LL ADDED THE 2:30ISH BACK TO SEAPLANE.
+FRIENDLY STAFF
+WISH MORE ROUTES AVAILABLE TO ORACLE PARK
+THE FERRY IS MY BEST OPTION FOR COMMUTE TO WORK. IT IS ALWAYS ON TIME, CLEAN, AND
+CONVENIENT.
+I LOVE THE SF BAY FERRY! I DEPEND ON IT FOR MY COMMUTE, AND I WOULDN'T BE ABLE TO GET
+TO WORK WITHOUT IT, BECAUSE I DON'T HAVE A CAR
+I DO MISS FREE COFFEE
+SUCH A LOVELY START AND END TO MY WORKDAY.
+SEEMS TO ALWAYS BE ON TIME AND THIS DIRECTION IS NEVER CROWDED. I MISS THE FREE COFFEE
+THOUGH
+ADD WEEKEND SERVICE TO ALAMEDA SEAPLANE. OTHERWISE, EXCELLENT; DECK HANDS ARE VERY
+FRIENDLY AND PROFESSIONAL
+I WISH SCHEDULE WOULD ALLOW ARRIVALS BACK AT SF SUCH THAT ONE COULD BIKE TO CALTRAIN
+TO CATCH THE NEXT TRAIN!
+LOVE, LOVE COMMUTING BY FERRY! BOATS, STAFF EXPERIENCE ALL TOP NOTCH. ADDITIONAL
+MORNING RIDE (30 MIN VS 1 HR INTERVALS) WOULD BE AMAZING. AND RETURN OF WEEKEND
+SERVICE.
+ALWAYS ON TIME, RELIABLE, COMFORTABLE, CLEAN. SOME OF THE CUSHIONS COULD USE A
+REUPHOLSTER.
+
+
+44 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                        Comments from the Alameda Seaplane Ferry
+                             Q9 Rating – Very Satisfied (5)
+BUT MORE FREQUENT FERRY TIMES LEAVING SF AT COMMUTE HRS WOULD BE HELPFUL 5PM FOR
+EXAMPLE
+AFTER LABOR DAY, MORE COMPANIES WILL BE FULLTIME IN THE OFFICE. MORNING/EVENINGS
+POSSIBLY EVERY 30 MINS INSTEAD OF EVERY HOUR.
+MORE OFFICES ARE BACK TO THE OFFICE, THE 8:20AM FERRY IS FAIRLY CROWDED. IT WOULD BE
+NICE TO HAVE A FERRY EVERY 30 MINS DURING MORNING COMMUTE. THANKS!
+COMFY, NICE VIEWS, AND I CAN COUNT ON ONE HAND HOW MANY TIMES THE FERRY HAS BEEN
+LATE IN 5 YEARS.
+WOULD LOVE A FASTER WAY TO EXIT FERRY WITH FARE PAYMENT. MORE CONCESSION OPTIONS -
+BREAKFAST SANDWHICH, FLAVORED SODA WATER AND FERRY GEAR LIKE PINS!
+I WOULD LIKE IT IF IT WERE EASIER TO BOARD WITHOUT LONG LINE
+THE BEST COMMUTE OF MY LIFE!
+GREAT CREW, CLEAN
+WE LOVE YOU!
+BETTER COVERAGE OF ALAMEDA MAIN ST WOULD BE GOOD. ALSO, TRANSIT SHOULD ACCEPT
+FASTRAK (REALLY)
+MOST FRIENDLY CREW EVER!! GREAT VIBE ON THE BOAT
+THE CREW IS ALWAYS FRIENDLY, HELPFUL, AND UNDERSTANDING WHEN I'M RUNNING LATE.
+I LOVE THE FERRY AND THE CREW IS GREAT!
+THANK YOU FOR THE AMAZING SERVICE AND EXPERIENCE
+THE FERRY IS FANTASTIC! I REALLY APPRECIATE THE FRIENDLY CREWS!
+I AM THRILLED WITH THIS SERVICE. IT HAS MADE SF ACCESSIBLE TO ME EASILY AND EFFICIENTLY
+VERY CLEAN AND ECONOMICAL
+ALWAYS ON TIME. SAFE AND DEPENDABLE AND CONSISTENT
+THANKS FOR EXPANDED NIGHT HOURS COMING SF TO ALAMEDA, AFTER 7PM IS GREAT FOR THOSE
+WHO WORK LATER
+VERY SATISFIED, BUT WISH ALAMEDA/SEAPLANE HAD WEEKEND SCHEDULE
+WONDERFUL SERVICE! ONLY ASK IS FOR MORE PARKING
+EXCELLENT SERVICE
+WOULD LOVE A 7:45
+
+
+
+45 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                        Comments from the Alameda Seaplane Ferry
+                             Q9 Rating – Very Satisfied (5)
+I TAKE SEAPLANE 3X/WEEK FOR WORK AND IT'S AMAZING. GREAT RIDE, PHENOMENAL STAFF, EASY
+PARKING
+
+
+
+
+46 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+
+                        Comments from the Alameda Seaplane Ferry
+                                Q9 Rating – Satisfied (4)
+WOULD LOVE WEEKEND SERVICE FROM SEAPLANE AND AN ALAMEDA CROSSTOWN BUS (EAST END
+TO WEST END)
+MY FAVORITE WAY TO CROSS THE BAY
+HAVING THE SEAPLANE FERRY ON THE WEEKEND/HOLIDAYS
+EVEN MORE TIMES PER DAY WOULD BE NICE. LIKE EVERY 30 MINUTES.
+SEAPLANE ON WEEKENDS WOULD BE NICE. ALL FERRY MODELS NEED SIGNIFICANT BIKE RACK
+SPACE
+THE ONLY COMPLAINT IS WHEN SCHOOL KIDS USUALLY TEENS ARE ONBOARD AND THEY DON'T
+HAVE ANY GUIDANCE; LATEST INCIDENT: LAST FRIDAY THEY WERE RUDE TO ONE OF THE REGULAR
+RIDERS
+MUCH HARDER TO GET PARKING NORMALLY TAKE THE HARBOR BAY FERRY BUT PARKING IS NOW
+FILLING UP VERY EARLY.
+I LIKE THAT IT'S FAST BUT NOT TOO FAST.
+THE WORKERS ARE MY FAVORITE
+BOARDING COULD BE EASIER SHOULD HAVE DEDICATED ENTRY/EXIT LANES
+WIFI ON BOARD IS VERY SPOTTY. FERRY OFTEN ARRIVES LATE, MAKES BOARDING
+STRESSFUL/URGENT.
+BRING BACK FREE COFFEE
+SERVICE IS GOOD. BOATS COULD BE CLEANER AND BETTER MAINTAINED. CREW DOES NOT LOOK
+UNIFORM AND PROFESSIONAL
+MORE FREQUENCY OF TRAVEL ALAMEDA TO SSF
+COULD USE MORE FERRY TIMES FROM SEAPLANE; I WOULD USE IT ON THE WEEKENDS
+JUST WISH THERE WERE MORE (HIGHER FREQUENCY) FERRIES IN THE EVENING
+WOULD LIKE BETTER TIMED AM FERRY TO GET TO ALAMEDA BY 0800 FOR START OF WORK.
+TRANSIT PASS IS AWESOME.
+MISS THE FREE COFFEE IN THE MORNING, BUT NOW I CAN GET DRUNK ON MY WAY TO WORK.
+I WISH SEAPLANE LAGOON WAS OPERATIONAL ON WEEKENDS.
+
+
+
+
+47 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                            Comments from the Harbor Bay Ferry
+                               Q9 Rating – Very Satisfied (5)
+LOVE THE FERRY, BART IS NOT AN OPTION DUE TO AUTO-IMMUNE DISEASE. CAR TRAVEL IS
+FRUSTRATING WITH EXPENSIVE GARAGE AT DESTINATION.
+WHERE IS THE PERALTA? I MISS MY FAVORITE FERRY.
+GREAT TEAM ALWAYS FRIENDLY. WISH THERE WERE MORE DEPARTURE TIMES
+WE DO NEED NEWER FERRY BOATS WITH LARGER CAPACITY
+LOVE THE FERRY, EVERYONE HERE IS HAPPY
+WORLD CLASS COMMUTE!
+ALWAYS CLEAN AND ON TIME. FRIENDLY STAFF, CAFETERIA, COMFORTABLE SEATS
+BOATS HAVE BEEN UPDATED AS WELL AS SAN FRANCISCO TERMINALS, AND THE BOATS HAVE BEEN
+STAYING ON TIME
+STAFF IS ALWAYS FRIENDLY. VERY CLEAN. ALSO DEPENDABLE.
+THE ONLY SUGGESTION WOULD BE TO HAVE AT LEAST TWO OR THREE RUNS TO SF DURING
+WEEKEND DAYS AT HARBOR BAY STATION
+IT WOULD BE GREAT TO HAVE A FERRY THAT GOES TO THE MISSION THOUGH. ALSO HAVING MORE
+FREQUENT EVENING TIMES (E.G. 5, 5:30, 6, 6:30, 7PM) WOULD BE CONVENIENT.
+BEST WAY TO COMMUTE
+YOU NEED MORE HARBOR BAY TIMES. GAP BETWEEN 125 AND 340 (EAST) IS TOO BIG.
+I'VE BEEN RIDING THE FERRY CONSISTENTLY FOR >20 YRS, REGULARLY COMMUTING TO SF AND SSF.
+THE SERVICE AND AMENITIES HAVE CONTINUED TO IMPROVE. IT'S MY PREFERRED WAY OF
+GETTING TO/FROM SF.
+I AM GRATEFUL THE SCHEDULE WAS EXPANDED FROM HARBOR BAY A FEW YEARS AGO - IT
+ALLOWS ME TO USE IT FOR ALMOST ALL OF MY COMMUTES.
+FRIENDLY, CLEAN, RELIABLE
+I LOVE THE FERRY! THERE WERE SEVERAL DELAYS LATELY AND I WISH THERE WERE MORE
+FREQUENT BOATS, BUT OVERALL THIS IS GREAT OPTION!
+THE BEST TRANSIT WE EVER EXPERIENCED IN THE US
+BIKE RACKS ARE OFTEN FULL WITH SOME BIKES PARKED IN AISLE, COULD IMPROVE WITH MORE
+STORAGE
+WOULD LOVE TO SEE A FERRY STOP IN MISSION BAY ON THE HARBOR BAY LINE
+MUCH BETTER THAN AC TRANSIT OR BART!
+I WISH THEY OFFERED MORE TIMES AT HARBOR BAY AND WEEKEND SERVICE!
+LIMITED WEEKEND SERVICE WOULD BE GREAT TO SAN FRANCISCO
+
+48 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                            Comments from the Harbor Bay Ferry
+                               Q9 Rating – Very Satisfied (5)
+LOVE IT!
+THIS OPTION HAS BEEN A DREAM FOR THE PAST 13 YEARS FOR ME.
+ALWAYS ON TIME, VERY CLEAN, GOOD INTERNET, QUIET AND LIKE COFFEE/SNACKS/ DRINK
+AVAILABILITY
+WOULD LOVE WEEKEND OR SAT SERVICE ON HARBOR BAY
+PARKING DOES NOT MEET THE NEEDS OF RIDERS. PLEASE PROVIDE MORE PARKING.
+HARBOR BAY CREW IS THE BEST! I ALSO RIDE SEAPLANE OR MAIN ST HB IS THE FRIENDLIEST!
+WISH THERE WAS MORE FREQUENT TIMESLOTS FROM HARBOR BAY, OR AT LEAST ONE WEEKEND
+ROUND TRIP (MORNING + AFTERNOON).
+MAYBE WEEKEND FERRY WORTH TO ADD ON HARBOR BAY
+MY ONLY COMPLAINT IS LACK OF BIKE SPACE DURING PEAK HOURS.
+BEST WAY TO START OR END THE DAY!
+MORE FREQUENT TRIPS, RIDES TO CONCERTS AND MORE EVENTS.
+PARKING CAN BE ADDRESSED, HARBOR BAY NEEDS MORE LATE-NIGHT HARBOR BAY, ALSO
+WEEKENDS TOO
+STAFF ALWAYS SO FRIENDLY AND HELPFUL!
+GREAT SERVICE.
+LIMITED PARKING AT 4B TERMINAL SO IT WOULD BE HELPFUL IF PUBLIC BUS SYSTEM WAS
+PUNCTUAL/RELIABLE.
+I WISH HARBOR BAY HAD WEEKEND COMMUTE.
+FAST, UNCROWDED, ECONOMICAL, CLEAN, COURTEOUS.
+ONLY WISH THERE WERE MORE TIMES IN AFTERNOON (2 OR 3 PM FROM HARBOR BAY).
+CONCESSIONS HAVE GOTTEN A LITTLE PRICEY LATELY, BUT OTHERWISE ALL IS GREAT ON BOARD.
+RUN TO HARBOR BAY A COUPLE TIMES ON WEEKEND AM AND PM TIMES.
+I LOVE THE FERRY. GREAT CREW. USUALLY ON TIME AND I CAN MULTITASK.
+ON TIME, CLEAN, RELIABLE. MORE ROUTES WOULD BE GREAT TO USE IT TO GET MORE PLACES.
+MY COMMUTES HAVE BEEN GREAT WITH MINIMAL DELAYS.
+STAFF IS LOVELY.
+WISH THERE WAS A LATER RETURN TO HARBOR BAY.
+
+
+
+49 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                            Comments from the Harbor Bay Ferry
+                               Q9 Rating – Very Satisfied (5)
+NEED MORE RELIABLE WIFI AND ALCOHOL SERVED ON MORNING FERRY'S. ALSO 2:30PM & 3PM
+FERRY FROM HARBOR BAY.
+CLEAN, ON TIME
+FUN, EXCITING, KIND CREW, GREAT FOR TOURISTS.
+OVERALL ON TIME RELIABLE & ALWAYS A GREAT VIEW. ONLY COMPLAINT IS LACK/DELAY OF
+CANCELLED FERRIES.
+ALWAYS A PLEASURE RIDING THE FERRY.
+PLEASE ADVERTISE APP ONLINE. NO ACCURATE DELAY UPDATES ANYWHERE EXCEPT ON THE APP.
+WHEN SERVICE IS DISRUPTED OR CANCELLED, ITS DIFFICULT!
+I WISH THERE WERE EARLIER ROUTES OR ROUTES ON THE HOURS (6AM, 7AM, ETC) MISSION BAY
+FERRY STOP! EVERYONE ON THE CREW IS SO KIND + WELCOMING!
+HARBOR BAY NEEDS THE NEWER BOATS AS THEY HAVE MORE SEATS AND ARE FASTER. OFTEN, IT'S
+TOO CROWDED.
+LOVE IT. BRAG ALL THE TIME
+GREAT STAFF ON BOARD
+TWO POINTS OF FEEDBACK: 1. BIKE PARKING IS GETTING CROWDED ON BOARD; NEED MORE. 2.
+YOU SHOULD PLAN TO ARRIVE AT YOUR DESTINATIONS 10-15 MINUTES BEFORE THE TOP &
+BOTTOM OF THE HOUR, SO WE CAN ARRIVE FOR MEETINGS RATHER THAN ARRIVING ON THE
+HOUR.
+CONSISTENT
+ONLY IMPROVEMENT IS SERVICE ALERTS & NOTIFICATION OF DELAYS BEING MORE TIMELY.
+WOULD LOVE A FEW MORE HARBOR BAY FERRY TIME OPTIONS!
+GREAT OPTION FOR COMMUTING. ONE DOWNSIDE IS THE LIMITED SCHEDULE. THE FERRY IS MUCH
+NICER THAN BART. DELAY NOTIFICATIONS COULD BE IMPROVISED, AS THERE IS OFTEN NO ALERT
+UNTIL THE BOAT IS ALREADY LATE.
+MORE TIMES IN THE AFTERNOON. BIGGER SPACE FOR BIKES.
+[NAME REMOVED] ARE STELLAR WORKERS ON THE FERRY!
+
+
+
+
+50 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                            Comments from the Harbor Bay Ferry
+                                Q9 Rating – Satisfied (4)
+I DISLIKE WHEN THE RIDE IS TURBULENT AND SEAWATER SPLASHES ONTO MY BIKE. IT RUSTS THE
+CHAINS.
+WOULD LIKE MORE ROOM AND BETTER SETUP FOR BIKES. I DO APPRECIATE GETTING OFF FIRST
+THOUGH. THE BIKE HOOKS ON NEW FERRIES DON'T ALWAYS WORK. WAY MORE BIKES IN THE LAST
+TWO YEARS.
+SERVICE ALERTS VIA TEXT NEED WORK, SEEM INCONSISTENT
+ADD HARBOR SERVICE EASTBOUND 2:30/40PM. THERE IS A GAP 1:25 AND 3:40 ONLY.
+NEED MORE TRIPS FOR HARBOR BAY DURING THE DAY
+I WISH THERE WERE AN EARLIER MORNING RIDE
+ADD MORE SHCEDULE ON AFTERNOON 6:10PM
+WOULD LOVE MORE TIME ESPECIALLY ON THE WEEKEND OR LATER TIMES FOR HARBOR BAY
+WOULD BE GREAT IF THE HARBOR BAY - SF LINE HAVE WEEKEND SCHEDULES
+MORE FERRIES TO HARBOR BAY IN THE EVENING OR WEEKENDS WOULD BE NICE
+IN EVENING THE FERRIES CAN GET BEHIND SCHEDULE. SOMETIMES SMALLER FERRIES SERVICES
+HARBOR BAY DURING RUSH HOUR AND BIKE RACK SPACE/SEATING IS LIMITED
+FREE COFFEE WOULD BE AMAZING! PEOPLE LOVED IT, I NEVER TOOK BART BACK WHEN IT WAS
+AROUND.
+CAN YOU HAVE LATER HOURS ON HARBOR BAY FERRY? (I.E., 8 PM.)
+KEEP SIGNING UP FOR ALERTS ON DELAYS/CANCELLATIONS BUT NEVER GET THEM.
+WISH THERE WERE MORE FREQUENT TIMES (NOT JUST EVERY HOUR). OH! BIKE RACKS AREN'T THE
+BEST. MY BIKE GOT SALTWATER DAMAGE ON THE CHAIN, SO I DON'T LOVE TAKING FERRY BECAUSE
+OF THAT!
+I HAVE BIKE WITH LARGE TIRES AND THE BIKE STALLS ARE TOO SMALL. IT WOULD BE NICE TO HAVE
+SOME OVERSIZED STALLS.
+GREAT CREW. FERRIES PERIODICALLY DOWN FOR MAINTENANCE AND DELAYED-- WANT BETTER
+COMMUNICATION.
+COMMUNICATION OF TRIP CANCELLATIONS COULD BE MORE CONCISE.
+YOU NEED A MONTHLY PASS.
+HAVE GENERALLY BEEN EXTREMELY SATISFIED WITH SERVICE WITH THE EXCEPTION OF RECENT
+LAST-MINUTE CANCELLATIONS WITH MINIMAL NOTICE.
+SOMETIMES, THE FERRY IS LATE
+
+
+
+51 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                            Comments from the Harbor Bay Ferry
+                                Q9 Rating – Satisfied (4)
+I WOULD BE VERY SATISFIED IF THE BOAT THAT LEAVES SSF TO PICK UP AT HARBOR BAY AT 9AM
+WAS OPEN TO RIDERS. I RIDE 5X A WEEK, CHARGE ME $9 = $45 ON A RIDE THAT EARNS 0 NOW.
+THE 5:40PM HARBOR BAY FERRY FROM SF HAS BEEN A BIT BEHIND SCHEDULE LATELY. OTHERWISE
+REALLY APPRECIATE THE SERVICE!
+FAIRLY OFTEN DELAYS FOR HARBOR BAY ARE CONCERNING, ALSO PARKING FOR LATER HOURS IS A
+PROBLEM.
+IT'S LATE QUITE OFTEN
+OVERALL SATISFIED HOWEVER THE FREQUENT DELAYS/CANCELLATIONS IN THE AFTERNOON
+PARTICULARLY FRUSTRATING ESPECIALLY WHEN COMMUNICATION IS POOR.
+NEED TO REINSTATE WEEKEND SERVICE - AT LEAST SATURDAY OR SUNDAY - AT HARBOR BAY
+FERRY.
+NEED MORE BOATS WITH COVERED BIKE PARKING AREA
+THERE IS NO WEEKEND SERVICE FROM BAY FARM
+LAST MINUTE CANCELLATIONS & DELAYS
+UNEXPECTED CANCELLATIONS EVERY ONCE IN A WHILE WOULD BE NICE TO AVOID.
+WISH THERE WAS STILL FERRY FROM SSF TO HARBOR BAY
+NEED TO REPLACE BOATS TO GET ON TIME &/OR NO CANCELLED TRIPS
+I WISH MORE FERRIES RAN MID DAY & WISH A RUN OR TWO COULD BE ADDED TO WEEKENDS.
+
+
+
+
+52 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                        Comments from the Oakland/Alameda Ferry
+                             Q9 Rating – Very Satisfied (5)
+BAR WAS CLOSED. VERY DISAPPOINTING
+LOVE THE FERRY. SO HAPPY TO HAVE IT.
+I LOVE THE FERRY SYSTEM IN THE BAY. IT’S EXTREMELY RELIABLE AND CONVENIENT!
+WOULD APPRECIATE MORE SAILING TIMES IN THE AFTERNOON FROM SF BACK TO OAKLAND. NEED
+A 5PM SAILING AT LEAST.
+I LOVE USING THE SF BAY FERRY
+ALWAYS A PLEASURE TO RIDE.
+I LOVE THE FERRY!
+WOULD LOVE MORE ROUTES FROM SEAPLANE
+LOVE USING PUBLIC TRANSPORTATION
+PLEASE SPLIT THE LINE ONBOARDING/OFF BOARDING BETWEEN CLIPPERS AND APP TICKETS. TOO
+CONGESTED AND WILL ALLOW FOR SMOOTHER ON/OFF BOARDING
+I LOVE THE FERRY! IT'S A SAFE AND COMFORTABLE COMMUTE OPTION THAT I USE FREQUENTLY.
+THE BOATS ARE CLEAN AND THE PEOPLE ARE LOVELY. I DON'T LOVE THE SCREAMING CHILDREN,
+BUT THAT'S NOT THE FERRY'S FAULT.
+ONLY FEEDBACK I HAVE IS THAT THE FERRY IS VERY SMELLY. CAN WE GET AIR FRESHENERS?
+GREAT STAFF, RELAXING ENVIRONMENT, EVERYONE IS PROFESSIONAL
+STAFF ARE ALWAYS SO FRIENDLY
+RELIABLE AND EASY
+DRINK PRICES WENT UP. BUT OTHERWISE, I LOVE THE FERRY!
+PLEASE ADD MORE SERVICE! THANKS!
+IT TAKES ME MUCH LONGER THAN DRIVING BUT IT'S WORTH IT
+THE FERRY IS ALWAYS WONDERFUL AND TODAY WE CHOSE IT JUST FOR EXTRA FUN
+MORE ROUTES TO SSF PLEASE
+LOVE THE FERRY! BEST WAY TO TRAVEL.
+ALL GOOD!
+NICE PEOPLE, CURATED COCKTAILS
+WOULD LIKE A NON-ALCOHOLIC OR ALCOHOL-FREE BEER OPTION
+CONCERNED THAT OAKLAND/ALAMEDA ROUTES HAVE BEEN CUT
+I KNOW IT ISN'T REALISTIC PHYSICALLY, BUT I'D LOVE MORE SERVICE ON THE WEEKENDS.
+
+
+53 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                        Comments from the Oakland/Alameda Ferry
+                             Q9 Rating – Very Satisfied (5)
+VERY CLEAN
+GREAT SERVICE FROM BOTH TERMINALS
+WHEN I LIVED IN VALLEJO, I TOOK THE FERRY EVERYDAY FOR WORK AND IT WAS THE BEST PART OF
+MY COMMUTE.
+CREW MEMBERS ARE ALWAYS NICE AND HELPFUL
+EVERYONE IS SO FRIENDLY
+VERY FAST RIDE, EASY TO BOARD AND GET OFF
+PLEASE ADD FERRY SERVICE TO BERKELEY
+FERRIES FROM BERKELEY
+SUPER TIMELY AND QUIET COMFORTABLE EXPERIENCE
+ALL THE BENEFITS OF BART WITH BETTER AMENITIES AND MORE SPACE.
+WE LOVE THE FERRY!
+BEAUTIFUL EXPERIENCE.
+ABSOLUTELY THE BEST WAY TO CROSS THE BAY.
+GREAT SERVICE, GREAT PRICE, WILL USE MORE OFTEN.
+I LOVE THE FERRY!
+ALWAYS ON TIME.
+ALWAYS PLEASED.
+VERY CLEAN, CONVENIENT, FAST.
+IT'S CLEAN, IT'S ENJOYABLE, AND RELAXING.
+LOVE THAT THERE IS A BAR.
+A HIGHER QUALITY RIDE EXPERIENCE.
+WORKERS ALL KIND.
+I LOVE THIS SERVICE. WISH I COULD USE IT MORE.
+ALWAYS A LOVELY TRIP.
+WOULD APPRECIATE SERVICE ON WEEKENDS OR SEAPLANE FERRY.
+SAFE, NICE VIEWS, CALM.
+BRING BACK ST. GEORGE LIQUORS! SEAPLANE TO SOUTH CITY DIRECT! PLEASE!
+CREW ARE GENERALLY UNFRIENDLY
+
+
+54 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                        Comments from the Oakland/Alameda Ferry
+                             Q9 Rating – Very Satisfied (5)
+I LOVE THE FERRY AND AM ALWAYS HYPING IT TO EVERYONE I KNOW. THANKS FOR WELCOMING
+CYCLISTS! I WOULD LOVE A HOSE TO WASH SALT OFF MY BIKE. MISS THE FREE COFFEE!
+FAST, SECURE, CLEAN, AND ONLY PUBLIC TRANSIT THAT HAS A BATHROOM AND CONCESSIONS.
+THIS IS A CHILL AND PEACEFUL ATMOSPHERE.
+FOR TERMINAL ACCESS AND AMENITIES: JACK LONDON SQUARE NEEDS A QUALITY COFFEE CART
+VENDOR FOR THE MORNING COMMUTERS START @6:30 AM. PEET'S ONBOARD IS OK, BUT I WANT
+SF FERRY BUILDING-LEVEL COFFEE. BRANDS THAT WORK: MR. EXPRESSO. SIGNAL. BLUE BOTTLE.
+BICYCLE COFFEE.
+ALWAYS HAVE A POSITIVE EXPERIENCE.
+I LOVE THE FERRY!
+ABSOLUTELY LOVE THE FERRY! IN FACT, I CHOOSE TO LIVE IN JACK LONDON TO BE ABLE TO USE THE
+FERRY.
+STAFF ARE ALWAYS APPROACHABLE.
+LOVE THE FERRY SERVICE, CREW IS ALWAYS FANTASTIC.
+CONCESSIONS ARE SO EXPENSIVE!
+STAFF IS EXTREMELY NICE AND HELPFUL EVERY TIME I RIDE.
+I LOVE OUR FERRY SYSTEM JUST WISH I COULD RIDE MORE OFTEN
+GREAT TRANSPORTATION OPTION!
+EXCELLENT / FRIENDLY SERVICE
+BEST OPTION BY FAR, THANK YOU!
+I RIDE THE FERRY FOR FUN. IT IS GREAT!
+I LOVE THE FERRY
+GREAT EXPERIENCE
+EASY, FRIENDLY THE BEST
+I LOVE THE FERRY SOOO MUCH. IT TURNS COMMUTING AND TRAFFIC INTO AN ADVENTURE!
+NICE STAFF, GREAT VIEWS
+LOVE IT.
+CLEAN, SAFE AND FAST
+MAKE THE SNACKS CHEAPER!!
+VERY IMPRESSIVE BOAT CREW. PRIDE, RESPECT, SENSE OF HUMOR ON PART OF CREW MADE TRIP
+SO ENJOYABLE WE WILL RIDE FERRY MORE OFTEN.
+
+55 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                        Comments from the Oakland/Alameda Ferry
+                             Q9 Rating – Very Satisfied (5)
+THE STAFF IS ALWAYS NICE!
+A GREAT WAY TO GO TO SF.
+AS LONG AS THE BAR IS OPEN IN THE EVENINGS.
+I LOVE THE FERRY ACCESS TO S.F. PLEASE ADD A PORT IN BERKELEY.
+
+
+
+
+56 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                        Comments from the Oakland/Alameda Ferry
+                                Q9 Rating – Satisfied (4)
+DON'T LOVE HAVING TO HAVE AN ACCOUNT IN THE APP
+WOULD LIKE MORE SATURDAY SERVICE. ALSO, PAYING FOR THE PAPER TICKET FOR A CHILD WAS
+VERY INEFFICIENT
+SEAT IS DIRTY, TABLE IS ALSO DIRTY BUT CRUSTY TOO
+WOULD LOVE FOR THE FERRY ALAMEDA - SF TO OPERATE DURING WEEKEND.
+BRING BACK BARTENDER MIXED DRINKS VS CANNED
+BRING THE BARTENDER BACK
+NEEDS MORE OPTIONS LATER IN THE DAY. NEEDS MORE EARLIER OPTIONS FOR THE WEEKEND
+I LOVE THIS FERRY! IT IS SO NICE!
+HAPPY TO HAVE THE OPTION WISH COFFEE WAS STILL FREE
+MY ONLY COMPLAINT ARE THE BITING FLEAS IN THE CARPET DURING THE SUMMER. I ASSUME
+THAT THESE COME FROM DOGS.
+WOULD APPRECIATE MORE ROUTES AND DEPARTURE TIMES. SERVICE TO SOUTH BAY COULD IT
+HAPPEN?
+WOULD LOVE TO HAVE A LATER FERRY ON ALAMEDA/OAKLAND ROUTE FRI & SAT
+WISH THERE WERE MORE FERRIES THAT DON'T STOP IN ALAMEDA
+5:20PM EB STARTS LATE SOMETIMES
+CABIN IS VERY HOT! COMPLEMENTARY HOT WATER/TEA CART WOULD BE A NICE TOUCH.
+COMPLEMENTARY MEXICAN CONCHAS.
+I LOVE FERRY, BUT I CAN'T TAKE IT WHEN I'M OUT LATER THAN FERRY SERVICE GOES. ALSO, I'D
+LOVE TO SEE BIKES OR SCOOTERS YOU CAN RENT (LIKE UBER OR LYME) AT THE ALAMEDA FERRY
+TERMINAL. I HAVE TO BE ABLE TO GET TO THE ALAMEDA TERMINAL WITHOUT A CAR OR BIKE.
+NEEDS MORE GOOD PERSONNEL
+I WISH IT RAN MORE FREQUENTLY
+DON'T UNDERSTAND OR LIKE HOW I NEED MONEY FOR EACH WAY OF A ROUNDTRIP
+BETTER TERMINAL NEEDED AT HARBOR BAY TERMINAL
+WHEN REPLACING PARTS (I.E. HOSES) FOR MAINTENANCE, PLEASE REPLACE ENTIRETY AND NOT
+JUST ONE PIECE. THIS FREES UP DELAYS.
+WOULD BE NICE TO HAVE LOWER PRICING ON THE BAR BUT THE FACT THAT THERE IS A
+BAR/REFRESHMENTS IS AMAZING!
+
+
+
+
+57 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                        Comments from the Oakland/Alameda Ferry
+                                Q9 Rating – Satisfied (4)
+PARKING VALIDATION - SCANNER NEVER WORKS. PAYMENTS : ONLINE TICKETS PROCESS TEDIOUS
+BUT I THINK THERE IS A CLIPPER OPTION I NEED TO LOOK INTO. MORE OUTDOOR SEATING WOULD
+BE NICE.
+CLIPPER CARD PAYMENT IS NOT INITIATING
+AFTERNOON ROUTE IS CROWDED (SAN FRANCISCO TO OAKLAND) BUT THAT'S NOT THE SERVICE'S
+FAULT.
+AFTERNOON SCHEDULE CHANGE LESS CONVENIENT. ALSO, ALAMEDA STOP ADDS A LOT OF TIME.
+GREAT BUT THE FERRY DOES HAVE A FLEA PROBLEM. I SEE NEW BITES ON MY LEGS ON A DAILY
+BASIS.
+BRING BACK FREE COFFEE!
+WOULD APPRECIATE 30-45 MIN FREQUENCY INSTEAD OF HOURLY
+SERVICE ENDS TOO EARLY! I GET OFF AT 9:00 AT PIER 33. IT'S JUST IMPOSSIBLE TO MAKE IT TO THE
+LAST BOAT. PLEASE END AT 10 OR AFTER!
+
+
+
+
+58 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                        Comments from the Oakland/Alameda Ferry
+                                Q9 Rating – Neutral (3)
+I AM A LONGSHOREMAN AND WE USED TO GET SOME KIND OF DISCOUNT. BUT NOW WE GET
+TREATED DIFFERENTLY. WE SUPPORT YOU GUYS, WE ARE LOCAL 10. ALWAYS VERY
+DISHEARTENING!
+WE WERE SUPPOSED TO CATCH THE FERRY BEFORE THIS, THE PERSON WHO WAS LETTING PEOPLE
+ON SAW US AND TOLD US TO STOP, THEN CLOSED THE DOOR ON US! FUCKED UP!
+
+
+                        Comments from the Oakland/Alameda Ferry
+                            Q9 Rating – Very Dissatisfied (1)
+EXCEPT FOR [NAME REMOVED] WHO WAS HOSTILE, MILITARISTIC AND AGGRESSIVE. NEED MORE
+ELECTRIC FERRIES! NEED EVERY 20 MINUTES! NEW FERRIES DESIGNED POORLY WITH OUTSIDE NOT
+FACING VIEW!
+THEY LEFT US THE FIRST TIME! THEY SAW US THEY TOLD US TO HURRY UP, BUT THEY STILL LEFT!
+
+
+
+
+59 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+
+                             Comments from the Richmond Ferry
+                                Q9 Rating – Very Satisfied (5)
+FOR QUESTION #8, I COULD HAVE SELECTED MOST OF THE OPTIONS. THERE ARE SO MANY
+REASONS TO USE THE FERRY.
+HOT DOGS WOULD BE A GOOD SNACK!
+I'M VERY SATISFIED WITH TIMELINESS AND CLEANLINESS. HOWEVER, I HOPE RICHMOND TIMES
+WILL CONTINUE TO EXPAND ESPECIALLY M-F SF TO RICHMOND BETWEEN 11AM-3PM. THERE IS
+CURRENTLY NO SERVICE AFTER 11:40 UNTIL 3PM.
+LOVE THE EASE OF THE FERRY. WISH I HAD A SIMILAR OPTION WHERE I LIVED.
+LOVE BEING A FERRY COMMUTER!
+WOULD LIKE TO BE ABLE TO ADD FARE TO MY CLIPPER CARD EITHER ON BOARD OR AT THE
+TERMINAL
+NEG LATER RETURN TIMES INCREASE DEPARTURES/RETURNS
+BEAUTIFUL DAY! NICE STAFF
+BEST WAY TO GET AROUND THE BAY
+FRIENDLY STAFF
+STAFF IS EXTREMELY NICE AND FRIENDLY! LOVE THE STAFF!
+HAS ALWAYS BEEN ON TIME, EASY TO USE.
+IT IS MY FAVORITE WAY TO GET TO SAN FRANCISCO.
+QUICK RIDE. FRIENDLY CUSTOMER SERVICE.
+BEST MODE OF TRANSPORTATION TO SAN FRANCISCO.
+NEED MORE DESTINATIONS FROM RICHMOND, ESPECIALLY SOUTH SAN FRANCISCO. LOTS OF
+COMMUTERS.
+LATER WEEKEND HOURS.
+CLEAN WINDOWS.
+RELAXING, CALM, SCENIC RIDE.
+TIME WAS GOOD, CLEAN BATHROOM.
+LOVE HOW COMFY IT IS. GREAT TICKETS GREAT PEOPLE!
+LOVE THE FERRY AND IS THE MAIN REASON FOR MOVING TO RICHMOND MARINA BAY:
+ACCESSIBILITY
+WE NEED MORE FERRY ROUTES. ESPECIALLY IN THE DIRECTION OF REDWOOD CITY
+NICE STAFF. VERY CLEAN RESTROOM.
+
+
+60 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                             Comments from the Richmond Ferry
+                                Q9 Rating – Very Satisfied (5)
+MORE TIMES WOULD BE GREAT
+LOVE TAKING THE FERRY. CLEAN, ON TIME AND RELAXING. CLEAN RESTROOM.
+FERRY IS VERY CLEAN
+IF THEY CAN HAVE MORE RIDES MORE OFTEN THAT WAY PEOPLE DON'T WAIT FOR A LONG TIME.
+IT SHOULD RUN MORE OFTEN
+I WISH THERE WAS A RICHMOND-SAUSALITO LINE.
+EVERYONE IS NICE AND ACCOMMODATING
+WINDOWS NEED TO BE CLEAN FOR SIGHTSEEING
+PROFESSIONAL
+WOULD APPRECIATE IF SERVICE ALERTS WERE POSTED ON THE SF BAY FERRY WEBSITE (SIMILAR TO
+BART). THANK YOU FOR YOUR SERVICE!
+WISH THERE WAS LATER SERVICE AND EARLIER MORNING SERVICE
+GREAT SERVICE, JUST NEED MORE ROUTES AND DEPARTURE TIMES.
+WOULD LOVE A GREATER NUMBER OF SCHEDULED TRIPS THOUGH
+GREAT SYSTEM AND SERVICES
+APPRECIATE IT BEING ON TIME, THE CREW MEMBERS AND CLEANLINESS ONBOARD! NICE JOB!
+COFFEE/ BATHROOMS CLEAN, CIVILIZED PEOPLE AND STAFF LOW COST, TRASH CANS
+WISH THERE WERE MORE TIMES TO RETURN FROM SF TO RICHMOND
+LOVE THE FERRY, ALL EMPLOYEES ARE GREAT, VERY FRIENDLY
+WORKERS SHOULD ANNOUNCE PAYMENT METHODS AND ANNOUNCE MULTIPLE MACHINES TO
+TAP TO PAY. PEOPLE/RIDERS SEEM CONFUSED.
+BUT I DO WISH IT RAN LATER FERRIES; I GET OFF WORK LATE AND CAN'T COMMUTE MOST DAYS
+BECAUSE OF THAT SO I DRIVE.
+I WISH THERE WAS A FERRY FROM RICHMOND TO SF BETWEEN 8:55 AND 10:40
+WEEKEND SERVICE AT HARBOR BAY WOULD BE GREAT!
+PEOPLE ARE GREAT!
+LOVE IT!!
+THE STAFF ARE FRIENDLY AND KIND. THE OUTSIDE VIEW ARE BEAUTIFUL. THE RIDE IS RELAXING.
+STAFF IS WARM, HELPFUL, AND PROFESSIONAL
+LOVE IT!
+
+61 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                             Comments from the Richmond Ferry
+                                Q9 Rating – Very Satisfied (5)
+THE SEATS CAN AND SHOULD BE DRYCLEANED AS THEY'RE COVERED WITH STAINS OR REPLACED
+WITH MATERIAL THAT CAN BE EASILY CLEANED.
+I WOULD USE THE FERRY MORE OFTEN IF DOGS WERE ALLOWED. DOGS CAN GO WHERE THE BIKES
+ARE PARKED.
+FRIENDLY CREWS
+ONLY DISSATISFACTION IS I WISH THERE WERE MORE TRIPS ON THE SCHEDULE
+SOME BOATS HAVE TOO LITTLE BIKE STORAGE AND SOME GET THE BIKES REALLY WELL.
+BEST WAY TO CROSS THE BAY
+I WOULD LOVE TO HAVE AN EARLIER FERRY DEPARTURE FROM RICHMOND AT 6:00AM
+LOVE THE FERRY
+STAFF ARE FRIENDLY, COMMUNICATION WHEN FERRIES HAVE BROKE DOWN NEEDS IMPROVING
+I CAN RELAX, TAKE A SHORT NAP, SIGHTSEE, ETC. NO ROWDY PEOPLE ABOARD OR HOMELESS.
+BEST PUBLIC TRANSPORTATION EVER
+THE FERRY IS ONLY 10 MINS FROM MY HOUSE, SO A MUCH SAFER, CLEANER OPTION THAN BART.
+IT'S ALSO COMFORTABLE AND OVERALL BETTER EXPERIENCE.
+
+
+
+
+62 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                             Comments from the Richmond Ferry
+                                 Q9 Rating – Satisfied (4)
+CREW IS NICE
+VERY EASY AND RICHMOND PARKING IS GREAT
+WISH IT WAS TAXPAYER SUBSIDIZED AND CHEAPER
+MORE FREQUENTLY WOULD BE NICE DURING PEAK COMMUTE HOUR, AN ADDITIONAL FERRY
+BETWEEN THE 8:55AM AND 10:40AM TIMES WOULD BE AWESOME. I USE IT MAINLY TO COMMUTE
+TO WORK.
+I WOULD LIKE TO SEE LARGER VESSELS MORE FREQUENTLY ON THE RICHMOND LINE- THE LITTLE
+BOATS GET CROWDED.
+WOULD BE VERY SATISFIED IF OFFERED EARLIER START TIME WB AND EB HAD MORE AVAILABLE
+TIMES BETWEEN 1130-1500 HR
+I WISH THERE WERE FEWER INSTANCES OF A LATE FERRY. I'M ON THE FIRST FERRY, SO THERE
+REALLY SHOULD BE NO REASON FOR SCHEDULE DELAYS.
+MY ONLY COMPLAINT IS THAT THE FERRY APP DOESN'T SEND BAY ALERT NOTIFICATIONS (IPHONE)
+RICHMOND SERVICE IS PROMPT AND QUICK. HOWEVER, THERE AREN'T MANY FERRIES AT RUSH
+HOUR. EX 5:00PM SERVICE.
+7AM FERRY RIDE FROM RICHMOND TO SF WOULD BE IDEAL FOR WORK COMMUTE.
+WOULD BE NICE TO HAVE AN INTERCONNECT BUS/SHUTTLE TO/FROM BART FOR DAYS I NEED TO
+STAY LATE IN SF
+1.) SERVICE ALERTS ARE LATE SOMETIMES, HOPE THIS CAN BE IMPROVED. 2.) INCREASE
+FREQUENCY ON WEEKEND PLEASE! BUT UNDERSTAND MAY BE DIFFICULT
+WOULD LOVE MORE WEEKDAY MORNING HOURS. THE GAP BETWEEN 9-10:40 IS PROBLEMATIC
+PLEASE ADD PARKING TO RICHMOND TERMINAL. ADD ONE MORE RUN RIC-SF BETWEEN 8:55 +
+10:40 WEEKDAY. ADD ONE MORE RUN SF - RIC BETWEEN 11:40A -3:00P.
+NEED TO EXPAND ROUTES TO FROM BERKELEY
+ONLY COMPLAINT IS INFREQUENT SERVICE
+WISH THERE WERE MORE TIMES OFFERED
+WINE ON BOARD COULD BE BETTER
+WISH THE BOATS WERE MORE FREQUENT
+THE 5:25PM SF-RICHMOND FERRY ALWAYS LEAVES @ 5:30. CHANGE THE SCHEDULE!
+WOULD BE VERY SATISFIED IF THERE WAS A ROUTE TO GET FROM RICHMOND TO SOUTH SAN
+FRANCISCO DIRECTLY OR ADDED EXTENSION.
+
+
+
+63 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                             Comments from the Richmond Ferry
+                                 Q9 Rating – Neutral (3)
+UNSURE WHICH FERRY, BUT UNSATISFIED WITH OLDER MODELS WITH CHAIRS THAT DON'T
+FUNCTION. ALSO, MAINTENANCE ISSUES ENCOUNTERED MEANS WE'RE WAITING OUTSIDE EXTRA
+15-30 MINS AND I'M LATE FOR WORK.
+NEED MORE FERRY RUNS INCLUDING 10:00AM WEEKDAY WESTBOUND, 9 AND 10PM WEEKDAY
+EASTBOUND, 10PM WEEKEND EASTBOUND, AND 11AM WEEKEND WESTBOUND.
+
+
+
+
+64 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                       Comments from the South San Francisco Ferry
+                             Q9 Rating – Very Satisfied (5)
+WISH WE HAD A SLIGHTLY LATER MORNING & EVENING SERVICE FOR THOSE GETTING INTO WORK
+AFTER 9 OR GETTING BACK AFTER 6
+I WISH I HAD MORE TRIPS TO SSF ON FERRY SCHEDULE.
+MY COMMUTE IS ONE OF THE BEST PARTS OF MY DAY
+BEEN RIDING THIS SINCE IT STARTED AND HAS BEEN NICE TO SEE MORE AND MORE RIDERSHIP
+PEOPLE ARE ALWAYS FRIENDLY AND HELPFUL
+ALWAYS ON TIME, CLEAN, FRIENDLY STAFF
+ALL THE PEOPLE WHO WORK ON THE FERRY ARE FRIENDLY AND POLITE. PEOPLE ARE GENERALLY
+ENVIOUS THAT I CAN COMMUTE THIS WAY.
+ROUTES LIKE SOUTH SAN FRANCISCO SHOULD HAVE WEEKEND SCHEDULE FOR KIDS, THEY WOULD
+LOVE SEEING CONTAINER SHIPS ANCHORING IN THE MIDDLE OF THE BAY.
+
+
+                       Comments from the South San Francisco Ferry
+                                Q9 Rating – Satisfied (4)
+I WISH YOU RAN A BIT LATER IN THE MORNING.
+WISH THE FERRY TO SSF PICKED UP IN OAKLAND BEFORE ALAMEDA. IT SEEMS RIDICULOUS TO ADD
+ON 20 MINUTES OF COMMUTE TO GO BACKWARDS FROM ALAMEDA TO OAKLAND, AND IT REALLY
+MAKES THE COMMUTE MUCH LONGER FOR THOSE IN ALAMEDA.
+IT WOULD BE NICE IF THE FERRY RAN MORE FREQUENTLY
+WOULD LIKE MORE TRANSIT TIMES
+SUGGESTION FOR THE FERRY TO STOP IN ALAMEDA FIRST INSTEAD OF GOING TO SOUTH CITY -
+OAKLAND - ALAMEDA. THIS UNNECESSARILY ADDS 20 MINS FOR ALAMEDANS
+NEED BIGGEST/NEW FERRIES FOR SOUTH SF ROUTES, CONSISTENTLY. PARKING VALIDATION NEEDS
+IMPROVEMENT
+I LOVE IT! MORE RUNS TO AND FROM SSF PLEASE.
+ON-TIME PERFORMANCE CAN BE IMPROVED. NOTIFICATION RARELY ACCURATE (10 MINS LATE IS
+MORE LIKE 20 MINS)
+BAY BREEZE CONSISTENTLY DOESN'T HAVE HEAT IN LOWER CABIN ALL WINTER! CREW IS GREAT
+AND REPORTS ISSUE.
+I'D LOVE TO SEE A LATER FERRY OPTION THAN 8:00 FROM ALAMEDA TO SSF. PREFERABLY WITH NO
+OAKLAND STOP
+
+
+
+
+65 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                       Comments from the South San Francisco Ferry
+                                Q9 Rating – Neutral (3)
+NEEDS TO HAVE CONSISTENT ARRIVAL AND DEPARTURE TIME, NEED BIGGER FERRY TO SSF ON TUES
+AND THUR (BUSY DAYS), EXPENSIVE TICKET, NEED BETTER NOTIFICATIONS IN CASE OF DELAYED OR
+CANCELLED FERRIES.
+
+
+
+
+66 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                               Comments from the Vallejo Ferry
+                                 Q9 Rating – Very Satisfied (5)
+WISH THERE WAS A FASTER WAY TO GET TO TERMINAL FROM FAIRFIELD
+VERY RELAXING, NICE VIEWS
+ON THE WEBSITE, PLEASE ADVISE RIDERS TO USE THE SF BAY FERRY SITE. I THOUGHT I'D BE ABLE TO
+PURCHASE TICKETS AT A TICKET COUNTER, AS IT MENTIONED ON THE WEBSITE, BUT THERE IS NO
+LIVE PERSON THERE. IT SHOULDN'T BE LISTED AS AN OPTION.
+BEST SERVICE EVER
+JUST A LITTLE MORE SPACE FOR THE SECOND FLOOR OUTSIDE THE SHIP
+THANK YOU FERRY SERVICE TEAM FOR EVERYTHING THAT YOU DO!
+BATHROOMS ARE SOMETIMES UNCLEAN
+FRIENDLY, EASY, ACCOMMODATING
+ALWAYS ONTIME VERY CLEAN ON THE FERRY AND STAFF ARE PATIENT AND KIND
+REALLY LOVE THE COMMUTE AND THE FOLKS WORKING. LOVE HAVING A COFFEE AND SNACK BAR.
+CREW IS GREAT!
+CLEAN, EASY TO GET ON BOARD, EASY TO BUY TICKET, FERRY SCHEDULE ON TIME
+GOT A SEAT EVEN WHEN LOTS OF PEOPLE
+SOMETIMES I'M LATE FOR WORK ON THE WEEKENDS BECAUSE THE FERRY LEAVES 10 MINS LATE.
+EXCELLENT SERVICE
+I LOVE THE FERRY BOAT. VERY COOL RIDE. AMAZING SIGHT-SEEING CRUISE.
+VERY CONVENIENT. NICE STAFF
+SERVICE CREW ARE FRIENDLY AND COURTEOUS
+BEST WAY TO TRAVEL TO THE BAY AREA. ALSO TAKE THE RICHMOND FERRY SOMETIMES TO VISIT
+FAMILY
+BUY TWO MORE PYXIS - CLASS BOATS!
+WOULD LIKE AN EARLIER TRIP M-TH LIKE 5AM
+IT IS A GREAT SERVICE. THE CREW'S ARE NICE AND HELPFUL.
+EVERYONE IS GREAT ON EVERY FERRY!
+A BIT CROWDED AT TIMES
+VERY SATISFIED WITH USING THE FERRY. GREAT EXPERIENCE EVERY TIME.
+ALWAYS ON TIME CREW ARE AMAZING
+IT'S THE BEST WAY TO COMMUTE!
+
+67 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                               Comments from the Vallejo Ferry
+                                 Q9 Rating – Very Satisfied (5)
+VERY HAPPY WITH VALLEJO-SAN FRANCISCO SERVICE. SAME TIME AS DRIVING, MUCH BETTER
+EXPERIENCE, PLUS NO PARKING IN SAN FRANCISCO.
+THANK YOU. VERY NICE STAFF AND CLEAN
+SF BAY FERRY IS THE BEST! IT'S MY FERRY.
+RELAXING
+MORE DESTINATIONS FOR PICK UP, BENICIA LOCATION. MORE CONCESSION FOOD ITEMS: HOT
+GRILL FOOD, TEAS, HEALTHY FOOD ITEMS.
+ALWAYS ON TIME NO RIFF RAFF. EASY RIDE.
+PARKING SAFETY AT VALLEJO IS A BIG CONCERN - BOTH PERSONAL AND PHYSICAL RISKS. MY CAR
+HAD THEFTS MID-DAY.
+I HAVE HAD PROBLEMS WITH TWO OF THE CREW.
+IT'S VERY CLEAN. IT'S SPACIOUS.
+LOVE THE BUDGET-PRICED CRUISES OF THE BAYS.
+THE FERRY MAKES ME NEVER WANT TO DRIVE TO WORK AGAIN I WISH I WOULD OF KNEW ABOUT
+IT SOONER, THANK YOU
+ALL IS GOOD. I LIKE TRAVELING ON THE FERRY.
+EXCEPT FOR LAST MINUTE NOTIFICATIONS IF IT IS DOCKED AT MARE ISLAND INSTEAD OF VALLEJO.
+I WOULD LIKE TO HAVE THE OPTION OF LATER TRIPS, ESPECIALLY DURING THE WEEKENDS IF
+PEOPLE STAY LATER IN SAN FRANCISCO.
+THE STAFF HAVE BEEN GREAT AND THE SERVICE IS RELIABLE
+MY FAVORITE WAY TO COMMUTE. AMAZING SERVICE, TIMELY, EFFICIENT. I HOPE THE FERRY NEVER
+STOPS!
+JUST WISH YOU RAN MORE @ RUSH HOURS
+ALWAYS ON TIME AND FERRY BOAT ARE ALWAYS CLEAN
+I ONLY WISH THERE WAS MORE FREQUENT + LATER SERVICE
+I WOULD LIKE THE BIKE AREA TO BE ENCLOSED. THE SALT WATER CORRODES BIKE PARTS.
+WHEN FERRY MOVED TO MUIR ISLAND, NO ONE TOLD US WE HAD TO TAKE THE BUS.
+IT WOULD BE GREAT IF THERE WAS A 6:30 PM OR 7:00 PM FERRY FROM SAN FRANCISCO TO
+VALLEJO.
+RELAXING TRIP AND FRIENDLY STAFF.
+VERY EFFICIENT!
+
+
+68 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                               Comments from the Vallejo Ferry
+                                 Q9 Rating – Very Satisfied (5)
+EXCELLENT STAFF & FERRY SERVICE
+CREW IS ALWAYS FRIENDLY
+CLEAN, QUIET, ALWAYS ON TIME.
+WISH IT WERE LESS EXPENSIVE FOR COMMUTERS
+WOULD LIKE MORE FERRY TIMES AROUND COMMUTE HOURS --> 7PM, 8AM ARRIVAL, ETC.
+IT WOULD BE NICE IF BIKES COULD BE STORED INSIDE/AWAY FROM SALT WATER. MY BIKE GETS
+RUSTY. I AM STILL QUITE HAPPY WITH THE FERRY SERVICE.
+I ENJOY MY RIDES AND IT BEATS DRIVING.
+LOVE CLEAN RESTROOMS ON TRANSIT
+VALLEJO FERRY CAN BE VERY FULL. NEED A CRUISE SHIP?
+LOVE SF FERRY!
+WOULD LOVE AN EXPANDED SCHEDULE SOMETHING IN BETWEEN THE 5:20PM +6:30PM TO
+VALLEJO MAYBE MORE THE 5:20 TO 5:30PM?
+GREAT SERVICE
+WOULD BE NICE IF CAN RE-INSTATE A FERRY THAT GOES DIRECT TO BALLPARK OR EXTRA BOAT ON
+AFTERNOON BASEBALL GAMES.
+THERE SHOULD BE BOATS LEAVING SF LATER THAN 8:00PM!
+OCCASIONALLY 5 TO 10 MINUTES LATE TAKING OFF-- BUT 95% ON TIME.
+SOMETIMES ALMOST ALL SEATS ARE TAKEN
+EASY, RELIABLE CLOSE TO HOME AND WORK, QUIET, MY ONLY COMPLAINT IS PARKING FEE, TOO
+MUCH!
+DO THE ANNOUNCEMENTS NEED TO BE SO LOUD?
+LOVE SAN FRANCISCO BAY FERRY!
+ALWAYS RELIABLE.
+VERY CONSISTENT; LEAVES EXACTLY ON TIME. I ALSO USE IT TO TRAVEL TO MY UNIVERSITY.
+BEST TRANSPORTATION SERVICE I'VE EVER TAKEN. WOULD LIKE A WAY TO RECEIVE TEXTS ABOUT
+KING TIDE DISRUPTIONS. THANK YOU ALL!
+WISH IT HAD MORE TIMES, LATER TIMES, ETC.
+THE FERRY'S SERVICE IS PERFECT, MULTIPLE TRIPS, TIMELY, AND FUNCTIONAL.
+STAFF FEEL LIKE FAMILY, SNACK BAR IS WONDERFUL, SEATING IS VERY NICE WOULD LOVE AN
+EARLIER FERRY (5AM?)
+
+69 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                               Comments from the Vallejo Ferry
+                                 Q9 Rating – Very Satisfied (5)
+ALWAYS ON TIME AND CLEAN.
+VERY CONSISTENT, PROFESSIONAL.
+WOULD LOVE IF VALLEJO FERRY ADDED MORE STOPS AT MARE ISLAND 9 AM AND DEPARTING 4 TO
+5 PM.
+CLIPPER CARD APP DIDN'T WORK. NO WAY TO BUY TICKETS IN-PERSON AT VALLEJO FERRY
+TERMINAL, BUT STAFF HELPFUL AND COULD BUY ON BOAT.
+ON TIME, CLEAN, QUIET
+I ONLY WISH THAT THE INTERNET SERVICE ON THE FERRY WAS A BIT MORE RELIABLE.
+IT'D BE NICE TO HAVE A DISCOUNT CLIPPER PURCHASE FOR THESE WHO ARE EMPLOYED IN SF.
+THEY ARE SO NICE AND THE VIEWS WERE AWESOME
+I LOVE THE FERRY!
+THANK YOU TO ALL THE STAFF KEEPING SERVICE GOING!
+FRIENDLY STAFF, REASONABLE FARES
+THE STAFF ARE SO SWEET AND MAKE ME FEEL SAFE ON MY RIDES. ALSO, I APPRECIATE HOW
+PUNCTUAL THE RIDES ARE!
+LOVE THE FERRY, THE CREW ARE ALL VERY KIND AND GREAT. CAPTAIN COMMS ARE VERY HELPFUL
++ APPRECIATED.
+GOOD SERVICE.
+I RIDE THE EARLIEST FERRY AT 5:30 AM. IF ONE RAN EARLIER, I WOULD TAKE IT.
+THE FERRY IS GREAT!
+LIMITED OUTSIDE SEATING FOR SIGHTSEEING.
+PEOPLE ARE GREAT AND VERY FRIENDLY.
+IT'S ALWAYS ON TIME.
+ALL IS CLEAN AND WELL MAINTAINED.
+VERY GOOD SERVICE.
+FERRY IS THE MOST FANTASTIC WAY TO TRAVEL TO THE CITY AND BALL GAMES. IF I WORKED IN
+THE CITY, I WOULD USE IT EVERY DAY!
+THE FERRY IS VERY FUN.
+WOULD LIKE TO GET TO SAN FRANCISCO FASTER. MORE FOOD OPTIONS WOULD BE NICE. RUN
+MORE OFTEN. A STOP IN BENICIA. BENICIA AND VALLEJO TERMINAL.
+MEET PEOPLE OR RELAX WITH A DRINK AFTER WORK.
+
+70 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                               Comments from the Vallejo Ferry
+                                 Q9 Rating – Very Satisfied (5)
+RELIABLE, CLEAN; NICE AMENITIES AND STAFF.
+DON'T KNOW WHAT I'D DO WITHOUT THE FERRY! SO GRATEFUL FOR THIS SERVICE.
+NICE PEOPLE, PUNCTUAL TIMING, CLEAN AREAS, DEPENDABLE.
+NOT USER FRIENDLY FOR A FIRST TIMER, SHOULD BE INSTRUCTIONS FOR THE FIRST TIMERS.
+ONE OF THE BEST PARTS OF THE BAY AREA
+CLEAN, QUIET, EFFICIENT, AFFORDABLE
+I LOVE THE FERRY BUT I WISH THE Y EXPRESS WOULD CONNECT BETTER TO THE FERRY SCHED FOR
+VALLEJO.
+ALWAYS ENJOY SAFE. TIMELY, FRESH AIR, AND REGULAR CREW THAT GETS ME HOME TO MY
+FAMILY - NO POLLUTION, BODY WASTE, LOUD NOISE OR COMMUTE RAGE GETTING HOME
+COMPARED TO OTHER MEANS BUS, CAR, BART.
+GREAT EXPERIENCE.
+TAGGING OFF IS STUPID! IT SLOWS EVERYONE DOWN. DRINKS AND SNACKS ARE EXPENSIVE.
+PARKING IS UNSAFE. EVERYONE IS WORRIED EVERY DAY IF A WINDOW WILL BE BUSTED OR YOUR
+CONVERTER STOLEN.
+I DO FEEL A LARGE CONCERN ABOUT SAFETY, CREW MEMBERS DO NOT SCREEN OR CHECK FOR
+WEAPONS. THAT'S A HUGE CONCERN OF MINE.
+SCHEDULE IS NOT ALWAYS UPDATED CONSISTENTLY ACROSS PLATFORMS.
+WISH THERE WERE SIGNS THAT READ "KEEP CELL PHONE USE TO A MINIMUM"
+[SERVICE ALERTS / DELAY NOTIFICATIONS: TEXT UPDATES WOULD BE NICE.
+WISH YOU HAD A BOAT LEAVING FROM SAN FRANCISCO TO VALLEJO AT 6:45 PM. ALSO PLEASE GET
+BETTER SNACKS.
+THANK YOU FOR YOUR SERVICES!
+COULD USE BETTER PLANNING ON CONCESSIONS FOR THESE DAYS THE SAN FRANCISCO GIANTS
+PLAY AND HOW SOME COMMUTERS ARE SHUT OUT AND LEFT TO WAIT FOE THE NEXT FERRY.
+ALL OF THE STAFF ARE COURTEOUS AND EFFICIENT. I WISH THERE WAS EXTRA FERRIED DURING
+SAN FRANCISCO GIANTS' GAMES. I HAVE MISSED A COMMUTE HOME DUE TO OVER-FULL FERRY.
+STAFF IS VERY FRIENDLY.
+
+
+
+
+71 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                               Comments from the Vallejo Ferry
+                                  Q9 Rating – Satisfied (4)
+CLEAN AND EFFICIENT
+NEED BETTER OPTIONS TO GET TO FERRY FROM FAIRFIELD
+I WISH THAT THERE WASN’T A GAP IN SERVICE MIDDAY. ALSO, A WAY TO PRIORITIZE PEOPLE
+COMMUTING TO WORK ON THE WEEKENDS OVER PEOPLE GOING FOR LEISURE
+NEED TO CLEAN VALLEJO TERMINAL. BROKEN CAR WINDOWS, WHENEVER WE RETURN
+THE APP NEEDS ATTENTION
+DISAPPOINTED THAT THERE WAS A CHANGE TO THE BLOODY MARY. THE NEW CUTWATER IS
+TERRIBLE.
+ONBOARD COFFEE/CAFE WOULD BE NICE
+WE HAVE NOT FINISHED THE RIDE BUT BOARDING WAS FAST AND EASY AND THE SEATING IS
+COMFORTABLE.
+IMPRESSED WITH THE EFFICIENCY AND EASE OF BOARDING AND PURCHASING TICKETS ETC.
+MORE RUNS!
+WOULD LIKE MORE WEEKEND SERVICE TO AND FROM VALLEJO. WEIRD TIMES CURRENTLY.
+GREAT EXPERIENCE, COULD HAVE MORE FREQUENCY AND STOPS
+THE ANNOUNCEMENT IS TOO LOUD. I DON'T LIKE THE HOUR AND 15 MIN GAP IN FERRY
+DEPARTURES IN THE MORNING BETWEEN 6:00 AND 7:15 IN THE AFTERNOON LEAVING SF
+DEPARTURE SCHEDULE IS TOO FAR APART AND WEIRD TIMES
+THEY DO A GOOD JOB
+LIGHTS ON ALL BOATS SHOULD DIM! NO MORE BEEPING OUT WITH CLIPPER CARD. IT HOLDS UP
+THE LINE! COMPLETE WASTE OF TIME. 1/2 PEOPLE DO, 1/2 PEOPLE DON'T
+LIGHTS WAY TOO BRIGHT FOR 5:30AM FERRY. WOULD SUGGEST MOVING ONE OF (11,11:30, 12:10)
+WHICH ARE ALL VERY EMPTY TO A TIME BETWEEN 2:40PM-3PM!
+IF POSSIBLE, PUSH THE 2:20 FERRY BACK TO 2:40 TO ACCOMMODATE CONSTRUCTION WORKERS
+WHERE'S THE FREE COFFEE? YOUR TICKETS ARE SO EXPENSIVE, YOU MUST DO SOMETHING TO
+KEEP THOSE WHO PAY YOUR SALARY HAPPY!
+WOULD LOVE TO SEE A STRUCTURE TO PROTECT US FROM THE ELEMENTS IN VALLEJO
+NEED EARLY TRIPS ON WEEKEND. SAME AS WEEKDAYS 5:30AM
+NOT AS CLEAN ON CERTAIN BOATS. MOLD AND MILDEW ALONG WINDOWS
+ADDING ANOTHER BOAT TO THE ROUTE ON GIANTS HOME GAME DAYS WOULD HELP. OFTEN
+LEAVES UP TO 100 PEOPLE ON THE DOCK AFTER THE GAME.
+OTHER THAN OLD FERRYS NO HEATER WORKING AT 5:30AM
+
+72 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                               Comments from the Vallejo Ferry
+                                  Q9 Rating – Satisfied (4)
+RESTROOMS COULD BE CLEANER, ANNOUNCEMENTS LESS LOUD IN MORNING
+THE CHAIRS, TABLES AND WINDOWS COULD BE ALOT CLEANER. SOMETIMES THERE ARE BUGS ON
+THE WINDOW SILL.
+KEEP UP THE GOOD WORK.
+VALLEJO PARKING IS TOO!! EXPENSIVE AND DANGEROUS
+THE LINE IN SF ISN'T MONITORED AS CLOSELY AS I'D LIKE. THERE ARE A LOT OF LINE CUTTERS.
+NEED BETTER COMMUNICATION WITH RIDERS. BETTER SECURITY IN PARKING LOTS.
+GREAT IN MOST CASES. UNCOMFORTABLE WHILE RIDING WITH BASEBALL RIDERS.
+WONDERING WHAT HAPPENED TO THE CITIZENS ADVISORY COMMITTEE THAT WETA LEGISLATION
+SAID IT WOULD HAVE
+MORE SERVICE TIMES TO MARE ISLAND NEEDED.
+CONSISTENT WITH TRAVEL TIMES EVEN WITH COMPLICATIONS, TRANSPARENCY.
+EXCEPT WHEN ITS A DAY GAME FOR THE GIANTS. YOU GUYS REALLY NEED TO FIGURE SOMETHING
+OUT! IT IS NOT FAIR TO US REGULAR PASSENGERS TO BE OVERCROWDED WITH A BUNCH OF
+DRUNKS!
+FERRY PARKING IS TOO EXPENSIVE
+OCCASIONALLY LATE
+COULD HAVE MORE TIME OPTIONS FOR PEOPLE RUNNING LATE LEAVING VALLEJO IN MORNING
+ONLY 6AM AND THEN AN HOUR WAIT.
+UNIMPRESSED WITH THE PARKING SECURITY IN VALLEJO -
+BOARD FASTER, TOO SLOW ON VALLEJO CANAL WHEN ARRIVING, FREQUENT STOPS ON WATER,
+SLOW WIFI/SPOTTY WIFI, DIRTY BATHROOMS + NO SINGLE LEVEL BOATS PLEASE.
+MORE TIME OPTIONS WOULD BE HELPFUL. ALSO, LINES ARE TOO LONG AND RESERVATIONS
+SHOULD BE ALLOWED.
+SHOULD BE MORE AVAILABLE TIMES DEPARTING TO AND FROM THE CITY. ESPECIALLY THE
+MORNINGS.
+NICE RIDE ON NICE DAYS.
+THE CONCESSION PRICES ARE WILDLY EXPENSIVE
+SNACK BAR CHANGED. PRICES ARE FINE JUST PRODUCT CHANGES.
+WOULD PREFER A MID DAY FERRY TO VALLEJO (12:30 OR 1:30P).
+MORE CLIPPER TERMINALS.
+
+
+73 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                               Comments from the Vallejo Ferry
+                                  Q9 Rating – Satisfied (4)
+IT'S EXPENSIVE AND PARKING IS RISKY.
+SCHEDULE IS A BIT STRANGE. FROM 12- 4 THERE ARE NO SF > VALLEJO.
+EFFICIENT AND CHEAP.
+SOMETIMES PEOPLE LEAVE BAGS ON SEATS, FOR THEIR FRIENDS. DURING GIANTS/WARRIORS
+GAMES, I HAVE DIFFICULTY GETTING ON THE FERRY. PLEASE HAVE MORE OR BIGGER BOATS ON
+GAME DAYS. UNHEALTHY SNACKS-- LOW QUALITY IS NEGATIVE HEALTH FOR EVERYONE!
+SOMETIMES THE FERRY LEAVES FIVE MINUTES EARLY SO I WOULD LIKE TO HAVE AN OPPORTUNITY
+TO GET 10 MINUTES MORE BEFORE DEPARTURE.
+I HATE GIANTS GAME DAYS. RUINS MY WHOLE COMMUTE. GET MORE BOATS. VALLEJO IS BUSY. DO
+BETTER!
+SECURITY IS VERY BAD. MY CAR WAS BROKEN IN FOUR TIMES. THIS IS MAKING ME THINK, IS THE
+FERRY THE BETTER WAY?
+THE FERRY IS VERY OFTEN ON TIME, PUNCTUAL, AND VERY RELAXING!
+WHAT HAPPENED TO THE FREE COFFEE? THAT WAS A NICE PERK.
+INTERNET CAN BE SPOTTY AT TIMES, OTHERWISE GREAT! I DO WISH THERE WERE MORE
+DEPARTURE TIMES TOO.
+CLEAN AND QUIET.
+
+
+                              Comments from the Vallejo Ferry
+                                 Q9 Rating – Neutral (3)
+WISH THE PRICE FOR REGULAR COMMUTES WAS CHEAPER 9.60 BOTH WAYS ADDS UP.
+RIDES HAVE BEEN EXTREMELY PACKED AND RIDERS ARE LEFT STANDING
+IT WOULD BE HELPFUL IF THE FERRY STAFF COULD LET PEOPLE SIT IN THE FERRY WHILE WAITING
+FOR THE FERRY TO LEAVE SF, TURNING AC ON DURING HOT DAYS
+UNPUNCTUAL.
+VALLEJO TERMINAL DID NOT HAVE A SIGN SAYING GO TO MARE ISLAND. HOMELESS WOMAN TOLD
+ME TO GET ON THE BUS.
+VALLEJO FERRY IS MOST EXPENSIVE ROUTE - AND PARKING IS NOT FREE LIKE RICHMOND -
+LOOKING AT ALMOST $30/DAY TP USE VALLEJO FERRY
+LOVE THE SERVICE, HATE THE EVENING SCHEDULE. WE SHOULD HAVE A 7 PM FERRY.
+
+
+
+
+74 | P a g e
+San Francisco Bay Ferry | Onboard Ferry Survey Summary Report
+
+                              Comments from the Vallejo Ferry
+                                Q9 Rating – Dissatisfied (2)
+IT WAS TARDY AND LOUD. MOREOVER, THE FERRY EMITS TOXIC FUMES UPON START UP.
+WE NEED LATER DEPARTURES THAN 8 PM FROM SAN FRANCISCO.
+TOO EXPENSIVE; IT NEEDS TO BE AFFORDABLE. THE FOOD/SNACKS ARE EXPENSIVE AS WELL.
+
+
+                              Comments from the Vallejo Ferry
+                              Q9 Rating – Very Dissatisfied (1)
+NO ONE ALERTED US ABOUT THE NEED TO TAKE A BUS TO MARE ISLAND TO CATCH THE FERRY!
+
+
+
+
+75 | P a g e
+

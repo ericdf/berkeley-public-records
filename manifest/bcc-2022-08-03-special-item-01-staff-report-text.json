@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2022-08-03-special-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2022-08-03",
+  "meeting_label": "special",
+  "title": "Additional Allocation of Measure P Funding to “Step Up Housing” Project",
+  "file": "L1/staff-reports/bcc-2022-08-03-special-item-01-staff-report-text.txt",
+  "sha256": "5d296237903fdd035b578bdc24426913dc6a047e6a14db099bdbc566342889bf",
+  "bytes": 15863,
+  "derived_from": {
+    "id": "bcc-2022-08-03-special-item-01-staff-report",
+    "sha256": "ee1dbaf21011055bbcaebbd7046c47117fff22d4b5db9bc641a50a7208b6983c"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

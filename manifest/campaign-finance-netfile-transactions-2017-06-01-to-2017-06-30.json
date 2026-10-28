@@ -1,0 +1,18 @@
+{
+  "id": "campaign-finance-netfile-transactions-2017-06-01-to-2017-06-30",
+  "layer": "L0",
+  "doc_type": "campaign_finance_document",
+  "collection": "campaign_finance",
+  "publisher": "City of Berkeley — City Clerk (NetFile Connect2 public campaign-finance API)",
+  "title": "NetFile Connect2 transaction search, City of Berkeley, 2017-06-01 to 2017-06-30 (ShowSuperceded=false)",
+  "document_date": "2026-10-23",
+  "file": "L0/sources/campaign_finance/campaign-finance-netfile-transactions-2017-06-01-to-2017-06-30.json",
+  "sha256": "cd604c453a9c382393dac9845736f78c1210b9c996d92c3e4623444c5308ab2d",
+  "bytes": 323918,
+  "source_url": "https://netfile.com/Connect2/api/public/campaign/search/transaction/query?Agency=1&DateStart=2017-06-01&DateEnd=2017-06-30&ShowSuperceded=false&PageSize=1000&CurrentPageIndex=0&SortOrder=0&format=json",
+  "retrieved": "2026-10-23",
+  "archived": "2026-10-23",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

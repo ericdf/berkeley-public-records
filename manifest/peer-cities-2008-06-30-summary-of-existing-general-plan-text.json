@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-2008-06-30-summary-of-existing-general-plan-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "Summary of Existing General Plan",
+  "file": "L1/sources/peer_cities/peer-cities-2008-06-30-summary-of-existing-general-plan-text.txt",
+  "sha256": "da1f80f57dfa000dc93809d9f0ea08327ceddc8384997194b941c4ee536ef353",
+  "bytes": 7511,
+  "derived_from": {
+    "id": "peer-cities-2008-06-30-summary-of-existing-general-plan",
+    "sha256": "28703ac2cb2be11fcd697d944a06d77852af7be6662267c4035cc1e2d931a41e"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

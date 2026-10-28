@@ -1,0 +1,19 @@
+{
+  "id": "waterfront-2022-08-31-ab-691-summary-berkeley",
+  "layer": "L0",
+  "doc_type": "waterfront_document",
+  "collection": "waterfront",
+  "publisher": "California State Lands Commission",
+  "title": "AB 691 Summary - Berkeley",
+  "document_date": "2022-08-31",
+  "file": "L0/sources/waterfront/waterfront-2022-08-31-ab-691-summary-berkeley.pdf",
+  "sha256": "2deab6112490538ffbee473e574843203a2d2b19b30aa649956d30f77a912983",
+  "bytes": 444719,
+  "source_url": "https://slcprdwordpressstorage.blob.core.windows.net/wordpressdata/2022/08/ab691-summary-berkeley.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. No date is printed; document_date is the end of the month in the posting path of source_url (2022/08).",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

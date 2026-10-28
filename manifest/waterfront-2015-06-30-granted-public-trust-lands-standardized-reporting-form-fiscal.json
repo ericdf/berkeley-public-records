@@ -1,0 +1,19 @@
+{
+  "id": "waterfront-2015-06-30-granted-public-trust-lands-standardized-reporting-form-fiscal",
+  "layer": "L0",
+  "doc_type": "waterfront_document",
+  "collection": "waterfront",
+  "publisher": "City of Berkeley (grantee report filed with the California State Lands Commission under Public Resources Code § 6306; published by the California State Lands Commission)",
+  "title": "Granted Public Trust Lands Standardized Reporting Form, Fiscal/Calendar Year: 2014/2015 (FY 2015)",
+  "document_date": "2015-06-30",
+  "file": "L0/sources/waterfront/waterfront-2015-06-30-granted-public-trust-lands-standardized-reporting-form-fiscal.pdf",
+  "sha256": "0ee191b3cf586f1ec91638180fdaee7232c7dbdbe92e8309169dae958fac3975",
+  "bytes": 442173,
+  "source_url": "https://www.slc.ca.gov/wp-content/uploads/sites/355/Programs/Granted_Lands/Forms/2015/01-03Berkeley.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. No filing date is printed; document_date is the last day of the fiscal year printed on the form (2014/2015).",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

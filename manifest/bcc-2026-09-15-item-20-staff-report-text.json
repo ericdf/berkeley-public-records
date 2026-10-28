@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-09-15-item-20-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-09-15",
+  "meeting_label": "regular",
+  "title": "Referral to the City Manager: RENAISSANCE – Part 2: Commercial Vacancy Blight Prevention and Mitigation",
+  "file": "L1/staff-reports/bcc-2026-09-15-item-20-staff-report-text.txt",
+  "sha256": "c6ddaa5e7bafef9b0f90f9461d07daf56db8b0c14e21887745b60265274fd8bc",
+  "bytes": 27193,
+  "derived_from": {
+    "id": "bcc-2026-09-15-item-20-staff-report",
+    "sha256": "2491ac4bfb7925a98232abcf7f1aa6726cef68c458d897e280ca7683e71f3992"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-19"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2020-01-21-regular-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2020-01-21",
+  "meeting_label": "regular",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2020-01-21",
+  "file": "L1/annotated-agendas/bcc-2020-01-21-regular-annotated-agenda-text.txt",
+  "sha256": "089bac35e9da8fa0de0b95283d7e494f797ec61d43dabae362fd4966dc4f1e44",
+  "bytes": 59360,
+  "derived_from": {
+    "id": "bcc-2020-01-21-regular-annotated-agenda",
+    "sha256": "ab64964f925893f9e92b6b664341869678d19a50710eee234b4bb8af3c48cfea"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

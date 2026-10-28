@@ -1,0 +1,20 @@
+{
+  "id": "waterfront-2021-02-16-berkeley-marina-area-specific-plan-berkeley-pier-ferry-facility",
+  "layer": "L0",
+  "doc_type": "waterfront_document",
+  "collection": "waterfront",
+  "publisher": "City of Berkeley — Parks, Recreation & Waterfront",
+  "title": "Berkeley Marina Area Specific Plan + Berkeley Pier/Ferry Facility Planning Study (Council Worksession presentation)",
+  "document_date": "2021-02-16",
+  "meeting_date": "2021-02-16",
+  "file": "L0/sources/waterfront/waterfront-2021-02-16-berkeley-marina-area-specific-plan-berkeley-pier-ferry-facility.pdf",
+  "sha256": "19202d5ba1583a438208bbed0303814d171331826a1f49f769134e7f5b59fbe3",
+  "bytes": 10984157,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/Council%20Worksession%202021-02-16-BMASP-Pier-Ferry%20-%20Draft%20v7.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. Council worksession slides; no agenda item number is printed. The same file is also served at .../Council%20Worksession%202021-02-16-BMASP-Pier-Ferry%20-%20Draft%20v7%20%281%29.pdf (identical sha256).",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

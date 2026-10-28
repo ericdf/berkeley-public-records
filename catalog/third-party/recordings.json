@@ -1,0 +1,24 @@
+{
+ "description": "Recordings published by someone other than a public body that bear on Berkeley public decisions. Listed, not archived: no media is downloaded or fingerprinted.",
+ "entries": [
+  {
+   "url": "https://www.youtube.com/watch?v=S1uz7A2B41U",
+   "title": "BNC Ballot Measures Forum 10 10 2026",
+   "publisher": "BNC (YouTube channel @BNC50)",
+   "channel_url": "https://www.youtube.com/channel/UCelJwNvGsKIKskV6b5VXUjA",
+   "upload_date": "2026-10-11",
+   "duration": "2:54:02",
+   "relevance": "Public forum on City of Berkeley ballot measures for the November 2026 election, including Measures U and V.",
+   "first_listed": "2026-10-15"
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=E60sHdlVJxU",
+   "title": "2026 Berkeley Mayor's State Of The City Address",
+   "publisher": "Berkeley Community Media",
+   "upload_date": "2026-09-23",
+   "duration": "41:28",
+   "relevance": "Live stream of Mayor Adena Ishii's September 23, 2026 State of the City address at the Freight & Salvage in Berkeley; the archived machine transcript ishii-2026-09-23-state-of-city-* follows its timestamps.",
+   "first_listed": "2026-10-19"
+  }
+ ]
+}

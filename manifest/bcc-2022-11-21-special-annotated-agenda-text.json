@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2022-11-21-special-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2022-11-21",
+  "meeting_label": "special",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2022-11-21",
+  "file": "L1/annotated-agendas/bcc-2022-11-21-special-annotated-agenda-text.txt",
+  "sha256": "ff62e87e88b44c04c61f7131287916944bbc6287cc26db3041e426aee8bc8477",
+  "bytes": 7288,
+  "derived_from": {
+    "id": "bcc-2022-11-21-special-annotated-agenda",
+    "sha256": "7157a2e7d4b5db52634f47b196937b0c6fb2be532f5a721ad86fa9005be84bb3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

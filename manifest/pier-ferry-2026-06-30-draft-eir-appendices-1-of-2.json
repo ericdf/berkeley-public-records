@@ -1,0 +1,36 @@
+{
+  "id": "pier-ferry-2026-06-30-draft-eir-appendices-1-of-2",
+  "layer": "L0",
+  "doc_type": "project_record",
+  "collection": "pier_ferry",
+  "publisher": "City of Berkeley — Parks, Recreation, & Waterfront Department",
+  "title": "Berkley Water Transportation Pier Ferry Project Draft EIR Appendices (1 of 2)",
+  "document_date": "2026-06-30",
+  "file": null,
+  "sha256": "69c9638ceecfe159d3b11a2429c1376936c2b6049d78e3aad0d6ffaf2da2a276",
+  "bytes": 62219481,
+  "source_url": "https://berkeleyca.gov/sites/default/files/2026-02/Berkeley-Water-Transportation-Pier-Ferry-Project-Draft-EIR-Appendices-1-of-2.pdf",
+  "source_note": "Downloaded from the address above on 2026-10-20. No date is printed; it was published with the February 2026 Draft EIR, and document date is the end of that fiscal year (FY2025-26).",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-pier-ferry-2026-06-30-draft-eir-appendices-1-of-2",
+        "path": "pier-ferry-2026-06-30-draft-eir-appendices-1-of-2.pdf",
+        "uploaded": "2026-10-20",
+        "verified": "2026-10-28"
+      },
+      {
+        "store": "google_drive",
+        "location": "berkeley-public-records-blobs/pier-ferry-2026-06-30-draft-eir-appendices-1-of-2.pdf",
+        "uploaded": "2026-10-20",
+        "verified": "2026-10-20"
+      }
+    ]
+  }
+}

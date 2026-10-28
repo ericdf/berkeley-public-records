@@ -1,0 +1,21 @@
+{
+  "id": "bonds-2026-07-28-official-statement-20-000-000-city-of-berkeley-2026-general-text",
+  "layer": "L1",
+  "doc_type": "bond_document_text",
+  "collection": "bonds",
+  "title": "Official Statement — $20,000,000 City of Berkeley 2026 General Obligation Bonds (2016 Election: Infrastructure and Facilities Improvements)",
+  "file": "L1/sources/bonds/bonds-2026-07-28-official-statement-20-000-000-city-of-berkeley-2026-general-text.txt",
+  "sha256": "7c7129fb5708acc39836ae41e98f8a757039ebbaeaad2385bb082dae57e416b3",
+  "bytes": 1651518,
+  "derived_from": {
+    "id": "bonds-2026-07-28-official-statement-20-000-000-city-of-berkeley-2026-general",
+    "sha256": "47313dc60402b87694f5e788cf6f871db4e0a32cdaaf672c02e95a91fdf6a2f2"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-10"
+}

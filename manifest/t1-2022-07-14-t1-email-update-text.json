@@ -1,0 +1,21 @@
+{
+  "id": "t1-2022-07-14-t1-email-update-text",
+  "layer": "L1",
+  "doc_type": "project_update_bulletin_text",
+  "collection": "t1",
+  "title": "T1 Email Update",
+  "file": "L1/sources/t1/t1-2022-07-14-t1-email-update-text.txt",
+  "sha256": "7860a843c39503b197146417d9af7fa6b1d7b50535390c72fc4ba907fc213636",
+  "bytes": 7592,
+  "derived_from": {
+    "id": "t1-2022-07-14-t1-email-update",
+    "sha256": "dca20dec77035cdfc5dfda712e25f1a0a2f4ffda73924ed6dd59007e416a1476"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}
