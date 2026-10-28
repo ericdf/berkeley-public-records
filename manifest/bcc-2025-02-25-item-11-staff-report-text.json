@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-02-25-item-11-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-02-25",
+  "meeting_label": "regular",
+  "title": "Contract No. 32500082 Amendment: Telegraph Property and Business Management Corporation",
+  "file": "L1/staff-reports/bcc-2025-02-25-item-11-staff-report-text.txt",
+  "sha256": "a7ba47e0c8352fb4e60eccfcb1356c5355bff8bd5b9727b7133b2d8385daacbe",
+  "bytes": 6543,
+  "derived_from": {
+    "id": "bcc-2025-02-25-item-11-staff-report",
+    "sha256": "9db53b6dc6fa89adce5bc08eeca2bd3fe8d533d99b0328e231b8b7fbc8ab527a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

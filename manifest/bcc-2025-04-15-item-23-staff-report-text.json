@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-04-15-item-23-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-04-15",
+  "meeting_label": "regular",
+  "title": "Climate Action Plan and Resilience Update",
+  "file": "L1/staff-reports/bcc-2025-04-15-item-23-staff-report-text.txt",
+  "sha256": "dc298e4237c047567a8f8e7d7ac9a68a51a4f6736f083e0692b23b92af6f71c8",
+  "bytes": 81811,
+  "derived_from": {
+    "id": "bcc-2025-04-15-item-23-staff-report",
+    "sha256": "b912d1cfe836825da9348943b9a3af1651427956de240c4f25af8c66044745c9"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}
