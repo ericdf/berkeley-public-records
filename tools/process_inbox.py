@@ -34,7 +34,8 @@ DOC_EXTENSIONS = {"pdf", "doc", "docx", "xls", "xlsx", "csv", "geojson", "json",
                   "rtf", "png", "jpg", "jpeg", "tif", "tiff"}
 FIELDS = {
     "layer": "L0 (made or published by a public body) or T0 (published by someone else)",
-    "collection": "where it is filed, e.g. sources/budgets, clerk, council-captions, staff-reports, press",
+    "collection": ("where it is filed, e.g. sources/budgets, clerk, council-captions, annotated-agendas, "
+                   "agenda-packets (Large file Issue only), staff-reports, press"),
     "title": "the document's title as printed on it",
     "document_date": ("the date on the document: YYYY-MM-DD (or YYYY-MM, or YYYY); optional for staff-reports; "
                       "\"undated\" for a T0 page that prints no date, which then needs wayback_url or retrieved"),
@@ -46,7 +47,9 @@ FIELDS = {
     "wayback_url": ("optional: the Wayback Machine capture the file was taken from, "
                     "https://web.archive.org/web/<14-digit timestamp>/<address>"),
     "meeting_date": "optional: the meeting it belongs to, YYYY-MM-DD (required for staff-reports)",
-    "meeting_label": "council-captions, annotated-agendas, and Council staff-reports: e.g. regular, special",
+    "meeting_label": ("council-captions, annotated-agendas, agenda-packets, and Council staff-reports: e.g. "
+                      "regular, special. For a document the City lists on its Council agenda page, the date "
+                      "and label are filled in from the City catalog when left out"),
     "item": "optional: the agenda item as printed, e.g. Consent Calendar Item 12 (required for staff-reports)",
     "body": "staff-reports: the body whose agenda it is on, e.g. Berkeley City Council, Planning Commission",
     "part": "staff-reports, optional: a short name for the document within the item when it is not "
@@ -60,7 +63,13 @@ FIELDS = {
 MEETING_COLLECTIONS = {
     "council-captions": ("council_captions", "captions"),
     "annotated-agendas": ("annotated_agenda", "annotated-agenda"),
+    "agenda-packets": ("agenda_packet", "agenda-packet"),
 }
+# Agenda packets compile a meeting's item material in one file. They are a bulk collection and
+# always stored as external blobs (README, "Large files"), so they come in through a Large file
+# Issue and tools/ingest_large.py, never through the inbox, whatever their size.
+BLOB_ONLY_COLLECTIONS = {"agenda-packets"}
+CITY_MEETINGS = os.path.join("catalog", "city-council-agendas", "meetings.json")
 TOP_LEVEL_L0 = set(MEETING_COLLECTIONS) | {"clerk"}
 # Agenda item reports: Council staff reports, and items from Council policy committees and City
 # commissions. Filed under L0/staff-reports/ with the body named in the entry; the id is
@@ -156,6 +165,31 @@ def pair_inbox(inbox):
         problems.append(f"inbox/{stem}.json has no document with the same name. Upload the document "
                         f"as inbox/{stem}.pdf (the names before the dot must match).")
     return [(s, docs[s], metas[s]) for s in sorted(set(docs) & set(metas))], problems
+
+
+def meeting_from_catalog(root, url):
+    """(meeting_date, meeting_label) of the City-listed Council meeting whose agenda packet or
+    annotated agenda is at url, from catalog/city-council-agendas/meetings.json; else None."""
+    path = os.path.join(root, CITY_MEETINGS)
+    if not url or not os.path.exists(path):
+        return None
+    with open(path) as f:
+        for m in json.load(f)["entries"]:
+            if url in (m["city"].get("agenda_packet"), m["city"].get("annotated_agenda")):
+                return m["date"], m["label"]
+    return None
+
+
+def fill_meeting(root, meta):
+    """Supply meeting_date and meeting_label for a meeting collection from the City catalog when
+    the contributor left them out and the source_url is one the City lists. Returns meta."""
+    if meta.get("collection") in MEETING_COLLECTIONS and not (meta.get("meeting_date") and meta.get("meeting_label")):
+        found = meeting_from_catalog(root, (meta.get("source_url") or "").strip())
+        if found:
+            meta = dict(meta)
+            meta.setdefault("meeting_date", found[0])
+            meta.setdefault("meeting_label", found[1])
+    return meta
 
 
 def check_metadata(name, meta, manifest, where=None):
@@ -474,6 +508,12 @@ def process(root, contributor, today=None, log=print):
         if not isinstance(meta, dict):
             problems.append(f"inbox/{name}.json must be one {{ ... }} object; see inbox/README.md.")
             continue
+        if str(meta.get("collection") or "").strip() in BLOB_ONLY_COLLECTIONS:
+            problems.append(f"inbox/{name}: agenda packets are always stored outside git, whatever "
+                            "their size. Remove both files and open a \"Large file\" Issue with the "
+                            "City's link to the packet (README, \"Large files\").")
+            continue
+        meta = fill_meeting(root, meta)
         try:
             place = check_metadata(name, meta, manifest)
         except Problem as x:

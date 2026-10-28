@@ -4,6 +4,7 @@
 Run by the maintainer (or an agent at the maintainer's direction), never by a GitHub Action.
 
   python3 tools/ingest_large.py <issue number> [--collection sources/<topic>]
+      [--meeting-date YYYY-MM-DD --meeting-label regular]
       Dry run (the default): reads the Issue, downloads the file to the staging directory
       (from the City URL, or from Google Drive through the rclone remote bpr-drive:),
       fingerprints it, refuses duplicates and id collisions, and prints what it would do.
@@ -14,7 +15,8 @@ Run by the maintainer (or an agent at the maintainer's direction), never by a Gi
       that copy by downloading it; uploads it to the Internet Archive as item
       berkeley-public-records-<id> (PUBLIC AND PERMANENT: only with the maintainer's explicit
       approval for this file); writes manifest/<id>.json with "file": null and both copies; writes
-      L1 text when the PDF has a text layer. With --open-pr it also commits, pushes, and opens a
+      L1 text when the PDF has a text layer, and for an agenda packet its L2 item index
+      (tools/l2/packet_items.py). With --open-pr it also commits, pushes, and opens a
       pull request that closes the Issue; otherwise it prints those commands.
 
 Requires: gh (signed in), rclone with remote bpr-drive: signed in as the archive account, and for
@@ -100,9 +102,11 @@ def fetch_issue(number):
     return json.loads(p.stdout)
 
 
-def plan(root, issue, staging, collection=None, fetch=None, today=None):
+def plan(root, issue, staging, collection=None, fetch=None, today=None, meeting=None):
     """Checks only: download, fingerprint, refuse duplicates. Returns the plan; changes nothing in
-    the repository. `fetch(fields, dest_dir) -> local path` is injectable for tests."""
+    the repository. `fetch(fields, dest_dir) -> local path` is injectable for tests. `meeting`
+    ({"meeting_date", "meeting_label"}) supplies those fields for a meeting collection; without it
+    they come from the City catalog when the Issue's City web address is one it lists."""
     today = today or datetime.datetime.now(datetime.timezone.utc).date().isoformat()
     n = issue["number"]
     f = parse_issue_body(issue.get("body") or "")
@@ -111,6 +115,10 @@ def plan(root, issue, staging, collection=None, fetch=None, today=None):
                               "source_note", "relevance", "collection", "id") if f.get(k)}
     if collection:
         meta["collection"] = collection
+    for k, v in (meeting or {}).items():
+        if v:
+            meta[k] = v
+    meta = pi.fill_meeting(root, meta)
     if not meta.get("collection"):
         raise Problem(f"{where}: no collection given; pass --collection (e.g. sources/budgets, clerk, press)")
     if not f.get("source_url") and not f.get("drive_link"):
@@ -145,7 +153,7 @@ def plan(root, issue, staging, collection=None, fetch=None, today=None):
     if mid in manifest or mid + "-text" in manifest:
         raise Problem(f"{where}: id {mid} is already used; add a distinct id under "
                       f"'Archive id, if needed' in the Issue and rerun")
-    if size <= pi.MAX_IN_GIT:
+    if size <= pi.MAX_IN_GIT and meta["collection"] not in pi.BLOB_ONLY_COLLECTIONS:
         raise Problem(f"{where}: the file is {size / 1048576:.1f} MB, not over 25 MB. Add it through "
                       f"the inbox instead (inbox/README.md); it was downloaded to {path}")
     staged = os.path.join(work, f"{mid}.{ext}")
@@ -189,7 +197,7 @@ def describe(p, upload=False):
 def ia_metadata(e):
     desc = (f"Berkeley public record archived by berkeley-public-records. sha256 {e['sha256']}. "
             f"Source: {e.get('source_url') or e.get('source_note')}")
-    md = {"mediatype": "texts", "title": e["title"], "date": e["document_date"],
+    md = {"mediatype": "texts", "title": e["title"], "date": e.get("document_date") or e.get("meeting_date"),
           "creator": e.get("publisher") or "", "subject": "Berkeley; public records",
           "description": desc}
     return [f"--metadata={k}:{v}" for k, v in md.items() if v]
@@ -202,6 +210,22 @@ def branch_exists(root, branch, run=subprocess.run):
     remote = run(["git", "ls-remote", "--exit-code", "--heads", "origin", branch],
                  cwd=root, capture_output=True)
     return local.returncode == 0 or remote.returncode == 0
+
+
+def packet_index(root, text_id, contributor, today, notes):
+    """Build the L2 item index for an agenda packet from its L1 text (tools/l2/packet_items.py).
+    Returns the files written; a packet the indexer cannot parse is archived without one, with a note."""
+    sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "l2"))
+    import packet_items
+    try:
+        lid, n = packet_items.write_new(text_id, contributor, root, today)
+    except SystemExit as x:
+        notes.append(f"{text_id}: no packet item index ({x}); archive the packet and resolve by hand")
+        return []
+    notes.append(f"{lid}: {n} agenda items indexed")
+    with open(os.path.join(root, "manifest", lid + ".json")) as f:
+        e = json.load(f)
+    return [f"manifest/{lid}.json", e["file"], e["extraction"]["recipe"]]
 
 
 def execute(root, p, run=subprocess.run, open_pr=False, today=None):
@@ -239,6 +263,8 @@ def execute(root, p, run=subprocess.run, open_pr=False, today=None):
     files = [f"manifest/{e['id']}.json"]
     if text == e["id"] + "-text":
         files += [f"manifest/{text}.json", f"{p['place']['l1']}/{text}.txt"]
+        if e["doc_type"] == "agenda_packet":
+            files += packet_index(root, text, e["contributed_by"], today, notes)
     for n in notes:
         print("note:", n)
     body = (f"Adds `{e['id']}` as an external blob ({e['bytes']} bytes, sha256 `{e['sha256']}`): "
@@ -263,7 +289,10 @@ def execute(root, p, run=subprocess.run, open_pr=False, today=None):
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("issue", type=int, help="the Large file Issue number")
-    ap.add_argument("--collection", help="override or supply the collection, e.g. sources/budgets")
+    ap.add_argument("--collection", help="override or supply the collection, e.g. sources/budgets, agenda-packets")
+    ap.add_argument("--meeting-date", help="meeting collections: the meeting date, YYYY-MM-DD, when the City "
+                                           "catalog cannot supply it")
+    ap.add_argument("--meeting-label", help="meeting collections: e.g. regular, special")
     ap.add_argument("--upload", action="store_true",
                     help="copy to Drive and upload to the Internet Archive (public, permanent)")
     ap.add_argument("--open-pr", action="store_true", help="with --upload: commit, push and open the PR")
@@ -277,7 +306,8 @@ def main(argv=None):
         ap.error("--open-pr needs --upload")
     issue = json.load(open(a.issue_json)) if a.issue_json else fetch_issue(a.issue)
     try:
-        p = plan(a.root, issue, a.staging, a.collection)
+        p = plan(a.root, issue, a.staging, a.collection,
+                 meeting={"meeting_date": a.meeting_date, "meeting_label": a.meeting_label})
     except Problem as x:
         print("REFUSED", x, file=sys.stderr)
         return 2
