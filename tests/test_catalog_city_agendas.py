@@ -108,5 +108,22 @@ class MeetingMap(unittest.TestCase):
         self.assertNotIn("2024-11-19", text)  # canceled, and before the default start
 
 
+    def test_check_links_moved_and_replaced(self):
+        reg = {r["meeting"]: r for r in cca.parse(FIXTURE.read_text())}["city-council-2026-09-29"]
+        self.put("bcc-2026-09-29-regular-annotated-agenda", doc_type="annotated_agenda", meeting_date="2026-09-29",
+                 meeting_label="regular", sha256="a" * 64, source_url="https://berkeleyca.gov/old.pdf")
+        self.put("bcc-2026-09-29-special-annotated-agenda", doc_type="annotated_agenda", meeting_date="2026-09-29",
+                 meeting_label="special", sha256="b" * 64, source_url="https://berkeleyca.gov/old-special.pdf")
+        served = {reg["city"]["annotated_agenda"]: ("a" * 64, 10)}
+        report = mm.check_links(mm.build(self.root), self.root,
+                                fetch=lambda u: served.get(u, ("c" * 64, 11)), write=True, today="2026-10-28")
+        kinds = {(k, mtg) for k, mtg, *_ in report}
+        self.assertEqual(kinds, {("moved", "city-council-2026-09-29"), ("replaced", "city-council-2026-09-29-0")})
+        with open(os.path.join(self.root, "manifest", "bcc-2026-09-29-regular-annotated-agenda.json")) as f:
+            e = json.load(f)
+        self.assertEqual(e["published_at"], [{"url": reg["city"]["annotated_agenda"], "seen": "2026-10-28"}])
+        listed = self.meeting(mm.build(self.root), "city-council-2026-09-29")["listed"]
+        self.assertEqual(listed["annotated_agenda"], "bcc-2026-09-29-regular-annotated-agenda")
+
 if __name__ == "__main__":
     unittest.main()

@@ -370,7 +370,11 @@ contributor chose to add it, and contributors add the records their work needs.
 
 **L0 is add-only.** A document is never edited, replaced, or deleted to correct it. If a
 public body issues a corrected or revised version, add it as a new document with its own `id`,
-and note the relationship in both manifest entries.
+and record the relationship in both manifest entries: `revision_of` (the earlier id) on the new
+one, `revised_by` (a list) on the earlier one, `version_label` for the body's word for the
+version if it gives one ("Revised"), and `version_note` for anything else a reader needs. The
+validator checks that the two sides agree. A body that replaces a file at a new address without
+changing it is not a revision: the new address is recorded in the entry's `published_at`.
 
 **Manifest metadata may be corrected by pull request; files may not.** A wrong title, date,
 source URL or note in a manifest entry is fixed in the entry. The `file`, `sha256` and `bytes`

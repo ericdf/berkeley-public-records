@@ -120,6 +120,32 @@ def main():
         if e["layer"] == "L2" and ds and not (e.get("extraction") or {}).get("command"):
             err(f"manifest/{i}.json", "L2 needs extraction.command, the recorded build")
 
+    # versions: revision_of on the later document, revised_by on the earlier, pointing at each other
+    for i, e in manifest.items():
+        where = f"manifest/{i}.json"
+        r = e.get("revision_of")
+        if r is not None:
+            src = manifest.get(r)
+            if not src:
+                err(where, f"revision_of {r!r} is not in the manifest")
+            elif i not in (src.get("revised_by") or []):
+                err(where, f"revision_of {r!r}, but {r} does not list {i} in revised_by")
+            elif src.get("meeting_date") != e.get("meeting_date"):
+                err(where, f"revision_of {r!r} belongs to a different meeting date")
+        rb = e.get("revised_by")
+        if rb is not None:
+            if not isinstance(rb, list) or not rb:
+                err(where, "revised_by must be a non-empty list of archive ids")
+            else:
+                for k in rb:
+                    if (manifest.get(k) or {}).get("revision_of") != i:
+                        err(where, f"revised_by lists {k!r}, whose revision_of is not {i}")
+        if e.get("version_label") and not isinstance(e["version_label"], str):
+            err(where, "version_label must be text")
+        for pa in e.get("published_at") or []:
+            if not (isinstance(pa, dict) and re.match(r"^https?://\S+$", str(pa.get("url"))) and DATE_RE.match(str(pa.get("seen")))):
+                err(where, "published_at entries need url (https://...) and seen (YYYY-MM-DD)")
+
     # every file in a layer directory is listed
     for layer in LAYERS:
         for dirpath, _, names in os.walk(os.path.join(ROOT, layer)):
