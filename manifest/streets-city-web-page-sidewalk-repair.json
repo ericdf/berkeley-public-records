@@ -1,0 +1,19 @@
+{
+  "id": "streets-city-web-page-sidewalk-repair",
+  "layer": "L0",
+  "doc_type": "web_page",
+  "collection": "streets",
+  "publisher": "City of Berkeley",
+  "title": "Sidewalk Repair",
+  "document_date": "2026-10-15",
+  "file": "L0/sources/streets/streets-city-web-page-sidewalk-repair.html",
+  "sha256": "f60dedcde02b26131c89bf77986a5ebae37a89052ee430eddcb3116b4255fb07",
+  "bytes": 158794,
+  "source_url": "https://berkeleyca.gov/city-services/streets-sidewalks-sewers-and-utilities/sidewalk-repair",
+  "source_note": "City web page; no date is printed on it. Saved as served (HTML) from source_url on 2026-10-15; document_date is the retrieval date.",
+  "retrieved": "2026-10-15",
+  "archived": "2026-10-15",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
