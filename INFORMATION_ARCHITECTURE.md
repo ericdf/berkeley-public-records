@@ -257,6 +257,10 @@ Both Drive folders belong to the archive account, `berkeleypublicrecords@gmail.c
   once the item is public, so the large-file pull request opens as a draft with that copy at
   `verified: null`, and stays a draft until `tools/ingest_large.py --verify-ia <id>` records the
   check on the same branch. The validator refuses any blob copy without a `verified` date.
+- **Drive has a quota; the Internet Archive does not.** The archive account's Drive is the
+  free 15 GiB plan, holding the external copies and the mirror. `tools/ingest_large.py` reports
+  free space in its dry run and refuses an upload that would leave less than 1 GiB. Agenda
+  packets add about a gigabyte a year; recordings, at gigabytes each, are what could fill it.
 - **Nothing is added to either Drive folder by hand, and nothing is shared from them.** A file
   placed there is not part of the archive, and the next mirror run overwrites the mirror.
 - **A copy anywhere is checked against the manifest's sha256**, never trusted because of where it

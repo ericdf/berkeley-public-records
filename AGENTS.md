@@ -89,7 +89,8 @@ processes them on the pull request and comments with the result.
 2. Show the human the plan. **Internet Archive uploads are public and permanent.** Run
    `--upload` only after the maintainer explicitly approves that upload, every time; an earlier
    approval never carries over.
-3. `python3 tools/ingest_large.py <n> --upload [--open-pr]` copies the file to Google Drive
+3. `python3 tools/ingest_large.py <n> --upload [--open-pr]` checks that Google Drive will keep
+   at least 1 GiB free after the file (the dry run reports the same), copies it there
    (verified by download), uploads it to the Internet Archive, writes the manifest entry
    (`file: null`, both copies, the Internet Archive copy unverified until public) and L1 text,
    and opens a draft PR that closes the Issue (or prints the commands).

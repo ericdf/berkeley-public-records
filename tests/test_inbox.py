@@ -15,6 +15,13 @@ import ingest_large as il  # noqa: E402
 import validate  # noqa: E402
 
 HAVE_PDFTOTEXT = shutil.which("pdftotext") is not None
+
+
+def drive_about(cmd, free=10 * 2**30, total=15 * 2**30):
+    """A faked `rclone about --json` reply, or None for any other command."""
+    if cmd[:2] == ["rclone", "about"]:
+        return subprocess.CompletedProcess(cmd, 0, stdout=json.dumps({"free": free, "total": total}))
+    return None
 BIG = pi.MAX_IN_GIT + 1
 
 
@@ -587,7 +594,9 @@ class TestIngestLarge(Base):
         p = il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(BIG), today="2026-10-01")
         calls = []
 
-        def run(cmd, check=True, cwd=None):
+        def run(cmd, check=True, cwd=None, **kw):
+            if drive_about(cmd):
+                return drive_about(cmd)
             calls.append(cmd)
             if cmd[:2] == ["rclone", "copyto"] and cmd[2].startswith(il.REMOTE):
                 shutil.copy(p["staged"], cmd[3])              # the verification download
@@ -612,12 +621,28 @@ class TestIngestLarge(Base):
         self.assertEqual(self.validate_errors(), [])
         self.assertEqual(il.pending_ia(self.root), [])
 
+    def test_refuses_upload_when_drive_lacks_room(self):
+        staging = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, staging)
+        p = il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(BIG), today="2026-10-01")
+        calls = []
+
+        def run(cmd, check=True, cwd=None, **kw):
+            calls.append(cmd)
+            return drive_about(cmd, free=BIG + il.DRIVE_MARGIN - 1)
+        with self.assertRaisesRegex(il.Problem, "Nothing was uploaded"):
+            il.execute(self.root, p, run=run, today="2026-10-01")
+        self.assertEqual(calls, [["rclone", "about", il.REMOTE, "--json"]])
+        self.assertFalse(os.path.exists(os.path.join(self.root, "manifest", p["entry"]["id"] + ".json")))
+
     def test_verify_ia_refuses_a_mismatched_copy(self):
         staging = tempfile.mkdtemp()
         self.addCleanup(shutil.rmtree, staging)
         p = il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(BIG), today="2026-10-01")
 
-        def run(cmd, check=True, cwd=None):
+        def run(cmd, check=True, cwd=None, **kw):
+            if drive_about(cmd):
+                return drive_about(cmd)
             if cmd[:2] == ["rclone", "copyto"] and cmd[2].startswith(il.REMOTE):
                 shutil.copy(p["staged"], cmd[3])
         with contextlib.redirect_stdout(io.StringIO()):
@@ -683,7 +708,9 @@ class TestIngestLarge(Base):
         p = il.plan(self.root, self.packet_issue(), staging, fetch=self.fake_fetch(len(TEXT_PDF), TEXT_PDF),
                     today="2026-10-28")
 
-        def run(cmd, check=True, cwd=None):
+        def run(cmd, check=True, cwd=None, **kw):
+            if drive_about(cmd):
+                return drive_about(cmd)
             if cmd[:2] == ["rclone", "copyto"] and cmd[2].startswith(il.REMOTE):
                 shutil.copy(p["staged"], cmd[3])
         out = io.StringIO()
@@ -706,7 +733,9 @@ class TestIngestLarge(Base):
         p = il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(BIG), today="2026-10-01")
         calls = []
 
-        def run(cmd, check=True, cwd=None, capture_output=False):
+        def run(cmd, check=True, cwd=None, capture_output=False, **kw):
+            if drive_about(cmd):
+                return drive_about(cmd)
             calls.append(cmd)
             if cmd[:2] == ["rclone", "copyto"] and cmd[2].startswith(il.REMOTE):
                 shutil.copy(p["staged"], cmd[3])

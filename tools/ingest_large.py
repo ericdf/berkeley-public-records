@@ -40,6 +40,7 @@ DEFAULT_STAGING = os.path.expanduser("~/berkeley-public-records-pending-blobs")
 IA_PREFIX = "berkeley-public-records-"
 IA_MAX = 80  # the Internet Archive refuses identifiers longer than 80 characters
 IA_DOWNLOAD = "https://archive.org/download/{item}/{path}"
+DRIVE_MARGIN = 1 << 30  # keep 1 GiB free on the archive account's Drive after any upload
 LABELS = {
     "Document title": "title", "Document date": "document_date", "Layer": "layer",
     "Publisher": "publisher", "City web address": "source_url", "Google Drive link": "drive_link",
@@ -217,6 +218,23 @@ def ia_stream(url):
             yield block
 
 
+def drive_space(run=subprocess.run):
+    """(free, total) bytes on the archive account's Google Drive, from `rclone about`."""
+    p = run(["rclone", "about", REMOTE, "--json"], check=True, capture_output=True, text=True)
+    d = json.loads(p.stdout)
+    return d["free"], d["total"]
+
+
+def check_drive_space(size, run=subprocess.run):
+    """Refuse an upload that would leave less than DRIVE_MARGIN free on the Drive."""
+    free, total = drive_space(run)
+    if size + DRIVE_MARGIN > free:
+        raise Problem(f"Google Drive has {free / 2**30:.2f} GiB free of {total / 2**30:.0f} GiB; this "
+                      f"{size / 2**20:.0f} MiB file would leave less than {DRIVE_MARGIN / 2**30:.0f} GiB. "
+                      "Nothing was uploaded. Free space or enlarge the archive account's storage first.")
+    return free, total
+
+
 def pending_ia(root):
     """Ids of external blobs whose Internet Archive copy is not yet verified."""
     return sorted(i for i, e in pi.load_manifest(root).items()
@@ -288,7 +306,9 @@ def execute(root, p, run=subprocess.run, open_pr=False, today=None):
         raise Problem(f"branch {branch} already exists, locally or on origin: this file may already have "
                       f"a pull request. Check before uploading again; nothing was uploaded.")
     remote_path = REMOTE + p["drive_path"]
-    print(f"\n1. Copying to {remote_path} ...", flush=True)
+    free, total = check_drive_space(e["bytes"], run)
+    print(f"\nGoogle Drive: {free / 2**30:.2f} GiB free of {total / 2**30:.0f} GiB; room for this file.")
+    print(f"1. Copying to {remote_path} ...", flush=True)
     run(["rclone", "copyto", staged, remote_path], check=True)
     with tempfile.TemporaryDirectory() as td:
         back = os.path.join(td, "verify")
@@ -381,6 +401,12 @@ def main(argv=None):
         print("REFUSED", x, file=sys.stderr)
         return 2
     print(describe(p, upload=a.upload))
+    try:
+        free, total = drive_space()
+        room = "room for it" if p["entry"]["bytes"] + DRIVE_MARGIN <= free else "NOT ENOUGH ROOM; --upload will refuse"
+        print(f"\nGoogle Drive: {free / 2**30:.2f} GiB free of {total / 2**30:.0f} GiB; {room}.")
+    except (OSError, subprocess.CalledProcessError, ValueError, KeyError) as x:
+        print(f"\nGoogle Drive free space unknown ({x}); --upload checks it before copying.")
     if not a.upload:
         print("\nDry run: nothing uploaded, nothing written to the repository.")
         return 0
