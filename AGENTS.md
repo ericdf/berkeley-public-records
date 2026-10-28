@@ -4,6 +4,10 @@ You are contributing to an archive of Berkeley public records. README.md is the 
 policy and binds you; this file is how to follow it. When they disagree, README.md wins: stop
 and tell the human.
 
+**Read [INFORMATION_ARCHITECTURE.md](INFORMATION_ARCHITECTURE.md) before adding anything tied to
+a meeting.** It maps how documents relate to bodies, meetings and items, which document
+supersedes which, where each kind comes from, and where its bytes are stored.
+
 ## Non-negotiables
 
 - **Records, not analysis.** Add documents, mechanical text, and metadata. Never add analysis,
@@ -70,6 +74,9 @@ processes them on the pull request and comments with the result.
 | Scanned PDF with no text | Process it anyway. The tool records "no text layer; needs OCR". Do not OCR it yourself unless the human asks for a recorded OCR command. |
 | File over 25 MB | Do not commit it. Tell the human to open a "Large file" Issue (the form takes the City URL, or a Google Drive link shared with `berkeleypublicrecords@gmail.com`). The maintainer runs the large-file procedure below. |
 | Council captions | `council-captions` needs `meeting_date`, `meeting_label`, and `notices` with the City's disclaimer copied verbatim. |
+| Caption transcript emailed by the Clerk | `council-captions`; `source_note` naming the City Clerk's office, that it arrived by email, and the date received. Never invent the date; ask the human. A transcript covering a special meeting that runs into a regular one is one document labeled `Special and Regular`. |
+| Council agenda packet | External blob: follow "File over 25 MB" whatever its size (packets are a bulk collection). `staff-reports`, `doc_type` `agenda_material`, id `bcc-<date>-agenda-packet`. Never split a packet into item files; item addressing comes from the packet item index (INFORMATION_ARCHITECTURE.md). |
+| Agenda vs annotated agenda | If the meeting's annotated agenda is available, archive it and not the agenda. The packet is archived either way. |
 | After a Council meeting | Run `tools/catalog_granicus.py` and open a PR with the updated `catalog/granicus/city-council.json`. This catalogs the City's recording URLs and downloads nothing. Never archive a recording unless the human asks; if they do, follow the large-file procedure. |
 | Agenda item report | `staff-reports`, for a document on a Council, Council committee or commission agenda: staff reports, presentations, attachments, supplemental material. Needs `body` (e.g. `Berkeley City Council`, `Planning Commission`), `meeting_date`, and `item` as printed (e.g. `Consent Calendar Item 7`); Council items also need `meeting_label`. `doc_type` is `staff_report` (the default), `presentation`, `agenda_material` or `supplemental_agenda_material`; for anything but the report itself, add `part`, a short name such as `lease-list`. `document_date` is optional. The id is formed for you, e.g. `bcc-2026-06-16-item-37-staff-report`, `bcc-2024-12-10-special-item-01-staff-report`, `planning-commission-2026-04-15-item-10b-chairs-memo`. |
 

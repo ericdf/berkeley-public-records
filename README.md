@@ -35,7 +35,7 @@ automated checks do the technical work; an AI assistant pointed at `AGENTS.md` c
 
 ## Contents
 
-The archive is organized in layers. Each layer says how far it is from what the City
+The archive is organized in layers. How documents relate to bodies, meetings and items, and which supersedes which, is mapped in [INFORMATION_ARCHITECTURE.md](INFORMATION_ARCHITECTURE.md). Each layer says how far it is from what the City
 published, and each file is listed in `manifest/`.
 
 | Layer | What it holds | Authority |
