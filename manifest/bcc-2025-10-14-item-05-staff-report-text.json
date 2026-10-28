@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-10-14-item-05-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-10-14",
+  "meeting_label": "regular",
+  "title": "Revenue Grant: FEMA Seismic Hazard Mitigation Grant Program",
+  "file": "L1/staff-reports/bcc-2025-10-14-item-05-staff-report-text.txt",
+  "sha256": "474535517862fd76cfda4383527f93d443a9c3196a3e65c1da6f5c6d6157e336",
+  "bytes": 27219,
+  "derived_from": {
+    "id": "bcc-2025-10-14-item-05-staff-report",
+    "sha256": "2aff95f5c86047a4273c5ceaf56f7cefba96a0684d05810e37cb111e1e2c24e8"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

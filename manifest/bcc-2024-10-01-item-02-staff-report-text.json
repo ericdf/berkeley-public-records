@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-10-01-item-02-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-10-01",
+  "meeting_label": "regular",
+  "title": "Grant Application: Regional Measure 3: 2025 Safe Routes to Transit and Bay Trail Program for the Bay Trail Extension",
+  "file": "L1/staff-reports/bcc-2024-10-01-item-02-staff-report-text.txt",
+  "sha256": "e3a5e37542fe5001d1a400f8086f5aaa12e9e773200c8a6cceb3c6f0013fa327",
+  "bytes": 16892,
+  "derived_from": {
+    "id": "bcc-2024-10-01-item-02-staff-report",
+    "sha256": "fa90eb454af741b783bbb7c116f58139f2a63155f832afbe4c51387b513767fd"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

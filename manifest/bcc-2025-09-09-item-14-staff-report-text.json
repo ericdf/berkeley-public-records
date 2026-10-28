@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-09-09-item-14-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-09-09",
+  "meeting_label": "regular",
+  "title": "Reject All Bids Associated with Cesar Chavez Park Perimeter Pathway Improvement Project",
+  "file": "L1/staff-reports/bcc-2025-09-09-item-14-staff-report-text.txt",
+  "sha256": "bfe802a43df1cd7a63d0b8252fa8fe1443b37ae1e4a9b48cc3e15f58f0ad6b39",
+  "bytes": 4631,
+  "derived_from": {
+    "id": "bcc-2025-09-09-item-14-staff-report",
+    "sha256": "b40333d13b76a11f9600cb8cd94520cf9be6d56dccceab0f061440a2968e2c7a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-07-30-special-item-02-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-07-30",
+  "meeting_label": "special",
+  "title": "Initiative Petition – Ordinance to Establish a Parcel Tax to Fund Repairs and Improvements to Streets, Sidewalks, and Pedestrian Paths (SAFE STREETS)",
+  "file": "L1/staff-reports/bcc-2024-07-30-special-item-02-staff-report-text.txt",
+  "sha256": "1c91e383d19dede520c97b9651204e2ee65c05aae04e23f3abf9d266b4fe6dba",
+  "bytes": 7886,
+  "derived_from": {
+    "id": "bcc-2024-07-30-special-item-02-staff-report",
+    "sha256": "4f5172e2b7767831c1296a21404151630f011a89bed3d18b3809431826c041cd"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

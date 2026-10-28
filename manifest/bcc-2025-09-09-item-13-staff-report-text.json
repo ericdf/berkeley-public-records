@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-09-09-item-13-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-09-09",
+  "meeting_label": "regular",
+  "title": "Grant Agreement Amendment with State Coastal Conservancy to re-allocate $1.7M to: a) the Bay Trail Segment at Shorebird Park (design phase); and b) recreation improvements at the Gateway Pier and the J&K Parking Lot",
+  "file": "L1/staff-reports/bcc-2025-09-09-item-13-staff-report-text.txt",
+  "sha256": "c081f825bd0a907c6b4e28f607ec56e189a97e833d0441c27fa6951988464832",
+  "bytes": 10840,
+  "derived_from": {
+    "id": "bcc-2025-09-09-item-13-staff-report",
+    "sha256": "1fdb7026942de557ed19ef9791e2a6036afa03bb01ad0a2f99181be02a37604d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

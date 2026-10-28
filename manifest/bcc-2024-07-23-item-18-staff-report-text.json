@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-07-23-item-18-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-07-23",
+  "meeting_label": "regular",
+  "title": "Adopt a Resolution Approving Peaceful and Lawful Use of the Dwight Triangle as Public Open Space",
+  "file": "L1/staff-reports/bcc-2024-07-23-item-18-staff-report-text.txt",
+  "sha256": "907f624bb8d7174601d05cf40f1f87c7e3424cc03a30fd0a668b93a8287ed070",
+  "bytes": 11325,
+  "derived_from": {
+    "id": "bcc-2024-07-23-item-18-staff-report",
+    "sha256": "970a54e2a5d888f801910fd07efdb36cc6c4d8590f591a3ffac8683d7389b314"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

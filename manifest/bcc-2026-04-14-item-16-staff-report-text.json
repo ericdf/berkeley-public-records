@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-04-14-item-16-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-04-14",
+  "meeting_label": "regular",
+  "title": "Recommendation to Parks and Waterfront Commission to Explore the Naming of a Public Plaza in South Berkeley as Delores Cooper Plaza",
+  "file": "L1/staff-reports/bcc-2026-04-14-item-16-staff-report-text.txt",
+  "sha256": "4b935697f92d3cd948cf5863b58d3e75d4bf4f03f017707977642756f0e235b4",
+  "bytes": 9526,
+  "derived_from": {
+    "id": "bcc-2026-04-14-item-16-staff-report",
+    "sha256": "ed748038c96e7e11bfb200903a7bcfc3739b342c3de8409174951889f074b0b4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

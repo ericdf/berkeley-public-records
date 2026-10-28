@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-04-29-item-16-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-04-29",
+  "meeting_label": "regular",
+  "title": "Budget Referral Funding F and G Dock Deck Replacement",
+  "file": "L1/staff-reports/bcc-2025-04-29-item-16-staff-report-text.txt",
+  "sha256": "11d29e45282b26cc045576ee57573d04bd120cc045572d37f2bfbb2ed75fda2a",
+  "bytes": 2007,
+  "derived_from": {
+    "id": "bcc-2025-04-29-item-16-staff-report",
+    "sha256": "ff3a3e80c1d7225692e08e38b91a8646c14117ba97d15256794a8a816d7e1233"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-05-20-item-22-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-05-20",
+  "meeting_label": "regular",
+  "title": "Contract: Shaw Integrated and Turf solutions Inc., for Civic Center Building (2180 Milvia Street), Second Floor Carpet Replacement Project",
+  "file": "L1/staff-reports/bcc-2025-05-20-item-22-staff-report-text.txt",
+  "sha256": "82063715fc91042df0945243138e6e512e4a03504bd8556d8a6bc44a93baa460",
+  "bytes": 16853,
+  "derived_from": {
+    "id": "bcc-2025-05-20-item-22-staff-report",
+    "sha256": "dfeb193d05ead5c004dc79e44f1e335fad0ed82decf64612d9325eb70c215f58"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-05-19-item-12-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-05-19",
+  "meeting_label": "regular",
+  "title": "Contract: Bay Construction for Public Safety Building Jail Automation Upgrades",
+  "file": "L1/staff-reports/bcc-2026-05-19-item-12-staff-report-text.txt",
+  "sha256": "b552d40628dda64cdad8c185c43279840102ea0010a5826ba4be97841a882670",
+  "bytes": 6825,
+  "derived_from": {
+    "id": "bcc-2026-05-19-item-12-staff-report",
+    "sha256": "fe847b133fbbe40bcdfbe82336b8d799cc1b5d6a0782f411f04f09da2c1e560e"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

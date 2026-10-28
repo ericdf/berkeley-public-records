@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-06-17-item-23b-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-06-17",
+  "meeting_label": "regular",
+  "title": "Companion Report: César Chávez Park Nature and Recreation-Based Conceptual Plan",
+  "file": "L1/staff-reports/bcc-2025-06-17-item-23b-staff-report-text.txt",
+  "sha256": "879b9d6520744fe070028d633c0fad51f1284f65cffd70c17a289e62fb4d9f67",
+  "bytes": 10137,
+  "derived_from": {
+    "id": "bcc-2025-06-17-item-23b-staff-report",
+    "sha256": "fc93eac7bae6ab0bc260b057531924fbaa2d09eeccbca2130bff3c5dd184fdc7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

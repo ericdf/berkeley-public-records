@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-03-24-item-12-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-03-24",
+  "meeting_label": "regular",
+  "title": "Contract: Terocons, Inc. for FY 2026 Curb Ramp & Sidewalk Repair Project",
+  "file": "L1/staff-reports/bcc-2026-03-24-item-12-staff-report-text.txt",
+  "sha256": "ad557da51dbff3496cc8e8d9eb1f8de72777770845fe7d6e5ac13fb9f09b61c4",
+  "bytes": 13510,
+  "derived_from": {
+    "id": "bcc-2026-03-24-item-12-staff-report",
+    "sha256": "13de7a92faea853bcefb6ecffce6cb00b184a21b5d4dc1368967673a997f8a56"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

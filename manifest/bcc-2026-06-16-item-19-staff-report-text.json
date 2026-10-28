@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-06-16-item-19-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-06-16",
+  "meeting_label": "regular",
+  "title": "Behavioral Health Services Act Fiscal Years 2027-2029 Three-Year Integrated Plan",
+  "file": "L1/staff-reports/bcc-2026-06-16-item-19-staff-report-text.txt",
+  "sha256": "6a5973c7160dc02899313b54bc9a2e997f0f74eca7a4ef7dbac9fadb1f858a00",
+  "bytes": 564389,
+  "derived_from": {
+    "id": "bcc-2026-06-16-item-19-staff-report",
+    "sha256": "fa1715b5e5ff46cfe73c386a71b71640687b6e700487591581af1742329454a4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

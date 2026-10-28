@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-11-12-item-12-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-11-12",
+  "meeting_label": "regular",
+  "title": "Referral to the November 2024 AAO1 Budget Process for $250,000 for the design and planning for replacement of play structures and ADA access improvements at Glendale La Loma Park",
+  "file": "L1/staff-reports/bcc-2024-11-12-item-12-staff-report-text.txt",
+  "sha256": "87ce9c40aefba3315f2ecd690f779830ef5089118a883505bada6a32949a5227",
+  "bytes": 3541,
+  "derived_from": {
+    "id": "bcc-2024-11-12-item-12-staff-report",
+    "sha256": "083287360b3dd0fa75f3e6b79f1d5556e111f21b62009d97eb025a331423047c"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

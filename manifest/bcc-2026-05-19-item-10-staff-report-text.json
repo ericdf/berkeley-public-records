@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-05-19-item-10-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-05-19",
+  "meeting_label": "regular",
+  "title": "Contract: B Bros Construction, Inc. for South Berkeley Senior Center Water Heater Replacement Project",
+  "file": "L1/staff-reports/bcc-2026-05-19-item-10-staff-report-text.txt",
+  "sha256": "20c3640d423648f41dbb9e1cc049b43eb6132114e65a0ca3de57cdd040f23d72",
+  "bytes": 9001,
+  "derived_from": {
+    "id": "bcc-2026-05-19-item-10-staff-report",
+    "sha256": "04a421ca38e6ea7c6eded2070de3f6434ce4589a34d30ade2d13e7690f6949ad"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}
