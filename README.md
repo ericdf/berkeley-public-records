@@ -229,6 +229,12 @@ The `sha256` in the manifest is the guarantee, not any store. A copy is good if 
 its fingerprint matches. The validator checks every in-repo file's fingerprint on every pull
 request; maintainers check external copies periodically.
 
+**A blob is merged only when both copies are verified.** Each copy records `verified`, the date
+its sha256 was checked against a fresh download. The Google Drive copy is verified at upload.
+The Internet Archive copy can be checked only once the item is public, so the large-file pull
+request is opened as a draft and stays one until `tools/ingest_large.py --verify-ia <id>` has
+checked it; the validator refuses any blob copy without a `verified` date.
+
 Whenever a document has a City URL, request a Wayback Machine capture of that URL as well and
 record it in `wayback_url`. The City has rebuilt its website before and broken every existing
 link; the capture keeps a citation resolvable after that happens again.

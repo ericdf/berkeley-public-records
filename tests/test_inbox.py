@@ -598,7 +598,40 @@ class TestIngestLarge(Base):
         ia, drive = e["blob"]["copies"]
         self.assertIsNone(ia["verified"])
         self.assertEqual(drive["verified"], "2026-10-01")
+        errors = self.validate_errors()                      # not mergeable until IA is verified
+        self.assertEqual(len(errors), 1)
+        self.assertIn("internet_archive is not verified", errors[0])
+        self.assertEqual(il.pending_ia(self.root), [e["id"]])
+        with open(p["staged"], "rb") as f:
+            data = f.read()
+        url = il.verify_ia(self.root, e["id"], stream=lambda u: iter([data]), today="2026-10-03")
+        self.assertTrue(url.startswith("https://archive.org/download/" + p["ia_item"] + "/"))
+        ia = self.entry(e["id"])["blob"]["copies"][0]
+        self.assertEqual(ia["verified"], "2026-10-03")
+        self.assertNotIn("verify_note", ia)
         self.assertEqual(self.validate_errors(), [])
+        self.assertEqual(il.pending_ia(self.root), [])
+
+    def test_verify_ia_refuses_a_mismatched_copy(self):
+        staging = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, staging)
+        p = il.plan(self.root, self.issue(), staging, fetch=self.fake_fetch(BIG), today="2026-10-01")
+
+        def run(cmd, check=True, cwd=None):
+            if cmd[:2] == ["rclone", "copyto"] and cmd[2].startswith(il.REMOTE):
+                shutil.copy(p["staged"], cmd[3])
+        with contextlib.redirect_stdout(io.StringIO()):
+            il.execute(self.root, p, run=run, today="2026-10-01")
+        before = self.entry(p["entry"]["id"])
+        with self.assertRaisesRegex(il.Problem, "does not match"):
+            il.verify_ia(self.root, p["entry"]["id"], stream=lambda u: iter([b"wrong bytes"]))
+        self.assertEqual(self.entry(p["entry"]["id"]), before)
+
+        def offline(url):
+            raise OSError("404")
+            yield b""
+        with self.assertRaisesRegex(il.Problem, "may not be public yet"):
+            il.verify_ia(self.root, p["entry"]["id"], stream=offline)
 
     def test_refuses_to_upload_when_the_branch_exists(self):
         staging = tempfile.mkdtemp()
@@ -658,7 +691,7 @@ class TestIngestLarge(Base):
             files = il.execute(self.root, p, run=run, today="2026-10-28")
         self.assertIn("manifest/bcc-2026-10-27-regular-agenda-packet-text.json", files)
         self.assertIn("no packet item index", out.getvalue())
-        self.assertEqual(self.validate_errors(), [])
+        self.assertEqual([x for x in self.validate_errors() if "not verified" not in x], [])
 
     def test_agenda_packet_needs_its_meeting(self):
         with self.assertRaisesRegex(il.Problem, "meeting_date"):
@@ -682,6 +715,7 @@ class TestIngestLarge(Base):
             il.execute(self.root, p, run=run, open_pr=True, today="2026-10-01")
         switch = [c for c in calls if c[:2] == ["git", "switch"]][0]
         self.assertEqual(switch[-1], "origin/main")
+        self.assertIn("--draft", [c for c in calls if c[:3] == ["gh", "pr", "create"]][0])
         self.assertIn(["git", "fetch", "origin", "main"], calls)
 
 

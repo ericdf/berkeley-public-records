@@ -252,10 +252,11 @@ Two external stores serve two different purposes, and neither is ever edited dir
 
 Both Drive folders belong to the archive account, `berkeleypublicrecords@gmail.com`.
 
-- **An external blob has two copies, with different verification.** The Drive copy is verified
-  when it is uploaded, by downloading it again and checking its sha256. The Internet Archive copy
-  is recorded with `verified: null` until the item is public and its download has been checked;
-  that check is recorded in a follow-up pull request.
+- **A blob is merged only when both copies are verified**, each by downloading it and checking
+  its sha256. The Drive copy is verified at upload. The Internet Archive copy can be checked only
+  once the item is public, so the large-file pull request opens as a draft with that copy at
+  `verified: null`, and stays a draft until `tools/ingest_large.py --verify-ia <id>` records the
+  check on the same branch. The validator refuses any blob copy without a `verified` date.
 - **Nothing is added to either Drive folder by hand, and nothing is shared from them.** A file
   placed there is not part of the archive, and the next mirror run overwrites the mirror.
 - **A copy anywhere is checked against the manifest's sha256**, never trusted because of where it

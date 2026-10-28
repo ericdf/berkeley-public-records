@@ -10,6 +10,11 @@ Run by the maintainer (or an agent at the maintainer's direction), never by a Gi
       fingerprints it, refuses duplicates and id collisions, and prints what it would do.
       Uploads nothing and changes nothing in the repository.
 
+  python3 tools/ingest_large.py --verify-ia <id> [<id> ...]   (or --verify-ia pending)
+      Downloads each blob's Internet Archive copy, checks its sha256 against the manifest, and
+      records `verified` on that copy. Run it once the item is public; the large-file pull request
+      stays a draft, and the validator fails, until every copy of every blob is verified.
+
   python3 tools/ingest_large.py <issue number> --upload [--open-pr]
       Also: copies the file to bpr-drive:berkeley-public-records-blobs/<id>.<ext> and verifies
       that copy by downloading it; uploads it to the Internet Archive as item
@@ -34,6 +39,7 @@ DRIVE_FOLDER = "berkeley-public-records-blobs"
 DEFAULT_STAGING = os.path.expanduser("~/berkeley-public-records-pending-blobs")
 IA_PREFIX = "berkeley-public-records-"
 IA_MAX = 80  # the Internet Archive refuses identifiers longer than 80 characters
+IA_DOWNLOAD = "https://archive.org/download/{item}/{path}"
 LABELS = {
     "Document title": "title", "Document date": "document_date", "Layer": "layer",
     "Publisher": "publisher", "City web address": "source_url", "Google Drive link": "drive_link",
@@ -203,6 +209,50 @@ def ia_metadata(e):
     return [f"--metadata={k}:{v}" for k, v in md.items() if v]
 
 
+def ia_stream(url):
+    """Yield the bytes at url in chunks, without writing them to disk."""
+    req = urllib.request.Request(url, headers={"User-Agent": "berkeley-public-records verify"})
+    with urllib.request.urlopen(req, timeout=300) as r:
+        for block in iter(lambda: r.read(1 << 20), b""):
+            yield block
+
+
+def pending_ia(root):
+    """Ids of external blobs whose Internet Archive copy is not yet verified."""
+    return sorted(i for i, e in pi.load_manifest(root).items()
+                  for c in (e.get("blob") or {}).get("copies", [])
+                  if c.get("store") == "internet_archive" and not c.get("verified"))
+
+
+def verify_ia(root, mid, stream=ia_stream, today=None):
+    """Check the Internet Archive copy of blob `mid` against its manifest sha256 and record the
+    result. Raises Problem, changing nothing, if the copy is missing or does not match."""
+    today = today or datetime.datetime.now(datetime.timezone.utc).date().isoformat()
+    path = os.path.join(root, "manifest", mid + ".json")
+    if not os.path.exists(path):
+        raise Problem(f"{mid}: no manifest entry")
+    with open(path) as f:
+        e = json.load(f)
+    copy = next((c for c in (e.get("blob") or {}).get("copies", []) if c.get("store") == "internet_archive"), None)
+    if not copy:
+        raise Problem(f"{mid}: no Internet Archive copy recorded")
+    url = IA_DOWNLOAD.format(item=copy["item"], path=urllib.parse.quote(copy["path"]))
+    h, n = hashlib.sha256(), 0
+    try:
+        for block in stream(url):
+            h.update(block)
+            n += len(block)
+    except OSError as x:
+        raise Problem(f"{mid}: could not download {url} ({x}); the item may not be public yet")
+    if h.hexdigest() != e["sha256"] or n != e["bytes"]:
+        raise Problem(f"{mid}: the Internet Archive copy at {url} does not match the manifest "
+                      f"({n} bytes, sha256 {h.hexdigest()}); not recorded")
+    copy["verified"] = today
+    copy.pop("verify_note", None)
+    pi.write_json(path, e)
+    return url
+
+
 def branch_exists(root, branch, run=subprocess.run):
     """True if branch exists locally or on origin."""
     local = run(["git", "rev-parse", "--verify", "--quiet", "refs/heads/" + branch],
@@ -253,7 +303,8 @@ def execute(root, p, run=subprocess.run, open_pr=False, today=None):
     e["blob"] = {"copies": [
         {"store": "internet_archive", "item": p["ia_item"], "path": os.path.basename(staged),
          "uploaded": today, "verified": None,
-         "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public."},
+         "verify_note": ("Upload accepted by the Internet Archive; sha256 to be checked once the item is "
+                         f"public, with: python3 tools/ingest_large.py --verify-ia {e['id']}")},
         {"store": "google_drive", "location": p["drive_path"], "uploaded": today, "verified": today},
     ]}
     pi.write_json(os.path.join(root, "manifest", e["id"] + ".json"), e)
@@ -268,13 +319,16 @@ def execute(root, p, run=subprocess.run, open_pr=False, today=None):
     for n in notes:
         print("note:", n)
     body = (f"Adds `{e['id']}` as an external blob ({e['bytes']} bytes, sha256 `{e['sha256']}`): "
-            f"Google Drive copy verified {today}; Internet Archive item `{p['ia_item']}` uploaded, "
-            f"to be verified once public.\n\nCloses #{p['issue']}\n")
+            f"Google Drive copy verified {today}; Internet Archive item `{p['ia_item']}` uploaded.\n\n"
+            f"**Draft until the Internet Archive copy is verified.** Once the item is public, run "
+            f"`python3 tools/ingest_large.py --verify-ia {e['id']}` on this branch, commit, push, and "
+            f"mark the pull request ready. The validator fails until both copies are verified.\n\n"
+            f"Closes #{p['issue']}\n")
     cmds = [["git", "fetch", "origin", "main"], ["git", "switch", "-c", branch, "origin/main"],
             ["git", "add", *files],
             ["git", "commit", "-m", f"Add {e['id']} as an external blob\n\nCloses #{p['issue']}"],
             ["git", "push", "-u", "origin", branch],
-            ["gh", "pr", "create", "--repo", REPO, "--base", "main",
+            ["gh", "pr", "create", "--repo", REPO, "--base", "main", "--draft",
              "--title", f"Add {e['title'][:60]} (external blob)", "--body", body]]
     if open_pr:
         for c in cmds:
@@ -288,7 +342,9 @@ def execute(root, p, run=subprocess.run, open_pr=False, today=None):
 
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("issue", type=int, help="the Large file Issue number")
+    ap.add_argument("issue", type=int, nargs="?", help="the Large file Issue number")
+    ap.add_argument("--verify-ia", nargs="+", metavar="ID",
+                    help="verify these blobs' Internet Archive copies ('pending' for every unverified one)")
     ap.add_argument("--collection", help="override or supply the collection, e.g. sources/budgets, agenda-packets")
     ap.add_argument("--meeting-date", help="meeting collections: the meeting date, YYYY-MM-DD, when the City "
                                            "catalog cannot supply it")
@@ -300,6 +356,19 @@ def main(argv=None):
     ap.add_argument("--issue-json", help="read the issue from this JSON file instead of gh (testing)")
     ap.add_argument("--root", default=ROOT)
     a = ap.parse_args(argv)
+    if a.verify_ia:
+        ids = pending_ia(a.root) if a.verify_ia == ["pending"] else a.verify_ia
+        failed = 0
+        for mid in ids:
+            try:
+                print(f"{mid}: verified {verify_ia(a.root, mid)}", flush=True)
+            except Problem as x:
+                print("NOT VERIFIED", x, file=sys.stderr)
+                failed += 1
+        print(f"{len(ids) - failed} of {len(ids)} verified; commit the manifest changes on the blob's branch")
+        return 1 if failed else 0
+    if a.issue is None:
+        ap.error("give a Large file Issue number, or --verify-ia")
     if os.path.abspath(a.staging).startswith(os.path.abspath(a.root) + os.sep):
         ap.error("--staging must be outside the repository")
     if a.open_pr and not a.upload:

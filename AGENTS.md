@@ -92,9 +92,11 @@ processes them on the pull request and comments with the result.
 3. `python3 tools/ingest_large.py <n> --upload [--open-pr]` copies the file to Google Drive
    (verified by download), uploads it to the Internet Archive, writes the manifest entry
    (`file: null`, both copies, the Internet Archive copy unverified until public) and L1 text,
-   and opens a PR that closes the Issue (or prints the commands).
-4. Once the Internet Archive item is public, download it, check its sha256, and record
-   `verified` in a follow-up PR.
+   and opens a draft PR that closes the Issue (or prints the commands).
+4. Once the Internet Archive item is public, run `python3 tools/ingest_large.py --verify-ia <id>`
+   on the same branch: it downloads the copy, checks its sha256, and records `verified`. Commit,
+   push, and mark the pull request ready. The pull request is opened as a draft and the validator
+   fails until both copies are verified; never merge a blob with an unverified copy.
 
 ## Never
 
