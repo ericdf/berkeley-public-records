@@ -277,17 +277,13 @@ document it was taken from.
 
 ## Growth
 
-| Content | Where | Why |
-|---|---|---|
-| L0 and T0 files up to 25 MB, except bulk collections | Git | Fingerprinted and shared with every clone |
-| L0 over 25 MB, and bulk collections (agenda packets, recordings) regardless of size | Internet Archive plus Google Drive, `file: null` | Git history is permanent; every clone downloads every byte forever |
-| All L1, L2, L3 | Git | Small, and needed for search and reproducibility |
-
-The growth rule follows from this. A Council agenda packet runs to tens of megabytes and the
-Council meets a few dozen times a year, so packets in git would add on the order of a gigabyte
-a year; splitting them into items would not help, since the 25 MB limit is per file and the
-bytes are the same. Packets as external blobs add only their L1 text (the 526-page October 27,
-2026 packet extracts to 1.7 MB) and their item index.
+Git history is permanent and every clone downloads every byte, so git holds files up to 25 MB
+and all L1–L3, while L0 or T0 files over 25 MB and bulk collections (agenda packets,
+recordings) go to the external copies whatever their size. A Council agenda packet runs to tens
+of megabytes and the Council meets a few dozen times a year, so packets in git would add on the
+order of a gigabyte a year; splitting them into items would not help, since the 25 MB limit is
+per file and the bytes are the same. Packets as external blobs add only their L1 text (the
+526-page October 27, 2026 packet extracts to 1.7 MB) and their item index.
 
 ## Tools
 
