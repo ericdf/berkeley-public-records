@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2020-09-22-regular-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2020-09-22",
+  "meeting_label": "regular",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2020-09-22",
+  "file": "L1/annotated-agendas/bcc-2020-09-22-regular-annotated-agenda-text.txt",
+  "sha256": "6bc7b6e65678a334c84bf9f553ca6168b1b54bff2d56685aff866c5c59b32543",
+  "bytes": 28953,
+  "derived_from": {
+    "id": "bcc-2020-09-22-regular-annotated-agenda",
+    "sha256": "484ec69b52b96126777eb3139c284453d047e6fa7e67c4398e49b81d9723cfc5"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

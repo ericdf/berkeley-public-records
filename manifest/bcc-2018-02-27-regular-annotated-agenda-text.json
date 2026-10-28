@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2018-02-27-regular-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2018-02-27",
+  "meeting_label": "regular",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2018-02-27",
+  "file": "L1/annotated-agendas/bcc-2018-02-27-regular-annotated-agenda-text.txt",
+  "sha256": "15acd50608e86bcb4bddd69b9cf6053d4efea6a11c1e8d952e2cc2a92282c2fd",
+  "bytes": 37709,
+  "derived_from": {
+    "id": "bcc-2018-02-27-regular-annotated-agenda",
+    "sha256": "4ca647cf9f67c88e5b1c67f9a03e1367671145fb06c4adcfbb1c81dfc4f8c59f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

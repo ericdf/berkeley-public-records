@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2019-02-05-special-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2019-02-05",
+  "meeting_label": "special",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2019-02-05",
+  "file": "L1/annotated-agendas/bcc-2019-02-05-special-annotated-agenda-text.txt",
+  "sha256": "00ae39ac0a5db1e0f1ee6c268d109cc732bf298053a026e8131d8543c45553e0",
+  "bytes": 2829,
+  "derived_from": {
+    "id": "bcc-2019-02-05-special-annotated-agenda",
+    "sha256": "a673e55a107a878a75a775972519a56cb953efd4a9673889beaf555d2312d8df"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}
