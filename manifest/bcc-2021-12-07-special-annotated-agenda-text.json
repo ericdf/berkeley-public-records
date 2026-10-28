@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2021-12-07-special-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2021-12-07",
+  "meeting_label": "special",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2021-12-07",
+  "file": "L1/annotated-agendas/bcc-2021-12-07-special-annotated-agenda-text.txt",
+  "sha256": "a7ac71e65880f4e993044cf5921ddbb5b250503183426f1b9fcae029c85d159c",
+  "bytes": 5710,
+  "derived_from": {
+    "id": "bcc-2021-12-07-special-annotated-agenda",
+    "sha256": "7eb9fcbf35c18148b94795b8efadfa8ab6852b62a988350fdf543fb35ac23b41"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

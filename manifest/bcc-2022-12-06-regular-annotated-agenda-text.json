@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2022-12-06-regular-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2022-12-06",
+  "meeting_label": "regular",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2022-12-06",
+  "file": "L1/annotated-agendas/bcc-2022-12-06-regular-annotated-agenda-text.txt",
+  "sha256": "6b717b0cd1ba905d92018b90dcc471e0d8469c3b9e6094bdd0293d57793c2413",
+  "bytes": 17864,
+  "derived_from": {
+    "id": "bcc-2022-12-06-regular-annotated-agenda",
+    "sha256": "df27edf150cbb86fc1848192ce915f185f83d59b13f9f3e4e1677c4e1125d723"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

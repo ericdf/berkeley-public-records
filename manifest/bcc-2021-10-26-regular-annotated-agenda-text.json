@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2021-10-26-regular-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2021-10-26",
+  "meeting_label": "regular",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2021-10-26",
+  "file": "L1/annotated-agendas/bcc-2021-10-26-regular-annotated-agenda-text.txt",
+  "sha256": "8d254b407e730a8b86c667f9310c41b3cd7493c8a02f984bc98752647822be0e",
+  "bytes": 57154,
+  "derived_from": {
+    "id": "bcc-2021-10-26-regular-annotated-agenda",
+    "sha256": "9fc5bde3daef24e0f6666bcef9924d8057c5fe8020bf06b893ca398b3fee0aee"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2021-05-25-special-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2021-05-25",
+  "meeting_label": "special",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2021-05-25",
+  "file": "L1/annotated-agendas/bcc-2021-05-25-special-annotated-agenda-text.txt",
+  "sha256": "d17a851f0fca692ef38909afd54bd0fa8cbd54f7437da9e2081b5de588663254",
+  "bytes": 5544,
+  "derived_from": {
+    "id": "bcc-2021-05-25-special-annotated-agenda",
+    "sha256": "25c57e9b83fb8081f3a74e65350467f272546460105b7ca11002242313e0051f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}
