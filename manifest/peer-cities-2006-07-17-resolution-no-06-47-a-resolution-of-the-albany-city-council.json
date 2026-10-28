@@ -1,0 +1,19 @@
+{
+  "id": "peer-cities-2006-07-17-resolution-no-06-47-a-resolution-of-the-albany-city-council",
+  "layer": "L0",
+  "doc_type": "peer_city_document",
+  "collection": "peer_cities",
+  "publisher": "City of Albany — City Council",
+  "title": "Resolution No #06-47: A Resolution of the Albany City Council Submitting to the Voters a Citizen Initiative Measure Enacting Waterfront General Plan Policies and Conservation and Recreation Element Policies and Requiring the Formation of a Special Task Force to Create a Specific Plan for Development and Open Space at the Waterfront",
+  "document_date": "2006-07-17",
+  "file": "L0/sources/peer_cities/peer-cities-2006-07-17-resolution-no-06-47-a-resolution-of-the-albany-city-council.pdf",
+  "sha256": "d87150fe03e791ea3d7b8f784756bd9f065e2804b93a3ce6dc42e790d88f55da",
+  "bytes": 29595,
+  "source_url": "https://www.albanyca.gov/files/assets/city/v/1/administration/documents/waterfront/resolution-06047.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. document_date is the adoption date in the City Clerk's certification (\"the 17th day of July, 2006\").",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

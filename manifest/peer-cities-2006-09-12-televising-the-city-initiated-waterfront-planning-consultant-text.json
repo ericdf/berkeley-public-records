@@ -1,0 +1,22 @@
+{
+  "id": "peer-cities-2006-09-12-televising-the-city-initiated-waterfront-planning-consultant-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "meeting_date": "2006-09-18",
+  "title": "Televising the City-Initiated Waterfront Planning Consultant Selection Process",
+  "file": "L1/sources/peer_cities/peer-cities-2006-09-12-televising-the-city-initiated-waterfront-planning-consultant-text.txt",
+  "sha256": "7dd5be62a3137163fa96b016cdbc6b9f49a8c874cddbfbecb8039fc8f888c3ba",
+  "bytes": 1949,
+  "derived_from": {
+    "id": "peer-cities-2006-09-12-televising-the-city-initiated-waterfront-planning-consultant",
+    "sha256": "ed45d42d6b8387f05be5035671b175dfba3090aa4b17becd0091f77babf51da9"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

@@ -5,19 +5,19 @@
   "body": "Berkeley City Council",
   "meeting_date": "2020-12-15",
   "meeting_label": "regular",
-  "title": "Annotated Agenda, Berkeley City Council Meeting, Tuesday, December 15, 2020",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2020-12-15",
   "file": "L1/annotated-agendas/bcc-2020-12-15-regular-annotated-agenda-text.txt",
-  "sha256": "1b4ff9853a47f1d455625edf16438d24eec52f872cab0972d1463427f3813450",
-  "bytes": 72331,
+  "sha256": "6841ca3987c39cfb6d5834a5923dc7c42c4680dca4e3655f0e71704079b76d16",
+  "bytes": 72338,
   "derived_from": {
     "id": "bcc-2020-12-15-regular-annotated-agenda",
-    "sha256": "0456d05b6c98ee4b2bc8e56a8111a208190b152326c2958b2772752d235030ad"
+    "sha256": "1ec3612a91278d4aba31a4f7d83847b39927db80833424783abc4a3487b5a520"
   },
   "extraction": {
-    "tool": "pdftotext version 24.02.0",
+    "tool": "pdftotext version 26.04.0",
     "command": "pdftotext -layout <L0> <L1>"
   },
   "notices": [],
   "contributed_by": "ericdf",
-  "archived": "2026-10-16"
+  "archived": "2026-10-26"
 }

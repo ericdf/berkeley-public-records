@@ -1,0 +1,21 @@
+{
+  "id": "streets-2025-04-30-city-of-berkeley-2024-pmp-update-p-tap-round-25-final-report-text",
+  "layer": "L1",
+  "doc_type": "streets_document_text",
+  "collection": "streets",
+  "title": "City of Berkeley 2024 PMP Update, P-TAP Round 25, Final Report",
+  "file": "L1/sources/streets/streets-2025-04-30-city-of-berkeley-2024-pmp-update-p-tap-round-25-final-report-text.txt",
+  "sha256": "2e91e5929c141e8806516c69af06078b2afc4d66c350830681284356bd3988c8",
+  "bytes": 1282477,
+  "derived_from": {
+    "id": "streets-2025-04-30-city-of-berkeley-2024-pmp-update-p-tap-round-25-final-report",
+    "sha256": "5e431b32fca3e2dcd96bb3698e19f14df6be734a9256bfdeb38d62472269e420"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-2006-07-13-election-code-9212-report-on-the-albany-waterfront-specific-plan-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "Election Code 9212 Report on the Albany Waterfront Specific Plan Initiative: Final Report",
+  "file": "L1/sources/peer_cities/peer-cities-2006-07-13-election-code-9212-report-on-the-albany-waterfront-specific-plan-text.txt",
+  "sha256": "8ed1b9853077a6e69542469e54e76f251706bd2c4ba5fe44f82a8e29ef04739e",
+  "bytes": 103954,
+  "derived_from": {
+    "id": "peer-cities-2006-07-13-election-code-9212-report-on-the-albany-waterfront-specific-plan",
+    "sha256": "ccfdecd8f3f4505de4cef5707efa2bc2c8be3ed4d742a9bccfbe37fd1e3b1715"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

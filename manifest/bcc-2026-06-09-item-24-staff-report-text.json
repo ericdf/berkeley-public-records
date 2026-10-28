@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-06-09-item-24-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-06-09",
+  "meeting_label": "regular",
+  "title": "Repeal and Reenact Berkeley Municipal Code (BMC) Chapter 14.52 to Adjust the goBerkeley Parking Management Program; Change Parking Permit Fees; Establish a New Schedule for Parking Violations, Fines, and Late Payment Penalties; and Rescind Resolution No. 71,627-N.S.",
+  "file": "L1/staff-reports/bcc-2026-06-09-item-24-staff-report-text.txt",
+  "sha256": "93385abb029f5cbb45f5f96b3b24c08328c8e0f5154a2960cbf92bac60ca269c",
+  "bytes": 2233991,
+  "derived_from": {
+    "id": "bcc-2026-06-09-item-24-staff-report",
+    "sha256": "83be8b4c7681123c50d0c85b12beb50ea9925bfe02cce75ba1100f244a898ab4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-19"
+}

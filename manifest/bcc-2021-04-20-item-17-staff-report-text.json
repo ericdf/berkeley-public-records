@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2021-04-20-item-17-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2021-04-20",
+  "meeting_label": "regular",
+  "title": "Contract: O.C. Jones & Sons, Inc. for the Berkeley Marina Roadway Improvements Project: University Avenue (West Frontage Road to Marina Boulevard), Marina Boulevard, and Spinnaker Way Project",
+  "file": "L1/staff-reports/bcc-2021-04-20-item-17-staff-report-text.txt",
+  "sha256": "2f7f1ba4f2313dddc318babf4c69f7386b1db71966b3af63f7bbe873165e4ab3",
+  "bytes": 12561,
+  "derived_from": {
+    "id": "bcc-2021-04-20-item-17-staff-report",
+    "sha256": "c9d8b201fc1f5fa0fa644fd0454b4a8b0eb18380cd5a1b3a30deaf8b4f261c0f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

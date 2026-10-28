@@ -26,23 +26,30 @@ MIN_WORDS = 30
 ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]*$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 DOC_DATE_RE = re.compile(r"^\d{4}(-\d{2}(-\d{2})?)?$")
+WAYBACK_RE = re.compile(r"^https://web\.archive\.org/web/\d{14}/https?://\S+$")
 TOPIC_RE = re.compile(r"^[a-z0-9][a-z0-9_]*$")
 T0_COLLECTION_RE = re.compile(r"^[a-z0-9][a-z0-9_-]*$")
 IGNORED = {"README.md", ".gitkeep"}
-DOC_EXTENSIONS = {"pdf", "doc", "docx", "xls", "xlsx", "csv", "ppt", "pptx", "txt", "htm", "html",
+DOC_EXTENSIONS = {"pdf", "doc", "docx", "xls", "xlsx", "csv", "geojson", "json", "ppt", "pptx", "txt", "htm", "html",
                   "rtf", "png", "jpg", "jpeg", "tif", "tiff"}
 FIELDS = {
     "layer": "L0 (made or published by a public body) or T0 (published by someone else)",
-    "collection": "where it is filed, e.g. sources/budgets, clerk, council-captions, staff-reports, press",
+    "collection": ("where it is filed, e.g. sources/budgets, clerk, council-captions, annotated-agendas, "
+                   "agenda-packets (Large file Issue only), staff-reports, press"),
     "title": "the document's title as printed on it",
-    "document_date": "the date on the document: YYYY-MM-DD (or YYYY-MM, or YYYY); optional for staff-reports",
+    "document_date": ("the date on the document: YYYY-MM-DD (or YYYY-MM, or YYYY); optional for staff-reports; "
+                      "\"undated\" for a T0 page that prints no date, which then needs wayback_url or retrieved"),
     "publisher": "who made or published it (required for T0)",
     "relevance": "T0 only: the public decision or official it bears on, in neutral terms",
     "source_url": "where it was published online",
     "source_note": "if not online: how and when you obtained it",
     "retrieved": "optional: the date you downloaded it, YYYY-MM-DD",
+    "wayback_url": ("optional: the Wayback Machine capture the file was taken from, "
+                    "https://web.archive.org/web/<14-digit timestamp>/<address>"),
     "meeting_date": "optional: the meeting it belongs to, YYYY-MM-DD (required for staff-reports)",
-    "meeting_label": "council-captions, annotated-agendas, and Council staff-reports: e.g. regular, special",
+    "meeting_label": ("council-captions, annotated-agendas, agenda-packets, and Council staff-reports: e.g. "
+                      "regular, special. For a document the City lists on its Council agenda page, the date "
+                      "and label are filled in from the City catalog when left out"),
     "item": "optional: the agenda item as printed, e.g. Consent Calendar Item 12 (required for staff-reports)",
     "body": "staff-reports: the body whose agenda it is on, e.g. Berkeley City Council, Planning Commission",
     "part": "staff-reports, optional: a short name for the document within the item when it is not "
@@ -50,13 +57,23 @@ FIELDS = {
     "notices": "optional: disclaimers printed on the document, copied word for word",
     "doc_type": "optional: the kind of document; normally worked out for you",
     "id": "optional: the archive id; normally worked out for you",
+    "revision_of": ("optional: the archive id of the earlier version this document revises; the earlier "
+                    "entry gets revised_by pointing back"),
+    "version_label": "optional, with revision_of: the public body's word for this version, e.g. Revised",
+    "version_note": "optional: a short note about this version, e.g. why an earlier one was not located",
 }
 # Collections with their own top-level directory. Everything else from a public body goes
 # under sources/<topic>/, as the existing holdings do.
 MEETING_COLLECTIONS = {
     "council-captions": ("council_captions", "captions"),
     "annotated-agendas": ("annotated_agenda", "annotated-agenda"),
+    "agenda-packets": ("agenda_packet", "agenda-packet"),
 }
+# Agenda packets compile a meeting's item material in one file. They are a bulk collection and
+# always stored as external blobs (README, "Large files"), so they come in through a Large file
+# Issue and tools/ingest_large.py, never through the inbox, whatever their size.
+BLOB_ONLY_COLLECTIONS = {"agenda-packets"}
+CITY_MEETINGS = os.path.join("catalog", "city-council-agendas", "meetings.json")
 TOP_LEVEL_L0 = set(MEETING_COLLECTIONS) | {"clerk"}
 # Agenda item reports: Council staff reports, and items from Council policy committees and City
 # commissions. Filed under L0/staff-reports/ with the body named in the entry; the id is
@@ -116,7 +133,8 @@ def slug(text, limit=70):
 def pair_inbox(inbox):
     """Group inbox files into (name, document path, metadata path). Returns (pairs, problems)."""
     docs, metas, problems = {}, {}, []
-    for n in sorted(os.listdir(inbox)):
+    names = set(os.listdir(inbox))
+    for n in sorted(names):
         if n in IGNORED or n.startswith("."):
             continue
         p = os.path.join(inbox, n)
@@ -128,7 +146,11 @@ def pair_inbox(inbox):
             problems.append(f"inbox/{n} has no file extension (such as .pdf). Rename it.")
             continue
         ext = ext.lower()
-        if ext == "json":
+        # Metadata is <name>.json, or <name>.meta.json, which a JSON document needs (its own name ends .json).
+        if n.lower().endswith(".meta.json"):
+            metas[n[: -len(".meta.json")]] = p
+            continue
+        if ext == "json" and f"{stem}.meta.json" not in names:
             metas[stem] = p
         elif ext in DOC_EXTENSIONS:
             if stem in docs:
@@ -147,6 +169,31 @@ def pair_inbox(inbox):
         problems.append(f"inbox/{stem}.json has no document with the same name. Upload the document "
                         f"as inbox/{stem}.pdf (the names before the dot must match).")
     return [(s, docs[s], metas[s]) for s in sorted(set(docs) & set(metas))], problems
+
+
+def meeting_from_catalog(root, url):
+    """(meeting_date, meeting_label) of the City-listed Council meeting whose agenda packet or
+    annotated agenda is at url, from catalog/city-council-agendas/meetings.json; else None."""
+    path = os.path.join(root, CITY_MEETINGS)
+    if not url or not os.path.exists(path):
+        return None
+    with open(path) as f:
+        for m in json.load(f)["entries"]:
+            if url in (m["city"].get("agenda_packet"), m["city"].get("annotated_agenda")):
+                return m["date"], m["label"]
+    return None
+
+
+def fill_meeting(root, meta):
+    """Supply meeting_date and meeting_label for a meeting collection from the City catalog when
+    the contributor left them out and the source_url is one the City lists. Returns meta."""
+    if meta.get("collection") in MEETING_COLLECTIONS and not (meta.get("meeting_date") and meta.get("meeting_label")):
+        found = meeting_from_catalog(root, (meta.get("source_url") or "").strip())
+        if found:
+            meta = dict(meta)
+            meta.setdefault("meeting_date", found[0])
+            meta.setdefault("meeting_label", found[1])
+    return meta
 
 
 def check_metadata(name, meta, manifest, where=None):
@@ -178,7 +225,18 @@ def check_metadata(name, meta, manifest, where=None):
                       'or "T0" (published by someone else, such as a newspaper).')
 
     ddate = text("document_date")
-    if ddate and not DOC_DATE_RE.match(ddate):
+    wayback = text("wayback_url")
+    if wayback and not WAYBACK_RE.match(wayback):
+        issues.append(f'"wayback_url" must look like https://web.archive.org/web/20181026150626/http://...; '
+                      f'got "{wayback}".')
+    if ddate == "undated":
+        if layer != "T0":
+            issues.append('"document_date" may be "undated" only for T0 (third-party) documents; a public '
+                          'body\'s document needs its printed date.')
+        elif not (wayback or text("retrieved")):
+            issues.append('an undated document needs "wayback_url" or "retrieved", so the date it was seen is '
+                          'on record.')
+    elif ddate and not DOC_DATE_RE.match(ddate):
         issues.append(f'"document_date" is "{ddate}"; write it as YYYY-MM-DD, e.g. 2026-09-12.')
     for f in ("retrieved", "meeting_date"):
         v = text(f)
@@ -361,11 +419,15 @@ def build_entry(meta, place, digest, size, contributor, today, ext):
         e["meeting_date"] = meta["meeting_date"]
     if meta.get("item"):
         e["item"] = str(meta["item"]).strip()
+    for f in ("revision_of", "version_label", "version_note"):
+        if meta.get(f):
+            e[f] = str(meta[f]).strip()
     e.update(file=f"{place['l0']}/{place['id']}.{ext}", sha256=digest, bytes=size,
              source_url=(meta.get("source_url") or "").strip() or None)
     if meta.get("source_note"):
         e["source_note"] = meta["source_note"].strip()
-    e.update(retrieved=meta.get("retrieved") or None, archived=today, wayback_url=None,
+    e.update(retrieved=meta.get("retrieved") or None, archived=today,
+             wayback_url=(meta.get("wayback_url") or "").strip() or None,
              notices=list(meta.get("notices") or []), contributed_by=contributor)
     return e
 
@@ -453,6 +515,16 @@ def process(root, contributor, today=None, log=print):
         if not isinstance(meta, dict):
             problems.append(f"inbox/{name}.json must be one {{ ... }} object; see inbox/README.md.")
             continue
+        if meta.get("revision_of") and str(meta["revision_of"]).strip() not in manifest:
+            problems.append(f"inbox/{name}.json: \"revision_of\" is {meta['revision_of']!r}, which is not an "
+                            "archive id. Give the id of the earlier version as it appears in manifest/.")
+            continue
+        if str(meta.get("collection") or "").strip() in BLOB_ONLY_COLLECTIONS:
+            problems.append(f"inbox/{name}: agenda packets are always stored outside git, whatever "
+                            "their size. Remove both files and open a \"Large file\" Issue with the "
+                            "City's link to the packet (README, \"Large files\").")
+            continue
+        meta = fill_meeting(root, meta)
         try:
             place = check_metadata(name, meta, manifest)
         except Problem as x:
@@ -500,6 +572,12 @@ def process(root, contributor, today=None, log=print):
                 "bytes": entry["bytes"], "text": None}
         result["added"].append(item)
         item["text"] = write_l1(root, entry, place, dest, tool, result["notes"])
+        if entry.get("revision_of"):
+            opath = os.path.join(root, "manifest", entry["revision_of"] + ".json")
+            with open(opath) as f:
+                orig = json.load(f)
+            orig["revised_by"] = sorted(set(orig.get("revised_by") or []) | {entry["id"]})
+            write_json(opath, orig)
     return result
 
 

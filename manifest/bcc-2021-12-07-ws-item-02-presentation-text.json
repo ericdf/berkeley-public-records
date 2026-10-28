@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2021-12-07-ws-item-02-presentation-text",
+  "layer": "L1",
+  "doc_type": "presentation_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2021-12-07",
+  "meeting_label": "work session",
+  "title": "Large Scale Ferry Feasibility Study (City Council Work Session presentation)",
+  "file": "L1/staff-reports/bcc-2021-12-07-ws-item-02-presentation-text.txt",
+  "sha256": "eac3158f79ebf8980d282c6dbeeeac24b6766ac04ca006c9e3628e9cadb25868",
+  "bytes": 38657,
+  "derived_from": {
+    "id": "bcc-2021-12-07-ws-item-02-presentation",
+    "sha256": "bdf79fc58faf648e1eb013bc1b254502cc9ae919c006a2fc619864af4da2ebc7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

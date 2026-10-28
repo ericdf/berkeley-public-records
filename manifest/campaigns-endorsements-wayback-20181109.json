@@ -1,0 +1,19 @@
+{
+  "id": "campaigns-endorsements-wayback-20181109",
+  "layer": "T0",
+  "doc_type": "third_party_publication",
+  "collection": "campaigns",
+  "publisher": "Alameda County Democratic Party",
+  "relevance": "Endorsements and campaign material in Berkeley mayoral, City Council and ballot-measure elections.",
+  "title": "Endorsements",
+  "document_date": "undated",
+  "file": "T0/campaigns/campaigns-endorsements-wayback-20181109.html",
+  "sha256": "1010559e2e01e2e1ff5d32c8ba068133edbec781d811f7cc057932ef80936392",
+  "bytes": 100861,
+  "source_url": "http://acdems.org/endorsements/",
+  "retrieved": "2026-10-23",
+  "archived": "2026-10-23",
+  "wayback_url": "https://web.archive.org/web/20181109044838/http://acdems.org/endorsements/",
+  "notices": [],
+  "contributed_by": "ericdf"
+}

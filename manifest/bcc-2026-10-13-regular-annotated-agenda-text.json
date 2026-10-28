@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2026-10-13-regular-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-10-13",
+  "meeting_label": "regular",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2026-10-13",
+  "file": "L1/annotated-agendas/bcc-2026-10-13-regular-annotated-agenda-text.txt",
+  "sha256": "11edfbab066629ac5b49637ca518ddd624a6f0523908e81d7d7fcc60efc235d6",
+  "bytes": 26984,
+  "derived_from": {
+    "id": "bcc-2026-10-13-regular-annotated-agenda",
+    "sha256": "43dcf8a8234216e1c1b7accd7d38c5d1eb18a8b557e09c3949ccc88b7bc71c9d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-28"
+}

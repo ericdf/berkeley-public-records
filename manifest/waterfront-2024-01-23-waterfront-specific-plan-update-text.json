@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-2024-01-23-waterfront-specific-plan-update-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "Waterfront Specific Plan Update",
+  "file": "L1/sources/waterfront/waterfront-2024-01-23-waterfront-specific-plan-update-text.txt",
+  "sha256": "79bed3e789418d58ab703109b423585ecdf3f91d6c41e66640010321bc0249d2",
+  "bytes": 2148,
+  "derived_from": {
+    "id": "waterfront-2024-01-23-waterfront-specific-plan-update",
+    "sha256": "e713d4f836aba996c423cf899d6b651e2f9be46c40aa3ecc954ce73d5d4e2f38"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bcc-2026-05-07-regular-annotated-agenda-v2",
+  "layer": "L0",
+  "doc_type": "annotated_agenda",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-05-07",
+  "meeting_label": "special",
+  "publisher": "City of Berkeley — City Clerk Department",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2026-05-07",
+  "document_date": "2026-05-07",
+  "revision_of": "bcc-2026-05-07-regular-annotated-agenda",
+  "version_note": "The City replaced the file without labeling the change: its agenda page now links this file in place of https://berkeleyca.gov/sites/default/files/city-council-meetings/2026-05-07%20Annotated%20Agenda%20-%20Council.pdf, which still serves the earlier version (bcc-2026-05-07-regular-annotated-agenda). Found 2026-10-28.",
+  "file": "L0/annotated-agendas/bcc-2026-05-07-regular-annotated-agenda-v2.pdf",
+  "sha256": "b733b6e06ff942f5bf0538ec9b9ac4c6bc7030552c259e3b1d45a87e408c4be7",
+  "bytes": 353204,
+  "source_url": "https://berkeleyca.gov/sites/default/files/city-council-meetings/2026-05-07%20Annotated%20Agenda%20-%20Council_0.pdf",
+  "retrieved": "2026-10-28",
+  "archived": "2026-10-28",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

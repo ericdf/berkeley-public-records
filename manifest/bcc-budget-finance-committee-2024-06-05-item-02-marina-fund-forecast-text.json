@@ -1,0 +1,23 @@
+{
+  "id": "bcc-budget-finance-committee-2024-06-05-item-02-marina-fund-forecast-text",
+  "layer": "L1",
+  "doc_type": "agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council Budget & Finance Policy Committee",
+  "meeting_date": "2024-06-05",
+  "title": "5-Year Financial Plan - Marina Fund (608), May 2024",
+  "file": "L1/staff-reports/bcc-budget-finance-committee-2024-06-05-item-02-marina-fund-forecast-text.txt",
+  "sha256": "f73b9019f0721d5ca79bd822f965c7b7dacbb55e37525321831fcbbf75839d8b",
+  "bytes": 7072,
+  "derived_from": {
+    "id": "bcc-budget-finance-committee-2024-06-05-item-02-marina-fund-forecast",
+    "sha256": "c690459b1e26a19a4fbe677732fccd8cb4105de1624cea907ca03251d0781cda"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

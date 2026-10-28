@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-2026-07-20-city-attorney-s-impartial-analysis-of-measure-p-amending-the-city-s-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "City Attorney's Impartial Analysis of Measure “P”: Amending the City's Special Parcel Tax to Fund Street Paving and Storm Drainage Improvements, Programs and Services",
+  "file": "L1/sources/peer_cities/peer-cities-2026-07-20-city-attorney-s-impartial-analysis-of-measure-p-amending-the-city-s-text.txt",
+  "sha256": "91d6406903a3eaa481b03f415f25f1af11b4a05bfcec84517061113743b2cc77",
+  "bytes": 3554,
+  "derived_from": {
+    "id": "peer-cities-2026-07-20-city-attorney-s-impartial-analysis-of-measure-p-amending-the-city-s",
+    "sha256": "590bed6bf15c83663369d126b556f1faf42655deac5f328837d6628270e790fe"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

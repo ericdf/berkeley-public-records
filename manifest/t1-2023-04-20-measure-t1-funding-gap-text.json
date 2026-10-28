@@ -1,0 +1,21 @@
+{
+  "id": "t1-2023-04-20-measure-t1-funding-gap-text",
+  "layer": "L1",
+  "doc_type": "city_manager_memo_text",
+  "collection": "t1",
+  "title": "Measure T1 Funding Gap",
+  "file": "L1/sources/t1/t1-2023-04-20-measure-t1-funding-gap-text.txt",
+  "sha256": "74ad52c2486c38a808c39c79cbd591b4f76f14473c0b2f0c0394ca5a1fc17716",
+  "bytes": 125743,
+  "derived_from": {
+    "id": "t1-2023-04-20-measure-t1-funding-gap",
+    "sha256": "c5ceae17873c20bf976a05c6239c18f0995caba2cdd2e78da8f814f21f69e615"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2021-04-27-item-18-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2021-04-27",
+  "meeting_label": "regular",
+  "title": "Approving Proposed Projects Anticipated to be paid for by the State’s Road Maintenance and Rehabilitation Account (RMRA) Funds for FY2022",
+  "file": "L1/staff-reports/bcc-2021-04-27-item-18-staff-report-text.txt",
+  "sha256": "e95f52bb4d26694dadd521ec40aad7e3bd795a0dd3b41bb0d73d223a3e3d59f6",
+  "bytes": 20094,
+  "derived_from": {
+    "id": "bcc-2021-04-27-item-18-staff-report",
+    "sha256": "d7f4ea87b3b5773c4d3678ae5c36c6ba42c5ab9fbd4b15594e2dea6cda80b5f0"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

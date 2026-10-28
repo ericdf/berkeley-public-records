@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-1915-05-27-statutes-of-california-1915-chapter-534-an-act-to-amend-an-act-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "Statutes of California 1915, Chapter 534: An act to amend an act entitled \"An act granting to the city of Berkeley the salt marsh, tide and submerged lands of the State of California, including the right to wharf out therefrom to the city of Berkeley, and regulating the management, use and control thereof,\" approved June 11, 1913",
+  "file": "L1/sources/waterfront/waterfront-1915-05-27-statutes-of-california-1915-chapter-534-an-act-to-amend-an-act-text.txt",
+  "sha256": "04deb3def25c10e601333e6f28e981b97f21266f78299b38f1ed2d9ef1c0da0a",
+  "bytes": 8912,
+  "derived_from": {
+    "id": "waterfront-1915-05-27-statutes-of-california-1915-chapter-534-an-act-to-amend-an-act",
+    "sha256": "466a3b1f5b4319ee0d9cd651968f224eecfdd62346879721a98d02918e875ba7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2025-05-12-bcdc-drb-staff-report-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Berkeley Waterfront and Berkeley Pier Ferry Project; Pre-Application Briefing (For Design Review Board consideration on May 12, 2025)",
+  "file": "L1/sources/pier_ferry/pier-ferry-2025-05-12-bcdc-drb-staff-report-text.txt",
+  "sha256": "936792f15bb9426a14f71dd04587f0bb03b5fb15dab2af0b3d3b877eed0d60c6",
+  "bytes": 22442,
+  "derived_from": {
+    "id": "pier-ferry-2025-05-12-bcdc-drb-staff-report",
+    "sha256": "9798fa3686909aeffb52ae57504f032adfb8f79a5e2aad007911f0d18f1c6063"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

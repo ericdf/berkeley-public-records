@@ -1,0 +1,23 @@
+{
+  "id": "bcc-budget-finance-committee-2023-06-22-item-05-prw-report-text",
+  "layer": "L1",
+  "doc_type": "supplemental_agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council Budget & Finance Policy Committee",
+  "meeting_date": "2023-06-22",
+  "title": "Marina Fund: FY24 Fund Balance Gap; Division of Boating and Waterways $5.5M Loan for Replacement of D & E Docks",
+  "file": "L1/staff-reports/bcc-budget-finance-committee-2023-06-22-item-05-prw-report-text.txt",
+  "sha256": "07996db66fd9f50e18d8c5aed74f865411c4b1b9b07e7057f1c8205f78a3c8d9",
+  "bytes": 45647,
+  "derived_from": {
+    "id": "bcc-budget-finance-committee-2023-06-22-item-05-prw-report",
+    "sha256": "1a323619d73b8fe3efb0f99989a99a0e7071139c310d6f652bb0a4441e5cad3a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

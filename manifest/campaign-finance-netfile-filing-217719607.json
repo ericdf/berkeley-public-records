@@ -1,0 +1,18 @@
+{
+  "id": "campaign-finance-netfile-filing-217719607",
+  "layer": "L0",
+  "doc_type": "campaign_finance_document",
+  "collection": "campaign_finance",
+  "publisher": "City of Berkeley — City Clerk (NetFile Connect2 public campaign-finance API)",
+  "title": "NetFile filing record 217719607, Daria Wrubel for City Council 2026",
+  "document_date": "2026-10-23",
+  "file": "L0/sources/campaign_finance/campaign-finance-netfile-filing-217719607.json",
+  "sha256": "f1f2ce8e71d3ce9472077594dd9fa49e3249dbab66e2e8101c865d2bfc6f2018",
+  "bytes": 542,
+  "source_url": "https://netfile.com/Connect2/api/public/filing/info/217719607?format=json",
+  "retrieved": "2026-10-23",
+  "archived": "2026-10-23",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

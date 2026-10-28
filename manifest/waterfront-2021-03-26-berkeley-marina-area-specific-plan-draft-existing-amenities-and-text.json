@@ -1,0 +1,21 @@
+{
+  "id": "waterfront-2021-03-26-berkeley-marina-area-specific-plan-draft-existing-amenities-and-text",
+  "layer": "L1",
+  "doc_type": "waterfront_document_text",
+  "collection": "waterfront",
+  "title": "Berkeley Marina Area Specific Plan: Draft Existing Amenities and Operations Assessment",
+  "file": "L1/sources/waterfront/waterfront-2021-03-26-berkeley-marina-area-specific-plan-draft-existing-amenities-and-text.txt",
+  "sha256": "af6ac80ee4bb93cfdc24af9b1728329acb5dbf2bc2dfbc6bafd09d9e1483b6bc",
+  "bytes": 39992,
+  "derived_from": {
+    "id": "waterfront-2021-03-26-berkeley-marina-area-specific-plan-draft-existing-amenities-and",
+    "sha256": "fcca5603522476097a8c66e125bd46137310302fef2c30740bfb9834a9f0952a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

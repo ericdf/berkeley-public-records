@@ -1,0 +1,21 @@
+{
+  "id": "t1-2026-07-07-prw-capital-projects-t1-quarterly-update-june-2026-text",
+  "layer": "L1",
+  "doc_type": "project_update_bulletin_text",
+  "collection": "t1",
+  "title": "PRW Capital Projects & T1 Quarterly Update - June 2026",
+  "file": "L1/sources/t1/t1-2026-07-07-prw-capital-projects-t1-quarterly-update-june-2026-text.txt",
+  "sha256": "219ab1b538e0b8f02f14391f19bff91e40ed1051103beff2c122429715fc88fb",
+  "bytes": 13858,
+  "derived_from": {
+    "id": "t1-2026-07-07-prw-capital-projects-t1-quarterly-update-june-2026",
+    "sha256": "3505b49c11bea2db4088e462f62d9b02156a2f4033d0d98b4f52013866f3f67b"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

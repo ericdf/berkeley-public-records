@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-12-02-item-33-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-12-02",
+  "meeting_label": "regular",
+  "title": "Referral to the City Manager and City Attorney: Vibrant Storefront Policy",
+  "file": "L1/staff-reports/bcc-2025-12-02-item-33-staff-report-text.txt",
+  "sha256": "87db1ca5954480401b63226caf2967ed8dc41770989a33578d1453fa71e68925",
+  "bytes": 32700,
+  "derived_from": {
+    "id": "bcc-2025-12-02-item-33-staff-report",
+    "sha256": "718241ae41844ebf2c6c9141f1a55e2bb1addabad7780f8016e424d8be5d643d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-19"
+}

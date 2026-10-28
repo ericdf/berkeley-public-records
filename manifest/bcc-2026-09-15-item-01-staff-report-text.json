@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-09-15-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-09-15",
+  "meeting_label": "regular",
+  "title": "Grant Application: California Strategic Growth Council, Community Resilience Center (CRC) Planning Grant for Civic Center",
+  "file": "L1/staff-reports/bcc-2026-09-15-item-01-staff-report-text.txt",
+  "sha256": "40dc666ee363818d0dcd5a2afb5e08dcb7584334af4f0d21d7d85bb115104eb3",
+  "bytes": 16219,
+  "derived_from": {
+    "id": "bcc-2026-09-15-item-01-staff-report",
+    "sha256": "2d8f3f910545abd56c15a544227c55651f5f4a06370ef7b70aec29823e5aaf00"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-16"
+}

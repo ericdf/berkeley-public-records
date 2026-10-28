@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2024-07-30-special-item-06c-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-07-30",
+  "meeting_label": "special",
+  "title": "Ballot Measure – Increasing the Parks, Trees and Landscaping Maintenance Tax",
+  "file": "L1/staff-reports/bcc-2024-07-30-special-item-06c-staff-report-text.txt",
+  "sha256": "690c60c26b44b5a3ead835c6023477552a0c6c3858c89e571e79499114b56597",
+  "bytes": 97853,
+  "derived_from": {
+    "id": "bcc-2024-07-30-special-item-06c-staff-report",
+    "sha256": "070c7139540b0fb348823d51d4b8250dcb1e411397aaf6a1740e2f882d1540f1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

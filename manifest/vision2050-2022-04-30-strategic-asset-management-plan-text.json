@@ -1,0 +1,21 @@
+{
+  "id": "vision2050-2022-04-30-strategic-asset-management-plan-text",
+  "layer": "L1",
+  "doc_type": "planning_report_text",
+  "collection": "vision2050",
+  "title": "Strategic Asset Management Plan",
+  "file": "L1/sources/vision2050/vision2050-2022-04-30-strategic-asset-management-plan-text.txt",
+  "sha256": "fafae69945011e48779e8be18a323255fc6d21d1dc184a1de66ed6787c5aa4ad",
+  "bytes": 95210,
+  "derived_from": {
+    "id": "vision2050-2022-04-30-strategic-asset-management-plan",
+    "sha256": "01974de776d6634a1fb64910fd0fe796b72eea217a9f56fd74c8ff03ab5dade3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "clerk-2024-candidate-roster-public-berkeley-general-municipal-election-november",
+  "layer": "L0",
+  "doc_type": "clerk_record",
+  "collection": "clerk",
+  "publisher": "City of Berkeley — City Clerk",
+  "title": "Candidate Roster - Public, Berkeley General Municipal Election - November 5, 2024",
+  "document_date": "2024",
+  "file": "L0/clerk/clerk-2024-candidate-roster-public-berkeley-general-municipal-election-november.pdf",
+  "sha256": "156ee252e2362f0f299b1fbf93da5412b27d482298a864b6a1ed240275130b6f",
+  "bytes": 25341,
+  "source_url": null,
+  "source_note": "Provided by the City Clerk in response to an email request; received 2026-10-05. The document prints no date; its PDF metadata gives a creation date of 2024-09-03.",
+  "retrieved": null,
+  "archived": "2026-10-23",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
