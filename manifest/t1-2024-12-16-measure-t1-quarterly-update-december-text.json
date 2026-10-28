@@ -1,0 +1,21 @@
+{
+  "id": "t1-2024-12-16-measure-t1-quarterly-update-december-text",
+  "layer": "L1",
+  "doc_type": "project_update_bulletin_text",
+  "collection": "t1",
+  "title": "Measure T1 Quarterly Update - December",
+  "file": "L1/sources/t1/t1-2024-12-16-measure-t1-quarterly-update-december-text.txt",
+  "sha256": "c273e9a0a1a9d0bd92335451fa365cd22bb25093333bb955c1d050d1852873ed",
+  "bytes": 10334,
+  "derived_from": {
+    "id": "t1-2024-12-16-measure-t1-quarterly-update-december",
+    "sha256": "a5fde2c46a125353491c6b9c2c3b992455092860ad6065b53df6c76ed4d43e0f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

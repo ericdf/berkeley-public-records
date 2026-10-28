@@ -1,0 +1,21 @@
+{
+  "id": "t1-2022-05-measure-t1-bond-policies-and-procedures-manual-version-02-text",
+  "layer": "L1",
+  "doc_type": "program_manual_text",
+  "collection": "t1",
+  "title": "Measure T1 Bond Policies and Procedures Manual, Version 02",
+  "file": "L1/sources/t1/t1-2022-05-measure-t1-bond-policies-and-procedures-manual-version-02-text.txt",
+  "sha256": "b83cdae7705ed6b09678411d1feef9d339987d5f362b66622ff756a1a098986f",
+  "bytes": 142431,
+  "derived_from": {
+    "id": "t1-2022-05-measure-t1-bond-policies-and-procedures-manual-version-02",
+    "sha256": "32e4fc40ad334bf1aee5d4d57c062eb413ddd01bf3e171d2c36d0f072f152ab3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t1-2026-04-01-parks-recreation-waterfront-capital-projects-update-south-cove-text",
+  "layer": "L1",
+  "doc_type": "project_update_bulletin_text",
+  "collection": "t1",
+  "title": "Parks, Recreation & Waterfront Capital Projects Update — South Cove Improvements Ribbon Cutting",
+  "file": "L1/sources/t1/t1-2026-04-01-parks-recreation-waterfront-capital-projects-update-south-cove-text.txt",
+  "sha256": "31743ac6f74815987fbf422a350397fc992f95ee87559df3b82d340c0a495b82",
+  "bytes": 12682,
+  "derived_from": {
+    "id": "t1-2026-04-01-parks-recreation-waterfront-capital-projects-update-south-cove",
+    "sha256": "073e0551b84f627cea1f0230c923e5a285dc06a36c7fa6f617a50c802a0c8b83"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bonds-2026-07-15-preliminary-official-statement-20-000-000-city-of-berkeley-2026",
+  "layer": "L0",
+  "doc_type": "bond_document",
+  "collection": "bonds",
+  "publisher": "City of Berkeley (issuer); posted on MSRB EMMA",
+  "title": "Preliminary Official Statement — $20,000,000* City of Berkeley 2026 General Obligation Bonds (2016 Election: Infrastructure and Facilities Improvements)",
+  "document_date": "2026-07-15",
+  "file": "L0/sources/bonds/bonds-2026-07-15-preliminary-official-statement-20-000-000-city-of-berkeley-2026.pdf",
+  "sha256": "e35bbeb3cc8ddd4152ef8f1d4e383869e6b2ca5b2949c9c97676bbe3bfab9c06",
+  "bytes": 10668755,
+  "source_url": null,
+  "source_note": "Downloaded by the maintainer from the MSRB's Electronic Municipal Market Access system (emma.msrb.org) on 2026-10-10, in EMMA download bundle MSRB-P2446674, file 'Preliminary Official Statement posted 07-28-2026 (10.2 MB).pdf'.",
+  "retrieved": "2026-10-10",
+  "archived": "2026-10-10",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

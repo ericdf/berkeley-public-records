@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2023-06-13-item-25-presentation-text",
+  "layer": "L1",
+  "doc_type": "presentation_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2023-06-13",
+  "meeting_label": "regular",
+  "title": "Measure T1 Funding Gap Recommendations (presentation)",
+  "file": "L1/staff-reports/bcc-2023-06-13-item-25-presentation-text.txt",
+  "sha256": "1b7e43ab5742b01e716a023d580fbf73b85e48cb8651e4e355adc6484d03c365",
+  "bytes": 4691,
+  "derived_from": {
+    "id": "bcc-2023-06-13-item-25-presentation",
+    "sha256": "8195fa920eb295f59dab6146b11bb846576dba90f4a5b2b4d01dd96962ad4152"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

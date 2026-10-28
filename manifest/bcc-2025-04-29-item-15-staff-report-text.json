@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-04-29-item-15-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-04-29",
+  "meeting_label": "regular",
+  "title": "Budget Referral Funding Afterschool Program Expansion",
+  "file": "L1/staff-reports/bcc-2025-04-29-item-15-staff-report-text.txt",
+  "sha256": "fda774b527801a1400e9d02e9c151adfcc984d84200b2f416b4e22f6c1294b8c",
+  "bytes": 15784,
+  "derived_from": {
+    "id": "bcc-2025-04-29-item-15-staff-report",
+    "sha256": "2c4c6d2cc6c6aa9d5ae088286fd211bdbf679a512b698d3decf985c6cb269cee"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

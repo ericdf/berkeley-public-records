@@ -1,0 +1,18 @@
+{
+  "id": "pier-ferry-2025-08-14-weta-onboard-ferry-survey",
+  "layer": "L0",
+  "doc_type": "project_record",
+  "collection": "pier_ferry",
+  "publisher": "San Francisco Bay Area Water Emergency Transportation Authority (WETA); prepared and conducted by Corey, Canapary & Galanis Research",
+  "title": "2025 Onboard Ferry Survey Summary Report",
+  "document_date": "2025-08-14",
+  "file": "L0/sources/pier_ferry/pier-ferry-2025-08-14-weta-onboard-ferry-survey.pdf",
+  "sha256": "10054a7410239fb52821bf979fd8b44579bc85eeaecafb6fc5751f5aacf6a828",
+  "bytes": 902043,
+  "source_url": "https://d262kwcyxl71on.cloudfront.net/wp-content/uploads/20250918225554/WETA-onboard-2025-Report-Finalv2.pdf",
+  "retrieved": "2026-10-26",
+  "archived": "2026-10-26",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

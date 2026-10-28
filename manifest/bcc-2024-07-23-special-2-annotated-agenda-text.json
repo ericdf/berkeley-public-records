@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2024-07-23-special-2-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-07-23",
+  "meeting_label": "special-2",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2024-07-23 (second special meeting that day)",
+  "file": "L1/annotated-agendas/bcc-2024-07-23-special-2-annotated-agenda-text.txt",
+  "sha256": "8fba48d521637d933d7278f1b7823264d9792bb306c0d4049fd946ef687d2418",
+  "bytes": 4887,
+  "derived_from": {
+    "id": "bcc-2024-07-23-special-2-annotated-agenda",
+    "sha256": "d25a70e136eab35d4850246797a0be7512ede225850b707d09b3576c5347ae4a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "t1-2023-06-13-provide-direction-on-closing-the-funding-gap-to-complete-remaining-text",
+  "layer": "L1",
+  "doc_type": "council_agenda_report_text",
+  "collection": "t1",
+  "meeting_date": "2023-06-13",
+  "title": "Provide Direction on Closing the Funding Gap to Complete Remaining Measure T1 Projects",
+  "file": "L1/sources/t1/t1-2023-06-13-provide-direction-on-closing-the-funding-gap-to-complete-remaining-text.txt",
+  "sha256": "77ec02c8c346709f2b1c439eb50414bbc676d72670ab6f0c27269939119eedf2",
+  "bytes": 119843,
+  "derived_from": {
+    "id": "t1-2023-06-13-provide-direction-on-closing-the-funding-gap-to-complete-remaining",
+    "sha256": "ec79a47b13027b2dfe276ce3235f676e8b1f24373def52647be28e15690a4a2c"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2024-10-15-regular-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2024-10-15",
+  "meeting_label": "regular",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2024-10-15",
+  "file": "L1/annotated-agendas/bcc-2024-10-15-regular-annotated-agenda-text.txt",
+  "sha256": "d8a47e1fe37b55bf5d67be8eefe934f50398b776172adfe0563d84b558dcb8ae",
+  "bytes": 32839,
+  "derived_from": {
+    "id": "bcc-2024-10-15-regular-annotated-agenda",
+    "sha256": "be8ee4250d931b2ddd85547cd313555dac0ae6661253c263123c403d99c552b6"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

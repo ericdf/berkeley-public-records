@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2023-11-14-special-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2023-11-14",
+  "meeting_label": "special",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2023-11-14",
+  "file": "L1/annotated-agendas/bcc-2023-11-14-special-annotated-agenda-text.txt",
+  "sha256": "26891bac282ac772688aa8fcb1c2ad28e0321d615ee07a800d2b80caba6076dc",
+  "bytes": 7326,
+  "derived_from": {
+    "id": "bcc-2023-11-14-special-annotated-agenda",
+    "sha256": "d573682b7c52a6f5c6a2d864d7f7915931d16ac96b4530679e17f7c0434791b4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

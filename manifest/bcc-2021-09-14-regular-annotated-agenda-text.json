@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2021-09-14-regular-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2021-09-14",
+  "meeting_label": "regular",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2021-09-14",
+  "file": "L1/annotated-agendas/bcc-2021-09-14-regular-annotated-agenda-text.txt",
+  "sha256": "a2c648d2708f2043d3aa2c51451041b9484313bb693440dc563076a7b918fb28",
+  "bytes": 48419,
+  "derived_from": {
+    "id": "bcc-2021-09-14-regular-annotated-agenda",
+    "sha256": "473504095732fe7bc4f993aa1709149adee935d003de73ad856a54a680421692"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

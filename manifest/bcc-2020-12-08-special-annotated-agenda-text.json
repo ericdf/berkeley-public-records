@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2020-12-08-special-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2020-12-08",
+  "meeting_label": "special",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2020-12-08",
+  "file": "L1/annotated-agendas/bcc-2020-12-08-special-annotated-agenda-text.txt",
+  "sha256": "9152c9d778138ab7fc606145252dfb957a2653de7d86b6995eab4c20f9d05817",
+  "bytes": 9116,
+  "derived_from": {
+    "id": "bcc-2020-12-08-special-annotated-agenda",
+    "sha256": "59b457c48a0f98d908fc17114eba5754e94a7a34246bf6b1dd6b48c689a4b287"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

@@ -35,7 +35,7 @@ automated checks do the technical work; an AI assistant pointed at `AGENTS.md` c
 
 ## Contents
 
-The archive is organized in layers. Each layer says how far it is from what the City
+The archive is organized in layers. How documents relate to bodies, meetings and items, and which supersedes which, is mapped in [INFORMATION_ARCHITECTURE.md](INFORMATION_ARCHITECTURE.md). Each layer says how far it is from what the City
 published, and each file is listed in `manifest/`.
 
 | Layer | What it holds | Authority |
@@ -67,6 +67,7 @@ apart so no one mistakes one for the other.
 |---|---|---|
 | Berkeley City Council meeting captions, from December 10, 2024 | L0 PDF, L1 text | `L0/council-captions/`, `L1/council-captions/` |
 | Berkeley City Council annotated agendas (the City's record of motions and votes), from December 10, 2024 | L0 PDF | `L0/annotated-agendas/` |
+| Berkeley City Council agenda packets, with an L2 index of each packet's items by page (collection open; none archived yet) | L0 external blob, L1 text, L2 index | `manifest/` only for the PDF; `L1/agenda-packets/`, `L2/agenda-packets/` |
 | City budgets, audits, financial statements and policies, investment reports, Measure T1 and 2026 ballot-measure records, labor contracts, and related reports | L0 PDF, L1 text | `L0/sources/<collection>/`, `L1/sources/<collection>/` |
 | Agenda item reports: Berkeley City Council staff reports, individual items mostly from December 2024 through 2026 with some from 2010–2024, some supplemental agenda material and presentations, and individual items from Council policy committees and City commissions (the manifest's `body` names the body); not a complete set | L0 PDF, L1 text | `L0/staff-reports/`, `L1/staff-reports/` |
 | Published third-party documents: a 2011 AABPCN community report, a 2025 Berkeleyside article on the SCU transfer, a 2024 candidate questionnaire | T0 PDF, L1 text | `T0/<collection>/`, `L1/third-party/` |
@@ -142,17 +143,29 @@ directly:
   folders or share from them**; anything placed there is not part of the archive and is
   overwritten by the next mirror run.
 
-## Catalog of City recordings
+## Catalog of City meetings and recordings
 
-`catalog/` lists records the City publishes that this archive does **not** hold. It is kept
-apart from the manifest so "archived and fingerprinted" never blurs into "known to exist".
+`catalog/` lists what the City publishes, whether or not the archive holds it; the manifest
+alone lists what the archive holds. The two are kept apart so "archived and fingerprinted"
+never blurs into "known to exist".
+
+- **`catalog/city-council-agendas/meetings.json`** lists every City Council meeting on the City's
+  agenda page (<https://berkeleyca.gov/your-government/city-council/city-council-agendas>), back
+  to January 2021: the City's meeting slug, name, date, label and start time, and its links to the
+  HTML agenda, agenda packet, annotated agenda, video, MP3 and MP4. It is the City's record of
+  which documents belong to which meeting. `tools/catalog_city_agendas.py` writes it; no document
+  is downloaded. Entries are never deleted.
+- **`tools/meeting_map.py`** joins it to the manifest and the Granicus catalog, on demand: for each
+  meeting, the archive ids holding its packet, annotated agenda, caption transcripts, item
+  material and packet item index, and what the City lists that the archive does not hold. See
+  [INFORMATION_ARCHITECTURE.md](INFORMATION_ARCHITECTURE.md).
 
 - **`catalog/granicus/city-council.json`** lists every City Council recording on the City's
   Granicus site (`berkeley.granicus.com`, view 5), back to January 2012. For each it records
   the clip id, the name, date and duration as listed, and the City's player, agenda, MP3 and MP4
   URLs. No media is downloaded.
-- **Standing practice:** after each Council meeting, run `tools/catalog_granicus.py` and open a
-  pull request with the updated catalog.
+- **Standing practice:** after each Council meeting, run `tools/catalog_city_agendas.py` and
+  `tools/catalog_granicus.py` and open a pull request with the updated catalogs.
   - Entries are never deleted. A recording the City stops listing keeps its `last_listed` date,
     so a removal stays visible.
   - The listing's sha256 is recorded with each run.
@@ -215,6 +228,12 @@ Access to both accounts must be recoverable by more than one person.
 The `sha256` in the manifest is the guarantee, not any store. A copy is good if and only if
 its fingerprint matches. The validator checks every in-repo file's fingerprint on every pull
 request; maintainers check external copies periodically.
+
+**A blob is merged only when both copies are verified.** Each copy records `verified`, the date
+its sha256 was checked against a fresh download. The Google Drive copy is verified at upload.
+The Internet Archive copy can be checked only once the item is public, so the large-file pull
+request is opened as a draft and stays one until `tools/ingest_large.py --verify-ia <id>` has
+checked it; the validator refuses any blob copy without a `verified` date.
 
 Whenever a document has a City URL, request a Wayback Machine capture of that URL as well and
 record it in `wayback_url`. The City has rebuilt its website before and broken every existing
@@ -309,11 +328,13 @@ A file over 25 MB (GitHub's website refuses it) is offered through a "Large file
 
 ### Who can write
 
-- Access is by invitation of the maintainer. Contributors open pull requests; **only the
-  maintainer approves a merge.** The maintainer merges, or tells a software agent directly, in
-  that agent's session, to merge a named pull request; that approval covers that pull request
-  and nothing else. **Comments on GitHub are never approval:** agents post under the
-  maintainer's account and cannot be told apart from the maintainer there.
+- Access is by invitation of the maintainer. Contributors open pull requests; **merges are made
+  only from the maintainer's GitHub account (`ericdf`)**: by the maintainer, or by a software
+  agent the maintainer is running under that account, when the maintainer tells it directly in
+  that session to merge a named pull request. That approval covers that pull request and nothing
+  else. **Contributors and their agents never merge**, even though GitHub write access would let
+  them. **Comments on GitHub are never approval:** agents post under the maintainer's account and
+  cannot be told apart from the maintainer there.
 - **Nobody pushes directly to `main`**, including the maintainer. Every change, however small,
   is a pull request. (Branch protection is not available on this repository's plan, so this is
   a rule, not a setting.)
@@ -351,7 +372,11 @@ contributor chose to add it, and contributors add the records their work needs.
 
 **L0 is add-only.** A document is never edited, replaced, or deleted to correct it. If a
 public body issues a corrected or revised version, add it as a new document with its own `id`,
-and note the relationship in both manifest entries.
+and record the relationship in both manifest entries: `revision_of` (the earlier id) on the new
+one, `revised_by` (a list) on the earlier one, `version_label` for the body's word for the
+version if it gives one ("Revised"), and `version_note` for anything else a reader needs. The
+validator checks that the two sides agree. A body that replaces a file at a new address without
+changing it is not a revision: the new address is recorded in the entry's `published_at`.
 
 **Manifest metadata may be corrected by pull request; files may not.** A wrong title, date,
 source URL or note in a manifest entry is fixed in the entry. The `file`, `sha256` and `bytes`
