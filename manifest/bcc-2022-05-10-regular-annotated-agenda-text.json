@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2022-05-10-regular-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2022-05-10",
+  "meeting_label": "regular",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2022-05-10",
+  "file": "L1/annotated-agendas/bcc-2022-05-10-regular-annotated-agenda-text.txt",
+  "sha256": "5809d1253b4996df1d3b2be8effb3b274299a06423b5e2c387fdb919bc5455a0",
+  "bytes": 42024,
+  "derived_from": {
+    "id": "bcc-2022-05-10-regular-annotated-agenda",
+    "sha256": "c8dc609fe9d3b4bbefea51de60bed49eb38306f7d7c28f0fb2f17353051e8d22"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

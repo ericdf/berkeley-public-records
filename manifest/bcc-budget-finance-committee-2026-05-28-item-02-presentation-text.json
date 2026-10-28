@@ -1,0 +1,23 @@
+{
+  "id": "bcc-budget-finance-committee-2026-05-28-item-02-presentation-text",
+  "layer": "L1",
+  "doc_type": "presentation_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council Budget & Finance Policy Committee",
+  "meeting_date": "2026-05-28",
+  "title": "Proposed Five-Year Capital Improvement Program, Fiscal Years 2027-2031 (presentation)",
+  "file": "L1/staff-reports/bcc-budget-finance-committee-2026-05-28-item-02-presentation-text.txt",
+  "sha256": "065f79f550bda041442f2b3a455f9e5d79d7cf8bce86e064517d4e947bba0278",
+  "bytes": 45597,
+  "derived_from": {
+    "id": "bcc-budget-finance-committee-2026-05-28-item-02-presentation",
+    "sha256": "d2c7bfcc80c9d182fc666f0f7b656bd9b27eda132921270789947090d814442b"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

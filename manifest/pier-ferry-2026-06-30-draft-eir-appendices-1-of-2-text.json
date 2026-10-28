@@ -1,0 +1,21 @@
+{
+  "id": "pier-ferry-2026-06-30-draft-eir-appendices-1-of-2-text",
+  "layer": "L1",
+  "doc_type": "project_record_text",
+  "collection": "pier_ferry",
+  "title": "Berkley Water Transportation Pier Ferry Project Draft EIR Appendices (1 of 2)",
+  "file": "L1/sources/pier_ferry/pier-ferry-2026-06-30-draft-eir-appendices-1-of-2-text.txt",
+  "sha256": "8103f75811214680092832cf7827f7997d1e265aa793b44d5b81d54014ea5d71",
+  "bytes": 10274651,
+  "derived_from": {
+    "id": "pier-ferry-2026-06-30-draft-eir-appendices-1-of-2",
+    "sha256": "69c9638ceecfe159d3b11a2429c1376936c2b6049d78e3aad0d6ffaf2da2a276"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

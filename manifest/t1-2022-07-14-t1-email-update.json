@@ -1,0 +1,18 @@
+{
+  "id": "t1-2022-07-14-t1-email-update",
+  "layer": "L0",
+  "doc_type": "project_update_bulletin",
+  "collection": "t1",
+  "publisher": "City of Berkeley — Parks, Recreation & Waterfront",
+  "title": "T1 Email Update",
+  "document_date": "2022-07-14",
+  "file": "L0/sources/t1/t1-2022-07-14-t1-email-update.pdf",
+  "sha256": "dca20dec77035cdfc5dfda712e25f1a0a2f4ffda73924ed6dd59007e416a1476",
+  "bytes": 3263225,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/T1%20Bond%20Measure%20Quarterly%20Update%20July%202022.pdf",
+  "retrieved": "2026-10-15",
+  "archived": "2026-10-15",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

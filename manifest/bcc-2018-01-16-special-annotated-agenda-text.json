@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2018-01-16-special-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2018-01-16",
+  "meeting_label": "special",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2018-01-16",
+  "file": "L1/annotated-agendas/bcc-2018-01-16-special-annotated-agenda-text.txt",
+  "sha256": "a64d3fbfa0dba5852983b5116dc576f0ca043b31f43ed91f75d654b33996c2ac",
+  "bytes": 3602,
+  "derived_from": {
+    "id": "bcc-2018-01-16-special-annotated-agenda",
+    "sha256": "fe23bde746a7cf8050ceb1106cab116a9df82ba251ddd6f9b9286b03c86cf6a4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2023-01-31-special-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2023-01-31",
+  "meeting_label": "special",
+  "title": "Provide Direction on Closing the $3.215M -$4.515M Funding Gap to Complete Measure T1 Phase 2 Projects",
+  "file": "L1/staff-reports/bcc-2023-01-31-special-item-01-staff-report-text.txt",
+  "sha256": "6666b1e4702c77d5fe913a9db59d0d9ec682203855994be3236d9dec6b5426c9",
+  "bytes": 40502,
+  "derived_from": {
+    "id": "bcc-2023-01-31-special-item-01-staff-report",
+    "sha256": "41339a83af542c584d8d36b4133b77233b737c207a312fb7d9e0494e46901992"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-15"
+}

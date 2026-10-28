@@ -1,0 +1,19 @@
+{
+  "id": "peer-cities-2006-06-30-albany-shoreline-protection-initiative",
+  "layer": "L0",
+  "doc_type": "peer_city_document",
+  "collection": "peer_cities",
+  "publisher": "City of Albany",
+  "title": "Albany Shoreline Protection Initiative",
+  "document_date": "2006-06-30",
+  "file": "L0/sources/peer_cities/peer-cities-2006-06-30-albany-shoreline-protection-initiative.pdf",
+  "sha256": "62a7b4e2448b3768da70a384ee8be61f9ab427a3b10d8b424f0d067b86b756c8",
+  "bytes": 95387,
+  "source_url": "https://www.albanyca.gov/files/assets/city/v/1/administration/documents/waterfront/albany-shoreline-protectio.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. No date is printed on the initiative text; it refers to February 27, 2006, and document_date is the end of that fiscal year (FY2005-06).",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

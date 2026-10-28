@@ -1,0 +1,22 @@
+{
+  "id": "peer-cities-2026-07-20-measure-f-2006-street-paving-storm-drain-facility-improvement-special-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "meeting_date": "2026-07-20",
+  "title": "Measure F (2006) Street Paving & Storm Drain Facility Improvement Special Tax (City Council presentation)",
+  "file": "L1/sources/peer_cities/peer-cities-2026-07-20-measure-f-2006-street-paving-storm-drain-facility-improvement-special-text.txt",
+  "sha256": "59a0386548a462cdaa2be0ca7b86a950fe36ecd3c4046eddbb0a4da8e739d9cb",
+  "bytes": 1912,
+  "derived_from": {
+    "id": "peer-cities-2026-07-20-measure-f-2006-street-paving-storm-drain-facility-improvement-special",
+    "sha256": "a188398d17c16933c6fdb1722b62289ab4e8fb8178cfb5f215d1343a914149d7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

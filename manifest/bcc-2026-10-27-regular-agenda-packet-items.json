@@ -1,0 +1,26 @@
+{
+ "id": "bcc-2026-10-27-regular-agenda-packet-items",
+ "layer": "L2",
+ "doc_type": "agenda_packet_items",
+ "body": "Berkeley City Council",
+ "meeting_date": "2026-10-27",
+ "meeting_label": "regular",
+ "title": "Item index: Agenda Packet, Berkeley City Council Regular Meeting, October 27, 2026",
+ "file": "L2/agenda-packets/bcc-2026-10-27-regular-agenda-packet-items.json",
+ "sha256": "88aeaa611f49e22e3bc99d5958a3ece01ed5cd302dd3a9be89755670f3bf18f8",
+ "bytes": 12506,
+ "derived_from": [
+  {
+   "id": "bcc-2026-10-27-regular-agenda-packet-text",
+   "sha256": "9b9dec0b2dfd28c8c422a5fdd4d7949e0622337ab2516432fe3659ede3eb616d"
+  }
+ ],
+ "extraction": {
+  "tool": "tools/l2/packet_items.py",
+  "command": "python3 tools/l2/packet_items.py tools/l2/recipes/bcc-2026-10-27-regular-agenda-packet-items.json",
+  "recipe": "tools/l2/recipes/bcc-2026-10-27-regular-agenda-packet-items.json"
+ },
+ "notices": [],
+ "contributed_by": "ericdf",
+ "archived": "2026-10-28"
+}

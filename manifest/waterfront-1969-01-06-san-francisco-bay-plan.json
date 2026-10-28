@@ -1,0 +1,19 @@
+{
+  "id": "waterfront-1969-01-06-san-francisco-bay-plan",
+  "layer": "L0",
+  "doc_type": "waterfront_document",
+  "collection": "waterfront",
+  "publisher": "San Francisco Bay Conservation and Development Commission",
+  "title": "San Francisco Bay Plan",
+  "document_date": "1969-01-06",
+  "file": "L0/sources/waterfront/waterfront-1969-01-06-san-francisco-bay-plan.pdf",
+  "sha256": "ec13f8188ff27aa3b083edfb5f82d045d5b6309dcc4559341906aab2aa660176",
+  "bytes": 14857028,
+  "source_url": null,
+  "source_note": "Scanned copy (BCDC scan, 2022) received by email from a private correspondent on 2026-10-26. The plan is printed January 1969; document date is the transmittal letter to the Governor and Legislature, January 6, 1969. The scan also contains Bay Plan Amendments No. 1 and No. 2 (Policy Amendment #1-71, adopted June 3, 1971; Policy Amendment #2, adopted January 4, 1973; 1971 plan map amendments) and Resolution No. 16, Priority Use Areas (transmitted November 30, 1971).",
+  "retrieved": null,
+  "archived": "2026-10-27",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

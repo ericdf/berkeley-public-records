@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-12-02-special-item-02-corrected-attachment-5-text",
+  "layer": "L1",
+  "doc_type": "supplemental_agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-12-02",
+  "meeting_label": "special",
+  "title": "Supplemental Agenda Material: Discussion Regarding Potential Ballot Measures for the November 3, 2026, General Municipal Election",
+  "file": "L1/staff-reports/bcc-2025-12-02-special-item-02-corrected-attachment-5-text.txt",
+  "sha256": "b94a15fd829127203abcd3fdb39bcd5b5cc51c9d2f2a2fd76ab54440bde63bd0",
+  "bytes": 68124,
+  "derived_from": {
+    "id": "bcc-2025-12-02-special-item-02-corrected-attachment-5",
+    "sha256": "4a4462dea83aa069a9db67c14db82cf721d0c27f32c7acd6d106fc10bca4f9fc"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-16"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "community-2026-03-31-trust-for-public-land-secures-option-on-former-golden-gate-fields-text",
+  "layer": "L1",
+  "doc_type": "third_party_publication_text",
+  "collection": "community",
+  "title": "Trust for Public Land Secures Option on Former Golden Gate Fields Site, Launching Effort in Partnership with East Bay Regional Park District to Transform 161-Acre Waterfront into Future East Bay Park (Trust for Public Land, press release)",
+  "file": "L1/third-party/community-2026-03-31-trust-for-public-land-secures-option-on-former-golden-gate-fields-text.txt",
+  "sha256": "321de7da428235ae2d74fde39511bda780a04bcfefbe340449d3b536ae4f5e45",
+  "bytes": 10665,
+  "derived_from": {
+    "id": "community-2026-03-31-trust-for-public-land-secures-option-on-former-golden-gate-fields",
+    "sha256": "77486b5473f66157d6a03ee1841f1b1dc78f17dcd928259c5982be703d48567a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <T0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2019-11-19-regular-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2019-11-19",
+  "meeting_label": "regular",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2019-11-19",
+  "file": "L1/annotated-agendas/bcc-2019-11-19-regular-annotated-agenda-text.txt",
+  "sha256": "687307f4eeca3c6dcee12cfd531bd5cfcc19b0b20bc82fee81111adbfaf8c2f5",
+  "bytes": 28307,
+  "derived_from": {
+    "id": "bcc-2019-11-19-regular-annotated-agenda",
+    "sha256": "be27d078b293e05d7ef623d8904d1f6e1817f5f5f184ecdb1855cb9d02bcea44"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

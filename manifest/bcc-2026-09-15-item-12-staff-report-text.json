@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-09-15-item-12-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-09-15",
+  "meeting_label": "regular",
+  "title": "Grant Application: Safe Routes to Transit and Bay Trail Program (SR2TBT)",
+  "file": "L1/staff-reports/bcc-2026-09-15-item-12-staff-report-text.txt",
+  "sha256": "189634679d7eaefd5288ce443e626ce961c87abf7b73afe3f68697e0c430d470",
+  "bytes": 12224,
+  "derived_from": {
+    "id": "bcc-2026-09-15-item-12-staff-report",
+    "sha256": "73010fae5547552ee5c7630760f6034560d182058869c7671ff209dc762da274"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-16"
+}

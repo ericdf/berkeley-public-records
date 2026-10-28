@@ -1,0 +1,19 @@
+{
+  "id": "peer-cities-2025-06-30-city-measures-since-1990",
+  "layer": "L0",
+  "doc_type": "peer_city_document",
+  "collection": "peer_cities",
+  "publisher": "City of Albany — City Clerk",
+  "title": "City Measures Since 1990",
+  "document_date": "2025-06-30",
+  "file": "L0/sources/peer_cities/peer-cities-2025-06-30-city-measures-since-1990.pdf",
+  "sha256": "c0abae947ba451f632577fa73c4f7fe1250dbecfc2758704762c2c98b496f9d6",
+  "bytes": 94503,
+  "source_url": "https://www.albanyca.gov/files/assets/city/v/1/administration/documents/city-measures-since-1990-2024.pdf",
+  "source_note": "Downloaded from source_url on 2026-10-20. No date is printed; the list runs through the November 2024 election and the PDF was created December 2024, and document_date is the end of that fiscal year (FY2024-25).",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

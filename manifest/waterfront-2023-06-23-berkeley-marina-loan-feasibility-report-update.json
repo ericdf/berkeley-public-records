@@ -1,0 +1,19 @@
+{
+  "id": "waterfront-2023-06-23-berkeley-marina-loan-feasibility-report-update",
+  "layer": "L0",
+  "doc_type": "waterfront_document",
+  "collection": "waterfront",
+  "publisher": "California Department of Parks and Recreation, Division of Boating and Waterways",
+  "title": "Berkeley Marina Loan Feasibility Report Update",
+  "document_date": "2023-06-23",
+  "meeting_date": "2023-06-23",
+  "file": "L0/sources/waterfront/waterfront-2023-06-23-berkeley-marina-loan-feasibility-report-update.pdf",
+  "sha256": "fc91559fd3bd653b47894f31d67861121327b89a3a48a4b8e4191b9a9b0169c0",
+  "bytes": 3373391,
+  "source_url": "https://dbw.parks.ca.gov/pages/28702/files/Berkeley%20Marina%20loan%20Feasibility%20Report%20Update%20-%206.20.2023_FINAL%20Remediated.pdf",
+  "retrieved": "2026-10-20",
+  "archived": "2026-10-20",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

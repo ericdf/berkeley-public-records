@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-2016-04-18-2035-general-plan-chapter-10-waterfront-element-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "2035 General Plan, Chapter 10: Waterfront Element",
+  "file": "L1/sources/peer_cities/peer-cities-2016-04-18-2035-general-plan-chapter-10-waterfront-element-text.txt",
+  "sha256": "dd383ac7c99c81af7fc5f935ccc2763d4303b3679dda9be0732cb5434e315f2b",
+  "bytes": 83327,
+  "derived_from": {
+    "id": "peer-cities-2016-04-18-2035-general-plan-chapter-10-waterfront-element",
+    "sha256": "98e1845c944065ec26e5ac99099b34b08305ec957e2ff3a33bce845901ce501b"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

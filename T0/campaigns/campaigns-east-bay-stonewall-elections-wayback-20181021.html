@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en" class="no-js ie6 "><![endif]-->
+<!--[if IE 7 ]><html lang="en" class="no-js ie7 "> <![endif]-->
+<!--[if IE 8 ]><html lang="en" class="no-js ie8 "> <![endif]-->
+<!--[if IE 9 ]><html lang="en" class="no-js ie9 "><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en" class="no-js "> <!--<![endif]-->
+  <head id="Head1"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"dee0e5b8c5","applicationID":"23370383","transactionName":"ZAYAZBQAXUNUVBBaX11MMkUEDVpTGmcRUVxaAE13Aw9WQlxUNFJXVjwtQg8GWl5UWw==","queueTime":0,"applicationTime":50,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUHU1JRChACV1JVBwIPVQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="viewport" content="width=device-width" />
+<link href="http://sf.wildapricot.org/BuiltTheme/treehouse2_purple.v3.1/current/b0653d1c/styles/combined.css" rel="stylesheet" type="text/css" /><link href="http://www.eastbaystonewalldemocrats.org/resources/theme/customStyles.css?t=636350911090000000" rel="stylesheet" type="text/css" /><link href="//sf.wildapricot.org/WebUI/built6.11.0.2666/css/shared/ui/shared-ui-compiled.css" rel="stylesheet" type="text/css" /><script type="text/javascript" language="javascript" id="idJavaScriptEnvironment">var bonaPage_BuildVer='6.11.0.2666';
+var bonaPage_AdminBackendUrl = '/admin/';
+var bonaPage_StatRes='http://sf.wildapricot.org/WebUI/';
+var bonaPage_InternalPageType = { isUndefinedPage : false,isWebPage : true,isAdminPage : false,isDialogPage : false,isSystemPage : false,isErrorPage : false,isError404Page : false };
+var bonaPage_PageView = { isAnonymousView : true,isMemberView : false,isAdminView : false };
+var WidgetMode = 0;
+var bonaPage_IsUserAnonymous = true;
+var bonaPage_ThemeVer='b0653d1c0636350911090000000'; var bonaPage_ThemeId = 'treehouse2_purple.v3.1'; var bonaPage_ThemeVersion = '3.1';
+var bonaPage_id='18062'; version_id='';
+try { function waMetricsGlobalHandler(args) { if (WA.topWindow.waMetricsOuterGlobalHandler && typeof(WA.topWindow.waMetricsOuterGlobalHandler) === 'function') { WA.topWindow.waMetricsOuterGlobalHandler(args); }}} catch(err) {}
+ try { if (parent && parent.BonaPage) parent.BonaPage.implementBonaPage(window); } catch (err) { }
+document.write('<style type="text/css"> .WaHideIfJSEnabled, .HideIfJSEnabled { display: none; } </style>');</script><script type="text/javascript" language="javascript" src="http://eastbaystonewall.wildapricot.org/f4fe5071/CheckHttpsAuthentication.aspx" id="idCheckHttpsAuthentication"></script><script type="text/javascript" language="javascript" src="//sf.wildapricot.org/WebUI/built6.11.0.2666/scripts/shared/bonapagetop/bonapagetop-compiled.js" id="idBonaPageTop"></script><script type="text/javascript" language="javascript" src="//sf.wildapricot.org/WebUI/built6.11.0.2666/scripts/shared/ui/shared-ui-compiled.js" id="idSharedJs"></script><script type="text/javascript" language="javascript" src="//sf.wildapricot.org/WebUI/built6.11.0.2666/General.js" id=""></script><script type="text/javascript" language="javascript" src="http://sf.wildapricot.org/BuiltTheme/treehouse2_purple.v3.1/current/b0653d1c/scripts/combined.js" id=""></script><title>East Bay Stonewall - Elections</title>
+<link rel="search" type="application/opensearchdescription+xml" title="www.eastbaystonewalldemocrats.org" href="/opensearch.ashx" /></head>
+  <body id="PAGEID_18062" class="publicContentView LayoutMain">
+<div class="mLayout layoutMain state1" id="mLayout">
+
+ <!-- header zone -->
+		<div class="zoneHeader1">
+			<div class="container_12">
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+<div id="idHeaderContentHolder" data-componentId="Header" class="WaPlaceHolder WaPlaceHolderHeader" style=""><div style="padding-top:0px;"><div id="id_8U9Qbfw" data-componentId="8U9Qbfw" class="WaLayoutContainerOnly" style="background-color:#FFFFFF;"><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style=""><tr data-componentId="8U9Qbfw_row" class="WaLayoutRow"><td id="id_fgK4EaS" data-componentId="fgK4EaS" class="WaLayoutItem" style="width:50%;"><div id="id_9XnfsIb" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="9XnfsIb" style=""><div style="padding-top:15px;"><div id="id_KxbYLDm" class="WaGadgetOnly WaGadgetContent  gadgetStyleNone" style="" data-componentId="KxbYLDm" ><div class="gadgetStyleBody gadgetContentEditableArea" style="padding-bottom:5px;" data-editableArea="0" data-areaHeight="auto">
+<h2 style="margin-top: 5px"><img src="/resources/Pictures/EBSDC_logo.jpg" alt="" title="" border="0" width="381" height="129"><br></h2>
+</div>
+</div></div></div></td><td style="width:0px;display:none;" data-componentId="fgK4EaS_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_hXhvehQ" data-componentId="hXhvehQ" class="WaLayoutItem" style="width:50%;"><div id="id_kLpWaYZ" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="kLpWaYZ" style=""><div style="padding-top:30px;"><div id="id_arwKHMK" class="WaGadgetOnly WaGadgetSiteSearch  gadgetStyle003" style="" data-componentId="arwKHMK" ><div class="gadgetStyleBody " style=""  data-areaHeight="auto">
+<div class="searchBoxOuter alignRight">
+	<div class="searchBox">
+<form method="post" action="http://www.eastbaystonewalldemocrats.org/Sys/Search" id="id_arwKHMK_form" class="generalSearchBox"  data-disableInAdminMode="true">
+<span class="searchBoxFieldContainer"><input class="searchBoxField" type="text" name="searchString" id="idid_arwKHMK_searchBox" value="" maxlength="300" autocomplete="off"  placeholder="Enter search string"></span>
+<div class="autoSuggestionBox" id="idid_arwKHMK_resultDiv"></div>
+</form></div>
+	</div>
+	<script type="text/javascript">
+		(function(){
+
+			function init()
+			{
+				var model = {};
+				model.gadgetId = 'idid_arwKHMK';
+				model.searchBoxId = 'idid_arwKHMK_searchBox';
+				model.resultDivId = 'idid_arwKHMK_resultDiv';
+				model.selectedTypes = '7';
+				model.searchTemplate = 'http://www.eastbaystonewalldemocrats.org/Sys/Search?q={0}&types={1}&page={2}';
+				model.searchActionUrl = '/Sys/Search/DoSearch';
+				model.GoToSearchPageTextTemplate = 'Search for &#39;{0}&#39;';
+				model.autoSuggest = true;
+				var WASiteSearch = new WASiteSearchGadget(model);
+			}
+
+			jq$(document).ready(init);
+		}) ();
+	</script>
+</div>
+</div></div></div></td></tr></table> </div></div>
+</div></div>
+			</div>
+		</div>
+		<div class="zoneHeader2">
+			<div class="container_12">
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+<div id="id_Header1" data-componentId="Header1" class="WaPlaceHolder WaPlaceHolderHeader1" style=""><div style="padding-top:0px;padding-bottom:0px;"><div id="id_yOhi7Wr" class="WaGadgetFirst WaGadgetMenuHorizontal  menuStyle008" style="" data-componentId="yOhi7Wr" ><div class="menuBackground"></div>
+<div class="menuInner">
+	<ul class="firstLevel">
+<li class=" ">
+	<div class="item">
+		<a href="http://www.eastbaystonewalldemocrats.org/" title="Home"><span>Home</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="http://www.eastbaystonewalldemocrats.org/Mission" title="About"><span>About</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="http://www.eastbaystonewalldemocrats.org/Bylaws" title="Bylaws"><span>Bylaws</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://www.eastbaystonewalldemocrats.org/Board" title="Board"><span>Board</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="http://www.eastbaystonewalldemocrats.org/join" title="Join"><span>Join</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="http://www.eastbaystonewalldemocrats.org/committees" title="Committees"><span>Committees</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://www.eastbaystonewalldemocrats.org/news" title="News"><span>News</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://www.eastbaystonewalldemocrats.org/events" title="Events"><span>Events</span></a>
+</div>
+</li>
+	
+<li class="sel dir">
+	<div class="item">
+		<a href="http://www.eastbaystonewalldemocrats.org/Elections" title="Elections"><span>Elections</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="http://www.eastbaystonewalldemocrats.org/Request-for-Endorsements" title="Request for Endorsements"><span>Request for Endorsements</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="http://www.eastbaystonewalldemocrats.org/Donate" title="Donate"><span>Donate</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="http://www.eastbaystonewalldemocrats.org/PAC" title="PAC"><span>PAC</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="http://www.eastbaystonewalldemocrats.org/Member-Login" title="Member Portal"><span>Member Portal</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+
+<script type="text/javascript">
+	jq$(function()
+	{
+		var gadgetHorMenu = jq$('#id_yOhi7Wr'),
+			gadgetHorMenuContainer = gadgetHorMenu.find('.menuInner'),
+			firstLevelMenu = gadgetHorMenu.find('ul.firstLevel'),
+			holderInitialMenu = firstLevelMenu.children(),
+			outsideItems = null,
+			phantomElement = '<li class="phantom"><div class="item"><a href="#"><span>&#x2261;</span></a><ul class="secondLevel"></ul></div></li>',
+			placeHolder = gadgetHorMenu.parents('.WaLayoutPlaceHolder'),
+			placeHolderId = placeHolder && placeHolder.attr('data-componentId'),
+			mobileState = false,
+			rsStateWidth2 = 617;
+
+		function resizeMenu()
+		{
+			var i,
+				len,
+				fitMenuWidth = 0,
+				menuItemPhantomWidth = 80;
+
+			// background track
+			gadgetHorMenu.find('.menuBackground').css(
+			{
+				'width': jq$('body').width(),
+				'left': ( ( jq$('body').width() - gadgetHorMenu.width() ) * -0.5 )
+			});
+
+			firstLevelMenu.html( holderInitialMenu).removeClass('adapted').css({ width: 'auto' }); // restore initial menu
+
+			if( !gadgetHorMenuContainer.find('.menuButton').size() )
+			{
+				gadgetHorMenuContainer.prepend('<div class="menuButton"></div>');
+
+				gadgetHorMenuContainer.find('.menuButton').on("click",function()
+				{
+					gadgetHorMenuContainer.find('ul.firstLevel').toggle();
+					return false;
+				});
+
+				jq$('body').on("click",function()
+				{
+					if( mobileState )
+						gadgetHorMenuContainer.find('ul.firstLevel').hide();
+				});
+			}
+
+			// for state 3
+			if( jq$(window).width() < rsStateWidth2 && mobileState == false )
+			{
+				gadgetHorMenuContainer.find('ul.firstLevel').attr('style','');
+				mobileState = true;
+
+				return false;
+			}
+
+			if( jq$(window).width() >= rsStateWidth2 )
+			{
+				gadgetHorMenuContainer.find('ul.firstLevel').attr('style','');
+				mobileState = false;
+			}
+
+
+			if( firstLevelMenu.width() > gadgetHorMenuContainer.width() ) // if menu oversize
+			{
+				menuItemPhantomWidth = firstLevelMenu.addClass('adapted').append( phantomElement).children('.phantom').width();
+
+				for( i = 0, len = holderInitialMenu.size(); i <= len; i++ )
+				{
+					fitMenuWidth += jq$( holderInitialMenu.get(i) ).width();
+
+					if( fitMenuWidth + menuItemPhantomWidth > gadgetHorMenuContainer.width() )
+					{
+						outsideItems = firstLevelMenu.children(':gt('+(i-1)+'):not(.phantom)').remove();
+						firstLevelMenu.find('.phantom > .item > ul').append( outsideItems);
+						break;
+					}
+				}
+				gadgetHorMenu.find('.phantom > .item > a').click(function(){ return false; });
+			}
+
+			firstLevelMenu.css( 'width', '' ); // restore initial menu width
+			firstLevelMenu.children().removeClass('last-child').eq(-1).addClass('last-child'); // add last-child mark
+		}
+
+		resizeMenu();
+
+		jq$(window).resize(function()
+		{
+			resizeMenu();
+		});
+
+		function onLayoutColumnResized(sender, args)
+		{
+			args = args || {};
+
+			if (placeHolderId && (placeHolderId == args.leftColPlaceHolderId || placeHolderId == args.rightColPlaceHolderId))
+			{
+				resizeMenu();
+			}
+		}
+
+		BonaPage.addPageStateHandler(BonaPage.PAGE_PARSED, function() { WA.Gadgets.LayoutColumnResized.addHandler(onLayoutColumnResized); });
+		BonaPage.addPageStateHandler(BonaPage.PAGE_UNLOADED, function() { WA.Gadgets.LayoutColumnResized.removeHandler(onLayoutColumnResized); });
+
+
+		var supportTouch = !!(('ontouchstart' in window) || (window.DocumentTouch && document instanceof DocumentTouch) || (navigator.msPointerEnabled && navigator.msMaxTouchPoints));
+
+		if( supportTouch )
+		{
+			jq$('#id_yOhi7Wr').find('.menuInner li.dir > .item > a').on( 'click', function(event)
+			{
+				if( !this.touchCounter )
+					this.touchCounter = 0;
+
+				if( this.touchCounter >= 1 )
+				{
+					this.touchCounter = 0;
+					return true;
+				}
+				this.touchCounter++;
+				
+				if (!mobileState)
+				{
+					WA.stopEventDefault(event);
+				}
+			});
+
+			jq$('#id_yOhi7Wr').find('.menuInner li.dir > .item > a').on( 'mouseout', function(event)
+			{
+				if( !this.touchCounter )
+					this.touchCounter = 0;
+				this.touchCounter = 0;
+			});
+		}
+
+
+	});
+</script></div><div id="id_GsQDnbD" class="WaGadgetLast WaGadgetBreadcrumbs  gadgetStyleNone" style="" data-componentId="GsQDnbD" ><div class="gadgetStyleBody " style=""  data-areaHeight="auto">
+<ul>
+<li><a href="http://www.eastbaystonewalldemocrats.org/">Home</a></li>
+<li class="last">Elections</li>
+</ul>
+</div>
+</div></div>
+</div></div>
+			</div>
+		</div>
+		<div class="zoneHeader3">
+			<div class="container_12">
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+<div id="id_Header2" data-componentId="Header2" class="WaPlaceHolder WaPlaceHolderHeader2" style=""><div style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;"><div id="id_J4ZwKq2" data-componentId="J4ZwKq2" class="WaLayoutContainerFirst" style=""><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style=""><tr data-componentId="J4ZwKq2_row" class="WaLayoutRow"><td id="id_hM57fen" data-componentId="hM57fen" class="WaLayoutItem" style="width:50%;"></td><td style="" data-componentId="hM57fen_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_lzradUC" data-componentId="lzradUC" class="WaLayoutItem" style="width:50%;"></td></tr></table> </div><div id="id_9KF5hfy" data-componentId="9KF5hfy" class="WaLayoutContainer" style=""><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style=""><tr data-componentId="9KF5hfy_row" class="WaLayoutRow"><td id="id_5e2iFLr" data-componentId="5e2iFLr" class="WaLayoutItem" style="width:50%;"></td><td style="" data-componentId="5e2iFLr_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_xq9sWrC" data-componentId="xq9sWrC" class="WaLayoutItem" style="width:50%;"></td></tr></table> </div><div id="id_8Koznzv" data-componentId="8Koznzv" class="WaLayoutContainerLast" style=""><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style=""><tr data-componentId="8Koznzv_row" class="WaLayoutRow"><td id="id_TJiYopq" data-componentId="TJiYopq" class="WaLayoutItem" style="background-color:#FFFFFF;width:100%;"><div id="id_t4xMwei" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="t4xMwei" style=""><div style=""><div id="id_VvdrqIG" class="WaGadgetFirst WaGadgetContent  gadgetStyle003" style="" data-componentId="VvdrqIG" ><div class="gadgetStyleTitle" style=" "><h4 class="gadgetTitleH4">
+Elections</h4></div>
+<div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<p style="line-height: 21px;"><font style="font-size: 18px;"><font>The East Bay Stonewall Democratic Club actively promotes Democratic candidates who are committed to equality for all and to protecting the interests of the LGBT community.&nbsp;&nbsp;</font><br>
+<br>
+<a href="/join-us"><font color="#7743A8"><strong>Become an East Bay Stonewall member</strong></font></a><font>&nbsp;and you will be invited to participate in candidate forums throughout the election season and be given the opportunity to vote on endorsements (provided you become a member at least 7 days prior to an endorsement meeting).&nbsp;</font><br>
+<br>
+<font>East Bay Stonewall encourages all who are eligible to REGISTER TO VOTE!&nbsp;</font><a href="http://www.sos.ca.gov/elections/elections_vr.htm"><font color="#7743A8"><strong>Click here</strong></font></a><font>&nbsp;to register to vote.</font></font></p>
+</div>
+</div><div id="id_IjWKHnx" class="WaGadget WaGadgetContent  gadgetStyleNone" style="background-color:#5D3069;" data-componentId="IjWKHnx" ><div class="gadgetStyleBody gadgetContentEditableArea" style="padding-top:10px;padding-bottom:10px;padding-left:10px;" data-editableArea="0" data-areaHeight="auto">
+<p><font style="font-size: 24px;" color="#ffffff">2018 Club Endorsements</font></p></div>
+</div><div id="id_jai9lC8" class="WaGadget WaGadgetContent  gadgetStyleNone" style="" data-componentId="jai9lC8" ><div class="gadgetStyleBody gadgetContentEditableArea" style="padding-left:20px;" data-editableArea="0" data-areaHeight="auto">
+<p style="font-family: Arial; line-height: 16px;"><strong style="font-size: 18px;">November 2018 Endorsements</strong></p>
+
+<p style="line-height: 22px;"><font style="font-size: 16px;"><strong><u>STATE ASSEMBLY</u></strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">CA Assembly District 15 -&nbsp;<strong>No Endorsement</strong><br></font></p>
+
+<p style="line-height: 10px;"><strong><u><font style="font-size: 16px;"><br></font></u></strong></p>
+
+<p style="line-height: 10px;"><font style="font-size: 16px;"><strong><u>MAYORAL</u></strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Oakland Mayor -&nbsp;<strong>Libby Schaaf</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Alameda Mayor -&nbsp;<strong>Marilyn Ezzy Ashcraft</strong><br></font></p>
+
+<p style="line-height: 10px;"><font style="font-size: 16px;"><br></font></p>
+
+<p style="line-height: 16px;"><strong><u><font style="font-size: 16px;">CITY COUNCIL</font></u></strong></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Alameda City Council -&nbsp;<strong>Jim Oddie</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Berkeley City Council, District 1 -&nbsp;<strong>No Endorsement</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Berkeley City Council, District 4 -&nbsp;<strong>No Endorsement</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Berkeley City Council, District 7 -<strong>&nbsp;No Endorsement</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;"><font style="font-size: 16px;">Berkeley City Council, District 8:&nbsp;<strong>Lori Droste&nbsp;</strong></font></font></p>
+
+<p><font style="font-family: Arial; font-size: 16px;">Dublin City Council -&nbsp;<strong>Shawn Kumagai</strong></font><br></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Emeryville City Council -&nbsp;<strong>Dianne Martinez</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Fremont City Council, District 1 -&nbsp;<strong>No Endorsement</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Fremont City Council, District 3 -&nbsp;<strong>No Endorsement</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Fremont City Council, District 4 -&nbsp;<strong>Debra Watanuki</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;"><font style="font-size: 16px;">Oakland City Council, District 2:&nbsp;</font><strong><font style="font-size: 16px;">Abel Guillén&nbsp;</font></strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Oakland City Council, District 4 -&nbsp;<strong>No Endorsement</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Oakland City Council, District 6 -&nbsp;<strong>No Endorsement</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Piedmont City Council -&nbsp;<strong>Timothy Rood</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">San Leandro City Council, District 1 -&nbsp;<strong>No Endorsement</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">San Leandro City Council, District 5 -<strong>&nbsp;Corina Lopez</strong><br></font></p>
+
+<p style="line-height: 10px;"><strong><font style="font-size: 16px;"><br></font></strong></p>
+
+<p style="line-height: 16px;"><strong><u><font style="font-size: 16px;">BOARDS &amp; OTHER RACES</font></u></strong></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Oakland Auditor -<strong>&nbsp;Courtney Ruby</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Berkeley Rent Board -&nbsp;</font><strong style="font-size: 16px;">James Chang&nbsp;</strong></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Peralta Comm. College District 5 -&nbsp;<strong>No Endorsement</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Alameda Unified School District -&nbsp;<strong>Mia Bonta</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Berkeley School Directors -&nbsp;<strong>Ty Alper and Julie Sinai</strong><strong><br></strong></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Fremont Unified School Board -&nbsp;<strong>Dianne Jones</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Oakland Unified School Board, District 4 -&nbsp;<strong>No Endorsement</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">San Leandro Unified School Board, District 6 -&nbsp;<strong>James Aguilar</strong><br></font></p>
+
+<p style="line-height: 10px;"><font style="font-size: 16px;"><br></font></p>
+
+<p style="line-height: 16px;"><strong><u><font style="font-size: 16px;">MEASURES</font></u></strong></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Oakland Measure Z -&nbsp;<strong>YES</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Oakland Measure AA -&nbsp;<strong>YES</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Peralta Community College District Measures E &amp; G -<strong>&nbsp;YES</strong><br></font></p>
+
+<p style="line-height: 16px;"><font style="font-size: 16px;">Emeryville Measure S -<strong>&nbsp;YES</strong></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font style="font-size: 16px;"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="WaContentDivider WaContentDivider divider_style_border_solid" style="border-top-width: 1px;" data-wacomponenttype="ContentDivider"></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font style="font-size: 16px;"><span><strong>June 2018 Primary Club Endorsements</strong></span></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font style="font-size: 16px;"><font><span>Secretary of State:&nbsp;</span><strong style="color: rgb(34, 34, 34); font-family: Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif;">Alex Padilla</strong></font><br></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font color="#222222" face="Arial, Helvetica Neue, Helvetica, sans-serif" style="font-size: 16px;">State Treasurer:&nbsp;<strong>Fiona Ma</strong></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font color="#222222" face="Arial, Helvetica Neue, Helvetica, sans-serif" style="font-size: 16px;">State Controller:&nbsp;<strong>Betty Yee</strong><br>
+<br>
+State Insurance Commissioner:&nbsp;<strong>Richard Lara</strong><br>
+<br>
+State Superintendent of Public Education:&nbsp;<strong>Tony Thurmond</strong><br>
+<br>
+State Board of Equalization, 2nd District:&nbsp;<strong>Malia Cohen</strong></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font color="#222222" face="Arial, Helvetica Neue, Helvetica, sans-serif" style="font-size: 16px;">U.S. Congress CA District 13:&nbsp;<strong>Barbara Lee</strong></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font color="#222222" face="Arial, Helvetica Neue, Helvetica, sans-serif" style="font-size: 16px;">Alameda County Superior Court, Seat 11:&nbsp;<strong>Judge Tara Flanagan</strong></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font color="#222222" face="Arial, Helvetica Neue, Helvetica, sans-serif" style="font-size: 16px;">Alameda County Board of Education Trustee, Area 1:&nbsp;<strong>Joaquin Rivera</strong><br></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font color="#222222" face="Arial, Helvetica Neue, Helvetica, sans-serif" style="font-size: 16px;">Alameda County Auditor:&nbsp;<strong>Irella Blackwood</strong><br></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font color="#222222" face="Arial, Helvetica Neue, Helvetica, sans-serif" style="font-size: 16px;">Regional Measure 3 (Bridge Tolls):&nbsp;<strong>Vote NO</strong></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font color="#222222" face="Arial, Helvetica Neue, Helvetica, sans-serif" style="font-size: 16px;">Alameda County Measure A (Early Child Education):&nbsp;<strong>Vote YES</strong></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font color="#222222" face="Arial, Helvetica Neue, Helvetica, sans-serif" style="font-size: 16px;">Emeryville Measure C (Affordable Housing):&nbsp;<strong>Vote YES</strong></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font color="#222222" face="Arial, Helvetica Neue, Helvetica, sans-serif" style="font-size: 16px;">Oakland Measure D (Library Services):&nbsp;<strong>Vote YES</strong></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font color="#222222" face="Arial, Helvetica Neue, Helvetica, sans-serif" style="font-size: 16px;"><br></font></p>
+
+<p style="font-family: Arial; line-height: 16px;"><font color="#222222" face="Arial, Helvetica Neue, Helvetica, sans-serif" style="font-size: 16px;">While the club also voted on the Alameda County District Attorney, Assembly District 15 and Alameda County Assessor races, no candidate reached the 60% threshold.</font></p>
+
+<div>
+  <strong style="font-size: 16px;"><br></strong>
+</div>
+</div>
+</div><div id="id_23vYpTJ" class="WaGadget WaGadgetContent  gadgetStyle003" style="" data-componentId="23vYpTJ" ><div class="gadgetStyleTitle" style=" "><h4 class="gadgetTitleH4">
+2016 Club Endorsements</h4></div>
+<div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<p style="line-height: 21px;"><strong><font style="font-size: 18px;">September 21 - Endorsements for the November 8 General Election</font></strong></p>
+
+<p style="line-height: 21px;"><font style="font-size: 18px;">On September 21st, 2016 the East Bay Stonewall Democratic Club held its general election endorsement meeting for all qualified candidates for the November 8, 2016 election at the&nbsp;<strong>Sports Basement,&nbsp;2727 Milvia St, Berkeley, CA 94703</strong>&nbsp;from&nbsp;<strong>5:30 &#8211; 7:30 pm</strong>.</font></p>
+
+<p style="line-height: 21px;"><font style="font-size: 18px;">Candidate questionnaires that were submitted for our endorsement process are available&nbsp;<a href="/blog/questionnaires-of-candidates-being-considered-for-an-endorsement-on-august-31-for-the-november-8-election"><font color="#7743A8">here:&nbsp;http://www.eastbaystonewalldemocrats.org/blog/questionnaires-of-candidates-being-considered-for-an-endorsement-on-august-31-for-the-november-8-election</font></a></font></p>
+
+<p style="line-height: 21px;"><font style="font-size: 18px;">The following candidates were officially endorsed by the club</font></p>
+
+<ul style="line-height: 21px;">
+  <li><strong><font style="font-size: 18px;">Scott Jackson for Judge</font></strong></li>
+
+  <li><strong><font style="font-size: 18px;">Lynette Gibson McElhaney for Oakland City Council</font></strong></li>
+
+  <li><strong><font style="font-size: 18px;">Dan Kalb for Oakland City Council District 1</font></strong></li>
+
+  <li><strong><font style="font-size: 18px;">Susan Wengraf for Berkeley City Council</font></strong></li>
+</ul>
+
+<p style="line-height: 21px;"><strong><font style="font-size: 18px;"><br></font></strong></p><p style="line-height: 21px;"><strong><font style="font-size: 18px;">August 17 - Early Endorsement Meeting</font></strong></p>
+
+<p style="line-height: 21px;"><font style="font-size: 18px;">Questionnaires completed for the August 17 Early Endorsement Meeting can be found here:&nbsp;<a href="/blog/lgbtq-candidates-early-endorsement-meeting-questionnaires"><font color="#7743A8">http://www.eastbaystonewalldemocrats.org/blog/lgbtq-candidates-early-endorsement-meeting-questionnaires</font></a></font></p>
+
+<p style="line-height: 21px;"><font style="font-size: 18px;">The following candidates were endorsed at the August 17 Early Endorsement Meeting. In order to receive an endorsement by the club, candidates must have had received at least 60% of the votes.:</font></p>
+
+<ul style="line-height: 21px;">
+  <li><strong><font style="font-size: 18px;">Peggy Moore - Oakland City Council At-Large</font></strong></li>
+
+  <li><strong><font style="font-size: 18px;">Darryl Moore - Berkeley City Council District 2</font></strong></li>
+
+  <li><strong><font style="font-size: 18px;">Judy Appel - Berkeley School Board</font></strong></li>
+
+  <li><strong><font style="font-size: 18px;">Rebecca Saltzman - BART Board of Directors</font></strong></li>
+
+  <li><strong><font style="font-size: 18px;">Dollene C. Jones - AC Transit</font></strong></li>
+
+  <li><strong><font style="font-size: 18px;">Daniel Chesmore - East Bay Regional Parks District 4</font></strong></li>
+
+  <li><strong><font style="font-size: 18px;">John Bauters - Emeryville City Council</font></strong></li>
+
+  <li><strong><font style="font-size: 18px;">Pablo Benavente - Concord City Council</font></strong></li>
+
+  <li><strong><font style="font-size: 18px;">Cesar Zapeda - Richmond City Council</font></strong></li>
+</ul>
+
+<p style="line-height: 21px;"><strong><font style="font-size: 18px;"><br></font></strong></p><p style="line-height: 21px;"><strong><font style="font-size: 18px;">March 30 - Endorsements for the June 7 California Primary</font></strong></p>
+
+<p style="line-height: 21px;"><font style="font-size: 18px;">On March 30th, 2016, East Bay Stonewall Democratic Club members voted to endorse the following candidates for the June 2016 primary. Candidates must have had received at least 60% of the votes for an endorsement.</font></p>
+
+<p style="line-height: 21px;"><font style="font-size: 18px;">List of endorsed candidates:</font></p>
+
+<ul style="line-height: 21px;">
+  <li><font style="font-size: 18px;"><strong>Congress, District 13:&nbsp;</strong>Barbara Lee</font></li>
+
+  <li><font style="font-size: 18px;"><strong>Congress, District 15:&nbsp;</strong>Eric Swalwell</font></li>
+
+  <li><font style="font-size: 18px;"><strong>U.S. Senate:&nbsp;</strong>Kamala Harris</font></li>
+
+  <li><font style="font-size: 18px;"><strong>CA State Senate, District 9:&nbsp;</strong>Nancy Skinner</font></li>
+
+  <li><font style="font-size: 18px;"><strong>CA State Assembly, District 15:&nbsp;</strong>Tony Thurmond</font></li>
+
+  <li><font style="font-size: 18px;"><strong>CA State Assembly, District 16:&nbsp;</strong>Cheryl Cook-Kallio</font></li>
+
+  <li><font style="font-size: 18px;"><strong>CA State Assembly, District 18:&nbsp;&nbsp;</strong>Rob Bonta</font></li>
+
+  <li><font style="font-size: 18px;"><strong>Alameda Country Supervisor, District 4:&nbsp;</strong>Nate Miley</font></li>
+
+  <li><font style="font-size: 18px;"><strong>Alameda Superior Court Judge, Seat 14:&nbsp;</strong>Margaret Fujioka</font></li>
+
+  <li><font style="font-size: 18px;"><strong>Alameda Superior Court:&nbsp;</strong>Vicky Kolakowski</font></li>
+</ul>
+
+<p><br></p>
+</div>
+</div><div id="id_wmPgLAS" class="WaGadgetLast WaGadgetContent  gadgetStyle003" style="" data-componentId="wmPgLAS" ><div class="gadgetStyleTitle" style=" "><h4 class="gadgetTitleH4">
+2015 Club Endorsements</h4></div>
+<div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<ul style="line-height: 21px;"><li><font style="font-size: 18px;">Susan Bonilla (CA District 7)</font></li></ul></div>
+</div></div></div></td></tr></table> </div></div>
+</div></div>
+			</div>
+		</div>
+		<!-- /header zone -->
+
+<!-- content zone -->
+	<div class="zoneContent">
+		<div class="container_12">
+			<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+</div>
+		</div>
+	</div>
+	<!-- /content zone -->
+
+<!-- footer zone -->
+		<div class="zoneFooter1">
+			<div class="container_12">
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+<div id="idFooterContentHolder" data-componentId="Footer" class="WaPlaceHolder WaPlaceHolderFooter" style=""><div style=""><div id="id_ezXYAgS" class="WaGadgetFirst WaGadgetContent  gadgetStyleNone" style="" data-componentId="ezXYAgS" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<p align="center">East Bay Stonewall Democratic Club. P.O. Box 386, Berkeley, CA 94701&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact us at: <font style="font-size: 16px;" face="Times New Roman,serif"><a href="mailto:eastbaystonewalldems@gmail.com">eastbaystonewalldems@gmail.com</a></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br></p>
+</div>
+</div><div id="id_H4c9dPi" class="WaGadgetLast WaGadgetSocialProfile  gadgetStyleNone" style="" data-componentId="H4c9dPi" ><div class="gadgetStyleBody " style=""  data-areaHeight="auto">
+<ul class="orientationHorizontal alignLeft">
+
+<li>
+				<a href="https://www.facebook.com/EastBayStonewall" title="Facebook" target="_blank"><img height="30" witdh="30" src="http://sf.wildapricot.org/BuiltTheme/treehouse2_purple.v3.1/current/b0653d1c/Gadgets/SocialProfile/Images/icon-facebook.png" /></a>
+			</li>
+<li>
+				<a href="https://twitter.com/EBStonewallDems" title="Twitter" target="_blank"><img height="30" witdh="30" src="http://sf.wildapricot.org/BuiltTheme/treehouse2_purple.v3.1/current/b0653d1c/Gadgets/SocialProfile/Images/icon-twitter.png" /></a>
+			</li>
+<li>
+				<a href="https://www.instagram.com/ebstonewalldems/" title="Instagram" target="_blank"><img height="30" witdh="30" src="http://sf.wildapricot.org/BuiltTheme/treehouse2_purple.v3.1/current/b0653d1c/Gadgets/SocialProfile/Images/icon-instagram.png" /></a>
+			</li>
+</ul>
+
+</div>
+</div></div>
+</div></div>
+			</div>
+		</div>
+		<div class="zoneFooter2">
+			<div class="container_12">
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+</div>
+			</div>
+		</div>
+		<div class="zoneFooter3">
+			<div class="container_12">
+				<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+</div>
+			</div>
+		</div>
+
+<div class="WABranding">
+				<div class="container_12">
+					<div class="s1_grid_12 s2_grid_12 s3_grid_12">
+<div id="idFooterPoweredByContainer">
+	<span id="idFooterPoweredByWA">
+Powered by <a href="http://www.wildapricot.com" target="_blank">Wild Apricot</a> Membership Software</span>
+</div>
+</div>
+				</div>
+			</div>
+<!-- /footer zone -->
+
+</div></body>
+</html>
+<script type="text/javascript">if (window.BonaPage && BonaPage.setPageState) { BonaPage.setPageState(BonaPage.PAGE_PARSED); }</script>

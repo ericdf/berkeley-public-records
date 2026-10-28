@@ -1,0 +1,21 @@
+{
+  "id": "community-2026-10-01-the-state-of-recreational-access-to-the-san-francisco-bay-2026-annual-text",
+  "layer": "L1",
+  "doc_type": "third_party_publication_text",
+  "collection": "community",
+  "title": "The State of Recreational Access to The San Francisco Bay: 2026, Annual Site Access Audit (San Francisco Boardsailing Association)",
+  "file": "L1/third-party/community-2026-10-01-the-state-of-recreational-access-to-the-san-francisco-bay-2026-annual-text.txt",
+  "sha256": "02468a9b4b5a1c8b1a0e2acfb8e6c00f97bd76e0d65db0ca7a36bfa9b67cb55f",
+  "bytes": 107701,
+  "derived_from": {
+    "id": "community-2026-10-01-the-state-of-recreational-access-to-the-san-francisco-bay-2026-annual",
+    "sha256": "d97d6a8d797b70d3fdf101927a85c3e35c81d952a008f969003fd2cafb75b80e"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <T0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "peer-cities-2026-07-20-full-text-of-measure-ordinance-no-2026-08-an-ordinance-amending-text",
+  "layer": "L1",
+  "doc_type": "peer_city_document_text",
+  "collection": "peer_cities",
+  "title": "Full Text of Measure, Ordinance No. 2026-08: An Ordinance Amending Chapter 4 Section 4-10 of the Albany Municipal Code to Update the City's Street Paving and Storm Drain Facility Improvement Special Tax",
+  "file": "L1/sources/peer_cities/peer-cities-2026-07-20-full-text-of-measure-ordinance-no-2026-08-an-ordinance-amending-text.txt",
+  "sha256": "d8409c9e6eb720c3375dda39cae36dbdc9231b7cdd05475af2da21cd0bb71260",
+  "bytes": 28352,
+  "derived_from": {
+    "id": "peer-cities-2026-07-20-full-text-of-measure-ordinance-no-2026-08-an-ordinance-amending",
+    "sha256": "4581f59adda1372dfa3b5de5184f02ac5f83b5d71aa5d1d26722a7eec9e532be"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-20"
+}

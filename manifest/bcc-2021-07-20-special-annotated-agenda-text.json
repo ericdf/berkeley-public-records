@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2021-07-20-special-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2021-07-20",
+  "meeting_label": "special",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2021-07-20",
+  "file": "L1/annotated-agendas/bcc-2021-07-20-special-annotated-agenda-text.txt",
+  "sha256": "2b7f6ff16f62862545f9722f576885198bb21b7fb556c2f43ac36d1950e48d60",
+  "bytes": 8830,
+  "derived_from": {
+    "id": "bcc-2021-07-20-special-annotated-agenda",
+    "sha256": "da5408582c6dc6ebb18b8fbcceb8af69ed92f345281ab59ed663620739e79de2"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

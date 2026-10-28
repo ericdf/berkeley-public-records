@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2019-10-22-special-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2019-10-22",
+  "meeting_label": "special",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2019-10-22",
+  "file": "L1/annotated-agendas/bcc-2019-10-22-special-annotated-agenda-text.txt",
+  "sha256": "07b033522959db29fca22e095766ed198344a76441027a20fa518b6d3b52ca5f",
+  "bytes": 3292,
+  "derived_from": {
+    "id": "bcc-2019-10-22-special-annotated-agenda",
+    "sha256": "bb6032699b5ca7b64f4c46816d91e2d4dda24fe10141c223dbb4b64de51cfd6d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-26"
+}

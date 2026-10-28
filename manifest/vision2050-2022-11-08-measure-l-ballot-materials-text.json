@@ -1,0 +1,21 @@
+{
+  "id": "vision2050-2022-11-08-measure-l-ballot-materials-text",
+  "layer": "L1",
+  "doc_type": "ballot_measure_record_text",
+  "collection": "vision2050",
+  "title": "Measure L — Bond Measure (ballot question, City Attorney's impartial analysis, measure text, arguments and rebuttals), November 8, 2022 election",
+  "file": "L1/sources/vision2050/vision2050-2022-11-08-measure-l-ballot-materials-text.txt",
+  "sha256": "7d7fc3df5fc92f220f781d7cf626bcb3c1b6066de65316b6b1f0e9a4dc649312",
+  "bytes": 35663,
+  "derived_from": {
+    "id": "vision2050-2022-11-08-measure-l-ballot-materials",
+    "sha256": "f1540ba2951c0e80bec4ffec20f9c9c7fb997789308fe2b7e04fdfa8cfaf0db0"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-16"
+}

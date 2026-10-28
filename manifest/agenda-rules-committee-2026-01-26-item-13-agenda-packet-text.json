@@ -1,0 +1,23 @@
+{
+  "id": "agenda-rules-committee-2026-01-26-item-13-agenda-packet-text",
+  "layer": "L1",
+  "doc_type": "agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Agenda & Rules Committee",
+  "meeting_date": "2026-01-26",
+  "title": "Berkeley City Council Agenda & Rules Committee Special Meeting Agenda Packet, January 26, 2026",
+  "file": "L1/staff-reports/agenda-rules-committee-2026-01-26-item-13-agenda-packet-text.txt",
+  "sha256": "6062855b18e03cd81e439c60069f6e7973b3375a65db842eb53ecfaa0b924c7e",
+  "bytes": 85842,
+  "derived_from": {
+    "id": "agenda-rules-committee-2026-01-26-item-13-agenda-packet",
+    "sha256": "c90b11b260971aca54569bae863d9db3f076aac74a8ae2c02f620e4043c966a7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-19"
+}
