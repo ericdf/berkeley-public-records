@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-10-27-item-31-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-10-27",
+  "meeting_label": "regular",
+  "title": "Audit Status Report: 2009 Leases Audit Follow-Up",
+  "file": "L1/staff-reports/bcc-2026-10-27-item-31-staff-report-text.txt",
+  "sha256": "d8b9deb71df9b4183fb9a54eb05b38a0a8719a305060e1cfee43b3d784525f24",
+  "bytes": 42228,
+  "derived_from": {
+    "id": "bcc-2026-10-27-item-31-staff-report",
+    "sha256": "105927b6fcd57e1fe3229295382fa38f35aee2c7c95a84ec57ec7087972ee389"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-16"
+}
