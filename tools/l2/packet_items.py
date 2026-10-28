@@ -25,7 +25,8 @@ An agenda item with no material in the packet has "pages": null.
 
 The recipe (tools/l2/recipes/<id>.json) names the L2 id, the output path, and the packet's L1
 text id. --check rebuilds and compares with the archived file. --new writes the recipe, the
-index and its manifest entry for a packet whose L1 text is already archived.
+index and its manifest entry for a packet whose L1 text is already archived; it never replaces
+an archived index (an identical rerun changes nothing, a different one is refused).
 """
 import datetime, hashlib, json, os, re, sys
 
@@ -159,6 +160,17 @@ def write_new(text_id, contributor, root=ROOT, today=None):
     recipe_rel = f"tools/l2/recipes/{lid}.json"
     recipe = {"id": lid, "file": rel, "text": text_id}
     data, n = build(recipe, root)
+    existing = os.path.join(root, "manifest", lid + ".json")
+    if os.path.exists(existing):
+        with open(existing) as f:
+            old = json.load(f)
+        if old.get("sha256") == hashlib.sha256(data).hexdigest():
+            return lid, n
+        raise SystemExit(f"{lid} is already archived with a different index; an archived record is not "
+                         f"replaced. Rebuild with --check, or add a new index under a new id")
+    for path in (rel, recipe_rel):
+        if os.path.exists(os.path.join(root, path)):
+            raise SystemExit(f"{path} exists without a manifest entry for {lid}; remove it or resolve by hand")
     for path, body in ((recipe_rel, (json.dumps(recipe, indent=1) + "\n").encode()), (rel, data)):
         os.makedirs(os.path.dirname(os.path.join(root, path)), exist_ok=True)
         with open(os.path.join(root, path), "wb") as f:

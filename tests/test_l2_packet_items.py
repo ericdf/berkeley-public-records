@@ -109,6 +109,19 @@ class NewAndCheck(unittest.TestCase):
         self.assertEqual(hashlib.sha256(data).hexdigest(), e["sha256"])
         self.assertEqual(json.loads(data)["packet"], "bcc-2026-10-27-regular-agenda-packet")
 
+    def test_new_never_replaces_an_archived_index(self):
+        tid = "bcc-2026-10-27-regular-agenda-packet-text"
+        lid, _ = pk.write_new(tid, "ericdf", self.root, "2026-10-28")
+        path = os.path.join(self.root, "manifest", lid + ".json")
+        before = read_json(path)
+        pk.write_new(tid, "someone-else", self.root, "2026-11-30")      # identical rerun: no change
+        self.assertEqual(read_json(path), before)
+        changed = dict(before, sha256="0" * 64)
+        write(path, json.dumps(changed))
+        with self.assertRaisesRegex(SystemExit, "not replaced"):
+            pk.write_new(tid, "ericdf", self.root, "2026-11-30")
+        self.assertEqual(read_json(path), changed)
+
 
 class ArchivedIndexesReproduce(unittest.TestCase):
     def test_every_archived_index_reproduces(self):

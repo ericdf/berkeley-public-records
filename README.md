@@ -145,8 +145,9 @@ directly:
 
 ## Catalog of City meetings and recordings
 
-`catalog/` lists records the City publishes that this archive does **not** hold. It is kept
-apart from the manifest so "archived and fingerprinted" never blurs into "known to exist".
+`catalog/` lists what the City publishes, whether or not the archive holds it; the manifest
+alone lists what the archive holds. The two are kept apart so "archived and fingerprinted"
+never blurs into "known to exist".
 
 - **`catalog/city-council-agendas/meetings.json`** lists every City Council meeting on the City's
   agenda page (<https://berkeleyca.gov/your-government/city-council/city-council-agendas>), back
