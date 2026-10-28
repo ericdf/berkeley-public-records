@@ -7,14 +7,18 @@
   "relevance": "Professional finance-practice guidance on capital planning, cited in discussion of Berkeley's capital program and the November 2026 Measure U bond.",
   "title": "Multi-Year Capital Planning (GFOA best practice)",
   "document_date": "2022-09-23",
-  "file": "T0/gfoa/gfoa-multi-year-capital-planning.html",
+  "file": null,
   "sha256": "3b51854b30ab2bbd17c62d3a97ff776e1672c36bfe472ebe41ae47f99ca992ae",
   "bytes": 234971,
   "source_url": "https://www.gfoa.org/materials/multi-year-capital-planning",
   "source_note": "Web page saved as served (HTML) on 2026-10-13; document_date is the board approval date printed on it.",
   "retrieved": "2026-10-13",
   "archived": "2026-10-13",
-  "wayback_url": null,
+  "wayback_url": "https://web.archive.org/web/20260630180748/https://www.gfoa.org/materials/multi-year-capital-planning",
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "withdrawn": {
+    "date": "2026-10-28",
+    "reason": "copyright: the publisher's text is not redistributed; read it at source_url or wayback_url. sha256 and bytes identify the copy that was archived."
+  }
 }

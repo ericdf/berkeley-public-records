@@ -10,10 +10,10 @@
   "file": "T0/campaigns/campaigns-2024-bnhca-questionnaire-tregub.pdf",
   "sha256": "e8b96994f6491ec005ca2a4bcac8c310dde209de65df2c8d0a5f40735e277365",
   "bytes": 70519,
-  "source_url": null,
+  "source_url": "https://bnhca.org/questionnaires/2024/Tregub%202024.pdf",
   "archived": "2026-09-30",
   "wayback_url": null,
   "notices": [],
   "contributed_by": "ericdf",
-  "source_note": "Supplied by the maintainer, August 3, 2026; how it was obtained was not recorded. Date is the PDF creation date."
+  "source_note": "Published by BNHCA at source_url; the file served there on 2026-10-28 matches this sha256. Date is the PDF creation date."
 }

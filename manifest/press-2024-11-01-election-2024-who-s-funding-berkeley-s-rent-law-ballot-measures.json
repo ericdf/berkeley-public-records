@@ -7,7 +7,7 @@
   "relevance": "News coverage of Berkeley mayoral, City Council and ballot-measure elections.",
   "title": "Election 2024: Who's funding Berkeley's rent law ballot measures? (Berkeleyside, Alex N. Gecan)",
   "document_date": "2024-11-01",
-  "file": "T0/press/press-2024-11-01-election-2024-who-s-funding-berkeley-s-rent-law-ballot-measures.html",
+  "file": null,
   "sha256": "a9f560cb79225bc3681325c123f7a537518ba5c5294b817a4a0553fa89281b34",
   "bytes": 265477,
   "source_url": "https://www.berkeleyside.org/2024/11/01/measure-bb-measure-cc-campaign-finance-national-association-of-realtors-uaw/",
@@ -15,5 +15,9 @@
   "archived": "2026-10-23",
   "wayback_url": "https://web.archive.org/web/20241101182607/https://www.berkeleyside.org/2024/11/01/measure-bb-measure-cc-campaign-finance-national-association-of-realtors-uaw/",
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "withdrawn": {
+    "date": "2026-10-28",
+    "reason": "copyright: the publisher's text is not redistributed; read it at source_url or wayback_url. sha256 and bytes identify the copy that was archived."
+  }
 }

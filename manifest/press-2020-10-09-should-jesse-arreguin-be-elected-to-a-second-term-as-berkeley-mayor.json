@@ -7,7 +7,7 @@
   "relevance": "News coverage of Berkeley mayoral, City Council and ballot-measure elections.",
   "title": "Should Jesse Arreguin be elected to a second term as Berkeley mayor? (Berkeleyside)",
   "document_date": "2020-10-09",
-  "file": "T0/press/press-2020-10-09-should-jesse-arreguin-be-elected-to-a-second-term-as-berkeley-mayor.html",
+  "file": null,
   "sha256": "0fd41e4238e552d4861fe35c6a9503576ffeafa2e5763f99673f27074304486a",
   "bytes": 130060,
   "source_url": "https://www.berkeleyside.com/2020/10/09/jesse-arreguin-mayor-race-berkeley-ca/",
@@ -15,5 +15,9 @@
   "archived": "2026-10-23",
   "wayback_url": "https://web.archive.org/web/20201012181151/https://www.berkeleyside.com/2020/10/09/jesse-arreguin-mayor-race-berkeley-ca/",
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "withdrawn": {
+    "date": "2026-10-28",
+    "reason": "copyright: the publisher's text is not redistributed; read it at source_url or wayback_url. sha256 and bytes identify the copy that was archived."
+  }
 }

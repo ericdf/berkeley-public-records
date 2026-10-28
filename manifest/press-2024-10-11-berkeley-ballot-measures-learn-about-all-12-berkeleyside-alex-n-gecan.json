@@ -7,7 +7,7 @@
   "relevance": "News coverage of Berkeley mayoral, City Council and ballot-measure elections.",
   "title": "Berkeley ballot measures: Learn about all 12 (Berkeleyside, Alex N. Gecan)",
   "document_date": "2024-10-11",
-  "file": "T0/press/press-2024-10-11-berkeley-ballot-measures-learn-about-all-12-berkeleyside-alex-n-gecan.html",
+  "file": null,
   "sha256": "0dd2a7d76a2fc3a7f82eb2b89ed04f4f57efbbf9bf0d9b913fd1b7c71890be05",
   "bytes": 427702,
   "source_url": "https://www.berkeleyside.org/2024/10/11/berkeley-ballot-measures-2024-election/",
@@ -15,5 +15,9 @@
   "archived": "2026-10-23",
   "wayback_url": "https://web.archive.org/web/20241029030737/https://www.berkeleyside.org/2024/10/11/berkeley-ballot-measures-2024-election/",
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "withdrawn": {
+    "date": "2026-10-28",
+    "reason": "copyright: the publisher's text is not redistributed; read it at source_url or wayback_url. sha256 and bytes identify the copy that was archived."
+  }
 }

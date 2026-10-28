@@ -7,14 +7,18 @@
   "relevance": "Professional finance-practice guidance on grants policies, cited in discussion of Berkeley's grant-funded capital projects and programs.",
   "title": "Establishing an Effective Grants Policy (GFOA best practice)",
   "document_date": "2013-02-28",
-  "file": "T0/gfoa/gfoa-establishing-an-effective-grants-policy.html",
+  "file": null,
   "sha256": "b3e773c7883e90ef6a0491940360e45c6ec386d94c1154131f0b65e123ece1bf",
   "bytes": 236200,
   "source_url": "https://www.gfoa.org/materials/establishing-an-effective-grants-policy",
   "source_note": "Web page saved as served (HTML) on 2026-10-13; document_date is the board approval date printed on it.",
   "retrieved": "2026-10-13",
   "archived": "2026-10-13",
-  "wayback_url": null,
+  "wayback_url": "https://web.archive.org/web/20260516120805/https://www.gfoa.org/materials/establishing-an-effective-grants-policy",
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "withdrawn": {
+    "date": "2026-10-28",
+    "reason": "copyright: the publisher's text is not redistributed; read it at source_url or wayback_url. sha256 and bytes identify the copy that was archived."
+  }
 }
