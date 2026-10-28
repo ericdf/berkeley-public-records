@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2026-09-29-special-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-09-29",
+  "meeting_label": "special",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2026-09-29",
+  "file": "L1/annotated-agendas/bcc-2026-09-29-special-annotated-agenda-text.txt",
+  "sha256": "7cc21384d7be9a3d90c40c7e4b8730a79062a153740fbd6890ca905812acf7da",
+  "bytes": 8836,
+  "derived_from": {
+    "id": "bcc-2026-09-29-special-annotated-agenda",
+    "sha256": "a84078f0746448cc081911ea423c2e66b3783e93fb333f295667837788ce38f6"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-28"
+}

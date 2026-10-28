@@ -1,0 +1,22 @@
+{
+  "id": "bcc-2025-06-17-regular-annotated-agenda-v2",
+  "layer": "L0",
+  "doc_type": "annotated_agenda",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-06-17",
+  "meeting_label": "regular",
+  "publisher": "City of Berkeley — City Clerk Department",
+  "title": "Annotated Agenda — Berkeley City Council regular meeting, 2025-06-17",
+  "document_date": "2025-06-17",
+  "revision_of": "bcc-2025-06-17-regular-annotated-agenda",
+  "version_note": "The City replaced the file without labeling the change: its agenda page now links this file in place of https://berkeleyca.gov/sites/default/files/city-council-meetings/2025-06-17%20Annotated%20Agenda%20-%20Council.pdf, which still serves the earlier version (bcc-2025-06-17-regular-annotated-agenda). Found 2026-10-28.",
+  "file": "L0/annotated-agendas/bcc-2025-06-17-regular-annotated-agenda-v2.pdf",
+  "sha256": "993b1af73ba56f487f72243a6189ec76bc25b765974327d5aa213818ca9857ed",
+  "bytes": 387697,
+  "source_url": "https://berkeleyca.gov/sites/default/files/city-council-meetings/2025-06-17%20Annotated%20Agenda%20-%20Council_0.pdf",
+  "retrieved": "2026-10-28",
+  "archived": "2026-10-28",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
