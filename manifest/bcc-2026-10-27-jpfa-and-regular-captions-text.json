@@ -1,0 +1,25 @@
+{
+  "id": "bcc-2026-10-27-jpfa-and-regular-captions-text",
+  "layer": "L1",
+  "doc_type": "council_captions_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-10-27",
+  "meeting_label": "JPFA and Regular",
+  "title": "BCC 2026-10-27 JPFA and Regular Captioning",
+  "file": "L1/council-captions/bcc-2026-10-27-jpfa-and-regular-captions-text.txt",
+  "sha256": "ab504e63b9c35f40b6212f52de4a6e8f396a37398060d869705e93c74fc16782",
+  "bytes": 169537,
+  "derived_from": {
+    "id": "bcc-2026-10-27-jpfa-and-regular-captions",
+    "sha256": "f96d30bbe6c446a7c8c18399992bfa4e569237e4f4ccb1dc568ac8ce8a291b63"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [
+    "This information provided by Zoom. The City of Berkeley cannot certify the following text since we did not create it."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-28"
+}
