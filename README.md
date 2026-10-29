@@ -10,26 +10,35 @@ record, check it, and stop depending on City web links that break.
 **This archive contains records, not arguments.** Nothing here scores, grades, characterizes,
 or interprets anyone. Analysis belongs in each contributor's own work.
 
-Access is by invitation. The repository is private; the documents in it are public records.
+The repository is public: anyone may read, clone and use it. Adding to it is by invitation: the
+maintainer and approved contributors add records directly. Anyone else can offer a document
+through a GitHub Issue.
 
 ## How to contribute
 
-**Pull requests are the only way in.** Do not email documents to the maintainer; there is one
+**This repository is the only way in.** Do not email documents to the maintainer; there is one
 ingest path, and it is this repository.
 
 **Contributing takes some skill, or a willingness to learn it.** "I'm not technical" is not an
 exemption: if you can upload a file to Google Drive, you can do this. GitHub's website and the
 automated checks do the technical work; an AI assistant pointed at `AGENTS.md` can do the rest.
 
+**Approved contributors** have write access, given by the maintainer's invitation:
+
 1. Accept the GitHub invitation, and read this README: it is the contribution policy.
-2. Open a pull request that adds the document and its manifest entry (`manifest/<id>.json`):
-   its fingerprint, and either its `source_url` or a `source_note` saying how and when you
-   obtained it — for example, "Requested in person from the City Clerk; received 2026-09-12."
-3. `tools/validate.py` runs on every pull request and must pass. Run it locally first.
-4. For your own public-records requests, add the request to the queue by pull request; its
-   documents are archived once the City publishes it (see "Public-records requests").
-5. Questions, suggestions, and requests for what to add next go in a
-   [GitHub Issue](../../issues), not email.
+2. Add the document and its manifest entry (`manifest/<id>.json`): its fingerprint, and either
+   its `source_url` or a `source_note` saying how and when you obtained it — for example,
+   "Requested in person from the City Clerk; received 2026-09-12." The inbox does this for you
+   ([inbox/README.md](inbox/README.md), [AGENTS.md](AGENTS.md)).
+3. Run `tools/validate.py` before you commit; it must pass. Commit to `main` directly, or open a
+   pull request if you want a second look first. CI runs the validator on every push to `main`
+   and every pull request, and checks each new public-body document against its source.
+4. For your own public-records requests, add the request to the queue; its documents are
+   archived once the City publishes it (see "Public-records requests").
+
+**Anyone else** can offer a document through a [GitHub Issue](../../issues) (a "Large file" Issue
+for a file over 25 MB); the maintainer archives it. Questions, suggestions, and requests for what
+to add next go in an Issue too, not email.
 
 ---
 
@@ -58,16 +67,30 @@ apart so no one mistakes one for the other.
   not what it shows.
 - The same provenance rules apply: `source_url`, or a `source_note` saying how it was obtained.
 - L1 text may be derived from T0 documents, as from L0.
-- Copyright stays with the publisher. The archive is private to invited collaborators; if it is
-  ever made public, T0 holdings are reviewed first.
+- Copyright stays with the publisher. **Press and professional publications** (news articles,
+  trade and professional associations' papers, and the like) are not redistributed: they are
+  recorded as reference-only entries (below). **Campaign, advocacy and community material**,
+  published to be circulated, is kept in full. T0 holdings were reviewed on these lines before
+  the archive was made public.
+- T0 is never uploaded to the Internet Archive or the archive's Google Drive as an external
+  blob.
 
-### Withdrawn documents
+### Withdrawn and reference-only documents
 
-The maintainer may withdraw the bytes of a T0 document whose publisher's text should not be
-redistributed, such as a news article. A withdrawn entry stays in the manifest: `file` becomes
-`null`, `sha256` and `bytes` still identify the copy that was archived, and `withdrawn` records
-the `date` and `reason`. The entry keeps `source_url` or `wayback_url`, so a reader can still
-find the document. Its L1 text is withdrawn with it. `tools/validate.py` enforces this.
+A withdrawn entry stays in the manifest without its bytes: `file` is `null`, `sha256` and
+`bytes` identify the copy that was examined, and `withdrawn` records the `date` and `reason`.
+The entry keeps `source_url` or `wayback_url`, so a reader can still find the document, and a
+copy found anywhere can be checked against the fingerprint. Its L1 text is withdrawn with it.
+`tools/validate.py` enforces this.
+
+- **Reference-only from the start.** A press or professional publication is added this way:
+  the contributor downloads it to fingerprint it, records `sha256`, `bytes`, `source_url` and
+  a `wayback_url` (requesting a Wayback Machine capture if none exists), adds no file, and sets
+  `withdrawn` to the date added and a reason such as "copyright: the publisher's text is not
+  redistributed; read it at source_url or wayback_url." The entry is written by hand
+  ([AGENTS.md](AGENTS.md)).
+- **Withdrawing bytes the archive already holds** is the maintainer's decision, for a T0
+  document whose publisher's text should not be redistributed.
 
 ### Current holdings
 
@@ -78,7 +101,7 @@ find the document. Its L1 text is withdrawn with it. `tools/validate.py` enforce
 | Berkeley City Council agenda packets, with an L2 index of each packet's items by page (collection open; none archived yet) | L0 external blob, L1 text, L2 index | `manifest/` only for the PDF; `L1/agenda-packets/`, `L2/agenda-packets/` |
 | City budgets, audits, financial statements and policies, investment reports, Measure T1 and 2026 ballot-measure records, labor contracts, and related reports | L0 PDF, L1 text | `L0/sources/<collection>/`, `L1/sources/<collection>/` |
 | Agenda item reports: Berkeley City Council staff reports, individual items mostly from December 2024 through 2026 with some from 2010–2024, some supplemental agenda material and presentations, and individual items from Council policy committees and City commissions (the manifest's `body` names the body); not a complete set | L0 PDF, L1 text | `L0/staff-reports/`, `L1/staff-reports/` |
-| Published third-party documents: a 2011 AABPCN community report, a 2025 Berkeleyside article on the SCU transfer, a 2024 candidate questionnaire | T0 PDF, L1 text | `T0/<collection>/`, `L1/third-party/` |
+| Published third-party documents: campaign and endorsement material from Berkeley elections since 2018, candidate questionnaires, speeches, and community reports, kept in full; press and GFOA publications as reference-only entries | T0, L1 text | `T0/<collection>/`, `L1/third-party/` |
 
 Two caption transcripts (the April 16 and April 23, 2026 Budget Committee meetings) exist
 only as text; their source PDFs were not retained. Their manifest entries say so.
@@ -124,12 +147,14 @@ trusting whoever added a file.
 | `document_date` | The date printed on the document; `"undated"` only for a T0 page that prints none, recorded with `wayback_url` or `retrieved` |
 | `derived_from` | L1–L3: the `id` and `sha256` of the document it was derived from |
 | `extraction` | L1: the tool, version, and command that produced it |
-| `blob` | External copies, for files not stored in git (below) |
+| `blob` | External copies: for files not stored in git, and the Internet Archive copy of L0 with no public source (below) |
+| `approved_by` | L0 with no `source_url`: the GitHub username of the contributor who approved its publication to the Internet Archive |
+| `withdrawn` | For an entry whose bytes are not held: `date` and `reason` (above) |
 | `notices` | Disclaimers printed on or attached to the document, verbatim |
 | `cpra` | Records obtained by public-records request: `request_id`, `document_id`, `document_url`, `upload_date`, `redacted_date`, `department` |
 | `contributed_by` | GitHub username of the contributor |
 
-`tools/validate.py` checks all of this, and the public-records queue, on every pull request.
+`tools/validate.py` checks all of this, and the public-records queue, on every push and pull request.
 The tools' tests run there too: `python3 -m unittest discover -s tests`.
 
 ---
@@ -137,19 +162,33 @@ The tools' tests run there too: `python3 -m unittest discover -s tests`.
 ## Storage
 
 **Git (this repository on GitHub) is the archive.** It is the only place documents are added or
-changed, the only place contributions are made (by pull request), and the only copy people share
-from. The manifest in git defines what the archive contains.
+changed, the only place contributions are made, and the only copy people share from. The
+manifest in git defines what the archive contains.
+
+**This repository holds no credentials, and no workflow here ever will.** Anyone who can push to
+a GitHub repository can read its Actions secrets, and this one has several writers. The
+credentials for the archive's storage accounts are held only in the **ops repository**, a
+private repository the archive maintainer controls and alone writes, which runs the **daily
+archive job**. The job reads `main`, makes the archive's own external copies, records them in
+the manifest, and refreshes the mirror. The archive's tools stay here, public and tested; the
+ops repository only runs them with the credentials.
 
 Everything else is storage, checked against the manifest's fingerprints and never edited
 directly:
 
 - **External blobs** — files too large for git, stored in two independent places (below).
 - **A backup mirror** of every git-tracked file, in the archive account's Google Drive folder
-  `berkeley-public-records-mirror`, refreshed from a clean checkout of `main` by
-  `tools/mirror_to_drive.sh`. It records the commit it mirrors in `MIRRORED_COMMIT.txt`. It
-  exists so the archive survives the loss of GitHub access. **Do not add files to the Drive
-  folders or share from them**; anything placed there is not part of the archive and is
-  overwritten by the next mirror run.
+  `berkeley-public-records-mirror`, refreshed daily from `main` by the daily archive job with
+  `tools/mirror_to_drive.sh`. It records the commit it mirrors in `MIRRORED_COMMIT.txt`, and
+  removes files git no longer tracks, so a withdrawal reaches it. It exists so the archive
+  survives the loss of GitHub access. **Do not add files to the Drive folders or share from
+  them**; anything placed there is not part of the archive and is removed by the next mirror run.
+
+### Reading is not recorded
+
+The archive keeps no record of who reads or downloads it. GitHub shows the repository's writers
+only aggregate traffic for the past 14 days (views, clones, referring sites), never who visited.
+The Internet Archive publishes download counts for its items.
 
 ## Catalog of City meetings and recordings
 
@@ -201,7 +240,7 @@ forever. The rules:
 
 - **In git:** files up to **25 MB**, and every L1–L3 file.
 - **External blob:** any L0 file over 25 MB, and bulk collections (such as full meeting
-  packets) regardless of size.
+  packets) regardless of size. T0 is never an external blob.
 
 An external blob is stored in **at least two independent places**, and its manifest entry has
 `"file": null` and a `blob` field listing them:
@@ -214,6 +253,29 @@ An external blob is stored in **at least two independent places**, and its manif
   ]
 }
 ```
+
+### Staged landing
+
+Landing a record is separate from preserving it, so no one waits for the archive's copies to
+use a new record, and no contributor needs the archive's credentials.
+
+1. The contributor puts the file in their own Google Drive and shares it as **"anyone with the
+   link can view"**. It is a public record, so a public link exposes nothing new.
+2. In the inbox, the document's `.json` gives that link as `staged_url`.
+   `tools/process_inbox.py`, run locally, writes the manifest entry with `"file": null` and one
+   copy of store `staged` (`url`, `filename`, `staged_by`, `staged_on`), writes the L1 text,
+   and moves the file out of the repository. The contributor commits.
+3. From that commit on, anyone can fetch the file from the staged link and check it against the
+   manifest's sha256.
+4. The next run of the daily archive job fetches the staged file and checks its sha256. When the
+   entry's `source_url` is on an approved source host (below), it also downloads from there and
+   requires the same fingerprint. It then copies the file to the archive's Google Drive and
+   uploads it to the Internet Archive, both as the archive account.
+5. The job records the Drive copy, verified, and removes the staged copy. A later run checks the
+   Internet Archive copy once the item is public and records `verified` on it.
+
+Anyone without write access offers a large file through a "Large file" Issue instead, and the
+maintainer archives it with `tools/ingest_large.py`.
 
 1. **Internet Archive (archive.org)**, uploaded as an item named
    `berkeley-public-records-<id>`. Free, public, permanent URLs, and run by an institution
@@ -231,17 +293,49 @@ not to any contributor's personal account:
 | Internet Archive | archive.org user `berkeleypublicrecords@gmail.com` | `internet_archive` |
 | Google Drive | `berkeleypublicrecords@gmail.com`, folder `berkeley-public-records-blobs`; files must be uploaded as (and owned by) that account | `google_drive` |
 
-Access to both accounts must be recoverable by more than one person.
+Uploads to both are made by the daily archive job, under the rules on this page, or by the
+maintainer with `tools/ingest_large.py --upload`. No one else uploads to them, and nothing is
+added to them by hand. Access to both accounts must be recoverable by more than one person; an
+approved contributor is a recovery contact.
 
 The `sha256` in the manifest is the guarantee, not any store. A copy is good if and only if
-its fingerprint matches. The validator checks every in-repo file's fingerprint on every pull
-request; maintainers check external copies periodically.
+its fingerprint matches. The validator checks every in-repo file's fingerprint on every push
+and pull request; the daily archive job checks every copy it makes.
 
-**A blob is merged only when both copies are verified.** Each copy records `verified`, the date
-its sha256 was checked against a fresh download. The Google Drive copy is verified at upload.
-The Internet Archive copy can be checked only once the item is public, so the large-file pull
-request is opened as a draft and stays one until `tools/ingest_large.py --verify-ia <id>` has
-checked it; the validator refuses any blob copy without a `verified` date.
+**A blob lands with a staged copy or a verified archive copy.** Each archive copy records
+`verified`, the date its sha256 was checked against a fresh download. The Google Drive copy is
+verified when it is made. The Internet Archive copy can be checked only once the item is public,
+so it may wait with `verified: null`; `tools/validate.py` lists every entry still awaiting the
+job, and `tools/ingest_large.py --verify-ia pending` checks them.
+
+### Approved source hosts
+
+`registry/source-hosts.json` lists web hosts whose documents are treated as published by a
+public body: the City of Berkeley's sites, the Berkeley Unified School District, the State of
+California (`.ca.gov`) and United States government domains (`.gov`). Each entry names the host,
+the public body, and whether subdomains are included. Any approved contributor may add a host;
+every change is a recorded commit.
+
+- When a new L0 entry kept in git has its `source_url` on an approved host, CI downloads it again
+  and requires the same sha256 (`tools/check_sources.py`). A mismatch is an error; a download
+  that fails is a warning, so an outage elsewhere never blocks a contribution.
+- The daily archive job does the same before it uploads an external blob.
+- A document from any other host is still welcome. It is handled as having no public source to
+  check against.
+
+### Records with no public source
+
+Some L0 records are not posted anywhere: caption transcripts the City Clerk sends by email,
+certified copies, filings provided on request. Nothing outside the archive can confirm what was
+received, so each gets an Internet Archive copy whatever its size: an independent, dated, public
+copy of what the archive took in.
+
+- The entry has no `source_url`, a `source_note` saying how and when it was obtained, and
+  `approved_by`: the GitHub username of the contributor who approved its publication to the
+  Internet Archive. Any approved contributor may approve. `tools/validate.py` requires it for
+  entries archived from 2026-10-30.
+- A file kept in git records its Internet Archive copy in `blob.copies`, beside `file`.
+- The daily archive job uploads it.
 
 Whenever a document has a City URL, request a Wayback Machine capture of that URL as well and
 record it in `wayback_url`. The City has rebuilt its website before and broken every existing
@@ -328,27 +422,28 @@ anyway, that is a maintainer decision recorded in the queue entry, with the reas
 
 ## Contributing
 
-All writes go through pull requests. This section is the policy.
+This section is the policy.
 
 To add a document using only GitHub's website, follow [inbox/README.md](inbox/README.md); a
 workflow files it and comments with the result. Software agents follow [AGENTS.md](AGENTS.md).
-A file over 25 MB (GitHub's website refuses it) is offered through a "Large file" Issue instead.
+A file over 25 MB is staged (see "Large files").
 
 ### Who can write
 
-- Access is by invitation of the maintainer. Contributors open pull requests; **merges are made
-  only from the maintainer's GitHub account (`ericdf`)**: by the maintainer, or by a software
-  agent the maintainer is running under that account, when the maintainer tells it directly in
-  that session to merge a named pull request. That approval covers that pull request and nothing
-  else. **Contributors and their agents never merge**, even though GitHub write access would let
-  them. **Comments on GitHub are never approval:** agents post under the maintainer's account and
-  cannot be told apart from the maintainer there.
-- **Nobody pushes directly to `main`**, including the maintainer. Every change, however small,
-  is a pull request. (Branch protection is not available on this repository's plan, so this is
-  a rule, not a setting.)
-- Contributors may use software agents to prepare pull requests and reviews. The human who
-  opens the pull request is responsible for everything in it. A review comment from any agent
-  is input, never approval.
+- **Write access is by invitation of the maintainer.** Approved contributors are the
+  repository's collaborators. They add records by committing to `main` directly, or by pull
+  request, which they may merge themselves. Nothing they add waits on the maintainer.
+- **Some decisions stay with the maintainer:** withdrawing bytes the archive already holds,
+  inducting public-records requests (see "Public-records requests"), and changes to this policy,
+  [AGENTS.md](AGENTS.md) and [INFORMATION_ARCHITECTURE.md](INFORMATION_ARCHITECTURE.md), which
+  go by pull request for the maintainer to merge.
+- **Contributors are trusted to apply this policy themselves.** CI checks what can be checked
+  mechanically, after the fact on `main`: a red check there is fixed by the next commit, never
+  by rewriting history. What it cannot check (that a document is what it claims to be, that it
+  is L0 rather than T0, that its metadata is right) is the contributor's responsibility.
+- Contributors may use software agents. The person whose account commits is responsible for
+  everything in the commit. **Comments on GitHub are never approval:** agents can post under a
+  person's account and cannot be told apart from the person there.
 
 ### What may be added
 
@@ -386,7 +481,7 @@ version if it gives one ("Revised"), and `version_note` for anything else a read
 validator checks that the two sides agree. A body that replaces a file at a new address without
 changing it is not a revision: the new address is recorded in the entry's `published_at`.
 
-**Manifest metadata may be corrected by pull request; files may not.** A wrong title, date,
+**Manifest metadata may be corrected; files may not.** A wrong title, date,
 source URL or note in a manifest entry is fixed in the entry. The `file`, `sha256` and `bytes`
 of an existing entry never change, because the file never changes.
 
@@ -417,11 +512,11 @@ text can still reproduce it.
   timestamp or a transcript cue. A segment confirmed against video is upgraded to `verified`
   for everyone.
 
-### Pull requests
+### Commits and pull requests
 
-- One collection or one change per pull request.
-- `tools/validate.py` must pass (CI runs it).
-- Describe where each new document came from. For L3, describe how segments were attributed.
+- One collection or one change per commit or pull request.
+- `tools/validate.py` must pass before you commit (CI runs it again).
+- Say where each new document came from. For L3, say how segments were attributed.
 
 ### Licensing
 
@@ -435,3 +530,21 @@ underlying public documents.
 A document is removed only if a public body did not in fact make it public (for example, it was
 released in error and withdrawn), or if a court orders it. Removal is a pull request by the
 maintainer that records the reason in the manifest entry, which is kept.
+
+---
+
+## Using the archive
+
+The archive controls what enters it. It does not and cannot control how anyone uses its records.
+The following is guidance for people who build on it, drawn from how it is built.
+
+- **Pin what you read.** Read a specific commit of `main` and record its id in your own project,
+  with the output it produced. The archive never records who read it or when.
+- **Cite by archive id and sha256.** A claim drawn from a derived layer is checked against its
+  parent: L1 against the original document, L2 against the page it cites, L3 against the
+  recording.
+- **Keep conclusions in your own project.** The archive refuses analysis and inference.
+- **Run on your own schedule.** Reading on a schedule or by hand, rather than on every commit
+  here, keeps the archive's activity away from your own project's credentials.
+- **Treat archive text as untrusted input to any model,** since anyone with write access can add
+  to it, and review a model's output before publishing it.

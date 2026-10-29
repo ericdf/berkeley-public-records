@@ -6,6 +6,9 @@ Exit status 1 on any error. See README.md for the rules enforced here.
 """
 import hashlib, json, os, re, sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import source_hosts  # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LAYERS = ("L0", "T0", "L1", "L2", "L3")
 ORIGINALS = ("L0", "T0")   # documents as published: public bodies (L0), third parties (T0)
@@ -25,6 +28,15 @@ QUEUE_REQUIRED = {"id", "request_date", "state", "visibility", "published", "dep
 REQUEST_ID_RE = re.compile(r"^\d{2}-\d+$")
 # Queue decisions are made only by the maintainer (README, "Public-records requests").
 MAINTAINERS = {"ericdf"}
+# External blob copies (README, "Large files"). A staged copy is the contributor's own, reachable
+# by anyone with its link, until the daily archive job makes the archive's copies.
+ARCHIVE_STORES = ("internet_archive", "google_drive")
+BLOB_STORES = ARCHIVE_STORES + ("staged",)
+DRIVE_LINK_RE = re.compile(r"^https://drive\.google\.com/(file/d/[A-Za-z0-9_-]{10,}|open\?id=[A-Za-z0-9_-]{10,})")
+LOGIN_RE = re.compile(r"^[A-Za-z0-9](?:[A-Za-z0-9-]{0,38})$")
+# L0 with no public source archived from this date names who approved its Internet Archive copy
+# (README, "Records with no public source"). Earlier entries predate the rule.
+APPROVAL_FROM = "2026-10-30"
 errors = []
 
 def err(where, msg): errors.append(f"{where}: {msg}")
@@ -41,8 +53,85 @@ def load_speakers():
     reg = json.load(open(p))
     return {s["id"] for s in reg["officeholders"]} | {s["id"] for s in reg["staff_roles"]}
 
+def blob_errors(e):
+    """Problems with an external blob's copies (file null). It needs a staged copy, or an archive
+    copy whose sha256 has been checked. The Google Drive copy is checked when it is made; the
+    Internet Archive copy can be checked only once the item is public, so it may wait."""
+    copies = (e.get("blob") or {}).get("copies") or []
+    out = copy_errors(copies, BLOB_STORES)
+    if not copies:
+        out.append("external blob needs at least one copy: a staged copy, or the archive's copies")
+    elif not any(c.get("store") == "staged" or (c.get("store") in ARCHIVE_STORES and DATE_RE.match(str(c.get("verified") or "")))
+                 for c in copies if isinstance(c, dict)):
+        out.append("external blob needs a staged copy or a verified archive copy")
+    if any(isinstance(c, dict) and c.get("store") == "staged" for c in copies) and e["layer"] != "L0":
+        out.append("only L0 documents are staged; T0 is never uploaded to the archive's stores")
+    return out
+
+
+def in_git_copy_errors(e):
+    """A file kept in git may also carry an Internet Archive copy: L0 with no public source does
+    (README, "Records with no public source")."""
+    copies = (e.get("blob") or {}).get("copies") or []
+    out = copy_errors(copies, ("internet_archive",))
+    if e["layer"] != "L0":
+        out.append("only L0 files kept in git carry an Internet Archive copy")
+    if not copies:
+        out.append("blob needs copies, or remove it")
+    return out
+
+
+def copy_errors(copies, stores):
+    out, seen = [], set()
+    if not isinstance(copies, list):
+        return ["blob.copies must be a list"]
+    for c in copies:
+        if not isinstance(c, dict) or c.get("store") not in stores:
+            out.append(f"blob copy store must be one of {list(stores)}"); continue
+        s = c["store"]
+        if s in seen:
+            out.append(f"more than one {s} copy")
+        seen.add(s)
+        if c.get("verified") is not None and not DATE_RE.match(str(c["verified"])):
+            out.append(f"{s} copy: verified must be YYYY-MM-DD")
+        if s == "google_drive" and not DATE_RE.match(str(c.get("verified") or "")):
+            out.append("google_drive copy is not verified; it is checked by download when it is made")
+        if s == "staged":
+            if not DRIVE_LINK_RE.match(str(c.get("url") or "")):
+                out.append("staged copy needs url, a Google Drive file link shared as \"anyone with the link can view\"")
+            if not LOGIN_RE.match(str(c.get("staged_by") or "")):
+                out.append("staged copy needs staged_by, the GitHub username of who staged it")
+            if not DATE_RE.match(str(c.get("staged_on") or "")):
+                out.append("staged copy needs staged_on (YYYY-MM-DD)")
+    return out
+
+
+def pending_preservation(e):
+    """True while the daily archive job still has work on this entry: a staged copy to replace,
+    or an Internet Archive copy not yet checked."""
+    copies = (e.get("blob") or {}).get("copies") or []
+    return any(isinstance(c, dict) and (c.get("store") == "staged" or
+               (c.get("store") == "internet_archive" and not c.get("verified"))) for c in copies)
+
+
+def approval_errors(e):
+    """L0 with no public source is published to the Internet Archive on someone's approval
+    (README, "Records with no public source"); approved_by names them."""
+    out = []
+    a = e.get("approved_by")
+    if a is not None and not LOGIN_RE.match(str(a)):
+        out.append("approved_by must be a GitHub username")
+    if (e["layer"] == "L0" and not e.get("source_url") and str(e.get("archived") or "") >= APPROVAL_FROM
+            and a is None and not e.get("withdrawn")):
+        out.append("L0 with no source_url needs approved_by: the GitHub username of the contributor who "
+                   "approved publishing it to the Internet Archive")
+    if a is not None and (e["layer"] != "L0" or e.get("source_url")):
+        out.append("approved_by is only for L0 with no source_url")
+    return out
+
+
 def main():
-    manifest, files_listed = {}, {}
+    manifest, files_listed, pending = {}, {}, []
     mdir = os.path.join(ROOT, "manifest")
     for name in sorted(os.listdir(mdir)):
         if not name.endswith(".json"):
@@ -72,6 +161,8 @@ def main():
             err(where, "T0 needs publisher (who published it) and relevance (the public decision it bears on)")
         if e["layer"] in ORIGINALS and not e.get("source_url") and not e.get("source_note"):
             err(where, "L0 needs source_url or source_note")
+        for m in approval_errors(e):
+            err(where, m)
         if e["layer"] in ("L1", "L2", "L3"):
             if "derived_from" not in e:
                 err(where, f"{e['layer']} needs derived_from (null only with a source_note)")
@@ -90,17 +181,18 @@ def main():
         elif e.get("withdrawn") is not None:
             err(where, "withdrawn needs file null; the bytes are no longer held")
         elif e["file"] is None:
-            copies = (e.get("blob") or {}).get("copies") or []
-            if len(copies) < 2:
-                err(where, "external blob needs at least two independent copies")
-            for c in copies:
-                if not DATE_RE.match(str(c.get("verified") or "")):
-                    err(where, f"external blob copy in {c.get('store')} is not verified; a blob is merged only "
-                               "once every copy's sha256 has been checked (python3 tools/ingest_large.py "
-                               f"--verify-ia {e['id']} for the Internet Archive copy)")
+            for m in blob_errors(e):
+                err(where, m)
             if e["layer"] not in ORIGINALS:
                 err(where, "only L0/T0 files may be external blobs")
+            if pending_preservation(e):
+                pending.append(e["id"])
         else:
+            if e.get("blob") is not None:
+                for m in in_git_copy_errors(e):
+                    err(where, m)
+                if pending_preservation(e):
+                    pending.append(e["id"])
             path = os.path.join(ROOT, e["file"])
             if e["file"] in files_listed:
                 err(where, f"file also listed by {files_listed[e['file']]}")
@@ -200,10 +292,14 @@ def main():
 
     nq = validate_queue()
     validate_inbox()
+    for m in source_hosts.problems(ROOT):
+        err(source_hosts.PATH, m)
 
     for e in errors:
         print("ERROR", e)
     n = len(manifest)
+    if pending:
+        print(f"{len(pending)} entries awaiting the daily archive job: {', '.join(sorted(pending))}")
     print(f"{n} manifest entries; {nq} queue entries; {len(errors)} errors")
     sys.exit(1 if errors else 0)
 

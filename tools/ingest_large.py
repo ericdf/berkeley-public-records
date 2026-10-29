@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """Archive a file over 25 MB offered in a "Large file" Issue, as an external blob.
 
-Run by the maintainer (or an agent at the maintainer's direction), never by a GitHub Action.
+Needs the archive's storage credentials, which this repository never holds: run by the maintainer
+(or an agent at the maintainer's direction), or by the daily archive job from the ops repository,
+never by a workflow in this repository. Approved contributors stage large files instead
+(tools/process_inbox.py with staged_url; README, "Staged landing").
 
   python3 tools/ingest_large.py <issue number> [--collection sources/<topic>]
       [--meeting-date YYYY-MM-DD --meeting-label regular]
@@ -13,13 +16,13 @@ Run by the maintainer (or an agent at the maintainer's direction), never by a Gi
   python3 tools/ingest_large.py --verify-ia <id> [<id> ...]   (or --verify-ia pending)
       Downloads each blob's Internet Archive copy, checks its sha256 against the manifest, and
       records `verified` on that copy. Run it once the item is public; the large-file pull request
-      stays a draft, and the validator fails, until every copy of every blob is verified.
+      may be merged once its Drive copy is verified; tools/validate.py lists blobs still waiting.
 
   python3 tools/ingest_large.py <issue number> --upload [--open-pr]
       Also: copies the file to bpr-drive:berkeley-public-records-blobs/<id>.<ext> and verifies
       that copy by downloading it; uploads it to the Internet Archive as item
-      berkeley-public-records-<id> (PUBLIC AND PERMANENT: only with the maintainer's explicit
-      approval for this file); writes manifest/<id>.json with "file": null and both copies; writes
+      berkeley-public-records-<id> (PUBLIC AND PERMANENT: only when the maintainer says so for
+      this Issue); writes manifest/<id>.json with "file": null and both copies; writes
       L1 text when the PDF has a text layer, and for an agenda packet its L2 item index
       (tools/l2/packet_items.py). With --open-pr it also commits, pushes, and opens a
       pull request that closes the Issue; otherwise it prints those commands.

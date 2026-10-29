@@ -14,3 +14,13 @@ jobs:
       # pdftotext, so the inbox's text-layer tests run rather than skip
       - run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
       - run: python3 -m unittest discover -s tests -v
+      # Download newly added public-body documents from their source and compare fingerprints
+      # (tools/check_sources.py). Only the base commit is fetched, not the archive's history.
+      - name: Check new documents against their sources
+        env:
+          BASE: ${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          if [ -n "$BASE" ] && [ "$BASE" != "0000000000000000000000000000000000000000" ]; then
+            git fetch -q --depth=1 origin "$BASE" || true
+          fi
+          python3 tools/check_sources.py --base "$BASE"

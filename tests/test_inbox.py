@@ -727,9 +727,8 @@ class TestIngestLarge(Base):
         ia, drive = e["blob"]["copies"]
         self.assertIsNone(ia["verified"])
         self.assertEqual(drive["verified"], "2026-10-01")
-        errors = self.validate_errors()                      # not mergeable until IA is verified
-        self.assertEqual(len(errors), 1)
-        self.assertIn("internet_archive is not verified", errors[0])
+        self.assertEqual(self.validate_errors(), [])         # lands once the Drive copy is checked
+        self.assertTrue(validate.pending_preservation(e))   # the IA copy is still to be checked
         self.assertEqual(il.pending_ia(self.root), [e["id"]])
         with open(p["staged"], "rb") as f:
             data = f.read()

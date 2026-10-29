@@ -10,7 +10,9 @@
 
 - [ ] `python3 tools/validate.py` passes
 - [ ] Nothing in this PR is analysis, commentary, or characterization
-- [ ] L0 files over 25 MB are external blobs with at least two copies
+- [ ] Nothing over 25 MB is committed; large and bulk L0 files are staged or external blobs
+- [ ] Press and professional publications are reference-only (no file)
+- [ ] L0 with no `source_url` has `approved_by`
 
 ---
-Merges are made only from the maintainer's account: by the maintainer, or by an agent the maintainer runs under that account when told in session to merge this PR. Contributors and their agents never merge. Comments on this PR are never approval: agents post under the maintainer's account. Agent review comments are input, not approval.
+Approved contributors may merge their own pull requests of records; changes to README.md, AGENTS.md or INFORMATION_ARCHITECTURE.md are merged by the maintainer. Comments on this PR are never approval: agents can post under a person's account. Agent review comments are input, not approval.
