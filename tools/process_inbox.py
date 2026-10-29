@@ -39,7 +39,7 @@ TOPIC_RE = re.compile(r"^[a-z0-9][a-z0-9_]*$")
 T0_COLLECTION_RE = re.compile(r"^[a-z0-9][a-z0-9_-]*$")
 IGNORED = {"README.md", ".gitkeep"}
 DOC_EXTENSIONS = {"pdf", "doc", "docx", "xls", "xlsx", "csv", "geojson", "json", "ppt", "pptx", "txt", "htm", "html",
-                  "rtf", "png", "jpg", "jpeg", "tif", "tiff"}
+                  "rtf", "png", "jpg", "jpeg", "tif", "tiff", "vtt"}
 FIELDS = {
     "layer": "L0 (made or published by a public body) or T0 (published by someone else)",
     "collection": ("where it is filed, e.g. sources/budgets, clerk, council-captions, annotated-agendas, "
@@ -59,10 +59,13 @@ FIELDS = {
                       "regular, special. For a document the City lists on its Council agenda page, the date "
                       "and label are filled in from the City catalog when left out"),
     "item": "optional: the agenda item as printed, e.g. Consent Calendar Item 12 (required for staff-reports)",
-    "body": "staff-reports: the body whose agenda it is on, e.g. Berkeley City Council, Planning Commission",
+    "body": ("staff-reports: the body whose agenda it is on, e.g. Berkeley City Council, Planning Commission; "
+             "council-captions, optional: a Council committee, e.g. Berkeley City Council Budget & Finance "
+             "Policy Committee (the default is Berkeley City Council)"),
     "part": "staff-reports, optional: a short name for the document within the item when it is not "
             "the report itself, e.g. lease-list",
-    "notices": "optional: disclaimers printed on the document, copied word for word",
+    "notices": ("optional: disclaimers printed on the document, copied word for word (required for "
+                "council-captions, except a Zoom caption file (.vtt), which prints none)"),
     "doc_type": "optional: the kind of document; normally worked out for you",
     "id": "optional: the archive id; normally worked out for you",
     "revision_of": ("optional: the archive id of the earlier version this document revises; the earlier "
@@ -213,7 +216,7 @@ def fill_meeting(root, meta):
     return meta
 
 
-def check_metadata(name, meta, manifest, where=None):
+def check_metadata(name, meta, manifest, where=None, ext=None):
     """Return the placement (id, paths, doc_type) or raise Problem naming every issue found."""
     where = where or f"inbox/{name}.json"
     issues = []
@@ -283,8 +286,9 @@ def check_metadata(name, meta, manifest, where=None):
     elif relevance:
         issues.append('"relevance" is only for T0 documents; remove it.')
 
+    captions = collection == "council-captions"
     for f in ("body", "part"):
-        if meta.get(f) is not None and not staff:
+        if meta.get(f) is not None and not staff and not (captions and f == "body"):
             issues.append(f'"{f}" is only for the staff-reports collection; remove it.')
 
     notices = meta.get("notices", [])
@@ -308,14 +312,21 @@ def check_metadata(name, meta, manifest, where=None):
                 issues.append(f'{collection} need "meeting_date" (YYYY-MM-DD).')
             if not label:
                 issues.append(f'{collection} need "meeting_label", e.g. "regular" or "special".')
-            if collection == "council-captions" and not notices:
+            if captions and not notices and ext != "vtt":
                 issues.append('council-captions need "notices": the City\'s disclaimer printed on the '
                               'transcript, copied word for word (e.g. "This information provided by a '
                               'Certified Realtime Reporter. The City of Berkeley cannot certify ...").')
+            # Captions of a Council committee meeting name the committee in "body"; their id takes
+            # the committee's prefix, as its staff reports do.
+            body = text("body") if captions else None
+            if body and body != COUNCIL and not body.startswith(COUNCIL + " "):
+                issues.append(f'"body" is "{body}"; council-captions are for the Council and its '
+                              'committees, e.g. "Berkeley City Council Budget & Finance Policy Committee".')
+                body = None
             if mdate and label:
                 place = {"l0": f"L0/{collection}", "l1": f"L1/{collection}", "doc_type": doc_type,
-                         "collection": None, "meeting": True,
-                         "id": f"bcc-{mdate}-{slug(label)}-{suffix}"}
+                         "collection": None, "meeting": True, "body": body or COUNCIL,
+                         "id": f"{body_prefix(body or COUNCIL, manifest)}-{mdate}-{slug(label)}-{suffix}"}
         elif staff:
             place = staff_report_place(meta, text, manifest, issues)
         elif collection == "clerk":
@@ -418,7 +429,7 @@ def build_entry(meta, place, digest, size, contributor, today, ext):
     if place["collection"]:
         e["collection"] = place["collection"]
     if place.get("meeting"):
-        e.update(body="Berkeley City Council", meeting_date=meta["meeting_date"],
+        e.update(body=place.get("body", COUNCIL), meeting_date=meta["meeting_date"],
                  meeting_label=meta["meeting_label"])
     if place.get("staff"):
         e["body"] = meta["body"].strip()
@@ -562,7 +573,7 @@ def process(root, contributor, today=None, log=print, staging=None):
             continue
         meta = fill_meeting(root, meta)
         try:
-            place = check_metadata(name, meta, manifest)
+            place = check_metadata(name, meta, manifest, ext=doc.rpartition(".")[2].lower())
         except Problem as x:
             problems.append(str(x))
             continue

@@ -96,7 +96,7 @@ Body ──< Meeting ──< Item
 
 | Collection | Holds | Id pattern | Example |
 |---|---|---|---|
-| `council-captions` | Council caption transcripts | `bcc-<date>-<label>-captions` | `bcc-2026-09-29-regular-captions` |
+| `council-captions` | Caption transcripts of Council and Council committee meetings | `<body prefix>-<date>-<label>-captions` (`bcc` for the Council) | `bcc-2026-09-29-regular-captions`, `bcc-budget-finance-committee-2026-10-22-regular-captions` |
 | `annotated-agendas` | Council annotated agendas | `bcc-<date>-<label>-annotated-agenda` | `bcc-2026-07-28-regular-annotated-agenda` |
 | `agenda-packets` | Council agenda packets, as external blobs | `bcc-<date>-<label>-agenda-packet` | `bcc-2026-10-27-regular-agenda-packet` |
 | `staff-reports` | Individually published agenda item material for Council, committees and commissions | `<body>-<date>[-<label>]-item-<n>-<part>` | `bcc-2026-06-16-item-37-staff-report` |
@@ -111,7 +111,9 @@ agenda packet's item index is `L2/agenda-packets/<packet id>-items.json`.
 Known inconsistencies in existing entries, left as they are until a deliberate metadata pass:
 caption and annotated-agenda entries carry `collection: null`; staff-report entries carry
 `staff_reports` (underscore) while the path and inbox value are `staff-reports`; and
-`meeting_label` is mixed-case (`regular` and `Regular` both occur). Compare labels
+`meeting_label` is mixed-case (`regular` and `Regular` both occur); and the two April 2026
+Budget Committee caption texts carry `body: Berkeley City Council` with `meeting_label: Budget
+Committee`, from before committee captions named their committee in `body`. Compare labels
 case-insensitively, as `tools/meeting_map.py` does.
 
 ## A Council meeting's document set

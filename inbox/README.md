@@ -137,7 +137,7 @@ was seen is on record. Never put the capture date in `document_date`.
 | `retrieved` | Optional: the date you downloaded it. |
 | `approved_by` | L0 with no `source_url`: your GitHub username, approving its publication to the Internet Archive. |
 | `staged_url` | A file over 25 MB or an agenda packet: a Google Drive link to the same file, shared as "anyone with the link can view". Staging is done on your own computer, not on the website. |
-| `meeting_date`, `item` | Optional: the meeting and agenda item it belongs to. `council-captions` and `annotated-agendas` also need `meeting_label` (e.g. `regular`), and captions need `notices`: the City's disclaimer, copied word for word. |
+| `meeting_date`, `item` | Optional: the meeting and agenda item it belongs to. `council-captions` and `annotated-agendas` also need `meeting_label` (e.g. `regular`), and captions need `notices`: the City's disclaimer, copied word for word (a Zoom `.vtt` caption file prints none and needs none). Captions of a Council committee meeting also need `body`, naming the committee. |
 | `body`, `item`, `doc_type`, `part` | `staff-reports` only. `body`: whose agenda it is on, e.g. `Berkeley City Council`, `Planning Commission`. `item` (required): as printed, e.g. `Action Calendar Item 37`, `Item 7B`. `doc_type`: `staff_report` (the default), `presentation`, `agenda_material`, or `supplemental_agenda_material`. `part`: for anything but the report itself, a short name such as `lease-list`. `meeting_date` is required, and `meeting_label` too for Council meetings. |
 
 Public-records releases from the City's request portal (NextRequest) do not go through the

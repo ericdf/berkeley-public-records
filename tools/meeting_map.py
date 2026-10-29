@@ -112,7 +112,7 @@ def check_links(data, root=ROOT, fetch=sha256_url, write=False, today=None):
 
 
 def role_of(e):
-    if e.get("body", COUNCIL) != COUNCIL and e.get("doc_type") != "council_captions":
+    if e.get("body", COUNCIL) != COUNCIL:
         return None
     for role, (doc_type, _) in ROLES.items():
         if doc_type and e.get("doc_type") == doc_type and e["layer"] in ("L0", "L2"):
