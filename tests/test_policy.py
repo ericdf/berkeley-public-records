@@ -222,7 +222,7 @@ class TestPreserve(Base):
         mid = self.stage(L0_URL)
         self.assertEqual(il.preserve_pending(self.root), [(mid, "staged")])
         with contextlib.redirect_stdout(io.StringIO()):
-            files, problems = il.preserve(self.root, self.staging, run=self.run_cmd(TEXT_PDF),
+            files, problems, deferred = il.preserve(self.root, self.staging, run=self.run_cmd(TEXT_PDF),
                                           fetch=self.source(TEXT_PDF), today="2026-10-02")
         self.assertEqual(problems, [])
         self.assertIn(f"manifest/{mid}.json", files)
@@ -239,7 +239,7 @@ class TestPreserve(Base):
         for run_data, src_data, why in ((other, TEXT_PDF, "staged file"), (TEXT_PDF, other, "serves a different file")):
             self.calls = []
             with contextlib.redirect_stdout(io.StringIO()):
-                files, problems = il.preserve(self.root, self.staging, run=self.run_cmd(run_data),
+                files, problems, deferred = il.preserve(self.root, self.staging, run=self.run_cmd(run_data),
                                               fetch=self.source(src_data), today="2026-10-02")
             self.assertEqual(files, [])
             self.assertTrue(any(why in x for x in problems), problems)
@@ -252,9 +252,38 @@ class TestPreserve(Base):
         def down(url, dest):
             raise OSError("connection refused")
         with contextlib.redirect_stdout(io.StringIO()):
-            files, problems = il.preserve(self.root, self.staging, run=self.run_cmd(TEXT_PDF), fetch=down)
-        self.assertEqual(files, [])
-        self.assertIn("will try again", problems[0])
+            files, problems, deferred = il.preserve(self.root, self.staging, run=self.run_cmd(TEXT_PDF), fetch=down)
+        self.assertEqual((files, problems), ([], []))
+        self.assertIn("will try again", deferred[0])
+
+    def test_rate_limit_defers_the_rest(self):
+        self.drop("a", dict(L0_CLERK, approved_by="contributor1"))
+        self.drop("b", dict(L0_CLERK, title="Another certified copy", approved_by="contributor1"),
+                  data=TEXT_PDF + b"\n% second\n")
+        pi.process(self.root, "contributor1", today="2026-10-30", log=lambda *a: None)
+        self.assertEqual(len(il.preserve_pending(self.root)), 2)
+
+        def refused(cmd, check=False, **kw):
+            self.calls.append(cmd)
+            return subprocess.CompletedProcess(cmd, 1, stdout="",
+                                               stderr="error uploading x.pdf: Please reduce your request rate.")
+        with contextlib.redirect_stdout(io.StringIO()):
+            files, problems, deferred = il.preserve(self.root, self.staging, run=refused)
+        self.assertEqual((files, problems), ([], []))
+        self.assertEqual(len(deferred), 2)
+        self.assertEqual(len(self.calls), 1)                    # the second upload was not tried
+        self.assertEqual(len(il.preserve_pending(self.root)), 2)
+
+    def test_other_upload_failure_is_a_problem(self):
+        self.drop("a", dict(L0_CLERK, approved_by="contributor1"))
+        pi.process(self.root, "contributor1", today="2026-10-30", log=lambda *a: None)
+
+        def broken(cmd, check=False, **kw):
+            return subprocess.CompletedProcess(cmd, 1, stdout="", stderr="error: bad credentials")
+        with contextlib.redirect_stdout(io.StringIO()):
+            files, problems, deferred = il.preserve(self.root, self.staging, run=broken)
+        self.assertIn("bad credentials", problems[0])
+        self.assertEqual(deferred, [])
 
     def test_no_source_record_gets_an_internet_archive_copy(self):
         self.drop("clerk", dict(L0_CLERK, approved_by="contributor1"))
@@ -262,7 +291,7 @@ class TestPreserve(Base):
         mid = r["added"][0]["id"]
         self.assertEqual(il.preserve_pending(self.root), [(mid, "no-source")])
         with contextlib.redirect_stdout(io.StringIO()):
-            files, problems = il.preserve(self.root, self.staging, run=self.run_cmd(b""), today="2026-10-31")
+            files, problems, deferred = il.preserve(self.root, self.staging, run=self.run_cmd(b""), today="2026-10-31")
         self.assertEqual(problems, [])
         (ia,) = self.entry(mid)["blob"]["copies"]
         self.assertEqual(ia["store"], "internet_archive")
