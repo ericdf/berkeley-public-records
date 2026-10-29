@@ -300,6 +300,13 @@ class TestProcessInbox(Base):
         self.assertEqual(e["doc_type"], "council_captions")
         self.assertEqual(e["file"], f"L0/council-captions/{e['id']}.vtt")
         self.assertEqual(e["notices"], [])
+        t = self.entry(e["id"] + "-text")
+        self.assertEqual(r["added"][0]["text"], t["id"])
+        self.assertEqual(t["doc_type"], "council_captions_text")
+        self.assertEqual(t["body"], e["body"])
+        self.assertEqual((t["sha256"], t["extraction"]["command"]), (e["sha256"], "cp <L0> <L1>"))
+        with open(os.path.join(self.root, t["file"]), "rb") as f:
+            self.assertEqual(f.read(), vtt)
         self.assertEqual(self.validate_errors(), [])
 
     def test_captions_pdf_still_needs_notice_with_committee_body(self):

@@ -477,17 +477,25 @@ def extract_text(path):
 def write_l1(root, entry, place, local_path, tool, notes):
     """Extract L1 text from the original at local_path and write it with its manifest entry.
     Returns the L1 id, or a short reason there is none (also appended to notes)."""
-    if not local_path.lower().endswith(".pdf"):
+    if local_path.lower().endswith(".vtt"):
+        # A Zoom caption file is already text: its L1 is the same bytes, so readers of L1 caption
+        # text (and L3 attribution, pinned to L1) need no second format.
+        with open(local_path, "rb") as f:
+            text = f.read()
+        tool, command = "cp", f"cp <{entry['layer']}> <L1>"
+    elif not local_path.lower().endswith(".pdf"):
         return "not a PDF; no text layer extracted"
-    if not tool:
+    elif not tool:
         notes.append(f"{entry['id']}: pdftotext not installed; no L1 text. Install poppler and "
                      "run again, or let the GitHub Action do it.")
         return "pdftotext not installed; no L1 text"
-    text = extract_text(local_path)
-    if text is None or len(text.split()) < MIN_WORDS:
-        notes.append(f"{entry['id']}: no text layer; needs OCR (with a recorded command, by the "
-                     "maintainer).")
-        return "no text layer; needs OCR"
+    else:
+        text = extract_text(local_path)
+        command = f"pdftotext -layout <{entry['layer']}> <L1>"
+        if text is None or len(text.split()) < MIN_WORDS:
+            notes.append(f"{entry['id']}: no text layer; needs OCR (with a recorded command, by the "
+                         "maintainer).")
+            return "no text layer; needs OCR"
     tid = entry["id"] + "-text"
     trel = f"{place['l1']}/{tid}.txt"
     os.makedirs(os.path.join(root, place["l1"]), exist_ok=True)
@@ -499,7 +507,7 @@ def write_l1(root, entry, place, local_path, tool, notes):
             t[k] = entry[k]
     t.update(title=entry["title"], file=trel, sha256=hashlib.sha256(text).hexdigest(),
              bytes=len(text), derived_from={"id": entry["id"], "sha256": entry["sha256"]},
-             extraction={"tool": tool, "command": f"pdftotext -layout <{entry['layer']}> <L1>"},
+             extraction={"tool": tool, "command": command},
              notices=list(entry["notices"]), contributed_by=entry["contributed_by"],
              archived=entry["archived"])
     write_json(os.path.join(root, "manifest", tid + ".json"), t)
