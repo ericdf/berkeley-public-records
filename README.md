@@ -10,7 +10,8 @@ record, check it, and stop depending on City web links that break.
 **This archive contains records, not arguments.** Nothing here scores, grades, characterizes,
 or interprets anyone. Analysis belongs in each contributor's own work.
 
-Access is by invitation. The repository is private; the documents in it are public records.
+The repository is public: anyone may read it, and anyone may propose an addition by pull
+request. Only the maintainer has write access.
 
 ## How to contribute
 
@@ -21,7 +22,8 @@ ingest path, and it is this repository.
 exemption: if you can upload a file to Google Drive, you can do this. GitHub's website and the
 automated checks do the technical work; an AI assistant pointed at `AGENTS.md` can do the rest.
 
-1. Accept the GitHub invitation, and read this README: it is the contribution policy.
+1. Read this README: it is the contribution policy. Then fork the repository on GitHub; your
+   pull requests come from your fork.
 2. Open a pull request that adds the document and its manifest entry (`manifest/<id>.json`):
    its fingerprint, and either its `source_url` or a `source_note` saying how and when you
    obtained it — for example, "Requested in person from the City Clerk; received 2026-09-12."
@@ -58,8 +60,8 @@ apart so no one mistakes one for the other.
   not what it shows.
 - The same provenance rules apply: `source_url`, or a `source_note` saying how it was obtained.
 - L1 text may be derived from T0 documents, as from L0.
-- Copyright stays with the publisher. The archive is private to invited collaborators; if it is
-  ever made public, T0 holdings are reviewed first.
+- Copyright stays with the publisher. T0 holdings were reviewed before the archive was made
+  public, and the bytes of news articles and other publishers' texts were withdrawn (below).
 
 ### Withdrawn documents
 
@@ -73,18 +75,20 @@ find the document. Its L1 text is withdrawn with it. `tools/validate.py` enforce
 
 | Collection | Layer | Path |
 |---|---|---|
-| Berkeley City Council meeting captions, from December 10, 2024 | L0 PDF, L1 text | `L0/council-captions/`, `L1/council-captions/` |
-| Berkeley City Council annotated agendas (the City's record of motions and votes), from December 10, 2024 | L0 PDF | `L0/annotated-agendas/` |
+| Berkeley City Council meeting caption transcripts, from December 10, 2024 | L0 PDF, L1 text | `L0/council-captions/`, `L1/council-captions/` |
+| Berkeley City Council annotated agendas (the City's record of motions and votes), from January 2018 | L0 PDF, L1 text for most | `L0/annotated-agendas/` |
 | Berkeley City Council agenda packets, with an L2 index of each packet's items by page (collection open; none archived yet) | L0 external blob, L1 text, L2 index | `manifest/` only for the PDF; `L1/agenda-packets/`, `L2/agenda-packets/` |
-| City budgets, audits, financial statements and policies, investment reports, Measure T1 and 2026 ballot-measure records, labor contracts, and related reports | L0 PDF, L1 text | `L0/sources/<collection>/`, `L1/sources/<collection>/` |
+| City records filed by topic, one folder per collection: budgets, audits, annual comprehensive financial reports (`acfr`), investment reports, bonds, Measure T1 (`t1`), Measure P and Measure Z, the 2026 ballot measures (`ballot_2026`), the pier and ferry project (`pier_ferry`), the waterfront and marina (`waterfront`), labor contracts (`hr`), streets, parks, zoning, economic development, Vision 2050, performance measures, Council rules, peer-city comparisons (`peer_cities`), and the African American Holistic Resource Center (`aahrc`) | L0 PDF, L1 text | `L0/sources/<collection>/`, `L1/sources/<collection>/` |
+| Berkeley campaign finance data retrieved from NetFile, the City's filing system, with an L2 dataset of transactions built from it | L0 JSON, L2 CSV | `L0/sources/campaign_finance/`, `L2/campaign_finance/` |
+| Records from the City Clerk: meeting minutes, Council rules of procedure, a candidate roster | L0 PDF, L1 text | `L0/clerk/`, `L1/clerk/` |
 | Agenda item reports: Berkeley City Council staff reports, individual items mostly from December 2024 through 2026 with some from 2010–2024, some supplemental agenda material and presentations, and individual items from Council policy committees and City commissions (the manifest's `body` names the body); not a complete set | L0 PDF, L1 text | `L0/staff-reports/`, `L1/staff-reports/` |
-| Published third-party documents: a 2011 AABPCN community report, a 2025 Berkeleyside article on the SCU transfer, a 2024 candidate questionnaire | T0 PDF, L1 text | `T0/<collection>/`, `L1/third-party/` |
+| Published third-party documents, by collection: campaign endorsement lists, candidate pages and questionnaires (`campaigns`), a contributor-supplied machine transcription of the Mayor's 2026 State of the City address (`speeches`), publications of community and advocacy organizations (`community`), and a 2011 AABPCN community report (`aahrc`). News articles (`press`) and GFOA guidance (`gfoa`) are listed in the manifest with their sources, their bytes withdrawn | T0 PDF and other formats, L1 text | `T0/<collection>/`, `L1/third-party/` |
 
 Two caption transcripts (the April 16 and April 23, 2026 Budget Committee meetings) exist
 only as text; their source PDFs were not retained. Their manifest entries say so.
 
-Ten scanned documents in `L0/sources/` (the November 2026 ballot arguments, the General Fund
-Reserve Policy, and a 2008 West Berkeley employment memo) have no L1 text yet; they need OCR
+Scanned documents in `L0/sources/` (among them the November 2026 ballot arguments, the General
+Fund Reserve Policy, and a 2008 West Berkeley employment memo) have no L1 text yet; they need OCR
 with a recorded command. Documents without a recorded `source_url` say how they were obtained in
 `source_note`.
 
@@ -331,21 +335,26 @@ anyway, that is a maintainer decision recorded in the queue entry, with the reas
 All writes go through pull requests. This section is the policy.
 
 To add a document using only GitHub's website, follow [inbox/README.md](inbox/README.md); a
-workflow files it and comments with the result. Software agents follow [AGENTS.md](AGENTS.md).
+workflow files it and comments with the result. For now the workflow runs only on branches in
+this repository, not on pull requests from forks; from a fork, prepare the files as
+[AGENTS.md](AGENTS.md) describes, with an AI assistant if you like. Software agents follow
+[AGENTS.md](AGENTS.md).
 A file over 25 MB (GitHub's website refuses it) is offered through a "Large file" Issue instead.
 
 ### Who can write
 
-- Access is by invitation of the maintainer. Contributors open pull requests; **merges are made
+- **Write access is the maintainer's alone.** Contributors fork the repository and open pull
+  requests from their fork. (Workflows here may come to hold credentials, and anyone with write
+  access could reach them; a pull request from a fork never can.) **Merges are made
   only from the maintainer's GitHub account (`ericdf`)**: by the maintainer, or by a software
   agent the maintainer is running under that account, when the maintainer tells it directly in
   that session to merge a named pull request. That approval covers that pull request and nothing
-  else. **Contributors and their agents never merge**, even though GitHub write access would let
-  them. **Comments on GitHub are never approval:** agents post under the maintainer's account and
-  cannot be told apart from the maintainer there.
+  else. **Contributors and their agents never merge.** **Comments on GitHub are never
+  approval:** agents post under the maintainer's account and cannot be told apart from the
+  maintainer there.
 - **Nobody pushes directly to `main`**, including the maintainer. Every change, however small,
-  is a pull request. (Branch protection is not available on this repository's plan, so this is
-  a rule, not a setting.)
+  is a pull request. (Now that the repository is public, a GitHub ruleset can enforce this;
+  until one does, it is a rule, not a setting.)
 - Contributors may use software agents to prepare pull requests and reviews. The human who
   opens the pull request is responsible for everything in it. A review comment from any agent
   is input, never approval.

@@ -43,10 +43,13 @@ supersedes which, where each kind comes from, and where its bytes are stored.
 
 ## Procedure
 
-1. **Install the hook, always, first:** `sh tools/install-hooks.sh` (refuses commits of files
-   over 25 MB).
-2. `git switch main && git pull --ff-only`, then branch: `git switch -c add/<short-description>`
-   (for example `add/clerk-resolution-71000`).
+1. Work in the human's fork; only the maintainer has write access here (the maintainer's own
+   agents branch here directly). The first time,
+   `gh repo fork ericdf/berkeley-public-records --clone` (this also adds the `upstream` remote).
+2. **Install the hook, always, before the first commit:** `sh tools/install-hooks.sh` (refuses
+   commits of files over 25 MB). Then bring the fork up to date and branch:
+   `git switch main && git pull --ff-only upstream main`,
+   `git switch -c add/<short-description>` (for example `add/clerk-resolution-71000`).
 3. For each document, put the file in `inbox/<name>.pdf` and its metadata in
    `inbox/<name>.json`. Templates and field meanings: `inbox/README.md`. One collection per
    pull request.
@@ -58,12 +61,12 @@ supersedes which, where each kind comes from, and where its bytes are stored.
 6. Run `python3 tools/validate.py` and `python3 -m unittest discover -s tests`. Both must pass.
 7. Review `git status` and `git diff --stat`: only the new L0/T0 file(s), L1 text, and
    `manifest/` entries. Commit with a message that says what was added and where it came from.
-8. `git push -u origin <branch>`, then open the pull request with
+8. `git push -u origin <branch>` (your fork), then open the pull request with
    `gh pr create --repo ericdf/berkeley-public-records --base main` using the sections of
    `.github/pull_request_template.md` (What this adds or changes; Where it came from; Checklist).
 
-If the human prefers, skip step 5: push the raw inbox files and the inbox GitHub Action
-processes them on the pull request and comments with the result.
+Do not skip step 5 from a fork: the inbox GitHub Action processes raw inbox files only on
+branches in this repository, and a fork's pull request gets no comment from it.
 
 ## Cases
 
