@@ -283,6 +283,33 @@ class TestProcessInbox(Base):
         self.assertEqual(e["body"], "Berkeley City Council")
         self.assertNotIn("collection", e)
 
+    def test_committee_captions_from_zoom_vtt(self):
+        vtt = b"WEBVTT\r\n\r\n00:00:02.000 --> 00:00:15.000\r\nCall to order.\r\n"
+        meta = {"layer": "L0", "collection": "council-captions", "title": "Budget Committee Captioning",
+                "document_date": "2026-10-22", "meeting_date": "2026-10-22", "meeting_label": "regular",
+                "body": "Planning Commission", "source_note": "Emailed by the Clerk; received 2026-10-29."}
+        self.drop("cap", meta, data=vtt, ext="vtt")
+        with self.assertRaisesRegex(pi.Problem, "the Council and its committees"):
+            self.run_process()
+        self.drop("cap", dict(meta, body="Berkeley City Council Budget & Finance Policy Committee"),
+                  data=vtt, ext="vtt")
+        r = self.run_process()
+        e = self.entry("bcc-budget-finance-policy-committee-2026-10-22-regular-captions")
+        self.assertEqual(r["added"][0]["id"], e["id"])
+        self.assertEqual(e["body"], "Berkeley City Council Budget & Finance Policy Committee")
+        self.assertEqual(e["doc_type"], "council_captions")
+        self.assertEqual(e["file"], f"L0/council-captions/{e['id']}.vtt")
+        self.assertEqual(e["notices"], [])
+        self.assertEqual(self.validate_errors(), [])
+
+    def test_captions_pdf_still_needs_notice_with_committee_body(self):
+        self.drop("cap", {"layer": "L0", "collection": "council-captions", "title": "Captioning",
+                          "document_date": "2026-10-22", "meeting_date": "2026-10-22",
+                          "meeting_label": "regular", "source_note": "Emailed; received 2026-10-29.",
+                          "body": "Berkeley City Council Budget & Finance Policy Committee"})
+        with self.assertRaisesRegex(pi.Problem, "notices"):
+            self.run_process()
+
     @unittest.skipUnless(HAVE_PDFTOTEXT, "pdftotext not installed")
     def test_text_layer_generated(self):
         self.drop("a", L0_URL)

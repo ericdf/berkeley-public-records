@@ -96,7 +96,7 @@ copy found anywhere can be checked against the fingerprint. Its L1 text is withd
 
 | Collection | Layer | Path |
 |---|---|---|
-| Berkeley City Council meeting captions, from December 10, 2024 | L0 PDF, L1 text | `L0/council-captions/`, `L1/council-captions/` |
+| Berkeley City Council meeting captions, from December 10, 2024, and some Council committee meeting captions (the manifest's `body` names the committee) | L0 PDF or Zoom VTT, L1 text for PDFs | `L0/council-captions/`, `L1/council-captions/` |
 | Berkeley City Council annotated agendas (the City's record of motions and votes), from December 10, 2024 | L0 PDF | `L0/annotated-agendas/` |
 | Berkeley City Council agenda packets, with an L2 index of each packet's items by page (collection open; none archived yet) | L0 external blob, L1 text, L2 index | `manifest/` only for the PDF; `L1/agenda-packets/`, `L2/agenda-packets/` |
 | City budgets, audits, financial statements and policies, investment reports, Measure T1 and 2026 ballot-measure records, labor contracts, and related reports | L0 PDF, L1 text | `L0/sources/<collection>/`, `L1/sources/<collection>/` |
