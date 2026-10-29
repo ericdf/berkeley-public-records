@@ -17,8 +17,8 @@ jobs:
   process:
     # Only branches in this repository. A fork's pull request gets a read-only token, and its
     # branch lives in the fork, so the job could neither push the result back nor comment; the
-    # contributor would see a confusing failure. Contributors are invited collaborators and
-    # push branches here.
+    # contributor would see a confusing failure. Pull requests from forks are handled by
+    # inbox-fork.yml.
     if: github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
     env:

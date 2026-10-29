@@ -8,26 +8,33 @@ labeled third-party publications; never analysis or commentary).
 
 ## Steps
 
-1. **Make a branch.** On the repository's front page, click the branch menu (it says `main`),
-   type a name such as `add-clerk-resolution-71000`, and click **Create branch**. Everything
-   below happens on that branch, never on `main`.
-2. **Upload the document.** Open the `inbox` folder, click **Add file → Upload files**, drag in
-   the PDF, and click **Commit changes**. Give it a short name without spaces, such as
-   `resolution-71000.pdf`.
+1. **Fork the repository.** Sign in to GitHub, open the repository's front page, and click
+   **Fork**, then **Create fork**. This makes your own copy; everything below happens in it.
+   (Only the maintainer can write to the repository itself.)
+2. **Make a branch in your fork.** In your fork, click the branch menu (it says `main`), type a
+   name such as `add-clerk-resolution-71000`, and click **Create branch**. Use a new branch for
+   each contribution.
+3. **Upload the document.** On that branch, open the `inbox` folder, click **Add file → Upload
+   files**, drag in the PDF, and click **Commit changes**. Give it a short name without spaces,
+   such as `resolution-71000.pdf`.
    - You do not need to know the file's size. GitHub's website refuses files over 25 MB with a
      "file too large" message. If that happens, stop here and fill in a
      [Large file issue](https://github.com/ericdf/berkeley-public-records/issues/new?template=large-file.yml) instead; the maintainer
      archives large files.
-3. **Add the metadata file.** In `inbox`, click **Add file → Create new file**. Name it exactly
+4. **Add the metadata file.** In `inbox`, click **Add file → Create new file**. Name it exactly
    like the document but ending in `.json` (`resolution-71000.json`), paste the template below
    that fits, fill it in, and click **Commit changes**.
-4. **Open the pull request.** Click **Compare & pull request** (or **Pull requests → New**, with
-   your branch). Fill in the template: what it is and where it came from. Click **Create pull
-   request**.
-5. **Wait a minute for the bot's comment.** If it lists what was added, you are done; check the
-   title, date and source it shows. If it lists errors, fix the `.json` file (open it, click the
-   pencil, edit, commit) and the bot runs again. A red check that appears before the bot has
-   finished is expected: the raw inbox files are not yet processed.
+5. **Open the pull request.** Click **Contribute → Open pull request** (or **Pull requests →
+   New**, comparing your branch with `ericdf/berkeley-public-records` `main`). Fill in the
+   template: what it is and where it came from. Click **Create pull request**. Put only files in
+   `inbox/` in it; the robot refuses a pull request that changes anything else.
+6. **Wait a minute or two for the robot's comment.** If it lists what was added, you are done;
+   check the title, date and source it shows. The robot puts the processed files in a second
+   pull request, which the maintainer reviews and merges; yours is closed when that happens. If
+   the comment lists errors, fix the `.json` file in your fork (open it, click the pencil, edit,
+   commit) and the robot runs again. Your pull request shows a red check from the validator
+   until then and afterwards, because its raw inbox files are never processed in place; that is
+   expected.
 
 ## Templates
 

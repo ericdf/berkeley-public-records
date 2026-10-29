@@ -65,8 +65,9 @@ supersedes which, where each kind comes from, and where its bytes are stored.
    `gh pr create --repo ericdf/berkeley-public-records --base main` using the sections of
    `.github/pull_request_template.md` (What this adds or changes; Where it came from; Checklist).
 
-Do not skip step 5 from a fork: the inbox GitHub Action processes raw inbox files only on
-branches in this repository, and a fork's pull request gets no comment from it.
+If the human prefers, skip step 5: push the raw inbox files (and nothing else) and open the pull
+request. The inbox GitHub Action processes them, puts the result in a pull request of its own,
+and comments on yours with the result.
 
 ## Cases
 

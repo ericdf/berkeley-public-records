@@ -335,10 +335,8 @@ anyway, that is a maintainer decision recorded in the queue entry, with the reas
 All writes go through pull requests. This section is the policy.
 
 To add a document using only GitHub's website, follow [inbox/README.md](inbox/README.md); a
-workflow files it and comments with the result. For now the workflow runs only on branches in
-this repository, not on pull requests from forks; from a fork, prepare the files as
-[AGENTS.md](AGENTS.md) describes, with an AI assistant if you like. Software agents follow
-[AGENTS.md](AGENTS.md).
+workflow files it, opens a pull request with the processed files, and comments with the result.
+Software agents follow [AGENTS.md](AGENTS.md).
 A file over 25 MB (GitHub's website refuses it) is offered through a "Large file" Issue instead.
 
 ### Who can write

@@ -1,0 +1,28 @@
+name: inbox (fork) close
+# When the maintainer merges a pull request opened by inbox-fork.yml, close the contributor's
+# pull request it was processed from, and delete the processed branch.
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+permissions:
+  contents: write        # delete the processed branch
+  pull-requests: write   # close the contributor's pull request
+jobs:
+  close:
+    if: >-
+      github.event.pull_request.merged &&
+      github.event.pull_request.head.repo.full_name == github.repository &&
+      startsWith(github.event.pull_request.head.ref, 'inbox-fork/pr-')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      HEAD_REF: ${{ github.event.pull_request.head.ref }}
+      MERGED: ${{ github.event.pull_request.number }}
+    steps:
+      - run: |
+          N="${HEAD_REF#inbox-fork/pr-}"
+          case "$N" in ''|*[!0-9]*) echo "not a pull request number: $N"; exit 1;; esac
+          gh pr close "$N" --repo "$GITHUB_REPOSITORY" \
+            --comment "Merged as #$MERGED. Thank you for the contribution."
+          gh api -X DELETE "repos/$GITHUB_REPOSITORY/git/refs/heads/$HEAD_REF"

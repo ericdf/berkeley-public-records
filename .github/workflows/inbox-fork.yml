@@ -1,0 +1,117 @@
+name: inbox (fork)
+# The inbox robot for pull requests from forks. A fork's pull request gets a read-only token in
+# inbox.yml, so this runs on pull_request_target instead: the workflow file and every script it
+# runs come from main, never from the pull request. The pull request's files are fetched as data,
+# tools/fork_inbox.py copies across only plain files directly in inbox/, and main's own
+# process_inbox.py, validate.py and tests handle them. Nothing from the pull request is executed.
+#
+# The token cannot push to a fork, so the processed result goes to a branch here,
+# inbox-fork/pr-<number>, with a pull request of its own for the maintainer to review and merge.
+# The contributor's pull request gets a comment either way; inbox-fork-close.yml closes it when
+# the processed one is merged. Each push to the fork's branch reprocesses and updates both.
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+    paths: ['inbox/**']
+permissions:
+  contents: write        # push the processed branch here
+  pull-requests: write   # open the processed pull request; comment on the contributor's
+  statuses: write        # mark the processed commit validated
+concurrency:
+  group: inbox-fork-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+jobs:
+  process:
+    if: github.event.pull_request.head.repo.full_name != github.repository
+    runs-on: ubuntu-latest
+    env:
+      PR: ${{ github.event.pull_request.number }}
+      HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+      AUTHOR: ${{ github.event.pull_request.user.login }}
+      AUTHOR_ID: ${{ github.event.pull_request.user.id }}
+      BRANCH: inbox-fork/pr-${{ github.event.pull_request.number }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: false   # no token on disk while untrusted files are handled
+      - name: Fetch the pull request as data
+        run: |
+          git fetch --no-tags origin "+refs/pull/$PR/head:refs/remotes/pr/head"
+          if [ "$(git rev-parse refs/remotes/pr/head)" != "$HEAD_SHA" ]; then
+            echo "The pull request moved on while this ran; the newer run handles it."; exit 1
+          fi
+      - name: Install pdftotext
+        run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils
+      - name: Take only the inbox files
+        id: gate
+        continue-on-error: true
+        run: python3 tools/fork_inbox.py --base HEAD --head refs/remotes/pr/head --apply --summary-file "$RUNNER_TEMP/summary.md"
+      - name: Process inbox
+        id: process
+        if: steps.gate.outcome == 'success'
+        continue-on-error: true
+        run: python3 tools/process_inbox.py --contributor "$AUTHOR" --summary-file "$RUNNER_TEMP/summary.md"
+      - name: Validate the final state
+        id: validate
+        if: steps.process.outcome == 'success'
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          { python3 tools/validate.py && python3 -m unittest discover -s tests; } 2>&1 | tee "$RUNNER_TEMP/validate.txt"
+      - name: Push the processed branch and open its pull request
+        id: publish
+        if: steps.validate.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git switch -q -c "$BRANCH"
+          git add -A
+          IDS=$(git diff --cached --name-only --diff-filter=A -- manifest/ \
+                | sed 's|manifest/||; s|\.json$||' | { grep -v -- '-text$' || true; } | paste -sd, - | sed 's/,/, /g')
+          printf 'Process inbox from #%s: %s\n\nCo-authored-by: %s <%s+%s@users.noreply.github.com>\n' \
+            "$PR" "$IDS" "$AUTHOR" "$AUTHOR_ID" "$AUTHOR" > "$RUNNER_TEMP/msg.txt"
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -F "$RUNNER_TEMP/msg.txt"
+          git push --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:refs/heads/$BRANCH"
+          # Pushes made with this token start no workflows, so record the validation just run.
+          gh api "repos/$GITHUB_REPOSITORY/statuses/$(git rev-parse HEAD)" \
+            -f state=success -f context="inbox / validate (processed commit)" \
+            -f description="validate.py and tests passed on this commit" > /dev/null
+          N=$(gh pr list --repo "$GITHUB_REPOSITORY" --head "$BRANCH" --state open --json number --jq '.[0].number // empty')
+          if [ -z "$N" ]; then
+            printf 'Processed from #%s, contributed by @%s, by the inbox robot (`.github/workflows/inbox-fork.yml`).\n\nAdds: %s\n\nMerging this closes #%s.\n' \
+              "$PR" "$AUTHOR" "$IDS" "$PR" > "$RUNNER_TEMP/body.md"
+            N=$(gh pr create --repo "$GITHUB_REPOSITORY" --base main --head "$BRANCH" \
+                  --title "Inbox from #$PR: $IDS" --body-file "$RUNNER_TEMP/body.md" | sed 's|.*/||') || N=""
+          fi
+          echo "pr=$N" >> "$GITHUB_OUTPUT"
+      - name: Comment on the contributor's pull request
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROCESSED: ${{ steps.publish.outputs.pr }}
+        run: |
+          {
+            cat "$RUNNER_TEMP/summary.md" 2>/dev/null || echo "The inbox step did not run to completion; see the workflow log."
+            if [ "${{ steps.validate.outcome }}" = "failure" ]; then
+              echo; echo "**Validation failed after processing, so nothing was kept.** The maintainer will look at it. Output:"
+              echo; echo '```'; tail -n 40 "$RUNNER_TEMP/validate.txt"; echo '```'
+            fi
+            if [ "${{ steps.publish.outcome }}" = "success" ]; then
+              echo
+              if [ -n "$PROCESSED" ]; then
+                echo "The processed files are in #$PROCESSED, which the maintainer reviews and merges; this pull request closes when it is merged. To change anything, push to your branch again and both update."
+              else
+                echo "The processed files are on the branch \`$BRANCH\`. The robot could not open its pull request; the maintainer will."
+              fi
+            elif [ "${{ steps.publish.outcome }}" = "failure" ]; then
+              echo; echo "**The processed files could not be saved.** The maintainer will look at it."
+            fi
+          } > "$RUNNER_TEMP/comment.md"
+          gh pr comment "$PR" --repo "$GITHUB_REPOSITORY" --body-file "$RUNNER_TEMP/comment.md"
+      - name: Fail if anything failed
+        if: steps.gate.outcome == 'failure' || steps.process.outcome == 'failure' || steps.validate.outcome == 'failure' || steps.publish.outcome == 'failure'
+        run: exit 1
