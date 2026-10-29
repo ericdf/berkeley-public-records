@@ -555,8 +555,10 @@ def ia_upload(e, local, item, run, today):
     copy record, unverified until the item is public."""
     print(f"2. Uploading to the Internet Archive as {item} ...", flush=True)
     # --checksum skips a file the item already holds unchanged, so a run cut short and retried
-    # does not upload it again.
-    p = run(["ia", "upload", item, local, "--retries=5", "--checksum", *ia_metadata(e)],
+    # does not upload it again. --no-derive skips the Internet Archive's own processing (OCR,
+    # text, thumbnails): the archive keeps its own L1 text, and queued derive tasks are what
+    # the Internet Archive throttles an account on.
+    p = run(["ia", "upload", item, local, "--retries=5", "--checksum", "--no-derive", *ia_metadata(e)],
             capture_output=True, text=True)
     if p is not None:
         out = (p.stdout or "") + (p.stderr or "")
