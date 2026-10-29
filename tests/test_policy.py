@@ -3,7 +3,7 @@ Standard library only, no network.
 
   python3 -m unittest discover -s tests -v
 """
-import json, os, shutil, sys, tempfile, unittest
+import contextlib, io, json, os, shutil, subprocess, sys, tempfile, unittest
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
@@ -11,6 +11,7 @@ sys.path.insert(0, os.path.join(REPO, "tools"))
 sys.path.insert(0, HERE)
 
 import check_sources as cs  # noqa: E402
+import ingest_large as il  # noqa: E402
 import process_inbox as pi  # noqa: E402
 import source_hosts as sh  # noqa: E402
 import validate  # noqa: E402
@@ -179,6 +180,95 @@ class TestApproval(Base):
         self.assertTrue(validate.approval_errors(dict(clerk, approved_by="not a login")))
         self.assertTrue(validate.approval_errors(dict(clerk, approved_by="ericdf", source_url="https://berkeleyca.gov/x")))
         self.assertTrue(validate.approval_errors(dict(clerk, approved_by="ericdf", layer="T0")))
+
+
+class TestPreserve(Base):
+    """ingest_large.py --preserve, the daily archive job, with every external command faked."""
+    def setUp(self):
+        super().setUp()
+        self.staging = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, self.staging)
+        self.calls = []
+        shutil.copy(os.path.join(REPO, sh.PATH), os.path.join(self.root, sh.PATH))
+
+    def run_cmd(self, data):
+        def run(cmd, check=True, cwd=None, **kw):
+            if cmd[:2] == ["rclone", "about"]:
+                return subprocess.CompletedProcess(cmd, 0, stdout=json.dumps({"free": 10 * 2**30, "total": 15 * 2**30}))
+            self.calls.append(cmd)
+            if cmd[:3] == ["rclone", "backend", "copyid"]:            # fetch the staged file
+                with open(os.path.join(cmd[5], "shared.pdf"), "wb") as f:
+                    f.write(data)
+            elif cmd[:2] == ["rclone", "copyto"] and cmd[2].startswith(il.REMOTE):
+                with open(cmd[3], "wb") as f:                         # the verification download
+                    f.write(data)
+            return subprocess.CompletedProcess(cmd, 0, stdout="")
+        return run
+
+    def stage(self, meta):
+        self.drop("big", dict(meta, staged_url=DRIVE))
+        r = pi.process(self.root, "contributor1", today="2026-10-01", log=lambda *a: None, staging=self.staging)
+        return r["added"][0]["id"]
+
+    def source(self, data):
+        def fetch(url, dest):
+            path = os.path.join(dest, "source.pdf")
+            with open(path, "wb") as f:
+                f.write(data)
+            return path
+        return fetch
+
+    def test_staged_blob_becomes_the_archives_copies(self):
+        mid = self.stage(L0_URL)
+        self.assertEqual(il.preserve_pending(self.root), [(mid, "staged")])
+        with contextlib.redirect_stdout(io.StringIO()):
+            files, problems = il.preserve(self.root, self.staging, run=self.run_cmd(TEXT_PDF),
+                                          fetch=self.source(TEXT_PDF), today="2026-10-02")
+        self.assertEqual(problems, [])
+        self.assertIn(f"manifest/{mid}.json", files)
+        ia, drive = self.entry(mid)["blob"]["copies"]
+        self.assertEqual((ia["store"], ia["verified"]), ("internet_archive", None))
+        self.assertEqual((drive["store"], drive["verified"]), ("google_drive", "2026-10-02"))
+        self.assertEqual([c[0] for c in self.calls], ["rclone", "rclone", "rclone", "ia"])
+        self.assertEqual(il.preserve_pending(self.root), [])
+        self.assertEqual(self.validate_errors(), [])
+
+    def test_mismatches_upload_nothing(self):
+        mid = self.stage(L0_URL)
+        other = TEXT_PDF + b"\n% altered\n"
+        for run_data, src_data, why in ((other, TEXT_PDF, "staged file"), (TEXT_PDF, other, "serves a different file")):
+            self.calls = []
+            with contextlib.redirect_stdout(io.StringIO()):
+                files, problems = il.preserve(self.root, self.staging, run=self.run_cmd(run_data),
+                                              fetch=self.source(src_data), today="2026-10-02")
+            self.assertEqual(files, [])
+            self.assertTrue(any(why in x for x in problems), problems)
+            self.assertNotIn("ia", [c[0] for c in self.calls])
+            self.assertEqual(il.preserve_pending(self.root), [(mid, "staged")])
+
+    def test_unreachable_source_defers(self):
+        self.stage(L0_URL)
+
+        def down(url, dest):
+            raise OSError("connection refused")
+        with contextlib.redirect_stdout(io.StringIO()):
+            files, problems = il.preserve(self.root, self.staging, run=self.run_cmd(TEXT_PDF), fetch=down)
+        self.assertEqual(files, [])
+        self.assertIn("will try again", problems[0])
+
+    def test_no_source_record_gets_an_internet_archive_copy(self):
+        self.drop("clerk", dict(L0_CLERK, approved_by="contributor1"))
+        r = pi.process(self.root, "contributor1", today="2026-10-30", log=lambda *a: None)
+        mid = r["added"][0]["id"]
+        self.assertEqual(il.preserve_pending(self.root), [(mid, "no-source")])
+        with contextlib.redirect_stdout(io.StringIO()):
+            files, problems = il.preserve(self.root, self.staging, run=self.run_cmd(b""), today="2026-10-31")
+        self.assertEqual(problems, [])
+        (ia,) = self.entry(mid)["blob"]["copies"]
+        self.assertEqual(ia["store"], "internet_archive")
+        self.assertEqual([c[0] for c in self.calls], ["ia"])
+        self.assertEqual(il.preserve_pending(self.root), [])
+        self.assertEqual(self.validate_errors(), [])
 
 
 if __name__ == "__main__":

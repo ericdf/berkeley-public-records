@@ -27,6 +27,15 @@ never by a workflow in this repository. Approved contributors stage large files 
       (tools/l2/packet_items.py). With --open-pr it also commits, pushes, and opens a
       pull request that closes the Issue; otherwise it prints those commands.
 
+  python3 tools/ingest_large.py --preserve
+      The daily archive job, run from the ops repository on a checkout of main: for every staged
+      external blob, fetches the staged file, checks its sha256 (and, when its source_url is on an
+      approved source host, that the source serves the same file), copies it to the archive's
+      Drive (verified) and uploads it to the Internet Archive, replacing the staged copy in the
+      manifest; for every approved L0 with no public source kept in git, uploads it to the
+      Internet Archive. PUBLIC AND PERMANENT, within the rules in README, "Large files". One
+      entry's problem never stops the others.
+
 Requires: gh (signed in), rclone with remote bpr-drive: signed in as the archive account, and for
 --upload the Internet Archive CLI `ia` configured for the archive account. See README, "Large files".
 """
@@ -512,32 +521,43 @@ def execute_batch(root, plans, run=subprocess.run, open_pr=False, today=None, br
     return files
 
 
-def upload_one(root, p, run, today, notes):
-    """Drive copy (verified), Internet Archive upload, manifest entry, L1 text, packet index.
-    Returns the repository files written."""
-    e, staged = p["entry"], p["staged"]
-    remote_path = REMOTE + p["drive_path"]
+def drive_copy(e, local, drive_path, run, today):
+    """Copy local to the archive's Drive at drive_path and verify it by downloading it back.
+    Returns the manifest copy record."""
+    remote_path = REMOTE + drive_path
     free, total = check_drive_space(e["bytes"], run)
     print(f"\nGoogle Drive: {free / 2**30:.2f} GiB free of {total / 2**30:.0f} GiB; room for this file.")
     print(f"1. Copying to {remote_path} ...", flush=True)
-    run(["rclone", "copyto", staged, remote_path], check=True)
+    run(["rclone", "copyto", local, remote_path], check=True)
     with tempfile.TemporaryDirectory() as td:
         back = os.path.join(td, "verify")
         run(["rclone", "copyto", remote_path, back], check=True)
         if pi.sha256_file(back) != e["sha256"]:
             raise Problem(f"the Drive copy at {remote_path} does not match sha256; not recorded")
     print("   Drive copy verified.", flush=True)
-    print(f"2. Uploading to the Internet Archive as {p['ia_item']} ...", flush=True)
-    run(["ia", "upload", p["ia_item"], staged, "--retries=5", *ia_metadata(e)], check=True)
+    return {"store": "google_drive", "location": drive_path, "uploaded": today, "verified": today}
+
+
+def ia_upload(e, local, item, run, today):
+    """Upload local to the Internet Archive as item (PUBLIC AND PERMANENT). Returns the manifest
+    copy record, unverified until the item is public."""
+    print(f"2. Uploading to the Internet Archive as {item} ...", flush=True)
+    run(["ia", "upload", item, local, "--retries=5", *ia_metadata(e)], check=True)
     print("   Upload accepted.", flush=True)
+    return {"store": "internet_archive", "item": item, "path": os.path.basename(local),
+            "uploaded": today, "verified": None,
+            "verify_note": ("Upload accepted by the Internet Archive; sha256 to be checked once the item is "
+                            f"public, with: python3 tools/ingest_large.py --verify-ia {e['id']}")}
+
+
+def upload_one(root, p, run, today, notes):
+    """Drive copy (verified), Internet Archive upload, manifest entry, L1 text, packet index.
+    Returns the repository files written."""
+    e, staged = p["entry"], p["staged"]
+    drive = drive_copy(e, staged, p["drive_path"], run, today)
+    ia = ia_upload(e, staged, p["ia_item"], run, today)
     print(f"3. Writing manifest/{e['id']}.json and L1 text ...", flush=True)
-    e["blob"] = {"copies": [
-        {"store": "internet_archive", "item": p["ia_item"], "path": os.path.basename(staged),
-         "uploaded": today, "verified": None,
-         "verify_note": ("Upload accepted by the Internet Archive; sha256 to be checked once the item is "
-                         f"public, with: python3 tools/ingest_large.py --verify-ia {e['id']}")},
-        {"store": "google_drive", "location": p["drive_path"], "uploaded": today, "verified": today},
-    ]}
+    e["blob"] = {"copies": [ia, drive]}
     pi.write_json(os.path.join(root, "manifest", e["id"] + ".json"), e)
     tool = pi.pdftotext_version()
     text = pi.write_l1(root, e, p["place"], staged, tool, notes)
@@ -547,6 +567,93 @@ def upload_one(root, p, run, today, notes):
         if e["doc_type"] == "agenda_packet":
             files += packet_index(root, text, e["contributed_by"], today, notes)
     return files
+
+
+# The daily archive job (README, "Staged landing" and "Records with no public source"). It runs
+# from the ops repository, which holds the storage credentials, on a checkout of main.
+
+def preserve_pending(root):
+    """Entries the daily archive job has to preserve, as (id, kind):
+    "staged" for an external blob with a staged copy and no Drive copy yet, and "no-source" for an
+    approved L0 file kept in git with no public source and no Internet Archive copy yet."""
+    out = []
+    for i, e in sorted(pi.load_manifest(root).items()):
+        if e.get("layer") != "L0" or e.get("withdrawn"):
+            continue
+        copies = (e.get("blob") or {}).get("copies") or []
+        stores = {c.get("store") for c in copies}
+        if e.get("file") is None and "staged" in stores and "google_drive" not in stores:
+            out.append((i, "staged"))
+        elif e.get("file") and not e.get("source_url") and e.get("approved_by") and "internet_archive" not in stores:
+            out.append((i, "no-source"))
+    return out
+
+
+def preserve_one(root, mid, kind, staging, run=subprocess.run, fetch=None, hosts=None, today=None, notes=None):
+    """Make the archive's own copies of one entry and record them in its manifest entry.
+    Raises Problem, changing nothing in the manifest, if a fingerprint does not match.
+    Returns the repository files written."""
+    import source_hosts
+    today = today or datetime.datetime.now(datetime.timezone.utc).date().isoformat()
+    notes = notes if notes is not None else []
+    fetch = fetch or fetch_url
+    hosts = source_hosts.load(root) if hosts is None else hosts
+    path = os.path.join(root, "manifest", mid + ".json")
+    with open(path) as f:
+        e = json.load(f)
+    item = ia_identifier(mid)
+    if kind == "no-source":
+        local = os.path.join(root, e["file"])
+        if pi.sha256_file(local) != e["sha256"]:
+            raise Problem(f"{mid}: {e['file']} does not match its sha256; nothing uploaded")
+        e["blob"] = {"copies": [ia_upload(e, local, item, run, today)]}
+        pi.write_json(path, e)
+        return [f"manifest/{mid}.json"]
+    staged = next(c for c in e["blob"]["copies"] if c.get("store") == "staged")
+    work = tempfile.mkdtemp(dir=staging)
+    try:
+        got = fetch_drive(staged["url"], work, run)
+        local = os.path.join(work, staged.get("filename") or os.path.basename(got))
+        os.replace(got, local)
+        if pi.sha256_file(local) != e["sha256"]:
+            raise Problem(f"{mid}: the staged file at {staged['url']} does not match the manifest's sha256; "
+                          "nothing uploaded. The contributor should check the link or the entry.")
+        if source_hosts.approved(e.get("source_url"), hosts):
+            src_dir = tempfile.mkdtemp(dir=work)
+            try:
+                src = fetch(e["source_url"], src_dir)
+            except Exception as x:  # a host that is down defers the upload to a later run
+                raise Problem(f"{mid}: could not download {e['source_url']} to compare ({x}); will try again")
+            if pi.sha256_file(src) != e["sha256"]:
+                raise Problem(f"{mid}: {e['source_url']} serves a different file from the staged one; nothing "
+                              "uploaded. Check that the staged file is the one the public body published.")
+        drive = drive_copy(e, local, f"{DRIVE_FOLDER}/{os.path.basename(local)}", run, today)
+        ia = ia_upload(e, local, item, run, today)
+    finally:
+        shutil.rmtree(work, ignore_errors=True)
+    e["blob"]["copies"] = [ia, drive]
+    pi.write_json(path, e)
+    files = [f"manifest/{mid}.json"]
+    tid = mid + "-text"
+    if e.get("doc_type") == "agenda_packet" and os.path.exists(os.path.join(root, "manifest", tid + ".json")):
+        if not any(i.startswith(mid) and i.endswith("-items") for i in pi.load_manifest(root)):
+            files += packet_index(root, tid, e["contributed_by"], today, notes)
+    return files
+
+
+def preserve(root, staging, run=subprocess.run, fetch=None, today=None):
+    """Preserve every pending entry. Returns (files written, problems); one entry's problem never
+    stops the others."""
+    files, problems, notes = [], [], []
+    for mid, kind in preserve_pending(root):
+        print(f"\n{mid} ({kind})", flush=True)
+        try:
+            files += preserve_one(root, mid, kind, staging, run=run, fetch=fetch, today=today, notes=notes)
+        except (Problem, subprocess.CalledProcessError) as x:
+            problems.append(f"{mid}: {x}")
+    for n in notes:
+        print("note:", n)
+    return files, problems
 
 
 def missing_packets(root, since):
@@ -613,6 +720,9 @@ def main(argv=None):
     ap.add_argument("--contributor", help="with --meeting: the GitHub login recorded as contributed_by "
                                           "(default: gh api user)")
     ap.add_argument("--branch", help="with --meeting --upload --open-pr: the branch for the batch")
+    ap.add_argument("--preserve", action="store_true",
+                    help="the daily archive job: make the archive's copies of every staged blob and every "
+                         "approved L0 with no public source (PUBLIC AND PERMANENT), and record them")
     ap.add_argument("--verify-ia", nargs="+", metavar="ID",
                     help="verify these blobs' Internet Archive copies ('pending' for every unverified one)")
     ap.add_argument("--collection", help="override or supply the collection, e.g. sources/budgets, agenda-packets")
@@ -626,6 +736,13 @@ def main(argv=None):
     ap.add_argument("--issue-json", help="read the issue from this JSON file instead of gh (testing)")
     ap.add_argument("--root", default=ROOT)
     a = ap.parse_args(argv)
+    if a.preserve:
+        os.makedirs(a.staging, exist_ok=True)
+        files, problems = preserve(a.root, a.staging)
+        for x in problems:
+            print("NOT PRESERVED", x, file=sys.stderr)
+        print(f"{len(files)} files written; {len(problems)} entries not preserved")
+        return 1 if problems else 0
     if a.verify_ia:
         ids = pending_ia(a.root) if a.verify_ia == ["pending"] else a.verify_ia
         failed = 0
