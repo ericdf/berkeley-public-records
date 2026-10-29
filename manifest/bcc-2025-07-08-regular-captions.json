@@ -26,8 +26,7 @@
         "item": "berkeley-public-records-bcc-2025-07-08-regular-captions",
         "path": "bcc-2025-07-08-regular-captions.pdf",
         "uploaded": "2026-10-29",
-        "verified": null,
-        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public, with: python3 tools/ingest_large.py --verify-ia bcc-2025-07-08-regular-captions"
+        "verified": "2026-10-29"
       }
     ]
   }
