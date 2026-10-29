@@ -20,7 +20,7 @@ publishes and `queue/` what is pending; neither is a holding.
 ## Authority
 
 **Git on GitHub is the archive.** A document is in the archive when, and only when, its manifest
-entry is merged to `main`. Every other store (the Internet Archive, Google Drive, a contributor's
+entry is on `main`. Every other store (the Internet Archive, Google Drive, a contributor's
 download, the City's website) holds copies or sources, and a copy is good if and only if its
 sha256 matches the manifest. The repository holds records and their reproducible
 transformations; analysis, interpretation and publication belong to the projects that read it.
@@ -272,18 +272,21 @@ Two external stores serve two different purposes, and neither is ever edited dir
 
 | Store | Role | What it holds | Written by |
 |---|---|---|---|
-| Git on GitHub | **The archive** | Manifest, every file up to 25 MB that is not a bulk collection, all L1–L3, catalogs, queue | Pull requests merged to `main` |
-| Internet Archive, item `berkeley-public-records-<id>` | **External copy** of a large or bulk file | One L0 or T0 file per item | `tools/ingest_large.py --upload`, with the maintainer's approval each time (public and permanent) |
-| Google Drive, folder `berkeley-public-records-blobs` | **External copy** of a large or bulk file, the second independent copy | The same files | `tools/ingest_large.py --upload` |
-| Google Drive, folder `berkeley-public-records-mirror` | **Backup mirror** of git, so the archive survives the loss of GitHub access | Every git-tracked file as of one commit of `main`, recorded in `MIRRORED_COMMIT.txt` | `tools/mirror_to_drive.sh`, from a clean checkout of `main` |
+| Git on GitHub | **The archive** | Manifest, every file up to 25 MB that is not a bulk collection, all L1–L3, catalogs, queue | Approved contributors, by commit or pull request |
+| A contributor's Google Drive, shared as "anyone with the link can view" | **Staged copy** of a large or bulk L0 file, until the archive's copies exist | One file per entry, as `staged` in `blob.copies` | The contributor (README, "Staged landing") |
+| Internet Archive, item `berkeley-public-records-<id>` | **External copy** of a large or bulk L0 file, and of L0 with no public source | One L0 file per item | The daily archive job, or the maintainer with `tools/ingest_large.py --upload` (public and permanent) |
+| Google Drive, folder `berkeley-public-records-blobs` | **External copy** of a large or bulk file, the second independent copy | The same large and bulk files | The daily archive job, or the maintainer with `tools/ingest_large.py --upload` |
+| Google Drive, folder `berkeley-public-records-mirror` | **Backup mirror** of git, so the archive survives the loss of GitHub access | Every git-tracked file as of one commit of `main`, recorded in `MIRRORED_COMMIT.txt` | The daily archive job, with `tools/mirror_to_drive.sh` |
 
 Both Drive folders belong to the archive account, `berkeleypublicrecords@gmail.com`.
 
-- **A blob is merged only when both copies are verified**, each by downloading it and checking
-  its sha256. The Drive copy is verified at upload. The Internet Archive copy can be checked only
-  once the item is public, so the large-file pull request opens as a draft with that copy at
-  `verified: null`, and stays a draft until `tools/ingest_large.py --verify-ia <id>` records the
-  check on the same branch. The validator refuses any blob copy without a `verified` date.
+- **A blob lands with a staged copy or a verified archive copy**, and each archive copy is
+  checked by downloading it and comparing its sha256. The Drive copy is verified when it is made.
+  The Internet Archive copy can be checked only once the item is public, so it may wait at
+  `verified: null` until `tools/ingest_large.py --verify-ia pending` records the check.
+  `tools/validate.py` lists the entries still awaiting the daily archive job.
+- **The storage credentials are never in this repository.** The daily archive job runs from the
+  ops repository, a private repository the archive maintainer controls (README, "Storage").
 - **Drive has a quota; the Internet Archive does not.** The archive account's Drive is the
   free 15 GiB plan, holding the external copies and the mirror. `tools/ingest_large.py` reports
   free space in its dry run and refuses an upload that would leave less than 1 GiB. Agenda
@@ -295,10 +298,11 @@ Both Drive folders belong to the archive account, `berkeleypublicrecords@gmail.c
 
 ### Google Drive as a way in, and Google Docs
 
-Google Drive is an **ingest channel** as well as a store: a contributor may share a file with the
-archive account and give its link in a Large file Issue. That file is downloaded, fingerprinted
-and archived like any other, and from then on the archive copy is authoritative and the shared
-original is only a source.
+Google Drive is an **ingest channel** as well as a store. An approved contributor stages a large
+file in their own Drive, shared as "anyone with the link can view", and records the link as a
+`staged` copy; anyone else shares a file with the archive account and gives its link in a Large
+file Issue. Either way the file is fingerprinted and archived like any other, and once the
+archive's own copies exist the shared original is only a source.
 
 **Google Docs, Sheets and Slides have no role in the archive.** A native Google document has no
 fixed bytes (each export can differ), so it cannot carry a sha256, and it can be edited in

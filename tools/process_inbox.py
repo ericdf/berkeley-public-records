@@ -12,6 +12,14 @@ manifest/<id>.json, writes L1 text with `pdftotext -layout` when the PDF has a t
 and deletes the two inbox files. Nothing is changed unless every contribution in the inbox
 is valid: fix the errors it prints and run it again.
 
+A document over 25 MB, or an agenda packet, is staged instead (README, "Large files"): its
+.json gives "staged_url", a Google Drive link to the same file shared as "anyone with the link
+can view". The manifest entry is written with "file": null and a staged copy; the L1 text is
+written from the local file, which is then moved out of the repository to
+~/berkeley-public-records-pending-blobs (or --staging). The daily archive job makes the
+archive's own copies later. Staging is done locally, never by the inbox workflow, because a
+file over 25 MB can never be committed.
+
 Runs in the inbox GitHub Action, and locally:
 
   python3 tools/process_inbox.py --contributor <your GitHub username>
@@ -61,6 +69,10 @@ FIELDS = {
                     "entry gets revised_by pointing back"),
     "version_label": "optional, with revision_of: the public body's word for this version, e.g. Revised",
     "version_note": "optional: a short note about this version, e.g. why an earlier one was not located",
+    "staged_url": ("files over 25 MB and agenda packets: a Google Drive link to the same file, shared as "
+                   "\"anyone with the link can view\" (README, \"Large files\")"),
+    "approved_by": ("L0 with no source_url: your GitHub username, approving its publication to the Internet "
+                    "Archive (README, \"Records with no public source\")"),
 }
 # Collections with their own top-level directory. Everything else from a public body goes
 # under sources/<topic>/, as the existing holdings do.
@@ -74,6 +86,11 @@ MEETING_COLLECTIONS = {
 # Issue and tools/ingest_large.py, never through the inbox, whatever their size.
 BLOB_ONLY_COLLECTIONS = {"agenda-packets"}
 CITY_MEETINGS = os.path.join("catalog", "city-council-agendas", "meetings.json")
+DEFAULT_STAGING = os.path.expanduser("~/berkeley-public-records-pending-blobs")
+DRIVE_LINK_RE = re.compile(r"^https://drive\.google\.com/(file/d/[A-Za-z0-9_-]{10,}|open\?id=[A-Za-z0-9_-]{10,})")
+# L0 with no public source archived from this date names who approved its Internet Archive copy
+# (tools/validate.py checks the same date).
+APPROVAL_FROM = "2026-10-30"
 TOP_LEVEL_L0 = set(MEETING_COLLECTIONS) | {"clerk"}
 # Agenda item reports: Council staff reports, and items from Council policy committees and City
 # commissions. Filed under L0/staff-reports/ with the body named in the entry; the id is
@@ -419,7 +436,7 @@ def build_entry(meta, place, digest, size, contributor, today, ext):
         e["meeting_date"] = meta["meeting_date"]
     if meta.get("item"):
         e["item"] = str(meta["item"]).strip()
-    for f in ("revision_of", "version_label", "version_note"):
+    for f in ("revision_of", "version_label", "version_note", "approved_by"):
         if meta.get(f):
             e[f] = str(meta[f]).strip()
     e.update(file=f"{place['l0']}/{place['id']}.{ext}", sha256=digest, bytes=size,
@@ -478,10 +495,11 @@ def write_l1(root, entry, place, local_path, tool, notes):
     return tid
 
 
-def process(root, contributor, today=None, log=print):
+def process(root, contributor, today=None, log=print, staging=None):
     """Process the inbox under `root`. Returns a result dict; raises Problem (changing nothing)
-    if any contribution is invalid."""
+    if any contribution is invalid. Staged documents are moved to `staging`."""
     today = today or datetime.datetime.now(datetime.timezone.utc).date().isoformat()
+    staging = staging or DEFAULT_STAGING
     inbox = os.path.join(root, "inbox")
     result = {"added": [], "notes": [], "warnings": []}
     if not os.path.isdir(inbox):
@@ -494,13 +512,6 @@ def process(root, contributor, today=None, log=print):
     for name, doc, metapath in pairs:
         docname = os.path.basename(doc)
         size = os.path.getsize(doc)
-        if size > MAX_IN_GIT:
-            problems.append(
-                f"inbox/{docname} is {size / 1048576:.1f} MB. Files over 25 MB cannot go into the "
-                "repository. Delete it from this branch and open a \"Large file\" Issue with its "
-                "source URL or a shared-drive link; the maintainer stores large files outside git "
-                "(README, \"Large files\").")
-            continue
         try:
             with open(metapath, encoding="utf-8") as f:
                 meta = json.load(f)
@@ -519,10 +530,35 @@ def process(root, contributor, today=None, log=print):
             problems.append(f"inbox/{name}.json: \"revision_of\" is {meta['revision_of']!r}, which is not an "
                             "archive id. Give the id of the earlier version as it appears in manifest/.")
             continue
-        if str(meta.get("collection") or "").strip() in BLOB_ONLY_COLLECTIONS:
+        staged = bool(meta.get("staged_url"))
+        if size > MAX_IN_GIT and not staged:
+            problems.append(
+                f"inbox/{docname} is {size / 1048576:.1f} MB. Files over 25 MB cannot go into the "
+                "repository. Stage it instead: put the same file in your Google Drive, share it as "
+                "\"anyone with the link can view\", and add \"staged_url\" with that link to "
+                f"inbox/{name}.json. Without write access, open a \"Large file\" Issue (README, \"Large files\").")
+            continue
+        if str(meta.get("collection") or "").strip() in BLOB_ONLY_COLLECTIONS and not staged:
             problems.append(f"inbox/{name}: agenda packets are always stored outside git, whatever "
-                            "their size. Remove both files and open a \"Large file\" Issue with the "
-                            "City's link to the packet (README, \"Large files\").")
+                            "their size. Stage it: add \"staged_url\", a Google Drive link to the same "
+                            "file shared as \"anyone with the link can view\". Without write access, "
+                            "open a \"Large file\" Issue with the City's link to the packet (README, "
+                            "\"Large files\").")
+            continue
+        if staged and not DRIVE_LINK_RE.match(str(meta["staged_url"]).strip()):
+            problems.append(f"inbox/{name}.json: \"staged_url\" must be a Google Drive file link "
+                            "(https://drive.google.com/file/d/...), shared as \"anyone with the link can view\".")
+            continue
+        if staged and str(meta.get("layer") or "").strip() != "L0":
+            problems.append(f"inbox/{name}.json: only L0 documents are staged. A T0 file over 25 MB is not "
+                            "archived; record it with its source_url or wayback_url (README, \"Withdrawn "
+                            "and reference-only documents\").")
+            continue
+        if (str(meta.get("layer") or "").strip() == "L0" and not str(meta.get("source_url") or "").strip()
+                and today >= APPROVAL_FROM and not str(meta.get("approved_by") or "").strip()):
+            problems.append(f"inbox/{name}.json: a public-body document with no \"source_url\" needs "
+                            "\"approved_by\", your GitHub username, approving its publication to the Internet "
+                            "Archive (README, \"Records with no public source\").")
             continue
         meta = fill_meeting(root, meta)
         try:
@@ -551,7 +587,12 @@ def process(root, contributor, today=None, log=print):
                             "digits and hyphens), or check that this is not a copy.")
             continue
         entry = build_entry(meta, place, digest, size, contributor, today, ext)
-        if os.path.exists(os.path.join(root, entry["file"])):
+        if staged:
+            entry["file"] = None
+            entry["blob"] = {"copies": [{"store": "staged", "url": str(meta["staged_url"]).strip(),
+                                         "filename": f"{mid}.{ext}", "staged_by": contributor,
+                                         "staged_on": today}]}
+        elif os.path.exists(os.path.join(root, entry["file"])):
             problems.append(f"inbox/{docname}: {entry['file']} already exists. Add an \"id\" field "
                             "with a different id.")
             continue
@@ -561,10 +602,14 @@ def process(root, contributor, today=None, log=print):
     if problems:
         raise Problem("\n".join(problems))
 
-    tool = pdftotext_version() if any(p[2]["file"].endswith(".pdf") for p in plans) else None
+    tool = pdftotext_version() if any(doc.lower().endswith(".pdf") for doc, *_ in plans) else None
     for doc, metapath, entry, place in plans:
-        dest = os.path.join(root, entry["file"])
-        os.makedirs(os.path.dirname(dest), exist_ok=True)
+        if entry["file"] is None:
+            os.makedirs(staging, exist_ok=True)
+            dest = os.path.join(staging, entry["blob"]["copies"][0]["filename"])
+        else:
+            dest = os.path.join(root, entry["file"])
+            os.makedirs(os.path.dirname(dest), exist_ok=True)
         shutil.move(doc, dest)
         os.remove(metapath)
         write_json(os.path.join(root, "manifest", entry["id"] + ".json"), entry)
@@ -602,10 +647,10 @@ def summary_markdown(result=None, problem=None):
     lines = [f"**Added {len(result['added'])} document(s) to the archive.**", "",
              "| id | file | sha256 | text layer |", "|---|---|---|---|"]
     for a in result["added"]:
-        lines.append(f"| `{a['id']}` | `{a['file']}` | `{a['sha256']}` | {a['text']} |")
+        lines.append(f"| `{a['id']}` | `{a['file'] or 'staged'}` | `{a['sha256']}` | {a['text']} |")
     for n in result["warnings"] + result["notes"]:
         lines.append(f"\n- {n}")
-    lines.append("\nThe maintainer reviews and merges. Check the title, date and source above.")
+    lines.append("\nCheck the title, date and source above before this is merged.")
     return "\n".join(lines) + "\n"
 
 
@@ -615,12 +660,13 @@ def main(argv=None):
                     "(default: $GITHUB_ACTOR, else git config user.name)")
     ap.add_argument("--root", default=ROOT, help="archive root (default: this repository)")
     ap.add_argument("--summary-file", help="also write a Markdown summary here (for the PR comment)")
+    ap.add_argument("--staging", help=f"where staged documents are moved (default {DEFAULT_STAGING})")
     a = ap.parse_args(argv)
     contributor = a.contributor or contributor_default()
     if not contributor:
         ap.error("pass --contributor <your GitHub username>")
     try:
-        result = process(a.root, contributor)
+        result = process(a.root, contributor, staging=a.staging)
     except Problem as x:
         print("NOT PROCESSED. Nothing was changed. Fix these and run again:", file=sys.stderr)
         for line in str(x).splitlines():
@@ -632,7 +678,7 @@ def main(argv=None):
     for w in result["warnings"]:
         print("WARNING", w)
     for item in result["added"]:
-        print(f"added {item['id']}  {item['file']}  sha256 {item['sha256']}  text: {item['text']}")
+        print(f"added {item['id']}  {item['file'] or 'staged (file kept outside git)'}  sha256 {item['sha256']}  text: {item['text']}")
     for n in result["notes"]:
         print("note:", n)
     print(f"{len(result['added'])} document(s) processed; contributed_by {contributor}")

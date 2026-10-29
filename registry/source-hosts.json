@@ -1,0 +1,12 @@
+{
+  "_note": "Web hosts whose documents are treated as published by a public body. A document whose source_url is on one of these hosts is downloaded again and compared with its sha256: by CI when its manifest entry is added (tools/check_sources.py), and by the daily archive job before it uploads an external blob. A document from any other host is still welcome; it is handled as having no public source to check against. Any contributor with write access may add a host, naming the public body it belongs to. subdomains: true also matches every host ending in .<host>.",
+  "hosts": [
+    {"host": "berkeleyca.gov", "body": "City of Berkeley", "subdomains": true},
+    {"host": "cityofberkeley.info", "body": "City of Berkeley (the City's former website)", "subdomains": true},
+    {"host": "berkeley.granicus.com", "body": "City of Berkeley (meeting video and agenda host)", "subdomains": false},
+    {"host": "cityofberkeleyca.nextrequest.com", "body": "City of Berkeley (public-records request portal)", "subdomains": false},
+    {"host": "berkeleyschools.net", "body": "Berkeley Unified School District", "subdomains": true},
+    {"host": "ca.gov", "body": "State of California", "subdomains": true},
+    {"host": "gov", "body": "United States government domains (federal, and state and local bodies registered under .gov)", "subdomains": true}
+  ]
+}
