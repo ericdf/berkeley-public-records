@@ -5,6 +5,35 @@ belongs to, where it came from, and where its bytes are stored. README.md is the
 governs where this file disagrees with it; AGENTS.md is the operating procedure. This file is
 the map both of them assume.
 
+## How material moves
+
+```mermaid
+flowchart LR
+  C[Approved contributors] -->|commit files up to 25 MB| A[(berkeley-public-records<br/>public · no credentials)]
+  C -->|commit the entry for a staged large file| A
+  M[Archive maintainer] -->|records with no public source| A
+  A -.->|daily: staged entries and tracked files| J[Daily archive job<br/>ops repository · private · storage credentials]
+  J -->|upload as the archive account| IA[(Internet Archive)]
+  J -->|blob copies and mirror, as the archive account| GD[(Google Drive)]
+  J -->|record verified copies in the manifest| A
+  A -.->|anyone may read| D[/<i>inference-and-publishing</i><br/><i>independent downstream projects</i>/]
+  classDef archive fill:#dcebf2,stroke:#1f5e7a,color:#13303e
+  classDef ops fill:#f6ecd9,stroke:#8a5a12,color:#3d2a08
+  classDef down fill:#ece6f5,stroke:#5b3f8c,color:#2e1f4a,font-style:italic
+  class A,IA,GD archive
+  class J ops
+  class D down
+```
+
+- **Blue: the archive and its storage.** Git is the archive; the Internet Archive and Google
+  Drive hold copies owned by the archive account, each checked against the manifest's sha256.
+- **Amber: archive operations.** The daily archive job runs from the ops repository, a private
+  repository the archive maintainer controls. It holds the storage credentials, because this
+  repository holds none (README, "Storage").
+- **Violet, in italics: *inference-and-publishing*.** Anything that reads the archive and draws
+  conclusions or publishes from it. Each project is independent and run by its own owner; the
+  archive places no requirements on them (README, "Using the archive").
+
 ## Four questions every record answers
 
 | Question | Answered by |
