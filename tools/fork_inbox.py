@@ -11,7 +11,15 @@ tests) is this repository's own code.
 
 Refuses, and copies nothing, if the pull request changes anything outside inbox/, deletes or
 renames a file, touches inbox/README.md, adds a symbolic link, a submodule or a subfolder, or
-adds a file over 25 MB. Standard library only.
+adds a file over 25 MB.
+
+The workflow's second job, which can push, receives the processed result as a patch from the
+first and checks what it staged before committing anything:
+
+  python3 tools/fork_inbox.py --check-staged
+
+Refuses unless every staged change adds a plain file under L0/, L1/, T0/ or manifest/, none
+over 25 MB. Standard library only.
 """
 import argparse, os, re, subprocess, sys
 
@@ -71,6 +79,31 @@ def apply(root, head, paths):
         os.chmod(os.path.join(root, p), 0o644)
 
 
+PROCESSED_RE = re.compile(r"^(L0|L1|T0|manifest)/[A-Za-z0-9][A-Za-z0-9._/-]*$")
+
+
+def check_staged(root, max_bytes=MAX_IN_GIT):
+    """Reasons to refuse the staged changes (empty when they only add archive files)."""
+    raw = git(root, "diff", "--cached", "--raw", "-z", "--no-renames", "--no-abbrev").decode()
+    parts = raw.split("\0")
+    errors, n = [], 0
+    for i in range(0, len(parts) - 1, 2):
+        meta = parts[i].lstrip(":").split()
+        status, mode, blob, path = meta[4], meta[1], meta[3], parts[i + 1]
+        n += 1
+        if status != "A":
+            errors.append(f"{path}: changes an existing file (status {status})")
+        elif not PROCESSED_RE.match(path) or "/../" in path or "/./" in path:
+            errors.append(f"{path}: not under L0/, L1/, T0/ or manifest/")
+        elif mode != "100644":
+            errors.append(f"{path}: mode {mode}, not an ordinary file")
+        elif int(git(root, "cat-file", "-s", blob)) > max_bytes:
+            errors.append(f"{path}: over 25 MB")
+    if not n:
+        errors.append("nothing is staged")
+    return errors
+
+
 def summary(errors):
     lines = ["**Nothing was processed.** The inbox robot takes only new files placed directly in `inbox/`:", ""]
     lines += [f"- {e}" for e in errors]
@@ -81,12 +114,20 @@ def summary(errors):
 
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--base", required=True, help="this repository's main, checked out")
-    ap.add_argument("--head", required=True, help="the pull request's head commit, fetched")
+    ap.add_argument("--base", help="this repository's main, checked out")
+    ap.add_argument("--head", help="the pull request's head commit, fetched")
+    ap.add_argument("--check-staged", action="store_true", help="check the staged processed result instead")
     ap.add_argument("--root", default=ROOT)
     ap.add_argument("--apply", action="store_true", help="copy the inbox files into the working tree")
     ap.add_argument("--summary-file", help="on refusal, write a Markdown explanation here")
     a = ap.parse_args(argv)
+    if a.check_staged:
+        errors = check_staged(a.root)
+        for e in errors:
+            print("REFUSED", e, file=sys.stderr)
+        return 1 if errors else 0
+    if not (a.base and a.head):
+        ap.error("pass --base and --head, or --check-staged")
     paths, errors = check(a.root, a.base, a.head)
     if errors:
         for e in errors:

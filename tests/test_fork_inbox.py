@@ -98,5 +98,27 @@ class ForkInboxTests(unittest.TestCase):
         self.assertEqual((paths, errors), (["inbox/report.pdf"], []))
 
 
+    def test_staged_processed_result(self):
+        self.git("switch", "-q", "main")
+        self.write("L0/sources/budgets/a.pdf", "%PDF\n")
+        self.write("manifest/a.json", "{}\n")
+        self.git("add", "-A")
+        self.assertEqual(fi.check_staged(self.root), [])
+        self.write("tools/validate.py", "evil\n")
+        self.write(".github/workflows/x.yml", "on: push\n")
+        self.git("add", "-A")
+        errors = fi.check_staged(self.root)
+        self.assertEqual(len(errors), 2, errors)
+
+    def test_staged_symlink_and_large_file(self):
+        self.git("switch", "-q", "main")
+        os.makedirs(os.path.join(self.root, "L0"), exist_ok=True)
+        os.symlink("/etc/passwd", os.path.join(self.root, "L0", "link.pdf"))
+        self.write("L1/big.txt", "x" * 100)
+        self.git("add", "-A")
+        errors = fi.check_staged(self.root, max_bytes=50)
+        self.assertEqual(len(errors), 2, errors)
+
+
 if __name__ == "__main__":
     unittest.main()
