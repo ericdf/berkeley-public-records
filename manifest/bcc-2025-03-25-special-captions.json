@@ -18,5 +18,16 @@
   "notices": [
     "This information provided by a Certified Realtime Reporter. The City of Berkeley cannot certify the following text since we did not create it."
   ],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-bcc-2025-03-25-special-captions",
+        "path": "bcc-2025-03-25-special-captions.pdf",
+        "uploaded": "2026-10-29",
+        "verified": "2026-10-29"
+      }
+    ]
+  }
 }
