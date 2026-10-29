@@ -542,7 +542,9 @@ def ia_upload(e, local, item, run, today):
     """Upload local to the Internet Archive as item (PUBLIC AND PERMANENT). Returns the manifest
     copy record, unverified until the item is public."""
     print(f"2. Uploading to the Internet Archive as {item} ...", flush=True)
-    run(["ia", "upload", item, local, "--retries=5", *ia_metadata(e)], check=True)
+    # --checksum skips a file the item already holds unchanged, so a run cut short and retried
+    # does not upload it again.
+    run(["ia", "upload", item, local, "--retries=5", "--checksum", *ia_metadata(e)], check=True)
     print("   Upload accepted.", flush=True)
     return {"store": "internet_archive", "item": item, "path": os.path.basename(local),
             "uploaded": today, "verified": None,
