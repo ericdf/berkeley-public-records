@@ -63,6 +63,18 @@ LABELS = {
 Problem = pi.Problem
 
 
+class Deferred(Problem):
+    """Not done this run, through no fault in the entry: the Internet Archive asked to slow down,
+    or a source could not be reached. The daily archive job tries again on its next run.
+    stop_batch: the remaining entries would be refused too, so the run stops trying."""
+    def __init__(self, msg, stop_batch=False):
+        super().__init__(msg)
+        self.stop_batch = stop_batch
+
+
+RATE_LIMITED = "reduce your request rate"
+
+
 def parse_issue_body(body):
     """Parse a GitHub issue-form body ("### Label" then the answer) into {field: value or None}."""
     out, label, buf = {}, None, []
@@ -544,7 +556,17 @@ def ia_upload(e, local, item, run, today):
     print(f"2. Uploading to the Internet Archive as {item} ...", flush=True)
     # --checksum skips a file the item already holds unchanged, so a run cut short and retried
     # does not upload it again.
-    run(["ia", "upload", item, local, "--retries=5", "--checksum", *ia_metadata(e)], check=True)
+    p = run(["ia", "upload", item, local, "--retries=5", "--checksum", *ia_metadata(e)],
+            capture_output=True, text=True)
+    if p is not None:
+        out = (p.stdout or "") + (p.stderr or "")
+        print(out, end="" if out.endswith("\n") or not out else "\n", flush=True)
+        if p.returncode != 0:
+            if RATE_LIMITED in out.lower():
+                raise Deferred(f"the Internet Archive asked to slow down before {item} was uploaded",
+                               stop_batch=True)
+            last = [l for l in out.splitlines() if l.strip()][-1:] or ["no output"]
+            raise Problem(f"ia upload of {item} failed: {last[0].strip()}")
     print("   Upload accepted.", flush=True)
     return {"store": "internet_archive", "item": item, "path": os.path.basename(local),
             "uploaded": today, "verified": None,
@@ -625,7 +647,7 @@ def preserve_one(root, mid, kind, staging, run=subprocess.run, fetch=None, hosts
             try:
                 src = fetch(e["source_url"], src_dir)
             except Exception as x:  # a host that is down defers the upload to a later run
-                raise Problem(f"{mid}: could not download {e['source_url']} to compare ({x}); will try again")
+                raise Deferred(f"{mid}: could not download {e['source_url']} to compare ({x}); will try again")
             if pi.sha256_file(src) != e["sha256"]:
                 raise Problem(f"{mid}: {e['source_url']} serves a different file from the staged one; nothing "
                               "uploaded. Check that the staged file is the one the public body published.")
@@ -644,18 +666,25 @@ def preserve_one(root, mid, kind, staging, run=subprocess.run, fetch=None, hosts
 
 
 def preserve(root, staging, run=subprocess.run, fetch=None, today=None):
-    """Preserve every pending entry. Returns (files written, problems); one entry's problem never
-    stops the others."""
-    files, problems, notes = [], [], []
-    for mid, kind in preserve_pending(root):
+    """Preserve every pending entry. Returns (files written, problems, deferred). One entry's
+    problem never stops the others; when the Internet Archive asks to slow down, the rest wait
+    for the next run, since further uploads would be refused too."""
+    files, problems, deferred, notes = [], [], [], []
+    pending = preserve_pending(root)
+    for k, (mid, kind) in enumerate(pending):
         print(f"\n{mid} ({kind})", flush=True)
         try:
             files += preserve_one(root, mid, kind, staging, run=run, fetch=fetch, today=today, notes=notes)
+        except Deferred as x:
+            deferred.append(f"{mid}: {x}")
+            if x.stop_batch:
+                deferred += [f"{m}: waiting for the next run" for m, _ in pending[k + 1:]]
+                break
         except (Problem, subprocess.CalledProcessError) as x:
             problems.append(f"{mid}: {x}")
     for n in notes:
         print("note:", n)
-    return files, problems
+    return files, problems, deferred
 
 
 def missing_packets(root, since):
@@ -740,10 +769,13 @@ def main(argv=None):
     a = ap.parse_args(argv)
     if a.preserve:
         os.makedirs(a.staging, exist_ok=True)
-        files, problems = preserve(a.root, a.staging)
+        files, problems, deferred = preserve(a.root, a.staging)
         for x in problems:
             print("NOT PRESERVED", x, file=sys.stderr)
-        print(f"{len(files)} files written; {len(problems)} entries not preserved")
+        for x in deferred[:5]:
+            print("DEFERRED", x)
+        print(f"{len(files)} files written; {len(problems)} entries not preserved; "
+              f"{len(deferred)} deferred to the next run")
         return 1 if problems else 0
     if a.verify_ia:
         ids = pending_ia(a.root) if a.verify_ia == ["pending"] else a.verify_ia
