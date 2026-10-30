@@ -20,5 +20,17 @@
   "notices": [
     "This information provided by Zoom. The City of Berkeley cannot certify the following text since we did not create it."
   ],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-bcc-2026-10-13-regular-captions",
+        "path": "bcc-2026-10-13-regular-captions.pdf",
+        "uploaded": "2026-10-30",
+        "verified": null,
+        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public, with: python3 tools/ingest_large.py --verify-ia bcc-2026-10-13-regular-captions"
+      }
+    ]
+  }
 }
