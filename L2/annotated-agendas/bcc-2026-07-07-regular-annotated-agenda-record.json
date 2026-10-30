@@ -1,0 +1,1376 @@
+{
+ "id": "bcc-2026-07-07-regular-annotated-agenda-record",
+ "annotated_agenda": "bcc-2026-07-07-regular-annotated-agenda",
+ "text": "bcc-2026-07-07-regular-annotated-agenda-text",
+ "text_sha256": "aa4495a7c7edaa5578ae47de8006b1e79ae4b3023f88e6f16d9a5b1474ecdc0e",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:05 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "6:12 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Annual Appropriations Ordinance",
+   "lines": [
+    96,
+    106
+   ],
+   "from": "City Manager",
+   "contact": "Maricar Dupaya, Budget Manager, (510) 981-7000",
+   "financial_implications": "See report",
+   "action": "Action: Adopted new first reading of Ordinance No. 8,029–N.S. to include revised materials from the City Manager in Supplemental Communications Packet #1. Second reading scheduled for July 14, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": {
+    "all_ayes": true,
+    "ayes": [],
+    "noes": [],
+    "abstain": [],
+    "absent": [],
+    "recused": [],
+    "as_printed": "First Reading Vote: All Ayes."
+   }
+  },
+  {
+   "item": "2",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 114159-1 Amendment: Tyler Technologies, Inc. for Computer Aided Dispatch (CAD) Software",
+   "lines": [
+    108,
+    119
+   ],
+   "from": "City Manager",
+   "contact": "Kevin Fong, Information Technology, (510) 981-6500",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,370–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "3",
+   "section": "Consent Calendar",
+   "heading": "Contract: Willdan Financial Services for Updates to Nexus Studies",
+   "lines": [
+    121,
+    130
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "Various Funds - $80,115",
+   "action": "Action: Adopted Resolution No. 72,371–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "4",
+   "section": "Consent Calendar",
+   "heading": "Revenue Grant Agreements: 2024 and 2025 Edward J. Byrne Memorial Justice Assistance (JAG) for Berkeley Police Department Costs",
+   "lines": [
+    138,
+    155
+   ],
+   "from": "City Manager",
+   "contact": "Jennifer Louis, Police, (510) 981-5900",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,372–N.S. (2024 Grant), and Resolution No. 72,373–N.S. (2025 Grant).",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "5",
+   "section": "Consent Calendar",
+   "heading": "2025 Annual Police Equipment Report",
+   "lines": [
+    157,
+    165
+   ],
+   "from": "City Manager",
+   "contact": "Jennifer Louis, Police, (510) 981-5900",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,374–N.S. Supplemental materials submitted in Supplemental Communications Packet #2 from the Police Accountability Board.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "6",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Ambulance Transport Fee Increase",
+   "lines": [
+    173,
+    194
+   ],
+   "from": "City Manager",
+   "contact": "David Sprague, Fire, (510) 981-3473",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Humbert/O’Keefe) to adopt Resolution No. 72,375–N.S. adjusting the Ambulance User Fee to match Alameda County’s approved ambulance user fee schedule made effective July 1, 2026, for the Cities of Alameda, Albany, Berkeley, and Piedmont and to adjust the First Responder Fee. The increase would be included as an updated addendum to the Ambulance Provider Agreement, and rescinding Resolution 71,829–N.S. Vote: All Ayes.",
+   "speakers": 1,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-okeefe",
+       "as_printed": "O’Keefe"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 72,375–N.S. adjusting the Ambulance User Fee to match Alameda County’s approved ambulance user fee schedule made effective July 1, 2026, for the Cities of Alameda, Albany, Berkeley, and Piedmont and to adjust the First Responder Fee. The increase would be included as an updated addendum to the Ambulance Provider Agreement, and rescinding Resolution 71,829–N.S.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "7",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Memorandum of Understanding (MOU) Compendium 2026: Agreements with Other Law Enforcement Agencies and Private Organizations",
+   "lines": [
+    202,
+    226
+   ],
+   "from": "City Manager",
+   "contact": "Jennifer Louis, Police, (510) 981-5900",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Humbert/Blackaby) to adopt Resolution No. 72,376–N.S. to 1) Approve the MOU Compendium reflecting the current operational agreements between the Berkeley Police Department and other law enforcement agencies and private organizations; 2) Accept the Suspicious Activity Report (SAR); and 3) Accept the Mutual Aid requests and responses report as submitted in accordance with existing City Council directives. Vote: All Ayes.",
+   "speakers": 2,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 72,376–N.S. to 1) Approve the MOU Compendium reflecting the current operational agreements between the Berkeley Police Department and other law enforcement agencies and private organizations; 2) Accept the Suspicious Activity Report (SAR); and 3) Accept the Mutual Aid requests and responses report as submitted in accordance with existing City Council directives.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "8",
+   "section": "Council Action Items",
+   "heading": "Large Vehicle Parking Regulations in the Public Right-of-Way (Reviewed by the Health, Life Enrichment, Equity & Community Committee)",
+   "lines": [
+    234,
+    275
+   ],
+   "from": "Councilmember Taplin (Author), Councilmember Blackaby (Co- Sponsor), Councilmember Humbert (Co-Sponsors)",
+   "contact": "Terry Taplin, Councilmember, District 2, (510) 981-7120",
+   "financial_implications": "See report",
+   "action": "Action: 11 speakers. Councilmember Kesarwani added as a co-sponsor. Revised materials submitted at the meeting by Councilmember Taplin. M/S/C (Taplin/Humbert) to approve the revised item submitted by Councilmember Taplin with a minor wording change to recommendation 2.d. Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, O’Keefe, Blackaby, Humbert; Noes – Lunaparra, Ishii.",
+   "speakers": 11,
+   "attribution": [
+    {
+     "member": "off-taplin",
+     "as_printed": "Councilmember Taplin (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-blackaby",
+     "as_printed": "Councilmember Blackaby (Co- Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    },
+    {
+     "member": "off-humbert",
+     "as_printed": "Councilmember Humbert (Co-Sponsors)",
+     "role": "co-sponsor",
+     "order": 3
+    }
+   ],
+   "added_cosponsors": [
+    {
+     "member": "off-kesarwani",
+     "as_printed": "Councilmember Kesarwani added as a co-sponsor"
+    }
+   ],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "approve the revised item submitted by Councilmember Taplin with a minor wording change to recommendation 2.d.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, O’Keefe, Blackaby, Humbert; Noes – Lunaparra, Ishii."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "9",
+   "section": "Council Action Items",
+   "heading": "Waterfront Specific Plan Environmental Review Authorization and Near-Term Priority Adjustments",
+   "lines": [
+    283,
+    309
+   ],
+   "from": "Councilmember Taplin (Author)",
+   "contact": "Terry Taplin, Councilmember, District 2, (510) 981-7120",
+   "financial_implications": "See report",
+   "action": "Action: Moved to Consent Calendar. Approved the recommendation.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-taplin",
+     "as_printed": "Councilmember Taplin (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "10",
+   "section": "Action Calendar – New Business",
+   "heading": "Five-Year Street Rehabilitation and Measure FF Plans for Fiscal Years 2027- 2031",
+   "lines": [
+    317,
+    343
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: 2 speakers. M/S/C (Humbert/Tregub) to adopt Resolution No. 72,377–N.S. adopting the Five-Year Street Rehabilitation Plan for Fiscal Years 2027-2031 and the Measure FF 5-Year CIP Plan for Fiscal Years 2027-2031 with the added clauses below. WHEREAS at its June 23, 2026 meeting Council identified the Vision Zero Phased Implementation Plan, Traffic Signal Master Plan, Transportation Fiber Optic Network, and Traffic Signal Modernization Project, and Transportation Nexus Study as unfunded needs requiring further review by the SAFE STREETS Citizen Oversight Committee (SSCOC) and City Council. THEREFORE BE IT RESOLVED that the Berkeley city Council directs staff to note the Vision Zero Phased Implementation Plan, Traffic Signal Master Plan, Transportation Fiber Optic Network, Traffic Signal Modernization Project, and Transportation Nexus Study are preliminary Measure FF Safety Projects and are subject to subsequent review and approval by the SAFE STREETS Citizen Oversight Committee (SSCOC) and the City Council; and Vote: All Ayes.",
+   "speakers": 2,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 72,377–N.S. adopting the Five-Year Street Rehabilitation Plan for Fiscal Years 2027-2031 and the Measure FF 5-Year CIP Plan for Fiscal Years 2027-2031 with the added clauses below. WHEREAS at its June 23, 2026 meeting Council identified the Vision Zero Phased Implementation Plan, Traffic Signal Master Plan, Transportation Fiber Optic Network, and Traffic Signal Modernization Project, and Transportation Nexus Study as unfunded needs requiring further review by the SAFE STREETS Citizen Oversight Committee (SSCOC) and City Council. THEREFORE BE IT RESOLVED that the Berkeley city Council directs staff to note the Vision Zero Phased Implementation Plan, Traffic Signal Master Plan, Transportation Fiber Optic Network, Traffic Signal Modernization Project, and Transportation Nexus Study are preliminary Measure FF Safety Projects and are subject to subsequent review and approval by the SAFE STREETS Citizen Oversight Committee (SSCOC) and the City Council; and",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "A",
+   "section": "Action Calendar – Continued Business",
+   "heading": "Placing an Ordinance Amending the Rent Stabilization Ordinance on the November 3, 2026 Ballot (Continued from June 30, 2026) (Item Contains Revised Material)",
+   "lines": [
+    351,
+    370
+   ],
+   "from": "Councilmember Lunaparra (Author), Councilmember Tregub (Co- Sponsor), Mayor Ishii (Co-Sponsor)",
+   "contact": "Cecilia Lunaparra, Councilmember, District 7, (510) 981-7170",
+   "financial_implications": "See report",
+   "action": "Action: 10 speakers. M/S/C (Tregub/Bartlett) to: 1. Adopt Resolution No. 72,378–N.S. as amended in the revised materials submitted by Councilmember Lunaparra in Supplemental Communications Packet #2 and further amended at the meeting regarding replacement units. 2. Designate Mayor Ishii, Councilmember Lunaparra, and Councilmember Tregub to file ballot measure arguments on behalf of the City Council. Vote: All Ayes.",
+   "speakers": 10,
+   "attribution": [
+    {
+     "member": "off-lunaparra",
+     "as_printed": "Councilmember Lunaparra (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-tregub",
+     "as_printed": "Councilmember Tregub (Co- Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    },
+    {
+     "member": "off-ishii",
+     "as_printed": "Mayor Ishii (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 3
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-bartlett",
+       "as_printed": "Bartlett"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "1. Adopt Resolution No. 72,378–N.S. as amended in the revised materials submitted by Councilmember Lunaparra in Supplemental Communications Packet #2 and further amended at the meeting regarding replacement units. 2. Designate Mayor Ishii, Councilmember Lunaparra, and Councilmember Tregub to file ballot measure arguments on behalf of the City Council.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "11",
+   "section": "Information Reports",
+   "heading": "FY 2026 Third Quarter Investment Report: Ended March 31, 2026",
+   "lines": [
+    374,
+    377
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #10: Five-Year Street Rehabilitation and Measure FF Plans for Fiscal Years 2027-2031",
+   "line": 390,
+   "entries": [
+    {
+     "as_printed": "Laura Fujii",
+     "line": 392,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Coolidge",
+     "line": 393,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Josie Gerst",
+     "line": 394,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Carol Hirth",
+     "line": 398,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chris Baskett",
+     "line": 399,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Hanna Wodaje (4)",
+     "line": 400,
+     "count": 4,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "section": "Communications",
+   "heading": "The House of Uncommon Grounds",
+   "line": 402,
+   "entries": [
+    {
+     "as_printed": "Benjamin Raya",
+     "line": 403,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Renovations of Old City Hall",
+   "line": 405,
+   "entries": [
+    {
+     "as_printed": "Eric Hyman",
+     "line": 406,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "2920 Shattuck Avenue",
+   "line": 408,
+   "entries": [
+    {
+     "as_printed": "Bonnie Mattison",
+     "line": 409,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Harrison Street",
+   "line": 411,
+   "entries": [
+    {
+     "as_printed": "Alana Herron",
+     "line": 412,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jahlee Arakaki",
+     "line": 413,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lauren Parsons (2)",
+     "line": 414,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Father’s Day",
+   "line": 416,
+   "entries": [
+    {
+     "as_printed": "Eid’s TV and Electronics",
+     "line": 417,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "1130 Oxford Street",
+   "line": 419,
+   "entries": [
+    {
+     "as_printed": "Sarah Pfeil",
+     "line": 420,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Richard Harris",
+     "line": 421,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Neal Sauer",
+     "line": 422,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "North Waterfront Park",
+   "line": 424,
+   "entries": [
+    {
+     "as_printed": "Jeff Malmuth",
+     "line": 425,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane Ann Fontenot and Bud Hensley",
+     "line": 426,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Zoning/Upzoning",
+   "line": 428,
+   "entries": [
+    {
+     "as_printed": "Mariela Moreno",
+     "line": 429,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Maya Philipson (2)",
+     "line": 430,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Claire Mecredy (2)",
+     "line": 431,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "World Cup Event",
+   "line": 433,
+   "entries": [
+    {
+     "as_printed": "Andrea Gray",
+     "line": 434,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Advocating for Berkeley Residents",
+   "line": 436,
+   "entries": [
+    {
+     "as_printed": "Friends of Adeline",
+     "line": 437,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Social Media Conduct",
+   "line": 439,
+   "entries": [
+    {
+     "as_printed": "Vanessa Cordova (3)",
+     "line": 440,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Brent Blackaby",
+     "line": 441,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Neighborhood Emergency Preparedness",
+   "line": 443,
+   "entries": [
+    {
+     "as_printed": "David Peattie",
+     "line": 448,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Attorney General Letter",
+   "line": 450,
+   "entries": [
+    {
+     "as_printed": "M. Eid Abdalla",
+     "line": 451,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Public Safety Concern",
+   "line": 453,
+   "entries": [
+    {
+     "as_printed": "Oscar Fernandez",
+     "line": 454,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Forwards",
+   "line": 456,
+   "entries": [
+    {
+     "as_printed": "Eid Abdallah (6)",
+     "line": 457,
+     "count": 6,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Russbumper",
+     "line": 458,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "E-Scooters",
+   "line": 460,
+   "entries": [
+    {
+     "as_printed": "Robert Borghese (3)",
+     "line": 461,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Carson Lepre (2)",
+     "line": 462,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #1: FY 2027 Annual Appropriations Ordinance",
+   "line": 465,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by the City Manager’s Office",
+     "line": 466,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #9: Waterfront Specific Plan Environmental Review Authorization and Near- Term Priority Adjustments",
+   "line": 467,
+   "entries": [
+    {
+     "as_printed": "Allison Granzella",
+     "line": 469,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #10: Five-Year Street Rehabilitation and Measure FF Plans for Fiscal Years 2027-2031",
+   "line": 470,
+   "entries": [
+    {
+     "as_printed": "Daniel Cheng and John-Michael Wong",
+     "line": 472,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Patty Callahan",
+     "line": 473,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anna McGaraghan",
+     "line": 474,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Andrea Traber",
+     "line": 475,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #5: 2025 Annual Police Equipment Report",
+   "line": 478,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by the Police Accountability Board",
+     "line": 479,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "5"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #8: Large Vehicle Parking Regulations in the Public Right-of-Way (Reviewed by the Health, Life Enrichment, Equity & Community Committee)",
+   "line": 480,
+   "entries": [
+    {
+     "as_printed": "Edward Dean",
+     "line": 482,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jason N. Lawrence",
+     "line": 483,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Judy Dater",
+     "line": 484,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #9: Waterfront Specific Plan Environmental Review Authorization and Near- Term Priority Adjustments",
+   "line": 485,
+   "entries": [
+    {
+     "as_printed": "Jim McGrath",
+     "line": 487,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #10: Five-Year Street Rehabilitation and Measure FF Plans for Fiscal Years 2027-2031",
+   "line": 488,
+   "entries": [
+    {
+     "as_printed": "Cliff Brooks",
+     "line": 490,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sandy Steinman",
+     "line": 491,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Celia Ronis",
+     "line": 495,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Steven Wang",
+     "line": 496,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cindi Goldberg (2)",
+     "line": 497,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Howard Goldberg",
+     "line": 498,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Karen Dabrusin",
+     "line": 499,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jean Younis",
+     "line": 500,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Deborah Merola and Bev Hoffman",
+     "line": 501,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ben Highton",
+     "line": 502,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "James Storey",
+     "line": 503,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Richard Neese",
+     "line": 504,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Rice",
+     "line": 505,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ronna Benjamin",
+     "line": 506,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rachel Metz (2)",
+     "line": 507,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "John M. Rea",
+     "line": 508,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Charles Siegal on behalf of Walk Bike Berkeley",
+     "line": 509,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ed Albanese",
+     "line": 510,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kay Englund",
+     "line": 511,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Patrick Sheahan",
+     "line": 512,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Aliza Craimer Elias",
+     "line": 513,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Eva Herzer",
+     "line": 514,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Matthew Lewis",
+     "line": 515,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tatiana Olenina",
+     "line": 516,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tony Benado",
+     "line": 517,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David M. White",
+     "line": 518,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jenn Bejaka",
+     "line": 519,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #A: Placing an Ordinance Amending the Rent Stabilization Ordinance on the November 3, 2026 Ballot (Continued from June 30, 2026) (Item Contains Revised Material)",
+   "line": 520,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by Councilmember Cecilia Lunaparra",
+     "line": 523,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Supplemental agenda material submitted by Councilmember Mark Humbert and Councilmember Rashi Kesarwani",
+     "line": 524,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Community Leader",
+   "line": 529,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by Ryan Lau, AC Transit",
+     "line": 530,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #7: Memorandum of Understanding (MOU) Compendium 2026: Agreements with Other Law Enforcement Agencies and Private Organizations",
+   "line": 531,
+   "entries": [
+    {
+     "as_printed": "Grant Thompson",
+     "line": 533,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #8: Large Vehicle Parking Regulations in the Public Right-of-Way (Reviewed by the Health, Life Enrichment, Equity & Community Committee)",
+   "line": 534,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by Councilmember Taplin",
+     "line": 536,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sally Davey",
+     "line": 537,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Beth Roessner",
+     "line": 538,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jack von Euw",
+     "line": 539,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robb M. Walker",
+     "line": 543,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #10: Five-Year Street Rehabilitation and Measure FF Plans for Fiscal Years 2027-2031",
+   "line": 544,
+   "entries": [
+    {
+     "as_printed": "Patricia Wilson",
+     "line": 546,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tony Bendao (2)",
+     "line": 547,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Cathy Coggins",
+     "line": 548,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wahid Amiri",
+     "line": 549,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #A: Placing an Ordinance Amending the Rent Stabilization Ordinance on the November 3, 2026 Ballot (Continued from June 30, 2026) (Item Contains Revised Material)",
+   "line": 550,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Public Works Department",
+     "line": 553,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sophia DeWitt on behalf of East Bay Housing Organizations",
+     "line": 554,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kiran Shenoy",
+     "line": 555,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Angela Cavanaugh",
+     "line": 556,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Canavan",
+     "line": 557,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Isaac Kianovsky on behalf of Northern California Land Trust",
+     "line": 558,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Courtney Pal on behalf of Resources for Community Development",
+     "line": 559,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  }
+ ]
+}

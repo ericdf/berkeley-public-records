@@ -1,0 +1,262 @@
+{
+ "id": "bcc-2026-05-19-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2026-05-19-special-annotated-agenda",
+ "text": "bcc-2026-05-19-special-annotated-agenda-text",
+ "text_sha256": "fbe985f66319b5e25d64b90074fab45d51623cd70f42d5144cb68dbcace89c04",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:03 p.m.",
+  "present": [
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin",
+    "time": "4:09 p.m."
+   },
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani",
+    "time": "4:16 p.m."
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "4:42 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar – New Business",
+   "heading": "Presentation and Discussion of Second Community Survey Results and Direction Regarding Potential Ballot Measures for the November 3, 2026, General Municipal Election",
+   "lines": [
+    64,
+    91
+   ],
+   "from": "City Manager",
+   "contact": "David White, City Manager's Office, (510) 981-7000",
+   "financial_implications": "See report",
+   "action": "Action: 15 speakers. M/S/C (Taplin/Tregub) to: 1. Affirm the direction to prepare ballot language for a potential $300 million General Obligation bond measure for the November 3, 2026, ballot to fund priority infrastructure investments; and 2. Affirm the direction to prepare ballot language for a potential 0.5 percent increase in the City’s sales and use tax for the November 3, 2026, ballot to address the City’s projected General Fund structural deficit and support essential City services. Vote: All Ayes.",
+   "speakers": 15,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "1. Affirm the direction to prepare ballot language for a potential $300 million General Obligation bond measure for the November 3, 2026, ballot to fund priority infrastructure investments; and 2. Affirm the direction to prepare ballot language for a potential 0.5 percent increase in the City’s sales and use tax for the November 3, 2026, ballot to address the City’s projected General Fund structural deficit and support essential City services.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #1: Presentation and Discussion of Second Community Survey Results and Direction Regarding Potential Ballot Measures for the November 3, 2026, General Municipal Election",
+   "line": 106,
+   "entries": [
+    {
+     "as_printed": "Phil Allen",
+     "line": 109,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Larry and Mary Ann Wight",
+     "line": 110,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan Schwartz on behalf of Friend of Five Creeks",
+     "line": 111,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Emma Gobler",
+     "line": 112,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Cain",
+     "line": 113,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nina",
+     "line": 114,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Katherine Schaaf",
+     "line": 115,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan Austin",
+     "line": 116,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeffrey J. Carter",
+     "line": 117,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jan Ruchlis",
+     "line": 118,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1: Presentation and Discussion of Second Community Survey Results and Direction Regarding Potential Ballot Measures for the November 3, 2026, General Municipal Election",
+   "line": 124,
+   "entries": [
+    {
+     "as_printed": "Ray Yep",
+     "line": 127,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nicola Reinhardt",
+     "line": 128,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura A Schmidt",
+     "line": 129,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sarah Watts",
+     "line": 130,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joel Myerson",
+     "line": 131,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Todd Jersey",
+     "line": 132,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Presentation and Discussion of Second Community Survey Results and Direction Regarding Potential Ballot Measures for the November 3, 2026, General Municipal Election",
+   "line": 135,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the City Manager’s Office",
+     "line": 138,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Callaway",
+     "line": 139,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Linda and Steven Rosen",
+     "line": 140,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

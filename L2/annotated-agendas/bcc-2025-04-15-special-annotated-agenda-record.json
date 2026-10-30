@@ -1,0 +1,936 @@
+{
+ "id": "bcc-2025-04-15-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-04-15-special-annotated-agenda",
+ "text": "bcc-2025-04-15-special-annotated-agenda-text",
+ "text_sha256": "9b22fcd156a145d94a2c29ac18d259f9a579a8c9b0d250088b3a93487381ed8b",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:06 p.m.",
+  "present": [
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani",
+    "time": "4:09 p.m."
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin",
+    "time": "4:09 p.m."
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub",
+    "time": "4:10 p.m."
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "4:10 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar – New Business",
+   "heading": "Adoption of CALFIRE Map and Additional Areas Designated as the City of Berkeley Fire Hazard Severity Zones (Reviewed by the Public Safety Committee)",
+   "lines": [
+    64,
+    80
+   ],
+   "from": "City Manager",
+   "contact": "David Sprague, Fire, (510) 981-3473",
+   "financial_implications": "See report",
+   "action": null,
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "2",
+   "section": "Action Calendar – New Business",
+   "heading": "Modification and Adoption of Berkeley Fire Code Local Amendments (Reviewed by the Public Safety Committee)",
+   "lines": [
+    88,
+    133
+   ],
+   "from": "City Manager",
+   "contact": "David Sprague, Fire, (510) 981-3473",
+   "financial_implications": "Staff time",
+   "action": "Action: M/S/C (Blackaby/Humbert) to accept revised material from the City Manager on Item 1 and Item 2. Vote: Ayes – Kesarwani, Taplin, O’Keefe, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – Bartlett, Tregub. Action: 48 speakers. M/S/C (Blackaby/Humbert) to: 1. Adopt first reading of Ordinance No. 7,958–N.S. as written in the revised materials submitted at the meeting to designate Fire Hazard Severity Zones (FHSZ) within the Local Responsibility Area as recommended by the California Department of Forestry and Fire Protection (CALFIRE) pursuant to Government Code Section 51178. Second reading scheduled for May 6, 2025. 2. Designate areas not identified as Very High and High Fire Hazard Severity Zones by the State Fire Marshal, as Very High, and High Fire Hazard Severity Zones following a finding supported by substantial evidence in the record that the requirements of Government Code Section 51182 are necessary for effective fire protection within the area. 3. Adopt first reading of Ordinance No. 7,959–N.S. as written in the revised materials submitted at the meeting to amend certain portions of Section 19.48.020 of the Berkeley Municipal Code (“Amendments to the California Fire Code”). Second reading scheduled for May 6, 2025. 4. Adopt Resolution No. 71,710–N.S. setting forth findings as to local conditions applicable to the revised portions of Section 19.48.020 that require more stringent standards than those provided by the 2022 California Fire Code (“CFC”) and amending Resolution No. 70,611–N.S. 5. Schedule the second reading and public hearing for May 6, 2025. Vote: All Ayes.",
+   "speakers": 48,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "accept revised material from the City Manager on Item 1 and Item 2.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [],
+      "absent": [
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       }
+      ],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, O’Keefe, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – Bartlett, Tregub."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "1. Adopt first reading of Ordinance No. 7,958–N.S. as written in the revised materials submitted at the meeting to designate Fire Hazard Severity Zones (FHSZ) within the Local Responsibility Area as recommended by the California Department of Forestry and Fire Protection (CALFIRE) pursuant to Government Code Section 51178. Second reading scheduled for May 6, 2025. 2. Designate areas not identified as Very High and High Fire Hazard Severity Zones by the State Fire Marshal, as Very High, and High Fire Hazard Severity Zones following a finding supported by substantial evidence in the record that the requirements of Government Code Section 51182 are necessary for effective fire protection within the area. 3. Adopt first reading of Ordinance No. 7,959–N.S. as written in the revised materials submitted at the meeting to amend certain portions of Section 19.48.020 of the Berkeley Municipal Code (“Amendments to the California Fire Code”). Second reading scheduled for May 6, 2025. 4. Adopt Resolution No. 71,710–N.S. setting forth findings as to local conditions applicable to the revised portions of Section 19.48.020 that require more stringent standards than those provided by the 2022 California Fire Code (“CFC”) and amending Resolution No. 70,611–N.S. 5. Schedule the second reading and public hearing for May 6, 2025.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #1: Adoption of CALFIRE Map and Additional Areas Designated as the City of Berkeley Fire Hazard Severity Zones (Reviewed by the Public Safety Committee)",
+   "line": 143,
+   "entries": [
+    {
+     "as_printed": "Scott Murray",
+     "line": 146,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jason Warriner",
+     "line": 147,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robert Godes",
+     "line": 148,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Roger and Zoe Hill",
+     "line": 149,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dr Bruce Feingold",
+     "line": 150,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Communications",
+   "heading": "Item #2: Modification and Adoption of Berkeley Fire Code Local Amendments (Reviewed by the Public Safety Committee)",
+   "line": 152,
+   "entries": [
+    {
+     "as_printed": "Robert and Frederica Breuer",
+     "line": 154,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ann Hoyer",
+     "line": 155,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Titus",
+     "line": 156,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Patricia and Michael Henry",
+     "line": 157,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Greg Murphy",
+     "line": 158,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Miriam Nathanson",
+     "line": 159,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kuniko Weltin-Wu and Hung-His Wu",
+     "line": 160,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joan MacQuarrie",
+     "line": 161,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Krista Denton",
+     "line": 162,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Cumpton and David Folzenlogen",
+     "line": 163,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Linda Friedman",
+     "line": 164,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joan Lester",
+     "line": 165,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ruth Langridge",
+     "line": 166,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Hitchen",
+     "line": 167,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elizabeth Shedd",
+     "line": 168,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Miki Tal",
+     "line": 169,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Margaret Cullen",
+     "line": 170,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Pamela Montanaro",
+     "line": 171,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Shivaom",
+     "line": 172,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1: Adoption of CALFIRE Map and Additional Areas Designated as the City of Berkeley Fire Hazard Severity Zones (Reviewed by the Public Safety Committee) / Item #2: Modification and Adoption of Berkeley Fire Code Local Amendments (Reviewed by the Public Safety Committee)",
+   "line": 178,
+   "entries": [
+    {
+     "as_printed": "Sheila Krystal",
+     "line": 186,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary-Louise Hansen",
+     "line": 187,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane Terjung",
+     "line": 188,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nancy and Daniel Manheim",
+     "line": 189,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nancy Yaple",
+     "line": 190,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Scott Murray",
+     "line": 191,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Connie Field",
+     "line": 192,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Katherine Hansen",
+     "line": 193,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane Hausauer",
+     "line": 194,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lota and Mac Rygiel",
+     "line": 195,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Heidi Hartman",
+     "line": 196,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janice Thomas",
+     "line": 197,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nicole Fouladi",
+     "line": 198,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Candace Hyde-Wang",
+     "line": 199,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Randall and Kathleen Gee",
+     "line": 200,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ruth Ehrenkrantz",
+     "line": 201,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Thelma Tajirian",
+     "line": 202,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sowmya Swaminathan",
+     "line": 203,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leah and John Rosenthal",
+     "line": 204,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Norman Vance",
+     "line": 205,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Roger and Zoe Hill",
+     "line": 206,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Margaret Cullen",
+     "line": 207,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ethan Karp and Sue Lynn Thomas",
+     "line": 208,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alistair Sinclair and Nataliya Libina",
+     "line": 209,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alfred Twu",
+     "line": 210,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anil Aswani",
+     "line": 211,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Karen Eisenstadt",
+     "line": 212,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cindy Rosenthal",
+     "line": 213,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mike Travis and Linda Skory",
+     "line": 214,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Adoption of CALFIRE Map and Additional Areas Designated as the City of Berkeley Fire Hazard Severity Zones (Reviewed by the Public Safety Committee)",
+   "line": 217,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by David Sprague",
+     "line": 220,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #2: Modification and Adoption of Berkeley Fire Code Local Amendments (Reviewed by the Public Safety Committee)",
+   "line": 222,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by David Sprague",
+     "line": 224,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Presentation submitted by the Fire Department",
+     "line": 225,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lynne Clenfield and Ellen Pasternack",
+     "line": 226,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ian Meyers",
+     "line": 227,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Krishen Laetsch",
+     "line": 228,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Johanna Nichols",
+     "line": 229,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Graham",
+     "line": 230,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Eric Weaver",
+     "line": 231,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Phillip Price",
+     "line": 232,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane Terjung (3)",
+     "line": 233,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Maria Sakovich",
+     "line": 235,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Vanessa Drake Moraga",
+     "line": 236,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joan H Hollinger",
+     "line": 237,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "CV Deering",
+     "line": 238,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeffrey Heller",
+     "line": 239,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Carol H. Reitan",
+     "line": 240,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Richard Laden (2)",
+     "line": 241,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Isabelle Gaston",
+     "line": 242,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rebecca Mills",
+     "line": 243,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Samson",
+     "line": 244,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "William Callow",
+     "line": 245,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nancy Gillette",
+     "line": 246,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michel Thouati",
+     "line": 247,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Pat Farrell",
+     "line": 248,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Shawna Hartman Brotsky",
+     "line": 249,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chuck and Martha Cornwall",
+     "line": 250,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bob and Irene Byrne",
+     "line": 251,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bob Flasher",
+     "line": 252,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kathleen Weidner Zoehfeld",
+     "line": 253,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Katherine Ritter",
+     "line": 254,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Monika Weis",
+     "line": 255,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan Bailey",
+     "line": 256,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jenny Wenk",
+     "line": 257,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tim Frederick",
+     "line": 258,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joan Diamond",
+     "line": 259,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wendy Pulling",
+     "line": 260,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dan Lieberman",
+     "line": 261,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Travis Longcore and John Harte",
+     "line": 262,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Brunet",
+     "line": 263,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Johnson",
+     "line": 264,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Schuyler Bailey",
+     "line": 265,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nancy Riddle",
+     "line": 266,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Peter S. Bailey",
+     "line": 267,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elizabeth Sharf",
+     "line": 268,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Brent Blackaby",
+     "line": 269,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephanie Henkle",
+     "line": 270,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kester Watters",
+     "line": 271,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Lee Noonan",
+     "line": 272,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Yakov Wiegmann",
+     "line": 273,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sara Sanderson",
+     "line": 274,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sonya Baehr and Tom Jones",
+     "line": 275,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sybil Hatch",
+     "line": 276,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Manuela Albuquerque",
+     "line": 277,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michael Walden and Judith Schelly",
+     "line": 278,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nenelle Bunnin",
+     "line": 279,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jonathan Eden",
+     "line": 280,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Carly Loveman",
+     "line": 281,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barbara Gilbert",
+     "line": 282,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Phebe Fletcher",
+     "line": 283,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "2"
+   ]
+  }
+ ]
+}

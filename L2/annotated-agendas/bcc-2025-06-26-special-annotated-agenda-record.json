@@ -1,0 +1,1952 @@
+{
+ "id": "bcc-2025-06-26-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-06-26-special-annotated-agenda",
+ "text": "bcc-2025-06-26-special-annotated-agenda-text",
+ "text_sha256": "e7a6b3ade9404338c544e6dd577e08e7b285c43d15f0622ce77e60eb755d41f0",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:11 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "6:13 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Zoning Ordinance and General Plan Amendments Relating to Middle Housing",
+   "lines": [
+    61,
+    133
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Kesarwani/O’Keefe) to suspend the rules and extend the meeting to 11:45 p.m. Vote: All Ayes. Action: M/S/C (Tregub/Kesarwani) to suspend the rules and extend the meeting to 12:15 a.m. Vote: All Ayes. Public Testimony: The Mayor opened the public hearing. 128 speakers. M/S/C (Tregub/Taplin) to close the public hearing. Vote: All Ayes. Action: M/S/C (Kesarwani/Bartlett) to: 1. Adopt first reading of Ordinance No. 7,978–N.S. as proposed in the item from the City Manager including further changes in the supplemental material from Councilmember Kesarwani in Supplemental Communications Packet #2 with the following amendments: • Establish a limit of 70 dwelling units per acre in all applicable zones: R-1, R-2, R- 2A, and M-UR. Action Calendar – Public Hearings • Incorporate the request from Councilmember Tregub to consider results from other comparable jurisdictions in the annual report from the Planning Department. • Incorporate Councilmember Humbert’s amendment to direct Planning Staff to return to the City Council by April 1, 2026 and annually thereafter with a simple, quantitative report listing for the present year and all previous years, beginning in 2025: 1) The number of middle housing project applications; 2) The total number of units proposed within those middle housing project applications; 3) The number of middle housing projects/units granted building permits, and 4) The number of middle housing projects/units granted certificates of occupancy. • Modify the direction on the equity report to remove the fixed date and direct staff to return to Council with the equity report within 12 months of the City reaching the threshold of 25 middle housing project applications being received by the Planning Department or two years (whichever comes first). • Incorporate the following request from Councilmember Tregub’s supplemental item: To the extent feasible, the objective design standards referral should consider loss of open or permeable yard space, solar access, privacy, tree canopy, biodiversity, and opportunities for stormwater runoff mitigations with consideration of costs and not reducing the development potential of the ordinance as proposed. • Further, to make corresponding edits to the General Plan to reflect the amended density standard. And direct that the second reading be scheduled for July 8, 2025 regular meeting agenda. 2. Adopt Resolution No. 71,863–N.S. amending the General Plan for the same purpose. Vote: All Ayes.",
+   "speakers": 128,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-okeefe",
+       "as_printed": "O’Keefe"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "suspend the rules and extend the meeting to 11:45 p.m.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "suspend the rules and extend the meeting to 12:15 a.m.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 2,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 3,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-bartlett",
+       "as_printed": "Bartlett"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "1. Adopt first reading of Ordinance No. 7,978–N.S. as proposed in the item from the City Manager including further changes in the supplemental material from Councilmember Kesarwani in Supplemental Communications Packet #2 with the following amendments: • Establish a limit of 70 dwelling units per acre in all applicable zones: R-1, R-2, R- 2A, and M-UR. Action Calendar – Public Hearings • Incorporate the request from Councilmember Tregub to consider results from other comparable jurisdictions in the annual report from the Planning Department. • Incorporate Councilmember Humbert’s amendment to direct Planning Staff to return to the City Council by April 1, 2026 and annually thereafter with a simple, quantitative report listing for the present year and all previous years, beginning in 2025: 1) The number of middle housing project applications; 2) The total number of units proposed within those middle housing project applications; 3) The number of middle housing projects/units granted building permits, and 4) The number of middle housing projects/units granted certificates of occupancy. • Modify the direction on the equity report to remove the fixed date and direct staff to return to Council with the equity report within 12 months of the City reaching the threshold of 25 middle housing project applications being received by the Planning Department or two years (whichever comes first). • Incorporate the following request from Councilmember Tregub’s supplemental item: To the extent feasible, the objective design standards referral should consider loss of open or permeable yard space, solar access, privacy, tree canopy, biodiversity, and opportunities for stormwater runoff mitigations with consideration of costs and not reducing the development potential of the ordinance as proposed. • Further, to make corresponding edits to the General Plan to reflect the amended density standard. And direct that the second reading be scheduled for July 8, 2025 regular meeting agenda. 2. Adopt Resolution No. 71,863–N.S. amending the General Plan for the same purpose.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #1: Zoning Ordinance and General Plan Amendments Relating to Middle Housing",
+   "line": 147,
+   "entries": [
+    {
+     "as_printed": "Jennifer Fisher",
+     "line": 149,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anne Weinberger",
+     "line": 150,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Friedlander",
+     "line": 151,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leni Siegel",
+     "line": 152,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Aubrey Grove",
+     "line": 153,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane Martin",
+     "line": 154,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lauren Parsons",
+     "line": 155,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wade Skeels",
+     "line": 156,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Carol Hirth (2)",
+     "line": 157,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Lisa Bruce",
+     "line": 158,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Colleen Whitney",
+     "line": 159,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Virginia Browning",
+     "line": 160,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Eva Herzer and Dechen Tsering",
+     "line": 161,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Daniel Borgstrom",
+     "line": 162,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Oram",
+     "line": 163,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Neelam Patil",
+     "line": 164,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leah Kaizer",
+     "line": 165,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bill Kristy",
+     "line": 166,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "T.M. Scruggs",
+     "line": 167,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane Freeman",
+     "line": 168,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kathy Stuart",
+     "line": 169,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Marissa Moss",
+     "line": 170,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janice Murota",
+     "line": 171,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kori Kody",
+     "line": 172,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Silvia Turchin",
+     "line": 173,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lynn Sherrell",
+     "line": 174,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Micky Duxbury (4)",
+     "line": 175,
+     "count": 4,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Julie Lamont",
+     "line": 176,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Matt Wickland",
+     "line": 177,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julie Kramer",
+     "line": 178,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Merle Lustig",
+     "line": 179,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julie Weeks",
+     "line": 180,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barbara Erickson",
+     "line": 181,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan Brooks",
+     "line": 182,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Toni Mester",
+     "line": 183,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janice Schroeder",
+     "line": 184,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Fred Krieger",
+     "line": 185,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gael Alcock",
+     "line": 186,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Christopher Hamilton",
+     "line": 187,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Darlene Bronson",
+     "line": 188,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chris Hudson",
+     "line": 189,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jed Harris",
+     "line": 190,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lance Williams",
+     "line": 191,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kenneth Laws",
+     "line": 192,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Katherine de Runtz",
+     "line": 193,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joan Garvin",
+     "line": 194,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alison de Runtz",
+     "line": 196,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Berkeley Neighborhoods Council Executive Committee",
+     "line": 197,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Toni Casal",
+     "line": 198,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Klein",
+     "line": 199,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mimi Moungovan",
+     "line": 200,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Whipple",
+     "line": 201,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elsie Martinez",
+     "line": 202,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephanie Lim",
+     "line": 203,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dr. Bruce Feingold",
+     "line": 204,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Vogel",
+     "line": 205,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robert Riemer",
+     "line": 206,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Summer Brenner",
+     "line": 207,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cindy Shamban",
+     "line": 208,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Helen Guerrant Toy",
+     "line": 209,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dr. A. Boersma",
+     "line": 210,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Virginia Warheit",
+     "line": 211,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "36 Similarly worded form letters “I’m writing to urge you to pass…”",
+     "line": 212,
+     "count": 36,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "95 Similarly worded form letters “Please DO NOT PASS…”",
+     "line": 213,
+     "count": 95,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": null,
+   "line": 216,
+   "entries": [
+    {
+     "as_printed": "Jacqueline Wish",
+     "line": 216,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michael Tompkins",
+     "line": 217,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gael Alcock (2)",
+     "line": 218,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Desiree Oliver on behalf of the Berkeley Rent Stabilization Board Chair and Commissioners",
+     "line": 219,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cindy Shamban",
+     "line": 221,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Morgan Maxwell",
+     "line": 222,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michael John Weber",
+     "line": 223,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rachel Katz",
+     "line": 224,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Walter Wood",
+     "line": 225,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tamara Birdsall",
+     "line": 226,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Meyer",
+     "line": 227,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Coveney",
+     "line": 228,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Felix Brenner",
+     "line": 229,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rob Kirby",
+     "line": 230,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leonard Pitt (2)",
+     "line": 231,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Vicki Sommer",
+     "line": 232,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Hagopian",
+     "line": 233,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Marvin Snow",
+     "line": 234,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Margret Leventhal",
+     "line": 235,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michael Frantz",
+     "line": 236,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Shirley Kirsten",
+     "line": 237,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Paul Valenstein",
+     "line": 238,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Klein",
+     "line": 239,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Summer Brenner",
+     "line": 240,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bruce Bagnell",
+     "line": 241,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kenneth Yip (2)",
+     "line": 242,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Jaime Perkins",
+     "line": 243,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tony Corman",
+     "line": 244,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Clifford Fred",
+     "line": 247,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sharon Entwistle (3)",
+     "line": 248,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Damien Curry",
+     "line": 249,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alma Prins",
+     "line": 250,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Teal Major",
+     "line": 251,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Helen Stroud",
+     "line": 252,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Brad Gibson and Nina Zolotow",
+     "line": 253,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Micky Duxbury",
+     "line": 254,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Farah Entezami",
+     "line": 255,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Liz Ozol",
+     "line": 256,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tashi Namling",
+     "line": 257,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bernard",
+     "line": 258,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Usha Lama & Dorji Lama",
+     "line": 259,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ross Bernet",
+     "line": 260,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anuja Mendiratta (2)",
+     "line": 261,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Kera Binns",
+     "line": 262,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jai Jai Noire",
+     "line": 263,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Claire Heffron",
+     "line": 264,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sam Greenberg on behalf of East Bay for Everyone and East Bay YIMBY",
+     "line": 265,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Charlie Koven",
+     "line": 266,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Phoebe Thomas Sorgen",
+     "line": 267,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Wrenn",
+     "line": 268,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Councilmember Rashi Kesarwani",
+     "line": 269,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dietmar Lorenz",
+     "line": 270,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bonnie Mattison",
+     "line": 271,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Corey Busay",
+     "line": 272,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "T. Michai Freeman",
+     "line": 273,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Zipporah Collins",
+     "line": 274,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan Henderson",
+     "line": 275,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cheryl Fippen",
+     "line": 276,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Evelyn Strickland (2)",
+     "line": 277,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Lori Pepe-Lunche",
+     "line": 278,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Brianna Morales on behalf of the Housing Action Coalition",
+     "line": 279,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Molly Miller",
+     "line": 280,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mathison Ott",
+     "line": 281,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Paola Laverde",
+     "line": 282,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Peggy Radel",
+     "line": 283,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Grace Munakata",
+     "line": 284,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wade Skeels",
+     "line": 285,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jennifer Kelly-DeWitt",
+     "line": 286,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Veronika S. Fukson",
+     "line": 287,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Louise Rosenkrantz",
+     "line": 288,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Glen Hauer",
+     "line": 289,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "18 Similarly worded form letters “I urge you…”",
+     "line": 290,
+     "count": 18,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "38 Similarly worded form letters “I support…”",
+     "line": 291,
+     "count": 38,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "75 Similarly worded form letters “Please DO NOT PASS…”",
+     "line": 292,
+     "count": 75,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1: Zoning Ordinance and General Plan Amendments Relating to Middle Housing",
+   "line": 299,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by Councilmember Rashi Kesarwani, Councilmember Ben Bartlett, Councilmember Cecilia Lunaparra and Mayor Adena Ishii",
+     "line": 301,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Revised agenda material submitted by Councilmember Igor Tregub",
+     "line": 304,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Supplemental agenda material submitted by the Planning and Development Department",
+     "line": 305,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Victor Ichioka",
+     "line": 307,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Amy Leventhal",
+     "line": 308,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Teresa Clarke (2)",
+     "line": 309,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Sallie Hanna-Rhyne",
+     "line": 310,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeanne Clinton",
+     "line": 311,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chris Hudson",
+     "line": 312,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Toni Mester",
+     "line": 313,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bernard Marszalek",
+     "line": 314,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Oren Cheyette",
+     "line": 315,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bruce Alexander",
+     "line": 316,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Steve Robey",
+     "line": 317,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sally Hughes",
+     "line": 318,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jennifer Cole, Gordon Glasgow, Eve Papajak, Cees-Bart Breunesse, Rodriguez Family, Anuja mendiratta, Moni Gangopadhyay, and Davinder Gabhi",
+     "line": 319,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Spiekerman",
+     "line": 321,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alfred Twu",
+     "line": 322,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ben Paulos",
+     "line": 323,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nico Calavita",
+     "line": 324,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Steve Wertheim on behalf of Assemblymember Buffy Wicks",
+     "line": 325,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Larry Orman",
+     "line": 326,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane Diamond",
+     "line": 327,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Build a Better Berkeley",
+     "line": 328,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joel Myerson",
+     "line": 329,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michelle Haner",
+     "line": 330,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Debbie S.",
+     "line": 331,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Karen Fiene",
+     "line": 332,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Karen Chapple",
+     "line": 333,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Christopher Kroll on behalf of Berkeley Neighborhoods Council",
+     "line": 334,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robin Rudy",
+     "line": 335,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jacqueline Beth",
+     "line": 336,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Yes Duffy",
+     "line": 337,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Matthew Ostrowski",
+     "line": 338,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jack Kurzweil (2)",
+     "line": 339,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Farah",
+     "line": 340,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kathryn Jordan",
+     "line": 341,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephen Menendian",
+     "line": 342,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Siegal and Aimee Baldwin",
+     "line": 343,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Christina Vecchiato",
+     "line": 344,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Amy Hill",
+     "line": 345,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anne Weinberger",
+     "line": 346,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Charlene M. Woodcock",
+     "line": 349,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elana Auerbach",
+     "line": 350,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Park",
+     "line": 351,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dan Kammen",
+     "line": 352,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Esther Lerman",
+     "line": 353,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kate Stillwell",
+     "line": 354,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sofia Zander",
+     "line": 355,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "T Anne Richards",
+     "line": 356,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Aimee Baldwin",
+     "line": 357,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "J. Ruth Gendler",
+     "line": 358,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Judy Bertelsen",
+     "line": 359,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Grace Munakata",
+     "line": 360,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kathy Stuart (2)",
+     "line": 361,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Olga Bolotina",
+     "line": 362,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Virginia Warheit",
+     "line": 363,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Zelda Bronstein",
+     "line": 364,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Claire Heffron",
+     "line": 365,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kurtis Bonano",
+     "line": 366,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Margaret Leventhal",
+     "line": 367,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Theo Posselt, Alden Mudge, Ben Gould, Jeff Baker, and Libby Lee-Egan",
+     "line": 368,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joan Sprinson",
+     "line": 369,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Veronika Fukson",
+     "line": 370,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Serena Hu",
+     "line": 371,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mariah Wood",
+     "line": 372,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Collin Barnwell",
+     "line": 373,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Virginia Browning",
+     "line": 374,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ryan O’Connell",
+     "line": 375,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nancy Rader",
+     "line": 376,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephen Bedrick",
+     "line": 377,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barbara Hadenfeldt",
+     "line": 378,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nancy Carleton",
+     "line": 379,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Zelda Bronstein",
+     "line": 380,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Peg Bogle",
+     "line": 381,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Brandon",
+     "line": 382,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gabriel Abud",
+     "line": 383,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anne Sturbaum",
+     "line": 384,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Emily McAfee",
+     "line": 385,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Donna DeDiemar",
+     "line": 386,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Isaac Warshauer",
+     "line": 387,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "36 Similarly worded form letters “As a committed supporter…”",
+     "line": 388,
+     "count": 36,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "44 Similarly worded form letters “Please DO NOT PASS…”",
+     "line": 389,
+     "count": 44,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "28 Similarly worded form letters “I support…”",
+     "line": 390,
+     "count": 28,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Zoning Ordinance and General Plan Amendments Relating to Middle Housing",
+   "line": 393,
+   "entries": [
+    {
+     "as_printed": "Presentation, submitting by Planning and Development Department",
+     "line": 395,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Oskar Cross",
+     "line": 396,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leonard Pitt",
+     "line": 397,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nico Calavita (3)",
+     "line": 398,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Dean Metzger, Claremont Elmwood Neighborhood Association",
+     "line": 400,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Andrew Fox",
+     "line": 401,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Maria Kolakowska",
+     "line": 402,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rosamond Smith",
+     "line": 403,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kelly Hammargren",
+     "line": 404,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gael Alcock",
+     "line": 405,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rachel Fishman and Adam Lieber",
+     "line": 406,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nina F. Ichikawa",
+     "line": 407,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Yassine Hamdouni Alami",
+     "line": 408,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sarah Bell (2)",
+     "line": 409,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Zach Franklin",
+     "line": 410,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Juli Dickey",
+     "line": 411,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ben Gerhardstein and Charles Siegel for Walk Bike Berkeley (2)",
+     "line": 412,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Mary Tatmon and Yvette Tatmon",
+     "line": 413,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Diana Maria Rossi (2)",
+     "line": 414,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Mary Jo Huetteman and William Huber",
+     "line": 415,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barbara Rydlander",
+     "line": 416,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ava Mohsenin",
+     "line": 417,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Mayer",
+     "line": 418,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sean Kennedy",
+     "line": 419,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Justin Quimby",
+     "line": 420,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gale Garcia",
+     "line": 421,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Park",
+     "line": 422,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Carol Hirth",
+     "line": 423,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Candace Hyde-Wang",
+     "line": 424,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Hal Leventhal",
+     "line": 425,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan Hunter",
+     "line": 426,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dietmar Lorenz",
+     "line": 427,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julian Kraus-Polk",
+     "line": 428,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alexander Stec",
+     "line": 429,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mike Dunham",
+     "line": 430,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Christine Cosgrove",
+     "line": 431,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sheila Moran",
+     "line": 432,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chuck Cornwall",
+     "line": 433,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chrissy Hoffman",
+     "line": 434,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeanne Schuman and William Pollock",
+     "line": 435,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bonnie Borucki",
+     "line": 436,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Pam Zelnik",
+     "line": 437,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nola Burger",
+     "line": 438,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Pamela Rudd",
+     "line": 439,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ed Weiss",
+     "line": 440,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Madeleine Nicoloff",
+     "line": 441,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ross Bernet",
+     "line": 442,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cees Breunesse",
+     "line": 443,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sharon Richey",
+     "line": 444,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kamala Visweswaran",
+     "line": 445,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cielo Rios",
+     "line": 446,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Lerman",
+     "line": 447,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wm Di Napoli",
+     "line": 448,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Winthrop Eliot Jordan",
+     "line": 449,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Andres Douzoglou",
+     "line": 451,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephanie Thomas",
+     "line": 452,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elana Auerbach",
+     "line": 453,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Moni Law (2)",
+     "line": 454,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Philip Soffer",
+     "line": 455,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Masha Lifshin",
+     "line": 456,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Virginia Warheit",
+     "line": 457,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Donna DeDiemar",
+     "line": 458,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "5 Similarly worded form letters “As a committed supporter…”",
+     "line": 459,
+     "count": 5,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "7 Similarly worded form letters “I support…”",
+     "line": 460,
+     "count": 7,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "8 Similarly worded form letters “Please DO NOT PASS…”",
+     "line": 461,
+     "count": 8,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

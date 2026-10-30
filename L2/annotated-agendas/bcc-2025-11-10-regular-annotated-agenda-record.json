@@ -1,0 +1,1131 @@
+{
+ "id": "bcc-2025-11-10-regular-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-11-10-regular-annotated-agenda",
+ "text": "bcc-2025-11-10-regular-annotated-agenda-text",
+ "text_sha256": "d88e61d1a834745b531c651b7aaffbf8ee0ca02a7153259fcb2d2ddfd4c1d8a4",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:04 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [],
+  "arrived_late": []
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Consent Calendar",
+   "heading": "Formal Bid Solicitations and Request for Proposals Scheduled for Possible Issuance After Council Approval on November 10, 2025",
+   "lines": [
+    104,
+    113
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Approved recommendation.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "2",
+   "section": "Consent Calendar",
+   "heading": "Contract: Tablet Command for Mobile CAD and Incident Command",
+   "lines": [
+    115,
+    126
+   ],
+   "from": "City Manager",
+   "contact": "David Sprague, Fire, (510) 981-3473",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,015–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "3",
+   "section": "Consent Calendar",
+   "heading": "Contract: Protiviti Government Services Inc (“Protiviti”): Using General Services Administration (“GSA”) Vehicle for Professional Services Purchase Orders",
+   "lines": [
+    128,
+    140
+   ],
+   "from": "City Manager",
+   "contact": "David Sprague, Fire, (510) 981-3473, Terrance Davis, Public Works, (510) 981-6300, Kevin Fong, Information Technology, (510) 981-6500",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,016–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "4",
+   "section": "Consent Calendar",
+   "heading": "Amend Resolution No. 71,682-N.S for Joint Homekey+ Application for MLK House at 2942-44 Martin Luther King, Jr. Way",
+   "lines": [
+    148,
+    158
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5400",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,017–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "5",
+   "section": "Consent Calendar",
+   "heading": "Grant Application: The 2025 Surrendered and Abandoned Vessel Exchange (SAVE) grant program of the California Division of Boating & Waterways",
+   "lines": [
+    160,
+    171
+   ],
+   "from": "City Manager",
+   "contact": "Scott Ferris, Parks, Recreation and Waterfront, (510) 981-6700",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,018–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "6",
+   "section": "Council Consent Items",
+   "heading": "Fifteenth Annual Martin Luther King Jr. Celebration: City Sponsorship and Relinquishment of Council Office Budget Funds to General Fund and Grant of Such Fund",
+   "lines": [
+    179,
+    201
+   ],
+   "from": "Mayor Ishii (Author), Councilmember Bartlett (Co-Sponsor), Councilmember Humbert (Co-Sponsor), Councilmember Lunaparra (Co- Sponsor)",
+   "contact": "Adena Ishii, Mayor, (510) 981-7100",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,019–N.S. (Co-Sponsoring), and Resolution No. 72,020–N.S. (Relinquishment of Funds) revised to include contributions from the following Councilmembers up to the amounts listed: Councilmember Tregub - $250; Councilmember Humbert $500; Councilmember Blackaby - $250; Councilmember Lunaparra - $250; Councilmember Taplin - $500; Councilmember Kesarwani - $150; Councilmember O’Keefe - $250; Councilmember Bartlett - $250.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-ishii",
+     "as_printed": "Mayor Ishii (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-bartlett",
+     "as_printed": "Councilmember Bartlett (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    },
+    {
+     "member": "off-humbert",
+     "as_printed": "Councilmember Humbert (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 3
+    },
+    {
+     "member": "off-lunaparra",
+     "as_printed": "Councilmember Lunaparra (Co- Sponsor)",
+     "role": "co-sponsor",
+     "order": 4
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "7",
+   "section": "Council Consent Items",
+   "heading": "Reappointment of Dr. P. Robert Beatty to the Alameda County Mosquito Abatement District Board of Trustees",
+   "lines": [
+    203,
+    211
+   ],
+   "from": "Mayor Ishii (Author)",
+   "contact": "Adena Ishii, Mayor, (510) 981-7100",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,021–N.S.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-ishii",
+     "as_printed": "Mayor Ishii (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "8",
+   "section": "Council Consent Items",
+   "heading": "Resolution of the City of Berkeley Supporting the Bay Area Air District’s Zero Emission Building Appliance Rules",
+   "lines": [
+    219,
+    232
+   ],
+   "from": "Councilmember Tregub (Author), Councilmember Lunaparra (Co- Sponsor)",
+   "contact": "Igor Tregub, Councilmember, District 4, (510) 981-7140",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,022–N.S. as revised in Supplemental Communications Packet #2 from Councilmember Tregub to add Councilmembers Taplin and Humbert as co-sponsors.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-tregub",
+     "as_printed": "Councilmember Tregub (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-lunaparra",
+     "as_printed": "Councilmember Lunaparra (Co- Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    }
+   ],
+   "added_cosponsors": [
+    {
+     "member": "off-taplin",
+     "as_printed": "add Councilmembers Taplin and Humbert as co-sponsors"
+    },
+    {
+     "member": "off-humbert",
+     "as_printed": "add Councilmembers Taplin and Humbert as co-sponsors"
+    }
+   ],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "9",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Adoption of the 2025 California Fire Code with Local Amendments",
+   "lines": [
+    236,
+    263
+   ],
+   "from": "City Manager",
+   "contact": "David Sprague, Fire, (510) 981-3473",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Blackaby/Humbert) to: 1. Adopt the first reading of Ordinance No. 7,990–N.S. Second reading scheduled for December 2, 2025. 2. Adopt Resolution No. 72,023–N.S. (Local Findings of Fact) 3. Adopt Resolution No. 72,024–N.S. (Establishing Fees) Vote: All Ayes.",
+   "speakers": 1,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "1. Adopt the first reading of Ordinance No. 7,990–N.S. Second reading scheduled for December 2, 2025. 2. Adopt Resolution No. 72,023–N.S. (Local Findings of Fact) 3. Adopt Resolution No. 72,024–N.S. (Establishing Fees)",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "10",
+   "section": "Action Calendar – New Business",
+   "heading": "Adoption of and Amendments to the California Wildland-Urban Interface (WUI) Code",
+   "lines": [
+    271,
+    301
+   ],
+   "from": "City Manager",
+   "contact": "David Sprague, Fire, (510) 981-3473",
+   "financial_implications": "See report",
+   "action": "Action: 1 speaker. M/S/C (Blackaby/Ishii) to: 1. Adopt the first reading of Ordinance No. 7,991–N.S. Second reading scheduled for December 2, 2025. 2. Adopt Resolution No. 72,025–N.S. (Local Findings of Fact) 3. Thank the members of the WUI Vegetation Code Workgroup for their efforts, asking them to submit a memo with any additional follow-up recommendations to the Fire Chief before their work concludes on December 31, 2025. 4. Request that the City Manager bring back any additional WUI items coming out of these recommendations to the City Council’s Public Safety Policy Committee. 5. Within 60 days of the State Board of Forestry’s Zone Zero recommendation becoming finalized regulation, request that the City Manager report back to City Council with an update on the differences between the state and local vegetation management laws (if any). Vote: All Ayes. Recess: 7:14 p.m. – 7:27 p.m.",
+   "speakers": 1,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "1. Adopt the first reading of Ordinance No. 7,991–N.S. Second reading scheduled for December 2, 2025. 2. Adopt Resolution No. 72,025–N.S. (Local Findings of Fact) 3. Thank the members of the WUI Vegetation Code Workgroup for their efforts, asking them to submit a memo with any additional follow-up recommendations to the Fire Chief before their work concludes on December 31, 2025. 4. Request that the City Manager bring back any additional WUI items coming out of these recommendations to the City Council’s Public Safety Policy Committee. 5. Within 60 days of the State Board of Forestry’s Zone Zero recommendation becoming finalized regulation, request that the City Manager report back to City Council with an update on the differences between the state and local vegetation management laws (if any).",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "11",
+   "section": "Action Calendar – New Business",
+   "heading": "Annual Surveillance Technology Report for Body Worn Cameras, GPS Trackers, Fixed Surveillance Video Cameras, Parking Enforcement Officer Automated License Plate Readers, the Street Level Imagery Project, Unmanned Aerial Systems, and Fixed Automated License Plate Readers",
+   "lines": [
+    303,
+    316
+   ],
+   "from": "City Manager",
+   "contact": "Jennifer Louis, Police, (510) 981-5900",
+   "financial_implications": "See report",
+   "action": "Action: 2 speakers. M/S/C (Taplin/Kesarwani) to adopt Resolution No. 72,026–N.S. Vote: All Ayes.",
+   "speakers": 2,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 72,026–N.S.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "12",
+   "section": "Council Action Items",
+   "heading": "Referral to Amend Berkeley Municipal Codes 3.24.120 and 3.24.300 to Improve Procedure for Designating Landmarks, Historic Districts and Structures of Merit",
+   "lines": [
+    323,
+    351
+   ],
+   "from": "Councilmember Kesarwani (Author), Councilmember Humbert (Co- Sponsor)",
+   "contact": "Rashi Kesarwani, Councilmember, District 1, (510) 981-7110",
+   "financial_implications": "See report",
+   "action": "Action: 16 speakers. M/S/C (Kesarwani/Humbert) to refer the proposal from Councilmember Kesarwani in Supplemental Communications Packet #1 and the proposal from Councilmember Tregub in Supplemental Communications Packet #2 to the City Manager and the City Attorney to consider potential amendments to Chapter 3.24. Vote: All Ayes.",
+   "speakers": 16,
+   "attribution": [
+    {
+     "member": "off-kesarwani",
+     "as_printed": "Councilmember Kesarwani (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-humbert",
+     "as_printed": "Councilmember Humbert (Co- Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "refer the proposal from Councilmember Kesarwani in Supplemental Communications Packet #1 and the proposal from Councilmember Tregub in Supplemental Communications Packet #2 to the City Manager and the City Attorney to consider potential amendments to Chapter 3.24.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Waterside Workshops",
+   "line": 365,
+   "entries": [
+    {
+     "as_printed": "Erin Woodell",
+     "line": 366,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "California Writers Club",
+   "line": 368,
+   "entries": [
+    {
+     "as_printed": "Richard Schwartz (2)",
+     "line": 369,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "My Town AI",
+   "line": 371,
+   "entries": [
+    {
+     "as_printed": "John J. Parman",
+     "line": 372,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Dia de Los Muertos Event",
+   "line": 374,
+   "entries": [
+    {
+     "as_printed": "Adriana Betti on behalf of the Muertos Committee",
+     "line": 375,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Strong Shoreline Initiative",
+   "line": 377,
+   "entries": [
+    {
+     "as_printed": "Rigel Robinson",
+     "line": 378,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "IKE Kiosks",
+   "line": 380,
+   "entries": [
+    {
+     "as_printed": "Sylvia",
+     "line": 381,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Care for Homeless People",
+   "line": 383,
+   "entries": [
+    {
+     "as_printed": "Diana Bohn",
+     "line": 384,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Housing Concerns",
+   "line": 386,
+   "entries": [
+    {
+     "as_printed": "Benito Romero",
+     "line": 387,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Traffic Safety",
+   "line": 389,
+   "entries": [
+    {
+     "as_printed": "Whytes",
+     "line": 390,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Business Rights",
+   "line": 392,
+   "entries": [
+    {
+     "as_printed": "Todd Andrew (2)",
+     "line": 393,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Beth Roessner",
+     "line": 394,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "New CA State Legislation",
+   "line": 396,
+   "entries": [
+    {
+     "as_printed": "Todd Andrew",
+     "line": 397,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Drone Proposal",
+   "line": 399,
+   "entries": [
+    {
+     "as_printed": "Wendy Alfsen",
+     "line": 400,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Flock Concerns",
+   "line": 402,
+   "entries": [
+    {
+     "as_printed": "Margots999",
+     "line": 403,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Elementary Reading Program",
+   "line": 405,
+   "entries": [
+    {
+     "as_printed": "Marlene Cohen",
+     "line": 406,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Eid’s Televsion",
+   "line": 408,
+   "entries": [
+    {
+     "as_printed": "Eid (3)",
+     "line": 413,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Newsletters",
+   "line": 415,
+   "entries": [
+    {
+     "as_printed": "Berkeley Art Center",
+     "line": 416,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Downtown Berkeley Association",
+     "line": 417,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Middle East Conflict",
+   "line": 419,
+   "entries": [
+    {
+     "as_printed": "Rebecca Ayers Azran (3)",
+     "line": 420,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Forwards",
+   "line": 422,
+   "entries": [
+    {
+     "as_printed": "Russbumper (3)",
+     "line": 423,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "URL’s",
+   "line": 425,
+   "entries": [
+    {
+     "as_printed": "Russbumper",
+     "line": 426,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "E-Scooters",
+   "line": 428,
+   "entries": [
+    {
+     "as_printed": "Robert Borghese (6)",
+     "line": 429,
+     "count": 6,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Devin Dollinger (4)",
+     "line": 430,
+     "count": 4,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Wahid Amiri (3)",
+     "line": 431,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #8: Resolution of the City of Berkeley Supporting the Bay Area Air District’s Zero Emission Building Appliance Rules",
+   "line": 434,
+   "entries": [
+    {
+     "as_printed": "Jeffrey White (2)",
+     "line": 436,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Sarah Moore on behalf of the Environment and Climate Commission",
+     "line": 437,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jean Tepperman",
+     "line": 438,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #12: Referral to Amend Berkeley Municipal Codes 3.24.120 and 3.24.300 to Improve Procedure for Designating Landmarks, Historic Districts and Structures of Merit",
+   "line": 439,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by Councilmember Rashi Kesarwani",
+     "line": 442,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sharon Entwistle (3)",
+     "line": 443,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Karen Gilligan",
+     "line": 444,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Summer Brenner",
+     "line": 445,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Aimee Baldwin",
+     "line": 446,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leila H. Moncharsh on behalf of the Berkeley Architectural Heritage Association Board",
+     "line": 447,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Richard Marcus",
+     "line": 449,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Frances Wilson",
+     "line": 450,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lorna Byrne",
+     "line": 451,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leonard Pitt",
+     "line": 452,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #8: Resolution of the City of Berkeley Supporting the Bay Area Air District’s Zero Emission Building Appliance Rules",
+   "line": 455,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by Councilmember Igor Tregub",
+     "line": 457,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cindy Shamban",
+     "line": 461,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sam Fishman on behalf of SPUR, Act Now Bay Area, SF Bay PSR, Sierra Club SF Bay Chapter, Safe Cities and Stand.earth, Menlo Spark, and Carbon Free Palo Alto",
+     "line": 462,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Daniela Suarez on behalf of Local Clean Energy Alliance (LCEA)",
+     "line": 464,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Daniel Tahara on behalf of 350 Berkeley Hub",
+     "line": 465,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tom Yamaguchi",
+     "line": 466,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Marjory Keenan",
+     "line": 467,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rebecca Medcalf",
+     "line": 468,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Liz Ozol",
+     "line": 469,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #10: Adoption of and Amendments to the California Wildland-Urban Interface (WUI) Code",
+   "line": 470,
+   "entries": [
+    {
+     "as_printed": "Janice Thomas",
+     "line": 472,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #11: Annual Surveillance Technology Report for Body Worn Cameras, GPS Trackers, Fixed Surveillance Video Cameras, Parking Enforcement Officer Automated License Plate Readers, the Street Level Imagery Project, Unmanned Aerial Systems, and Fixed Automated License Plate Readers",
+   "line": 473,
+   "entries": [
+    {
+     "as_printed": "Office of the Director of Police Accountability on behalf of the Police Accountability Board (2)",
+     "line": 477,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #12: Referral to Amend Berkeley Municipal Codes 3.24.120 and 3.24.300 to Improve Procedure for Designating Landmarks, Historic Districts and Structures of Merit",
+   "line": 479,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by Councilmember Igor Tregub",
+     "line": 482,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chris Hamilton",
+     "line": 483,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janice Thomas",
+     "line": 484,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeff Baker",
+     "line": 485,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "12"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #9: Adoption of the 2025 California Fire Code with Local Amendments",
+   "line": 488,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Fire Department",
+     "line": 489,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #10: Adoption of and Amendments to the California Wildland-Urban Interface (WUI) Code",
+   "line": 491,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Fire Department",
+     "line": 493,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wildland Urban Interface (WUI) Working Group",
+     "line": 494,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #11: Annual Surveillance Technology Report for Body Worn Cameras, GPS Trackers, Fixed Surveillance Video Cameras, Parking Enforcement Officer Automated License Plate Readers, the Street Level Imagery Project, Unmanned Aerial Systems, and Fixed Automated License Plate Readers",
+   "line": 496,
+   "entries": [
+    {
+     "as_printed": "Elana Auerbach",
+     "line": 500,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janice Schroeder",
+     "line": 501,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #12: Referral to Amend Berkeley Municipal Codes 3.24.120 and 3.24.300 to Improve Procedure for Designating Landmarks, Historic Districts and Structures of Merit",
+   "line": 507,
+   "entries": [
+    {
+     "as_printed": "Sarah Bell",
+     "line": 510,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Frances Wilson",
+     "line": 511,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gregory Kalkinas",
+     "line": 512,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Paul Schwartz",
+     "line": 513,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane McKinne",
+     "line": 514,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeffrey Hart",
+     "line": 515,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephen Alpert Miscellaneous",
+     "line": 516,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "39 Postcards “More Climate Action, Less Hot Air”",
+     "line": 518,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "12"
+   ]
+  }
+ ]
+}

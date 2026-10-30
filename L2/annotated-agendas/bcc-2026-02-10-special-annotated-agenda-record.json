@@ -1,0 +1,168 @@
+{
+ "id": "bcc-2026-02-10-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2026-02-10-special-annotated-agenda",
+ "text": "bcc-2026-02-10-special-annotated-agenda-text",
+ "text_sha256": "e14c4184fc4251e9627aa8e6983fa2ae9cda33e0ed255998e22b82e9f66aecf8",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "5:02 p.m.",
+  "present": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": null,
+    "as_printed": "Blackaby Action Calendar – New Business 1. 2026 City Council Referral Prioritization Results Using Re-Weighted Range Voting (RRV) From: City Manager Recommendation: Review the completed Re-Weighted Range Voting (RRV) rankings for all outstanding City Council referrals"
+   },
+   {
+    "member": null,
+    "as_printed": "adopt a Resolution approving the list of prioritized referrals to city staff. Financial Implications: None Contact: Mark Numainville"
+   },
+   {
+    "member": null,
+    "as_printed": "City Clerk"
+   },
+   {
+    "member": null,
+    "as_printed": "(510) 981-6900"
+   }
+  ],
+  "arrived_late": []
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar – New Business",
+   "heading": "2026 City Council Referral Prioritization Results Using Re-Weighted Range Voting (RRV)",
+   "lines": [
+    58,
+    69
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "None",
+   "action": "Action: 3 speakers. M/S/C (Lunaparra/Taplin) to adopt Resolution No. 72,120–N.S. approving the list of prioritized referrals to city staff. Vote: Ayes – Taplin, Tregub, O’Keefe, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – Kesarwani, Bartlett, Blackaby.",
+   "speakers": 3,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 72,120–N.S. approving the list of prioritized referrals to city staff.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [],
+      "absent": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       }
+      ],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Taplin, Tregub, O’Keefe, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – Kesarwani, Bartlett, Blackaby."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: 2026 City Council Referral Prioritization Results Using Re-Weighted Range Voting (RRV)",
+   "line": 90,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the City Clerk Department",
+     "line": 92,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

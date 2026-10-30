@@ -1,0 +1,1261 @@
+{
+ "id": "bcc-2025-03-18-regular-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-03-18-regular-annotated-agenda",
+ "text": "bcc-2025-03-18-regular-annotated-agenda-text",
+ "text_sha256": "d01d880319ceabb1bf2686b3f9b75caf5dd83b6e7ddb5b78ffaa689ec40c94e6",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:19 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "6:30 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 31900122-1 Amendment: Rolling Orange, Inc. for Website Maintenance and Support",
+   "lines": [
+    95,
+    104
+   ],
+   "from": "City Manager",
+   "contact": "Kevin Fong, Information Technology, (510) 981-6500",
+   "financial_implications": "IT Cost Allocation Fund - $120,000",
+   "action": "Action: Adopted Resolution No. 71,688–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "2",
+   "section": "Consent Calendar",
+   "heading": "Contract: Pride Industries for Citywide Custodial Services",
+   "lines": [
+    106,
+    115
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "Various Funds - $5,500,000",
+   "action": "Action: Adopted Resolution No. 71,689–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "3",
+   "section": "Consent Calendar",
+   "heading": "Contract: SubTerra Construction, Inc. for Adeline St, Shattuck Ave., Oxford St., Fulton St., University Ave., Kala Bagai Way, and Woolsey St.; Sewer Rehabilitation Project",
+   "lines": [
+    117,
+    133
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "Sanitary Sewer Fund - $8,962,808",
+   "action": "Action: Adopted Resolution No. 71,690–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "4",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 32400141 Amendment: Mercury Associates, Inc. for Fleet Consulting Services",
+   "lines": [
+    141,
+    151
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "Various Funds - $100,000",
+   "action": "Action: Adopted Resolution No. 71,691–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "5",
+   "section": "Consent Calendar",
+   "heading": "Contract: APB General Engineering for Urgent Sewer Repair FY2025 Project",
+   "lines": [
+    153,
+    164
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "Sanitary Sewer Fund - $470,910",
+   "action": "Action: Adopted Resolution No. 71,692–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "6",
+   "section": "Consent Calendar",
+   "heading": "Fiscal Year 2026 Street Lighting Assessments – Initiating Proceedings",
+   "lines": [
+    166,
+    175
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 71,693–N.S. (District No. 1982-1), and Resolution No. 71,694–N.S. (District No. 2018).",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "7",
+   "section": "Consent Calendar",
+   "heading": "Establishing a Measure FF SAFE STREETS Citizen Oversight Committee",
+   "lines": [
+    183,
+    194
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 71,695–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "8",
+   "section": "Council Consent Items",
+   "heading": "California Triathlon Club: Relinquishment of Council Office Budget Funds to General Fund and Grant of Such Funds",
+   "lines": [
+    198,
+    213
+   ],
+   "from": "Councilmember Lunaparra (Author)",
+   "contact": "Cecilia Lunaparra, Councilmember, District 7, (510) 981-7170",
+   "financial_implications": "Councilmember's Discretionary Fund - $500",
+   "action": "Action: Adopted Resolution No. 71,696–N.S. amended to include contributions from the following Councilmembers up to the amounts listed: Councilmember Humbert - $250; Councilmember Tregub - $100; Councilmember Taplin - $500; Councilmember Blackaby - $250; Councilmember Bartlett - $250; Councilmember Kesarwani - $100; Councilmember O’Keefe - $100; Mayor Ishii - $500.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-lunaparra",
+     "as_printed": "Councilmember Lunaparra (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "9",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "2024 Local Hazard Mitigation Plan (LHMP)",
+   "lines": [
+    221,
+    244
+   ],
+   "from": "City Manager",
+   "contact": "David Sprague, Fire, (510) 981-3473",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Taplin/Tregub) to adopt Resolution No. 71,697–N.S. adopting the 2024 Local Hazard Mitigation Plan (LHMP) and amending the General Plan to incorporate the 2024 LHMP. Vote: All Ayes. Recess 7:33 p.m. – 7:45 p.m. Action Calander – New Business",
+   "speakers": 0,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,697–N.S. adopting the 2024 Local Hazard Mitigation Plan (LHMP) and amending the General Plan to incorporate the 2024 LHMP.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "10",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Formation of a Sex Trafficking Task Force to Address Current Sex Trafficking in Berkeley (Reviewed by Health, Life Enrichment, Equity & Community Policy Committee)",
+   "lines": [
+    246,
+    278
+   ],
+   "from": "Commission on the Status of Women",
+   "contact": "Okeya Vance-Dozier, Commission Secretary, (510) 981-7100",
+   "financial_implications": "See report",
+   "action": "Action: Moved to Consent Calendar. Referred the item back to the Commission on the Status of Women to develop a subcommittee to identify recommendations for sex trafficking prevention strategies and supports for women and girls seeking to exit sex trafficking. Vote: Ayes – Kesarwani, Taplin, Bartlett, O’Keefe, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – Tregub.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "action",
+     "movers": null,
+     "disposition": "unknown",
+     "severed": false,
+     "final": true,
+     "text": "Moved to Consent Calendar. Referred the item back to the Commission on the Status of Women to develop a subcommittee to identify recommendations for sex trafficking prevention strategies and supports for women and girls seeking to exit sex trafficking.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       }
+      ],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, O’Keefe, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – Tregub."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "11",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Revised External Fixed Surveillance Camera Locations and Vendor Transition",
+   "lines": [
+    280,
+    365
+   ],
+   "from": "City Manager",
+   "contact": "Jennifer Louis, Police, (510) 981-5900",
+   "financial_implications": "See report",
+   "action": "Action: M/S/Failed (Lunaparra/Tregub) to: 1. Adopt a Resolution with the addition from the City Manager to cite Berkeley Municipal Code Chapter 2.99 in the first resolved clause, removal of the intersection of Telegraph Avenue & Durant Avenue from the list of proposed camera sites, and addition of the following resolved clause: BE IT FURTHER RESOLVED THAT Flock Safety will be directed to not share information, data, or other assets from the External Fixed Video Surveillance Camera program with any personnel or agencies outside of the City of Berkeley, including in response to an administrative subpoena or other request from another government agency, unless compliance is required by court order, or other appropriate directive. Violation of this provision shall be considered grounds for termination of the contract. Flock Safety will inform the City of Berkeley immediately upon receiving any legal or other orders from other jurisdictions. 2. Refer to the City Manager to consider as part of the contracting process the language proposed by Councilmember Barlett related to liquidated damages, and data ownership, storage, and access. Action Calander – New Business Vote: Ayes – Bartlett, Tregub; Noes – Kesarwani, Taplin; O’Keefe, Blackaby, Humbert, Ishii; Abstain – Lunaparra. Action: 30 speakers. M/S/Carried (Humbert/Blackaby) to adopt Resolution No. 71,698–N.S. with the addition from the City Manager to cite Berkeley Municipal Code Chapter 2.99 in the first resolved clause, and addition of the following resolved clause: BE IT FURTHER RESOLVED THAT Flock Safety will be directed to not share information, data, or other assets from the External Fixed Video Surveillance Camera program with any personnel or agencies outside of the City of Berkeley, including in response to an administrative subpoena or other request from another government agency, unless compliance is required by court order, or other appropriate directive. Violation of this provision shall be considered grounds for termination of the contract. Flock Safety will inform the City of Berkeley immediately upon receiving any legal or other orders from other jurisdictions. Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, O’Keefe, Blackaby, Humbert, Ishii; Noes – Lunaparra; Abstain – None.",
+   "speakers": 30,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "competing",
+     "movers": [
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "failed",
+     "severed": false,
+     "final": false,
+     "text": "1. Adopt a Resolution with the addition from the City Manager to cite Berkeley Municipal Code Chapter 2.99 in the first resolved clause, removal of the intersection of Telegraph Avenue & Durant Avenue from the list of proposed camera sites, and addition of the following resolved clause: BE IT FURTHER RESOLVED THAT Flock Safety will be directed to not share information, data, or other assets from the External Fixed Video Surveillance Camera program with any personnel or agencies outside of the City of Berkeley, including in response to an administrative subpoena or other request from another government agency, unless compliance is required by court order, or other appropriate directive. Violation of this provision shall be considered grounds for termination of the contract. Flock Safety will inform the City of Berkeley immediately upon receiving any legal or other orders from other jurisdictions. 2. Refer to the City Manager to consider as part of the contracting process the language proposed by Councilmember Barlett related to liquidated damages, and data ownership, storage, and access. Action Calander – New Business",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "abstain": [
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       }
+      ],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Bartlett, Tregub; Noes – Kesarwani, Taplin; O’Keefe, Blackaby, Humbert, Ishii; Abstain – Lunaparra."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,698–N.S. with the addition from the City Manager to cite Berkeley Municipal Code Chapter 2.99 in the first resolved clause, and addition of the following resolved clause: BE IT FURTHER RESOLVED THAT Flock Safety will be directed to not share information, data, or other assets from the External Fixed Video Surveillance Camera program with any personnel or agencies outside of the City of Berkeley, including in response to an administrative subpoena or other request from another government agency, unless compliance is required by court order, or other appropriate directive. Violation of this provision shall be considered grounds for termination of the contract. Flock Safety will inform the City of Berkeley immediately upon receiving any legal or other orders from other jurisdictions.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, O’Keefe, Blackaby, Humbert, Ishii; Noes – Lunaparra; Abstain – None."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Bicycle Plan",
+   "line": 378,
+   "entries": [
+    {
+     "as_printed": "Marc Hedlund, with Libby Lee-Egan",
+     "line": 379,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Marla Wilson",
+     "line": 380,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Construction on Webster",
+   "line": 382,
+   "entries": [
+    {
+     "as_printed": "Joshua Sopher",
+     "line": 383,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Downtown Safety Concern",
+   "line": 385,
+   "entries": [
+    {
+     "as_printed": "John Craner",
+     "line": 386,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Simone Arpaio (2)",
+     "line": 387,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Javier F. Suazo",
+     "line": 388,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Eduardo D (2)",
+     "line": 389,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Berkeley Marina",
+   "line": 395,
+   "entries": [
+    {
+     "as_printed": "Gordon Meyer",
+     "line": 396,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Police Accountability Newsletter",
+   "line": 398,
+   "entries": [
+    {
+     "as_printed": "Hansel Alejandro Aguilar",
+     "line": 399,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Hopkins/McGee",
+   "line": 401,
+   "entries": [
+    {
+     "as_printed": "Shirley Kirsten (3)",
+     "line": 402,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Battery Recycling",
+   "line": 404,
+   "entries": [
+    {
+     "as_printed": "Martin Bourque (2)",
+     "line": 405,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "David Lerman (2)",
+     "line": 406,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Community Vigil",
+   "line": 408,
+   "entries": [
+    {
+     "as_printed": "Berkeley Network for Palestine (2)",
+     "line": 409,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Summer Brenner",
+     "line": 410,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "TBS Today",
+   "line": 412,
+   "entries": [
+    {
+     "as_printed": "Elsa Tranter",
+     "line": 413,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Berkeley Waterfront Park User Concern",
+   "line": 415,
+   "entries": [
+    {
+     "as_printed": "Kirsten Mahoney",
+     "line": 416,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Encampments",
+   "line": 418,
+   "entries": [
+    {
+     "as_printed": "Steven Donaldson",
+     "line": 419,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joann Driscoll",
+     "line": 420,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "UC Berkeley",
+   "line": 422,
+   "entries": [
+    {
+     "as_printed": "John Craner",
+     "line": 423,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Housing Concern",
+   "line": 425,
+   "entries": [
+    {
+     "as_printed": "Bingo Fantasy Football (3)",
+     "line": 426,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Public Comment Concerns",
+   "line": 428,
+   "entries": [
+    {
+     "as_printed": "Jack Kurzweil",
+     "line": 429,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Summer Brenner",
+     "line": 430,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Aquatics Program Concerns",
+   "line": 432,
+   "entries": [
+    {
+     "as_printed": "Florence Reinisch",
+     "line": 433,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Tree Cutting",
+   "line": 435,
+   "entries": [
+    {
+     "as_printed": "Edward Brent (2)",
+     "line": 436,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "2138 Kittredge St.",
+   "line": 438,
+   "entries": [
+    {
+     "as_printed": "Sharon Gong",
+     "line": 439,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Proclamation Request",
+   "line": 445,
+   "entries": [
+    {
+     "as_printed": "Walton Li",
+     "line": 446,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Use of Taxpayer Money",
+   "line": 448,
+   "entries": [
+    {
+     "as_printed": "Martha Stackawicz",
+     "line": 449,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Street Lighting",
+   "line": 451,
+   "entries": [
+    {
+     "as_printed": "David Lerman",
+     "line": 452,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Affordable Housing",
+   "line": 454,
+   "entries": [
+    {
+     "as_printed": "Moni T. Law",
+     "line": 455,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Insight Housing",
+   "line": 457,
+   "entries": [
+    {
+     "as_printed": "Del and Kathy Totten",
+     "line": 458,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Civic Center Park",
+   "line": 460,
+   "entries": [
+    {
+     "as_printed": "Jill Korte",
+     "line": 461,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Rice",
+     "line": 462,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jason McGatlin",
+     "line": 463,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Holly Scheider",
+     "line": 464,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Peggy Scott",
+     "line": 465,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michael O’Heaney",
+     "line": 466,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Maria Schell Hassid",
+     "line": 467,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cara Delacroix",
+     "line": 468,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Enrique Marisol",
+     "line": 469,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "01Peace and Justice Commission Resolution",
+   "line": 471,
+   "entries": [
+    {
+     "as_printed": "Rev. Niels Teunis and Rev. Angela Jernigan",
+     "line": 472,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Angela Isaacs",
+     "line": 473,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dan Weinberg",
+     "line": 474,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Blind Intersection @ Hopkins CT and Hopkins Ave",
+   "line": 476,
+   "entries": [
+    {
+     "as_printed": "Wahid Amiri",
+     "line": 477,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Chess Club",
+   "line": 479,
+   "entries": [
+    {
+     "as_printed": "Jesse Sheehan (2)",
+     "line": 480,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "URL’s",
+   "line": 482,
+   "entries": [
+    {
+     "as_printed": "Russbumper",
+     "line": 483,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Middle East Conflict",
+   "line": 485,
+   "entries": [
+    {
+     "as_printed": "Russbumper",
+     "line": 486,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #11: Revised External Fixed Surveillance Camera Locations and Vendor Transition",
+   "line": 493,
+   "entries": [
+    {
+     "as_printed": "Victoria Cole on behalf of SafeBears (2)",
+     "line": 495,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #11: Revised External Fixed Surveillance Camera Locations and Vendor Transition",
+   "line": 498,
+   "entries": [
+    {
+     "as_printed": "Sherry Perez",
+     "line": 500,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Markus Feyh",
+     "line": 501,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Enrique Marisol",
+     "line": 502,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Teague",
+     "line": 503,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sheridan Eggers",
+     "line": 504,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sarah Freedman",
+     "line": 505,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mark Rhoades",
+     "line": 506,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Beth Roessner",
+     "line": 507,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Shiver",
+     "line": 508,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Suzan Steinberg",
+     "line": 509,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "38 Similarly worded form letters",
+     "line": 510,
+     "count": 38,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #11: Revised External Fixed Surveillance Camera Locations and Vendor Transition",
+   "line": 513,
+   "entries": [
+    {
+     "as_printed": "Tom Parrish",
+     "line": 515,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gary E.",
+     "line": 516,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sylvia",
+     "line": 517,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Truce Hansen",
+     "line": 518,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nigel",
+     "line": 519,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laksh Lakireddy",
+     "line": 520,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Fern Wildtruth",
+     "line": 521,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jovi Vidal",
+     "line": 522,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tobey Wiebe",
+     "line": 523,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anthony Iacono",
+     "line": 524,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janice Schroeder",
+     "line": 525,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lily Simonson",
+     "line": 526,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Saanvi Arora",
+     "line": 527,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Frankie Cunningham",
+     "line": 528,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Caitlin Chan",
+     "line": 529,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sulakshana",
+     "line": 530,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tracy Rosenberg on behalf of Oakland Privacy",
+     "line": 531,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Simone Arpaio",
+     "line": 532,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alberto Malvestio",
+     "line": 533,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gregory Kalkanis",
+     "line": 534,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Amy Murray",
+     "line": 535,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Marc Steyer",
+     "line": 536,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "30 Similarly worded form letters to support",
+     "line": 541,
+     "count": 30,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "60 Similarly worded form letter to oppose",
+     "line": 542,
+     "count": 60,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "11"
+   ]
+  }
+ ]
+}

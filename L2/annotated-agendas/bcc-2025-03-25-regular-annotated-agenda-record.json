@@ -1,0 +1,1349 @@
+{
+ "id": "bcc-2025-03-25-regular-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-03-25-regular-annotated-agenda",
+ "text": "bcc-2025-03-25-regular-annotated-agenda-text",
+ "text_sha256": "01cfba24db11d23ecc461955ff792070ed207cb15362d65123587070fec03292",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:49 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [],
+  "arrived_late": []
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Consent Calendar",
+   "heading": "Proposed Amendments to the Building Emissions Saving Ordinance (BESO); Amending Berkeley Municipal Code Chapter 19.81 (Item contains revised material)",
+   "lines": [
+    93,
+    104
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 7,953–N.S. Second reading scheduled for April 15, 2025.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "2",
+   "section": "Consent Calendar",
+   "heading": "Adopt an Ordinance to Prohibit the Sale or Use of Pricing Algorithms to Set Rents or Manage Occupancy Levels for Residential Dwelling Units; Adding Berkeley Municipal Code Chapter 13.63",
+   "lines": [
+    106,
+    119
+   ],
+   "from": "Housing Advisory Commission",
+   "contact": "Mike Uberti, Commission Secretary, (510) 981-7400",
+   "financial_implications": "See report",
+   "action": "Action: Adopted second reading of Ordinance No. 7,956–N.S. with the minor clarifying addition published in Supplemental Communications Packet #2 to use the term “coordinated pricing algorithm” throughout the ordinance.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": {
+    "all_ayes": false,
+    "ayes": [
+     {
+      "member": "off-kesarwani",
+      "as_printed": "Kesarwani"
+     },
+     {
+      "member": "off-taplin",
+      "as_printed": "Taplin"
+     },
+     {
+      "member": "off-bartlett",
+      "as_printed": "Bartlett"
+     },
+     {
+      "member": "off-tregub",
+      "as_printed": "Tregub"
+     },
+     {
+      "member": "off-okeefe",
+      "as_printed": "O’Keefe"
+     },
+     {
+      "member": "off-blackaby",
+      "as_printed": "Blackaby"
+     },
+     {
+      "member": "off-lunaparra",
+      "as_printed": "Lunaparra"
+     },
+     {
+      "member": "off-ishii",
+      "as_printed": "Ishii"
+     }
+    ],
+    "noes": [
+     {
+      "member": "off-humbert",
+      "as_printed": "Humbert"
+     }
+    ],
+    "abstain": [],
+    "absent": [],
+    "recused": [],
+    "as_printed": "First Reading Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, O’Keefe, Blackaby, Lunaparra, Ishii; Noes – Humbert; Abstain – None; Absent – None."
+   }
+  },
+  {
+   "item": "3",
+   "section": "Consent Calendar",
+   "heading": "Minutes for Approval",
+   "lines": [
+    121,
+    128
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "None",
+   "action": "Action: Approved the minutes as submitted.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "4",
+   "section": "Consent Calendar",
+   "heading": "Formal Bid Solicitations and Request for Proposals Scheduled for Possible Issuance After Council Approval on March 25, 2025",
+   "lines": [
+    135,
+    144
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "Various Funds - $6,575,000",
+   "action": "Action: Approved recommendation.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "5",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 32000118 Amendment: NEXGEN Asset and Work Order Management Software Maintenance",
+   "lines": [
+    146,
+    156
+   ],
+   "from": "City Manager",
+   "contact": "Kevin Fong, Information Technology, (510) 981-6500",
+   "financial_implications": "Various Funds - $1,123,457",
+   "action": "Action: Adopted Resolution No. 71,701–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "6",
+   "section": "Consent Calendar",
+   "heading": "Contracts: On-Call Landscape Architectural Services for Capital Improvement Projects",
+   "lines": [
+    158,
+    175
+   ],
+   "from": "City Manager",
+   "contact": "Scott Ferris, Parks, Recreation and Waterfront, (510) 981-6700",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 71,702–N.S. (Carducci), Resolution No. 71,703– N.S. (MIG), Resolution No. 71,704–N.S. (PGAdesign), Resolution No. 71,705–N.S. (RHAA), and Resolution No. 71,706–N.S. (RRM).",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "7",
+   "section": "Consent Calendar",
+   "heading": "Adopt a Mitigated Negative Declaration for the Tom Bates Regional Sports Complex Restroom and Community Space Project",
+   "lines": [
+    182,
+    190
+   ],
+   "from": "City Manager",
+   "contact": "Scott Ferris, Parks, Recreation and Waterfront, (510) 981-6700",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 71,707–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "8",
+   "section": "Action Calendar – Public Hearing",
+   "heading": "Establishment of M-RD Zoning District, Associated General Plan and West Berkeley Plan Amendments, and Environmental Impact Report",
+   "lines": [
+    194,
+    232
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Kesarwani/Taplin) to: 1. Adopt first reading of Ordinance No. 7,957–N.S. amending Title 23 of the Berkeley Municipal Code and the Zoning Map to establish the Manufacturing, Research & Development (M-RD) zoning district to encourage redevelopment of the former Pacific Steel Casting (PSC) site. Second reading scheduled for April 15, 2025. 2. Adopt Resolution No. 71,708–N.S. approving and adopting West Berkeley Plan and General Plan amendments to be consistent with the associated Ordinance amendments; and certifying the Environmental Impact Report (EIR) (SCH#2022120549) and adopt related California Environmental Quality Act (CEQA) findings, a statement of overriding considerations, mitigation measures, and a mitigation monitoring and reporting program. Vote: All Ayes. Action Calendar – Public Hearings Recess 8:07 p.m. – 8:18 p.m.",
+   "speakers": 2,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "1. Adopt first reading of Ordinance No. 7,957–N.S. amending Title 23 of the Berkeley Municipal Code and the Zoning Map to establish the Manufacturing, Research & Development (M-RD) zoning district to encourage redevelopment of the former Pacific Steel Casting (PSC) site. Second reading scheduled for April 15, 2025. 2. Adopt Resolution No. 71,708–N.S. approving and adopting West Berkeley Plan and General Plan amendments to be consistent with the associated Ordinance amendments; and certifying the Environmental Impact Report (EIR) (SCH#2022120549) and adopt related California Environmental Quality Act (CEQA) findings, a statement of overriding considerations, mitigation measures, and a mitigation monitoring and reporting program.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "9",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "ZAB Appeal: 3000 Shattuck Avenue, Use Permit #ZP2022-0046",
+   "lines": [
+    234,
+    267
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "None",
+   "action": "Action: M/S/Failed (Kesarwani/Taplin) to adopt a resolution affirming the Zoning Adjustments Board (ZAB) decision to approve a Use Permit to demolish a gas station, and construct a 10-story (114 feet) mixed-use building utilizing a State Density Bonus request, with 166 dwellings, including 17 Very Low-Income units, and 1,000 square-feet of commercial space, and dismiss the appeals. Vote: Ayes – Kesarwani, Blackaby, Humbert, Ishii; Noes – Taplin, Bartlett; Abstain – None; Absent – None; Recused – Tregub (Considered and voted on the Use Permit as a member of the Zoning Adjustments Board), O’Keefe (Considered and voted on the Use Permit as a member of the Zoning Adjustments Board), Lunaparra (Considered and voted on the Use Permit as a member of the Zoning Adjustments Board). The ZAB decision stands unless the Council takes up the appeal again within 30 days, under BMC 23.410.040.I.",
+   "speakers": 17,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       }
+      ],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Blackaby, Humbert, Ishii; Noes – None; Abstain – None; Absent – None; Recused – Tregub (Considered and voted on the Use Permit as a member of the Zoning Adjustments Board), O’Keefe (Considered and voted on the Use Permit as a member of the Zoning Adjustments Board), Lunaparra (Considered and voted on the Use Permit as a member of the Zoning Adjustments Board)."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "failed",
+     "severed": false,
+     "final": true,
+     "text": "adopt a resolution affirming the Zoning Adjustments Board (ZAB) decision to approve a Use Permit to demolish a gas station, and construct a 10-story (114 feet) mixed-use building utilizing a State Density Bonus request, with 166 dwellings, including 17 Very Low-Income units, and 1,000 square-feet of commercial space, and dismiss the appeals.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       }
+      ],
+      "as_printed": "Vote: Ayes – Kesarwani, Blackaby, Humbert, Ishii; Noes – Taplin, Bartlett; Abstain – None; Absent – None; Recused – Tregub (Considered and voted on the Use Permit as a member of the Zoning Adjustments Board), O’Keefe (Considered and voted on the Use Permit as a member of the Zoning Adjustments Board), Lunaparra (Considered and voted on the Use Permit as a member of the Zoning Adjustments Board)."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "10a",
+   "section": "Action Calendar – New Business",
+   "heading": "Allocation of $2,294,774 Million Over 2 Years, FY 2026 and FY 2027, to Reduce Consumption and Health Impacts of Sugar-Sweetened Beverages (SSBs)",
+   "lines": [
+    274,
+    308
+   ],
+   "from": "Sugar Sweetened Beverage Product Panel of Experts",
+   "contact": "Roberto Terrones, Commission Secretary, (510) 981-5400",
+   "financial_implications": "See report",
+   "action": "Action: See action for Item 10b.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "10b",
+   "section": "Action Calendar – New Business",
+   "heading": "Companion Report: Allocation of $2,294,774 Million Over Two Years, FY2026 and FY2027, to Reduce Consumption and Health Impacts of Sugar-Sweetened Beverages (SSBs)",
+   "lines": [
+    315,
+    359
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300, Scott Gilman, Health, Housing, and Community Services, (510) 981-5400",
+   "financial_implications": "See report",
+   "action": "Action: Moved to Consent Calendar. Adopted Resolution No. 71,709–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "11",
+   "section": "Information Reports",
+   "heading": "FY 2025 Mid-Year Budget Update Report",
+   "lines": [
+    366,
+    370
+   ],
+   "from": "City Manager",
+   "contact": "Sharon Friedrichsen, Budget Manager, (510) 981-7000, Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "12",
+   "section": "Information Reports",
+   "heading": "Landmarks Preservation Ordinance Notice of Decision (LPO NOD): 2138 Kittredge Street/#LMIN2024-0006",
+   "lines": [
+    372,
+    376
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "13",
+   "section": "Information Reports",
+   "heading": "Landmarks Preservation Ordinance Notice of Decision (LPO NOD): 3332 Adeline Street/#LMSAP2025-0001",
+   "lines": [
+    378,
+    382
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #1: Proposed Amendments to the Building Emissions Saving Ordinance (BESO); Amending Berkeley Municipal Code Chapter 19.81 (Item contains revised material)",
+   "line": 393,
+   "entries": [
+    {
+     "as_printed": "David Lerman (2)",
+     "line": 396,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Isabella Almeida (9)",
+     "line": 397,
+     "count": 9,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Communications",
+   "heading": "Item #9: ZAB Appeal: 3000 Shattuck Avenue, Use Permit #ZP2022-0046",
+   "line": 399,
+   "entries": [
+    {
+     "as_printed": "Alisha Pember",
+     "line": 400,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Larisa Cummings (2)",
+     "line": 401,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Lorrie LeLe on behalf of East Bay Residents for Responsible Development",
+     "line": 402,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "section": "Communications",
+   "heading": "Waterfront",
+   "line": 404,
+   "entries": [
+    {
+     "as_printed": "Andrew Sullivan",
+     "line": 405,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kirk van Moon",
+     "line": 406,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ross Stevenson",
+     "line": 407,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Noah Sudarsky",
+     "line": 408,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kirsten Mahoney",
+     "line": 409,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Madeleine King",
+     "line": 413,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Fire Zone Concerns",
+   "line": 415,
+   "entries": [
+    {
+     "as_printed": "Warren & Lorna Byrne (2)",
+     "line": 416,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Deirdre Duhan",
+     "line": 417,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Evan and Erika Mills",
+     "line": 418,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bruce H. Feingold",
+     "line": 419,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joan Wilson",
+     "line": 420,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Encampments",
+   "line": 422,
+   "entries": [
+    {
+     "as_printed": "Steven Donaldson",
+     "line": 423,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Steve Smith",
+     "line": 424,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Steve Martinot",
+     "line": 425,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nigel F.",
+     "line": 426,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Shattuck Security System",
+   "line": 428,
+   "entries": [
+    {
+     "as_printed": "Isabel Thompson",
+     "line": 429,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Cash in Stores",
+   "line": 431,
+   "entries": [
+    {
+     "as_printed": "Max Aue",
+     "line": 432,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Red Cross",
+   "line": 434,
+   "entries": [
+    {
+     "as_printed": "Sheryl Drinkwater Cesar Chavez Park",
+     "line": 435,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stefani Berger",
+     "line": 437,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Adult Education Week",
+   "line": 439,
+   "entries": [
+    {
+     "as_printed": "Brigitte Luna",
+     "line": 440,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Downtown Building",
+   "line": 442,
+   "entries": [
+    {
+     "as_printed": "John Rice",
+     "line": 443,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Housing Safety Concern",
+   "line": 445,
+   "entries": [
+    {
+     "as_printed": "David Lerman",
+     "line": 446,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Constance Rivemale",
+     "line": 447,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Bicycles and Pedestrians",
+   "line": 449,
+   "entries": [
+    {
+     "as_printed": "Lucas Miller",
+     "line": 450,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rachel Doughty",
+     "line": 451,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sheila Newberry",
+     "line": 452,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Beatriz Motta",
+     "line": 453,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John J. Parman",
+     "line": 454,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lee Bishop",
+     "line": 455,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lucas Cantor",
+     "line": 456,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Status of Grievance",
+   "line": 462,
+   "entries": [
+    {
+     "as_printed": "Hector91 Phuentes",
+     "line": 463,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kawal Ulanday",
+     "line": 464,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Towing Services",
+   "line": 466,
+   "entries": [
+    {
+     "as_printed": "Andrew Paul Gutierrez",
+     "line": 467,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Civic Center Park",
+   "line": 469,
+   "entries": [
+    {
+     "as_printed": "Libby Hruska",
+     "line": 470,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Councilmember Taplin",
+     "line": 471,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Relocation of People’s Park",
+   "line": 473,
+   "entries": [
+    {
+     "as_printed": "Richard",
+     "line": 474,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "ICE Concerns",
+   "line": 476,
+   "entries": [
+    {
+     "as_printed": "Marla Wilson",
+     "line": 477,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Plans",
+   "line": 479,
+   "entries": [
+    {
+     "as_printed": "Tillymaui",
+     "line": 480,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Forwards",
+   "line": 482,
+   "entries": [
+    {
+     "as_printed": "Russbumper",
+     "line": 483,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Josh Atwood",
+     "line": 484,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Middle East Conflict",
+   "line": 486,
+   "entries": [
+    {
+     "as_printed": "Cynthia Papermaster",
+     "line": 487,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Russbumper",
+     "line": 488,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "UC Berkeley",
+   "line": 490,
+   "entries": [
+    {
+     "as_printed": "Andrey Vinogradsky",
+     "line": 491,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Daylighting Concern",
+   "line": 493,
+   "entries": [
+    {
+     "as_printed": "Shirley Kirsten",
+     "line": 494,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sandra Sanchez (2)",
+     "line": 495,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Parking Concern",
+   "line": 497,
+   "entries": [
+    {
+     "as_printed": "Rolf Bell",
+     "line": 498,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Fred Botha",
+     "line": 499,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Shirley Kirsten",
+     "line": 500,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Chess Club",
+   "line": 502,
+   "entries": [
+    {
+     "as_printed": "Jesse Sheehan",
+     "line": 503,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "URL’s",
+   "line": 505,
+   "entries": [
+    {
+     "as_printed": "Josh Atwood",
+     "line": 506,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Russbumper (3)",
+     "line": 507,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #9: ZAB Appeal: 3000 Shattuck Avenue, Use Permit #ZP2022-0046",
+   "line": 513,
+   "entries": [
+    {
+     "as_printed": "Supplemental material, submitted by Planning & Development Department",
+     "line": 514,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lynn Cooper",
+     "line": 515,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #2: Adopt an Ordinance to Prohibit the Sale or Use of Pricing Algorithms to Set Rents or Manage Occupancy Levels for Residential Dwelling Units; Adding Berkeley Municipal Code Chapter 13.63",
+   "line": 518,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by Councilmember Lunaparra, Councilmember Tregub, and Councilmember Blackaby",
+     "line": 521,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #9: ZAB Appeal: 3000 Shattuck Avenue, Use Permit #ZP2022-0046",
+   "line": 523,
+   "entries": [
+    {
+     "as_printed": "Dave Fogarty",
+     "line": 524,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janis Chang",
+     "line": 525,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Allison Riemer on behalf of Amy Chang",
+     "line": 526,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Larissa Cummings",
+     "line": 527,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Reed Dillingham",
+     "line": 528,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Paul Dillingham",
+     "line": 529,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Ceremonial Matters",
+   "line": 532,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Berkeley Public Library",
+     "line": 533,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #8: Establishment of M-RD Zoning District, Associated General Plan and West Berkeley Plan Amendments, and Environmental Impact Report",
+   "line": 534,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Planning and Development Department",
+     "line": 536,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ashley James on behalf of Allan Moore",
+     "line": 537,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Christy Shirilla on behalf of Biocom California",
+     "line": 538,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chip Harley",
+     "line": 539,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Todd Jersey",
+     "line": 540,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Darren",
+     "line": 541,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Beth Roessner",
+     "line": 542,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jonathan Bachrach",
+     "line": 543,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julie McCray",
+     "line": 544,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "8"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #9: ZAB Appeal: 3000 Shattuck Avenue, Use Permit #ZP2022-0046",
+   "line": 545,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Planning and Development Department",
+     "line": 546,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Daniel Peven on behalf of Yolanda Huang",
+     "line": 547,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Yolanda Huang",
+     "line": 548,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gregory Kalkanis",
+     "line": 549,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alisha Pember on behalf of Appellant East Bay Residents for Responsible Development",
+     "line": 550,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Todd Darling and Linda Jensen Darling",
+     "line": 552,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Penny Dedel",
+     "line": 553,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "9"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #10a: Allocation of $2,294,774 Million Over 2 Years, FY 2026 and FY 2027, to Reduce Consumption and Health Impacts of Sugar-Sweetened Beverages (SSBs)",
+   "line": 559,
+   "entries": [
+    {
+     "as_printed": "Martin Borque (2)",
+     "line": 561,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Bernard Marszalek",
+     "line": 562,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "10a"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #10b: Companion Report: Allocation of $2,294,774 Million Over Two Years, FY2026 and FY2027, to Reduce Consumption and Health Impacts of Sugar- Sweetened Beverages (SSBs)",
+   "line": 563,
+   "entries": [
+    {
+     "as_printed": "Holly Scheider (2)",
+     "line": 566,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": [
+    "10b"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Miscellaneous",
+   "line": 568,
+   "entries": [
+    {
+     "as_printed": "Unknown",
+     "line": 569,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  }
+ ]
+}

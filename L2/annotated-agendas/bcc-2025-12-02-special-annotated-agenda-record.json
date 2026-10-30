@@ -1,0 +1,198 @@
+{
+ "id": "bcc-2025-12-02-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-12-02-special-annotated-agenda",
+ "text": "bcc-2025-12-02-special-annotated-agenda-text",
+ "text_sha256": "fa0d0bf7bd8a760e88d952dc02c5fa45b56490daebca6af49e3c067526bd07af",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:06 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra",
+    "time": "4:07 p.m."
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "5:06 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar – New Business",
+   "heading": "Sharing the Final Report of the Mayor’s Vision 2050 Task Force, Realize Vision 2050: Update to the Vision 2050 and Recommendations to Address Berkeley’s Infrastructure",
+   "lines": [
+    61,
+    71
+   ],
+   "from": "Mayor Ishii (Author)",
+   "contact": "Adena Ishii, Mayor, (510) 981-7100",
+   "financial_implications": "None",
+   "action": "Action: 2 speakers. The Mayor recognized the members of the Task Force and provided background on the report.",
+   "speakers": 2,
+   "attribution": [
+    {
+     "member": "off-ishii",
+     "as_printed": "Mayor Ishii (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "2",
+   "section": "Action Calendar – New Business",
+   "heading": "Discussion Regarding Potential Ballot Measures for the November 3, 2026, General Municipal Election",
+   "lines": [
+    73,
+    91
+   ],
+   "from": "City Manager",
+   "contact": "David White, City Manager's Office, (510) 981-7000, Terrance Davis, Public Works, (510) 981-6300, Scott Ferris, Parks, Recreation and Waterfront, (510) 981- 6700, Henry Oyekanmi, Finance, (510) 981-7300, David Sprague, Fire, (510) 981- 3473",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Taplin/Blackaby) to accept revised materials from the City Manager on Item 2. Vote: Ayes – Kesarwani, Taplin, Tregub, O’Keefe, Blackaby, Humbert, Ishii; Noes – None; Abstain – None; Absent – Bartlett, Lunaparra. Action: 5 speakers. The Council discussed the report and presentation and provided direction to the City Manager regarding the community survey.",
+   "speakers": 5,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "accept revised materials from the City Manager on Item 2.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [],
+      "absent": [
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       }
+      ],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Tregub, O’Keefe, Blackaby, Humbert, Ishii; Noes – None; Abstain – None; Absent – Bartlett, Lunaparra."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #2: Discussion Regarding Potential Ballot Measures for the November 3, 2026, General Municipal Election",
+   "line": 113,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by the City Manager’s Office",
+     "line": 115,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Presentation submitted by the City Manager’s Office",
+     "line": 116,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "2"
+   ]
+  }
+ ]
+}

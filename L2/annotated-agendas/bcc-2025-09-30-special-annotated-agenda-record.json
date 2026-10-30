@@ -1,0 +1,100 @@
+{
+ "id": "bcc-2025-09-30-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-09-30-special-annotated-agenda",
+ "text": "bcc-2025-09-30-special-annotated-agenda-text",
+ "text_sha256": "ae32a63ac7bcee719f7bc66ffd105ced2d70a7c1378204cca166ecf5ad47a885",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:06 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe",
+    "time": "4:08 p.m."
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "4:21 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Worksession",
+   "heading": "Social Housing Study and Recommendations",
+   "lines": [
+    61,
+    64
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5400",
+   "financial_implications": null,
+   "action": "Action: 7 speakers. Presentation made and discussion held.",
+   "speakers": 7,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Social Housing Study and Recommendations",
+   "line": 84,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Health, Housing, and Community Services Department",
+     "line": 85,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

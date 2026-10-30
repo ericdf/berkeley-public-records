@@ -1,0 +1,1591 @@
+{
+ "id": "bcc-2025-04-28-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-04-28-special-annotated-agenda",
+ "text": "bcc-2025-04-28-special-annotated-agenda-text",
+ "text_sha256": "945426cf2ba22c9a42d1914cdb85175c5dae3009a89fe3779b4742848725674b",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "5:04 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": null,
+    "as_printed": "None Councilmember Taplin participated in the meeting remotely under the just cause exception in the Brown Act. Action Calendar Special City Council Meeting: Possible Ceasefire Resolution for Gaza Conflict"
+   },
+   {
+    "member": null,
+    "as_printed": "the Impact"
+   },
+   {
+    "member": null,
+    "as_printed": "Effects of the Conflict on the Berkeley Community"
+   },
+   {
+    "member": null,
+    "as_printed": "Abroad 1. Resolution for an Immediate"
+   },
+   {
+    "member": null,
+    "as_printed": "Permanent Ceasefire in Gaza"
+   },
+   {
+    "member": null,
+    "as_printed": "an End to U.S. Military Aid to Israel"
+   },
+   {
+    "member": null,
+    "as_printed": "Support for Palestinian Self-Determination From: Peace"
+   },
+   {
+    "member": null,
+    "as_printed": "Justice Commission Recommendation: 1. The City of Berkeley Council adopt a resolution for a ceasefire in Gaza"
+   },
+   {
+    "member": null,
+    "as_printed": "an end to U.S. military aid to Israel"
+   },
+   {
+    "member": null,
+    "as_printed": "support for Palestinian self-determination. 2. Send a copy of the resolution to President Joseph R. Biden"
+   },
+   {
+    "member": null,
+    "as_printed": "Secretary of State Antony Blinken"
+   },
+   {
+    "member": null,
+    "as_printed": "Vice President Kamala Harris"
+   },
+   {
+    "member": null,
+    "as_printed": "Representative Barbara Lee"
+   },
+   {
+    "member": null,
+    "as_printed": "Senator Alex Padilla"
+   },
+   {
+    "member": null,
+    "as_printed": "Senator Laphonza R. Butler"
+   },
+   {
+    "member": null,
+    "as_printed": "Representative Cori Bush"
+   },
+   {
+    "member": null,
+    "as_printed": "Representative Rashida Tlaib. Financial Implications: None Contact: Rex Brown"
+   },
+   {
+    "member": null,
+    "as_printed": "Commission Secretary"
+   },
+   {
+    "member": null,
+    "as_printed": "(510) 981-7000"
+   }
+  ],
+  "arrived_late": []
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar",
+   "heading": "Resolution for an Immediate and Permanent Ceasefire in Gaza, and an End to U.S. Military Aid to Israel, and Support for Palestinian Self-Determination",
+   "lines": [
+    64,
+    111
+   ],
+   "from": "Peace and Justice Commission",
+   "contact": "Rex Brown, Commission Secretary, (510) 981-7000",
+   "financial_implications": "None",
+   "action": "Action: M/S/C (Ishii/Humbert) to suspend the rules and establish a three-hour public comment period for the agenda item with time for both in-person and online speakers. Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, O’Keefe, Blackaby, Humbert, Ishii; Noes – None; Abstain – Lunaparra. Action: M/S/C (Lunaparra/Ishii) to suspend the rules and extend the public comment period for an additional hour. Vote: Ayes – Kesarwani, Bartlett, Tregub, O’Keefe, Blackaby, Lunaparra, Ishii; Noes – Taplin; Abstain – Humbert. Action: M/S/C (Ishii/Lunaparra) to suspend the rules and extend the meeting to 12:00 a.m. Vote: All Ayes. Action Calendar – New Business Action: M/S/Failed (Ishii/Blackaby) to adopt the resolution submitted by Mayor Ishii and Councilmember Bartlett in Supplemental Communications Packet #2 titled “Resolution Reaffirming the City of Berkeley’s Commitment to Combatting Hate, Supporting a Lasting Peace Between Israel and Gaza, Opposing a U.S. Occupation of Gaza and Respecting Freedom ‘f Speech.” Vote: Ayes – Bartlett, Tregub, Lunaparra, Ishii; Noes – Blackaby; Abstain – Kesarwani, Taplin, O’Keefe, Humbert. Action: 197 speakers. M/S/Carried (Lunaparra/Ishii) to adopt Resolution No. 71,726–N.S. submitted by Councilmember Taplin in Supplemental Communications Packet #2 titled “Reaffirming Berkeley’s Commitment to Peace, at Home and Abroad.” Vote: Ayes – Kesarwani, Taplin, Tregub, O’Keefe, Blackaby, Humbert, Ishii; Noes – Lunaparra; Abstain – Bartlett.",
+   "speakers": 197,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "suspend the rules and establish a three-hour public comment period for the agenda item with time for both in-person and online speakers.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       }
+      ],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, O’Keefe, Blackaby, Humbert, Ishii; Noes – None; Abstain – Lunaparra."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      },
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "suspend the rules and extend the public comment period for an additional hour.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       }
+      ],
+      "abstain": [
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       }
+      ],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Bartlett, Tregub, O’Keefe, Blackaby, Lunaparra, Ishii; Noes – Taplin; Abstain – Humbert."
+     }
+    },
+    {
+     "seq": 2,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      },
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "suspend the rules and extend the meeting to 12:00 a.m.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 3,
+     "kind": "competing",
+     "movers": [
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      },
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      }
+     ],
+     "disposition": "failed",
+     "severed": false,
+     "final": false,
+     "text": "adopt the resolution submitted by Mayor Ishii and Councilmember Bartlett in Supplemental Communications Packet #2 titled “Resolution Reaffirming the City of Berkeley’s Commitment to Combatting Hate, Supporting a Lasting Peace Between Israel and Gaza, Opposing a U.S. Occupation of Gaza and Respecting Freedom ‘f Speech.”",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       }
+      ],
+      "abstain": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       }
+      ],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Bartlett, Tregub, Lunaparra, Ishii; Noes – Blackaby; Abstain – Kesarwani, Taplin, O’Keefe, Humbert."
+     }
+    },
+    {
+     "seq": 4,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      },
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,726–N.S. submitted by Councilmember Taplin in Supplemental Communications Packet #2 titled “Reaffirming Berkeley’s Commitment to Peace, at Home and Abroad.”",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       }
+      ],
+      "abstain": [
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       }
+      ],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Tregub, O’Keefe, Blackaby, Humbert, Ishii; Noes – Lunaparra; Abstain – Bartlett."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #1: Resolution for an Immediate and Permanent Ceasefire in Gaza, and an End to U.S. Military Aid to Israel, and Support for Palestinian Self-Determination",
+   "line": 124,
+   "entries": [
+    {
+     "as_printed": "Iris Greenberg-Smith",
+     "line": 126,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Diana Bohn",
+     "line": 127,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Allen Mayer",
+     "line": 128,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Garner",
+     "line": 129,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Wolfe",
+     "line": 130,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1: Resolution for an Immediate and Permanent Ceasefire in Gaza, and an End to U.S. Military Aid to Israel, and Support for Palestinian Self-Determination",
+   "line": 136,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by Mayor Adena Ishii and Councilmember Ben Bartlett",
+     "line": 138,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Supplemental agenda material submitted by Councilmember Terry Taplin",
+     "line": 140,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robert Bonam (2)",
+     "line": 141,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Sriram Gopalakrishnan",
+     "line": 142,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Youval Dar",
+     "line": 143,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sara S Ishikawa",
+     "line": 144,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jamie Cooney",
+     "line": 146,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Angie Chang",
+     "line": 147,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Hali Hammer",
+     "line": 148,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Pat O’Brien",
+     "line": 149,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jan Leuin",
+     "line": 150,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cynthia Papermaster and CODEPINK Bay Area Chapter",
+     "line": 151,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tam Sababa",
+     "line": 152,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tal Garner",
+     "line": 153,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kelly Hammergren",
+     "line": 154,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephen M. Lipson",
+     "line": 155,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julie Goldobin",
+     "line": 156,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gayle McLaughlin",
+     "line": 157,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kate Greene",
+     "line": 158,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susanne (Sanne) DeWitt",
+     "line": 159,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nathan Hunt",
+     "line": 160,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Fredda Cassidy",
+     "line": 161,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Lipman",
+     "line": 162,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Deborah Cohan",
+     "line": 163,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jon Jackson",
+     "line": 164,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Terry Fletcher",
+     "line": 165,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ana Tellez-Witrago on behalf of Richmond Mayor Eduardo Martinez",
+     "line": 166,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alan Kittner",
+     "line": 167,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Claudia Jimenez",
+     "line": 168,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Carl Nelson",
+     "line": 169,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Esther Brass-Chorin",
+     "line": 170,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Daren Fields",
+     "line": 171,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sari Alper",
+     "line": 172,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Shifra Pride Raffel (2)",
+     "line": 173,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Miriam Green",
+     "line": 174,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Linda Press Wulf and Stanley Wulf",
+     "line": 175,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sara Sunstein",
+     "line": 176,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ilene Lee",
+     "line": 177,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cynthia Papermaster",
+     "line": 178,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dorothea Dorenz (3)",
+     "line": 179,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Naama Sadan",
+     "line": 180,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jean Tepperman",
+     "line": 181,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tamara Gurin",
+     "line": 182,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Desmid Lyon",
+     "line": 183,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Vicki Sommer (2)",
+     "line": 184,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Ellen Feigenbaum and Peter Schwab",
+     "line": 185,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Farnkopf",
+     "line": 186,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sally Nelson",
+     "line": 187,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Madeline Feingold",
+     "line": 188,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rachel Schiff",
+     "line": 189,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michal Weber",
+     "line": 190,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jude Berman",
+     "line": 191,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michael Cassidy (2)",
+     "line": 192,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Larry Hobel",
+     "line": 193,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Larry Bradshaw",
+     "line": 194,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Imtiaz Ghori",
+     "line": 195,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephanie Guynn and William Guynn (2)",
+     "line": 197,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Rosa Harroun",
+     "line": 198,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Simin Shamji",
+     "line": 199,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kara Nelson",
+     "line": 200,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Marsha Rosenblatt",
+     "line": 201,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Andrea Cassidy",
+     "line": 202,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leah Greenblat",
+     "line": 203,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leah Rothman",
+     "line": 204,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stevie Schwartz",
+     "line": 205,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sarah Lefton",
+     "line": 206,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Judy and Isaac Lieber",
+     "line": 207,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Marisa Lin",
+     "line": 208,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michelle Mascarenhas",
+     "line": 209,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Allen Mayer",
+     "line": 210,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Judd Goodman",
+     "line": 211,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janice Schroeder",
+     "line": 212,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lori Berlin and Michael Stephens",
+     "line": 213,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Omowale Fowles",
+     "line": 214,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jim Haydel",
+     "line": 215,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Faith Meltzer",
+     "line": 216,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Hannah King",
+     "line": 217,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rob Wrenn",
+     "line": 218,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Wrenn",
+     "line": 219,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rissa Coplan",
+     "line": 220,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Zohe Slack",
+     "line": 221,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jason Rose",
+     "line": 222,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barbara Gilbert",
+     "line": 223,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Betsy Bigelow-Teller",
+     "line": 224,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bruce Feingold",
+     "line": 225,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Howard Hertz",
+     "line": 226,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kyra Subbotin",
+     "line": 227,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Marc Sapir",
+     "line": 228,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Monica Renner",
+     "line": 229,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Friends of Adeline",
+     "line": 230,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Prophet",
+     "line": 231,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mati Teiblum",
+     "line": 232,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tarnel Abbott",
+     "line": 233,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elsa Tranter",
+     "line": 234,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leah Rosenthal",
+     "line": 235,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Moni T. Law",
+     "line": 236,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kathy Kojimoto",
+     "line": 237,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Scott Sepke",
+     "line": 238,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Valeria Kaim",
+     "line": 239,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeannine Cohen",
+     "line": 240,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Khalil Bendib",
+     "line": 241,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joel A. Biatch",
+     "line": 242,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Avi Tsang Jaffe",
+     "line": 243,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jonathan Jaffe",
+     "line": 244,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Spero",
+     "line": 245,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Coby Huizenga",
+     "line": 246,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tobie Lurie",
+     "line": 248,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ednah Beth Friedman",
+     "line": 249,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Thomas F. Luce",
+     "line": 250,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Orli Loewenberg",
+     "line": 251,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Harry Devlin",
+     "line": 252,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "46 Similarly worded form letters “On behalf of the Berkeley community”",
+     "line": 253,
+     "count": 46,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "15 Similarly worded form letters “I wish to express my concerns”",
+     "line": 254,
+     "count": 15,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "8 Similarly worded form letters “As a resident of Berkeley”",
+     "line": 255,
+     "count": 8,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Resolution for an Immediate and Permanent Ceasefire in Gaza, and an End to U.S. Military Aid to Israel, and Support for Palestinian Self-Determination",
+   "line": 258,
+   "entries": [
+    {
+     "as_printed": "Alan Jencks",
+     "line": 260,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sara Sunstein",
+     "line": 261,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wendy Patterson",
+     "line": 262,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Naomi Kincler",
+     "line": 263,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barryett Enge (2)",
+     "line": 264,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Lyra King (2)",
+     "line": 265,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Monica Renner",
+     "line": 266,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Idit Minka",
+     "line": 267,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Malka Weitman",
+     "line": 268,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leah Greenblat",
+     "line": 269,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Vicki Sommer",
+     "line": 270,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elana Auerbach",
+     "line": 271,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Martha Wallner",
+     "line": 272,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Hassan Fouda",
+     "line": 273,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephania Widger",
+     "line": 274,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dorothea Dorenz",
+     "line": 275,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Eric Friedman",
+     "line": 276,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cynthia Papermaster",
+     "line": 277,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anna Concepcion",
+     "line": 278,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "William Selig",
+     "line": 279,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kelsi Perttula",
+     "line": 280,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Shirley Kirsten",
+     "line": 281,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Amanda Berger",
+     "line": 282,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dahlia Frydman (2)",
+     "line": 283,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Anita Barrows (2)",
+     "line": 284,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Sonja Trauss (2)",
+     "line": 285,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Gabriela Kipnis (2)",
+     "line": 286,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "JJ Noire (5)",
+     "line": 287,
+     "count": 5,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Yoshiko I. Wada",
+     "line": 288,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Karen Roekard",
+     "line": 289,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Paul Liem",
+     "line": 290,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elana Naftalin-Kelman",
+     "line": 291,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Sweet-Cordero",
+     "line": 292,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elaine Stelton",
+     "line": 293,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tarek Milleron",
+     "line": 294,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Noga Ravid",
+     "line": 295,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jean Krois",
+     "line": 296,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nitzan Pelman",
+     "line": 297,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Grace Morizawa on behalf of the Japanese American community",
+     "line": 299,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Hagopian",
+     "line": 300,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Vanessa and Andres Moraga",
+     "line": 301,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tony Schmiesing",
+     "line": 302,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Niloofar Shambayati",
+     "line": 303,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robin Wenrick",
+     "line": 304,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Miriam Ferris",
+     "line": 305,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alicia Tan",
+     "line": 306,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anne Marx",
+     "line": 307,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Richard Boubelik",
+     "line": 308,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Daniel Brownson",
+     "line": 309,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robin Milleron",
+     "line": 310,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Levinson",
+     "line": 311,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lorrie Beth Slonsky",
+     "line": 312,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Pamela Sawyer",
+     "line": 313,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Melissa Chapman",
+     "line": 314,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barry Rosen",
+     "line": 315,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Amy Zucker Morgenstern",
+     "line": 316,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Camille Watts-Zagha",
+     "line": 317,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rachel on behalf of the Jewish Coalition of Berkeley",
+     "line": 318,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mollie Starr",
+     "line": 319,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kelly Segal",
+     "line": 320,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tobey M. Wiebe",
+     "line": 321,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Esther Brass",
+     "line": 322,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tamara Gurin",
+     "line": 323,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anna Talamo",
+     "line": 324,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jim Haydel",
+     "line": 325,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "50 Similarly worded form letters",
+     "line": 326,
+     "count": 50,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "Thomas F. Luce",
+     "line": 327,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

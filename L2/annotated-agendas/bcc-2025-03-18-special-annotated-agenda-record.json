@@ -1,0 +1,106 @@
+{
+ "id": "bcc-2025-03-18-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-03-18-special-annotated-agenda",
+ "text": "bcc-2025-03-18-special-annotated-agenda-text",
+ "text_sha256": "dafd8adce54230509a369bc83b1c9770a4a1df9bbdf36c40d04af00fe7833bd9",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:07 p.m.",
+  "present": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani",
+    "time": "4:20 p.m."
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "5:28 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Worksession",
+   "heading": "2024 Berkeley Police Department Annual Report",
+   "lines": [
+    64,
+    67
+   ],
+   "from": "City Manager",
+   "contact": "Jennifer Louis, Police, (510) 981-5900",
+   "financial_implications": null,
+   "action": "Action: 2 speakers. Presentation made and discussion held.",
+   "speakers": 2,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: 2024 Berkeley Police Department Annual Report",
+   "line": 87,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Police Department",
+     "line": 88,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Report submitted by the Police Department",
+     "line": 89,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

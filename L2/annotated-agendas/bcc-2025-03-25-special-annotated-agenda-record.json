@@ -1,0 +1,181 @@
+{
+ "id": "bcc-2025-03-25-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-03-25-special-annotated-agenda",
+ "text": "bcc-2025-03-25-special-annotated-agenda-text",
+ "text_sha256": "f4a44c0a1d0429daf2c759b3e78ec5bf8032afda1d300063a19a673e418165c4",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:09 p.m.",
+  "present": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "4:14 p.m."
+   },
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani",
+    "time": "4:16 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Consent Calendar",
+   "heading": "Amend Memorandums of Understanding for Represented Employee Groups to Include Cesar Chavez Day as a Paid City Holiday",
+   "lines": [
+    71,
+    79
+   ],
+   "from": "City Manager",
+   "contact": "Monica Walker, Human Resources, (510) 981-6800",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 71,699–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "2",
+   "section": "Action Calendar – New Business",
+   "heading": "Pavement Management & Infrastructure Planning Presentation",
+   "lines": [
+    83,
+    86
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": null,
+   "action": "Action: 9 speakers. Presentation made and discussion held.",
+   "speakers": 9,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "3",
+   "section": "Action Calendar – New Business",
+   "heading": "2025 City Council Referral Prioritization Results Using Re-Weighted Range Voting (RRV)",
+   "lines": [
+    94,
+    104
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "No direct fiscal impacts",
+   "action": "Action: 1 speaker. M/S/C (Taplin/Tregub) to adopt Resolution No. 71,700–N.S. approving the list of prioritized referrals to city staff. Vote: All Ayes.",
+   "speakers": 1,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,700–N.S. approving the list of prioritized referrals to city staff.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #2: Pavement Management & Infrastructure Planning Presentation",
+   "line": 124,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Public Works Department",
+     "line": 125,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #3: 2025 City Council Referral Prioritization Results Using Re-Weighted Range Voting (RRV)",
+   "line": 126,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the City Clerk Department",
+     "line": 128,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "3"
+   ]
+  }
+ ]
+}

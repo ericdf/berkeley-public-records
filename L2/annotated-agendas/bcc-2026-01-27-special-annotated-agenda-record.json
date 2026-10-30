@@ -1,0 +1,179 @@
+{
+ "id": "bcc-2026-01-27-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2026-01-27-special-annotated-agenda",
+ "text": "bcc-2026-01-27-special-annotated-agenda-text",
+ "text_sha256": "01dcb3818a283f9ea19ea79bd33ead5d97dab2819e0f8f47872ecdb236b8e8bd",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:09 p.m.",
+  "present": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani",
+    "time": "4:14 p.m."
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "4:33 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar – New Business",
+   "heading": "2026 City Council Referral Prioritization Process Using Re-Weighted Range Voting (RRV)",
+   "lines": [
+    67,
+    106
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "None",
+   "action": "Action: 0 speakers. Presentation made and discussion held. M/S/C (Kesarwani/Humbert) to 1) remove the referrals listed below from the list of referrals, and 2) direct staff to run the RRV algorithm and return to Council on February 10 with the prioritized list of referrals. DMND0004241 Companion Report: Affordable Housing for Artists Report (Rec #4) DMND0004129 Amendments to Title 23 Relating to Accessory Dwelling Units (ADUs) DMND0004101 Development of Artists Affordable Housing Certification Program DMND0004063 Referral: Establishing an Electric Bike Rebate Program DMND0004009 Referring to the City Manager to Establish a Policy of Reducing or Waiving Park Fees for Free, Permitted Outdoor Theater, Arts Events, and Other Events DMND0003997 Referral to the City Manager to Establish a Marina Master Plan for Parking with a Consideration for Establishing a Waterfront Parking Benefits District DMND0003975 Referral to Strengthen Public Health and Environmental Impact Mitigation for Industrial Facilities in the Manufacturing Zone DMND0004242 Companion Report: Affordable Housing for Artists Report (Rec #5) DMND0004135 Southside Zoning Amendments DMND0004111 Conduct a Study on the City's History of Discriminatory Actions in Housing Policies/Programs DMND0004110 Adopting a temporary exemption from the collection of taxes under BMC Chapter 9.04.136(D): Tax Rate for Non-Medical and Medical Cannabis Businesses DMND0004106 Bird Safe Building Requirements; Adding Berkeley Municipal Code Section 23.304.150 DMND0004058 Referral to Conduct an Automatic Traffic Calming Review for the Area Immediately Surrounding the Project at 1201-1205 San Pablo Avenue DMND0004188 Planning Commission Referral for a Pilot Density Bonus Program for the Telegraph Avenue Commercial District Vote: All Ayes.",
+   "speakers": 0,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "1) remove the referrals listed below from the list of referrals, and 2) direct staff to run the RRV algorithm and return to Council on February 10 with the prioritized list of referrals. DMND0004241 Companion Report: Affordable Housing for Artists Report (Rec #4) DMND0004129 Amendments to Title 23 Relating to Accessory Dwelling Units (ADUs) DMND0004101 Development of Artists Affordable Housing Certification Program DMND0004063 Referral: Establishing an Electric Bike Rebate Program DMND0004009 Referring to the City Manager to Establish a Policy of Reducing or Waiving Park Fees for Free, Permitted Outdoor Theater, Arts Events, and Other Events DMND0003997 Referral to the City Manager to Establish a Marina Master Plan for Parking with a Consideration for Establishing a Waterfront Parking Benefits District DMND0003975 Referral to Strengthen Public Health and Environmental Impact Mitigation for Industrial Facilities in the Manufacturing Zone DMND0004242 Companion Report: Affordable Housing for Artists Report (Rec #5) DMND0004135 Southside Zoning Amendments DMND0004111 Conduct a Study on the City's History of Discriminatory Actions in Housing Policies/Programs DMND0004110 Adopting a temporary exemption from the collection of taxes under BMC Chapter 9.04.136(D): Tax Rate for Non-Medical and Medical Cannabis Businesses DMND0004106 Bird Safe Building Requirements; Adding Berkeley Municipal Code Section 23.304.150 DMND0004058 Referral to Conduct an Automatic Traffic Calming Review for the Area Immediately Surrounding the Project at 1201-1205 San Pablo Avenue DMND0004188 Planning Commission Referral for a Pilot Density Bonus Program for the Telegraph Avenue Commercial District",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #1: 2026 City Council Referral Prioritization Process Using Re-Weighted Range Voting (RRV)",
+   "line": 120,
+   "entries": [
+    {
+     "as_printed": "Elizabeth Thomas",
+     "line": 122,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1: 2026 City Council Referral Prioritization Process Using Re-Weighted Range Voting (RRV)",
+   "line": 128,
+   "entries": [
+    {
+     "as_printed": "Marty Lynch",
+     "line": 130,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Steve Lustig",
+     "line": 131,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jasmine Durr on behalf of Steve Lustig",
+     "line": 132,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: 2026 City Council Referral Prioritization Process Using Re-Weighted Range Voting (RRV)",
+   "line": 135,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the City Clerk Department",
+     "line": 137,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Linda Maio",
+     "line": 138,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

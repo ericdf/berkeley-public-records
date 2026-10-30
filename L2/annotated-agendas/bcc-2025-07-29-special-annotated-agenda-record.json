@@ -1,0 +1,151 @@
+{
+ "id": "bcc-2025-07-29-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-07-29-special-annotated-agenda",
+ "text": "bcc-2025-07-29-special-annotated-agenda-text",
+ "text_sha256": "3e6945b3280b1472bcadc71633b76a48038fd3266cd9c597362bdc31cfbf2433",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:14 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": null,
+    "as_printed": "Bartlett Consent Calendar Public Comment on Consent Calendar"
+   },
+   {
+    "member": null,
+    "as_printed": "Information Items Only: 2 speakers"
+   }
+  ],
+  "arrived_late": []
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Consent Calendar",
+   "heading": "Grant Award: Byrne State Crisis Intervention Program (SCIP) Cohort 2 Funding – Acceptance of Grant and Execution of Related Documents",
+   "lines": [
+    67,
+    80
+   ],
+   "from": "City Manager",
+   "contact": "Carianna Arredondo, City Manager's Office, (510) 981-7000",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 71,907–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "2a",
+   "section": "Action Calendar – New Business",
+   "heading": "Presentation: Comprehensive Summary of Berkeley’s Homeless Response",
+   "lines": [
+    83,
+    87
+   ],
+   "from": "City Manager",
+   "contact": "Peter Radu, City Manager's Office, (510) 981-7000, Scott Gilman, Health, Housing, and Community Services, (510) 981-5400",
+   "financial_implications": null,
+   "action": "Action: Presentation continued to a future meeting.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "2b",
+   "section": "Action Calendar – New Business",
+   "heading": "Homeless Response Team: Opportunities Exist to Strengthen Procedures and Better Track Outcomes",
+   "lines": [
+    95,
+    109
+   ],
+   "from": "Auditor",
+   "contact": "Jenny Wong, Auditor, (510) 981-6750",
+   "financial_implications": "See report",
+   "action": "Action: Item continued to a future meeting.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #2a: Presentation: Comprehensive Summary of Berkeley’s Homeless Response",
+   "line": 132,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the City Manager’s Office",
+     "line": 133,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "2a"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #2b: Homeless Response Team: Opportunities Exist to Strengthen Procedures and Better Track Outcomes",
+   "line": 134,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the City Auditor’s Office",
+     "line": 136,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Fran Haselsteiner (3)",
+     "line": 137,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": [
+    "2b"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1298 @@
+{
+ "id": "bcc-2025-06-24-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-06-24-special-annotated-agenda",
+ "text": "bcc-2025-06-24-special-annotated-agenda-text",
+ "text_sha256": "0670cd93e4b4fa4c440f8cd9b6f7a3da2d75fe8c4e3c95ac71115b7edeec715f",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:09 p.m.",
+  "present": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani",
+    "time": "4:13 p.m."
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "4:41 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Fire Permit and Inspection Fee Schedule (Continued from June 17, 2025)",
+   "lines": [
+    62,
+    80
+   ],
+   "from": "City Manager",
+   "contact": "David Sprague, Fire, (510) 981-3473",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Tregub/Lunaparra) to adopt Resolution No. 71,837–N.S. Vote: All Ayes.",
+   "speakers": 2,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing that was previously opened at the June 17, 2025 Council meeting.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,837–N.S.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "2",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "New Fee Schedule for Carry Concealed Weapon Permits (Continued from June 17, 2025)",
+   "lines": [
+    88,
+    104
+   ],
+   "from": "City Manager",
+   "contact": "Jennifer Louis, Police, (510) 981-5900",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Blackaby/Humbert) to adopt Resolution No. 71,838–N.S. Vote: All Ayes.",
+   "speakers": 0,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing that was previously opened at the June 17, 2025 Council meeting.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,838–N.S.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "3",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Changes to Select Public Works Transportation Permit Fees (Continued from June 17, 2025)",
+   "lines": [
+    106,
+    121
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Tregub/Kesarwani) to adopt Resolution No. 71,839–N.S. Vote: All Ayes.",
+   "speakers": 4,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing that was previously opened at the June 17, 2025 Council meeting.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,839–N.S.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "4",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Selected Marina Fee Increases (Continued from June 17, 2025)",
+   "lines": [
+    129,
+    143
+   ],
+   "from": "City Manager",
+   "contact": "Scott Ferris, Parks, Recreation and Waterfront, (510) 981-6700",
+   "financial_implications": "See report.",
+   "action": "Action: M/S/C (Taplin/Kesarwani) to adopt Resolution No. 71,840–N.S. Vote: All Ayes.",
+   "speakers": 29,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing that was previously opened at the June 17, 2025 Council meeting.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,840–N.S.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #4: Selected Marina Fee Increases",
+   "line": 160,
+   "entries": [
+    {
+     "as_printed": "Chris Stratton",
+     "line": 161,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Hermele (2)",
+     "line": 162,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "James Peroulas",
+     "line": 163,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chuck Siegel on behalf of Walk Bike Berkeley",
+     "line": 164,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Oren Cheyette",
+     "line": 165,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sandy Oliver on behalf of The Berkeley Racing Canoe Center",
+     "line": 166,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cindy Cheong",
+     "line": 167,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Roger Miller on behalf of the Parks, Recreation, and Waterfront Commission",
+     "line": 168,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Thomas Eusterbrock",
+     "line": 169,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "PJ Podesta (2)",
+     "line": 170,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Josie Gerst",
+     "line": 171,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Catherine A",
+     "line": 172,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Richard Buss",
+     "line": 173,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Pat Charley and Mark Balkan",
+     "line": 174,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Krystyna Montauk",
+     "line": 176,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robert Ofsevit",
+     "line": 177,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Meryl Siegal",
+     "line": 178,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ryan Gregory",
+     "line": 179,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Victoria Bowen",
+     "line": 180,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bruce Miller",
+     "line": 181,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mark Yampanis",
+     "line": 182,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Abigail Surasky",
+     "line": 183,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elana Auerbach",
+     "line": 184,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan Brooks",
+     "line": 185,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alyssa Lichtenstein",
+     "line": 186,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sloane and Nick Morgan",
+     "line": 187,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sima Navaie",
+     "line": 188,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Usha and Dorji Lama",
+     "line": 189,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Carla Woodworth",
+     "line": 190,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nicholas Marion",
+     "line": 191,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Randi Shapiro",
+     "line": 192,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan M Black",
+     "line": 193,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lexie Price",
+     "line": 194,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Aviv Nitsan",
+     "line": 195,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Juana Alicia",
+     "line": 196,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Craig Malam",
+     "line": 197,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mike Graham",
+     "line": 198,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Amanda Hickman",
+     "line": 199,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rev. Mary C. Breland",
+     "line": 200,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane Baraz",
+     "line": 201,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "James Codega",
+     "line": 202,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Doug Yamamoto",
+     "line": 203,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alice Meyers",
+     "line": 204,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gordon Stout (2)",
+     "line": 205,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Jennifer Chou",
+     "line": 206,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tracy Wilks",
+     "line": 207,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bernard Marszalek",
+     "line": 208,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gregory Sweriduk",
+     "line": 209,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Charissa Hogeboom",
+     "line": 210,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dr. Alexey Drobizhev",
+     "line": 211,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Brad Smith",
+     "line": 212,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Richard Rollins",
+     "line": 213,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Andrea Cassidy",
+     "line": 214,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wynd Kaufmyn",
+     "line": 215,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Eric Friedman",
+     "line": 216,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ariella Seidenberg",
+     "line": 217,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Donna DeDiemar",
+     "line": 218,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gail Stewart",
+     "line": 219,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ginger Parnes",
+     "line": 220,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Marilyn Sagna",
+     "line": 221,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Deb Todd",
+     "line": 222,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wigbert Siekhaus",
+     "line": 223,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Corey Busay",
+     "line": 224,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Loek Ten",
+     "line": 225,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sheila Goldmacher",
+     "line": 227,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Richard Arakelian",
+     "line": 228,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Steve Fick",
+     "line": 229,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Annette Herskovits",
+     "line": 230,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeb Evans",
+     "line": 231,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Scott Walters",
+     "line": 232,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alyssa Lichtenstein",
+     "line": 233,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lena N",
+     "line": 234,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Roberta Wyn on behalf of Citizens for East Shores Parks",
+     "line": 235,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michele Adamson",
+     "line": 236,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Shantee Baker",
+     "line": 237,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Norah Bower",
+     "line": 238,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Noah Sudarsky",
+     "line": 239,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Preston Thomas",
+     "line": 240,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeffrey Skoller",
+     "line": 241,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "6 Similarly worded form letters “I urge you…”",
+     "line": 242,
+     "count": 6,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "40 Similarly worded form letters “I am opposed…”",
+     "line": 243,
+     "count": 40,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #4: Selected Marina Fee Increases",
+   "line": 246,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Parks, Recreation, and Waterfront Department",
+     "line": 247,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tom Bickley",
+     "line": 248,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Scott Scheffler",
+     "line": 249,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gail Stempler Lake",
+     "line": 250,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nancy Bartell",
+     "line": 251,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Vida Bateau (2)",
+     "line": 252,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Elizabeth and Nestor",
+     "line": 253,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Denisia Wash (2)",
+     "line": 254,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Zm Jurami",
+     "line": 255,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Law",
+     "line": 256,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michelle Piffero",
+     "line": 257,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Claire Broome",
+     "line": 258,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Peter Rasmussen",
+     "line": 259,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Malu Lujan",
+     "line": 260,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jamuel Starkey",
+     "line": 261,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Charles Siegal",
+     "line": 262,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cece Littlepage",
+     "line": 263,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lauren Parsons",
+     "line": 264,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kelly Hammargren",
+     "line": 265,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lea Barrow",
+     "line": 266,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan DeMersseman",
+     "line": 267,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Theresa Gensler",
+     "line": 268,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa and Tim Goodman",
+     "line": 269,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sarah Levin",
+     "line": 270,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elliot Abrams",
+     "line": 271,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ana Maria Carbonell",
+     "line": 272,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julie Searle",
+     "line": 273,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lynne-Rachel Altman",
+     "line": 274,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Arlene Marcus",
+     "line": 275,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joseph Brulenski",
+     "line": 276,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Risala Laird",
+     "line": 278,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mateo Hadeshian",
+     "line": 279,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anne Fulmer",
+     "line": 280,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leni Siegel",
+     "line": 281,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Colin McRae",
+     "line": 282,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Phyllis Rothman",
+     "line": 283,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Bruce",
+     "line": 284,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julie Guilfoy",
+     "line": 285,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Claudia Kawczynska (2)",
+     "line": 286,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Elizabeth Kowal",
+     "line": 287,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sofiane Boudjedaimi",
+     "line": 288,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Judy Merrill",
+     "line": 289,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leah Kaizer and Family",
+     "line": 290,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lenore Thompson",
+     "line": 291,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mariya Ryazanseva and Nicholas Waton on behalf of the Cal Sailing Club",
+     "line": 292,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rachel Bradley",
+     "line": 293,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Thea Davison",
+     "line": 294,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mariya and Ryan Alder",
+     "line": 295,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leslie Mikkelsen",
+     "line": 296,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chris Stratton",
+     "line": 297,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jose RaulRamirez",
+     "line": 298,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephanie Hicks",
+     "line": 299,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robert Ofsevit",
+     "line": 300,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Belle Adler",
+     "line": 301,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jason Martens",
+     "line": 302,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Maria Saxton",
+     "line": 303,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Baruch Golden",
+     "line": 304,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jean Fitz",
+     "line": 305,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janice Ruchlis",
+     "line": 306,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cynthia Augsjoost",
+     "line": 307,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elana Auerbach",
+     "line": 308,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sam Shen",
+     "line": 309,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sharon Entwistle",
+     "line": 310,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "June Hunt",
+     "line": 311,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Erin Diehm",
+     "line": 312,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Edward",
+     "line": 313,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Maryclare McCauley",
+     "line": 314,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Eric Friedman",
+     "line": 315,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Fielder",
+     "line": 316,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "5 Similarly worded form letters “I am opposed…”",
+     "line": 317,
+     "count": 5,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "15 Similarly worded form letters “I urge you to reject…”",
+     "line": 318,
+     "count": 15,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "4"
+   ]
+  }
+ ]
+}

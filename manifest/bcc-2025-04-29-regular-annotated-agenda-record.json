@@ -1,0 +1,26 @@
+{
+ "id": "bcc-2025-04-29-regular-annotated-agenda-record",
+ "layer": "L2",
+ "doc_type": "annotated_agenda_record",
+ "body": "Berkeley City Council",
+ "meeting_date": "2025-04-29",
+ "meeting_label": "regular",
+ "title": "Structured record: Annotated Agenda — Berkeley City Council regular meeting, 2025-04-29",
+ "file": "L2/annotated-agendas/bcc-2025-04-29-regular-annotated-agenda-record.json",
+ "sha256": "99a4c0ef76b4f57814a3995dffc2ee00752f2b5fa010059c719e1d6b4d14b7a1",
+ "bytes": 69477,
+ "derived_from": [
+  {
+   "id": "bcc-2025-04-29-regular-annotated-agenda-text",
+   "sha256": "1d8269b95fa63ab8d3e23c49975f39bd718255930d5cf68b1000d8798395fc9b"
+  }
+ ],
+ "extraction": {
+  "tool": "tools/l2/annotated_agenda.py",
+  "command": "python3 tools/l2/annotated_agenda.py tools/l2/recipes/bcc-2025-04-29-regular-annotated-agenda-record.json",
+  "recipe": "tools/l2/recipes/bcc-2025-04-29-regular-annotated-agenda-record.json"
+ },
+ "notices": [],
+ "contributed_by": "ericdf",
+ "archived": "2026-10-30"
+}

@@ -1,0 +1,2152 @@
+{
+ "id": "bcc-2026-03-10-regular-annotated-agenda-record",
+ "annotated_agenda": "bcc-2026-03-10-regular-annotated-agenda",
+ "text": "bcc-2026-03-10-regular-annotated-agenda-text",
+ "text_sha256": "1fe6f3eaa47f12da18c9d534f8b79538f61512caf7cf402943b76c78a18f3bdd",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:05 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [],
+  "arrived_late": []
+ },
+ "items": [
+  {
+   "item": "urgent-1",
+   "section": "Consent Calendar",
+   "heading": "Resolution Condemning the Illegal War on Iran and Expressing Support for Berkeleyans Impacted by this Crisis",
+   "lines": [
+    103,
+    113
+   ],
+   "from": "Councilmember Lunaparra (Author), Mayor Ishii (Co-Sponsor), Councilmember Humbert (Co-Sponsor), Councilmember Tregub (Co-Sponsor),",
+   "contact": "Cecilia Lunaparra, Councilmember, District 7, (510) 981-7170",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,150–N.S. Vote: Ayes – Kesarwani, Taplin, Tregub, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – Bartlett, O’Keefe.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-lunaparra",
+     "as_printed": "Councilmember Lunaparra (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-ishii",
+     "as_printed": "Mayor Ishii (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    },
+    {
+     "member": "off-humbert",
+     "as_printed": "Councilmember Humbert (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 3
+    },
+    {
+     "member": "off-tregub",
+     "as_printed": "Councilmember Tregub (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 4
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "action",
+     "movers": null,
+     "disposition": "unknown",
+     "severed": false,
+     "final": true,
+     "text": "Adopted Resolution No. 72,150–N.S.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       }
+      ],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Tregub, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – Bartlett, O’Keefe."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "1",
+   "section": "Consent Calendar",
+   "heading": "Amendments to Title 21 (Subdivisions Ordinance) and Title 23 (Zoning Ordinance) to implement Senate Bill (SB) 684",
+   "lines": [
+    115,
+    128
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "See report",
+   "action": "Action: Adopted second reading of Ordinance No. 8,002–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": {
+    "all_ayes": false,
+    "ayes": [
+     {
+      "member": "off-kesarwani",
+      "as_printed": "Kesarwani"
+     },
+     {
+      "member": "off-taplin",
+      "as_printed": "Taplin"
+     },
+     {
+      "member": "off-bartlett",
+      "as_printed": "Bartlett"
+     },
+     {
+      "member": "off-tregub",
+      "as_printed": "Tregub"
+     },
+     {
+      "member": "off-blackaby",
+      "as_printed": "Blackaby"
+     },
+     {
+      "member": "off-lunaparra",
+      "as_printed": "Lunaparra"
+     },
+     {
+      "member": "off-humbert",
+      "as_printed": "Humbert"
+     },
+     {
+      "member": "off-ishii",
+      "as_printed": "Ishii"
+     }
+    ],
+    "noes": [],
+    "abstain": [
+     {
+      "member": "off-okeefe",
+      "as_printed": "O’Keefe"
+     }
+    ],
+    "absent": [],
+    "recused": [],
+    "as_printed": "First Reading Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – O’Keefe."
+   }
+  },
+  {
+   "item": "2",
+   "section": "Consent Calendar",
+   "heading": "Re-Establishment of the Downtown Berkeley Property and Business Improvement District (DPBID)",
+   "lines": [
+    130,
+    142
+   ],
+   "from": "City Manager",
+   "contact": "Eleanor Hollander, Economic Development, (510) 981-7530",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,151–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "3",
+   "section": "Consent Calendar",
+   "heading": "Ashby BART East Lot Transit Oriented Development Request for Proposal Framework",
+   "lines": [
+    150,
+    162
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5100",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,152–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "4",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 32300149 Amendment: mySidewalk, Inc. for HHCS Web-Based Population Health Data Platform",
+   "lines": [
+    164,
+    173
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5100",
+   "financial_implications": "$50,618 - Various Funds",
+   "action": "Action: Adopted Resolution No. 72,153–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "5",
+   "section": "Consent Calendar",
+   "heading": "Filling Human Welfare and Community Action Commission Public Sector Vacancies",
+   "lines": [
+    175,
+    182
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5100",
+   "financial_implications": "None",
+   "action": "Action: Adopted Resolution No. 72,154–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "6",
+   "section": "Consent Calendar",
+   "heading": "City Contracts: Outdated Process Led to Non-Competitive Contracts",
+   "lines": [
+    190,
+    202
+   ],
+   "from": "Auditor",
+   "contact": "Jenny Wong, Auditor, (510) 981-6750",
+   "financial_implications": "See report",
+   "action": "Action: Approved recommendation.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "7",
+   "section": "Council Consent Items",
+   "heading": "Entertainment Zone Ordinance (Reviewed by the Health, Life Enrichment, Equity & Community Committee)",
+   "lines": [
+    206,
+    225
+   ],
+   "from": "Councilmember Taplin (Author), Councilmember Kesarwani (Co- Sponsor), Councilmember Lunaparra (Co-Sponsor), Councilmember Blackaby (Co-Sponsor)",
+   "contact": "Terry Taplin, Councilmember, District 2, (510) 981-7120",
+   "financial_implications": "See report",
+   "action": "Action: Approved recommendation as recommended by the Health, Life Enrichment, Equity & Community Committee and further revised in Supplemental Communications Packet #2 by Councilmember Taplin.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-taplin",
+     "as_printed": "Councilmember Taplin (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-kesarwani",
+     "as_printed": "Councilmember Kesarwani (Co- Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    },
+    {
+     "member": "off-lunaparra",
+     "as_printed": "Councilmember Lunaparra (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 3
+    },
+    {
+     "member": "off-blackaby",
+     "as_printed": "Councilmember Blackaby (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 4
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "8",
+   "section": "Council Consent Items",
+   "heading": "The Berkeley Rule: Artificial Intelligence Municipal Framework (Reviewed by the Health, Life Enrichment, Equity & Community Committee)",
+   "lines": [
+    233,
+    252
+   ],
+   "from": "Councilmember Bartlett (Author), Councilmember Tregub (Author)",
+   "contact": "Ben Bartlett, Councilmember, District 3, (510) 981-7130",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,155–N.S. as recommended by the Health, Life Enrichment, Equity & Community Committee.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-bartlett",
+     "as_printed": "Councilmember Bartlett (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-tregub",
+     "as_printed": "Councilmember Tregub (Author)",
+     "role": "author",
+     "order": 2
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "9",
+   "section": "Council Consent Items",
+   "heading": "Referral: Strengthen Berkeley’s Micromobility Regulatory Framework to Improve Public Safety, ADA Accessibility, and Operator Accountability (Reviewed by the Facilities, Infrastructure, Transportation, Environment & Sustainability Committee)",
+   "lines": [
+    254,
+    269
+   ],
+   "from": "Councilmember Tregub (Author), Councilmember Blackaby (Co- Sponsor)",
+   "contact": "Igor Tregub, Councilmember, District 4, (510) 981-7140",
+   "financial_implications": "See report",
+   "action": "Action: Approved recommendation as recommended by the Facilities, Infrastructure, Transportation, Environment & Sustainability Committee.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-tregub",
+     "as_printed": "Councilmember Tregub (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-blackaby",
+     "as_printed": "Councilmember Blackaby (Co- Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "10",
+   "section": "Council Consent Items",
+   "heading": "Resolution Opposing Bureau of Land Management Oil and Gas Leasing and Drilling on California Public Lands and Parks",
+   "lines": [
+    277,
+    293
+   ],
+   "from": "Councilmember Tregub (Author)",
+   "contact": "Igor Tregub, Councilmember, District 4, (510) 981-7140",
+   "financial_implications": "Staff time",
+   "action": "Action: Adopted Resolution No. 72,156–N.S. as amended in supplemental materials submitted at the meeting. Councilmembers Lunaparra, O’Keefe, and Blackaby added as co-sponsors.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-tregub",
+     "as_printed": "Councilmember Tregub (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [
+    {
+     "member": "off-lunaparra",
+     "as_printed": "Councilmembers Lunaparra, O’Keefe, and Blackaby added as co-sponsors"
+    },
+    {
+     "member": "off-okeefe",
+     "as_printed": "Councilmembers Lunaparra, O’Keefe, and Blackaby added as co-sponsors"
+    },
+    {
+     "member": "off-blackaby",
+     "as_printed": "Councilmembers Lunaparra, O’Keefe, and Blackaby added as co-sponsors"
+    }
+   ],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "11",
+   "section": "Council Consent Items",
+   "heading": "Citywide Guidelines on Artificial Intelligence (Reviewed by the Health, Life Enrichment, Equity & Community Committee)",
+   "lines": [
+    295,
+    320
+   ],
+   "from": "Councilmember O'Keefe (Author), Councilmember Blackaby (Co- Sponsor), Councilmember Tregub (Co-Sponsor)",
+   "contact": "Shoshana O'Keefe, Councilmember, District 5, (510) 981-7150",
+   "financial_implications": "Staff time",
+   "action": "Action: Approved recommendation as recommended by the Health, Life Enrichment, Equity & Community Committee including revisions in Supplemental Communications Packet #1 from Councilmember O’Keefe.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-okeefe",
+     "as_printed": "Councilmember O'Keefe (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-blackaby",
+     "as_printed": "Councilmember Blackaby (Co- Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    },
+    {
+     "member": "off-tregub",
+     "as_printed": "Councilmember Tregub (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 3
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "12",
+   "section": "Council Consent Items",
+   "heading": "Berkeley Free Clinic Critical Renovations: Relinquishment of Council Office Budget Funds to General Fund and Grant of Such Funds",
+   "lines": [
+    328,
+    344
+   ],
+   "from": "Councilmember Lunaparra (Author), Councilmember Taplin (Co- Sponsor), Councilmember Bartlett (Co-Sponsor), Mayor Ishii (Co-Sponsor)",
+   "contact": "Cecilia Lunaparra, Councilmember, District 7, (510) 981-7170",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,157–N.S. amended to include contributions from the following Councilmembers up to the amounts listed: Councilmember O’Keefe - $250; Councilmember Blackaby - $250; Councilmember Tregub - $150; Councilmember Humbert - $250; Councilmember Bartlett - $250; Councilmember Kesarwani - $100; Mayor Ishii - $250.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-lunaparra",
+     "as_printed": "Councilmember Lunaparra (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-taplin",
+     "as_printed": "Councilmember Taplin (Co- Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    },
+    {
+     "member": "off-bartlett",
+     "as_printed": "Councilmember Bartlett (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 3
+    },
+    {
+     "member": "off-ishii",
+     "as_printed": "Mayor Ishii (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 4
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "13",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Project to Increase Telegraph and Claremont Housing (PITCH) Rezoning (Reviewed by the Land Use, Housing & Economic Development Committee)",
+   "lines": [
+    352,
+    380
+   ],
+   "from": "Councilmember Humbert (Author), Mayor Ishii (Author), Councilmember Bartlett (Author)",
+   "contact": "Mark Humbert, Councilmember, District 8, (510) 981-7180",
+   "financial_implications": "See report",
+   "action": "Action: Councilmember Kesarwani added as a co-sponsor. Approved recommendation as recommended by the Land Use, Housing & Economic Development Committee and further revised in Supplemental Communications Packet #2 from Councilmember Humbert.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-humbert",
+     "as_printed": "Councilmember Humbert (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-ishii",
+     "as_printed": "Mayor Ishii (Author)",
+     "role": "author",
+     "order": 2
+    },
+    {
+     "member": "off-bartlett",
+     "as_printed": "Councilmember Bartlett (Author)",
+     "role": "author",
+     "order": 3
+    }
+   ],
+   "added_cosponsors": [
+    {
+     "member": "off-kesarwani",
+     "as_printed": "Action: Councilmember Kesarwani added as a co-sponsor"
+    }
+   ],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "14",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Amendments to BMC Title 23 (Zoning) to Update the Regulation of Nonconforming Lot Coverage, Floor Area Ratio and Density for Residential Uses in Selected Zoning Districts",
+   "lines": [
+    388,
+    406
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "None",
+   "action": "Action: M/S/C (Tregub/Taplin) to adopt the first reading of Ordinance No. 8,003– N.S. Second reading scheduled for March 24, 2026. Vote: All Ayes.",
+   "speakers": 0,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt the first reading of Ordinance No. 8,003– N.S. Second reading scheduled for March 24, 2026.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "15",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Amendments to the Berkeley Election Reform Act Regarding the Return of Unspent Public Matching Funds, Reuse of Campaign Materials, Campaign Expenditures and Cost of Living Adjustments",
+   "lines": [
+    408,
+    423
+   ],
+   "from": "Fair Campaign Practices Commission",
+   "contact": "Sam Harvey, Commission Secretary, (510) 981-6950",
+   "financial_implications": "None",
+   "action": "Action: M/S/C (Blackaby/Tregub) to adopt the first reading of Ordinance No. 8,004– N.S. Second reading scheduled for March 24, 2026. Vote: All Ayes.",
+   "speakers": 1,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt the first reading of Ordinance No. 8,004– N.S. Second reading scheduled for March 24, 2026.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "16",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Appeal of Special Assessment Tax Lien and of the Need for Abatement Action at 2750 Cedar Street",
+   "lines": [
+    431,
+    452
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Blackaby/Tregub) to adopt Resolution No. 72,158–N.S. denying the property owners’ appeal of a special assessment tax lien and of the necessity and cost of City abatement actions and allowing the special assessment lien for $24,831.37 for 2750 Cedar Street (APN 058 221102001) to be recorded with the County of Alameda including revised material in Supplemental Communications Packet #1 from the Planning Department) Vote: All Ayes.",
+   "speakers": 2,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 72,158–N.S. denying the property owners’ appeal of a special assessment tax lien and of the necessity and cost of City abatement actions and allowing the special assessment lien for $24,831.37 for 2750 Cedar Street (APN 058 221102001) to be recorded with the County of Alameda including revised material in Supplemental Communications Packet #1 from the Planning Department)",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "17",
+   "section": "Council Action Items",
+   "heading": "Resolution Rescinding Berkeley Police Department’s Pepper Spray Reporting Requirement (Reviewed by the Public Safety Committee)",
+   "lines": [
+    460,
+    544
+   ],
+   "from": "Councilmember Kesarwani (Author)",
+   "contact": "Rashi Kesarwani, Councilmember, District 1, (510) 981-7110",
+   "financial_implications": "None",
+   "action": "Action: M/S/C (Lunaparra/Tregub) to suspend the rules and extend the meeting to 11:20pm. Vote: All Ayes. Action: 24 speakers. M/S/C (Ishii/Kesarwani) to adopt Resolution No. 72,159–N.S. as proposed by Mayor Ishii in Supplemental Communications Packet #2 and further amended at the meeting to read as below. RESOLUTION RESCINDING THE PEPPER SPRAY INCIDENT NOTIFICATION REQUIREMENT WHEREAS, in 1997 the City Council established a requirement for the Berkeley Police Department to notify Council each time pepper spray is used as a measure to bolster accountability; and WHEREAS, the separate notification process was introduced at a time when reporting mechanisms were limited and provided necessary oversight; and WHEREAS, the Berkeley Police Department has since implemented a comprehensive use- of-force reporting system that documents all related incidents, including those involving pepper spray in the Transparency Hub and the annual Use of Force report; and WHEREAS, until February 10, 2026, the Berkeley Police Department historically included pepper spray in the annual Controlled Equipment report; and WHEREAS, the Police Accountability Board submitted a recommendation to the City Council on February 23, 2026 that recommended reincorporating reporting on the use of pepper spray into the annual Controlled Equipment report to preserve key narrative details not otherwise available through BPD’s other reporting channels; and WHEREAS, the administration of first aid was included in the original pepper spray use report that was transmitted to the Mayor and Council within 7 days; and WHEREAS, the continued requirement for separate notification directly to the Mayor and City Council creates redundant administrative tasks that strain City resources; and WHEREAS, rescinding the notification requirement will simplify reporting procedures and allow staff to concentrate on more critical operational matters while preserving public transparency. NOW, THEREFORE, BE IT RESOLVED by the City Council of the City of Berkeley that: 1. The requirement for the Berkeley Police Department to notify the City Council every time pepper spray is used is hereby rescinded. 2. All pepper spray incidents shall be recorded as part of the established use-of-force reporting system in accordance with current departmental protocols. 3. Subsequent to the pepper spray report being signed off on by the Police Department chain of command, no later than 14 days after the use of the chemical agent, all pepper spray incidents shall be recorded on the Transparency Hub, including information about: a. The incident itself, including time, date, location where the incident occurred and level of use of force; and b. The suspect themselves, including age, race, sex, subject altered state, and use of force reason; and c. The officer role; and d. Enhance the definitions for the various Use of Force levels and clearly identify pepper spray use as Level 3; e. Include clear navigational guidelines so users can more easily access the open data portal and seek information on chemical agent use. 4. Refer to the City Manager to present an amendment to BMC Chapter 2.100 to the City Council to subject pepper spray to the approval and reporting requirements of the Controlled Equipment Ordinance, including the administration of first aid. Work with the vendor to determine if reporting the administration of first aid, a narrative report, and opt-in notifications are possible to include in the Transparency Hub. Vote: All Ayes.",
+   "speakers": 24,
+   "attribution": [
+    {
+     "member": "off-kesarwani",
+     "as_printed": "Councilmember Kesarwani (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "suspend the rules and extend the meeting to 11:20pm.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      },
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 72,159–N.S. as proposed by Mayor Ishii in Supplemental Communications Packet #2 and further amended at the meeting to read as below. RESOLUTION RESCINDING THE PEPPER SPRAY INCIDENT NOTIFICATION REQUIREMENT WHEREAS, in 1997 the City Council established a requirement for the Berkeley Police Department to notify Council each time pepper spray is used as a measure to bolster accountability; and WHEREAS, the separate notification process was introduced at a time when reporting mechanisms were limited and provided necessary oversight; and WHEREAS, the Berkeley Police Department has since implemented a comprehensive use- of-force reporting system that documents all related incidents, including those involving pepper spray in the Transparency Hub and the annual Use of Force report; and WHEREAS, until February 10, 2026, the Berkeley Police Department historically included pepper spray in the annual Controlled Equipment report; and WHEREAS, the Police Accountability Board submitted a recommendation to the City Council on February 23, 2026 that recommended reincorporating reporting on the use of pepper spray into the annual Controlled Equipment report to preserve key narrative details not otherwise available through BPD’s other reporting channels; and WHEREAS, the administration of first aid was included in the original pepper spray use report that was transmitted to the Mayor and Council within 7 days; and WHEREAS, the continued requirement for separate notification directly to the Mayor and City Council creates redundant administrative tasks that strain City resources; and WHEREAS, rescinding the notification requirement will simplify reporting procedures and allow staff to concentrate on more critical operational matters while preserving public transparency. NOW, THEREFORE, BE IT RESOLVED by the City Council of the City of Berkeley that: 1. The requirement for the Berkeley Police Department to notify the City Council every time pepper spray is used is hereby rescinded. 2. All pepper spray incidents shall be recorded as part of the established use-of-force reporting system in accordance with current departmental protocols. 3. Subsequent to the pepper spray report being signed off on by the Police Department chain of command, no later than 14 days after the use of the chemical agent, all pepper spray incidents shall be recorded on the Transparency Hub, including information about: a. The incident itself, including time, date, location where the incident occurred and level of use of force; and b. The suspect themselves, including age, race, sex, subject altered state, and use of force reason; and c. The officer role; and d. Enhance the definitions for the various Use of Force levels and clearly identify pepper spray use as Level 3; e. Include clear navigational guidelines so users can more easily access the open data portal and seek information on chemical agent use. 4. Refer to the City Manager to present an amendment to BMC Chapter 2.100 to the City Council to subject pepper spray to the approval and reporting requirements of the Controlled Equipment Ordinance, including the administration of first aid. Work with the vendor to determine if reporting the administration of first aid, a narrative report, and opt-in notifications are possible to include in the Transparency Hub.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "18",
+   "section": "Action Calendar – Old Business",
+   "heading": "City of Berkeley’s 2026 State and Federal Legislative Platform (Continued from February 24, 2026)",
+   "lines": [
+    552,
+    566
+   ],
+   "from": "Mayor Ishii (Author)",
+   "contact": "Adena Ishii, Mayor, (510) 981-7100",
+   "financial_implications": "See report",
+   "action": "Action: Moved to Consent Calendar. Adopted Resolution No. 72,160–N.S. as revised in Supplemental Communications Packet #1 by Mayor Ishii and further amended at the meeting to include the language below. Support legislative and budgetary efforts to create a not-for-profit utility service to replace investor-owned utility programs, reduce the ratepayer burden imposed by investor-owned utilities, and support community-choice energy. (Infrastructure Policy Priorities)",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-ishii",
+     "as_printed": "Mayor Ishii (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #17: Resolution Rescinding Berkeley Police Department’s Pepper Spray Reporting Requirement (Reviewed by the Public Safety Committee)",
+   "line": 578,
+   "entries": [
+    {
+     "as_printed": "Kat Larrowe on behalf of the Human Welfare Community Action Commission",
+     "line": 580,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "SEIU 1201 CSU/PTRLA Union Chapter Officers",
+     "line": 581,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jacqui VanLiew",
+     "line": 582,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Office of the Director of Police Accountability",
+     "line": 583,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "17"
+   ]
+  },
+  {
+   "section": "Communications",
+   "heading": "Use of Tear Gas and Flock Cameras Concerns",
+   "line": 585,
+   "entries": [
+    {
+     "as_printed": "Andrew Jess",
+     "line": 586,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anne-Lise Francois",
+     "line": 587,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Carol Denney",
+     "line": 588,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Becca Schonberg",
+     "line": 589,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kelly Hammargren",
+     "line": 590,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Zan Turner",
+     "line": 591,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Margot Smith (2)",
+     "line": 592,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Allison Baxter",
+     "line": 593,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nish Parker",
+     "line": 594,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Deborah Cohan",
+     "line": 595,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Police Accountability Board",
+   "line": 600,
+   "entries": [
+    {
+     "as_printed": "Shenandoah Titus",
+     "line": 601,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wendy Alfsen (2)",
+     "line": 602,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Christopher Kroll",
+     "line": 603,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "L Carol Christopher",
+     "line": 604,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Ordinance Request",
+   "line": 606,
+   "entries": [
+    {
+     "as_printed": "9 Similarly worded form letters “I’m so sorry to bother.”",
+     "line": 607,
+     "count": 9,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Overnight Construction Noise",
+   "line": 609,
+   "entries": [
+    {
+     "as_printed": "Anthony",
+     "line": 610,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Identify Consumer Fraud",
+   "line": 612,
+   "entries": [
+    {
+     "as_printed": "Lydia Shiozaki",
+     "line": 613,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Environmental Health Concerns",
+   "line": 615,
+   "entries": [
+    {
+     "as_printed": "Sheila Collier",
+     "line": 616,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Fran Haselsteiner",
+     "line": 617,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "8th and Harrison",
+   "line": 619,
+   "entries": [
+    {
+     "as_printed": "Molly Miller",
+     "line": 620,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Billboard Support",
+   "line": 622,
+   "entries": [
+    {
+     "as_printed": "Natalie Aguilera",
+     "line": 623,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Emily Seelenfreund",
+     "line": 624,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ryan Nolan",
+     "line": 625,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "BART Board Meeting",
+   "line": 627,
+   "entries": [
+    {
+     "as_printed": "Henry Symons",
+     "line": 628,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Data-Driven Accountability",
+   "line": 630,
+   "entries": [
+    {
+     "as_printed": "Parsa Shabani",
+     "line": 631,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "2026 New Star Pop-Up Street Fair Series",
+   "line": 633,
+   "entries": [
+    {
+     "as_printed": "Brilliant Star Society",
+     "line": 634,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Office Hours",
+   "line": 636,
+   "entries": [
+    {
+     "as_printed": "Dorothea Dorenz",
+     "line": 637,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Administrative Appeal",
+   "line": 639,
+   "entries": [
+    {
+     "as_printed": "Andrew Marowitz",
+     "line": 640,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "2109 Virginia",
+   "line": 642,
+   "entries": [
+    {
+     "as_printed": "Gregory Kalkanis",
+     "line": 643,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Hopkins Street",
+   "line": 645,
+   "entries": [
+    {
+     "as_printed": "David Gilbert",
+     "line": 646,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Proclamation Request",
+   "line": 651,
+   "entries": [
+    {
+     "as_printed": "Monica Torres",
+     "line": 652,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dolores Martinez",
+     "line": 653,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "North Branch Library",
+   "line": 655,
+   "entries": [
+    {
+     "as_printed": "Glen",
+     "line": 656,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "A Note for You",
+   "line": 658,
+   "entries": [
+    {
+     "as_printed": "Leonard Pitt",
+     "line": 659,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "211 and Available Shelter",
+   "line": 661,
+   "entries": [
+    {
+     "as_printed": "Jesse Sheehan",
+     "line": 662,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Settlement Fund Request",
+   "line": 664,
+   "entries": [
+    {
+     "as_printed": "Marcus von Engel",
+     "line": 665,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Lunar New Year",
+   "line": 667,
+   "entries": [
+    {
+     "as_printed": "Joel Ng on behalf of Falun Gong Practitioners in Berkeley",
+     "line": 668,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Upzoning",
+   "line": 670,
+   "entries": [
+    {
+     "as_printed": "Summer Brenner",
+     "line": 671,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jacqueline Beth",
+     "line": 672,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Howard Hertz",
+     "line": 673,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Micky Duxbury (2)",
+     "line": 674,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "John J. Parman",
+     "line": 675,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "February 19th",
+   "line": 677,
+   "entries": [
+    {
+     "as_printed": "Kelly Hammargren",
+     "line": 678,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Crosswalk Illumination",
+   "line": 680,
+   "entries": [
+    {
+     "as_printed": "David Lerman",
+     "line": 681,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Group Picture",
+   "line": 683,
+   "entries": [
+    {
+     "as_printed": "Ararety Garewal",
+     "line": 684,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "BHS Teacher",
+   "line": 686,
+   "entries": [
+    {
+     "as_printed": "Jim Lutz",
+     "line": 687,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Elementary Reading Program",
+   "line": 689,
+   "entries": [
+    {
+     "as_printed": "Ruth Stern",
+     "line": 690,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "BUSD Fix-It Fest",
+   "line": 692,
+   "entries": [
+    {
+     "as_printed": "Linda Currie",
+     "line": 693,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Parking Permits",
+   "line": 695,
+   "entries": [
+    {
+     "as_printed": "Cristina Estrada",
+     "line": 696,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "RV Concerns",
+   "line": 698,
+   "entries": [
+    {
+     "as_printed": "Eric Mason",
+     "line": 702,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Housing Voucher Concerns",
+   "line": 704,
+   "entries": [
+    {
+     "as_printed": "Michelle Cortez",
+     "line": 705,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Traffic Enforcement",
+   "line": 707,
+   "entries": [
+    {
+     "as_printed": "Margaret",
+     "line": 708,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Berkeley Downtown Library",
+   "line": 710,
+   "entries": [
+    {
+     "as_printed": "Jacqueline Fried",
+     "line": 711,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Big Oaks Learning Center",
+   "line": 713,
+   "entries": [
+    {
+     "as_printed": "Raquel Balingit",
+     "line": 714,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Occupied Property",
+   "line": 716,
+   "entries": [
+    {
+     "as_printed": "Raj Sahai",
+     "line": 717,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "BHA Grievance",
+   "line": 719,
+   "entries": [
+    {
+     "as_printed": "Michelle Cortez",
+     "line": 720,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "ADA Grievance",
+   "line": 722,
+   "entries": [
+    {
+     "as_printed": "Jonnyruel",
+     "line": 723,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "High-Rise Apartments",
+   "line": 725,
+   "entries": [
+    {
+     "as_printed": "Pauline Bondonno Cross",
+     "line": 726,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "EPA New Funding Opportunity",
+   "line": 728,
+   "entries": [
+    {
+     "as_printed": "Chris Cullander",
+     "line": 729,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Resolution Request",
+   "line": 731,
+   "entries": [
+    {
+     "as_printed": "Musa Tariq",
+     "line": 732,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Acton Courtyard Tenants Union",
+   "line": 734,
+   "entries": [
+    {
+     "as_printed": "Yasmin Jenkins (3)",
+     "line": 735,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Forwards",
+   "line": 737,
+   "entries": [
+    {
+     "as_printed": "Russbumper (2)",
+     "line": 738,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Newsletters",
+   "line": 740,
+   "entries": [
+    {
+     "as_printed": "Visit Berkeley (2)",
+     "line": 741,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Downtown Berkeley Association",
+     "line": 742,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Margots999",
+     "line": 743,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Berkeley Art Center",
+     "line": 744,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "I-580 Truck Ban",
+   "line": 746,
+   "entries": [
+    {
+     "as_printed": "Nate Miley",
+     "line": 747,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Brandy Olson",
+     "line": 748,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Shannon Rogers",
+     "line": 749,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Gardner",
+     "line": 753,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "URL",
+   "line": 755,
+   "entries": [
+    {
+     "as_printed": "Russbumper",
+     "line": 756,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "E-Scooters",
+   "line": 758,
+   "entries": [
+    {
+     "as_printed": "Moni Law",
+     "line": 759,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robert Borghese (9)",
+     "line": 760,
+     "count": 9,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Carson Lepre (9)",
+     "line": 761,
+     "count": 9,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Wahid Amiri",
+     "line": 762,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #7: Entertainment Zone Ordinance (Reviewed by the Health, Life Enrichment, Equity & Community Committee)",
+   "line": 765,
+   "entries": [
+    {
+     "as_printed": "Daniel Swafford",
+     "line": 767,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #11: Citywide Guidelines on Artificial Intelligence (Reviewed by the Health, Life Enrichment, Equity & Community Committee)",
+   "line": 768,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by Councilmember Shoshana O’Keefe",
+     "line": 770,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "11"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #16: Appeal of Special Assessment Tax Lien and of the Need for Abatement Action at 2750 Cedar Street",
+   "line": 771,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by the Planning and Development Department",
+     "line": 773,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "16"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #17: Resolution Rescinding Berkeley Police Department’s Pepper Spray Reporting Requirement (Reviewed by the Public Safety Committee)",
+   "line": 774,
+   "entries": [
+    {
+     "as_printed": "Frances Wilson",
+     "line": 776,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "17"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #18: City of Berkeley’s 2026 State and Federal Legislative Platform (Continued from February 24, 2026)",
+   "line": 777,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by Mayor Adena Ishii",
+     "line": 779,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "18"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #7: Entertainment Zone Ordinance (Reviewed by the Health, Life Enrichment, Equity & Community Committee)",
+   "line": 782,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by Councilmember Terry Taplin",
+     "line": 784,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #13: Project to Increase Telegraph and Claremont Housing (PITCH) Rezoning (Reviewed by the Land Use, Housing & Economic Development Committee)",
+   "line": 785,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by Councilmember Mark Humbert",
+     "line": 787,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "13"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #16: Appeal of Special Assessment Tax Lien and of the Need for Abatement Action at 2750 Cedar Street",
+   "line": 788,
+   "entries": [
+    {
+     "as_printed": "Michael Tolleson",
+     "line": 790,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "16"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #17: Resolution Rescinding Berkeley Police Department’s Pepper Spray Reporting Requirement (Reviewed by the Public Safety Committee)",
+   "line": 791,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by Rashi Kesarwani",
+     "line": 793,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Revised agenda material submitted by Councilmember Cecilia Lunaparra",
+     "line": 794,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Revised agenda material submitted by Mayor Ishii",
+     "line": 795,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wendy Alfsen",
+     "line": 796,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "17"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "for Berkeleyans Impacted by this Crisis",
+   "line": 803,
+   "entries": [
+    {
+     "as_printed": "Urgent item submitted by Councilmember Cecilia Lunaparra",
+     "line": 804,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mojgan Mahdizadeh",
+     "line": 805,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joel Ng",
+     "line": 806,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jack Kurzweil",
+     "line": 807,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Amendments to BMC Title 23 (Zoning) to Update the Regulation of Nonconforming Lot Coverage, Floor Area Ratio and Density for Residential Uses in Selected Zoning Districts",
+   "line": 808,
+   "entries": [
+    {
+     "as_printed": "Stacie Donnelly on behalf of the Community Associations Institute",
+     "line": 811,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #6: City Contracts: Outdated Process Led to Non-Competitive Contracts",
+   "line": 812,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the City Auditor",
+     "line": 813,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "6"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #7: Entertainment Zone Ordinance (Reviewed by the Health, Life Enrichment, Equity & Community Committee)",
+   "line": 814,
+   "entries": [
+    {
+     "as_printed": "Mark Rhoades",
+     "line": 816,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Meryl Siegal",
+     "line": 817,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David M Mayeri",
+     "line": 818,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lars Larson",
+     "line": 819,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chip Harley",
+     "line": 820,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Daniel Swafford",
+     "line": 821,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeremy Townsend",
+     "line": 822,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julie McCray",
+     "line": 823,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Atsushi Yanai",
+     "line": 824,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #10: Resolution Opposing Bureau of Land Management Oil and Gas Leasing and Drilling on California Public Lands and Parks",
+   "line": 825,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by Councilmember Igor Tregub",
+     "line": 827,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susanna Porte",
+     "line": 828,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "10"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #13: Project to Increase Telegraph and Claremont Housing (PITCH) Rezoning (Reviewed by the Land Use, Housing & Economic Development Committee)",
+   "line": 829,
+   "entries": [
+    {
+     "as_printed": "Adele and David Crady",
+     "line": 831,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "13"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #14: Amendments to BMC Title 23 (Zoning) to Update the Regulation of Nonconforming Lot Coverage, Floor Area Ratio and Density for Residential Uses in Selected Zoning Districts",
+   "line": 832,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Planning Department",
+     "line": 835,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "14"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #16: Appeal of Special Assessment Tax Lien and of the Need for Abatement Action at 2750 Cedar Street",
+   "line": 836,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Planning Department",
+     "line": 838,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "16"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #17: Resolution Rescinding Berkeley Police Department’s Pepper Spray Reporting Requirement (Reviewed by the Public Safety Committee)",
+   "line": 839,
+   "entries": [
+    {
+     "as_printed": "Vanessa Cordova",
+     "line": 841,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Raela Richie",
+     "line": 842,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dwayne L. Phillips",
+     "line": 843,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Unknown",
+     "line": 844,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "17"
+   ]
+  }
+ ]
+}

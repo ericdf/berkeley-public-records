@@ -1,0 +1,101 @@
+{
+ "id": "bcc-2026-07-14-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2026-07-14-special-annotated-agenda",
+ "text": "bcc-2026-07-14-special-annotated-agenda-text",
+ "text_sha256": "6a7020d05ad8a619e675d49a22cb57eed8ad2d6536dc219d8fe6c9b1a664cfd7",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:03 p.m.",
+  "present": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": null,
+    "as_printed": "Bartlett Worksession 1. 2025 Police Accountability Board (PAB) & Office of the Director of Police Accountability (ODPA) Annual Report From: Police Accountability Board"
+   },
+   {
+    "member": null,
+    "as_printed": "Director of Police Accountability Contact: Kathy Lee"
+   },
+   {
+    "member": null,
+    "as_printed": "Office of Director of Police Accountability"
+   },
+   {
+    "member": null,
+    "as_printed": "(510) 981-4950"
+   }
+  ],
+  "arrived_late": []
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Worksession",
+   "heading": "2025 Police Accountability Board (PAB) & Office of the Director of Police Accountability (ODPA) Annual Report",
+   "lines": [
+    59,
+    64
+   ],
+   "from": "Police Accountability Board, Director of Police Accountability",
+   "contact": "Kathy Lee, Office of Director of Police Accountability, (510) 981-4950",
+   "financial_implications": null,
+   "action": "Action: 2 speakers. Presentation made by ODPA staff, followed by Council questions and discussion.",
+   "speakers": 2,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: 2025 Police Accountability Board (PAB) & Office of the Director of Police Accountability (ODPA) Annual Report",
+   "line": 86,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Office of the Director of Police Accountability",
+     "line": 88,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

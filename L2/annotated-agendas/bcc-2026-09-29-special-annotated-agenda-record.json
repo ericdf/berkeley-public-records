@@ -1,0 +1,249 @@
+{
+ "id": "bcc-2026-09-29-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2026-09-29-special-annotated-agenda",
+ "text": "bcc-2026-09-29-special-annotated-agenda-text",
+ "text_sha256": "7cc21384d7be9a3d90c40c7e4b8730a79062a153740fbd6890ca905812acf7da",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:09 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin",
+    "time": "4:20 p.m."
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "4:33 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1a",
+   "section": "Action Calendar – Old Business",
+   "heading": "Resolution Reinstating the Berkeley Police Department’s Ability to Use Tear Gas for Critical Life-Threatening Incidents Only and Lifting the COVID-19 Moratorium on Smoke and Oleoresin Capsicum (OC) Spray (Continued from September 15, 2026) (Item Contains Revised and Supplemental Material) (Reviewed by the Public Safety Policy Committee)",
+   "lines": [
+    64,
+    95
+   ],
+   "from": "Councilmember Kesarwani (Author)",
+   "contact": "Rashi Kesarwani, Councilmember, District 1, (510) 981-7110",
+   "financial_implications": "See report",
+   "action": "Action: 39 speakers. M/S/Failed (Kesarwani/Blackaby) to adopt a Resolution as revised in the September 15, 2026 material submitted by Councilmember Blackaby and included in the agenda item, and further revised to add a resolved clause to read as follows: BE IT FURTHER RESOLVED that upon the posting of any public summary required under Policy 428 Section 428.14(c) or California Penal Code Section 13652.1, the Berkeley Police Department shall notify the City Manager who shall provide that information to the City Council and to the Police Accountability Board within 10 days of such a notice. Vote: Ayes – Kesarwani, O’Keefe, Blackaby, Humbert; Noes – Taplin, Bartlett, Tregub, Lunaparra, Ishii; Abstain – None; Absent – None.",
+   "speakers": 39,
+   "attribution": [
+    {
+     "member": "off-kesarwani",
+     "as_printed": "Councilmember Kesarwani (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      }
+     ],
+     "disposition": "failed",
+     "severed": false,
+     "final": true,
+     "text": "adopt a Resolution as revised in the September 15, 2026 material submitted by Councilmember Blackaby and included in the agenda item, and further revised to add a resolved clause to read as follows: BE IT FURTHER RESOLVED that upon the posting of any public summary required under Policy 428 Section 428.14(c) or California Penal Code Section 13652.1, the Berkeley Police Department shall notify the City Manager who shall provide that information to the City Council and to the Police Accountability Board within 10 days of such a notice.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, O’Keefe, Blackaby, Humbert; Noes – Taplin, Bartlett, Tregub, Lunaparra, Ishii; Abstain – None; Absent – None."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "1b",
+   "section": "Action Calendar – Old Business",
+   "heading": "Social Justice Implications of Proposed Use of Controlled Weapons and Other Policing Tools (Continued from September 15, 2026)",
+   "lines": [
+    101,
+    117
+   ],
+   "from": "Peace and Justice Commission",
+   "contact": "Tasha Tervalon, Commission Secretary, (510) 981-7000",
+   "financial_implications": "None",
+   "action": "Action: M/S/C (Lunaparra/Taplin) to take no action on Item 1b. Vote: All Ayes.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "take no action on Item 1b.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1a: Resolution Reinstating the Berkeley Police Department’s Ability to Use Tear Gas for Critical Life-Threatening Incidents Only and Lifting the COVID-19 Moratorium on Smoke and Oleoresin Capsicum (OC) Spray (Continued from September 15, 2026) (Item Contains Revised and Supplemental Material) (Reviewed by the Public Safety Policy Committee)",
+   "line": 134,
+   "entries": [
+    {
+     "as_printed": "Kelly Hammargren",
+     "line": 139,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1a"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1a: Resolution Reinstating the Berkeley Police Department’s Ability to Use Tear Gas for Critical Life-Threatening Incidents Only and Lifting the COVID-19 Moratorium on Smoke and Oleoresin Capsicum (OC) Spray (Continued from September 15, 2026) (Item Contains Revised and Supplemental Material) (Reviewed by the Public Safety Policy Committee)",
+   "line": 142,
+   "entries": [
+    {
+     "as_printed": "Janice Schroeder",
+     "line": 147,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John J. Parman",
+     "line": 149,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ryan Justice-Williams",
+     "line": 150,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1a"
+   ]
+  }
+ ]
+}
