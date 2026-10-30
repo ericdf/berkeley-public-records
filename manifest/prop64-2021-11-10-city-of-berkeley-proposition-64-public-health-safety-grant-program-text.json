@@ -1,0 +1,21 @@
+{
+  "id": "prop64-2021-11-10-city-of-berkeley-proposition-64-public-health-safety-grant-program-text",
+  "layer": "L1",
+  "doc_type": "prop64_document_text",
+  "collection": "prop64",
+  "title": "City of Berkeley Proposition 64 Public Health & Safety Grant Program – Cohort 2 Local Evaluation Plan",
+  "file": "L1/sources/prop64/prop64-2021-11-10-city-of-berkeley-proposition-64-public-health-safety-grant-program-text.txt",
+  "sha256": "f9542a9b91684abd0c5b4c6557347e3eb0bb16a581a789e3093c5638b8f34a19",
+  "bytes": 37578,
+  "derived_from": {
+    "id": "prop64-2021-11-10-city-of-berkeley-proposition-64-public-health-safety-grant-program",
+    "sha256": "c08bde1719bf5b1c822e342d4b6871dababe049c5e9bacf60c7a61fbec72aac0"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}

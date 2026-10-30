@@ -1,0 +1,1556 @@
+                        City of Berkeley
+                     Proposition 64 Grant
+                    Final Evaluation Report
+
+                                   April 30, 2025
+
+           Submitted by City of Berkeley,
+Department of Health, Housing and Community Services
+
+
+
+Written by:
+     Alameda County Public Health Department, Community
+     Assessment, Planning and Evaluation Unit
+Contributors:
+     City of Berkeley Department of Health, Housing and Community
+     Services
+     Berkeley Youth Alternatives
+
+
+ Please direct questions to Liz Maker, Evaluation Manager, Alameda County CAPE Unit
+ liz.maker@acgov.org or
+
+ Nina Goldman, Manager, Berkeley Youth Equity Partnership
+ NGoldman@berkeleyca.gov
+Prop 64 Final Evaluation Draft Report, April 21, 2025
+
+Contents
+
+ Executive Summary ................................................................................................................................... 1
+ Background ............................................................................................................................................... 2
+    Target Populations................................................................................................................................. 3
+    Goals and Objectives ............................................................................................................................. 4
+ Process Evaluation .................................................................................................................................... 5
+    Design and Methods ............................................................................................................................. 5
+    Process Evaluation Results by Evaluation Question .............................................................................. 8
+    Process Evaluation Discussion ............................................................................................................. 13
+ Outcome Evaluation ................................................................................................................................ 15
+    Design and Methods ........................................................................................................................... 15
+    Outcome Evaluation Results ............................................................................................................... 18
+    Outcome Evaluation Discussion .......................................................................................................... 21
+ Grantee Highlight .................................................................................................................................... 23
+    Appendix A: City of Berkeley Prop 64 Logic Model ................................................................................ i
+    Appendix B: Cannabis Knowledge and Conﬁdence Survey for Youth Educators .................................. ii
+    Appendix C: Results from the Cannabis Knowledge and Conﬁdence Survey ....................................... v
+    Appendix D: Additional Demographics of Youth Receiving Counseling ............................................... vi
+Executive Summary
+
+The legalization of cannabis through Proposition 64 raised concerns about increased youth access, with
+reports indicating signiﬁcant marijuana use among high school students in Berkeley. In late 2020, the City
+of Berkeley submitted a successful proposal to the State of California Board of State and Community
+Corrections (BSCC) for a multi-level intervention to train youth as cannabis peer educators, provide one-
+on-one counseling for at-risk youth, disseminate cannabis education and organize partner organizations
+to support cannabis deterrence. The City’s Health, Housing, and Community Services Department
+oversaw the Proposition 64 grant, which was initially funded for the term of May 1, 2021 through
+October 31, 2024. In May 2024, BSCC granted an extension through April 30, 2025. Through a Request
+for Proposals process, the City chose Berkeley Youth Alternatives (BYA) as its contractor and partner for
+this grant.
+
+The City of Berkeley pursued a comprehensive process and outcome evaluation to document program
+activities, assess the ﬁdelity of the implementation model with the original goals and objectives, and
+determine the impact of participation on youth. A team consisting of the Manager of the City of
+Berkeley’s Public Health Division, BYA’s Data Manager, and an evaluation contractor from the Alameda
+County Public Health Department guided the initial design, implementation, and data analysis for the
+Prop 64 evaluation. The evaluation team pursued mixed quantitative and qualitative methods, including
+documentation of program activities into a database, quarterly narratives on successes, challenges and
+ways to overcome challenges, satisfaction surveys, a knowledge development survey and psychometric
+surveys of client outcomes.
+
+With 48 counseling clients in total, BYA approached its contractual objectives of serving 25 - 60
+counseling youth annually (and 75 – 180 youth across the full project term). BYA served 16 peer
+educators over the project term, surpassing the contractual goal of recruiting 12 peer educators. BYA
+was not able to implement the original objective of training a cohort of youth to become peer educators
+who would then give cannabis education presentations to middle and high school students. BYA staﬀ
+report regularly posting youth-oriented social media messages on their platform, resulting in 1,516 “hits”
+(meaning clicking onto a page or replying to media messages). BYA counseling clients reported high
+levels of satisfaction with the program the ﬁrst time they took a satisfaction survey and even higher
+satisfaction the second time, an average of 7.4 months later. Approximately 48% (22 out of 48) of
+counseling clients returned satisfaction surveys. Almost half of counseling clients completed the
+Satisfaction Survey or the RS-14. Evaluation results further indicate that BYA has an eﬀective counseling
+model. Clients who stayed in counseling for a signiﬁcant period reported increases on a Resilience-14
+survey in resilience, which can protect them from depression, anxiety and stress. In turn, higher
+resilience may also protect youth from initiating or continuing cannabis use.
+
+According to BYA and the City of Berkeley, participants beneﬁted from BYA’s ability to oﬀer several
+programs at one time to clients. In addition, BYA’s reputation as a trusted community resource may have
+help recruitment of participants, particularly for sensitive mental health services.
+
+Some factors that impeded the goals of this project included signiﬁcant implementation delays once the
+BSCC grant money had been awarded. The City-required RFP process and the extended negotiation of
+project scope and budget set the start of the actual service delivery back at least a year. Another
+challenge was BYA’s limited administrative and staﬃng infrastructure. BYA is a relatively small, local
+nonproﬁt. Producing invoices was challenging, as was staﬃng projects. In the future, the evaluator
+recommends that the City of Berkeley manage youth intern onboarding and payroll in similar projects
+since it already has robust ﬁscal and employment systems.
+
+City of Berkeley Prop 64 Final Report          April 30, 2025                                            1
+Background
+The legalization of cannabis use for adults through Proposition 64 increased exposure and accessibility
+of the substance, and the impact on youth has been a growing public health concern. Based on the
+2015-2016 California Healthy Kids Survey results, approximately 35% of Berkeley Uniﬁed School District
+(BUSD) 11th graders, 17% of 9th graders, and less than 5% of 7th graders reported having smoked
+marijuana 1. The California Healthy Kids Survey also indicated that alcohol and marijuana are the most
+commonly used substances among BUSD students. The initiation of substance use early in life
+contributes to higher levels of use and abuse later in life. Early onset of use is also associated with a
+number of negative health, social, and behavioral outcomes, including physical and mental health
+problems, violent and aggressive behavior and adjustment problems in the workplace and family.
+
+In 2018, the Berkeley Public Health Division conducted a Community Health Assessment to supplement
+the population health data in its 2018 Berkeley Health Status Report 2 and to help inform program
+planning. This Community Health Assessment included 398 community health surveys, 20 focus groups
+with 179 community participants, 28 key informant interviews, and input from over 30 community
+partners in a community health-focused roundtable event. All these community engagement activities
+were focused on gathering information from vulnerable population groups that have historically
+experienced health disparities. These included youth aged 10-24 years, the African American
+community, the Latinx community, people experiencing homelessness, the LGBTQIA community, and
+low-income families.
+
+The ﬁndings of this process showed that youth deﬁned a healthy community as one that was
+“connected,” “safe,” and “friendly.” They also identiﬁed the “economy,” “food security,” and “safety” as
+their top three barriers to achieving a healthy community. Strategies youth suggested that the City and
+partners could address included more drug abuse counseling for youth, in addition to aﬀordable
+housing, free and accessible community programs, and aﬀordable/accessible mental health services.
+Substance abuse/tobacco use and mental health were identiﬁed as the top health concerns for the
+African American community and for youth overall.
+
+Based on these ﬁndings, the City of Berkeley designed the Prop 64 grant proposal to support youth-
+focused activities and community-based partnerships through an equity lens to address the negative
+eﬀects of increased access to and use of cannabis in Berkeley. The grant proposal included direct
+services for youth, which included a peer educator training program, school-based presentations,
+counseling for youth at-risk of cannabis use, and intensive case management for youth who had been
+involved in the criminal justice system. To support youth mental health and abstinence from cannabis,
+the City of Berkeley’s Prop 64 proposal included a youth-friendly media campaign, education with
+cannabis retailers, and a Community Task Force Against Violence, comprised of City departments, social
+services, and community stakeholders, such as faith-based organizations, schools, youth, and families.
+
+The Prop 64 grant was overseen by the City of Berkeley’s Health, Housing, and Community Services
+Department. Initially, this project was housed in the Public Health Division, in part because of the focus
+on cannabis prevention and also because the project was initially structured to include a youth
+employment component that would work in tandem with Public Health’s YouthWorks program. The
+project contractor (Berkeley Youth Alternatives, or BYA) requested to administer the internship program
+and funds as part of their contract. In addition, the Public Health staﬀ member who had been managing
+the Prop 64 project left the City.
+
+
+
+1
+    Berkeley_Uniﬁed_1516_Sec_CHKS.pdf
+2
+    https://berkeleyca.gov/sites/default/ﬁles/2022-02/2018-health-status-report-berkeley.pdf
+
+City of Berkeley Prop 64 Final Report               April 30, 2025                                           2
+The project management was then shifted to HHCS’s Oﬃce of the Director. In October 2022, Nina
+Goldman assumed the City’s oversight of Prop 64 project. The HHCS Department Directors, ﬁrst Lisa
+Warhuus and later Scott Gilman, primarily oversaw the work of the Prop 64 project manager during bi-
+weekly supervision meetings. The department director was also responsible for the overall decision-
+making of the project. In December 2024, HHCS Department Deputy Director, Tanya Bustamante,
+assumed the oversight role of this project. Throughout the project, ﬁscal analysts reviewed and
+consulted Prop 64 budget, including compiling quarterly invoices, budget modiﬁcations, etc. The ﬁscal
+analysts involved the ﬁscal manager as needed.
+
+The project was monitored through monthly check-in meetings with BYA staﬀ, the City of Berkeley
+project manager and the Prop 64 evaluator, Liz Maker. At these virtual meetings, participants discussed
+project progress, challenges and needs for technical assistance or support. In addition, with each
+monthly invoice to the City, BYA submitted a progress report to the City, documenting all of the services
+and people served through the contract. BYA submitted quarterly reports for submission to BSCC. The
+City of Berkeley reviewed and, as needed, updated these reports, after discussing the information
+contained with BYA.
+
+Target Populations
+
+Based on the needs assessment results, the City of Berkeley focused the Prop 64 grant on Berkeley
+youth who were vulnerable due to lack of access to opportunity and social networks, poverty, and/or
+ethnicity.
+
+Target populations for all services provided and under this scope included:
+1. All gender and gender-expansive youth in the City of Berkeley under age 21;
+2. Youth who reside in low-income neighborhoods within the City of Berkeley;
+3. Youth who are Black, Indigenous and People of Color (BIPOC);
+4. Youth experiencing at-risk situations such as exposure to or history of substance use and abuse
+    (marijuana, alcohol), chronic absenteeism from school, dropped out of school or at-risk of dropping
+    out, a history of incarceration or a history of mental health challenges.
+
+Criteria for intensive case management services included:
+ • Youth who are high school students;
+ • Youth in South and West Berkeley who are past offenders with a higher risk of reoffending;
+
+ In addition, peer educators needed to be:
+ • Between the ages of 16-21;
+ • Experiencing at least two of the following factors: reside in low-income neighborhoods, are
+     Black, Indigenous, or People of Color (BIPOC) and/or has used marijuana in the past;
+ • Willing to commit to not using marijuana during the course of their participation;
+ • Committed to completing a 6-month period of training and peer education work.
+
+
+
+
+City of Berkeley Prop 64 Final Report          April 30, 2025                                               3
+Goals and Objectives
+
+This section of the report contains the goals and objectives from the original scope of work as described
+in the June 2021 Grant Agreement between the Board of State and Community Corrections (BSCC) and
+the City of Berkeley (Agreement # BSCC 944-21). Modiﬁcations to the original scope are described
+below. The City of Berkeley Prop 64 grant proposal delineated the following goals and objectives:
+
+PPA 1: Prevention & Intervention
+Goal 1: To decrease the rates of substance use among youth in the City of Berkeley
+Objectives:
+   A. By the end of Year 1, recruit and train up to 20 youth participants to become peer educators for
+        cannabis education awareness campaigns.
+   B. In Years 2 and 3, peer educators will conduct up to 10 peer-led education sessions annually for
+        1,000 youth participants.
+   C. At least 80% of youth presentation participants report that they learned a new fact about youth
+        and cannabis use.
+   D. By the end of each Program Year, the NGO will enroll up to 60 new at-risk youth clients in
+        supportive and wrap-around services.
+
+Goal 2: Decrease gang activity and violent crimes in youth under the age of 21.
+Objectives:
+   A. By the end of Year One, ﬁnalize a work plan for the community taskforce against violence,
+        including input from City departments, social services, and community stakeholders, such as
+        faith-based organizations, schools, youth and families.
+   B. Identify up to 15 high school and middle school students who are past oﬀenders with the risk of
+        reoﬀending in South and West Berkeley annually for focused interventions and services led by
+        the NGO partner.
+
+Goal 3: Decrease the early onset of marijuana use in youth under the age of 21 years.
+Objectives:
+   A. By the end of year one, a Media Contractor will conduct focus groups with 15 - 20 youth,
+        conduct at least 50 youth for a media messaging campaign around cannabis and youth.
+   B. By the end of Year One, 80% of youth who test the resulting media message will report that it is
+        youth-friendly and culturally competent.
+   C. By Year 2 and Year 3, the Media Campaign will reach at least 3,000 youth in the City of Berkeley
+        annually.
+   D. By end of Year 2 and Year 3, at least 50% of Berkeley cannabis retailers who received materials
+        and outreach will agree to display ads regarding underage sales either on their physical location
+        or on their websites.
+
+In the Local Evaluation Plan, submitted to BSCC in August 2021, Goals 1 and 3 were combined as “Area 1:
+Prevention and Intervention: and Goal 2 renamed “Area 2: Public Health and Safety/Violence
+Prevention.”
+
+After a signiﬁcant delay due to the selection and negotiation process with the chosen contractor
+(Berkeley Youth Alternatives), HHCS agreed to revise the target numbers of participants and activities
+from those contained in the original proposal to reﬂect more realistic goals in light of the late start of
+the project. At the direction of BSCC staﬀ, these adjustments were incorporated into the template for
+quarterly reports. Table 1 in the following section incorporates the updated objectives.
+
+
+
+City of Berkeley Prop 64 Final Report           April 30, 2025                                               4
+See Appendix A for a logic model depicting project inputs, resources, activities, outputs/processes and
+outcomes.
+
+Process Evaluation
+Design and Methods
+The process evaluation was designed with mixed quantitative and qualitative methods to answer the
+following evaluation questions:
+• What activities did the program implement?
+• Did the interventions reach the target populations? Why or why not? How much of the interventions
+     did the target population receive?
+• Were participants satisﬁed with the interventions? Why or why not?
+• What were successes, challenges and lessons learned during each year of the program?
+
+A team consisting of the City of Berkeley Public Health Division Manager, BYA’s Data Manager, and an
+evaluation contractor from the Alameda County Public Health Department guided the initial design,
+implementation, and data analysis for the Prop 64 evaluation. The Youth Equity Partnership Manager
+started supporting this work in October 2022. BYA was actively engaged in data collection and reported
+results in monthly and quarterly reporting templates provided by the City of Berkeley. Each year, the
+evaluation team convened a gathering of contractors and other staﬀ to review annual evaluation results
+and plan how to use the information to improve the program.
+
+Table 1 presents the process objectives, process indicators, evaluation tools, and reporting and timelines
+for City of Berkeley’s Prop 64 project. Process objectives related to work plan activities that were not
+implemented are shaded in gray.
+
+Table 1: Process Objectives, Indicators, Evaluation Tools, Responsible and Timelines
+       Process Objective           Process Indicators                      Evaluation Tools        Responsible & Timelines
+ Area 1: Prevention and Intervention
+ A. Up to 12 peer educators      # of peer educators              •    BYA Database              The BYA data manager
+     will be trained in Year 1   trained by age,                  •    Prop 64 Excel             maintains the BYA database,
+     (P)                         race/ethnicity and                    Workbook                  and enters program data into
+                                 census tract (marker             •    State Quarterly           an online workbook shared
+                                 for income)                           Progress Report (QPR)     with the City of Berkeley,
+                                 (Do not have census                                             which City of Berkeley
+                                 tract info)                                                     reported in the State
+                                                                                                 Quarterly Progress Report
+                                                                                                 (QPR)
+ B.   Peer educators will               # of peer-to-peer         BYA Database                   Note: Peer educators
+      provide at least 10               training sessions by                                     assisted in community
+      sessions per year in years        school, grade level,                                     presentations, but not in
+      2 & 3 (20 total)                  number of attendees                                      schools, so the data was not
+                                                                                                 collected.
+ C. Up to 500 youth will                # of youth who            Online Survey for Youth         Same as above
+    attend peer-led sessions            attend peer-led           Attending Cannabis
+    in Years 2 and 3 (1,000             sessions                  Presentations
+    total)
+ D. At least 80% of peer                Number and                Training Satisfaction Survey   BYA did not provide training
+    educators will report               percentage of peer                                       for peer educators to provide
+    satisfaction with the               educators who report                                     cannabis education to other
+    training.                           a score of 80% or                                        youth, so they did not give
+
+
+
+City of Berkeley Prop 64 Final Report                     April 30, 2025                                                5
+        Process Objective                 Process Indicators             Evaluation Tools     Responsible & Timelines
+                                        higher on a training                                them a training satisfaction
+                                        satisfaction survey.                                survey.
+
+
+
+
+ E.   Successes, challenges and         Qualitative             Focus group with peer       BYA opted not to have focus
+       lessons learned from             assessment              advisors                    groups, instead reporting on
+       peer educator training                                                               challenges and strategies to
+                                                                                            overcome challenges in the
+                                                                                            QPR.
+ E.  By the end of each           # of youth who enroll • BYA Database                      BYA entered monthly and
+     Program Year, BYA will       in BYA counseling      • Prop 64 Excel                    quarterly data into the Prop
+     enroll 25 - 60 new at-risk                              Workbook                       64 Excel Workbook, which
+     youth clients for                                   • State Quarterly                  City of Berkeley reported in
+     supportive and wrap                                     Progress Report (QPR)          the State Quarterly Progress
+     around services.                                                                       Report (QPR).
+ F. By the end of year one, a     # of focus groups      Media contractor will keep         Media contractor did not
+     Media Contractor will        done by location       records of # focus groups          implement focus groups,
+     conduct focus groups         # of youth             done, location, of youth           citing that BYA already had
+     with 15 - 20 youth, to       participating in focus attending, focus group             eﬀective media messages
+     develop a media              groups                 notes, recordings and              from existing campaigns,
+     messaging campaign           Qualitative analysis   qualitative analysis.              such as the Smart Talk
+     around cannabis and          of focus group notes                                      Cannabis Education
+     youth.                       and/or recordings                                         Curriculum from Stanford.
+ G. By Year 2 and Year 3, the     # of media             Records kept by Media              BYA posted social media
+    Media Campaign will reach campaigns                  Contractor and BYA.                messages about cannabis
+    at least 3,000 youth in the   # of Hits to Media                                        and recorded the number of
+    City of Berkeley annually.    Campaign                                                  postings and hits in the QPR.
+ Areas 2 & 3: Public Health & Safety/Violence Prevention
+ A. Finalize a workplan for       Completed workplan BYA will create and                    BYA and the City decided to
+     the community taskforce                             document the completed             focus the taskforce on
+     against violence incl.                              workplan.                          cannabis rather than the
+     input from stakeholders,                                                               violence. BYA did not
+     such as faith-based orgs,                                                              implement a workplan with
+     schools, youth and                                                                     the community taskforce.
+     families.
+ B. Identify & serve 8 – 15       # of youth served      • BYA Database               BYA did not separate these
+     MS & HS students/year                               • Prop 64 Excel              intensive youth from the at-
+     with past offenses with                                 Workbook                 risk youth served in Area 1.E.
+     focused services &                                  • State Quarterly            As a result, the evaluation
+     intervention                                            Progress Report (QPR)    could not separately analyze
+                                                                                      results for this populations.
+                                                                                      BYA entered monthly and
+                                                                                      quarterly data into the Prop
+                                                                                      64 Excel Workbook, which
+                                                                                      City of Berkeley reported in
+                                                                                      the State Quarterly Progress
+                                                                                      Report (QPR).).
+ Note that Objectives 3B (as 1B) and 3D (as 1C) appear in the Outcomes table on page 16
+
+
+Data collection tools and analysis methods are described below.
+
+
+
+City of Berkeley Prop 64 Final Report                   April 30, 2025                                              6
+BYA database
+BYA recorded the dates of client enrollment, exits, and participation in BYA activities in a database
+maintained by its data manager. Key progress indicators, such as start dates, attendance, participation in
+speciﬁc services, progress milestones, and exits, were recorded to evaluate engagement levels over time.
+Data was stored in BYA’s Salesforce database, allowing for consistent monitoring and reporting.
+
+This data was initially collected through participant applications during enrollment and was
+supplemented by follow-up forms and assessments completed throughout the program. BYA Program
+Coordinators communicated participant engagement details through counseling sessions, workshops, or
+educational sessions to the data manager, ensuring accurate and up-to-date tracking.
+
+The Data Manager also tracked cannabis education workshops, career development workshops,
+counseling services, community outreach, and youth-focused educational sessions. Program
+Coordinators compiled and submitted activity summaries in their monthly program reports to the Data
+Manager, ensuring accurate tracking and reporting of all services provided as part of the project. Data
+was stored in a shared Salesforce database, allowing for consistent monitoring and reporting. This
+system ensured that all program activities—such as workshops, counseling sessions, and educational
+outreach—were tracked and evaluated.
+
+Prop 64 Excel Workbook & State Quarterly Progress Report (QPR)
+BYA reported monthly totals into the Prop 64 Excel Workbook and added the 3 months in each quarter,
+which the City of Berkeley entered into the QPR. BYA recorded data in separate Excel worksheets for the
+peer education (renamed Squash-It By BYA, Goal 1, Objectives A-C) and client counseling. The evaluator
+summed data for each quarter for ﬁnal tallies, which will be presented by objective and indicator in the
+results section of this report.
+
+BYA’s Program Satisfaction Survey
+BYA implemented an existing four-question satisfaction survey to clients who had participated in the
+program for at least 3 months and re-administered the survey an average of 226 days (approximately 7.4
+months) later. Satisfaction survey questions contained positive statements about the program, to which
+respondents could answer on a ﬁve-point scale from “strongly disagree” to “strongly agree.” BYA
+recorded client responses to their 4-question satisfaction survey on an Excel spreadsheet, which they
+gave annually to the evaluator, who cleaned and re-arranged the data for upload into the Statistical
+Package for the Social Sciences (SPSS). The evaluator analyzed the data in two ways:
+    1. Computed frequencies of responses to each of the four questions and created a bar graph
+        depicting the percentage of respondents who gave each answer (See Results section).
+        Frequencies were computed separately for each of the time periods (Time 1, or ﬁrst time the
+        respondents ﬁlled out a satisfaction survey and a follow-up survey at Time 2. The numbers of
+        clients ﬁlling out a survey at T3, T4 and T5 was too small to generate meaningful frequencies).
+    2. Computed average responses to each question by assigning a number from 1 (strongly disagree)
+        to 5 (strongly agree) and created a line chart to compare average responses for Time 1 and Time
+        2. The numbers of responses for Time 3, Time 4 and Time 5 were too small to generate
+        meaningful averages.
+
+Social Media Campaign Educational Materials and Hits
+The BYA data manager kept records of each social media post by date and contents and used web-based
+software to record the number of “hits” for each post.
+
+
+
+
+City of Berkeley Prop 64 Final Report          April 30, 2025                                              7
+Process Evaluation Results by Evaluation Question
+
+What activities did the program implement?
+
+BYA reported 70 outreach activities over 255 hours to recruit youth to their programs. BYA served a total
+of 62 unique youth in the Squash-It Peer Educator and Counseling programs. Table 2 provides the
+number of youth served by each program and explains the overlap in which several youth participated in
+more than one of these programs.
+
+In addition to serving up to 25 to 60 youth in the Counseling Program each year, BYA had a separate
+objective to serve an additional 8 to 15 youth in years 2 and 3 who needed intensive case management,
+due to involvement in the justice system and heightened risk of using cannabis. Identiﬁed risk factors
+included dropping out of school, chronic absenteeism and diagnosed mental illness. BYA identiﬁed seven
+youth who were post-adjudication and added them to the Counseling Program. To supplement the
+Counseling intervention, these seven youth were enrolled in BYA’s Probation Youth Employment
+Program, receiving mentoring, tutoring, and paid work experience.
+
+Table 2: Youth Participation in BYA Programs
+ Program                           Number of Youth       Overlap
+ Squash-It! Peer Educators         16                    2 of the 16 also participated in counseling
+ Counseling                        48                    2 of the 48 also participated in Squash-It;
+                                                         7 counseling clients were identiﬁed as being
+                                                         justice-involved and received additional services.
+
+BYA provided community educational events, which were planned and implemented by staﬀ with
+assistance from peer educators. BYA reported hosting 39 community educational events in which 279
+youth participated. Peer educators attended 34 out of 39 community educational activities.
+
+As explained further in the Process Evaluation Discussion section, BYA decided not to fully train peer
+educators to provide school-based events, concentrating instead on services to address immediate
+needs facing these young people, such as hunger, unstable housing and employability.
+
+BYA reported hosting one school educational event with assistance from peer educators. Twenty-ﬁve
+students attended this event.
+
+BYA reported 499 social media campaign educational activities, and 139 social media materials created
+(handouts/pamphlets, commercials, websites etc.)
+
+Community Care Workgroup
+
+BYA reported that they established the Community Care Workgroup during quarter 12 (January – March
+2024) to raise awareness of the risks of marijuana use among youth and their families and to prevent
+youth marijuana use. The Workgroup’s objectives included supporting youth-led education and outreach
+campaigns, building partnerships with schools, parents, and local organizations, promoting healthy, drug-
+free lifestyles through positive youth development, and providing feedback and guidance on program
+activities and messaging.
+
+BYA shared that the eight members of this Workgroup included Squash-It youth interns, community
+leaders, parents, BYA staﬀ, and occasionally Reach Our Children (ROC) Counseling staﬀ from BYA. BYA
+described the youth interns' roles and responsibilities as including learning about existing resources,
+fostering a culture of mutual peer support, leading outreach eﬀorts, and representing the youth voice in
+
+City of Berkeley Prop 64 Final Report          April 30, 2025                                              8
+all planning processes. BYA described that community members and partners contributed by providing
+input, amplifying eﬀorts, and connecting the Workgroup with broader networks.
+
+BYA recounted that BYA staﬀ facilitated monthly meetings, provided prevention training, and oﬀered
+support to the interns. The workgroup chair or co-chairs guided meetings, oversaw the planning, and
+ensured that youth leadership remained central to the initiative. Workgroup activities included tabling at
+BYA outreach events (such as resource fairs and workshops) and providing leadership training for youth.
+The group also aimed to build connections with local cannabis-related resources.
+
+Did the interventions reach the target populations?
+
+Counseling Program Demographics
+All 48 youth in the Counseling Program met the                                 Figure 1: Age of BYA Counseling Clients
+inclusion criteria of age under 21 (Figure 1),                                                  (n=48)
+residing in low-income City of Berkeley
+neighborhoods and experiencing at-risk                                     18 - 20 years;
+situations such as exposure to or history of                                  7; 15%
+substance use and abuse (marijuana, alcohol),
+chronic absenteeism from school, dropped out
+or at-risk of dropping out, a history of
+incarceration or a history of mental health                                                                        12 years or
+challenges.                                                                                                         younger;
+                                                                                                                    23; 48%
+Eighty-ﬁve percent of youth counseling clients                       13-17 years;
+                                                                       18; 37%
+were black, indigenous or people of color
+(BIPOC). Figure 2 provides the distribution of
+race/ethnicity for counseling clients. Note that
+clients were allowed to choose more
+than one race or ethnicity, so the total                            Figure 2: Race/Ethnicity of BYA Counseling Clients
+number adds up to 48 rather than 50.                                                      (n=48)
+                                                                      23
+The program served more males (56%)
+than females (42%) and one non-binary
+                                               Number of Clients
+
+
+
+
+youth (2%) (See chart in Appendix D,                                                14
+Figure a).
+                                                                                                7
+Eighty-eight percent of Counseling
+Program youth were enrolled in                                                                             3             3
+Elementary (36%), Middle (23%) or High
+School (31%). The remaining students
+                                                                    Black or     Hispanic,    White      Asian    Multi-ethnic
+were not enrolled in school or getting
+                                                                    African      Latino, or
+their GED (4%) or are in other school                              American       Spanish
+situations (6%), such as community
+college (Appendix D, Figure b.)
+
+Eighty-eight percent of counseling youth were students not looking for employment (See chart in
+Appendix D, Figure c).
+
+
+
+
+City of Berkeley Prop 64 Final Report              April 30, 2025                                                            9
+Squash-It Program Demographics
+
+All 16 youth in the Squash-It program met the same inclusion
+criteria as in the Counseling Program: Age 21 or younger,                                  Figure 4: Race/Ethnicity of
+(Figure 3), residing in low-income City of Berkeley                                         Squash-It Clients (n=16)
+neighborhoods and experiencing at-risk situations such as
+exposure to or history of substance use and abuse                                                14
+(marijuana, alcohol), chronic absenteeism from school,
+
+
+
+
+                                                                       Number of Clients
+dropped out or at-risk of dropping out, a history of
+incarceration or a history of mental health challenges. In
+addition, all 16 met the additional Squash-It criteria of being
+BIPOC (either Black/African-American or Multi-Ethnic, Figure
+4) and 16 to 21 years of age.
+                                                                                                                   2
+Squash-It served mostly male-identiﬁed youth (81%,
+Appendix D, ﬁgure d.)
+                                                                                           Black or African   Multi-ethnic
+                                                                                              American
+Sixty-three percent of Squash-It participants were in high
+school, 31% were either High School or GED graduates and 6% attended Berkeley Community College
+(Appendix D, ﬁgure e.)
+
+Half of Squash-It youth were “looking not
+                                                                 Figure 3: Age of Squash-It Clients (n=16)
+employed, but looking for employment”
+(Appendix D, ﬁgure f.). These youth were co-
+enrolled in BYA’s Probation Youth Employment
+Program for assistance with job readiness and
+placement.                                                                                                          13-17 years;
+                                                                                                                      9; 56%
+Media Campaign
+BYA media campaigns received 1,516 “hits,”
+meaning someone clicked into the message to
+read it or respond. The age of the people             18 - 20 years;
+making the hits is unknown.                              7; 44%
+
+Community Care Workgroup
+BYA met the goal of recruiting eight people
+from multiple sectors into the Community Care Workgroup. This workgroup included Squash-It youth
+interns, community leaders, parents, BYA staﬀ, and occasionally ROC Counseling staﬀ from BYA.
+
+How much of the interventions did the target population receive?
+
+Counseling Program
+Youth received an average of 34.5 counseling sessions, ranging from a low of 2 to a high of 125 sessions
+over the life of the project. Each client’s treatment was guided by an individual treatment plan (IDP).
+Table 3 lists the type of services received in rank order by frequency for the 48 Counseling Program
+clients.
+
+
+
+
+City of Berkeley Prop 64 Final Report           April 30, 2025                                                               10
+Table 3: List of Counseling Services Provided
+ Type of Service
+ Listed from greatest to least number of sessions among all participants combined
+ Individual counseling
+ Pro-social activities/recreational events
+ Skill-building activities
+ Workshops
+ Life skills training
+ Individual/group mentoring
+ Academic support/tutoring
+ Ongoing assessment of risk/needs
+ Leadership/mentor training
+ Behavior change plans
+ Referral/linkage to community-based support services
+ Substance use awareness education
+ Career counseling/job shadowing
+ Individual/family support services
+ Referral/linkage to any other services
+
+Squash-It
+BYA stated that the average length of time in the program for Squash-It participants was 12 months.
+Information on the speciﬁc number or hours of training or other services provided were not made
+available.
+
+Media Campaign
+BYA reported that its media campaigns received 1,516 “hits,” meaning someone clicked into the message
+to read it or respond. The age of the people making the hits and the content of the messaging is
+unknown.
+
+Were participants satisﬁed with the interventions? Why or why not?
+
+Counseling Program Satisfaction Survey
+Figure 3 shows high levels of agreement with positive statements about the Counseling Program from 22
+youth at Time 1.
+
+
+
+
+City of Berkeley Prop 64 Final Report         April 30, 2025                                          11
+                                                          Figure 5: Counseling Program Satisfaction at Time 1 (n=22)
+                                                                     Date Range: Nov 4, 2022 - Sept 3, 2024
+                                                                     Strongly Agree       Agree      Neutral
+                                                                                                  4.5%                 4.5%
+   Percentage of Clients Surveyed
+
+
+
+                                                                      36.4%
+                                            54.5%
+                                                                                                  59.1%                54.5%
+
+
+
+
+                                                                      63.6%
+                                            45.5%                                                                      40.9%
+                                                                                                  36.4%
+
+
+                                     I am satisfied with the   This program's staff This program helped me This program met my
+                                    services I have received treated me with respect make progress toward          needs
+                                        from this program                                   my goals
+
+Among the 22 youth who did a satisfaction survey, 14 also completed a second satisfaction survey at
+Time 2. BYA aimed to give satisfaction surveys after 3 months of program participation and every 6
+months after that. The average number of days between Time 1 and Time 2 was 210, approximately 7
+months.
+
+Figure 4 shows how the average level of satisfaction started high at Time 1 and increased at Time 2
+(n=14). Note that the number “4” corresponds with “agree” and 5 with “strongly agree.”
+
+
+                                                   Figure 6: Average Program Satisfaction at Time 1 and Time 2 (n=14)
+                                                                  Date Range: Nov 4, 2022 - Sept 3, 2024
+                                                                              Time 1           Time 2
+
+                                             4.9                       4.9                         4.9                  4.7
+
+
+                                             4.4                       4.6
+                                                                                                   4.3                  4.3
+
+
+
+
+                                     I am satisfied with the   This program's staff This program helped me This program met my
+                                    services I have received treated me with respect make progress toward          needs
+                                        from this program                                   my goals
+
+
+BYA reported that they offered satisfaction surveys to Squash It participants, who generally prioritized
+their personal development goals over survey participation. These goals included: earning a GED;
+strengthening their life skills; addressing mental and physical health needs; and accessing employment
+support.
+
+City of Berkeley Prop 64 Final Report                                         April 30, 2025                                     12
+What were successes, challenges and lessons learned during each year of the program?
+
+Prop 64 successes are described in the results sections of this report. Challenges and steps taken to
+mitigate those challenges were explained in Quarterly Reports, and summarized below:
+
+The project encountered delays stemming from staﬃng shortages and bureaucratic challenges within
+both the City of Berkeley and its partner/subcontractor, Berkeley Youth Alternatives (BYA). Several City of
+Berkeley staﬃng gaps impacted operations, including a vacancy in the YouthWorks manager position
+until June 2021 and shortages in City ﬁscal staﬀ beginning in September 2021. Identiﬁcation of a CBO
+partner was delayed until December 2021 due to a mandatory RFP process to choose a contractor.
+
+Contractual delays also played a role in slowing the project’s progress. The contract with BYA was
+postponed due to requested changes in the project's scope and budget. Originally expected to be
+ﬁnalized in March 2022, the contract was not executed until July 2022. As a result of these delays,
+several project goals and workgroup activities originally planned for the ﬁrst year were postponed to the
+second and third years. These setbacks also contributed to an under-expenditure of the allocated project
+funds during the initial year.
+
+During project quarters 4-13 (January 2022-September 2024), BYA identiﬁed additional barriers.
+Enrolling youth proved diﬃcult due to administrative hurdles and youth reluctance toward in-person
+activities. Delays in obtaining ﬁre clearance prevented mental health services from receiving payment.
+The COVID-19 pandemic further disrupted the program and led to an increased demand for counseling
+services, particularly among children under the age of 12. Throughout the project, BYA was unable to
+oﬀer any payments to its Peer Educators due to reported problems with their payroll system. During
+quarter 11 (October – December 2023) BYA reported that they paused and then ended Squash-It Peer
+Educator recruitment due to funding shortages and conﬂicts with school schedules. BYA continued to
+provide the Counseling Program through quarter 15 (October 2024).
+
+The City of Berkeley took action to mitigate challenges related to a late program start and staﬃng
+challenges. During program quarters 1 and 2 (May – September 2021), the City of Berkeley wrote and
+implemented an RFP and chose Berkeley Youth Alternatives as its Prop 64 partner/subcontractor. Some
+goals were adjusted due to the delayed start: for example, the number of peer educators was reduced
+from 20 to 12, and the number of counseling clients from up to 60 to 25 - 60 per program year. BYA and
+City of Berkeley staﬀ co-facilitated communication and problem-solving through a monthly workgroup
+meeting, comprised of the City of Berkeley Project Manager, BYA Director, the BYA Data Manager, BYA
+staﬀ and contractor, and the program evaluation contractor.
+
+To boost Squash-It participation, BYA reported that they oﬀered incentives such as ﬁnancial rewards and
+hot meals to youth participants. The program also focused on addressing youths’ primary needs (e.g.,
+hunger, housing, and education) and used popular activities like basketball to deliver curriculum content,
+particularly cannabis education.
+
+Process Evaluation Discussion
+
+With 48 counseling clients in total, BYA approached its contractual objectives of serving 25 - 60
+counseling youth annually (and 75 – 180 youth across the full project term). BYA did not meet the
+objective of providing intensive case management to an additional 8 to 15 youth with criminal justice
+experience in years 2 and 3. BYA did serve 7 youth with prior involvement in the justice system as part of
+the regular Counseling Program. BYA reported providing extra support to these 7 students by enrolling
+
+
+City of Berkeley Prop 64 Final Report          April 30, 2025                                            13
+them in their existing Probation Youth Employment Program, bud did not keep separate ﬁles on the
+progress and outcomes for these 7 youth.
+
+BYA served 16 peer educators over the project term, surpassing the contractual goal of recruiting 12
+peer educators. Squash-It was not able to implement the original objective of training a cohort of youth
+to become peer educators who would then give cannabis education presentations to middle and high
+school students.
+
+BYA and its Media Campaign consultant (Upline Solutions) discontinued the objective to develop a
+youth-friendly and culturally relevant cannabis media campaign, citing the existence of other campaigns
+they could adapt. BYA and Upline Solutions did not include information documenting the strategy, goals
+or content of this campaign in their program reporting. Other BYA staﬀ regularly sent out youth-oriented
+social media messages on their platform and materials, resulting in 1,516 “hits.”
+
+BYA counseling clients reported high levels of satisfaction with the program at Time 1, and even higher
+satisfaction at Time 2. Counselors were able to collect satisfaction surveys from 22 out of the 48
+counseling clients. BYA reported that its counselors tailor each session to the client's individual needs
+and priorities. Some counselors determined that requiring survey completion during these sessions
+could interfere with clients’ goals and the support they needed. As a result, not all counseling clients
+completed the program satisfaction surveys.
+
+BYA opted not to conduct focus groups with peer educators to identify program successes, challenges
+and lessons learned. Instead, BYA reported on program activities, challenges, and steps to mitigate
+challenges in the QPR. The Prop 64 evaluator collected these reports from 15 program quarters and
+wrote a summary of challenges and mitigation steps.
+
+The City of Berkeley identiﬁed additional challenges and recommendations. BYA’s “Squash It” Manager
+left the project before the end of the contract term. During BYA-City of Berkeley Check-in Sessions, he
+reported that many young people were simply not interested in cannabis prevention and education.
+Rather, he said that young people were more interested in getting help to deal with their more
+immediate, pressing needs, such as unstable housing, needing ID/driver’s license, needing a GED, etc.
+Based on the basic needs presented by clients, he employed a strategy that focused on these immediate
+needs ﬁrst, before addressing cannabis prevention. The evaluation model was not designed to collect
+and analyze information about the eﬃcacy of meeting participants’ immediate needs and, as a result,
+being able to eﬀectively engage them in cannabis prevention activities.
+
+City of Berkeley and BYA staﬀ met regularly to discuss how implementation of services was contributing
+to achievement of the project's core objectives. The goal of these meetings was to ensure that both
+parties were aligned around the project goals and project implementation according to BSCC and
+contractual guidelines. BYA's Data Manager held meetings with BYA program staﬀ to discuss the delivery
+of services, to check-in on data collection and support needs and to assess the eﬀectiveness and
+alignment of activities with project goals. The evaluator consulted with the BYA Data Manager regularly
+to help monitor and as needed, adjust data collection through surveys, assessments, and progress
+reports.
+
+
+
+
+City of Berkeley Prop 64 Final Report           April 30, 2025                                              14
+Outcome Evaluation
+Design and Methods
+
+The evaluation team designed the outcome evaluation to involve comparing pre-tests with post-tests,
+examining change over multiple points in time, and reviewing client records to assess whether speciﬁc
+services had been provided.
+
+The evaluation team developed the Peer Educator Knowledge and Conﬁdence Survey (Appendix B) to
+determine baseline and post-training knowledge about cannabis and youth and conﬁdence to provide
+cannabis education. The evaluator drafted a set of multiple-choice questions from several validated
+cannabis knowledge surveys 3,4 and the Squash-It director narrowed down the list to 16 multiple-choice
+questions based on the likely peer educator curriculum. One question asked youth to rate their
+conﬁdence in giving cannabis awareness presentations to middle and high school students. The
+evaluator provided paper and online copies of the survey (in Microsoft Oﬃce Forms) accessible by a web
+link or a QR code. BYA did not administer this survey as a pre-test. Instead, they gave it as a post-test
+after one cannabis education event in October 2023.
+
+The evaluation team assessed outcomes via assessment tools provided to counseling clients over time.
+After conferring with BYA, they decided to replace the construct of increasing “hope” with “resilience,”
+measured by a reliable and valid scale already in use (Resililence-14 Scale 5). Studies had shown that
+scores on the RS-14 correlated with lower levels of depression, anxiety, and perceived stress in youth
+(Resilience Center), which have been linked with youth substance use. 6 Individual outcomes were also
+tracked through a valid and reliable tool, the Outcomes Rating Scale 7, described in the data analysis
+section on page 16. BYA staﬀ conducted quarterly reviews of client records to determine whether
+counseling clients had received individual development plans.
+
+The outcome questions from our 2021 Local Evaluation Plan are below. The questions that were not
+evaluated, and the reason why are highlighted in gray.
+
+•   Did peer educators increase their knowledge of youth and cannabis, and the conﬁdence to provide
+    cannabis education to their peers?
+•   Did peer educators increase their sense of hope for a successful future? What aspect of their
+    experience influenced their sense of hope (e.g. earning a living wage, mentoring from caring
+    adults)? [Hope was not assessed for peer educators].
+•   Did youth attending peer education increase their knowledge of youth and cannabis, and their
+    ability to refuse cannabis when offered? [Peer educators did not provide peer education in schools,
+    and youth attending community education events were not assessed].
+•   Has the Taskforce formed a successful collaboration that can work together to address youth
+    violence? [The Taskforce did not meet long enough to assess the collaboration]
+
+
+
+3
+  https://med.stanford.edu/cannabispreventiontoolkit/empowering-you-th-smart-talk-curriculum.html
+4
+  https://cannabisdecoded.org/
+5
+  https://www.resiliencecenter.com/products/short-resilience-scale-rs14/
+6
+  Konaszewski, K., Niesiobędzka, M. & Surzykiewicz, J. Resilience and mental health among juveniles: role of
+strategies for coping with stress. Health Qual Life Outcomes 19, 58 (2021). https://doi.org/10.1186/s12955-021-
+01701-3https://hqlo.biomedcentral.com/articles/10.1186/s12955-021-01701-3
+7
+  https://www.corc.uk.net/outcome-experience-measures/directory-of-outcome-measures/outcome-rating-scale-
+ors-child-outcome-rating-scale-cors/
+
+City of Berkeley Prop 64 Final Report             April 30, 2025                                              15
+•      Did youth receiving wrap-around and case management services receive individualized development
+       plans?
+•      Did youth receiving wrap-around services and case management demonstrate improvement in
+       functional areas and/or individual strengths?
+•      For youth receiving wrap-around and intensive case management services, was the amount of
+       participation (“dose”) related to outcomes generated (“response?”)
+•      What impact have the interventions had on Berkeley youth? Have interventions in Areas 1 and 2
+       decreased youth cannabis use and abuse?
+•      Have the interventions increased connections to the school and caring adults, as well as feelings of
+       safety at school?
+
+The following table contains outcome objectives, indicators, evaluation tools, reporting, and timelines.
+Note that outcome objectives related to program activities that were not implemented are shaded in
+gray.
+
+Table 2: Outcome Objectives, Indicators, Evaluation Tools, Responsible and Timelines
+                                                                                                      Responsible &
+          Outcome Objective               Outcome Indicators               Evaluation Tools
+                                                                                                        Timelines
+    Area 1: Prevention and Intervention
+    At least 80% of youth             Number and percentage            Online Survey for Youth    BYA did not
+    presentation participants will    of peer educators who            Attending Cannabis         implement youth
+    report they have learned a new    increase knowledge and           Presentations, to be       presentations at
+    fact about youth and cannabis     conﬁdence of youth               developed by the           schools, so the survey
+    use                               presentation                     evaluation consultant      was not done.
+                                      participants who report
+                                      they have learned a new
+                                      fact about cannabis use
+    At least 80% of youth reviewers   Number and percentage            The media contractor       Note: The media
+    will identify media messages as   of youth identifying             will include a youth       contractor did not
+    comprehensible, youth-friendly    media messages as                survey in focus groups.    implement focus
+    and culturally competent on       described.                                                  groups with youth.
+    their websites. (3B in the
+    original goals, changed to 1B in
+    the Local Evaluation Plan)
+
+
+    By end of Year 2 and Year 3, at     Number and percentage          BYA will visit retailers   Note: BYA did not
+    least 50% of Berkeley cannabis      of cannabis retailers who      and record those who       implement visits and
+    retailers who received materials    agree to display               agree to display           materials distribution
+    and outreach will agree to          materials as described.        materials.                 with cannabis
+    display ads regarding under-                                                                  retailers.
+    aged sales either on their
+    physical location or on their
+    websites. (3D in the original
+    goals, changed to 1C in the Local
+    Evaluation Plan)
+
+
+
+
+City of Berkeley Prop 64 Final Report                 April 30, 2025                                                       16
+                                                                                                      Responsible &
+        Outcome Objective                 Outcome Indicators             Evaluation Tools
+                                                                                                        Timelines
+ Outcome Objectives Added to Goal 1 in the Local Evaluation Plan, August 2022
+ 80% of Peer educators will: 1)  Number and percentage Peer Educator                              BYA gave surveys to
+ increase knowledge of youth     of peer educators who       Knowledge and                        peer educators who
+ and cannabis use; 2) report     increase knowledge and Confidence Survey,                        participated in
+ being “very confident” to       conﬁdence                   developed by BYA staff               multiple sessions of
+ provide cannabis education.                                 and the evaluation                   cannabis education
+                                                             consultant                           for youth.
+ All youth receiving wraparound  Number and percentage BYA Database                               BYA entered monthly
+ or case management services     of peer educators in                                             and quarterly data
+ will receive an individual care wraparound or case          Prop 64 Excel                        into the Prop 64 Excel
+ plan.                           management    services      Workbook & State                     Workbook, which City
+                                 who receive an                                                   of Berkeley reported
+                                 individual care plan        Quarterly Progress                   in the State Quarterly
+                                                             Report (QPR)                         Progress Report (QPR).
+ 80% of youth receiving          Number and percentage Outcome Rating Scale                       Counselors gave the
+ wraparound or case              of peer educators who       (ORS)                                ORS to clients for four
+ management services will        demonstrate                                                      to six consecutive
+ demonstrate improvement in at improvement in at least                                            sessions at the
+ least 1 functional area (e.g.   1 functional area                                                beginning of their
+ social, academic) or strength                                                                    treatment, and
+                                                                                                  periodically as
+ (e.g. family relationships,
+                                                                                                  counselors wanted the
+ recreation)
+                                                                                                  information for
+                                                                                                  treatment purposes.
+ At least 80% of peer educators     Number and percentage BYA will administer the                 BYA recorded scores
+ who have participated in the       of youth in counseling     Resilience-14 scale to             on an excel
+ program for 3 months or more       who   increase hope,  as   peer educators                     spreadsheet, which
+ will experience an increase in     measured    by an increase                                    they shared with the
+ hope for a successful future       in scores on the                                              evaluation manager
+ (“Hope” measured in BYA            Resilience-14 scale.                                          annually.
+ Resilience Scale)
+ Areas 2 & 3: Public Health & Safety/Violence Prevention
+ Outcome Objectives Added to Goal 2 in the Local Evaluation Plan, August 2022
+ 8 Taskforce members will sign          Number of taskforce           BYA will keep a roster of   Note: During the
+ MOUs to commit to                      members who sign an           Taskforce members and       implementation
+ participation.                         MOU                           MOUs signed                 phase, BYA did not
+                                                                                                  pursue MOUs with
+                                                                                                  Taskforce members
+ Taskforce members will report          Number and percentage         The evaluator will work     Same note as above
+ development of stronger                of taskforce members          with BYA to choose and
+ partnerships to reduce youth           who report the                implement a reliable
+ cannabis use and violence.             development of stronger       and valid partnership
+                                        partnerships                  development survey.
+
+Data analysis for outcome measures is described below.
+
+Peer Educator Knowledge and Conﬁdence Survey
+BYA administered this survey to ﬁve peer educators who had participated in a cannabis awareness
+activity in 2024, and recorded answers into a spreadsheet. The number and percentage of clients
+answering each knowledge question correctly and the average number of correct answers per client
+were computed in SPSS. The evaluator analyzed answers to the question about the level of conﬁdence
+
+
+City of Berkeley Prop 64 Final Report                April 30, 2025                                                     17
+peer educators had in providing cannabis education to other youth by generating frequencies of
+responses: “very conﬁdent,” “fairly conﬁdent,” “slightly conﬁdent,” “not at all conﬁdent” using SPSS
+software.
+
+Resilience-14 scale 8
+The RS-14 has 14 questions measuring resilience on a 7-point scale from strongly agree (7) to disagree
+(1) strongly. Composite Scores can range from 14 to 98. BYA aims to give the RS-14 to counseling clients
+every 3 to 6 months. The evaluator analyzed RS-14 scores in several ways using SPSS software:
+     • Computed an average response for each question separately for Time 1, which is usually given
+         close to the third month of the program, Time 2, given an average of 125 days and
+         (approximately 4 months) and Time 3, an average of 190 days (approximately 6 months) after
+         that. Average scores were not computed for Time 4 and Time 5, since only 6 clients took the RS-
+         14 more than three times.
+     • Added scores on the 14 questions to compute composite scores for Times 1-3 for each and then
+         the average score for all clients at Times 1-3.
+     • Subtracted the composite scores between each point in time for individual clients to compute
+         the average change in scores between Time 1 and Time 2 and Time 2 and Time 3.
+
+State Quarterly Progress Report (QPR)
+BYA reviewed client records and reported the percentage who had received an individual development
+plan to the evaluator.
+
+Outcome Ratings Scale and Session Rating Scale
+BYA's Counseling Program shared the clients' Outcome Rating Scale (ORS) assessments with BYA's Data
+Manager. The ORS is an assessment tool that measures clients' perceptions of their functioning in
+various life domains, including personal well-being, interpersonal relationships, social roles, and overall
+functioning. Along with the Session Rating Scale (SRS) assessment tool. The SRS assesses clients'
+experiences of the therapeutic relationship and their satisfaction with each session. 9
+
+Since BYA oﬀers tailored interventions to each client and enrolls many in multiple program components
+(such as their Counseling, Probation Youth Employment and social activity programs), it is diﬃcult to
+determine which strategy resulted in observed outcomes. A “dose-response” aﬀect, in which clients
+have better outcomes the more time and activities they complete with BYA would indicate that BYA
+involvement is contributing to positive outcomes.
+
+Outcome Evaluation Results
+
+Did peer educators increase their knowledge of youth and cannabis, and the conﬁdence to provide
+cannabis education to their peers?
+
+In 2024, BYA’s CDC Program held a Marijuana Awareness workshop, attended by ﬁve Squash-It Peer
+Educators. Participants completed cannabis knowledge surveys. Of the participants, four were in high
+school, and one had graduated. Following the workshop, a session was organized where the young
+adults facilitated an open discussion about the eﬀects of marijuana and Squash-It youth were given
+paper copies of the Peer Educator Knowledge and Conﬁdence Survey.
+
+
+
+
+8
+ https://www.resiliencecenter.com/products/resilience-scales-and-tools-for-research/the-rs14/
+9
+ Bringhurst, D. L., Watson, C. W., Miller, S. D., & Duncan, B. L. (2006). The reliability and validity of the Outcome
+Rating Scale: A replication study of a brief clinical measure. Journal of Brief Therapy, 5(1), 23-30.
+
+City of Berkeley Prop 64 Final Report                 April 30, 2025                                                    18
+Survey results showed that participants averaged an overall score of 87% in answering all questions
+correctly. Each participant reported learning new facts about refusing Cannabis. Additionally, they
+acknowledged the importance of developing coping skills rather than relying on Cannabis to handle
+challenges. See Appendix D for full results of the Peer Educator Knowledge and Conﬁdence Survey.
+
+Did youth receiving counseling receive individualized development plans?
+BYA reported that all counseling participants received an individualized development plan. They
+explained that individualized development plans outlined client goals related to mental health and
+emphasized strategies for addressing these issues in therapy sessions and within the broader community
+and school environments. These plans empowered therapists and BYA staﬀ to support clients by
+addressing their external needs, ensuring a comprehensive and integrated approach to care. Additional
+assessment tools were used throughout treatment to track progress and guide necessary adjustments. A
+key focus of these plans was to identify and address the underlying causes of mental health challenges,
+including the use of substances like marijuana as a coping mechanism for life stressors. Ultimately, the
+goal was to help clients develop healthier and more eﬀective coping strategies.
+
+Did youth receiving wrap-around services and case management demonstrate improvement in
+functional areas and/or individual strengths?
+
+Counseling Program
+
+Resilience-14 Scale
+Twenty-two clients ﬁlled out an RS-14 at Time 1, after they had participated in an average of 12 sessions.
+Eighteen clients completed a second RS-14 (Time 2), an average of 21 sessions, or 125 days
+(approximately 4 months) later. Ten counseling clients completed one more RS-14 (Time 3) after that, an
+average of 31 sessions or 190 days (approximately 6 months) later.
+
+Composite scores on all fourteen RS-14 items increased over time. Clients who completed an RS-14 at
+Time 2 and Time 3 had lower scores at Time 1, and experienced higher increases over time. At the ﬁrst
+administration (Time 1), the average score was 72.1 for the 22 clients who ﬁlled out the RS-14. For the
+eighteen clients who completed a second RS-14, their composite score at Time 1 was 69.3, increasing to
+77.2 at Time 2. Among the ten clients who completed an RS-14 at Time 3, their average composite scores
+increased from 66.0 at Time 1, to 76.4 at Time 2 and 78.8 at Time 3.
+
+Figure 7 depicts Time 1 and Time 2 average scores on the individual items in the RS-14, listed in order of
+the largest to the smallest increase over time. The three items with the greatest changes were “I keep
+interested in things,” “I am friends with myself” and “when I am in a diﬃcult situation, I can usually ﬁnd
+my way out of it.
+
+
+
+
+City of Berkeley Prop 64 Final Report          April 30, 2025                                            19
+                             Figure 7: Average scores for for RS-14 Items at T1 and T2
+                                             (N=18 counseling clients)
+
+                                                  Time 2          Time 1
+
+                                 I keep interested in things.                                              5.5
+                                                                                               4.6
+
+                                   I am friends with myself.                                                      6.2
+                                                                                                       5.3
+     When I’m in a difficult situation, I can usually find                                                        6.2
+                     my way out of it.                                                                 5.3
+
+      My belief in myself gets me through hard times.                                                        5.8
+                                                                                                     5.1
+
+            I can usually find something to laugh about.                                               5.4
+                                                                                               4.7
+           I can get through difficult times because I’ve                                            5.1
+                   experienced difficulty before.                                          4.4
+
+          I feel that I can handle many things at a time.                                                  5.6
+                                                                                                 4.9
+
+                   I usually manage one way or another.                                                            6.3
+                                                                                                            5.7
+
+                              I usually take things in stride.                                                   5.9
+                                                                                                       5.4
+
+                                        I have self-discipline.                                4.6
+                                                                                         4.1
+
+                                           I am determined.                                                5.6
+                                                                                                     5.2
+
+                                        My life has meaning.                                       5.2
+                                                                                                 4.8
+    I feel proud that I have accomplished things in my                                                 5.4
+                             life.                                                                   5.1
+             In an emergency, I’m someone people can                                                         5.8
+                          generally rely on.                                                                 5.8
+
+                                                            1 = Strongly Disagree; 7 = Strongly Agree
+
+
+
+Outcome Rating Scale (ORS) and Session Rating Scale (SRS)
+BYA reported the following outcomes for the Outcome Rating Scale (ORS) and Session Rating Scale (SRS).
+Seventy-ﬁve percent of counseling clients demonstrated an increase in their total Outcome Rating Scale
+(ORS) scores, reﬂecting improved personal well-being, interpersonal relationships, and day-to-day
+functioning. Eighty percent of participants reported improved (Session Rating Scale) scores, indicating
+stronger satisfaction with counseling sessions and the therapeutic relationship. Counselors used results
+for individual clients to adjust their approaches to meet client needs, reinforce progress, and provide
+targeted support.
+
+BYA described how they offered the RS-14 survey to Squash-It participants; however, most chose not to
+complete it. Squash-It participants generally prioritized their personal development goals over survey
+participation. These goals included: earning a GED; strengthening their life skills; addressing mental and
+physical health needs; and accessing employment support.
+
+City of Berkeley Prop 64 Final Report                  April 30, 2025                                                    20
+For youth receiving wrap-around and intensive case management services, was the amount of
+participation (“dose”) related to outcomes generated (“response?”)
+
+For the subset of counseling clients who did an RS-14 a second time (18 clients), composite scores
+increased an average of 10.4 points between Time 1 and Time 2, demonstrating an increase in
+resilience. For the ten clients who also did an RS-14 at Time 3, composite scores increased 2.4 points.
+This pattern shows participation in more counseling sessions (“dose”) is associated with higher RS-14
+scores (“response”).
+
+What impact have the interventions had on Berkeley youth?
+
+The evaluation team determined that 62 clients was not a suﬃcient number to decrease citywide youth
+cannabis use, abuse, connections to the school and caring adults or feelings of safety at school. A
+signiﬁcantly larger number of clients would be necessary to show these population-level changes.
+
+Outcome Evaluation Discussion
+
+Evaluation results indicate that BYA has an eﬀective counseling model. Clients who stayed in counseling
+long enough to receive a Satisfaction Survey and an RS-14 reported high levels of satisfaction with the
+program and increases in resilience, which can protect them from depression, anxiety and stress. In turn,
+higher resilience may also protect youth from initiating or continuing cannabis use. Fewer than half of
+counseling clients completed the Satisfaction Survey or the RS-14, resulting in data that was too limited
+to draw a signiﬁcant conclusion.
+
+Scores on the Outcomes Rating and Sessions Rating Scales corroborated ﬁndings of high satisfaction and
+improved outcomes for counseling Clients. Increasing RS-14 scores between a ﬁrst and second
+administration, an average of four months and 21 sessions later suggest a dose-response relationship, in
+which more time and counseling sessions improve outcomes.
+
+Squash-It gave the Knowledge and Conﬁdence Survey to ﬁve youth in October 2023, after the ﬁve had
+attended several community events and educational sessions on cannabis. The other 11 Squash-It youth
+did not complete the survey. Survey results from these ﬁve individuals may suggest that youth increased
+their knowledge about the health and social issues related to youth and cannabis youth and felt
+moderately conﬁdent to lead peer education sessions. At the same time, the number of participants
+surveyed was quite limited making it diﬃcult to draw a conclusion.
+
+According to BYA and the City of Berkeley, clients beneﬁted from BYA’s ability to oﬀer several programs
+at one time to clients. BYA oﬀered a range of programs and was able to weave together these
+opportunities so that, for example, counseling clients and interns were able to beneﬁt from BYA’s jobs
+center, food pantry, and more. In another example, the students in BYA’s Afterschool Program
+participated in Boys and Girls group that included cannabis prevention information and mental health
+and wellness components.
+
+An important factor that aﬀected the progress of project goals was BYA’s reputation as a trusted
+community services provider, particularly among the African American/Black population of Berkeley. This
+reputation may have reduced some of the barriers that participants may otherwise have experienced,
+particularly accessing sensitive services, such as mental health counseling.
+
+
+
+
+City of Berkeley Prop 64 Final Report          April 30, 2025                                             21
+Some factors that impeded the goals of this project include the delays in early implementation of this
+project. The required RFP process and the extended negotiation of project scope and budget set the
+start of the actual service delivery back at least a year.
+
+Another challenge was BYA’s limited administrative and staﬃng infrastructure. BYA is a relatively small,
+local nonproﬁt. Producing invoices was challenging, as was staﬃng projects. An example of how this
+impeded progress: the City accepted BYA’s request to run all aspects of the internship program and
+payments. It turned out that BYA was administratively unprepared to house an onboarding and payroll
+system for the internship. Unfortunately, the realization around the limited administrative capacity and
+results were communicated too late to make corrective changes. It is the City’s understanding that that
+the internships that BYA oﬀered were unpaid, which may have contributed to the limited participation
+and high turnover of interns.
+
+In retrospect, the evaluator would recommend that the City of Berkeley manage youth intern
+onboarding and payroll. BYA struggled with getting this component up and running, which overstressed
+its administrative and ﬁscal capacity. The City has these systems in place. While other issues may have
+arisen with the City managing the internship component, it likely would have been a more successful
+model.
+
+Another recommendation would be to create an alternate mechanism for the school presentations by
+the youth interns. It can be diﬃcult for outside agencies to obtain permission from school districts to
+present to their students in school settings. This challenge is particularly great when dealing with
+sensitive issues, such as cannabis.
+
+An example of how a project component was adjusted involved the need to issue an RFP at the
+beginning of the BSCC grant period. The City is required to conduct a fair bidding process for contracted
+services. Once awarded to BYA, the contract had to be signiﬁcantly negotiated to adjust the expected
+deliverables to be realistic, given a shorter contract term than originally expected.
+
+The evaluator on this project recommended various improvements over the course of the project. These
+included providing samples of pre- and post-screening tools for youth interns who were participating in
+cannabis education. The evaluator also became familiar with tools already in use at BYA and guided key
+BYA personnel to implement them in a more consistent and reliable manner. An example is the use of
+the Resilience-14 Survey, which this project uses to assess progress for BYA’s counseling clients.
+
+
+
+
+City of Berkeley Prop 64 Final Report          April 30, 2025                                              22
+Grantee Highlight
+
+
+         Jalen: A Case Study in Youth Empowerment and Preventive Education
+
+                  By Sydni Gamba, Berkeley Youth Alternatives Data Manager
+
+
+Jalen, a 17-year-old high school student, enrolled in BYA’s Counseling Program. Initially quiet
+and hesitant, he was referred to the Squash-It program due to concerns about anxiety, social
+isolation, and a growing curiosity about cannabis use.
+
+While participating in the Squash-It program, Jalen also joined BYA’s Career Development
+Center. He continued to attend weekly counseling sessions and took part in cannabis education
+workshops. In these cannabis sessions and Marijuana Awareness workshops, he completed
+surveys that indicated he learned important facts about cannabis, including information on
+vaping, the dangers of ingesting cannabis through edibles, the relationship between cannabis
+smoking and COVID-19, and how cannabis aﬀects anxiety and severe mental health issues. He
+recognized that cannabis can impair reaction time, coordination, and concentration, and he
+learned about its negative impact on learning, memory, and focus, which can hinder academic
+success.
+
+Jalen also identiﬁed that young people might use cannabis to escape uncomfortable and
+sometimes painful aspects of teenage life. He understood the importance of developing coping
+skills rather than relying on cannabis to deal with life's challenges. Additionally, he learned
+about the consequences of being under 21 and being caught in possession of cannabis.
+
+As the program progressed, Jalen began to open up. He actively contributed to group
+discussions on cannabis, peer pressure, self-worth, and emotional regulation, and he
+participated in discussions focused on positive coping skills from the listening sessions provided
+by BYA’s Youth Suicide Prevention program.
+
+As a result of his participation, Jalen secured a part-time job with AutoZone through the CDC
+partnership. He expressed that he now feels “more in control of [his] choices” and is looking
+forward to applying to college in the fall. Notably, he showed a signiﬁcant increase in his
+resilience score from the start of counseling to the end of the Squash-It program.
+
+Please refer to the next page for a comparative graph of the participants' resilience scores.
+
+
+
+
+City of Berkeley Prop 64 Final Report       April 30, 2025                                        23
+Initial Resilience Score: 54
+
+
+
+
+Most Updated Resilience Score: 74
+
+
+
+
+City of Berkeley Prop 64 Final Report   April 30, 2025   24
+Appendix A: City of Berkeley Prop 64 Logic Model (based on the City’s grant proposal as documented in the June 2021 grant agreement with
+BSCC)
+
+
+
+
+City of Berkeley Prop 64 Final Report                            April 30, 2025                                                            i
+Appendix B: Cannabis Knowledge and Conﬁdence Survey for Youth Educators
+
+
+           Cannabis Knowledge and Confidence Survey for Youth Educators
+                                February 15, 2024
+                Teacher’s Copy (correct answers are in purple italics)
+
+
+How to access the survey online:
+
+https://forms.office.com/g/ZiDX2FDE8T
+
+And through a QR Code:
+
+
+
+
+Correct Answers are in purple italics
+
+1. Which of the following are facts about cannabis?
+    a. It can be addictive
+    b. You cannot die from a direct overdose
+    c. THC and CBD are found in it
+    d. All of the Above
+
+2. When vaping, about how long does it take to feel the effects?
+    a. 5 seconds
+    b. 1-2 minutes
+    c. 30 seconds
+    d. None of the above
+
+3. When taking edibles, how long does the high usually last?
+    a. 30 minutes
+    b. Several hours
+    c. 2 days
+    d. None of the above
+
+4. The THC level in vaping, dabs, Joints and edibles is:
+    a. About the same for each
+    b. Lower for edibles, higher for others
+    c. Higher for edibles, rest the same
+    d. Different for each type
+
+
+
+
+City of Berkeley Prop 64 Final Report    April 30, 2025                   ii
+5. Which of the following statements about the active ingredients in cannabis are correct?
+    a. THC is psychoactive (responsible for the “high”) and addictive
+    b. CBD is non-psychoactive and safe to use
+    c. We don’t know all of the long-term effects of using CBD and THC
+
+6. Some of the dangers of ingestion of cannabis via edibles is:
+    a. Cookies and brownies and other edibles increase calorie intake
+    b. Edibles can cause Willy Wonka syndrome
+    c. You have no way of really knowing how much THC is in an edible
+    d. None of the above
+
+7. Inhalation of THC can cause…
+    a. Irritation of the respiratory system, which includes the lungs
+    b. Blunts have nicotine, which is highly addictive
+    c. Vaping is not water vapor, but aerosol, which can damage the respiratory
+       system
+    d. All of the above
+
+8. How is smoking/vaping cannabis related to coronavirus/COVID-19 (check all that
+   apply)?
+    a. Smoking/vaping can make a coronavirus infection worse and/or make it
+       easier to become infected by the coronavirus
+    b. Smoking/vaping leads to coronavirus infection
+    c. Smoking/vaping makes the lungs more prepared to fight the infection
+
+9. Regular users of cannabis/marijuana are how much more likely than non-users to
+   possibly experience anxiety or severe mental health problems?
+    a. Not more likely
+    b. Ten times more likely
+    c. Same amount of likelihood
+    d. Only if you get caught
+
+10. True or False: Driving while high increases your risk of getting into a car crash, because
+    cannabis can affect your reaction time, coordination, and concentration.
+    a. True
+    b. False
+
+11. True or False: Cannabis use can impact your ability to learn, remember, and focus,
+    making it more difficult to succeed in school.
+    a. True
+    b. False
+
+12. According to recent national surveys, the percentage of youth NOT using cannabis is
+    about:
+    a. 80% (8 out of 10 youth)
+    b. 10% (1 out of 10 youth)
+    c. 40% (4 out of 10 youth)
+    d. 99% (99 out of 100 youth)
+
+
+
+
+City of Berkeley Prop 64 Final Report     April 30, 2025                                     iii
+13. Why might a young person use cannabis to avoid uncomfortable and sometimes painful
+    parts of teen life?
+    a. There is little adult support at home and school
+    b. Friends around them are using cannabis too
+    c. Still figuring out which coping skills work best
+    d. All of above
+
+14. Why should a young person learn more coping skills instead of using cannabis to cope
+    with life? (Check all that apply.)
+    a. To help later in adulthood when new challenges come up
+    b. To avoid relying on cannabis or any other drug to feel better about life
+    c. To build healthy habits
+    d. All of the above
+
+15. True or False: If you are under 21 and are caught in possession of cannabis, you can get
+    a “Minor in Possession (MIP)” and be required to complete drug counseling and
+    community service.
+    a. True
+    b. False
+
+16. True or False: A charge of “Minor in Possession (MIP)” can mess up your education
+    plans. It can result in the loss of federal financial aid, and get you suspended or
+    removed from sports teams or other school activities.
+    a. True
+    b. False
+
+These multiple-choice questions do not have correct answers
+
+On a scale from 1 to 5, how confident do you feel to give Cannabis Awareness
+presentations to middle school and high school students?
+   a. Very Confident
+   b. Fairly Confident
+   c. Slightly confident
+   d. Not at all confident
+
+What is your current level of education?
+  a. I am in middle school
+  b. I am in high school
+  c. I have graduated high school
+
+
+
+
+City of Berkeley Prop 64 Final Report    April 30, 2025                                    iv
+Appendix C: Results from the Cannabis Knowledge and Conﬁdence Survey
+
+
+  BYA’s CDC Program recently held a Marijuana Awareness workshop, which was attended by five young
+  adults. Participants completed cannabis knowledge surveys, and BYA received their responses this
+  month. Of the participants, four were in high school, and one had graduated. Following the workshop,
+  a session was organized where the young adults facilitated an open discussion about the effects of
+  marijuana and h-It youth who took the knowledge and confidence survey.
+
+  The Cannabis Knowledge surveys showed that participants averaged an overall score of 87% in
+  answering all questions correctly. Each participant reported learning new facts about refusing
+  Cannabis. Additionally, they acknowledged the importance of developing coping skills rather than
+  relying on Cannabis to handle life's challenges.
+
+  •    For the first question regarding facts about cannabis, all participants answered correctly.
+  •     In the second question about vaping, 60% of respondents answered correctly.
+  •    All participants answered correctly regarding edibles.
+  •    When asked about THC content in vaping, dabs, joints, and edibles, everyone who answered did
+       so correctly.
+  •    Regarding the active ingredients in cannabis, 80% of participants answered correctly.
+  •     All respondents correctly identified the dangers of ingesting cannabis via edibles.
+  •    Additionally, 100% answered correctly regarding the inhalation of cannabis.
+  •    For the question relating cannabis smoking to COVID, all participants answered correctly.
+  •    When asked how cannabis affects anxiety and severe mental health problems, 100% responded
+       correctly.
+  •    All participants also correctly noted that cannabis can affect reaction time, coordination, and
+       concentration.
+  •    Regarding the impact of cannabis use on learning, memory, and focus—making it more difficult to
+       succeed in school—100% answered correctly.
+  •    One participant answered correctly regarding the percentage of youth not using cannabis in a
+       recent national survey.
+  •    All respondents correctly identified that young people might use cannabis to avoid uncomfortable
+       and sometimes painful aspects of teenage life.
+  •     They also recognized the importance of learning coping skills instead of relying on cannabis to
+       cope with life’s challenges.
+  •    For the question about the consequences of being under 21 and caught in possession of cannabis,
+       80% answered correctly.
+  •    Furthermore, all participants acknowledged that a charge of "Minor in Possession (MIPS)" could
+       adversely affect their educational plans.
+  •    In the survey, two participants expressed being "slightly confident," while the rest responded
+       feeling “fairly confident" about delivering cannabis awareness presentations to middle and high
+       school students.
+
+
+
+City of Berkeley Prop 64 Final Report            April 30, 2025                                           v
+Appendix D: Additional Demographics of Youth Receiving Counseling
+
+
+                  Figure a: Gender Identity of BYA Counseling Clients (n=48)
+
+
+                                                                     Non-binary/3rd
+                                                                     Gender; 1; 2%
+                        Male; 27; 56%
+
+
+
+
+                                                                     Female; 20; 42%
+
+
+
+
+                    Figure b: Employment Status of BYA Counseling Clients
+                                          (n=48)
+
+
+
+
+               Student - not looking for                                 Employed - not looking for
+                employment, 42, 88%                                        employment, 1, 2%
+
+                                                                        Not Employed-looking for
+                                                                          employment, 4, 8%
+
+                                                                      Unknown
+                                                                  employment status,
+                                                                        1, 2%
+
+
+                       Figure c: Education Status of BYA Counseling Clients (n=48)
+
+
+
+                        Middle School/Junior                       High School, 15, 31%
+                           High, 11, 23%
+
+
+
+                                                                         Other , 3, 6%
+
+
+                                                                      Not Enrolled (High
+                                                                      School diploma or
+                            Elementary School,                           GED), 2, 4%
+                                 17, 36%
+
+
+
+City of Berkeley Prop 64 Final Report            April 30, 2025                                       vi
+                             Figure d: Gender Identity of Squash-It Clients (n=16)
+
+
+
+
+                       Male; 13; 81%
+                                                                        Female; 3; 19%
+
+
+
+
+                          Figure e: Education Status of Squash-It Clients (n=16)
+
+
+                           Other (Berkeley                          Not Enrolled (High
+                             Community                              School diploma or
+                           College), 1, 6%                            GED), 5, 31%
+
+
+
+
+                           High School, 10,
+                                 63%
+
+
+
+
+                          Figure f: Employment Status of Squash-It Clients (n=16)
+
+
+
+
+                                                                      Not Employed-looking
+                                                                     for employment, 8, 50%
+
+
+
+
+                  Student - not looking
+                   for employment, 8,
+                          50%
+
+
+
+
+City of Berkeley Prop 64 Final Report             April 30, 2025                              vii
+

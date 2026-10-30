@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-06-17-item-24-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-06-17",
+  "meeting_label": "regular",
+  "title": "Grant Allocation: Approve Healthy Berkeley Funding Recommendations for Programs to Reduce Consumption of Sugar-Sweetened Beverages (SSBs) for FY 2026 and FY 2027 Grant Cycle",
+  "file": "L1/staff-reports/bcc-2025-06-17-item-24-staff-report-text.txt",
+  "sha256": "ca6d69d5e404ff5b5732dcae97581a2264c18fffc20621f07f6bae0735ac7ae2",
+  "bytes": 35848,
+  "derived_from": {
+    "id": "bcc-2025-06-17-item-24-staff-report",
+    "sha256": "27a07b36cb6c1595941c6a9733b65c1d56fd5d892204c62bf4ba3212f86c4368"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}

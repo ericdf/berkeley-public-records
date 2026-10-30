@@ -1,0 +1,647 @@
+                              City of Berkeley Proposition 64 Public
+                              Health & Safety Grant Program – Cohort 2
+
+                              Local Evaluation Plan
+
+
+
+Authors:
+1. Sheilani Alix, MPIA
+   Program Manager, YouthWorks
+   Health, Housing and Community Services Department, City of Berkeley
+   2180 Milvia St., Berkeley, CA 94701
+   Office phone: (510) 981-4978
+   Email: salix@cityofberkeley.info
+
+2. Janice Chin, Janice Chin, MPH
+   Manager, Public Health Division
+   Health, Housing and Community Services Department, City of Berkeley
+   1947 Center Street, Berkeley, CA 94701
+   Office phone: (510) 981-5121
+   Email: jchin@cityofberkeley.info
+
+3. Liz Maker, DrPH
+   Evaluation Manager, Community Assessment, Planning and Evaluation (CAPE)
+   Alameda County Public Health Department, Health Care Services Agency
+   Office phone: (510) 267-8096
+   Email: liz.maker@acgov.org
+
+Project time period:
+May 1, 2021- April 30, 2024
+
+Funding source:
+Proposition 64 Public Health and Safety Grant Program
+State of California, Board of State and Community Corrections
+
+Date of Original Submission: August 31, 2021
+Date of Resubmission: November 10, 2021
+
+
+                                               1
+Table of Contents
+I.    Project Background                          3
+II.   Process Evaluation Method and Design       7
+III. Outcome Evaluation and Design               10
+IV. Project Logic Model                          17
+
+
+
+
+                                             2
+I.   Project Background
+
+     On January 29, 2021, the City of Berkeley responded to a Request for Proposals (RFP) for
+     the Proposition 64 Public Health and Safety Grant Program from the State of California
+     Board of State and Community Corrections (BSCC). The City of Berkeley was awarded
+     $1M over the next three years to focus on three main purpose areas: 1) Youth
+     Development and Youth Prevention and Intervention related to substance use 2) Public
+     Health and Safety and 3) Violence prevention.
+
+     (2a) Project Need
+     With the legalization of marijuana use for adults through Proposition 64, increased
+     exposure, accessibility and its impact on youth has been a growing public health
+     concern. A 2016 survey of Berkeley Unified School District youth grades 7, 9 and 11
+     reported having smoked marijuana in the last 30 days and indicated alcohol and
+     marijuana are the most commonly used substances among BUSD students. The results
+     also indicate they are more likely to report having been under the influence of alcohol
+     or drugs on school property as they progress from middle school to 11 th grade. Within
+     the larger community, the emergence of drug use and drug trafficking has become
+     highly visible, particularly in low-income communities of color in the form of “open air”
+     drug markets, drug-related crime (e.g., homicides/ manslaughter, robberies, burglaries,
+     shooting, etc.) and intimidation of local residents from reporting such activities to the
+     police. According to the City of Berkeley Annual Crime Reports, the total number of
+     violent crimes in 2018 was 590, an increase from 2014 by 28%. Additionally, with the
+     economy coming to a virtual halt due to COVID-19, the need is greater than ever to
+     reach those at-risk youth and provide intervention to deter his/her engagement in high
+     risk behavior, particularly related to substance use and gang exposure and especially
+     within communities of color where recent City of Berkeley Health Status reports have
+     shown economic disparities between white communities and communities of color.
+     Historically, the City of Berkeley has not had many (if any) resources to provide targeted
+     education, prevention or health promotion specific to marijuana use and/or its
+     cascading social effects. It is critical at this time to ensure access to services for
+     Berkeley’s youth who are vulnerable due to lack of access to opportunity and social
+     networks, poverty, and/or social and health inequities.
+
+     (2b, 2c) With funding provided by BSCC through this grant, the City of Berkeley can
+     begin to develop resources and support services for residents that fall under at least one
+     of the following target population criteria:
+
+     ●     All gender and gender-expansive youth in the City of Berkeley under age 21
+
+
+
+                                             3
+       ● Youth who reside in low income neighborhoods
+       ● Youth who are Black, Indigenous and People of Color (BIPOC)
+       ● Youth experiencing at-risk situations such as exposure to or history of substance use
+         and abuse (marijuana, alcohol), chronic absenteeism from school, dropped out from
+         school or at risk of dropping out, a history of incarceration or a history of mental
+         health challenges.
+
+       (2d) Process for determining which intervention(s) and/or services a participant needs
+       and will receive are described in Table 1.
+
+Table 1. Process for determining which interventions/services for participants
+
+ Intervention          Process for participant selection
+
+ Peer Education        Peer educators must be:
+
+                           Between the ages of 16-21
+                           Experienced at least two of the following factors: reside in low-income
+                            neighborhoods, are BIPOC and/or has used marijuana in the past
+                           Willing to commit to not using marijuana during the course of their
+                            participation
+                           Committed to completing a 6-month period of training and peer
+                            education work
+
+ Media Campaign        Presentation (and other media) participants must be City of Berkeley
+                       residents under the age of 21.
+                       Businesses receiving outreach are primarily plant-touching that handle
+                       cannabis (i.e., dispensaries) and/or ancillary with a focus on sale of
+                       accessory products and paraphernalia (e.g., glassware such as pipes and
+                       bongs, grinders, stash boxes, etc.).
+
+ Taskforce             Representatives for this task force can include, and not be limited to:
+                        ●   City of Berkeley departments
+                        ●   Law Enforcement
+                        ●   Social Services
+                        ●   Community stakeholders (e.g., faith-based organizations, schools, etc.)
+
+
+
+
+                                               4
+Intervention         Process for participant selection
+
+Wrap-Around and      Selected Non-Governmental Organization (NGO) will develop and
+Support Services     implement a needs assessment tool to identify eligible clients as well as a
+and Case             risk-need responsivity approach.
+Management
+Services             Criteria for either wrap-around and support services or case management
+                     services may include the following:
+                      ● Youth who are high school students
+                      ● Youth in South and West Berkeley who are past offenders with the risk
+                        of reoffending
+                      ● Youth experiencing at-risk situations such as: exposure to or history of
+                        substance use and abuse (marijuana, alcohol), chronic absenteeism
+                        from school, dropped out from school or at risk of dropping out, have a
+                        history of incarceration, and/or mental health challenges
+                     Contracted NGO will reassess the participant’s case management, referrals
+                     and engagement with services every 3 months.
+
+
+
+
+     (2e) Activities that will address the project need include:
+         ● Recruiting and training of youth participants (ages 16-21) to conduct peer-to-
+            peer presentations as part of a cannabis education awareness campaign. Goals
+            of the presentations are to increase youth participant knowledge about the
+            impacts of marijuana use among youth and demonstrate increased efficacy to
+            either stop the use of or prevent the future cannabis use.
+         ● Developing partnerships with cannabis businesses to educate on and support
+            the health education campaign.
+         ● Increasing number of wrap-around and/or support services for up to 60 youth
+            and families “at risk” for cannabis use and involvement in violence, each
+            program year.
+         ● Convening a community taskforce to address growing rates of gun violence in
+            the City of Berkeley. Participants will include representatives from City of
+            Berkeley departments, Social Services and community partner stakeholders.
+         ● Increasing number of services such as needs assessment, case management,
+            group services/special events on reducing violence and gang involvement for up
+            to 15 higher-risk youth.
+
+
+
+
+                                            5
+       Criteria used for program eligibility are that youth and families are residents of Berkeley
+       and fall under one of the target populations noted above.
+
+
+       (2f) Table 2 provides a description of the goals and objectives identified in the Project
+       Work Plan of the original City of Berkeley proposal.
+
+Table 2. Project Workplan Goals & Objectives
+Project Purpose Area Goals                             Objectives
+
+PPA 1: Prevention &      To decrease the rates of      By end of PY1, recruit and train up to 20
+Intervention             substance use among           youth participants to become peer educators
+                         youth in the City of          for the cannabis education awareness
+                         Berkeley                      campaign.
+
+                                                       In PY2 and 3, peer educators will conduct up
+                                                       to 10 peer led education sessions for 1,000
+                                                       total youth per year.
+
+                                                       At least 80% of youth presentation
+                                                       participants report that they learned a new
+                                                       fact about youth and cannabis use.
+
+                                                       By the end of each PY, selected NGO will
+                                                       enroll up to 60 new youth clients
+                                                       experiencing at-risk situations for supportive
+                                                       and wrap-around services.
+
+PPA 1: Prevention &      Decrease the early onset      By the end of PY 1, selected media contractor
+Intervention             of marijuana use in youth     will conduct focus groups with 15-20 youth to
+                         under the age of 21 years     determine if messaging is youth-friendly,
+                                                       understandable and culturally competent.
+
+                                                       By end of Year One 80% of youth who test
+                                                       the resulting media message will report it is a
+                                                       message that is youth friendly and culturally
+                                                       competent.
+
+                                                       By PY 2 & 3, the media campaign will reach at
+                                                       least 3,000 youth (total) in the City of
+                                                       Berkeley.
+
+
+
+
+                                                6
+ Project Purpose Area Goals                            Objectives
+
+
+                                                       By the end of PYs 2 & 3, at least 50% of
+                                                       Berkeley cannabis retailers who received
+                                                       materials and outreach will agree to display
+                                                       ads regarding under-age sales either on their
+                                                       physical location or on their websites.
+
+ PPA 2 & 3: Public        Decrease gang activity       By the end of PY 1, finalize a work plan for
+ Health & Safety          and violent crimes in        the community taskforce against violence
+ Violence Prevention      youth under the age of 21    including input from City departments, social
+                                                       services, and community stakeholders, such
+                                                       as faith-based organizations, schools, youth
+                                                       and families.
+
+                                                       In PYs 2 and 3, identify up to 15 middle and
+                                                       high school students who are past offenders
+                                                       with the risk of reoffending in South and
+                                                       West Berkeley annually for focused
+                                                       interventions and services led by the selected
+                                                       NGO partner
+
+
+
+II.      Process Evaluation Method and Design
+In partnership with contractors, the City of Berkeley will conduct process evaluation to inform
+quality improvement throughout the project, and to answer the following questions:
+      ● What activities did the program do in Area 1) Youth development and youth prevention
+        and intervention related to substance use 2) Public health and safety and 3) Violence
+        prevention. Did the interventions reach the target populations? Why or why not?
+      ● How much of the interventions did the target population receive (participation and
+        attendance)?
+      ● Were participants satisfied with the interventions? Why or why not?
+      ● What were successes, challenges and lessons learned during each year of the program?
+(3a) The evaluation will be designed and implemented by a team consisting of the City of
+Berkeley Manager of the Public Health Division, the Manager of Youthworks and the evaluation
+contractor. Contractors will be actively engaged in data collection, and will report results in bi-
+annual and annual reporting templates provided by the City of Berkeley. Each year, the
+
+
+
+
+                                                 7
+evaluation team will convene a gathering of contractors and other staff to review annual
+evaluation results and plan how to use the information to improve the program.
+(3b, 3e, 3f) Process indicators, data collection methods, reporting and timelines are outlined in
+Table 3.
+Table 3. Process Evaluation: Intervention, Indicators, Data Collection Methods, Reporting &
+Timelines
+
+ Intervention      Indicators                       Data Collection Method          Reporting & Timeline
+
+ Peer Education    Description of training          Reviewed and approved by     By 3/15/22
+                   curriculum for peer              City of Berkeley
+                   educators, including sources
+                   used
+
+                   # of peer educators trained      Information entered into a   Ongoing, reported
+                   by age, race/ethnicity and       centralized database by      quarterly, compared with
+                   census tract (marker for         contractors.                 annual benchmark of 10
+                   income)
+
+
+                   # of peer-to-peer training       Same as above
+                   sessions by: school, grade
+                   level, number of attendees
+
+
+                   % of attendees reporting         Brief attendee survey via    Same as Above,
+                   satisfaction with the training   Smartphone or e-mail         compared with
+                   session.                                                      benchmark of 80%
+                                                                                 reporting satisfaction
+
+                   Peer educator views about:       Focus group or key           By Evaluator, results
+                     How participation in          informant interviews with    shared in a brief report
+                         the program changed        at least 8 peer educators    approximately 3 months
+                         their sense of hope for                                 after qualitative data
+                         the future.                                             collection.
+                     What went well with
+                         the program, what
+                         could be changed and
+                         recommendations.
+
+
+
+
+                                                    8
+Intervention   Indicators                      Data Collection Method          Reporting & Timeline
+
+Media          Description of the media        Information entered into a   Ongoing, reported
+Campaign       campaign, including venues      centralized database by      annually
+               and target audiences            contractor.
+
+
+
+               Metrics for audiences           Metrics from each platform
+                                                                            Same as above,
+               reached                         used (such as Google
+                                                                            compared with
+                                               Analytics)
+                                                                            benchmark of 3,000
+                                                                            views
+
+Taskforce      Number and diversity of         Roster of members            Ongoing, reported
+               member organizations                                         quarterly, compared with
+                                                                            benchmark of at least 8
+                                                                            organizations.
+
+               Number of meetings held per     Sign-in Sheets               Same as above
+               year; attendance at each
+               meeting
+
+
+               Successes, challenges and       Focus group or key           By Evaluator, results
+               lessons learned from            informant interviews with    shared in a brief report
+               Taskforce development and       at least 6 taskforce         approximately 3 months
+               implementation                  members                      after qualitative data
+                                                                            collection.
+
+Wrap-Around    # of youth receiving services   Data collected by            Reported quarterly,
+and Support    by age, race/ethnicity and CT   contractors (all)            compared with
+Services and                                                                benchmarks of up to 60
+Case                                                                        youth at-risk of substance
+Management     Types of support received; #                                 use or violence receiving
+Services       of events or sessions                                        wrap-around and case
+               attended.                                                    management services
+                                                                            annually, and up to 15
+                                                                            higher-risk youth
+               Youth opinion about what                                     receiving focused
+               went well with the program,                                  intervention to by the
+               what could be changed and                                    end of Year 3.
+               recommendations.
+
+
+
+
+                                               9
+(3c, 3g, 3k) The evaluation team will design and post a centralized database for contractors to
+enter the number of activities held and number of participants each quarter. Progress towards
+annual benchmarks will be computed each quarter as a percentage of cumulative achievement
+that year. For example, contractors will enter the # of participants in peer-to-peer education
+sessions by school and grade. Quarterly progress will be added to the cumulative participation
+to date (each year) and computed as a percentage of the annual benchmark of 1,000.
+The evaluation team will provide contractors with a standard set of survey questions to
+determine participant satisfaction with peer training and peer-to-peer educational events.
+Contractors will enter results into a centralized database, and the % of participants reporting
+satisfaction will be compared with a benchmark percentage of at least 80%. When numbers are
+large enough, (generally over 10 people), satisfaction survey results will be reported by school
+or race/ethnicity.
+The evaluation lead will import the survey results into a statistical analysis program (SPSS) and
+compute the chi-square statistic to identify significant (p<.05) differences in satisfaction levels
+by race/ethnicity, school and grade. Overall satisfaction scores and significant group differences
+will be reported back to contractors on a quarterly basis to inform mid-program corrections in
+training materials or methods.
+The Evaluation Contractor will collect qualitative data through focus groups or key informant
+interviews and analyze 10 transcripts using qualitative analysis software (either NVivo 12.0 or
+Dedoose) to discern themes about program successes, challenges and lessons learned and
+recommendations.
+
+III.      Outcome Evaluation and Design
+(4a-b) The outcome evaluation will use primary data collected through surveys and secondary
+data through datasets generated by the California Healthy Kids Survey (CHKS) and the Office of
+Statewide Health Planning and Development (OSHPD). When possible, the evaluation will use
+survey tools that have demonstrated reliability and validity.
+The outcome evaluation questions are as follows:
+       ● Did the interventions have the intended short and medium-term outcomes?
+       ● Did peer educators increase their knowledge of youth and cannabis, and the confidence
+         to provide cannabis education to their peers?
+       ● Did peer educators increase their sense of hope for a successful future? What aspect of
+         their experience influenced their sense of hope (e.g. earning a living wage, mentoring
+         from caring adults)?
+       ● Did youth attending peer education increase their knowledge of youth and cannabis,
+         and their ability to refuse cannabis when offered?
+
+
+
+                                                10
+   ● Has the Taskforce formed a successful collaboration that can work together to address
+     youth violence?
+   ● Did youth receiving wrap-around and case management services receive individualized
+     development plans?
+   ● Did youth receiving wrap-around services and case management demonstrate
+     improvement in functional areas and/or individual strengths?
+   ● For youth receiving wrap-around and intensive case management services, was the
+     amount of participation (“dose”) related to outcomes generated (“response?”)
+What impact have the interventions had on Berkeley youth?
+   ● Have interventions in Areas 1 and 2 decreased youth cannabis use and abuse?
+   ● Have the interventions increased connections to the school and caring adults, as well as
+     feelings of safety at school?
+(4c-h) Table 4 provides the outcome indicators, data collection method, reporting and timeline
+for each of the intervention areas.
+
+
+
+
+                                              11
+Table 4. Outcome Evaluation: Intervention, Indicators, Data Collection Methods, Reporting &
+Timelines
+
+ Intervention         Indicators                       Data Collection Method      Reporting &
+                                                                                   Timeline
+
+ Peer Education       80% of peer educators who        Pre and post-training       Ongoing at first
+                      completed training will:         tests of knowledge and      and last training
+ (Estimated # of       Increase their knowledge       confidence                  session, reported
+ participants:           of youth and cannabis                                     bi-annually
+ -Up to 20 peer-to-
+ peer educators)       Report being “very
+                         confident” to provide
+                         cannabis education?
+
+
+                      80% of peer educators who        “Hope Scale” survey tool    Reported during
+                      have participated in the         given when peer             Years 2 and 3, as
+                      program for one or more years    educators first enter the   participants
+                      will experience an increase in   program and one year        reach their 1-
+                      hope for a successful future     later. Hope Scale will be   year mark with
+                                                       chosen in consultation      the program
+                                                       with the contractor, and
+                                                       based on a tool that has
+                                                       been found to be reliable
+                                                       and valid in similar
+                                                       populations. Examples
+                                                       include: “Hope Matters.”
+                                                       https://www.ncbi.nlm.ni
+                                                       h.gov/pmc/articles/PMC5
+                                                       626443/
+
+                      70% of youth attending a peer- Brief post-test conducted     Ongoing and
+                      to-peer training will: learn at via Smartphone or email      reported bi-
+                      least 1 new fact about          after each training          annually
+                      Cannabis and youth; identify
+                      at least 1 new reason not to
+                      use Cannabis; identify at least
+                      1 new refusal skill
+
+
+
+
+                                                12
+Intervention          Indicators                        Data Collection Method       Reporting &
+                                                                                     Timeline
+
+Media                 80% of youth reviewers will       Focus groups or              Organized by
+Campaign              report that the media             telephone interviews         contractor and
+                      campaign was                      with a subset of Berkeley    reported
+(Estimated # of
+                      comprehensible, youth-            youth ages 15 to 21          annually
+participants:
+-Up to 3,000 youth    friendly and culturally
+participating in      competent
+peer-to-peer
+presentations)
+
+Taskforce             At least 8 taskforce members                                   End of Year 2
+                      will sign an MOU committing
+(Estimated # of       to attend at least 4 meetings
+participants:         per year to develop a joint
+-At least 8
+representatives
+                      work plan to address gun
+from City             violence.
+departments,
+social services and   The Taskforce will develop a      Group scores on a            Taskforce
+other community       successful collaboration, along   reliable and valid tool to   members will fill
+stakeholder
+groups)
+                      several factors, including        assess whether the           out the
+                      communication, shared vision      taskforce has developed      assessment tool
+                      and stakeholder engagement        a successful collaboration   during Year 2 and
+                                                        (e.g. Wilder Foundation      again in Year 3
+                                                        Collaboration Factors
+                                                        Inventory
+                                                        https://wilderresearch.or
+                                                        g/tools/cfi-2018/start)
+
+
+
+
+                                                 13
+ Intervention         Indicators                      Data Collection Method      Reporting &
+                                                                                  Timeline
+
+ Wrap-Around          All 15 youth who may be         As reported by contractor Reported bi-
+ and Support          engaged in case management                                annually
+ Services             will receive an individualized
+                      plan that incorporates areas of
+ and Case             risk and strengths
+ Management
+ Services             All 60 youth who may be
+                      engaged in case management
+ (Estimated # of      will receive an individual
+ participants:        development plan within 3
+ -
+ -Up to 60 youth
+                      months (proposed) of starting
+ and their families
+ receiving case
+ management and       80% of youth receiving wrap-    Based on initial            Youth will receive
+ wrap-around          around or case management       functioning and goals set   an initial
+ service) annually.
+                      services will demonstrate       in plan. Improvement in     assessment as
+ By the end of year   improvement in at least one     functional areas and        part of their
+ 3, up to 15 past     functional area (e.g. social,   strengths measured by a     individualized
+ offenders will       recreational, school            peer-reviewed reliable      plan, and a post-
+ receive intensive    achievement) or individual      and valid tool (such as     assessment when
+ case management
+ services
+                      strength (e.g. interpersonal,   the Child and Adolescent    leaving the
+                      talents and interests, family   Needs and Strengths         program
+                      relationships).                 Assessment
+                                                      https://praedfoundation.
+                                                      org/tcom/tcom-
+                                                      tools/the-child-and-
+                                                      adolescent-needs-and-
+                                                      strengths-cans/)
+
+
+
+
+(4i) The evaluation will use a pre-post design to assess outcomes of the peer-to-peer training
+and engagement program, the wrap-around and case management services. The evaluation
+team will design a pre and post-test adapted from existing cannabis education curricula to
+assess gains in knowledge and confidence for peer educators. For the wrap-around and case
+management interventions, the contractor will be guided to use a reliable and valid tool (such
+as the Child and Adolescent Needs and Strength Assessment) to assess youth functioning and
+strengths, and to provide the evaluation team with data to develop composite scores for each
+
+
+                                                 14
+youth participant at the beginning and end of their participation. Pre and post-test score
+differences for individuals will be tested for significance using the paired t-test.
+
+Where feasible, results will be reported by race/ethnicity and by level of participation (high,
+medium or low) to determine whether “dose” of the intervention may have affected outcomes.
+Group comparisons will be tested for statistical significance using chi-square.
+
+Taskforce collaboration at two points in time will be assessed through a reliable and valid tool,
+such as the Wilder Foundation Collaboration factors inventory. Each task force member will
+complete a survey during Years 2 and 3, and scores will be combined along several factors of
+collaboration (such as communication, shared vision and stakeholder engagement) to create
+group scores on each factor. Group scores for Year 3 will be compared to those for Year 2 and
+tested for statistical significance using chi-square.
+For satisfaction and knowledge gained from attendance at a peer-to-peer education event, the
+evaluation team will work with the contractor to design a brief post-test that can be
+administered via smartphone or online. The evaluation team will explore whether a knowledge
+pre-test is feasible given the short intervention.
+
+
+Impact (End of Year 3)
+Program impact on Berkeley youth will be assessed for all interventions combined as follows:
+
+      Decreased cannabis use in the past 30 days, increased connection to schools and caring
+       adults, and safety at school will be assessed by comparing California Healthy Kids Survey
+       responses for 9th and 11th graders at baseline (2021-2022) and towards the end of the
+       program (2023-2024). If the evaluation team is able to obtain raw CHKS data from
+       WestEd, and numbers of responses are sufficient, they will use chi-square analysis to
+       look for differences in outcomes by race/ethnicity.
+      Decreased harm from cannabis use will be assessed for youth ages 15-21 from OSHPD
+       data on emergency department (ED) visits and hospitalization rates per 100,000 at
+       baseline (2021) and at the end of the program (2023). The percentage change in rates
+       between baseline and end of the program will be calculated.
+
+(4j-k) The outcomes and impact research design have notable strengths and limitations. Use of
+survey tools that have been previously tested for reliability and validity in similar populations,
+and a pre-test/post-test design when feasible strengthens the evaluation design. Close
+collaboration with contractors and periodic reporting back findings from the evaluation are
+likely to increase buy-in and participation. The outcomes research design is limited by a lack of
+control or comparison groups. It may be difficult to attribute observed changes to the
+
+
+
+                                                15
+interventions rather than outside factors. To understand the program in context, the evaluation
+team will consult with the Taskforce about other cannabis and violence-related interventions
+with youth, or change in circumstances (such as school events or a pandemic).
+While the data sources are reliable and appropriate for these impacts, there are a few
+caveats/limitations also worth noting:
+      1) California Healthy Kids Survey (CHKS): This survey is administered to 5th, 7th, 9th and
+         11th graders every other year. Additionally, Berkeley Unified School District refrained
+         from administering the survey last year (2020-2021) due to the pandemic and it is
+         uncertain at this time if it will be administered next year or during the next regularly
+         scheduled survey cycle. The combination of these factors may result in longer than usual
+         data lag considerations with this particular data source.
+      2) OSHPD data refresh typically takes approximately 9 months (e.g., 2021 data available by
+         Fall 2022). Additionally, Berkeley represents approximately 7% of the total Alameda
+         County population. As a result, the Berkeley-specific utilization data may potentially be
+         small.
+The City of Berkeley and evaluation team will monitor these data considerations as the project
+progresses.
+
+
+Overall Project Management
+(3d, 3h-k) The City of Berkeley will be issuing an RFP to select contract NGOs and a media
+consultant to complete this work1. Upon selection, contractors will be responsible for project
+management and implementation activities and, at minimum, provide monthly status update
+reports to City of Berkeley Manager of Youthworks. Additionally, contractors will meet with the
+City of Berkeley Manager of Youthworks on a regular basis (most frequently at project startup)
+and the City of Berkeley Manager of the Public Health Division (quarterly). Monthly status
+update reports will include, but not be limited to, a description and/or update on the following:
+Project activities, workflows (process and documentation), data collection and data archival
+process, data use and application, and outcome measures. Reports will be reviewed by City of
+Berkeley for overall project progress and effectiveness and adjustment recommendations and
+guidance will be provided, as needed. Additionally, the Manager of YouthWorks will plan to
+attend various project activities (e.g., peer-to-peer trainings and presentations, focus groups,
+stakeholder meetings, etc.), as needed, and to assure the project is implemented to fidelity.
+
+
+
+
+1
+    Contractor selection estimated completion by December 2021.
+
+
+
+                                                       16
+IV.   Project Logic Model
+
+
+
+
+                            17
+

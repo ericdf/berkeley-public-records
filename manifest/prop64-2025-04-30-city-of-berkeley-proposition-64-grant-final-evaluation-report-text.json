@@ -1,0 +1,21 @@
+{
+  "id": "prop64-2025-04-30-city-of-berkeley-proposition-64-grant-final-evaluation-report-text",
+  "layer": "L1",
+  "doc_type": "prop64_document_text",
+  "collection": "prop64",
+  "title": "City of Berkeley Proposition 64 Grant Final Evaluation Report",
+  "file": "L1/sources/prop64/prop64-2025-04-30-city-of-berkeley-proposition-64-grant-final-evaluation-report-text.txt",
+  "sha256": "4ffc8ae0bb64335bc9ee196dece527d5db3e428e8a6ae3609df7a6fd3310afcc",
+  "bytes": 98400,
+  "derived_from": {
+    "id": "prop64-2025-04-30-city-of-berkeley-proposition-64-grant-final-evaluation-report",
+    "sha256": "5cd99d84916091e5ff8e304b61d13f6bcf96c3f42006cc80c1c02ad2de973bfe"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}
