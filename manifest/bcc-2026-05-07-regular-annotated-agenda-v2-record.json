@@ -1,0 +1,26 @@
+{
+ "id": "bcc-2026-05-07-regular-annotated-agenda-v2-record",
+ "layer": "L2",
+ "doc_type": "annotated_agenda_record",
+ "body": "Berkeley City Council",
+ "meeting_date": "2026-05-07",
+ "meeting_label": "special",
+ "title": "Structured record: Annotated Agenda — Berkeley City Council special meeting, 2026-05-07",
+ "file": "L2/annotated-agendas/bcc-2026-05-07-regular-annotated-agenda-v2-record.json",
+ "sha256": "3c3522d91ce12f006584d28773865dc93be126b247182a1c1e47e9d401932fd0",
+ "bytes": 60011,
+ "derived_from": [
+  {
+   "id": "bcc-2026-05-07-regular-annotated-agenda-v2-text",
+   "sha256": "dcdacd99c639d9cf237abd1457f96ca22f97beb4bd1c226d1a626c3931e1a05e"
+  }
+ ],
+ "extraction": {
+  "tool": "tools/l2/annotated_agenda.py",
+  "command": "python3 tools/l2/annotated_agenda.py tools/l2/recipes/bcc-2026-05-07-regular-annotated-agenda-v2-record.json",
+  "recipe": "tools/l2/recipes/bcc-2026-05-07-regular-annotated-agenda-v2-record.json"
+ },
+ "notices": [],
+ "contributed_by": "ericdf",
+ "archived": "2026-10-30"
+}

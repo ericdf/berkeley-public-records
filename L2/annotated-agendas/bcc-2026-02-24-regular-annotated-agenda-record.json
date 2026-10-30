@@ -1,0 +1,1686 @@
+{
+ "id": "bcc-2026-02-24-regular-annotated-agenda-record",
+ "annotated_agenda": "bcc-2026-02-24-regular-annotated-agenda",
+ "text": "bcc-2026-02-24-regular-annotated-agenda-text",
+ "text_sha256": "ca0ee09e06973d543dd57c02f7204e561c7adaa840e5899d01cb90be5d7bd2df",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:03 p.m.",
+  "present": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani",
+    "time": "6:17 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Consent Calendar",
+   "heading": "Minutes for Approval",
+   "lines": [
+    95,
+    102
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "None",
+   "action": "Action: Approved the minutes as submitted.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "2",
+   "section": "Consent Calendar",
+   "heading": "Formal Bid Solicitations and Request for Proposals Scheduled for Possible Issuance After Council Approval on February 24, 2026",
+   "lines": [
+    104,
+    113
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "$200,000 - Various Funds",
+   "action": "Action: Approved recommendation.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "3",
+   "section": "Consent Calendar",
+   "heading": "Contract: California Association of Environmental Health Administrators for Stormwater Inspections",
+   "lines": [
+    115,
+    127
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5100",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,130–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "4",
+   "section": "Consent Calendar",
+   "heading": "Accept Grant Funds from the California Ocean Protection Council’s Senate Bill 1 Sea Level Rise Adaptation Planning Grant Program and contract with Association of Bay Area Governments/San Francisco Estuary Partnership",
+   "lines": [
+    135,
+    149
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,131–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "5",
+   "section": "Consent Calendar",
+   "heading": "Contracts: Future Ford of Concord, Michael Stead Hilltop Ford and Nicholas K Corporation dba The Ford Store for Service, Parts, and Related Equipment for Ford Vehicles",
+   "lines": [
+    151,
+    168
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,132–N.S. (Future Ford), Resolution No. 72,133– N.S. (Michael Stead), Resolution No. 72,134–N.S. (Nicholas K).",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "6",
+   "section": "Consent Calendar",
+   "heading": "Contract Awards: Du-All Safety LLC, Safe Business Solutions, and Safety Center, Inc. for Safety Training and Consulting Services to support the Public Works Department",
+   "lines": [
+    176,
+    199
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,135–N.S. (Du-All Safety), Resolution No. 72,136–N.S. (Safe Business), Resolution No. 72,137–N.S. (Safety Center).",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "7",
+   "section": "Consent Calendar",
+   "heading": "Contract: Northern Recycling, LLC for Hauling and Processing of Compostable Materials",
+   "lines": [
+    201,
+    211
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,138–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "8",
+   "section": "Consent Calendar",
+   "heading": "Contract: Koios Engineering, Inc. for Adeline Street, Woolsey Street, et al. Sanitary Sewer Rehabilitation Project",
+   "lines": [
+    219,
+    231
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,139–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "9",
+   "section": "Consent Calendar",
+   "heading": "Contract: Koios Engineering, Inc. for San Pablo Avenue, Sacramento Street, et al. Sanitary Sewer Rehabilitation Project",
+   "lines": [
+    233,
+    245
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,140–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "10",
+   "section": "Consent Calendar",
+   "heading": "Contract with Chargepoint, Inc. for City-Owned Electric Vehicle Charger Support Services",
+   "lines": [
+    247,
+    255
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,141–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "11",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 32500221 Amendment: Stommel Inc. dba Lehr for Hybrid Police Patrol Vehicle Supplies, Equipment, and Installation Services",
+   "lines": [
+    263,
+    273
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,142–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "12",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 32600081 Amendment: Metro Elevator for Maintenance, Repairs and Emergency Response Services for Citywide Elevators",
+   "lines": [
+    275,
+    284
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,143–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "13",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 107431-1 (10095B) Amendment: Green Halo Systems, Inc. Construction Debris Tracking",
+   "lines": [
+    286,
+    296
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,144–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "14",
+   "section": "Consent Calendar",
+   "heading": "Purchase Order: Turf Star Incorporated for one 2026 Model Toro Groundsmaster 31699 Triple Deck Sports Field Mower",
+   "lines": [
+    298,
+    306
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,145–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "15",
+   "section": "Consent Calendar",
+   "heading": "2026 Traffic Circle Vegetation Policy and Maintenance Plan",
+   "lines": [
+    314,
+    323
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "None",
+   "action": "Action: Adopted Resolution No. 72,146–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "16",
+   "section": "Council Consent Items",
+   "heading": "Waterside Workshops Community Spring Fling: Relinquishment of Council Office Budget Funds to General Fund and Grant of Such Fund",
+   "lines": [
+    327,
+    342
+   ],
+   "from": "Mayor Ishii (Author), Councilmember Taplin (Co-Sponsor)",
+   "contact": "Adena Ishii, Mayor, (510) 981-7100",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,147–N.S. revised to include contributions from the following Councilmembers up to the amounts listed: Councilmember Lunaparra - $200; Councilmember Blackaby - $200; Councilmember Tregub - $250; Councilmember Bartlett - $250; Councilmember O’Keefe - $250; Councilmember Humbert - $250.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-ishii",
+     "as_printed": "Mayor Ishii (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-taplin",
+     "as_printed": "Councilmember Taplin (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "17",
+   "section": "Council Consent Items",
+   "heading": "Relinquishment of Council Office Budget Funds to Support the Berkeley Unified School District Historical Study",
+   "lines": [
+    350,
+    367
+   ],
+   "from": "Councilmember Bartlett (Author)",
+   "contact": "Ben Bartlett, Councilmember, District 3, (510) 981-7130",
+   "financial_implications": "See report",
+   "action": "Action: Councilmembers Taplin and Tregub added as co-sponsors. Adopted Resolution No. 72,148–N.S. revised to include contributions from the following Councilmembers up to the amounts listed: Councilmember Lunaparra - $500; Councilmember Blackaby - $250; Councilmember Taplin - $500; Councilmember Tregub - $250; Councilmember O’Keefe - $250; Councilmember Humbert - $250; Mayor Ishii - $250.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-bartlett",
+     "as_printed": "Councilmember Bartlett (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [
+    {
+     "member": "off-taplin",
+     "as_printed": "Action: Councilmembers Taplin and Tregub added as co-sponsors"
+    },
+    {
+     "member": "off-tregub",
+     "as_printed": "Action: Councilmembers Taplin and Tregub added as co-sponsors"
+    }
+   ],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "18",
+   "section": "Council Consent Items",
+   "heading": "Referral to City Manager and City Attorney: Removing On-Site Manager Exemption Loophole for Certain Multi-Family Properties that are Adjacent and/or Share the Same Common Area (Reviewed by the Land Use, Housing & Economic Development Committee)",
+   "lines": [
+    375,
+    410
+   ],
+   "from": "Councilmember Tregub (Author), Councilmember Bartlett (Co-Sponsor), Councilmember Taplin (Co-Sponsor)",
+   "contact": "Igor Tregub, Councilmember, District 4, (510) 981-7140",
+   "financial_implications": "See report",
+   "action": "Action: Approved recommendation as recommended by the Land Use, Housing & Economic Development Committee with revised material in Supplemental Communications Packet #2 to remove the 4x4 Committee from the recommendation.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-tregub",
+     "as_printed": "Councilmember Tregub (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-bartlett",
+     "as_printed": "Councilmember Bartlett (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    },
+    {
+     "member": "off-taplin",
+     "as_printed": "Councilmember Taplin (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 3
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "19",
+   "section": "Council Consent Items",
+   "heading": "Resolution Urging Minnesota Governor Tim Walz to Enact an Eviction Moratorium to Prevent Displacement During the Ongoing ICE/CBP Terror Campaign",
+   "lines": [
+    418,
+    429
+   ],
+   "from": "Councilmember Lunaparra (Author), Councilmember Tregub (Co- Sponsor), Councilmember Blackaby (Co-Sponsor), Councilmember Bartlett (Co-Sponsor)",
+   "contact": "Cecilia Lunaparra, Councilmember, District 7, (510) 981-7170",
+   "financial_implications": "None",
+   "action": "Action: Adopted Resolution No. 72,149–N.S.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-lunaparra",
+     "as_printed": "Councilmember Lunaparra (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-tregub",
+     "as_printed": "Councilmember Tregub (Co- Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    },
+    {
+     "member": "off-blackaby",
+     "as_printed": "Councilmember Blackaby (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 3
+    },
+    {
+     "member": "off-bartlett",
+     "as_printed": "Councilmember Bartlett (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 4
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "20",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Amendments to Title 21 (Subdivisions Ordinance) and Title 23 (Zoning Ordinance) to implement Senate Bill (SB) 684",
+   "lines": [
+    433,
+    458
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Tregub/Humbert) to accept revised materials from the City Manager. Vote: All Ayes. Public Testimony: The Mayor opened the public hearing. 3 speakers. M/S/C (Tregub/Humbert) to close the public hearing. Vote: All Ayes. Action: M/S/C (Kesarwani/Humbert) to adopt the first reading of Ordinance No. 8,002–N.S. as amended in the revised materials from staff relating to “Protected Units” and further amended to set the minimum lot size for vacant single-family lots at 600 square feet and the minimum useable open space at 150 square feet. Second reading scheduled for March 10, 2026. Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – O’Keefe.",
+   "speakers": 3,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "accept revised materials from the City Manager.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 2,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt the first reading of Ordinance No. 8,002–N.S. as amended in the revised materials from staff relating to “Protected Units” and further amended to set the minimum lot size for vacant single-family lots at 600 square feet and the minimum useable open space at 150 square feet. Second reading scheduled for March 10, 2026.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       }
+      ],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – O’Keefe."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "21",
+   "section": "Council Action Items",
+   "heading": "City of Berkeley’s 2026 State and Federal Legislative Platform",
+   "lines": [
+    467,
+    473
+   ],
+   "from": "Mayor Ishii (Author)",
+   "contact": "Adena Ishii, Mayor, (510) 981-7100",
+   "financial_implications": "See report",
+   "action": "Action: 1 speaker. Item continued to March 10, 2026.",
+   "speakers": 1,
+   "attribution": [
+    {
+     "member": "off-ishii",
+     "as_printed": "Mayor Ishii (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "22",
+   "section": "Information Reports",
+   "heading": "FY 2025 Fourth Quarter Investment Report: Ended June 30, 2025",
+   "lines": [
+    477,
+    480
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "23",
+   "section": "Information Reports",
+   "heading": "FY 2026 First Quarter Investment Report: Ended September 30, 2025",
+   "lines": [
+    482,
+    485
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "24",
+   "section": "Information Reports",
+   "heading": "Restaurant Inspection Audit Status Report",
+   "lines": [
+    487,
+    490
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5100",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "25",
+   "section": "Information Reports",
+   "heading": "A Guide to Measuring Performance in the City of Berkeley",
+   "lines": [
+    492,
+    496
+   ],
+   "from": "Auditor",
+   "contact": "Jenny Wong, Auditor, (510) 981-6750",
+   "financial_implications": null,
+   "action": "Action: Moved to Action Calendar. Presentation made and discussion held. 2 speakers.",
+   "speakers": 2,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "26",
+   "section": "Information Reports",
+   "heading": "Safe Streets Citizen Oversight Committee (SSCOC) Workplan for FY25-26",
+   "lines": [
+    498,
+    501
+   ],
+   "from": "Safe Streets Citizen Oversight Committee",
+   "contact": "Amanda Montez, Commission Secretary, (510) 981-6300",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #21: City of Berkeley’s 2026 State and Federal Legislative Platform",
+   "line": 516,
+   "entries": [
+    {
+     "as_printed": "Ariella Granett",
+     "line": 517,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "21"
+   ]
+  },
+  {
+   "section": "Communications",
+   "heading": "Partial Paving",
+   "line": 519,
+   "entries": [
+    {
+     "as_printed": "David Lerman",
+     "line": 520,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Daylighting Concerns",
+   "line": 522,
+   "entries": [
+    {
+     "as_printed": "Shirley Kirsten (4)",
+     "line": 523,
+     "count": 4,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Transportation",
+     "line": 524,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Upzoning",
+   "line": 526,
+   "entries": [
+    {
+     "as_printed": "Bruce Wicinas",
+     "line": 527,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anne Boersma",
+     "line": 528,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barbara Thompson (2)",
+     "line": 529,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Isaac Warshauer",
+     "line": 530,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Peter Allen",
+     "line": 531,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Emilie Strauss",
+     "line": 532,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Filing Assistance",
+   "line": 534,
+   "entries": [
+    {
+     "as_printed": "Jonny Ruel Holder II",
+     "line": 535,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Superbowl Conversations",
+   "line": 537,
+   "entries": [
+    {
+     "as_printed": "Blair Bleekman",
+     "line": 538,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Speed Bump Request",
+   "line": 540,
+   "entries": [
+    {
+     "as_printed": "Nadine Takvorian",
+     "line": 541,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jodi Lomask",
+     "line": 542,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Parking Permits",
+   "line": 544,
+   "entries": [
+    {
+     "as_printed": "Victor Ichioka",
+     "line": 545,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Downtown Population Concern",
+   "line": 547,
+   "entries": [
+    {
+     "as_printed": "Lisa Titus",
+     "line": 548,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Petition",
+   "line": 550,
+   "entries": [
+    {
+     "as_printed": "Parsa Shabani",
+     "line": 551,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Flock Cameras",
+   "line": 553,
+   "entries": [
+    {
+     "as_printed": "Kelly Burkett",
+     "line": 554,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Becky Leyser",
+     "line": 555,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Burkett",
+     "line": 556,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cati Johnson",
+     "line": 557,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Margot Smith",
+     "line": 558,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Police Accountability",
+   "line": 564,
+   "entries": [
+    {
+     "as_printed": "Phoebe Thomas",
+     "line": 565,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dirk Neyhart",
+     "line": 566,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan Moon",
+     "line": 567,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rose Berryessa",
+     "line": 568,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Josh Cayetano",
+     "line": 569,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sheila Goldmacher",
+     "line": 570,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Tear Gas Concerns",
+   "line": 572,
+   "entries": [
+    {
+     "as_printed": "Barryett Enge",
+     "line": 573,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anna de Leon",
+     "line": 574,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Aya de Leon",
+     "line": 575,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barb Scheifler",
+     "line": 576,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cati Johnson",
+     "line": 577,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Deborah Cohan",
+     "line": 578,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rainbow Rubin",
+     "line": 579,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Riti Dhesi",
+     "line": 580,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janice Schroeder",
+     "line": 581,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anne-Lise Francois",
+     "line": 582,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sasha Futran",
+     "line": 583,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "George Perezvelez",
+     "line": 584,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Melanie and John",
+     "line": 585,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Maria Yates (2)",
+     "line": 586,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Jane Welford",
+     "line": 587,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jean Day",
+     "line": 588,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Annie Alcott",
+     "line": 589,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gabby Le",
+     "line": 590,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Scott Sacherer",
+     "line": 591,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jacqui VanLiew",
+     "line": 592,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Teague",
+     "line": 593,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Whitney Sparks",
+     "line": 594,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anne Lenon",
+     "line": 595,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jason Martens",
+     "line": 596,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Diana Bohn",
+     "line": 597,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Aryn Faur",
+     "line": 598,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Maris Arnold",
+     "line": 599,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Adequate Slide Projection",
+   "line": 601,
+   "entries": [
+    {
+     "as_printed": "Steven Alpert",
+     "line": 602,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "McGee and Carleton",
+   "line": 604,
+   "entries": [
+    {
+     "as_printed": "Michelle Baird Official Recognition Request",
+     "line": 605,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Deborah Matthews",
+     "line": 607,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Berkeley Whole Foods Meeting",
+   "line": 609,
+   "entries": [
+    {
+     "as_printed": "Arezou Bakhtjou",
+     "line": 614,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Accommodation Request",
+   "line": 616,
+   "entries": [
+    {
+     "as_printed": "Jonny Ruel Holder II",
+     "line": 617,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Ashby and San Pablo",
+   "line": 619,
+   "entries": [
+    {
+     "as_printed": "Kathryn Ruiz",
+     "line": 620,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Measure W",
+   "line": 622,
+   "entries": [
+    {
+     "as_printed": "Tasha Tervalon on behalf of the Peace and Justice Commission",
+     "line": 623,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Berkeley Housing Concern",
+   "line": 625,
+   "entries": [
+    {
+     "as_printed": "Margot Smith",
+     "line": 626,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Proposed Ferry Dock",
+   "line": 628,
+   "entries": [
+    {
+     "as_printed": "Gordon Stout (2)",
+     "line": 629,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Lindsay Martien",
+     "line": 630,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "YIMBY",
+   "line": 632,
+   "entries": [
+    {
+     "as_printed": "Margots999",
+     "line": 633,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Cannabis Policy Scorecard",
+   "line": 635,
+   "entries": [
+    {
+     "as_printed": "Getting it Right from the Start",
+     "line": 636,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Response Follow-Up",
+   "line": 638,
+   "entries": [
+    {
+     "as_printed": "Stephen Alpert (4)",
+     "line": 639,
+     "count": 4,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Kala Bagai Way",
+   "line": 641,
+   "entries": [
+    {
+     "as_printed": "Mandeep Kaur (2)",
+     "line": 642,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Berkeley Carer Bridge",
+   "line": 644,
+   "entries": [
+    {
+     "as_printed": "Adrienne McInnis",
+     "line": 645,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Anna Head Site",
+   "line": 647,
+   "entries": [
+    {
+     "as_printed": "Wendy Hillis",
+     "line": 648,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Sidewalk and Street Repairs",
+   "line": 650,
+   "entries": [
+    {
+     "as_printed": "Darlene Percoats (2)",
+     "line": 651,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Language Access Service",
+   "line": 653,
+   "entries": [
+    {
+     "as_printed": "Ntsikelelo Bonga",
+     "line": 654,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "ICE Concern",
+   "line": 656,
+   "entries": [
+    {
+     "as_printed": "Jane Fink",
+     "line": 657,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Housing Concerns",
+   "line": 659,
+   "entries": [
+    {
+     "as_printed": "Jonny Ruel Holder II (2)",
+     "line": 664,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Hector91 Phuentes (17)",
+     "line": 665,
+     "count": 17,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Frank Darling",
+     "line": 666,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Housing Complaint Form",
+   "line": 668,
+   "entries": [
+    {
+     "as_printed": "David Glasser (2)",
+     "line": 669,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Rebecca (2)",
+     "line": 670,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Visit to the Netherlands",
+   "line": 672,
+   "entries": [
+    {
+     "as_printed": "Paul Hoekstra (2)",
+     "line": 673,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Community Programs",
+   "line": 675,
+   "entries": [
+    {
+     "as_printed": "Elizabeth",
+     "line": 676,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Elementary Reading Program",
+   "line": 678,
+   "entries": [
+    {
+     "as_printed": "Mindy Stein",
+     "line": 679,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "E-Scooters",
+   "line": 681,
+   "entries": [
+    {
+     "as_printed": "Robert Borghese (2)",
+     "line": 682,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Carson Lepre",
+     "line": 683,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Newsletters",
+   "line": 685,
+   "entries": [
+    {
+     "as_printed": "Downtown Berkeley Association",
+     "line": 686,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeffrey Church",
+     "line": 687,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Visit Berkeley",
+     "line": 688,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Berkeley Chamber of Commerce",
+     "line": 689,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Forwards",
+   "line": 691,
+   "entries": [
+    {
+     "as_printed": "Russbumper (2)",
+     "line": 692,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "URLs",
+   "line": 694,
+   "entries": [
+    {
+     "as_printed": "Russbumper",
+     "line": 695,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Acton Courtyard Tenants Union",
+   "line": 697,
+   "entries": [
+    {
+     "as_printed": "Yasmin Jenkins (3)",
+     "line": 698,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #20: Amendments to Title 21 (Subdivisions Ordinance) and Title 23 (Zoning Ordinance) to implement Senate Bill (SB) 684",
+   "line": 701,
+   "entries": [
+    {
+     "as_printed": "Ross Graham",
+     "line": 703,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "20"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #18: Referral to City Manager and City Attorney: Removing On-Site Manager Exemption Loophole for Certain Multi-Family Properties that are Adjacent and/or Share the Same Common Area",
+   "line": 706,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by Councilmember Igor Tregub",
+     "line": 709,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "18"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #21: City of Berkeley’s 2026 State and Federal Legislative Platform",
+   "line": 713,
+   "entries": [
+    {
+     "as_printed": "Snow Zhu on behalf of the Housing Advisory Commission",
+     "line": 714,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "21"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #20: Amendments to Title 21 (Subdivisions Ordinance) and Title 23 (Zoning Ordinance) to implement Senate Bill (SB) 684",
+   "line": 717,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by the Planning and Development Department",
+     "line": 719,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Presentation submitted by the Planning and Development Department",
+     "line": 721,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "20"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #25: A Guide to Measuring Performance in the City of Berkeley",
+   "line": 722,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the City Auditor",
+     "line": 723,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "25"
+   ]
+  }
+ ]
+}

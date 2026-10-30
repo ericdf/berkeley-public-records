@@ -1,0 +1,80 @@
+{
+ "id": "bcc-2024-12-10-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2024-12-10-special-annotated-agenda",
+ "text": "bcc-2024-12-10-special-annotated-agenda-text",
+ "text_sha256": "dba4f74ff2ba65c378ce5d29bd802565362028368f691e504ab382a62af416ed",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "5:39 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": null,
+    "as_printed": "None Consent Calendar Public Comment on Consent Calendar"
+   },
+   {
+    "member": null,
+    "as_printed": "Information Items Only: 1 speaker"
+   }
+  ],
+  "arrived_late": []
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Consent Calendar",
+   "heading": "Confirming the Results of the November 5, 2024, General Municipal Election",
+   "lines": [
+    65,
+    114
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "See report",
+   "action": "Action: Adopted: 1. Resolution No. 71,609–N.S. (Confirm Results). 2. Adopted Ordinance No. 7,946-N.S. (Measure W – Real Property Transfer Tax Amendments), Ordinance No. 7,947-N.S. (Measure X – Library Relief Act of 2024), Ordinance No. 7,948-N.S. (Measure Y – Parks, Trees, and Landscaping Maintenance Tax Amendments), Ordinance No. 7,949-N.S. (Measure Z – Sugar Sweetened Beverage Tax Amendments), Ordinance No. 7,950-N.S. (Measure BB – Rent Stabilization Ordinance Amendments and Housing Retention), Ordinance No. 7,951-N.S. (Measure DD – Prohibition on Concentrated Animal Feeding Operations), and Ordinance No. 7,952-N.S. (Measure FF – Ordinance to Establish a Parcel Tax for the Purpose of Funding Repairs and Improvements to Streets, Sidewalks, and Pedestrian Paths). 3. Resolution No. 71,610–N.S. (Measure AA – Article XIIIB GANN Appropriations Limit Authority).",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": []
+}

@@ -1,0 +1,1837 @@
+{
+ "id": "bcc-2026-07-14-regular-annotated-agenda-record",
+ "annotated_agenda": "bcc-2026-07-14-regular-annotated-agenda",
+ "text": "bcc-2026-07-14-regular-annotated-agenda-text",
+ "text_sha256": "8fe774c3b08c84b8b6fe84b84ad39a60780732dd2ffb22d5a7c437dc49193636",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:11 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [],
+  "arrived_late": []
+ },
+ "items": [
+  {
+   "item": "A",
+   "section": "Consent Calendar – Continued Business",
+   "heading": "FY 2027 Annual Appropriations Ordinance (Continued from July 7, 2026)",
+   "lines": [
+    107,
+    115
+   ],
+   "from": "City Manager",
+   "contact": "Maricar Dupaya, Budget Manager, (510) 981-7000",
+   "financial_implications": "See report",
+   "action": "Action: Adopted second reading of Ordinance No. 8,029–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": {
+    "all_ayes": true,
+    "ayes": [],
+    "noes": [],
+    "abstain": [],
+    "absent": [],
+    "recused": [],
+    "as_printed": "First Reading Vote: All Ayes."
+   }
+  },
+  {
+   "item": "1",
+   "section": "Consent Calendar",
+   "heading": "2027 Tax Rate: Transportation Network Company User Tax",
+   "lines": [
+    118,
+    130
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted second reading of Ordinance No. 8,030–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": {
+    "all_ayes": false,
+    "ayes": [
+     {
+      "member": "off-kesarwani",
+      "as_printed": "Kesarwani"
+     },
+     {
+      "member": "off-taplin",
+      "as_printed": "Taplin"
+     },
+     {
+      "member": "off-tregub",
+      "as_printed": "Tregub"
+     },
+     {
+      "member": "off-okeefe",
+      "as_printed": "O’Keefe"
+     },
+     {
+      "member": "off-blackaby",
+      "as_printed": "Blackaby"
+     },
+     {
+      "member": "off-lunaparra",
+      "as_printed": "Lunaparra"
+     },
+     {
+      "member": "off-humbert",
+      "as_printed": "Humbert"
+     },
+     {
+      "member": "off-ishii",
+      "as_printed": "Ishii"
+     }
+    ],
+    "noes": [],
+    "abstain": [],
+    "absent": [
+     {
+      "member": "off-bartlett",
+      "as_printed": "Bartlett"
+     }
+    ],
+    "recused": [],
+    "as_printed": "First Reading Vote: Ayes – Kesarwani, Taplin, Tregub, O’Keefe, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – Bartlett."
+   }
+  },
+  {
+   "item": "2",
+   "section": "Consent Calendar",
+   "heading": "Initiative Petition – Ordinance Creating a Parcel Tax to Fund Arts Institutions and Programs",
+   "lines": [
+    138,
+    151
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "No direct fiscal impacts",
+   "action": "Action: Adopted Resolution No. 72,379–N.S. submitting the measure, without alteration, to a vote of the people at the November 3, 2026 General Municipal Election.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "3",
+   "section": "Consent Calendar",
+   "heading": "Initiative Petition – Ordinance Creating a Parcel Tax to Fund a Public Bank",
+   "lines": [
+    153,
+    165
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "No direct fiscal impacts",
+   "action": "Action: Adopted Resolution No. 72,380–N.S. submitting the measure, without alteration, to a vote of the people at the November 3, 2026 General Municipal Election.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "4",
+   "section": "Consent Calendar",
+   "heading": "Initiative Petition – Ordinance Replacing the City’s $0.01/oz General Tax on Sugar Sweetened Beverages With a $0.02/oz Special Tax to Fund Public Health, Nutrition and Water Access",
+   "lines": [
+    167,
+    181
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "No direct fiscal impacts",
+   "action": "Action: Adopted Resolution No. 72,381–N.S. submitting the measure, without alteration, to a vote of the people at the November 3, 2026 General Municipal Election.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "5",
+   "section": "Consent Calendar",
+   "heading": "Police Accountability Board – Appointment of Alternate Member",
+   "lines": [
+    188,
+    194
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,382–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "6",
+   "section": "Consent Calendar",
+   "heading": "Police Accountability Board – Appointment of New Member",
+   "lines": [
+    196,
+    202
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,383–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "7",
+   "section": "Consent Calendar",
+   "heading": "Appointment of Director of Public Works",
+   "lines": [
+    204,
+    211
+   ],
+   "from": "City Manager",
+   "contact": "David White, City Manager's Office, (510) 981-7000",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,384–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "8",
+   "section": "Consent Calendar",
+   "heading": "2026 Capacity Building Request for Proposals Funding Recommendations",
+   "lines": [
+    213,
+    222
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5100",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,385–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "9",
+   "section": "Consent Calendar",
+   "heading": "Accept Future of Public Health Funds from the State of California – Fiscal Year 2027 through Fiscal Year 2029",
+   "lines": [
+    224,
+    234
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5100",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,386–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "10",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 32400161 Amendment: Building Opportunities for Self-Sufficiency for Representative Payee Services",
+   "lines": [
+    240,
+    249
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5100",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,387–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "11",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 32600032 Amendment: Building Opportunities for Self-Sufficiency (BOSS) for Public Facilities Improvements Program",
+   "lines": [
+    251,
+    261
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5100",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,388–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "12",
+   "section": "Consent Calendar",
+   "heading": "Approval and Levy of 2018 Clean Stormwater Fee in FY 2027",
+   "lines": [
+    263,
+    269
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,389–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "13",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 32300214 Amendment: Belfor USA Group for On-Call Emergency Restoration, Mitigation and Remediation Services",
+   "lines": [
+    271,
+    281
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,390–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "14",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 32600081 Amendment: Metro Elevator for Maintenance, Repairs and Emergency Response Services for Citywide Elevators",
+   "lines": [
+    288,
+    297
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,391–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "15",
+   "section": "Consent Calendar",
+   "heading": "Contract: Daupler, Inc. for After-Hours Answering Services",
+   "lines": [
+    299,
+    307
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,392–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "16",
+   "section": "Consent Calendar",
+   "heading": "Purchase Order: National Auto Fleet Group for Chevrolet Silverado Electric Trucks",
+   "lines": [
+    309,
+    317
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,393–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "17",
+   "section": "Consent Calendar",
+   "heading": "Purchase Order: Turf Star, Inc. for GO-4 Parking Enforcement Vehicles",
+   "lines": [
+    319,
+    326
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,394–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "18",
+   "section": "Council Consent Items",
+   "heading": "Bertha Brown Community Memorial Gathering and Hunger Program Recognition – Relinquishment of Council Office Budget Funds to General Fund and Grant of Such Funds",
+   "lines": [
+    333,
+    350
+   ],
+   "from": "Councilmember Bartlett (Author)",
+   "contact": "Ben Bartlett, Councilmember, District 3, (510) 981-7130",
+   "financial_implications": "None",
+   "action": "Action: Adopted Resolution No. 72,395–N.S. amended to include contributions from the following Councilmembers up to the amounts listed: Councilmember Lunaparra - $200; Councilmember Taplin - $150; Councilmember Tregub - $150; Councilmember Kesarwani - $100; Councilmember O’Keefe - $250; Councilmember Humbert - $150; Councilmember Blackaby - $250; Mayor Ishii - $100.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-bartlett",
+     "as_printed": "Councilmember Bartlett (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "19",
+   "section": "Council Consent Items",
+   "heading": "Adopt a Position of Opposition to ACA 22, the California Two-Thirds Vote Requirement for Special Taxes",
+   "lines": [
+    352,
+    362
+   ],
+   "from": "Councilmember Tregub (Author)",
+   "contact": "Igor Tregub, Councilmember, District 4, (510) 981-7140",
+   "financial_implications": "See report",
+   "action": "Action: Approved recommendation.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-tregub",
+     "as_printed": "Councilmember Tregub (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "20",
+   "section": "Council Consent Items",
+   "heading": "Relinquishment of Council Office Budget Funds from General Funds and Grant of Such Funds to Support of the Raising the Next Generation of Student Advocates (RISE) Program",
+   "lines": [
+    369,
+    386
+   ],
+   "from": "Councilmember Tregub (Author)",
+   "contact": "Igor Tregub, Councilmember, District 4, (510) 981-7140",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,396–N.S. as added by the supplemental material submitted at the meeting by Councilmember Tregub and further amended to include contributions from the following Councilmembers up to the amounts listed: Councilmember Lunaparra - $200; Councilmember Bartlett - $250; Councilmember Taplin - $150; Councilmember Kesarwani - $100; Councilmember O’Keefe - $250; Councilmember Humbert - $100; Councilmember Blackaby - $250.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-tregub",
+     "as_printed": "Councilmember Tregub (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "21",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Lease Agreement: International Child Resource Institute (ICRI) for 125-127 University Avenue Office Space",
+   "lines": [
+    389,
+    406
+   ],
+   "from": "City Manager",
+   "contact": "Scott Ferris, Parks, Recreation and Waterfront, (510) 981-6700",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Humbert/Blackaby) to adopt the first reading of Ordinance No. 8,031–N.S. Second reading scheduled for July 28, 2026. Vote: All Ayes.",
+   "speakers": 0,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt the first reading of Ordinance No. 8,031–N.S. Second reading scheduled for July 28, 2026.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "22",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Levy and Collection of Fiscal Year 2027 Street Lighting Assessments",
+   "lines": [
+    413,
+    429
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Blackaby/Humbert) to adopt Resolution No. 72,397–N.S. (District No. 1982-1), and Resolution No. 72,398–N.S. (District 2018). Vote: All Ayes.",
+   "speakers": 2,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 72,397–N.S. (District No. 1982-1), and Resolution No. 72,398–N.S. (District 2018).",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "23a",
+   "section": "Council Action Items",
+   "heading": "Resolution Rescinding Resolution No. 51,408-N.S. Restricting the Use of Air Support and Canine Units And Updating Mutual Aid Policies (Reviewed by the Public Safety Policy Committee)",
+   "lines": [
+    432,
+    508
+   ],
+   "from": "Councilmember Kesarwani (Author)",
+   "contact": "Rashi Kesarwani, Councilmember, District 1, (510) 981-7110",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Kesarwani/Humbert) to suspend the rules and extend the meeting to 11:15 p.m. Vote: All Ayes. Council Action Items Action: 58 speakers. M/S/C (Humbert/Kesarwani) to adopt Resolution No. 72,399– N.S. as submitted in the item by Councilmember Kesarwani and amended by Mayor Ishii and Councilmember Blackaby with the following wording changes shown in underline. 2. The Berkeley Police Department may request and deploy canine teams from external law enforcement agencies only as follows: a. Authorized deployments involving suspect apprehension. Canine teams may be deployed to locate or apprehend a suspect when any of the following is true: i. The suspect is wanted for a violent felony; or ii. There is a reasonable belief that the suspect possesses a deadly weapon likely to cause serious bodily injury; or iii. The suspect is wanted in connection with a residential burglary in progress; or iv. The deployment supports service of a warrant on a subject who is wanted for a violent felony, has a documented history of violent offenses, has a documented history involving firearms, or has a documented history of felony evasion or physical assault against law enforcement. b. Authorized deployments not involving suspect apprehension. Canine teams may be deployed to locate crime scenes or physical evidence, to locate missing persons, or to detect explosives. c. Categorical prohibitions. Canine teams shall not be deployed in connection with: infractions; misdemeanor offenses not involving a deadly weapon likely to cause serious bodily injury; flight from an officer absent an independent justification under this section; thefts that escalate to robbery solely from a suspect’s resistance to the victim’s effort to stop the theft, absent use of a deadly weapon or actions causing great bodily injury; stolen vehicle incidents involving a named suspect or that are civil in nature; homeless encampment abatements; or crowd control. On the severed portion in part 3 of the Resolved clause regarding helicopters and the associated references to helicopters throughout the resolution. Vote: Ayes – Kesarwani, Taplin, Bartlett, O’Keefe, Blackaby, Humbert, Ishii; Noes - Lunaparra; Abstain - Tregub. On the severed portion in part 2 of the Resolved clause regarding canine deployment and the associated references to canine deployment throughout the resolution. Vote: Ayes – Kesarwani, Taplin, O’Keefe, Blackaby, Humbert; Noes – Bartlett, Tregub, Lunaparra, Ishii.",
+   "speakers": 58,
+   "attribution": [
+    {
+     "member": "off-kesarwani",
+     "as_printed": "Councilmember Kesarwani (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "suspend the rules and extend the meeting to 11:15 p.m.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "adopt Resolution No. 72,399– N.S. as submitted in the item by Councilmember Kesarwani and amended by Mayor Ishii and Councilmember Blackaby with the following wording changes shown in underline. 2. The Berkeley Police Department may request and deploy canine teams from external law enforcement agencies only as follows: a. Authorized deployments involving suspect apprehension. Canine teams may be deployed to locate or apprehend a suspect when any of the following is true: i. The suspect is wanted for a violent felony; or ii. There is a reasonable belief that the suspect possesses a deadly weapon likely to cause serious bodily injury; or iii. The suspect is wanted in connection with a residential burglary in progress; or iv. The deployment supports service of a warrant on a subject who is wanted for a violent felony, has a documented history of violent offenses, has a documented history involving firearms, or has a documented history of felony evasion or physical assault against law enforcement. b. Authorized deployments not involving suspect apprehension. Canine teams may be deployed to locate crime scenes or physical evidence, to locate missing persons, or to detect explosives. c. Categorical prohibitions. Canine teams shall not be deployed in connection with: infractions; misdemeanor offenses not involving a deadly weapon likely to cause serious bodily injury; flight from an officer absent an independent justification under this section; thefts that escalate to robbery solely from a suspect’s resistance to the victim’s effort to stop the theft, absent use of a deadly weapon or actions causing great bodily injury; stolen vehicle incidents involving a named suspect or that are civil in nature; homeless encampment abatements; or crowd control.",
+     "vote_label": null,
+     "vote": null
+    },
+    {
+     "seq": 2,
+     "kind": "main",
+     "movers": null,
+     "disposition": "unknown",
+     "severed": true,
+     "final": false,
+     "text": "On the severed portion in part 3 of the Resolved clause regarding helicopters and the associated references to helicopters throughout the resolution.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       }
+      ],
+      "abstain": [
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       }
+      ],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, O’Keefe, Blackaby, Humbert, Ishii; Noes - Lunaparra; Abstain - Tregub."
+     }
+    },
+    {
+     "seq": 3,
+     "kind": "main",
+     "movers": null,
+     "disposition": "unknown",
+     "severed": true,
+     "final": true,
+     "text": "On the severed portion in part 2 of the Resolved clause regarding canine deployment and the associated references to canine deployment throughout the resolution.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, O’Keefe, Blackaby, Humbert; Noes – Bartlett, Tregub, Lunaparra, Ishii."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "23b",
+   "section": "Council Action Items",
+   "heading": "Social Justice Implications of Proposed Use of Controlled Weapons and Other Policing Tools (Continued from April 21, 2026)",
+   "lines": [
+    516,
+    531
+   ],
+   "from": "Peace and Justice Commission",
+   "contact": "Tasha Tervalon, Commission Secretary, (510) 981-7000",
+   "financial_implications": "None",
+   "action": "Action: M/S/C (Kesarwani/Humbert) to take no action on Item 23b. Vote: All Ayes.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "take no action on Item 23b.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "24a",
+   "section": "Council Action Items",
+   "heading": "Resolution Reinstating the Berkeley Police Department’s Ability to Use Tear Gas for Critical Life-Threatening Incidents Only and Lifting the COVID-19 Moratorium on Smoke and Oleoresin Capsicum (OC) Spray (Reviewed by the Public Safety Policy Committee)",
+   "lines": [
+    538,
+    572
+   ],
+   "from": "Councilmember Kesarwani (Author)",
+   "contact": "Rashi Kesarwani, Councilmember, District 1, (510) 981-7110",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Kesarwani/Humbert) to schedule Item 24a and 24b for September 15, 2026, including supplemental materials from Councilmember Blackaby and the Police Accountability Board. Vote: Ayes – Kesarwani, Taplin, Bartlett, O’Keefe, Blackaby, Lunaparra, Humbert; Noes – Tregub, Ishii. Action: M/S/C (Lunaparra/Ishii) to reconsider the previous vote. Vote: Ayes – Bartlett, Tregub, O’Keefe, Blackaby, Lunaparra, Ishii; Noes – Kesarwani, Taplin, Humbert. Action: M/S/C (Kesarwani/Humbert) to schedule Item 24a and 24b for September 15, 2026, including supplemental materials from Councilmember Blackaby and the Police Accountability Board. Vote: Ayes – Kesarwani, Taplin, O’Keefe, Blackaby, Humbert; Noes – Bartlett, Tregub, Lunaparra, Ishii.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-kesarwani",
+     "as_printed": "Councilmember Kesarwani (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "schedule Item 24a and 24b for September 15, 2026, including supplemental materials from Councilmember Blackaby and the Police Accountability Board.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, O’Keefe, Blackaby, Lunaparra, Humbert; Noes – Tregub, Ishii."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      },
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "reconsider the previous vote.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Bartlett, Tregub, O’Keefe, Blackaby, Lunaparra, Ishii; Noes – Kesarwani, Taplin, Humbert."
+     }
+    },
+    {
+     "seq": 2,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "schedule Item 24a and 24b for September 15, 2026, including supplemental materials from Councilmember Blackaby and the Police Accountability Board.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, O’Keefe, Blackaby, Humbert; Noes – Bartlett, Tregub, Lunaparra, Ishii."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "24b",
+   "section": "Council Action Items",
+   "heading": "Social Justice Implications of Proposed Use of Controlled Weapons and Other Policing Tools (Continued from April 21, 2026)",
+   "lines": [
+    580,
+    594
+   ],
+   "from": "Peace and Justice Commission",
+   "contact": "Tasha Tervalon, Commission Secretary, (510) 981-7000",
+   "financial_implications": "None",
+   "action": "Action: See action for Item 24a.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "25",
+   "section": "Information Reports",
+   "heading": "Grant Applications: Alameda County Transportation Commission Capital Investment Program 2028/Metropolitan Transportation Commission One Bay Area Grant Program Cycle 4",
+   "lines": [
+    597,
+    602
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "26",
+   "section": "Information Reports",
+   "heading": "Zero Waste Commission Fiscal Year 2026-27 Work Plan",
+   "lines": [
+    604,
+    607
+   ],
+   "from": "Zero Waste Commission",
+   "contact": "Julia Heath, Commission Secretary, (510) 981-6300",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Ohlone Greenway Question",
+   "line": 616,
+   "entries": [
+    {
+     "as_printed": "Barbara Fritz",
+     "line": 617,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Channing and San Pablo",
+   "line": 619,
+   "entries": [
+    {
+     "as_printed": "Thomas Yamaguchi",
+     "line": 620,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wahid Amiri",
+     "line": 621,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Height Regulations",
+   "line": 627,
+   "entries": [
+    {
+     "as_printed": "Lynn Cooper",
+     "line": 628,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "BUSD LEARNS Program",
+   "line": 630,
+   "entries": [
+    {
+     "as_printed": "Alina Ball",
+     "line": 631,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Upzoning/Zoning",
+   "line": 633,
+   "entries": [
+    {
+     "as_printed": "Gcmclaughlin (2)",
+     "line": 634,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Fund Raiser",
+   "line": 636,
+   "entries": [
+    {
+     "as_printed": "Brianna Hernandez",
+     "line": 637,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "West Berkeley Rail Crossings",
+   "line": 639,
+   "entries": [
+    {
+     "as_printed": "Noa Weiss",
+     "line": 640,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Community Resource Guide",
+   "line": 642,
+   "entries": [
+    {
+     "as_printed": "Elizabeth (4)",
+     "line": 643,
+     "count": 4,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Michael’s Transportation Services",
+   "line": 645,
+   "entries": [
+    {
+     "as_printed": "Elizabeth",
+     "line": 646,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "McGee Avenue Reconstruction",
+   "line": 648,
+   "entries": [
+    {
+     "as_printed": "Howard Menashe",
+     "line": 649,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "2036 Bancroft Way",
+   "line": 651,
+   "entries": [
+    {
+     "as_printed": "Alex Merenkov",
+     "line": 652,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Safety Concern",
+   "line": 654,
+   "entries": [
+    {
+     "as_printed": "Derek Abbassi",
+     "line": 655,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Budget",
+   "line": 657,
+   "entries": [
+    {
+     "as_printed": "Ben Buettner",
+     "line": 658,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dorothea Dorenz",
+     "line": 659,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "BAC Funding",
+   "line": 661,
+   "entries": [
+    {
+     "as_printed": "Thet Shein Win",
+     "line": 662,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Public Comment Concern",
+   "line": 664,
+   "entries": [
+    {
+     "as_printed": "Stephen Alpert",
+     "line": 665,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lauren Packard",
+     "line": 666,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Harrison St.",
+   "line": 668,
+   "entries": [
+    {
+     "as_printed": "Jahlee Arakaki",
+     "line": 669,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "URLs",
+   "line": 671,
+   "entries": [
+    {
+     "as_printed": "Phyllis Orrick",
+     "line": 672,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Russbumper",
+     "line": 673,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "E-Scooters",
+   "line": 677,
+   "entries": [
+    {
+     "as_printed": "Carson Lepre (2)",
+     "line": 678,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Robert Borghese (2)",
+     "line": 679,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Newsletters",
+   "line": 681,
+   "entries": [
+    {
+     "as_printed": "Eid Abdallah (2)",
+     "line": 682,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Forwards",
+   "line": 684,
+   "entries": [
+    {
+     "as_printed": "Eid Abdallah (8)",
+     "line": 685,
+     "count": 8,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #7: Appointment of Director of Public Works",
+   "line": 691,
+   "entries": [
+    {
+     "as_printed": "Ben Gerhardstein on behalf of Walk Bike Berkeley",
+     "line": 692,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "7"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #23a: Resolution Rescinding Resolution No. 51,408-N.S. Restricting the Use of Air Support and Canine Units And Updating Mutual Aid Policies (Reviewed by the Public Safety Policy Committee)",
+   "line": 693,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by the Police Accountability Board",
+     "line": 696,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "23a"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #24a: Resolution Reinstating the Berkeley Police Department’s Ability to Use Tear Gas for Critical Life-Threatening Incidents Only and Lifting the COVID-19 Moratorium on Smoke and Oleoresin Capsicum (OC) Spray (Reviewed by the Public Safety Policy Committee)",
+   "line": 697,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by Councilmember Brent Blackaby",
+     "line": 701,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Supplemental agenda material submitted by the Police Accountability Board",
+     "line": 702,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Josh Cayetano",
+     "line": 703,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "24a"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #23a: Resolution Rescinding Resolution No. 51,408-N.S. Restricting the Use of Air Support and Canine Units And Updating Mutual Aid Policies (Reviewed by the Public Safety Policy Committee) / Item #23b: Social Justice Implications of Proposed Use of Controlled Weapons and Other Policing Tools (Continued from April 21, 2026) Item#24a: Resolution Reinstating the Berkeley Police Department’s Ability to Use Tear Gas for Critical Life-Threatening Incidents Only and Lifting the COVID-19 Moratorium on Smoke and Oleoresin Capsicum (OC) Spray (Reviewed by the Public Safety Policy Committee) / Item #24b: Social Justice Implications of Proposed Use of Controlled Weapons and Other Policing Tools (Continued from April 21, 2026)",
+   "line": 704,
+   "entries": [
+    {
+     "as_printed": "Jon Rosenfield",
+     "line": 715,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sally Nelson",
+     "line": 716,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Marcia Edelen",
+     "line": 717,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janice Schroeder",
+     "line": 718,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sam Holtzman",
+     "line": 719,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sally Hindman",
+     "line": 723,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Boona Cheema",
+     "line": 724,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Esther Lerman",
+     "line": 725,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jay",
+     "line": 726,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "23a",
+    "23b",
+    "24b"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #20: Relinquishment of Council Office Budget Funds from General Funds and Grant of Such Funds to Support of the Raising the Next Generation of Student Advocates (RISE) Program",
+   "line": 729,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by Councilmember Igor Tregub",
+     "line": 732,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "20"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #23a: Resolution Rescinding Resolution No. 51,408-N.S. Restricting the Use of Air Support and Canine Units And Updating Mutual Aid Policies (Reviewed by the Public Safety Policy Committee)",
+   "line": 733,
+   "entries": [
+    {
+     "as_printed": "Melissa Connelly",
+     "line": 736,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Grant Thompson",
+     "line": 737,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Moni Law",
+     "line": 738,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "23a"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #23a: Resolution Rescinding Resolution No. 51,408-N.S. Restricting the Use of Air Support and Canine Units And Updating Mutual Aid Policies (Reviewed by the Public Safety Policy Committee) / Item #24a: Resolution Reinstating the Berkeley Police Department’s Ability to Use Tear Gas for Critical Life-Threatening Incidents Only and Lifting the COVID-19 Moratorium on Smoke and Oleoresin Capsicum (OC) Spray (Reviewed by the Public Safety Policy Committee)",
+   "line": 739,
+   "entries": [
+    {
+     "as_printed": "Ned Reifenstein",
+     "line": 746,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "23a",
+    "24a"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #23a: Resolution Rescinding Resolution No. 51,408-N.S. Restricting the Use of Air Support and Canine Units And Updating Mutual Aid Policies (Reviewed by the Public Safety Policy Committee) / Item #23b: Social Justice Implications of Proposed Use of Controlled Weapons and Other Policing Tools (Continued from April 21, 2026) / Item #24a: Resolution Reinstating the Berkeley Police Department’s Ability to Use Tear Gas for Critical Life-Threatening Incidents Only and Lifting the COVID-19 Moratorium on Smoke and Oleoresin Capsicum (OC) Spray (Reviewed by the Public Safety Policy Committee) / Item #24b: Social Justice Implications of Proposed Use of Controlled Weapons and Other Policing Tools (Continued from April 21, 2026)",
+   "line": 747,
+   "entries": [
+    {
+     "as_printed": "Carol Denney",
+     "line": 758,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Vida Bateau",
+     "line": 759,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bill Press",
+     "line": 760,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Glenn Turner",
+     "line": 761,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Ferguson",
+     "line": 762,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Linda Olivenbaum",
+     "line": 763,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Hilary Wong",
+     "line": 764,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chrissy Hoffman",
+     "line": 765,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Margot Smith",
+     "line": 766,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Karl Knober",
+     "line": 770,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ellen Brotsky",
+     "line": 771,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kit Saginor",
+     "line": 772,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kelly Hammargren",
+     "line": 773,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Summer Brenner",
+     "line": 774,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kitty Calavita",
+     "line": 775,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane Maxwell",
+     "line": 776,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Fane",
+     "line": 777,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elana Auerbach",
+     "line": 778,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Friends of Adeline",
+     "line": 779,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Virginia Miller",
+     "line": 780,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Catherine Montano",
+     "line": 781,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Adrian Tasistro-Hart",
+     "line": 782,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alison Weber-Stover",
+     "line": 783,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sylvia Santillanez",
+     "line": 784,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Lindsay-Poland",
+     "line": 785,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Samantha Kanofsky",
+     "line": 786,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "23a",
+    "23b",
+    "24a",
+    "24b"
+   ]
+  }
+ ]
+}

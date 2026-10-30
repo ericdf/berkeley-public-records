@@ -1,0 +1,61 @@
+{
+ "id": "bcc-2025-04-25-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-04-25-special-annotated-agenda",
+ "text": "bcc-2025-04-25-special-annotated-agenda-text",
+ "text_sha256": "446b8d56693c8ddb97ceed5147631abe99e12b6088a144c4394e49c8d2494b4f",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "10:08 a.m.",
+  "present": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": null,
+    "as_printed": "Bartlett Public Comment – 1 speaker Council Discussion 1.a. Introduction 1.b. Values"
+   },
+   {
+    "member": null,
+    "as_printed": "Group Agreements 1.c. City Council Norms"
+   },
+   {
+    "member": null,
+    "as_printed": "Procedures Break 1.d. Team Building Activity 1.e. Discussion of Council Priorities"
+   }
+  ],
+  "arrived_late": []
+ },
+ "items": [],
+ "communications": []
+}

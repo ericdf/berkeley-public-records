@@ -1,0 +1,955 @@
+{
+ "id": "bcc-2025-07-23-regular-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-07-23-regular-annotated-agenda",
+ "text": "bcc-2025-07-23-regular-annotated-agenda-text",
+ "text_sha256": "af58014d00b9bccba1ea310cf9f95bb5435fa798cf24d312079391bd45c66b4b",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:07 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "6:10 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Landmarks Preservation Commission Appeal: 2425 Durant, Landmark application #LMIN2024-0008",
+   "lines": [
+    61,
+    83
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "None",
+   "action": "Action: M/S/C (Kesarwani/Taplin) to adopt Resolution No. 71,904–N.S., including the supplemental material received from the City Manager in the Supplemental Communications Packet 2, upholding the appeal and reversing the Landmarks Preservation Commission (LPC) decision to designate the subject property as a City Landmark. Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – O’Keefe, Blackaby. Councilmember Blackaby absent 7:35 p.m. – 7:37 p.m.",
+   "speakers": 5,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [],
+      "absent": [
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       }
+      ],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – O’Keefe."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,904–N.S., including the supplemental material received from the City Manager in the Supplemental Communications Packet 2, upholding the appeal and reversing the Landmarks Preservation Commission (LPC) decision to designate the subject property as a City Landmark.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [],
+      "absent": [
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       }
+      ],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – O’Keefe, Blackaby."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "2",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Landmarks Preservation Commission Appeal: 2138 Kittredge, Landmark application #LMIN2024-0006",
+   "lines": [
+    91,
+    111
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "None",
+   "action": "Action: M/S/C (Tregub/Humbert) to adopt Resolution No. 71,905–N.S. upholding the appeal and reversing the Landmarks Preservation Commission (LPC) decision to designate the subject property as a City Landmark. Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – O’Keefe. Recess 8:09 p.m. – 8:20 p.m.",
+   "speakers": 3,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [],
+      "absent": [
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       }
+      ],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – O’Keefe."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,905–N.S. upholding the appeal and reversing the Landmarks Preservation Commission (LPC) decision to designate the subject property as a City Landmark.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [],
+      "absent": [
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       }
+      ],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – O’Keefe."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "3",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Zoning Adjustment Board Appeal: 2655 Shattuck, Use Permit #ZP2024-0057",
+   "lines": [
+    113,
+    138
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "None",
+   "action": "Action: M/S/C (Kesarwani/Humbert) to adopt Resolution No. 71,906–N.S. denying the appeal and affirming the Zoning Adjustment Board (ZAB) decision to approve Use Permit #ZP2024-0057 to demolish a one-story, 8,185-square-foot, non- residential building and construct an eight-story (85 feet), 84,399-square-foot mixed- use residential building containing 97 dwelling units (including ten Very Low-Income Density Bonus qualifying units), 2,117 square feet of ground-floor commercial space and 41 vehicle parking space, on a 23,527 square foot lot. Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – O’Keefe.",
+   "speakers": 19,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [],
+      "absent": [
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       }
+      ],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – O’Keefe."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,906–N.S. denying the appeal and affirming the Zoning Adjustment Board (ZAB) decision to approve Use Permit #ZP2024-0057 to demolish a one-story, 8,185-square-foot, non- residential building and construct an eight-story (85 feet), 84,399-square-foot mixed- use residential building containing 97 dwelling units (including ten Very Low-Income Density Bonus qualifying units), 2,117 square feet of ground-floor commercial space and 41 vehicle parking space, on a 23,527 square foot lot.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [],
+      "absent": [
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       }
+      ],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Absent – O’Keefe."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #3: Zoning Adjustment Board Appeal: 2655 Shattuck, Use Permit #ZP2024- 0057",
+   "line": 151,
+   "entries": [
+    {
+     "as_printed": "Marianne Sluis",
+     "line": 153,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #3: Zoning Adjustment Board Appeal: 2655 Shattuck, Use Permit #ZP2024-0057",
+   "line": 156,
+   "entries": [
+    {
+     "as_printed": "Jonathan Streeter",
+     "line": 157,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elizabeth Ditmars",
+     "line": 158,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1: Landmarks Preservation Commission Appeal: 2425 Durant, Landmark application #LMIN2024-0008",
+   "line": 161,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by the Planning & Development Department",
+     "line": 163,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1: Landmarks Preservation Commission Appeal: 2425 Durant, Landmark application #LMIN2024-0008 / Item #2: Landmarks Preservation Commission Appeal: 2138 Kittredge, Landmark application #LMIN2024-0006",
+   "line": 165,
+   "entries": [
+    {
+     "as_printed": "Thalia Lubin (2)",
+     "line": 169,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Ellen Goldblatt",
+     "line": 170,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sharon Entwistle",
+     "line": 171,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Harry Delmer",
+     "line": 172,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Emily Fox",
+     "line": 173,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joan Hart",
+     "line": 174,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Virginia Jansen",
+     "line": 175,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bill Grove",
+     "line": 176,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Doris Fulder Nassiry",
+     "line": 177,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Maxine Risley",
+     "line": 178,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leah Shelleda",
+     "line": 179,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Deborah Finch",
+     "line": 180,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jerri Holan",
+     "line": 181,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tobey M. Wiebe",
+     "line": 182,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leila Moncharsh on behalf of the Berkeley Architectural Heritage Association",
+     "line": 183,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Isaac Warshauer on behalf of the Berkeley Architectural Heritage Association (4)",
+     "line": 184,
+     "count": 4,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "John Brennan",
+     "line": 185,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gillian Bagwell",
+     "line": 186,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dahlia Armon",
+     "line": 189,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephanie Manning",
+     "line": 190,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dan Slobin",
+     "line": 191,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Phil Allen",
+     "line": 192,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Hitchen",
+     "line": 193,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Harvey Smith",
+     "line": 194,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Krishna Shekhawat",
+     "line": 195,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michael Barglow",
+     "line": 196,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1",
+    "2"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #3: Zoning Adjustment Board Appeal: 2655 Shattuck, Use Permit #ZP2024-0057",
+   "line": 198,
+   "entries": [
+    {
+     "as_printed": "Elizabeth Riddle",
+     "line": 200,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mark Goudy",
+     "line": 201,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Charlotte Shimura",
+     "line": 202,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sally Bean",
+     "line": 203,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Landmarks Preservation Commission Appeal: 2425 Durant, Landmark application #LMIN2024-0008",
+   "line": 206,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Planning & Development Department",
+     "line": 208,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #2: Landmarks Preservation Commission Appeal: 2138 Kittredge, Landmark application #LMIN2024-0006",
+   "line": 209,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Planning & Development Department",
+     "line": 211,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #3: Zoning Adjustment Board Appeal: 2655 Shattuck, Use Permit #ZP2024- 0057",
+   "line": 212,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Planning & Development Department",
+     "line": 214,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Charles Kassier",
+     "line": 215,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nicholas Eckenwiler on behalf of the California Housing Defense Fund",
+     "line": 216,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Landmarks Preservation Commission Appeal: 2425 Durant, Landmark application #LMIN2024-0008 / Item #2: Landmarks Preservation Commission Appeal: 2138 Kittredge, Landmark application #LMIN2024-0006 / Item #3: Zoning Adjustment Board Appeal: 2655 Shattuck, Use Permit #ZP2024- 0057",
+   "line": 217,
+   "entries": [
+    {
+     "as_printed": "Robert Kehlmann",
+     "line": 223,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gale Garcia",
+     "line": 224,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gerhard Blendstrup",
+     "line": 225,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dan Slobin",
+     "line": 226,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ann Pagliaro",
+     "line": 227,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Judith Thomas",
+     "line": 228,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Paul T. Roberts",
+     "line": 229,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robert Johnson",
+     "line": 230,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Deborah Green (2)",
+     "line": 231,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Holly M. Smith",
+     "line": 232,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane McKinne-Mayer",
+     "line": 233,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Steven Schuyler",
+     "line": 234,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lorraine Lerman",
+     "line": 235,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Amy Di Costanzo",
+     "line": 237,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Brandon Ice",
+     "line": 238,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lynn Zamarra",
+     "line": 239,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane Goodwin",
+     "line": 240,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Hal and Turi Reynolds Miscellaneous",
+     "line": 241,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ryan Lau on behalf of AC Transit",
+     "line": 243,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1",
+    "2",
+    "3"
+   ]
+  }
+ ]
+}

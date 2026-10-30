@@ -1,0 +1,136 @@
+{
+ "id": "bcc-2025-10-28-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-10-28-special-annotated-agenda",
+ "text": "bcc-2025-10-28-special-annotated-agenda-text",
+ "text_sha256": "d8de04374c1410951033532ca7bbea30eefe550a15f76357dcb655d0d0a62472",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:08 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby",
+    "time": "4:17 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar – New Business",
+   "heading": "Ashby BART East Lot Transit Oriented Development Request for Proposal Framework",
+   "lines": [
+    61,
+    75
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5400",
+   "financial_implications": null,
+   "action": "Action: 18 speakers. Presentation made and discussion held. M/S/C (Bartlett/Kesarwani) to adopt Resolution No. 71,984–N.S. Vote: All Ayes.",
+   "speakers": 18,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-bartlett",
+       "as_printed": "Bartlett"
+      },
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,984–N.S.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Ashby BART East Lot Transit Oriented Development Request for Proposal Framework",
+   "line": 98,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by Department of Health, Housing, and Community Services",
+     "line": 100,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Presentation submitted by Center for Independent Living",
+     "line": 102,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Center for Independent Living",
+     "line": 103,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

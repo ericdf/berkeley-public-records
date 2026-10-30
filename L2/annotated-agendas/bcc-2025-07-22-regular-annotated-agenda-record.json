@@ -1,0 +1,1640 @@
+{
+ "id": "bcc-2025-07-22-regular-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-07-22-regular-annotated-agenda",
+ "text": "bcc-2025-07-22-regular-annotated-agenda-text",
+ "text_sha256": "7c3b1f7ba17ae96711dc410e3f84d07a6ae7f1527c79d6666e12d0dac7862c0c",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:37 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "6:45 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Consent Calendar",
+   "heading": "At-Will Designation: Assistant City Attorney",
+   "lines": [
+    98,
+    106
+   ],
+   "from": "City Attorney",
+   "contact": "Farimah Brown, City Attorney, (510) 981-6950",
+   "financial_implications": "None",
+   "action": "Action: Adopted second reading of Ordinance No. 7,979–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": {
+    "all_ayes": true,
+    "ayes": [],
+    "noes": [],
+    "abstain": [],
+    "absent": [],
+    "recused": [],
+    "as_printed": "First Reading Vote: All Ayes."
+   }
+  },
+  {
+   "item": "2",
+   "section": "Consent Calendar",
+   "heading": "Lease Amendment with Yoonaco, Inc. (Hana Japan) at 235 University Avenue",
+   "lines": [
+    108,
+    119
+   ],
+   "from": "City Manager",
+   "contact": "Scott Ferris, Parks, Recreation and Waterfront, (510) 981-6700",
+   "financial_implications": "See report",
+   "action": "Action: Adopted second reading of Ordinance No. 7,980–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": {
+    "all_ayes": true,
+    "ayes": [],
+    "noes": [],
+    "abstain": [],
+    "absent": [],
+    "recused": [],
+    "as_printed": "First Reading Vote: All Ayes."
+   }
+  },
+  {
+   "item": "3",
+   "section": "Consent Calendar",
+   "heading": "Zoning Ordinance Amendments to Title 23 of the Berkeley Municipal Code for Consistency with State Law and Technical Edits (SLTE 2025)",
+   "lines": [
+    121,
+    141
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "None",
+   "action": "Action: Adopted second reading of Ordinance No. 7,981–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": {
+    "all_ayes": true,
+    "ayes": [],
+    "noes": [],
+    "abstain": [],
+    "absent": [],
+    "recused": [],
+    "as_printed": "First Reading Vote: All Ayes."
+   }
+  },
+  {
+   "item": "4",
+   "section": "Consent Calendar",
+   "heading": "Appointment of Emergency Standby Officers",
+   "lines": [
+    149,
+    158
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "None",
+   "action": "Action: Adopted Resolution No. 71,889–N.S. as revised in Supplemental Communications Packet #1 by the City Manager.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "5",
+   "section": "Consent Calendar",
+   "heading": "Formal Bid Solicitations and Request for Proposals Scheduled for Possible Issuance After Council Approval on July 22, 2025",
+   "lines": [
+    160,
+    169
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Approved recommendation.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "6",
+   "section": "Consent Calendar",
+   "heading": "Reallocation of FY 2025 Youth Resiliency Funding",
+   "lines": [
+    170,
+    183
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5400",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 71,890–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "7",
+   "section": "Consent Calendar",
+   "heading": "Revenue Grant Agreements: Funding Support from Alameda County to Conduct Public Health Services",
+   "lines": [
+    191,
+    209
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5400",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 71,891–N.S. (Health Center Programs); Resolution No. 71,892–N.S. (School Linked); Resolution No. 71,893–N.S. (Tobacco Prevention).",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "8",
+   "section": "Consent Calendar",
+   "heading": "Revenue Grant Agreements: Funding Support from the State of California to Conduct Public Health Services",
+   "lines": [
+    211,
+    231
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5400",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 71,894–N.S. (MCAH); Resolution No. 71,895–N.S. (Tobacco Trust Fund); Resolution No. 71,896–N.S. (Women, Infant, Children Program).",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "9",
+   "section": "Consent Calendar",
+   "heading": "Supplemental Military Leave Compensation Policy",
+   "lines": [
+    239,
+    247
+   ],
+   "from": "City Manager",
+   "contact": "Janelle Rodrigues, Human Resources, (510) 981-6800",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 71,897–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "10",
+   "section": "Consent Calendar",
+   "heading": "2024 Annual Military Equipment Report (Assembly Bill 481)",
+   "lines": [
+    249,
+    255
+   ],
+   "from": "City Manager",
+   "contact": "Jennifer Louis, Police, (510) 981-5900",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 71,898–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "11",
+   "section": "Consent Calendar",
+   "heading": "Surveillance Technology Ordinance Submission for Berkeley City Jail Surveillance System",
+   "lines": [
+    257,
+    269
+   ],
+   "from": "City Manager",
+   "contact": "Jennifer Louis, Police, (510) 981-5900",
+   "financial_implications": "See report",
+   "action": "Action: Moved to Action Calendar. 2 speakers. M/S/C (O’Keefe/Taplin) to adopt Resolution No. 71,899–N.S. Vote: All Ayes.",
+   "speakers": 2,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-okeefe",
+       "as_printed": "O’Keefe"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,899–N.S.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "12",
+   "section": "Consent Calendar",
+   "heading": "Appointment of Ian Hunt to the Mental Health Commission",
+   "lines": [
+    271,
+    279
+   ],
+   "from": "Mental Health Commission",
+   "contact": "Jamie Works-Wright, Commission Secretary, (510) 981-5400",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 71,900–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "13",
+   "section": "Consent Calendar",
+   "heading": "Police Accountability Board Report: Fair and Impartial Policing Implementation (Reviewed by the Public Safety Committee) (Item contains supplemental material)",
+   "lines": [
+    289,
+    373
+   ],
+   "from": "Police Accountability Board",
+   "contact": "Hansel Aguilar, Commission Secretary, (510) 981-4950",
+   "financial_implications": "See report",
+   "action": "Action: Approved recommendation as recommended by the Public Safety Committee.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "14",
+   "section": "Council Consent Items",
+   "heading": "Resolution in Support of California Senate Bill 81 (Arreguín) Health and Care Facilities: Information Sharing to Amend Sections 56.05 and 56.10 of the Civil Code, and to Add Chapter 1.5 to Division 2 of the Health and Safety Code, Relating to Health and Care Facilities",
+   "lines": [
+    381,
+    407
+   ],
+   "from": "Councilmember Tregub (Author), Mayor Ishii (Co-Sponsor), Councilmember Humbert (Co-Sponsor), Councilmember Lunaparra (Co- Sponsor)",
+   "contact": "Igor Tregub, Councilmember, District 4, (510) 981-7140",
+   "financial_implications": "Staff time.",
+   "action": "Action: Adopted Resolution No. 71,901–N.S. as revised in Supplemental Communications Packet #1 by Councilmember Tregub.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-tregub",
+     "as_printed": "Councilmember Tregub (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-ishii",
+     "as_printed": "Mayor Ishii (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    },
+    {
+     "member": "off-humbert",
+     "as_printed": "Councilmember Humbert (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 3
+    },
+    {
+     "member": "off-lunaparra",
+     "as_printed": "Councilmember Lunaparra (Co- Sponsor)",
+     "role": "co-sponsor",
+     "order": 4
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "15",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Ordinance Vacating a Portion of Carleton Street from Westerly Terminus Extending 381.23 Feet Easterly",
+   "lines": [
+    415,
+    440
+   ],
+   "from": "City Manager",
+   "contact": "Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Taplin/Kesarwani) to adopt the first reading of Ordinance No. 7,982– N.S. Public hearing and second reading scheduled for July 29, 2025. Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, O’Keefe, Blackaby, Humbert, Ishii; Noes – None; Abstain - Lunaparra. Recess 8:42 p.m. – 8:59 p.m.",
+   "speakers": 13,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt the first reading of Ordinance No. 7,982– N.S. Public hearing and second reading scheduled for July 29, 2025.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       }
+      ],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, O’Keefe, Blackaby, Humbert, Ishii; Noes – None; Abstain - Lunaparra."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "16",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Memorandum of Understanding (MOU) Compendium: Agreements with Other Law Enforcement Agencies and Private Organizations",
+   "lines": [
+    442,
+    461
+   ],
+   "from": "City Manager",
+   "contact": "Jennifer Louis, Police, (510) 981-5900",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Blackaby/Humbert) to adopt Resolution No. 71,902–N.S. Vote: All Ayes.",
+   "speakers": 9,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,902–N.S.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "17",
+   "section": "Action Calendar – New Business",
+   "heading": "Surveillance Technology Ordinance Submission for External Fixed Surveillance Cameras (Flock Safety Condor Video Cameras)",
+   "lines": [
+    467,
+    556
+   ],
+   "from": "City Manager",
+   "contact": "Jennifer Louis, Police, (510) 981-5900",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Humbert/Taplin) to suspend the rules and extend the meeting to 12:00 a.m. Vote: All Ayes. Action: M/S/C (Blackaby/Kesarwani) to suspend the rules and extend the meeting to 12:30 a.m. Vote: All Ayes. Action: M/S/Failed (Tregub/Ishii) on the severed portion of the motion to change the retention period to 90 days in the policy. Vote: Ayes – Bartlett, Tregub, Lunaparra, Ishii; Noes – Kesarwani, Taplin, O’Keefe, Blackaby, Humbert. Action: 20 speakers. M/S/C (Tregub/Ishii) to: 1) adopt Resolution No. 71,903–N.S. accepting the attached Surveillance Acquisition Report for the Flock Safety Condor video cameras, pursuant to Berkeley Municipal Code (B.M.C.) Chapter 2.99. and re-affirming the associated Berkeley Police Department (BPD) Use Policies (BPD Policy 351: External Fixed Video Surveillance Cameras and BPD Policy 1304: Surveillance Use Policy—External Fixed Video Surveillance Cameras), which were previously approved by Council on June 13, 2023; and 2) As part of Item 17, the Berkeley City Council directs the City Manager to address each of the elements below: 1. Biannual (Twice Per Year) Audit Report The Berkeley Police Department’s Biannual Surveillance Technology Report, presented each November, shall include, but not be limited to the following information from the preceding review period as an additional privacy safeguard: a. Confirm that BPD doesn’t enter any direct data sharing agreements or give direct access to outside agencies. A log of any instance of when surveillance video and/or audio data has been shared, including date, time, reason for search, and any recipient agencies. Action Calendar – New Business 2. The Council supports the following recommendations of the Berkeley Police Accountability Board (PAB): a. Use Policies Section 351.4.2/1304.2: “Video surveillance systems and recordings are subject to the Berkeley Police Department's Immigration Law Policy, and hence may not be shared with federal immigration enforcement officials, unless required by federal law.” b. Use Policies Section 351.4.2/1304.2: “Video recordings shall not be disclosed to law enforcement agencies from other states if the purpose of the request is to support the enforcement of laws that restrict or criminalize reproductive rights or rights regarding the provision or receipt of gender-affirming care.” c. The Sanctuary City Ordinance, scheduled for a Council vote in Fall 2025, will likely, among other topics, address how the City of Berkeley handles and reports requests from federal immigration authorities, vendors, or any non-local agencies to access data for federal immigration enforcement purposes, as well as the recipients of such reports. Additionally, in the event a Federal Agency is given BPD-owned data stored with Flock the Berkeley Police Chief or designee will notify the City Manager, City Attorney, and City Council within 72 hours of the discovery of the incident. d. Add a new section to the Fixed Video Surveillance Policy requiring BPD to observe certain safeguards with respect to surveillance camera data from the Berkeley Police Department’s ALPR policy (Section 1304.12). 3. Additional Safeguards a. The Berkeley City Council reaffirms its intention to approve contracts that are in full compliance with Berkeley City Law, including but not limited to subject BPD policies and the to-be-delivered Sanctuary City Ordinance. As a matter of course, the Berkeley City Council directs the City Manager to ensure that no proposed contractual clauses with Flock for proposed Flock Safety Condor Video Cameras are, or could potentially be, in conflict with Berkeley City Law, prior to final approval of the contract by the Berkeley City Council. For example, Sections 4.3 and 5.3 of Flock boilerplate contractual language appears to contradict city policy. These and other provisions are to be discussed during contract negotiations. b. The City of Berkeley reaffirms the City Manager's authority, which may be delegated to the Berkeley Police Chief, to pause or end the deployment of the subject equipment at any time and for any cause. The City Council shall be, within 48 hours, notified of any such decision to pause or end its deployment. Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, O’Keefe, Blackaby, Humbert, Ishii; Noes – Lunaparra.",
+   "speakers": 20,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "suspend the rules and extend the meeting to 12:00 a.m.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "suspend the rules and extend the meeting to 12:30 a.m.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 2,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      }
+     ],
+     "disposition": "failed",
+     "severed": true,
+     "final": false,
+     "text": "on the severed portion of the motion to change the retention period to 90 days in the policy.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Bartlett, Tregub, Lunaparra, Ishii; Noes – Kesarwani, Taplin, O’Keefe, Blackaby, Humbert."
+     }
+    },
+    {
+     "seq": 3,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "1) adopt Resolution No. 71,903–N.S. accepting the attached Surveillance Acquisition Report for the Flock Safety Condor video cameras, pursuant to Berkeley Municipal Code (B.M.C.) Chapter 2.99. and re-affirming the associated Berkeley Police Department (BPD) Use Policies (BPD Policy 351: External Fixed Video Surveillance Cameras and BPD Policy 1304: Surveillance Use Policy—External Fixed Video Surveillance Cameras), which were previously approved by Council on June 13, 2023; and 2) As part of Item 17, the Berkeley City Council directs the City Manager to address each of the elements below: 1. Biannual (Twice Per Year) Audit Report The Berkeley Police Department’s Biannual Surveillance Technology Report, presented each November, shall include, but not be limited to the following information from the preceding review period as an additional privacy safeguard: a. Confirm that BPD doesn’t enter any direct data sharing agreements or give direct access to outside agencies. A log of any instance of when surveillance video and/or audio data has been shared, including date, time, reason for search, and any recipient agencies. Action Calendar – New Business 2. The Council supports the following recommendations of the Berkeley Police Accountability Board (PAB): a. Use Policies Section 351.4.2/1304.2: “Video surveillance systems and recordings are subject to the Berkeley Police Department's Immigration Law Policy, and hence may not be shared with federal immigration enforcement officials, unless required by federal law.” b. Use Policies Section 351.4.2/1304.2: “Video recordings shall not be disclosed to law enforcement agencies from other states if the purpose of the request is to support the enforcement of laws that restrict or criminalize reproductive rights or rights regarding the provision or receipt of gender-affirming care.” c. The Sanctuary City Ordinance, scheduled for a Council vote in Fall 2025, will likely, among other topics, address how the City of Berkeley handles and reports requests from federal immigration authorities, vendors, or any non-local agencies to access data for federal immigration enforcement purposes, as well as the recipients of such reports. Additionally, in the event a Federal Agency is given BPD-owned data stored with Flock the Berkeley Police Chief or designee will notify the City Manager, City Attorney, and City Council within 72 hours of the discovery of the incident. d. Add a new section to the Fixed Video Surveillance Policy requiring BPD to observe certain safeguards with respect to surveillance camera data from the Berkeley Police Department’s ALPR policy (Section 1304.12). 3. Additional Safeguards a. The Berkeley City Council reaffirms its intention to approve contracts that are in full compliance with Berkeley City Law, including but not limited to subject BPD policies and the to-be-delivered Sanctuary City Ordinance. As a matter of course, the Berkeley City Council directs the City Manager to ensure that no proposed contractual clauses with Flock for proposed Flock Safety Condor Video Cameras are, or could potentially be, in conflict with Berkeley City Law, prior to final approval of the contract by the Berkeley City Council. For example, Sections 4.3 and 5.3 of Flock boilerplate contractual language appears to contradict city policy. These and other provisions are to be discussed during contract negotiations. b. The City of Berkeley reaffirms the City Manager's authority, which may be delegated to the Berkeley Police Chief, to pause or end the deployment of the subject equipment at any time and for any cause. The City Council shall be, within 48 hours, notified of any such decision to pause or end its deployment.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, O’Keefe, Blackaby, Humbert, Ishii; Noes – Lunaparra."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "18",
+   "section": "Information Reports",
+   "heading": "Reimagining Public Safety Status Report",
+   "lines": [
+    560,
+    563
+   ],
+   "from": "City Manager",
+   "contact": "Carianna Arredondo, City Manager's Office, (510) 981-7000",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "19",
+   "section": "Information Reports",
+   "heading": "Restaurant Inspection Audit Status Report",
+   "lines": [
+    571,
+    574
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5400",
+   "financial_implications": null,
+   "action": "Action: 3 speakers. Moved to Action Calendar. Discussion held.",
+   "speakers": 3,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "20",
+   "section": "Information Reports",
+   "heading": "Landmark Preservation Ordinance Notice of Decision: 2009 Tenth Street/#LMSAP2025-0003",
+   "lines": [
+    576,
+    580
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "21",
+   "section": "Information Reports",
+   "heading": "Landmark Preservation Ordinance Notice of Decision: 2035 Francisco Street/#LMIN2024-0003",
+   "lines": [
+    582,
+    586
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "22",
+   "section": "Information Reports",
+   "heading": "City Auditor Fiscal Year 2026 Audit Plan",
+   "lines": [
+    588,
+    591
+   ],
+   "from": "Auditor",
+   "contact": "Jenny Wong, Auditor, (510) 981-6750",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Harrassment Concern",
+   "line": 602,
+   "entries": [
+    {
+     "as_printed": "Cielo Sambas (2)",
+     "line": 603,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Brown Act",
+   "line": 605,
+   "entries": [
+    {
+     "as_printed": "Inger Acking",
+     "line": 606,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Meyer",
+     "line": 607,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Anne Morgan",
+     "line": 608,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jackie Schmidt-Posner",
+     "line": 609,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barbara Anscher",
+     "line": 610,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Geneva’s Path",
+   "line": 612,
+   "entries": [
+    {
+     "as_printed": "Deb Spaulding Graham",
+     "line": 613,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Andrew Graham",
+     "line": 614,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Dogs at Caesar Chavez Park",
+   "line": 618,
+   "entries": [
+    {
+     "as_printed": "Maureen Daggett",
+     "line": 619,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Ohlone Concerns and Encampments",
+   "line": 621,
+   "entries": [
+    {
+     "as_printed": "Yasemin Sussman",
+     "line": 622,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tom Attar (2)",
+     "line": 623,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Nicholas Alexander (3)",
+     "line": 624,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Xavier Linn",
+     "line": 625,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Roger Hallsten",
+     "line": 626,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rochelle T.",
+     "line": 627,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jessica Fain",
+     "line": 628,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Daniel Jurnove",
+     "line": 629,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kathy Dittmer",
+     "line": 630,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Karl Torke",
+     "line": 631,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Mateer",
+     "line": 632,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Martin Seldin",
+     "line": 633,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lj Cranmer",
+     "line": 634,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dan Cutter (2)",
+     "line": 635,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Yael Galinson",
+     "line": 636,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jia Liang",
+     "line": 637,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Tepper",
+     "line": 638,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Berkeley Waterfront and Park Fees",
+   "line": 640,
+   "entries": [
+    {
+     "as_printed": "Margie Winter (2)",
+     "line": 641,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Elisha Greenwell",
+     "line": 642,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Iliana Montauk (2)",
+     "line": 643,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Rachel Bradley",
+     "line": 644,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Juliane Kowski",
+     "line": 645,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robert Crosman",
+     "line": 646,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Deborah Green",
+     "line": 647,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Takara Sake Plant",
+   "line": 649,
+   "entries": [
+    {
+     "as_printed": "Cecelia Mautner",
+     "line": 650,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Road Damage",
+   "line": 652,
+   "entries": [
+    {
+     "as_printed": "Jia Liang",
+     "line": 653,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Homelessness Concerns",
+   "line": 655,
+   "entries": [
+    {
+     "as_printed": "Andrea Ricci",
+     "line": 656,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Maris Arnold",
+     "line": 657,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kathleen Krier",
+     "line": 658,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Half Price Books",
+   "line": 660,
+   "entries": [
+    {
+     "as_printed": "Simi Dhillon",
+     "line": 661,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Sidewalk Repair",
+   "line": 667,
+   "entries": [
+    {
+     "as_printed": "Todd Andrew",
+     "line": 668,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "City Services Concerns",
+   "line": 670,
+   "entries": [
+    {
+     "as_printed": "Rebecca Young",
+     "line": 671,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Berkeley’s City Budget",
+   "line": 673,
+   "entries": [
+    {
+     "as_printed": "David Lerman",
+     "line": 674,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Granicus Concern",
+   "line": 676,
+   "entries": [
+    {
+     "as_printed": "Alex Taylor",
+     "line": 677,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Filming Concern",
+   "line": 679,
+   "entries": [
+    {
+     "as_printed": "Liying Tao",
+     "line": 680,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "EMBER",
+   "line": 682,
+   "entries": [
+    {
+     "as_printed": "Mary-Louise Hansen",
+     "line": 683,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Geoff Lomax",
+     "line": 684,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Blight in Berkeley",
+   "line": 686,
+   "entries": [
+    {
+     "as_printed": "Cecelia Mautner",
+     "line": 687,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "8th and Harrison",
+   "line": 689,
+   "entries": [
+    {
+     "as_printed": "Elana Auerbach",
+     "line": 690,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Home Security Concern",
+   "line": 692,
+   "entries": [
+    {
+     "as_printed": "Seth Crabtree The Bay Baby Book Project Donation",
+     "line": 693,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Seena Hawley",
+     "line": 695,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Parking Concerns and Pedestrian Safety",
+   "line": 697,
+   "entries": [
+    {
+     "as_printed": "Shirley Kirsten (3)",
+     "line": 698,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Parking & Transportation",
+     "line": 699,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bill Pottinger",
+     "line": 700,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Online Bill Payments",
+   "line": 702,
+   "entries": [
+    {
+     "as_printed": "Jeffrey Frey",
+     "line": 703,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "E-Scooters",
+   "line": 705,
+   "entries": [
+    {
+     "as_printed": "Robert Borghese (6)",
+     "line": 706,
+     "count": 6,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Robert Byler (3)",
+     "line": 707,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "John Roveron Ravano",
+     "line": 708,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "ODPA Statement",
+   "line": 710,
+   "entries": [
+    {
+     "as_printed": "Office of the Director of Police Accountability",
+     "line": 711,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Middle East Conflict",
+   "line": 717,
+   "entries": [
+    {
+     "as_printed": "Mohammed Hassan",
+     "line": 718,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Forwards",
+   "line": 720,
+   "entries": [
+    {
+     "as_printed": "Elana Auerbach (2)",
+     "line": 721,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "URL’s",
+   "line": 723,
+   "entries": [
+    {
+     "as_printed": "Inetjalopy",
+     "line": 724,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Russbumper",
+     "line": 725,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jai",
+     "line": 726,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #4: Appointment of Emergency Standby Officers",
+   "line": 729,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by the City Clerk’s Department",
+     "line": 730,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "4"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #14: Resolution in Support of California Senate Bill 81 (Arreguín) Health and Care Facilities: Information Sharing to Amend Sections 56.05 and 56.10 of the Civil Code, and to Add Chapter 1.5 to Division 2 of the Health and Safety Code, Relating to Health and Care Facilities",
+   "line": 731,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by Councilmember Igor Tregub, Mayor Adena Ishii, Councilmember Humbert, and Councilmember Lunaparra",
+     "line": 735,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "14"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #17: Surveillance Technology Ordinance Submission for External Fixed Surveillance Cameras (Flock Safety Condor Video Cameras)",
+   "line": 739,
+   "entries": [
+    {
+     "as_printed": "Office of the Director of Police Accountability on behalf of the Police Accountability Board (2)",
+     "line": 741,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Judy Bertelsen",
+     "line": 743,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Pamela Tellew",
+     "line": 744,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tobey Wiebe",
+     "line": 745,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Margot Smith",
+     "line": 746,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sally Nelson",
+     "line": 747,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cindy Shamban",
+     "line": 748,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "17"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #15: Ordinance Vacating a Portion of Carleton Street from Westerly Terminus Extending 381.23 Feet Easterly",
+   "line": 751,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Public Works Department",
+     "line": 753,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan Schwartz on behalf of the Friends Five Creeks",
+     "line": 754,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "15"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #17: Surveillance Technology Ordinance Submission for External Fixed Surveillance Cameras (Flock Safety Condor Video Cameras)",
+   "line": 755,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Police Department",
+     "line": 757,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "A.S. Ikeda",
+     "line": 758,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kelly Hammargren",
+     "line": 759,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "17"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #19: Restaurant Inspection Audit Status Report",
+   "line": 760,
+   "entries": [
+    {
+     "as_printed": "Lara Hornbeck",
+     "line": 761,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Elrich",
+     "line": 765,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rudabeh Pakravan",
+     "line": 766,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "19"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #22: City Auditor Fiscal Year 2026 Audit Plan",
+   "line": 767,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the City Auditor’s Office",
+     "line": 768,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "22"
+   ]
+  }
+ ]
+}

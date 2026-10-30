@@ -1,0 +1,572 @@
+{
+ "id": "bcc-2026-02-23-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2026-02-23-special-annotated-agenda",
+ "text": "bcc-2026-02-23-special-annotated-agenda-text",
+ "text_sha256": "fc463139678f4ac9f5219d248ecb787231eb678170c932abb3ab8bfd681ffd23",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:07 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "6:07 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Zoning Adjustments Board Appeal: 2298 Durant, Use Permit Application #ZP2024-0126",
+   "lines": [
+    64,
+    78
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "None",
+   "action": "Action: Item removed from the agenda due to project being withdrawn by the Applicant. (Supplemental material in Supp 2 from Planning & Development Department.)",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "2",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Zoning Adjustments Board Appeal: 2425 Durant Avenue, Use Permit Application #ZP2024-0162",
+   "lines": [
+    86,
+    109
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "None",
+   "action": "Action: M/S/C (Kesarwani/Lunaparra) to adopt Resolution No. 72,129–N.S. denying the appeal and affirming the Zoning Adjustments Board (ZAB) decision to approve Use Permit #ZP2024-0162, with amendments to include the correct language for condition #65 and to properly number conditions #66 - #70. Vote: Ayes – Kesarwani, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – Taplin, Bartlett, Tregub, O’Keefe.",
+   "speakers": 24,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 72,129–N.S. denying the appeal and affirming the Zoning Adjustments Board (ZAB) decision to approve Use Permit #ZP2024-0162, with amendments to include the correct language for condition #65 and to properly number conditions #66 - #70.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       }
+      ],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – Taplin, Bartlett, Tregub, O’Keefe."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "3a",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Zoning Adjustments Board Appeal: 2029 University Avenue, Use Permit Application #ZP2024-0182 (Student Housing-Oriented)",
+   "lines": [
+    111,
+    124
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "None",
+   "action": "Action: See action for Item 3b.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "3b",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Zoning Adjustments Board Appeal: 2029 University Avenue, Use Permit Application #ZP2024-0181 (Multi-Family)",
+   "lines": [
+    132,
+    153
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "None",
+   "action": "Action: M/S/Failed (Kesarwani/Humbert) to deny the appeal and approve Use Permit #ZP2024-0181 and Permit #ZP2024-0182. Vote: Ayes – Kesarwani, Lunaparra, Humbert, Ishii; Noes – None; Abstain – Taplin, Bartlett, Tregub, O’Keefe, Blackaby.",
+   "speakers": 9,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "failed",
+     "severed": false,
+     "final": true,
+     "text": "deny the appeal and approve Use Permit #ZP2024-0181 and Permit #ZP2024-0182.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       }
+      ],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Lunaparra, Humbert, Ishii; Noes – None; Abstain – Taplin, Bartlett, Tregub, O’Keefe, Blackaby."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #2: Zoning Adjustments Board Appeal: 2425 Durant Avenue, Use Permit Application #ZP2024-0162",
+   "line": 163,
+   "entries": [
+    {
+     "as_printed": "Jesse Arreguin",
+     "line": 165,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mark Rhoades on behalf of Applicant 2425 Durant LLC",
+     "line": 166,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "section": "Communications",
+   "heading": "Item #3a: Zoning Adjustments Board Appeal: 2029 University Avenue, Use Permit Application #ZP2024-0182 (Student Housing-Oriented) / Item #3b: Zoning Adjustments Board Appeal: 2029 University Avenue, Use Permit Application #ZP2024-0181 (Multi-Family)",
+   "line": 168,
+   "entries": [
+    {
+     "as_printed": "Mark Rhoades on behalf of Laconia Development, LLC",
+     "line": 172,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "3a",
+    "3b"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #1: Zoning Adjustments Board Appeal: 2298 Durant, Use Permit Application #ZP2024-0126",
+   "line": 175,
+   "entries": [
+    {
+     "as_printed": "Jack Farrell on behalf of YIMBY Law",
+     "line": 177,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jolene Kramer",
+     "line": 178,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #2: Zoning Adjustments Board Appeal: 2425 Durant Avenue, Use Permit Application #ZP2024-0162",
+   "line": 180,
+   "entries": [
+    {
+     "as_printed": "Jack Farrell on behalf of YIMBY Law",
+     "line": 182,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jolene Kramer",
+     "line": 183,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #3a: Zoning Adjustments Board Appeal: 2029 University Avenue, Use Permit Application #ZP2024-0182 (Student Housing-Oriented) / Item #3b: Zoning Adjustments Board Appeal: 2029 University Avenue, Use Permit Application #ZP2024-0181 (Multi-Family)",
+   "line": 184,
+   "entries": [
+    {
+     "as_printed": "Paul Menzies on behalf of Laconia Development, LLC",
+     "line": 188,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jolene Kramer",
+     "line": 189,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jack Farrell on behalf of YIMBY Law",
+     "line": 190,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mark Rhoades on behalf of Laconia Development, LLC",
+     "line": 191,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "3a",
+    "3b"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1: Zoning Adjustments Board Appeal: 2298 Durant, Use Permit Application #ZP2024-0126",
+   "line": 194,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by the Planning & Development Department",
+     "line": 196,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1: Zoning Adjustments Board Appeal: 2298 Durant, Use Permit Application #ZP2024-0126 / Item #2: Zoning Adjustments Board Appeal: 2425 Durant Avenue, Use Permit Application #ZP2024-0162 / Item #3a: Zoning Adjustments Board Appeal: 2029 University Avenue, Use Permit Application #ZP2024-0182 (Student Housing-Oriented) / Item #3b: Zoning Adjustments Board Appeal: 2029 University Avenue, Use Permit Application #ZP2024-0181 (Multi-Family)",
+   "line": 198,
+   "entries": [
+    {
+     "as_printed": "James Lloyd on behalf of the California Housing Defense Fund",
+     "line": 206,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mark Rhoades",
+     "line": 207,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1",
+    "2",
+    "3a",
+    "3b"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #3a: Zoning Adjustments Board Appeal: 2029 University Avenue, Use Permit Application #ZP2024-0182 (Student Housing-Oriented) / Item #3b: Zoning Adjustments Board Appeal: 2029 University Avenue, Use Permit Application #ZP2024-0181 (Multi-Family)",
+   "line": 208,
+   "entries": [
+    {
+     "as_printed": "Ruhama Tereda on behalf of the North Coast States Carpenters Union",
+     "line": 212,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "3a",
+    "3b"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Zoning Adjustments Board Appeal: 2298 Durant, Use Permit Application #ZP2024-0126",
+   "line": 215,
+   "entries": [
+    {
+     "as_printed": "Gregory Kalkanis",
+     "line": 217,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #2: Zoning Adjustments Board Appeal: 2425 Durant Avenue, Use Permit Application #ZP2024-0162",
+   "line": 218,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Planning Department",
+     "line": 220,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bonnie Zhu (2)",
+     "line": 221,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": [
+    "2"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #3a: Zoning Adjustments Board Appeal: 2029 University Avenue, Use Permit Application #ZP2024-0182 (Student Housing-Oriented) / Item #3b: Zoning Adjustments Board Appeal: 2029 University Avenue, Use Permit Application #ZP2024-0181 (Multi-Family)",
+   "line": 227,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Planning Department",
+     "line": 231,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gregory Kalkanis",
+     "line": 232,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kelly Hammargren",
+     "line": 233,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Scott Littlehale",
+     "line": 234,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "3a",
+    "3b"
+   ]
+  }
+ ]
+}

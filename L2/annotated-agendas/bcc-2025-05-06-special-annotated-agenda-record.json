@@ -1,0 +1,100 @@
+{
+ "id": "bcc-2025-05-06-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-05-06-special-annotated-agenda",
+ "text": "bcc-2025-05-06-special-annotated-agenda-text",
+ "text_sha256": "10788d491d18c093eb5b01ca9902020c59887fb515fac4b09973ac0f5888fafd",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:37 p.m.",
+  "present": [
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin",
+    "time": "5:09 p.m."
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "5:12 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Worksession",
+   "heading": "Presentation and Discussion: Brown Act Training",
+   "lines": [
+    63,
+    66
+   ],
+   "from": "City Attorney’s Office",
+   "contact": "Farimah Brown, City Attorney, (510) 981-6950",
+   "financial_implications": null,
+   "action": "Action: 1 speaker. Presentation made and discussion held.",
+   "speakers": 1,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Presentation and Discussion: Brown Act Training",
+   "line": 87,
+   "entries": [
+    {
+     "as_printed": "Presentation, submitted by City Attorney’s Office",
+     "line": 88,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

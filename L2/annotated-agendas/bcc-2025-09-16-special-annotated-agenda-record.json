@@ -1,0 +1,163 @@
+{
+ "id": "bcc-2025-09-16-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-09-16-special-annotated-agenda",
+ "text": "bcc-2025-09-16-special-annotated-agenda-text",
+ "text_sha256": "4cbf5708de5f78354e5ab3eaeb919e28bf39b88ba954fc301b59784632eb859b",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:06 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "4:08 p.m."
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin",
+    "time": "4:21 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1a",
+   "section": "Action Calendar – Old Business",
+   "heading": "Presentation: Comprehensive Summary of Berkeley’s Homeless Response (Continued from July 29, 2025)",
+   "lines": [
+    64,
+    69
+   ],
+   "from": "City Manager",
+   "contact": "Peter Radu, City Manager's Office, (510) 981-7000, Scott Gilman, Health, Housing, and Community Services, (510) 981-5400",
+   "financial_implications": null,
+   "action": "Action: Presentation made and discussion held.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "1b",
+   "section": "Action Calendar – Old Business",
+   "heading": "Homeless Response Team: Opportunities Exist to Strengthen Procedures and Better Track Outcomes (Continued from July 29, 2025)",
+   "lines": [
+    71,
+    90
+   ],
+   "from": "Auditor",
+   "contact": "Jenny Wong, Auditor, (510) 981-6750",
+   "financial_implications": "See report",
+   "action": "Action: Presentation made and discussion held. M/S/C (Lunaparra/Taplin) to approve the recommendation with the amendment noted by the City Manager regarding the changing the reporting schedule from quarterly to semi-annually. Vote: All Ayes. Public Comment on Items 1a and 1b: 18 speakers.",
+   "speakers": 18,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "approve the recommendation with the amendment noted by the City Manager regarding the changing the reporting schedule from quarterly to semi-annually.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1a: Presentation: Comprehensive Summary of Berkeley’s Homeless Response (Continued from July 29, 2025)",
+   "line": 112,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the City Manager’s Office",
+     "line": 114,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1a"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1b: Homeless Response Team: Opportunities Exist to Strengthen Procedures and Better Track Outcomes (Continued from July 29, 2025)",
+   "line": 115,
+   "entries": [
+    {
+     "as_printed": "Fran Haselsteiner (2)",
+     "line": 117,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": [
+    "1b"
+   ]
+  }
+ ]
+}

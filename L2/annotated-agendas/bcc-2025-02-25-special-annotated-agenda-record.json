@@ -1,0 +1,80 @@
+{
+ "id": "bcc-2025-02-25-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-02-25-special-annotated-agenda",
+ "text": "bcc-2025-02-25-special-annotated-agenda-text",
+ "text_sha256": "a578d5bbb1bd5f920bfa9bf65d6a9578787a986d0467bcc1ab30e62a177df7ca",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:17 p.m.",
+  "present": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": null,
+    "as_printed": "Kesarwani Worksession 1. Berkeley Economic Dashboards Update From: City Manager Contact: Eleanor Hollander"
+   },
+   {
+    "member": null,
+    "as_printed": "Economic Development"
+   },
+   {
+    "member": null,
+    "as_printed": "(510) 981-7530"
+   }
+  ],
+  "arrived_late": []
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Worksession",
+   "heading": "Berkeley Economic Dashboards Update",
+   "lines": [
+    57,
+    60
+   ],
+   "from": "City Manager",
+   "contact": "Eleanor Hollander, Economic Development, (510) 981-7530",
+   "financial_implications": null,
+   "action": "Action: 4 speakers. Presentation made and discussion held.",
+   "speakers": 4,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": []
+}

@@ -1,0 +1,97 @@
+{
+ "id": "bcc-2025-02-25-special-annotated-agenda-v2-record",
+ "annotated_agenda": "bcc-2025-02-25-special-annotated-agenda-v2",
+ "text": "bcc-2025-02-25-special-annotated-agenda-v2-text",
+ "text_sha256": "7d1a7d17acf468cf28abc8101a587af152934eda934bbaf54dddeb3aa4f9d2f6",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:17 p.m.",
+  "present": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": null,
+    "as_printed": "Kesarwani Worksession 1. Berkeley Economic Dashboards Update From: City Manager Contact: Eleanor Hollander"
+   },
+   {
+    "member": null,
+    "as_printed": "Economic Development"
+   },
+   {
+    "member": null,
+    "as_printed": "(510) 981-7530"
+   }
+  ],
+  "arrived_late": []
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Worksession",
+   "heading": "Berkeley Economic Dashboards Update",
+   "lines": [
+    57,
+    60
+   ],
+   "from": "City Manager",
+   "contact": "Eleanor Hollander, Economic Development, (510) 981-7530",
+   "financial_implications": null,
+   "action": "Action: 4 speakers. Presentation made and discussion held.",
+   "speakers": 4,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Berkeley Economic Dashboards Update",
+   "line": 81,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Office of Economic Development",
+     "line": 82,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

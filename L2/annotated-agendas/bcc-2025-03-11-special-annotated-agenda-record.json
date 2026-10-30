@@ -1,0 +1,318 @@
+{
+ "id": "bcc-2025-03-11-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-03-11-special-annotated-agenda",
+ "text": "bcc-2025-03-11-special-annotated-agenda-text",
+ "text_sha256": "b3c736a5b82bfbeb5685854ad3e3df251061b0c7c0a547a3483fffbe5a29f3a0",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "5:07 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "5:09 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar – New Business",
+   "heading": "2025 City Council Referral Prioritization Process Using Re-Weighted Range Voting (RRV)",
+   "lines": [
+    62,
+    91
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "No direct fiscal impacts",
+   "action": "Action: 11 speakers. M/S/C (Tregub/O’Keefe) to: 1. Approve the removal of referrals that have been nominated for removal by the Council as revised to retain the following referrals as part of the Referral Prioritization Process: • Adding BMC Chapter 13.107, Helping Achieve Responsible Development with Healthcare and Apprenticeship Training Standards (HARD HATS) Ordinance (ID# DMND0004099); • Budget Referral: No Right on Red Signs (ID# DMND0004059); • Prioritizing Pedestrians at Intersections (ID# DMND0002584); • Berkeley Food Utility and Access Resilience Measure (FARM) (ID# DMND0004109); • Adopt Berkeley Municipal Code Chapter 13.89: Community/Tenant Opportunity to Purchase Act (ID# DMND0004197); and • Planning Commission Referral for a Pilot Density Bonus Program for the Telegraph Avenue Commercial District to Generate Revenue to House the Homeless and Extremely Low-Income Individuals (ID# DMND0004188). 2. Direct the City Manager to run the ranking algorithm and return to Council with a final ranked list of referrals for adoption. Vote: All Ayes.",
+   "speakers": 11,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-okeefe",
+       "as_printed": "O’Keefe"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "1. Approve the removal of referrals that have been nominated for removal by the Council as revised to retain the following referrals as part of the Referral Prioritization Process: • Adding BMC Chapter 13.107, Helping Achieve Responsible Development with Healthcare and Apprenticeship Training Standards (HARD HATS) Ordinance (ID# DMND0004099); • Budget Referral: No Right on Red Signs (ID# DMND0004059); • Prioritizing Pedestrians at Intersections (ID# DMND0002584); • Berkeley Food Utility and Access Resilience Measure (FARM) (ID# DMND0004109); • Adopt Berkeley Municipal Code Chapter 13.89: Community/Tenant Opportunity to Purchase Act (ID# DMND0004197); and • Planning Commission Referral for a Pilot Density Bonus Program for the Telegraph Avenue Commercial District to Generate Revenue to House the Homeless and Extremely Low-Income Individuals (ID# DMND0004188). 2. Direct the City Manager to run the ranking algorithm and return to Council with a final ranked list of referrals for adoption.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #1: 2025 City Council Referral Prioritization Process Using Re-Weighted Range Voting (RRV)",
+   "line": 105,
+   "entries": [
+    {
+     "as_printed": "Anna Cheyette",
+     "line": 107,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alfred Twu",
+     "line": 108,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ross Bernet",
+     "line": 109,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mike Wilson",
+     "line": 110,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julia Moss",
+     "line": 111,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Grayson Savoie",
+     "line": 112,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sunny",
+     "line": 113,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sarah Bell",
+     "line": 114,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1: 2025 City Council Referral Prioritization Process Using Re-Weighted Range Voting (RRV)",
+   "line": 120,
+   "entries": [
+    {
+     "as_printed": "Cameron Woo",
+     "line": 122,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Debbie Potter",
+     "line": 123,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Liz Ozol",
+     "line": 124,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: 2025 City Council Referral Prioritization Process Using Re-Weighted Range Voting (RRV)",
+   "line": 127,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the City Clerk Department",
+     "line": 129,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lydia Lopez",
+     "line": 130,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Aja Fasah",
+     "line": 131,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tahirah Dean",
+     "line": 132,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Regina Mouton",
+     "line": 133,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Arianne Senten",
+     "line": 134,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wilhelmenia Wilson on behalf of Health Black Families, Inc.",
+     "line": 135,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rahel Smith",
+     "line": 136,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Toni Mandara",
+     "line": 137,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chris Schildt",
+     "line": 138,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michael Trujillo on behalf of the East Bay Community Law Center",
+     "line": 139,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tracy Parent",
+     "line": 140,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jonathan Bachrach",
+     "line": 141,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Aimee Baldwin",
+     "line": 142,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kim Anno",
+     "line": 143,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mirah Moriarty and Rodrigo Esteva",
+     "line": 145,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rachel Katz",
+     "line": 146,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Amir Massih",
+     "line": 147,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lanny F. DeVuono",
+     "line": 148,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

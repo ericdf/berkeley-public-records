@@ -1,0 +1,2046 @@
+{
+ "id": "bcc-2026-06-16-regular-annotated-agenda-record",
+ "annotated_agenda": "bcc-2026-06-16-regular-annotated-agenda",
+ "text": "bcc-2026-06-16-regular-annotated-agenda-text",
+ "text_sha256": "7ea6fead43b5c37c37f1aff89debfda54ad48101a71cb848aaddf075f9c71e43",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:03 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": null,
+    "as_printed": "None Councilmember Kesarwani participated in the meeting remotely under the “just cause” exception in the Brown Act due to a child caregiving need"
+   }
+  ],
+  "arrived_late": []
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Consent Calendar",
+   "heading": "Write-Off of a Delinquent Revolving Loan Fund (RLF) Balance of $42,755 Owed by Minuteman Press (Synthesis Group, Inc)",
+   "lines": [
+    95,
+    103
+   ],
+   "from": "City Manager",
+   "contact": "Eleanor Hollander, Economic Development, (510) 981-7530",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,314–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "2",
+   "section": "Consent Calendar",
+   "heading": "Temporary Appropriations FY 2027",
+   "lines": [
+    105,
+    112
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,315–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "3",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Special Tax Rate: Fund the Provision of Library Relief Act of 2024 (Measure X)",
+   "lines": [
+    114,
+    126
+   ],
+   "from": "City Manager",
+   "contact": "Henry Bankhead, Library, (510) 981-6100, Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,013–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "4",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Special Tax Rate: Fund the Provision of Library Services",
+   "lines": [
+    128,
+    138
+   ],
+   "from": "City Manager",
+   "contact": "Henry Bankhead, Library, (510) 981-6100, Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,014–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "5",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Tax Rate: Business License Tax on Large Non-Profits",
+   "lines": [
+    145,
+    153
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,015–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "6",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Tax Rate: Fund Debt Service on 2015 Refunding General Obligation Bonds (Measures G, S & I)",
+   "lines": [
+    155,
+    164
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,016–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "7",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Tax Rate: Fund the Debt Service on the Affordable Housing General Obligation Bonds (Measure O, November 2018 Election)",
+   "lines": [
+    166,
+    175
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,017–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "8",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Tax Rate: Fund Emergency Services for the Severely Disabled (Measure E)",
+   "lines": [
+    177,
+    186
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,018–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "9",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Tax Rate: Fund Fire Protection and Emergency Response and Preparedness (Measure GG)",
+   "lines": [
+    193,
+    205
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300, David Sprague, Fire, (510) 981- 3473",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,019–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "10",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Tax Rate: Fund Firefighting, Emergency Medical Response and Wildfire Prevention (Measure FF)",
+   "lines": [
+    207,
+    217
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,020–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "11",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Tax Rate: Fund the Provision of Emergency Medical Services (Paramedic Tax)",
+   "lines": [
+    219,
+    228
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,021–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "12",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Tax Rate: Fund the Debt Service on the Infrastructure and Facilities General Obligation Bonds (Measure T1, November 2016 Election)",
+   "lines": [
+    230,
+    239
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,022–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "13",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Tax Rate: Fund the Maintenance of Parks, City Trees and Landscaping",
+   "lines": [
+    246,
+    255
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,023–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "14",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Tax Rate: Fund Debt Service on Neighborhood Branch Library Improvements Project General Obligation Bonds (Measure FF, November 2008 Election)",
+   "lines": [
+    257,
+    268
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,024–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "15",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Tax Rate: Fund Sustainable and Accountable Funding for Equitable Street Transformation, Revitalization, Enhancements, and Essential Traffic Safety (SAFE STREETS) (Measure FF)",
+   "lines": [
+    270,
+    283
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,025–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "16",
+   "section": "Consent Calendar",
+   "heading": "FY 2027 Tax Rate: Fund the Debt Service on the Street and Watershed Improvements General Obligation Bonds (Measure M, November 2012 Election)",
+   "lines": [
+    291,
+    300
+   ],
+   "from": "City Manager",
+   "contact": "Henry Oyekanmi, Finance, (510) 981-7300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted first reading of Ordinance No. 8,026–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "17",
+   "section": "Consent Calendar",
+   "heading": "Authorization to Apply for and Accept Funds (when awarded) of FY 2026 USDOT Safe Streets and Roads for All (SS4A) Grant",
+   "lines": [
+    302,
+    315
+   ],
+   "from": "City Manager",
+   "contact": "David Sprague, Fire, (510) 981-3473",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,316–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "18",
+   "section": "Consent Calendar",
+   "heading": "Shelter Plus Care Program Renewal Grants",
+   "lines": [
+    317,
+    332
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5100",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,317–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "19",
+   "section": "Consent Calendar",
+   "heading": "Behavioral Health Services Act Fiscal Years 2027-2029 Three-Year Integrated Plan",
+   "lines": [
+    339,
+    352
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5100",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,318–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "20",
+   "section": "Consent Calendar",
+   "heading": "Memorandum of Understanding: Berkeley Police Association",
+   "lines": [
+    354,
+    374
+   ],
+   "from": "City Manager",
+   "contact": "Janelle Rodrigues, Human Resources, (510) 981-6800",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,319–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "21",
+   "section": "Consent Calendar",
+   "heading": "Utility Easements for East Bay Municipal Utility District (EBMUD) Water Meters at 80 and 90 Bolivar Drive",
+   "lines": [
+    376,
+    385
+   ],
+   "from": "City Manager",
+   "contact": "Scott Ferris, Parks, Recreation and Waterfront, (510) 981-6700",
+   "financial_implications": "None",
+   "action": "Action: Adopted first reading of Ordinance No. 8,027–N.S. Second reading scheduled for June 30, 2026.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "22",
+   "section": "Consent Calendar",
+   "heading": "Approving Proposed Projects Anticipated to Be Paid for by the State’s Road Maintenance and Rehabilitation Account Funds for FY 2026-27",
+   "lines": [
+    391,
+    400
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,320–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "23",
+   "section": "Consent Calendar",
+   "heading": "Declaration of Intent – Fiscal Year 2027 Street Lighting Assessments",
+   "lines": [
+    402,
+    414
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,321–N.S. (District 1982-1), and Resolution No. 72,322–N.S. (District 2018).",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "24",
+   "section": "Consent Calendar",
+   "heading": "Contract: Odyssey Power for On-Call Generator Maintenance",
+   "lines": [
+    416,
+    424
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,323–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "25",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 32500082 Amendment: Telegraph Property and Business Management Corporation",
+   "lines": [
+    431,
+    442
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,324–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "26",
+   "section": "Consent Calendar",
+   "heading": "Contract: Radius Earthwork, Inc. for FY 2026 Street Maintenance and Rehabilitation Project",
+   "lines": [
+    444,
+    456
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,325–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "27",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 31900085 Amendment: Syn-Tech Systems Inc. for Fleet Fueling System and Software",
+   "lines": [
+    458,
+    467
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,326–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "28",
+   "section": "Consent Calendar",
+   "heading": "Contract No. 32400141 Amendment: Mercury Associates, Inc. for Fleet Consulting Services",
+   "lines": [
+    475,
+    486
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,327–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "29",
+   "section": "Consent Calendar",
+   "heading": "2026 Bicycle Plan Update",
+   "lines": [
+    488,
+    495
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,328–N.S.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "30",
+   "section": "Consent Calendar",
+   "heading": "Purchase Orders: Graybar Electric Company, Inc., W.W. Grainger, Inc. and WESCO Distribution, Inc. for Electrical Supplies and Parts",
+   "lines": [
+    497,
+    515
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300 Contact: Terrance Davis, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,329–N.S. (Graybar Electric), Resolution No. 72,330–N.S. (W.W. Grainger), and Resolution No. 72,331–N.S. (Omnia Partners).",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "31",
+   "section": "Council Consent Items",
+   "heading": "Resorcery Org’s Mural Reveal and Food Drive Relinquishment of Council Office Budget Funds to the General Fund and Grant of Such Funds",
+   "lines": [
+    523,
+    539
+   ],
+   "from": "Councilmember Bartlett (Author)",
+   "contact": "Ben Bartlett, Councilmember, District 3, (510) 981-7130",
+   "financial_implications": "See report",
+   "action": "Action: Councilmember Humbert added as a co-sponsor. Adopted Resolution No. 72,332–N.S. amended to include contributions from the following Councilmembers up to the amounts listed: Councilmember Humbert - $250; Councilmember Lunaparra - $200; Councilmember Blackaby - $250; Councilmember Tregub - $150; Councilmember Taplin $150; Councilmember O’Keefe - $200; Councilmember Kesarwani - $100; Mayor Ishii - $250.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-bartlett",
+     "as_printed": "Councilmember Bartlett (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [
+    {
+     "member": "off-humbert",
+     "as_printed": "Action: Councilmember Humbert added as a co-sponsor"
+    }
+   ],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "32",
+   "section": "Council Consent Items",
+   "heading": "Adopt a Position of Support for SB 954 (Blakespear): Addressing Non-Housing CEQA Exemptions for Industrial Manufacturing and Environmental Health Protections",
+   "lines": [
+    541,
+    557
+   ],
+   "from": "Councilmember Tregub (Author), Councilmember Bartlett (Co-Sponsor), Councilmember Lunaparra (Co-Sponsor)",
+   "contact": "Igor Tregub, Councilmember, District 4, (510) 981-7140",
+   "financial_implications": "Staff time",
+   "action": "Action: Approved recommendation.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-tregub",
+     "as_printed": "Councilmember Tregub (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-bartlett",
+     "as_printed": "Councilmember Bartlett (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    },
+    {
+     "member": "off-lunaparra",
+     "as_printed": "Councilmember Lunaparra (Co-Sponsor)",
+     "role": "co-sponsor",
+     "order": 3
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "33",
+   "section": "Council Consent Items",
+   "heading": "United for Health’s Moffitt Library Clinic: Relinquishment of Council Office Budget Funds to General Fund and Grant of Such Funds",
+   "lines": [
+    564,
+    579
+   ],
+   "from": "Councilmember Lunaparra (Author)",
+   "contact": "Cecilia Lunaparra, Councilmember, District 7, (510) 981-7170",
+   "financial_implications": "See report",
+   "action": "Action: Adopted Resolution No. 72,333–N.S. amended to include contributions from the following Councilmembers up to the amounts listed: Councilmember Humbert - $150; Councilmember Blackaby - $250; Councilmember Tregub - $150; Councilmember Taplin $150; Councilmember Bartlett - $200; Councilmember O’Keefe - $200; Councilmember Kesarwani - $100; Mayor Ishii - $250.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-lunaparra",
+     "as_printed": "Councilmember Lunaparra (Author)",
+     "role": "author",
+     "order": 1
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "34",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "Implement Residential Preferential Parking (RPP) Program on the 1500 Block of Delaware Street",
+   "lines": [
+    582,
+    600
+   ],
+   "from": "City Manager",
+   "contact": "Wahid Amiri, Public Works, (510) 981-6300",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Tregub/Bartlett) to adopt Resolution No. 72,334–N.S. amending Resolution No. 56,508-N.S. Section 25P by adding a subsection to implement Residential Preferential Parking (RPP) on the south side of Delaware Street between California Street and the Ohlone Greenway in RPP Area E Vote: All Ayes.",
+   "speakers": 0,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      },
+      {
+       "member": "off-bartlett",
+       "as_printed": "Bartlett"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 72,334–N.S. amending Resolution No. 56,508-N.S. Section 25P by adding a subsection to implement Residential Preferential Parking (RPP) on the south side of Delaware Street between California Street and the Ohlone Greenway in RPP Area E",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "35",
+   "section": "Action Calendar – New Business",
+   "heading": "Policy for Disruption of Remote Participation During Council Meetings",
+   "lines": [
+    608,
+    619
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "None",
+   "action": "Action: 0 speakers. M/S/C (Humbert/Taplin) to adopt Resolution No. 72,335-N.S. approving the Policy for Disruption of Telephonic or Internet Service During Public Meetings and append the Policy to the City Council Rules of Procedure and Order as Appendix C. Vote: All Ayes.",
+   "speakers": 0,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 72,335-N.S. approving the Policy for Disruption of Telephonic or Internet Service During Public Meetings and append the Policy to the City Council Rules of Procedure and Order as Appendix C.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "36",
+   "section": "Action Calendar – New Business",
+   "heading": "Affirming All-Electric Standards for the 2026 Infrastructure Bond Measure and City Capital Projects (Reviewed by the Facilities, Infrastructure, Transportation, Environment & Sustainability Policy Committee)",
+   "lines": [
+    621,
+    650
+   ],
+   "from": "Environment and Climate Commission",
+   "contact": "Sarah Moore, Commission Secretary, (510) 981-7400",
+   "financial_implications": "See report",
+   "action": "Action: 0 speakers. M/S/C (Humbert/Tregub) to adopt Resolution No. 72,336–N.S. as recommended by the Facilities, Infrastructure, Transportation, Environment & Sustainability Policy Committee by including the revisions in Supplemental Communications Packet #2 from the City Manager, and further amended to add a new resolved clause that reads as follows: BE IT FURTHER RESOLVED that the City Council's authority to grant exceptions to the all-electric construction and electrification requirements is a legislative discretionary act, and neither the granting nor the denial of any such exception shall give rise to any claim or cause of action in any court. Vote: All Ayes.",
+   "speakers": 0,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 72,336–N.S. as recommended by the Facilities, Infrastructure, Transportation, Environment & Sustainability Policy Committee by including the revisions in Supplemental Communications Packet #2 from the City Manager, and further amended to add a new resolved clause that reads as follows: BE IT FURTHER RESOLVED that the City Council's authority to grant exceptions to the all-electric construction and electrification requirements is a legislative discretionary act, and neither the granting nor the denial of any such exception shall give rise to any claim or cause of action in any court.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "37",
+   "section": "Action Calendar – New Business",
+   "heading": "Placing a Charter Amendment Measure on the November 3, 2026 Ballot to Amend Multiple Administrative Provisions",
+   "lines": [
+    658,
+    675
+   ],
+   "from": "City Manager",
+   "contact": "Mark Numainville, City Clerk, (510) 981-6900",
+   "financial_implications": "None",
+   "action": "Action: 0 speakers. M/S/C (Ishii/Humbert) to 1) adopt Resolution No. 72,337–N.S. placing charter amendment measure on the November 3, 2026 Ballot, including the text amendments in Supplemental Communications Packet #2 from the City Manager; and 2) designate Mayor Ishii, Councilmember Taplin, and Councilmember Lunaparra to file ballot measure arguments on the measure. Vote: All Ayes.",
+   "speakers": 0,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "1) adopt Resolution No. 72,337–N.S. placing charter amendment measure on the November 3, 2026 Ballot, including the text amendments in Supplemental Communications Packet #2 from the City Manager; and 2) designate Mayor Ishii, Councilmember Taplin, and Councilmember Lunaparra to file ballot measure arguments on the measure.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "38",
+   "section": "Action Calendar – New Business",
+   "heading": "Placing a General Obligation Bond Measure on the November 3, 2026 Ballot for the Acquisition or Improvement of Real Property for Public Infrastructure and Facilities",
+   "lines": [
+    677,
+    704
+   ],
+   "from": "City Manager",
+   "contact": "Paul Buddenhagen, City Manager, (510) 981-7000",
+   "financial_implications": "None",
+   "action": "Action: 1 speaker. M/S/C (Humbert/Tregub) to 1) adopt Resolution No. 72,338–N.S. determining public interest and necessity for issuing a general obligation bond in the amount of $300 million for public infrastructure and facilities, submitting to the Berkeley electorate on the November 3, 2026 ballot a measure to authorize a general obligation bond in that amount, and finding that the proposed measure is not a project under the California Environmental Quality Act; and including the following: • new ballot measure language in Supplemental Communications Packet #2 from the City Manager related to all-electric construction and replacement; • new ballot measure language read into the record by the City Attorney; • added a severability clause in Section 7 as read into the record by the City Attorney; and 2) designate Mayor Ishii, Councilmember Blackaby, Councilmember Tregub, and Councilmember Taplin to file ballot measure arguments on this measure. Vote: All Ayes.",
+   "speakers": 1,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "1) adopt Resolution No. 72,338–N.S. determining public interest and necessity for issuing a general obligation bond in the amount of $300 million for public infrastructure and facilities, submitting to the Berkeley electorate on the November 3, 2026 ballot a measure to authorize a general obligation bond in that amount, and finding that the proposed measure is not a project under the California Environmental Quality Act; and including the following: • new ballot measure language in Supplemental Communications Packet #2 from the City Manager related to all-electric construction and replacement; • new ballot measure language read into the record by the City Attorney; • added a severability clause in Section 7 as read into the record by the City Attorney; and 2) designate Mayor Ishii, Councilmember Blackaby, Councilmember Tregub, and Councilmember Taplin to file ballot measure arguments on this measure.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "39",
+   "section": "Action Calendar – Public Hearing",
+   "heading": "Placing a Transactions and Use (Sales) General Tax Measure on the November 3, 2026 Ballot",
+   "lines": [
+    711,
+    732
+   ],
+   "from": "City Manager",
+   "contact": "Paul Buddenhagen, City Manager, (510) 981-7000",
+   "financial_implications": "None",
+   "action": "Action: 4 speakers. M/S/C (O’Keefe/Kesarwani) to 1) adopt Resolution No. 72,339– N.S. submitting to the Berkeley electorate on the November 3, 2026 ballot a measure to authorize a one-half of one percent (0.5%) transactions and use (sales) tax for general municipal purposes, bringing the aggregate sales tax rate in Berkeley to 10.75%, and finding that the proposed measure is not a project under the California Environmental Quality Act; 2) adopt first reading of Ordinance No. 8,028-N.S. Second reading scheduled for June 30, 2026; and 3) designate Mayor Ishii, Councilmember Kesarwani, and Councilmember O’Keefe to file ballot measure arguments on this measure. Vote: All Ayes.",
+   "speakers": 4,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-okeefe",
+       "as_printed": "O’Keefe"
+      },
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "1) adopt Resolution No. 72,339– N.S. submitting to the Berkeley electorate on the November 3, 2026 ballot a measure to authorize a one-half of one percent (0.5%) transactions and use (sales) tax for general municipal purposes, bringing the aggregate sales tax rate in Berkeley to 10.75%, and finding that the proposed measure is not a project under the California Environmental Quality Act; 2) adopt first reading of Ordinance No. 8,028-N.S. Second reading scheduled for June 30, 2026; and 3) designate Mayor Ishii, Councilmember Kesarwani, and Councilmember O’Keefe to file ballot measure arguments on this measure.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "40a",
+   "section": "Action Calendar – Public Hearing",
+   "heading": "Proposed FY 2027 and FY 2028 Biennial Budget and Five-Year Capital Improvement Program (CIP) and Proposed Biennial Budget and Five-Year CIP Public Hearing No. 2",
+   "lines": [
+    740,
+    766
+   ],
+   "from": "City Manager",
+   "contact": "Maricar Dupaya, Budget Manager, (510) 981-7000",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Ishii/Tregub) to accept supplemental and revised materials from Mayor Ishii on Item 40a. Vote: All Ayes. Action: M/S/C (Ishii/Kesarwani) to suspend the rules and extend the meeting to 11:45 p.m. Vote: All Ayes. Action: M/S/C (Taplin/Tregub) to suspend the rules and extend the meeting to 12:00 a.m. Vote: All Ayes. Action: Presentation from the Budget Manager and Deputy City Manager. The Mayor introduced her budget proposal. Council discussion and questions.",
+   "speakers": 23,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "accept supplemental and revised materials from Mayor Ishii on Item 40a.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      },
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "suspend the rules and extend the meeting to 11:45 p.m.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    },
+    {
+     "seq": 2,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "suspend the rules and extend the meeting to 12:00 a.m.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "40b",
+   "section": "Action Calendar – Public Hearing",
+   "heading": "Budget Referral for the Solano Avenue Stroll (Reviewed by the Budget and Finance Policy Committee)",
+   "lines": [
+    774,
+    799
+   ],
+   "from": "Councilmember O'Keefe (Author), Councilmember Blackaby (Co- Sponsor)",
+   "contact": "Shoshana O'Keefe, Councilmember, District 5, (510) 981-7150",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (O’Keefe/Tregub) to take no action as the item has been subsumed into the Mayor’s proposed budget. Vote: All Ayes.",
+   "speakers": null,
+   "attribution": [
+    {
+     "member": "off-okeefe",
+     "as_printed": "Councilmember O'Keefe (Author)",
+     "role": "author",
+     "order": 1
+    },
+    {
+     "member": "off-blackaby",
+     "as_printed": "Councilmember Blackaby (Co- Sponsor)",
+     "role": "co-sponsor",
+     "order": 2
+    }
+   ],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-okeefe",
+       "as_printed": "O’Keefe"
+      },
+      {
+       "member": "off-tregub",
+       "as_printed": "Tregub"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "take no action as the item has been subsumed into the Mayor’s proposed budget.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "40c",
+   "section": "Action Calendar – Public Hearing",
+   "heading": "Proposed Five-Year Capital Improvement Program (CIP) and Proposed Five- Year CIP Public Hearing No. 1 (Continued from June 9, 2026) (Item contains supplemental material)",
+   "lines": [
+    801,
+    813
+   ],
+   "from": "City Manager",
+   "contact": "Maricar Dupaya, Budget Manager, (510) 981-7000",
+   "financial_implications": "See report.",
+   "action": "Action: City staff presented on the Five-Year Capital Improvement Program. The City Council asked questions and provided comments.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "41",
+   "section": "Information Reports",
+   "heading": "Landmark Preservation Ordinance Notice of Decision: 2276 Shattuck Avenue /#LMSAP2024-0005",
+   "lines": [
+    821,
+    825
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": null,
+   "action": "Action: Received and filed.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Berkeley Mobile Crisis Team",
+   "line": 837,
+   "entries": [
+    {
+     "as_printed": "Jennifer Wydro",
+     "line": 838,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Letter of Support",
+   "line": 840,
+   "entries": [
+    {
+     "as_printed": "Latinos Unidos de Berkeley",
+     "line": 841,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Sacramento St. and Dwight Way",
+   "line": 843,
+   "entries": [
+    {
+     "as_printed": "Valentina Xavier",
+     "line": 844,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Free College and Career Exploration Night",
+   "line": 846,
+   "entries": [
+    {
+     "as_printed": "Lexi Lopez Crothers",
+     "line": 847,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Proposed Parking Meter Changes",
+   "line": 849,
+   "entries": [
+    {
+     "as_printed": "Andres Douzoglou",
+     "line": 850,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Downtown Revitalization",
+   "line": 852,
+   "entries": [
+    {
+     "as_printed": "Krista Denton",
+     "line": 853,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "World Cup Watch Party",
+   "line": 855,
+   "entries": [
+    {
+     "as_printed": "Shelbi Walker on behalf of Visit Berkeley",
+     "line": 856,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Upzoning",
+   "line": 858,
+   "entries": [
+    {
+     "as_printed": "Christopher Batson (2)",
+     "line": 859,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Barbara Hadenfeldt",
+     "line": 860,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alice Waters",
+     "line": 861,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Tax Increase Concerns",
+   "line": 863,
+   "entries": [
+    {
+     "as_printed": "Karen Borst-Rothe",
+     "line": 864,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Concern Withdrawal",
+   "line": 869,
+   "entries": [
+    {
+     "as_printed": "Elizabeth Johnston (3)",
+     "line": 870,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "2720 College Avenue",
+   "line": 872,
+   "entries": [
+    {
+     "as_printed": "Anne Whyte",
+     "line": 873,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Solano Stroll",
+   "line": 875,
+   "entries": [
+    {
+     "as_printed": "Phoebe Thomas (2)",
+     "line": 876,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Fire Trucks",
+   "line": 878,
+   "entries": [
+    {
+     "as_printed": "David Lerman San Pablo Ave Development",
+     "line": 879,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gael Alcock",
+     "line": 881,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Bike Lanes",
+   "line": 883,
+   "entries": [
+    {
+     "as_printed": "Dorothea Dorenz",
+     "line": 884,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Berkeley Police Dept.",
+   "line": 886,
+   "entries": [
+    {
+     "as_printed": "Tillymaui",
+     "line": 887,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Case Concerns",
+   "line": 889,
+   "entries": [
+    {
+     "as_printed": "Jon Ruel Holder II",
+     "line": 890,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Building Renovations",
+   "line": 892,
+   "entries": [
+    {
+     "as_printed": "Thea Davison",
+     "line": 893,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Oxford Property",
+   "line": 895,
+   "entries": [
+    {
+     "as_printed": "Bonnie Mitchell",
+     "line": 896,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Letter",
+   "line": 898,
+   "entries": [
+    {
+     "as_printed": "Paul Kamen",
+     "line": 899,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "California’s 911 Rebuild",
+   "line": 901,
+   "entries": [
+    {
+     "as_printed": "2,280 Similarly worded form letters",
+     "line": 902,
+     "count": 2280,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "BMR Rent Clarifications",
+   "line": 904,
+   "entries": [
+    {
+     "as_printed": "Alex S. Merenkov (2)",
+     "line": 905,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Misty Garrett",
+     "line": 906,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "URLs",
+   "line": 908,
+   "entries": [
+    {
+     "as_printed": "Gena McCarthy",
+     "line": 909,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Russbumper (4)",
+     "line": 910,
+     "count": 4,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Josh Atwood",
+     "line": 911,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Forwards",
+   "line": 913,
+   "entries": [
+    {
+     "as_printed": "Russbumper (3)",
+     "line": 914,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "Newsletters",
+   "line": 916,
+   "entries": [
+    {
+     "as_printed": "Berkeley Art Center",
+     "line": 920,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Communications",
+   "heading": "E-Scooters",
+   "line": 922,
+   "entries": [
+    {
+     "as_printed": "Robert Borghese (4)",
+     "line": 923,
+     "count": 4,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Carson Lepre (4)",
+     "line": 924,
+     "count": 4,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Anosh Dumasia",
+     "line": 925,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": []
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #37: Placing a Charter Amendment Measure on the November 3, 2026 Ballot to Amend Multiple Administrative Provisions",
+   "line": 929,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by the City Clerk Department",
+     "line": 931,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "37"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #3: FY 2027 Special Tax Rate: Fund the Provision of Library Relief Act of 2024 (Measure X)",
+   "line": 934,
+   "entries": [
+    {
+     "as_printed": "6 Similarly worded form letters",
+     "line": 936,
+     "count": 6,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "11 Similarly worded form letters",
+     "line": 937,
+     "count": 11,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #29: 2026 Bicycle Plan Update",
+   "line": 938,
+   "entries": [
+    {
+     "as_printed": "Joanna Dillon",
+     "line": 939,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Katherine Silver",
+     "line": 940,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ben Gerhardstein",
+     "line": 941,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jen Natali",
+     "line": 942,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lucas Cantor",
+     "line": 943,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gunnar Madsen",
+     "line": 944,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nico Tripcevich",
+     "line": 945,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Morris Fuller",
+     "line": 946,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Daniel Tahara",
+     "line": 947,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "38 Similarly worded form letters",
+     "line": 948,
+     "count": 38,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "29"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #36: Affirming All-Electric Standards for the 2026 Infrastructure Bond Measure and City Capital Projects (Reviewed by the Facilities, Infrastructure, Transportation, Environment & Sustainability Policy Committee)",
+   "line": 949,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by the Planning & Development Department",
+     "line": 952,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "36"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #37: Placing a Charter Amendment Measure on the November 3, 2026 Ballot to Amend Multiple Administrative Provisions",
+   "line": 953,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by the City Clerk Department",
+     "line": 955,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "37"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #38: Placing a General Obligation Bond Measure on the November 3, 2026 Ballot for the Acquisition or Improvement of Real Property for Public Infrastructure and Facilities",
+   "line": 956,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by the Planning & Development Department",
+     "line": 959,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "38"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #40a: Proposed FY 2027 and FY 2028 Biennial Budget and Five-Year Capital Improvement Program (CIP) and Proposed Biennial Budget and Five-Year CIP Public Hearing No. 2",
+   "line": 960,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by the Mayor",
+     "line": 963,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Supplemental agenda material submitted by the City Manager’s Office",
+     "line": 964,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cathleen Fogel on behalf of McGee Ave Residents",
+     "line": 968,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Howard Menashe",
+     "line": 969,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Matt Gustafson",
+     "line": 970,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "40a"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #3: FY 2027 Special Tax Rate: Fund the Provision of Library Relief Act of 2024 (Measure X)",
+   "line": 973,
+   "entries": [
+    {
+     "as_printed": "Lauren Parsons",
+     "line": 975,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bernard Marszalek",
+     "line": 976,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Moni Gangopadhyay",
+     "line": 977,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kirk G. Mitchel",
+     "line": 978,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Meryl Siegal",
+     "line": 979,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Moni T. Law",
+     "line": 980,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dina Tasini",
+     "line": 981,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "3"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #26: Contract: Radius Earthwork, Inc. for FY 2026 Street Maintenance and Rehabilitation Project",
+   "line": 982,
+   "entries": [
+    {
+     "as_printed": "Steven B. Copeland on behalf of Bay Cities Paving & Grading, Inc.",
+     "line": 984,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "26"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #29: 2026 Bicycle Plan Update",
+   "line": 985,
+   "entries": [
+    {
+     "as_printed": "David Kessler",
+     "line": 986,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Atkins",
+     "line": 987,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michai Freeman (2)",
+     "line": 988,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Brit Harvey",
+     "line": 989,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jonathan Walden",
+     "line": 990,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Helen Walsh",
+     "line": 991,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nancy Rader on behalf of the Berkeley FireSafe Council",
+     "line": 992,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Amy Lyden",
+     "line": 993,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jennifer Johnston Item#34: Implement Residential Preferential Parking (RPP) Program on the 1500 Block of Delaware Street",
+     "line": 994,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Presentation submitted by the Public Works Department",
+     "line": 997,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "29"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #36: Affirming All-Electric Standards for the 2026 Infrastructure Bond Measure and City Capital Projects (Reviewed by the Facilities, Infrastructure, Transportation, Environment & Sustainability Policy Committee)",
+   "line": 998,
+   "entries": [
+    {
+     "as_printed": "Daniel Tahara",
+     "line": 1001,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "36"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #39: Placing a Transactions and Use (Sales) General Tax Measure on the November 3, 2026 Ballot",
+   "line": 1002,
+   "entries": [
+    {
+     "as_printed": "Ben Gerhardstein on behalf of Walk Bike Berkeley",
+     "line": 1004,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bernard McPhillips",
+     "line": 1005,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lauren Parsons",
+     "line": 1006,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tara Rayder Baker",
+     "line": 1007,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Klein",
+     "line": 1008,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "39"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #40a: Proposed FY 2027 and FY 2028 Biennial Budget and Five-Year Capital Improvement Program (CIP) and Proposed Biennial Budget and Five-Year CIP Public Hearing No. 2",
+   "line": 1009,
+   "entries": [
+    {
+     "as_printed": "Revised agenda material submitted by the Mayor",
+     "line": 1012,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jan M",
+     "line": 1016,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "James Lerager",
+     "line": 1017,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Courtney Palon behalf of Resources for Community Development",
+     "line": 1018,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Hayley Cox",
+     "line": 1019,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Candise",
+     "line": 1020,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Liz Horowitz Ceremonial Matters #2: Chris Lynch, Outside Counsel to the City, provided Bond Disclosure training for the City Council",
+     "line": 1021,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Presentation submitted by Chris Lynch",
+     "line": 1024,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "40a"
+   ]
+  }
+ ]
+}

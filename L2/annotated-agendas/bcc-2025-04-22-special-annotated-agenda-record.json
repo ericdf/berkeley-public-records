@@ -1,0 +1,822 @@
+{
+ "id": "bcc-2025-04-22-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2025-04-22-special-annotated-agenda",
+ "text": "bcc-2025-04-22-special-annotated-agenda-text",
+ "text_sha256": "6deb947550b3ef5049f90a528d831a42fe222ad026bb5bec7dd67277b8e65a7d",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:04 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": null,
+    "as_printed": "Bartlett Councilmember Taplin recused for potential conflict of interest at 6:14 p.m"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "6:17 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar – Public Hearings",
+   "heading": "ZAB Appeal: 2274 Shattuck Avenue, Use Permit #ZP2023-0079",
+   "lines": [
+    62,
+    92
+   ],
+   "from": "City Manager",
+   "contact": "Jordan Klein, Planning and Development, (510) 981-7400",
+   "financial_implications": "None",
+   "action": "Action: M/S/C (Blackaby/Humbert) to close the public hearing. Vote: Ayes – Kesarwani, Bartlett, Tregub, O’Keefe, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Recused – Taplin (Recused for Potential Conflict of Interest). Action: M/S/C (O’Keefe/Humbert) to adopt Resolution No. 71,725-N.S. affirming the Zoning Adjustments Board decision to approve Use Permit #ZP2023-0079 to demolish the commercial building (preserving and renovating the front façade and lobby), and construct a 17-story (183 feet, plus 5-foot parapet), 214,032-square-foot, mixed-use residential building with 227 dwelling units (including 23 Very Low-Income Density Bonus qualifying units), and one ADA parking space, and dismiss the appeal. Vote: Ayes – Kesarwani, Bartlett, Tregub, O’Keefe, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Recused – Taplin (Recused for Potential Conflict of Interest).",
+   "speakers": 54,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "close the public hearing.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       }
+      ],
+      "as_printed": "Vote: Ayes – Kesarwani, Bartlett, Tregub, O’Keefe, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Recused – Taplin (Recused for Potential Conflict of Interest)."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-okeefe",
+       "as_printed": "O’Keefe"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "adopt Resolution No. 71,725-N.S. affirming the Zoning Adjustments Board decision to approve Use Permit #ZP2023-0079 to demolish the commercial building (preserving and renovating the front façade and lobby), and construct a 17-story (183 feet, plus 5-foot parapet), 214,032-square-foot, mixed-use residential building with 227 dwelling units (including 23 Very Low-Income Density Bonus qualifying units), and one ADA parking space, and dismiss the appeal.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       }
+      ],
+      "as_printed": "Vote: Ayes – Kesarwani, Bartlett, Tregub, O’Keefe, Blackaby, Lunaparra, Humbert, Ishii; Noes – None; Abstain – None; Recused – Taplin (Recused for Potential Conflict of Interest)."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #1: ZAB Appeal: 2274 Shattuck Avenue, Use Permit #ZP2023-0079",
+   "line": 109,
+   "entries": [
+    {
+     "as_printed": "Laura Fujii",
+     "line": 110,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Frances Wilson",
+     "line": 111,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Constance Rivemale",
+     "line": 112,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Summer Brenner (2)",
+     "line": 113,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Sharon Gong",
+     "line": 114,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Neil Goldstein",
+     "line": 115,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura and Rose",
+     "line": 116,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Linden (6)",
+     "line": 117,
+     "count": 6,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "R. Kowalski",
+     "line": 118,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Lewis",
+     "line": 119,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "East Bay for Everyone",
+     "line": 120,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Greg King and Gary Parks",
+     "line": 121,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anjali Devi",
+     "line": 122,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Allen Michaan",
+     "line": 123,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barbara Hadenfeldt",
+     "line": 124,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane White",
+     "line": 125,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gretta Goldenman",
+     "line": 126,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gale Garcia",
+     "line": 127,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Todd Jersey",
+     "line": 128,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Ann Gallagher",
+     "line": 129,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sara Sunstein",
+     "line": 130,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "James Angus, Liz Linden, Eve Angus, and Lucy Angus",
+     "line": 131,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jjbrogan",
+     "line": 132,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mollie Starr",
+     "line": 133,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kathi Pugh and Josh Maddox",
+     "line": 134,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Titus",
+     "line": 135,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barbara Kloehn",
+     "line": 136,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rose Ellis",
+     "line": 137,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dan Ondrasek",
+     "line": 138,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kyle Miller",
+     "line": 139,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Harvey Smith",
+     "line": 140,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Madeleine Roberts (3)",
+     "line": 141,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Tom Lippe on behalf of Save the UA Berkeley",
+     "line": 142,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Scott Selmanoff",
+     "line": 143,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "283 Similarly worded form letters",
+     "line": 144,
+     "count": 283,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 1",
+   "heading": "Item #1: ZAB Appeal: 2274 Shattuck Avenue, Use Permit #ZP2023-0079",
+   "line": 148,
+   "entries": [
+    {
+     "as_printed": "Paula Aiello",
+     "line": 149,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elana Auerbach",
+     "line": 150,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Ann Gallagher",
+     "line": 151,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Connie Oliphant",
+     "line": 152,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Maxwell Davis on behalf of the Sierra Club",
+     "line": 153,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lindsay Mugglestone",
+     "line": 154,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dorothy Lubliner",
+     "line": 155,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Linden",
+     "line": 156,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rose",
+     "line": 157,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rose Thomsen",
+     "line": 158,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "James Bondi on behalf of Caitlin Hibma",
+     "line": 159,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Fujii",
+     "line": 160,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "51 Similarly worded form letters",
+     "line": 161,
+     "count": 51,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1: ZAB Appeal: 2274 Shattuck Avenue, Use Permit #ZP2023-0079",
+   "line": 164,
+   "entries": [
+    {
+     "as_printed": "Gregory Kalkanis",
+     "line": 165,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kelly McHan",
+     "line": 166,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Takemoto",
+     "line": 167,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Clifford Fred",
+     "line": 168,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Coveney",
+     "line": 169,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kathleen M. Crandall",
+     "line": 170,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Pat Schwinn",
+     "line": 171,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Molly Miller",
+     "line": 172,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alexa Chipman",
+     "line": 173,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ross Bernet",
+     "line": 174,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tom Lippe on behalf of Save the UA Berkeley",
+     "line": 175,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rose",
+     "line": 176,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elana Auerbach",
+     "line": 177,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anjali Rojas",
+     "line": 178,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Donna West",
+     "line": 179,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gary Parks",
+     "line": 180,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Christine U’Ren",
+     "line": 181,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ken Walker",
+     "line": 182,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cindy Shamban",
+     "line": 183,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rachel Rosen",
+     "line": 184,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Mendelsohn",
+     "line": 185,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Linden",
+     "line": 186,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "12 Similarly worded form letters “Stop the demolition”",
+     "line": 187,
+     "count": 12,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "46 Similarly worded form letters “Support the use permit”",
+     "line": 188,
+     "count": 46,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: ZAB Appeal: 2274 Shattuck Avenue, Use Permit #ZP2023-0079",
+   "line": 191,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Planning Department",
+     "line": 192,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "James M. Lloyd",
+     "line": 193,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julia Robertson",
+     "line": 194,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Todd Darling",
+     "line": 195,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gretta Goldenman",
+     "line": 196,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lee Bishop",
+     "line": 197,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Morland",
+     "line": 199,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Madeleine Roberts Rich (2)",
+     "line": 200,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "John Carnahan",
+     "line": 201,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Paul Bickmore",
+     "line": 202,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michael Fullerton",
+     "line": 203,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rafa Sonnefeld",
+     "line": 204,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robin R. Baral",
+     "line": 205,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jack Farrell",
+     "line": 206,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nancy D. Kates",
+     "line": 207,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Eileen Adams",
+     "line": 208,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robin R. Baral on behalf of Hanson Bridgett LLP",
+     "line": 209,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "James Hendry",
+     "line": 210,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Annie Wormhoudt",
+     "line": 211,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "8 Similarly worded form letters “Please reject the appeal”",
+     "line": 212,
+     "count": 8,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "10 Similarly worded form letters “Stop the demolition”",
+     "line": 213,
+     "count": 10,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "Unknown",
+     "line": 214,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Unknown",
+     "line": 215,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2581 @@
+{
+ "id": "bcc-2026-05-07-regular-annotated-agenda-v2-record",
+ "annotated_agenda": "bcc-2026-05-07-regular-annotated-agenda-v2",
+ "text": "bcc-2026-05-07-regular-annotated-agenda-v2-text",
+ "text_sha256": "dcdacd99c639d9cf237abd1457f96ca22f97beb4bd1c226d1a626c3931e1a05e",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "5:09 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "5:17 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1a",
+   "section": "Action Calendar – Old Business",
+   "heading": "Public Safety Technology: Surveillance Technology Ordinance and Police Equipment Ordinance Approvals, Policy Updates, and Contract Authority (Continued from March 24, 2026) (Item contains revised and supplemental material.)",
+   "lines": [
+    65,
+    186
+   ],
+   "from": "City Manager",
+   "contact": "Jennifer Louis, Police, (510) 981-5900",
+   "financial_implications": "See report",
+   "action": "Action: M/S/C (Humbert/Kesarwani) to suspend the rules and extend the meeting to 11:15p.m. Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, O’Keefe, Blackaby, Lunaparra, Humbert; Noes – Ishii. Action: M/S/Failed (O’Keefe/Lunaparra) to amend the main motion to include the amendments to the UAS Use Policy submitted by Councilmember O’Keefe in Supplemental Communications Packet #2. Vote: Ayes – Tregub, O’Keefe, Lunaparra, Humbert; Noes – Kesarwani, Taplin, Bartlett, Blackaby, Ishii. Action: 156 speakers. Motion/Seconded (Blackaby/Humbert) to: 1) Not move forward with the full Master Services Agreement (MSA) execution as proposed. 2) Authorize extension of the current contract for Automated License Plate Readers (ALPRs) for 12 months for an additional contract amount up to $200,000. 3) Include in the negotiation of the ALPR contract extension the proposed terms contained in the supplemental materials from Councilmember Humbert and Councilmember Blackaby originally submitted on March 24 and included in the May 7 agenda packet; additionally include the exploration of contract terms with a penalty of $290,000 per violation. 4) Refer to the City Manager the initiation of an RFP process in consultation with the Police Accountability Board and BPD for each of the components in the MSA and for their integration. 5) Approve Sections 1 – 6, 8, and 9 from the supplemental materials submitted by Mayor Ishii in Supplemental Communications Packet #2 (noted below). 1. Amend the Surveillance Use Policy for the Unmanned Aerial System (UAS) 2. Refer the Community Video Stream Acquisition Report and Surveillance Use Policy to the Public Safety Policy Committee (PSPC) for further review 3. Amend the Surveillance Use Policy for Fixed Cameras 4. Amend the UAS Equipment Use Policy 5. Refer the following request for information to the City Manager to quantify the need for UAS 6. Refer the UAS Military Equipment Impact Statement to the City Manager for research and analysis of alternative surveillance technology vendors capable of meeting the City of Berkeley’s safety and surveillance needs while balancing privacy and civil liberties protections 8. Refer to the City Manager to amend Ordinance 2.99 to include a violation/termination clause for surveillance technology vendors. 9. Refer to the City Manager and City Attorney additional contractual language to require a vendor to inform the City of any request for information (including but not limited to subpoenas, discovery requests, or requests under any federal or state statute to the extent permitted by law) it receives related to City-controlled data and safeguard it to the fullest extent allowed by law. Action Calendar – Old Business 6) Include the following amendments to the policies from Councilmember Lunaparra: UAS 1303.2 Authorized use: 10. To respond to active violent criminal activity at mass gatherings or special events only when there is probable cause of a felony and an active threat of serious bodily injury. ALPRs Extension of ALPRs should include an efficacy assessment and review for compliance to be presented to Council at least 30 days before the end of the extension 7) Take no action on Item 1b. Action: Request to Sever the Main Motion by Mayor Ishii. M/S/Carried (Blackaby/Humbert) to approve severed portions #1, #5, #6, and #7 noted above. Vote: Ayes – Kesarwani, Taplin, Tregub, O’Keefe, Blackaby, Lunaparra, Humbert, Ishii; Noes – Bartlett. Action: Request to Sever the Main Motion by Mayor Ishii. M/S/Carried (Blackaby/Humbert) to approve severed portions #2, #3, and #4 noted above. Vote: Ayes – Kesarwani, Taplin, O’Keefe, Blackaby, Humbert; Noes – Bartlett, Tregub, Lunaparra, Ishii. Action: Adopted Resolution No. 72,254 –N.S. amended to remove the Whereas clauses and Resolved clauses regarding the Master Services Agreement (MSA) with Flock Safety and the related contract authority; revise the first Resolved clause regarding acceptance and approval of the amended Surveillance Use Policy and Military Equipment Use Policy for UAS; and the approval of the amended Surveillance Use Policy for Fixed Cameras; revise and renumber paragraph 8 to authorize extension of the current contract for Automated License Plate Readers (ALPRs) for 12 months for an additional contract amount up to $200,000.",
+   "speakers": 156,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "procedural",
+     "movers": [
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      },
+      {
+       "member": "off-kesarwani",
+       "as_printed": "Kesarwani"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": false,
+     "text": "suspend the rules and extend the meeting to 11:15p.m.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Bartlett, Tregub, O’Keefe, Blackaby, Lunaparra, Humbert; Noes – Ishii."
+     }
+    },
+    {
+     "seq": 1,
+     "kind": "amendment",
+     "movers": [
+      {
+       "member": "off-okeefe",
+       "as_printed": "O’Keefe"
+      },
+      {
+       "member": "off-lunaparra",
+       "as_printed": "Lunaparra"
+      }
+     ],
+     "disposition": "failed",
+     "severed": false,
+     "final": false,
+     "text": "amend the main motion to include the amendments to the UAS Use Policy submitted by Councilmember O’Keefe in Supplemental Communications Packet #2.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Tregub, O’Keefe, Lunaparra, Humbert; Noes – Kesarwani, Taplin, Bartlett, Blackaby, Ishii."
+     }
+    },
+    {
+     "seq": 2,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "unknown",
+     "severed": false,
+     "final": false,
+     "text": "1) Not move forward with the full Master Services Agreement (MSA) execution as proposed. 2) Authorize extension of the current contract for Automated License Plate Readers (ALPRs) for 12 months for an additional contract amount up to $200,000. 3) Include in the negotiation of the ALPR contract extension the proposed terms contained in the supplemental materials from Councilmember Humbert and Councilmember Blackaby originally submitted on March 24 and included in the May 7 agenda packet; additionally include the exploration of contract terms with a penalty of $290,000 per violation. 4) Refer to the City Manager the initiation of an RFP process in consultation with the Police Accountability Board and BPD for each of the components in the MSA and for their integration. 5) Approve Sections 1 – 6, 8, and 9 from the supplemental materials submitted by Mayor Ishii in Supplemental Communications Packet #2 (noted below). 1. Amend the Surveillance Use Policy for the Unmanned Aerial System (UAS) 2. Refer the Community Video Stream Acquisition Report and Surveillance Use Policy to the Public Safety Policy Committee (PSPC) for further review 3. Amend the Surveillance Use Policy for Fixed Cameras 4. Amend the UAS Equipment Use Policy 5. Refer the following request for information to the City Manager to quantify the need for UAS 6. Refer the UAS Military Equipment Impact Statement to the City Manager for research and analysis of alternative surveillance technology vendors capable of meeting the City of Berkeley’s safety and surveillance needs while balancing privacy and civil liberties protections 8. Refer to the City Manager to amend Ordinance 2.99 to include a violation/termination clause for surveillance technology vendors. 9. Refer to the City Manager and City Attorney additional contractual language to require a vendor to inform the City of any request for information (including but not limited to subpoenas, discovery requests, or requests under any federal or state statute to the extent permitted by law) it receives related to City-controlled data and safeguard it to the fullest extent allowed by law. Action Calendar – Old Business 6) Include the following amendments to the policies from Councilmember Lunaparra: UAS 1303.2 Authorized use: 10. To respond to active violent criminal activity at mass gatherings or special events only when there is probable cause of a felony and an active threat of serious bodily injury. ALPRs Extension of ALPRs should include an efficacy assessment and review for compliance to be presented to Council at least 30 days before the end of the extension 7) Take no action on Item 1b.",
+     "vote_label": null,
+     "vote": null
+    },
+    {
+     "seq": 3,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": true,
+     "final": false,
+     "text": "approve severed portions #1, #5, #6, and #7 noted above.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, Tregub, O’Keefe, Blackaby, Lunaparra, Humbert, Ishii; Noes – Bartlett."
+     }
+    },
+    {
+     "seq": 4,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-blackaby",
+       "as_printed": "Blackaby"
+      },
+      {
+       "member": "off-humbert",
+       "as_printed": "Humbert"
+      }
+     ],
+     "disposition": "carried",
+     "severed": true,
+     "final": true,
+     "text": "approve severed portions #2, #3, and #4 noted above.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": false,
+      "ayes": [
+       {
+        "member": "off-kesarwani",
+        "as_printed": "Kesarwani"
+       },
+       {
+        "member": "off-taplin",
+        "as_printed": "Taplin"
+       },
+       {
+        "member": "off-okeefe",
+        "as_printed": "O’Keefe"
+       },
+       {
+        "member": "off-blackaby",
+        "as_printed": "Blackaby"
+       },
+       {
+        "member": "off-humbert",
+        "as_printed": "Humbert"
+       }
+      ],
+      "noes": [
+       {
+        "member": "off-bartlett",
+        "as_printed": "Bartlett"
+       },
+       {
+        "member": "off-tregub",
+        "as_printed": "Tregub"
+       },
+       {
+        "member": "off-lunaparra",
+        "as_printed": "Lunaparra"
+       },
+       {
+        "member": "off-ishii",
+        "as_printed": "Ishii"
+       }
+      ],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: Ayes – Kesarwani, Taplin, O’Keefe, Blackaby, Humbert; Noes – Bartlett, Tregub, Lunaparra, Ishii."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  },
+  {
+   "item": "1b",
+   "section": "Action Calendar – Old Business",
+   "heading": "Social Justice Implications of contracts with the Immigration Data Broker, Flock Safety (Continued from April 21, 2026)",
+   "lines": [
+    189,
+    199
+   ],
+   "from": "Peace and Justice Commission",
+   "contact": "Tasha Tervalon, Commission Secretary, (510) 981-7000",
+   "financial_implications": "None",
+   "action": "Action: See action for Item 1a.",
+   "speakers": null,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Communications",
+   "heading": "Item #1a: Public Safety Technology: Surveillance Technology Ordinance and Police Equipment Ordinance Approvals, Policy Updates, and Contract Authority / Item #1b: Social Justice Implications of contracts with the Immigration Data Broker, Flock Safety",
+   "line": 212,
+   "entries": [
+    {
+     "as_printed": "Jackie Fishbein, on behalf of Flock Group, Inc",
+     "line": 216,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Commission on Labor",
+     "line": 217,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Human Welfare & Community Action Commission",
+     "line": 218,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Soloff",
+     "line": 219,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gabriel du Toit",
+     "line": 220,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gael Alcock",
+     "line": 221,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Vanessa Vega & Brian Pasley",
+     "line": 222,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chris Hamilton",
+     "line": 223,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Christi Tuleja",
+     "line": 224,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Hali Hammer",
+     "line": 225,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Peter VanArsdale",
+     "line": 226,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bobbie Steinhart",
+     "line": 227,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Victoria Wesson",
+     "line": 228,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Irene Rice",
+     "line": 229,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Vijay Ramesh",
+     "line": 230,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Melanie Lawrence & John Smail",
+     "line": 231,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janice Schroeder",
+     "line": 232,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jesse Rosemoore",
+     "line": 233,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Arlene Owseichik",
+     "line": 234,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sonya Baehr",
+     "line": 235,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leslie Firestone",
+     "line": 236,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Justine Kessler",
+     "line": 237,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dorothea Dorenz",
+     "line": 238,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Steen Jensen",
+     "line": 239,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephani Lesh",
+     "line": 240,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Shirley Kirsten",
+     "line": 241,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Linda Wood",
+     "line": 242,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Eric Friedman",
+     "line": 243,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Margots999",
+     "line": 244,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "russbumper",
+     "line": 245,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "11 similarly-worded form letters",
+     "line": 246,
+     "count": 11,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "1a",
+    "1b"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1a: Public Safety Technology: Surveillance Technology Ordinance and Police Equipment Ordinance Approvals, Policy Updates, and Contract Authority / Item #1b: Social Justice Implications of contracts with the Immigration Data Broker, Flock Safety",
+   "line": 254,
+   "entries": [
+    {
+     "as_printed": "Supplemental agenda material submitted by the Police Department and the Finance Department",
+     "line": 258,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Supplemental material submitted by Councilmember O’Keefe",
+     "line": 260,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Revised agenda material submitted by Mayor Adena Ishii",
+     "line": 261,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Police Accountability Board",
+     "line": 262,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Merry Frank",
+     "line": 263,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Steve Ravellette, Victoria Cole, and Melissa Kerpel, on behalf of SafeBears Inc.",
+     "line": 264,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alan Pearson",
+     "line": 265,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Andrea Prichett",
+     "line": 266,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Verna Winters",
+     "line": 267,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Shirlonda Henry",
+     "line": 268,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Schatz (2)",
+     "line": 269,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Rachel Durling",
+     "line": 270,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeronimo Martin",
+     "line": 271,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane Terjung",
+     "line": 272,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barbara Schick",
+     "line": 273,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "James Marshall",
+     "line": 274,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Andrew Donohoe",
+     "line": 275,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Karen Young and Mike Ravera",
+     "line": 276,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Maneesh Saini",
+     "line": 277,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Greg Bernstein",
+     "line": 278,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Brett Gabby",
+     "line": 279,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan McCutchan",
+     "line": 280,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julie Illi",
+     "line": 281,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "vandi_g",
+     "line": 282,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nathaniel Emodi",
+     "line": 283,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Luna Calderon",
+     "line": 284,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Franziska Raedeker",
+     "line": 285,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gerald Bland",
+     "line": 286,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dale Hanchett",
+     "line": 287,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Patrick Golier",
+     "line": 288,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robin Beauchamp",
+     "line": 289,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Box Dixon",
+     "line": 290,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Holly Scheider",
+     "line": 291,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Paul Gumpel",
+     "line": 292,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Leipzig",
+     "line": 293,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stanley Glenn",
+     "line": 294,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gregory Snyder",
+     "line": 295,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Emily Ziebell",
+     "line": 296,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jordan Sax",
+     "line": 297,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Dale Webber",
+     "line": 298,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Allan Abshez",
+     "line": 299,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sonya Tafoya",
+     "line": 300,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sherri K.",
+     "line": 301,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "George Cesana",
+     "line": 303,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sandra Martin",
+     "line": 304,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Karen Rothblatt",
+     "line": 305,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Debbie Reed",
+     "line": 306,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Djuna Odegard",
+     "line": 307,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Deneen Proctor",
+     "line": 308,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Charles King",
+     "line": 309,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan Berman",
+     "line": 310,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Steven Donaldson",
+     "line": 311,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sharon Findlay",
+     "line": 312,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bruce Bauer",
+     "line": 313,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gary Miguel",
+     "line": 314,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alan Phillips",
+     "line": 315,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nora Smiriga",
+     "line": 316,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michael Rice",
+     "line": 317,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Teresa Thornton",
+     "line": 318,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janeece Cristales",
+     "line": 319,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "MJ Baumann",
+     "line": 320,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mallorie Baron",
+     "line": 321,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jack Kurzweil (2)",
+     "line": 322,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Wei-Bing Chen",
+     "line": 323,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Hayley Cox",
+     "line": 324,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mark Abrahams",
+     "line": 325,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jill Johnson",
+     "line": 326,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Shirlonda Henry",
+     "line": 327,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laurie Nardinelli",
+     "line": 328,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sam Kessel",
+     "line": 329,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jason Martens",
+     "line": 330,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joan Garbarino",
+     "line": 331,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kate Rassbach",
+     "line": 332,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jane Wiedlin",
+     "line": 333,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Christopher Kroll",
+     "line": 334,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sam Kaplan Pettus",
+     "line": 335,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Keith Barton",
+     "line": 336,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Peter Deibler",
+     "line": 337,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sarah Leverett",
+     "line": 338,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Yvonne Woolsey",
+     "line": 339,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sara Betts",
+     "line": 340,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sasha Howes",
+     "line": 341,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Merle Lustig",
+     "line": 342,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Phoebe Thomas Sorgen",
+     "line": 343,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wynd Kaufmyn",
+     "line": 344,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ingrid Safranek",
+     "line": 345,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Carina O’Brien",
+     "line": 346,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Megan Mellard O’Neil",
+     "line": 347,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Melanie Lawrence & John Smail (2)",
+     "line": 348,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Alan Phillips",
+     "line": 349,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ross and Robin Berman",
+     "line": 350,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kathleen Rose",
+     "line": 351,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Boona Cheema",
+     "line": 352,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jean Waddell",
+     "line": 354,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ashley DeVore",
+     "line": 355,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Maryann Osullivan",
+     "line": 356,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stanley E. Glenn",
+     "line": 357,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cris Benton",
+     "line": 358,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Claudia Benton",
+     "line": 359,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Waters",
+     "line": 360,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Larry Hendel",
+     "line": 361,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bruce & Linda Bargmeyer",
+     "line": 362,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Deb DenHerder",
+     "line": 363,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Carole Burns",
+     "line": 364,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mangesh & Suchitra Kolhatkar",
+     "line": 365,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Victoria Cole",
+     "line": 366,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Austin Abrams",
+     "line": 367,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sandy Lee",
+     "line": 368,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kate Rassbach",
+     "line": 369,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jennifer Miller",
+     "line": 370,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Martha Brown",
+     "line": 371,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeffrey Heller",
+     "line": 372,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John J. Parman",
+     "line": 373,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Christine Johnston",
+     "line": 374,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Patricia Slater",
+     "line": 375,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Charles Carlson",
+     "line": 376,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kelly Hammargren",
+     "line": 377,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Brad Winemiller",
+     "line": 378,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Judith Thomas",
+     "line": 379,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Judy Grether",
+     "line": 380,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Akram Belghith",
+     "line": 381,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ariella Granett",
+     "line": 382,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Robb Godshaw",
+     "line": 383,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anita Medal",
+     "line": 384,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Paul Rickey",
+     "line": 385,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Melissa Pulling",
+     "line": 386,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tony Hansen",
+     "line": 387,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Vanessa Vega",
+     "line": 388,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janice Schroeder",
+     "line": 389,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "S. Omowale Fowles",
+     "line": 390,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Average macandcheese enjoyer",
+     "line": 391,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Remmelt Ellen",
+     "line": 392,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Thomas Deckert",
+     "line": 393,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rose White",
+     "line": 394,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Preuss",
+     "line": 395,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Masumi Maei Hayashi-Smith",
+     "line": 396,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Carol Denney",
+     "line": 397,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mangesh Kolhatkar",
+     "line": 398,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Gwen Byard",
+     "line": 399,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeanette McNeil",
+     "line": 400,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Shilpa Jain",
+     "line": 401,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elana Auerbach",
+     "line": 402,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Ann Meany and Donald Santos",
+     "line": 403,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anna Garfink",
+     "line": 405,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Korman",
+     "line": 406,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Danette Davis",
+     "line": 407,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Johna Pecot",
+     "line": 408,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Linda Gerson",
+     "line": 409,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tim Kingston",
+     "line": 410,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alan Phillips",
+     "line": 411,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Pua Owan",
+     "line": 412,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Isobel White",
+     "line": 413,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Micky Duxbury",
+     "line": 414,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jennifer Doebler",
+     "line": 415,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Candice Schott",
+     "line": 416,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Melanie Curry",
+     "line": 417,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nan Gefen",
+     "line": 418,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janet Hack",
+     "line": 419,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elias Welsh",
+     "line": 420,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Annabelle Potvin",
+     "line": 421,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Carol Belcher",
+     "line": 422,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Amelia Pernell",
+     "line": 423,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Marcel Hawiger",
+     "line": 424,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rebecca Tilley",
+     "line": 425,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Larry Rail",
+     "line": 426,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laurie Schley",
+     "line": 427,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Helen Finkelstein",
+     "line": 428,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Marge Sussman",
+     "line": 429,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Bill Press",
+     "line": 430,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Karen Bouris",
+     "line": 431,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Candace Simonen",
+     "line": 432,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephen Wahlstrom",
+     "line": 433,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeff Leyser",
+     "line": 434,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Korman",
+     "line": 435,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Vicki Savitt",
+     "line": 436,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Susan McCutchan",
+     "line": 437,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Wolyineka",
+     "line": 438,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "William P. Wreden Jr.",
+     "line": 439,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Azere Wilson",
+     "line": 440,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jo Heilman",
+     "line": 441,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ken Berland",
+     "line": 442,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Betania Goodman",
+     "line": 443,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Berkeley D1 Resident (2)",
+     "line": 444,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Anne Wormhoudt",
+     "line": 445,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cindy Larson",
+     "line": 446,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sara Sunstein",
+     "line": 447,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Teri Johnstone",
+     "line": 448,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Peter Metcalf (3)",
+     "line": 449,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Peggy Radel",
+     "line": 450,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Noah Kahn",
+     "line": 451,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Phoebe Thomas Sorgen",
+     "line": 452,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julian Foley",
+     "line": 453,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Liz Ozol",
+     "line": 454,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lorian Schaeffer",
+     "line": 456,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elizabeth Ferguson",
+     "line": 457,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Xiaoyuan Li",
+     "line": 458,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Emily Ziebell",
+     "line": 459,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Peter Calthorpe",
+     "line": 460,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barbara Gilbert",
+     "line": 461,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Fran Layton",
+     "line": 462,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Beth Blattenberger",
+     "line": 463,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Alysse Wishart",
+     "line": 464,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Deanna Mason",
+     "line": 465,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anne-Lise Francois",
+     "line": 466,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sonya Baehr",
+     "line": 467,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Berkeley Neighborhoods Council",
+     "line": 468,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "April Gilbert",
+     "line": 469,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Frances Holt",
+     "line": 470,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Koralie Hill",
+     "line": 471,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tammy Kreznar on behalf of ACLU NorCal",
+     "line": 472,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Andrew Johnson",
+     "line": 473,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tanya Johnson",
+     "line": 474,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Signe Henderson",
+     "line": 475,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lesli-Jo Sawada",
+     "line": 476,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kathy Kojimoto",
+     "line": 477,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leslie Firestone",
+     "line": 478,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Edith Friedman",
+     "line": 479,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "7 Similarly worded form letters “I am a Berkeley resident…”",
+     "line": 480,
+     "count": 7,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "38 Similarly worded form letters “I am the parent of a UC Berkeley student…”",
+     "line": 481,
+     "count": 38,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "214 Similarly worded form letters “ I am writing to urge you to oppose…”",
+     "line": 483,
+     "count": 214,
+     "count_basis": "similarly worded or form letters"
+    }
+   ],
+   "items": [
+    "1a",
+    "1b"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1a: Public Safety Technology: Surveillance Technology Ordinance and Police Equipment Ordinance Approvals, Policy Updates, and Contract Authority / Item #1b: Social Justice Implications of contracts with the Immigration Data Broker, Flock Safety",
+   "line": 487,
+   "entries": [
+    {
+     "as_printed": "Sean Arseo",
+     "line": 491,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Douglas W. James",
+     "line": 492,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Avi Rappoport",
+     "line": 493,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cheryl Brewster",
+     "line": 494,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jonathan Holt",
+     "line": 495,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Luz Buitrago",
+     "line": 496,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nora Smiriga",
+     "line": 497,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kelly Cooke",
+     "line": 498,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Eric Friedman",
+     "line": 499,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Leila Allen",
+     "line": 500,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Deifler",
+     "line": 501,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rebecca Pingree",
+     "line": 502,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anandamayi Arnold",
+     "line": 503,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Fred Dodsworth (2)",
+     "line": 504,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Christopher Warren",
+     "line": 505,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Megan Garner",
+     "line": 507,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rose E. Aplustill",
+     "line": 508,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Linda Berkowitz",
+     "line": 509,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Peter Ciccolo",
+     "line": 510,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Monika Mann",
+     "line": 511,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Arriola",
+     "line": 512,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jenny Rempel",
+     "line": 513,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Netsy Firestein",
+     "line": 514,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ed Allen",
+     "line": 515,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Allen (2)",
+     "line": 516,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Adrienne McInnis",
+     "line": 517,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ian Baker",
+     "line": 518,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Abigail Tarail",
+     "line": 519,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elic Suazo",
+     "line": 520,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nisha Saini",
+     "line": 521,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Crystal Terry",
+     "line": 522,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Michael Tucker",
+     "line": 523,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ed Allen",
+     "line": 524,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Todd Jalier",
+     "line": 525,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Risa Dye",
+     "line": 526,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lanny DeVuono",
+     "line": 527,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Samuel Dillon",
+     "line": 528,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kate Pocrass",
+     "line": 529,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Vanessa Nikko Cordova",
+     "line": 530,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ben Gardella",
+     "line": 531,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Peter Deibler",
+     "line": 532,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Amal C.",
+     "line": 533,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Catherine Huchting",
+     "line": 534,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Elise Geske (3)",
+     "line": 535,
+     "count": 3,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Judith White",
+     "line": 536,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rachel Katz",
+     "line": 537,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joan Garbarino",
+     "line": 538,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Katherine Sharpe",
+     "line": 539,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Christine Staples",
+     "line": 540,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Cindy Shamban",
+     "line": 541,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joanne Carder",
+     "line": 542,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Chrissy Hoffman",
+     "line": 543,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sally Nelson",
+     "line": 544,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Linda Konkoski",
+     "line": 545,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Betsy Bigelow-Teller",
+     "line": 546,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Subarna Mitra",
+     "line": 547,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kelsey Kofford",
+     "line": 548,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Joanna M.",
+     "line": 549,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Laura Hill",
+     "line": 550,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Marilyn Cleveland",
+     "line": 551,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Craig Peterson",
+     "line": 552,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jean Tepperman",
+     "line": 553,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rachel Vimont",
+     "line": 554,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Allison Banks",
+     "line": 555,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "John Coveney",
+     "line": 556,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeffrey Church on behalf of Visit Berkeley",
+     "line": 558,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ashley McClure",
+     "line": 559,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kitty Calavita",
+     "line": 560,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Crystal Brunzell",
+     "line": 561,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julia Chervin",
+     "line": 562,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ary Smith",
+     "line": 563,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Rafael Gonzalez (2)",
+     "line": 564,
+     "count": 2,
+     "count_basis": "parenthesized number"
+    },
+    {
+     "as_printed": "Amanda Whitehead",
+     "line": 565,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Barbara Gilbert",
+     "line": 566,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Thu-Anh Nelson",
+     "line": 567,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Diana Lempel",
+     "line": 568,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Max Gomberg",
+     "line": 569,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Patricia Campbell",
+     "line": 570,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Moren",
+     "line": 571,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Jeremiah Maller",
+     "line": 572,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Diane Tokugawa",
+     "line": 573,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tony Boyle",
+     "line": 574,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Akemi Osajima",
+     "line": 575,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Anand Patel",
+     "line": 576,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Virginia Browning",
+     "line": 577,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Vivek Kembaiyan",
+     "line": 578,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Fisher",
+     "line": 579,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Sheila Newbery",
+     "line": 580,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Melissa Ploysophon",
+     "line": 581,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Erika Andersen",
+     "line": 582,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Geoff Lomax",
+     "line": 583,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Daniel Borgstrom",
+     "line": 584,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Todd Seeley",
+     "line": 585,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Julian Friedman",
+     "line": 586,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Janie Hall",
+     "line": 587,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Steve Gilmartin",
+     "line": 588,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lori Gray",
+     "line": 589,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Kristine Dixon",
+     "line": 590,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Stephen Leake",
+     "line": 591,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Samantha Johnston",
+     "line": 592,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Geraldine Clifford",
+     "line": 593,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Indivisible Berkeley NC/AC Team",
+     "line": 594,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nina Haft",
+     "line": 595,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Mary Lynn Morales",
+     "line": 596,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "David Gifford",
+     "line": 597,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tania Schwartz",
+     "line": 598,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Brian Hofer on behalf of Secure Justice",
+     "line": 599,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "18 Similarly worded form letters “While BPD promotes…”",
+     "line": 600,
+     "count": 18,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "97 Similarly worded form letters “I am writing to urger you to oppose…” Miscellaneous",
+     "line": 601,
+     "count": 97,
+     "count_basis": "similarly worded or form letters"
+    },
+    {
+     "as_printed": "Unknown",
+     "line": 603,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1a",
+    "1b"
+   ]
+  }
+ ]
+}

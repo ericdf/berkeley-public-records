@@ -1,0 +1,122 @@
+{
+ "id": "bcc-2026-02-24-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2026-02-24-special-annotated-agenda",
+ "text": "bcc-2026-02-24-special-annotated-agenda-text",
+ "text_sha256": "d84e65285eb470f4fb103ba20f324f6d04e0393b9b73d773c89a346665428973",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "4:07 p.m.",
+  "present": [
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin",
+    "time": "4:21 p.m."
+   },
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "4:24 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Worksession",
+   "heading": "Community Health Improvement Plan",
+   "lines": [
+    61,
+    64
+   ],
+   "from": "City Manager",
+   "contact": "Scott Gilman, Health, Housing, and Community Services, (510) 981-5100",
+   "financial_implications": null,
+   "action": "Action: 3 speakers. Presentation made and discussion held.",
+   "speakers": 3,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1: Community Health Improvement Plan",
+   "line": 82,
+   "entries": [
+    {
+     "as_printed": "Barbara Gilbert",
+     "line": 83,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Community Health Improvement Plan",
+   "line": 86,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the Health, Housing, and Community Services Department",
+     "line": 87,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Taj Herzer-Baptiste",
+     "line": 89,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}

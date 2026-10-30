@@ -1,0 +1,194 @@
+{
+ "id": "bcc-2026-03-17-special-annotated-agenda-record",
+ "annotated_agenda": "bcc-2026-03-17-special-annotated-agenda",
+ "text": "bcc-2026-03-17-special-annotated-agenda-text",
+ "text_sha256": "e4d4f61afb4d60c0e806a0f293c2c51c6bfd8b3e83662d778d3e5e3e22f56643",
+ "line_basis": "lines of the L1 text, counted from 1",
+ "attendance": {
+  "roll_call_time": "6:07 p.m.",
+  "present": [
+   {
+    "member": "off-kesarwani",
+    "as_printed": "Kesarwani"
+   },
+   {
+    "member": "off-taplin",
+    "as_printed": "Taplin"
+   },
+   {
+    "member": "off-tregub",
+    "as_printed": "Tregub"
+   },
+   {
+    "member": "off-okeefe",
+    "as_printed": "O’Keefe"
+   },
+   {
+    "member": "off-blackaby",
+    "as_printed": "Blackaby"
+   },
+   {
+    "member": "off-lunaparra",
+    "as_printed": "Lunaparra"
+   },
+   {
+    "member": "off-humbert",
+    "as_printed": "Humbert"
+   },
+   {
+    "member": "off-ishii",
+    "as_printed": "Ishii"
+   }
+  ],
+  "absent": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett"
+   }
+  ],
+  "arrived_late": [
+   {
+    "member": "off-bartlett",
+    "as_printed": "Bartlett",
+    "time": "6:24 p.m."
+   }
+  ]
+ },
+ "items": [
+  {
+   "item": "1",
+   "section": "Action Calendar – New Business",
+   "heading": "Presentation and Discussion of Community Survey Results and Direction Regarding Potential Ballot Measures for the November 3, 2026, General Municipal Election",
+   "lines": [
+    60,
+    84
+   ],
+   "from": "City Manager",
+   "contact": "David White, City Manager's Office, (510) 981-7000",
+   "financial_implications": "See report",
+   "action": "Action: 29 speakers. Presentation made and discussion held. M/S/C (Ishii/Taplin) to approve the recommendation. Vote: All Ayes.",
+   "speakers": 29,
+   "attribution": [],
+   "added_cosponsors": [],
+   "motions": [
+    {
+     "seq": 0,
+     "kind": "main",
+     "movers": [
+      {
+       "member": "off-ishii",
+       "as_printed": "Ishii"
+      },
+      {
+       "member": "off-taplin",
+       "as_printed": "Taplin"
+      }
+     ],
+     "disposition": "carried",
+     "severed": false,
+     "final": true,
+     "text": "approve the recommendation.",
+     "vote_label": "vote",
+     "vote": {
+      "all_ayes": true,
+      "ayes": [],
+      "noes": [],
+      "abstain": [],
+      "absent": [],
+      "recused": [],
+      "as_printed": "Vote: All Ayes."
+     }
+    }
+   ],
+   "prior_first_reading_vote": null
+  }
+ ],
+ "communications": [
+  {
+   "section": "Supplemental Communications and Reports 2",
+   "heading": "Item #1: Presentation and Discussion of Community Survey Results and Direction Regarding Potential Ballot Measures for the November 3, 2026, General Municipal Election",
+   "line": 103,
+   "entries": [
+    {
+     "as_printed": "Daniel Tahara",
+     "line": 106,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  },
+  {
+   "section": "Supplemental Communications and Reports 3",
+   "heading": "Item #1: Presentation and Discussion of Community Survey Results and Direction Regarding Potential Ballot Measures for the November 3, 2026, General Municipal Election",
+   "line": 109,
+   "entries": [
+    {
+     "as_printed": "Presentation submitted by the City Manager’s Office",
+     "line": 112,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Nancy Schimmel",
+     "line": 113,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Bullwinkel",
+     "line": 114,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Lisa Bruce",
+     "line": 115,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tania Schwartz",
+     "line": 116,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ann Harlow, Leila Moncharsh, and Michael Scharff",
+     "line": 117,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Tawny Reynolds",
+     "line": 118,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Ann Harlow",
+     "line": 119,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Summer Brenner",
+     "line": 120,
+     "count": 1,
+     "count_basis": "one entry"
+    },
+    {
+     "as_printed": "Burl Willes",
+     "line": 121,
+     "count": 1,
+     "count_basis": "one entry"
+    }
+   ],
+   "items": [
+    "1"
+   ]
+  }
+ ]
+}
