@@ -1,0 +1,178 @@
+{
+ "transcript_id": "bcc-2026-07-07-regular-captions-text",
+ "l1_sha256": "b09449f9ff1be2d72a951dea7dde7c5680ca2da0dd18eaa6d6423921733ea449",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:18",
+   "end": "00:02:35",
+   "meeting": "2026-07-07 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "My mom's here.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:02:35",
+   "end": "00:23:04",
+   "meeting": "2026-07-07 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "So for this evening, we have two ceremonial matters. One is an adjournment in memory, for Carl Anthony, which was requested by Councilmember",
+   "level": "inferred"
+  },
+  {
+   "start": "00:23:04",
+   "end": "00:23:13",
+   "meeting": "2026-07-07 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, very good, thank you all. So now moving on to City Manager comments.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:23:13",
+   "end": "00:37:11",
+   "meeting": "2026-07-07 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I do not see our city auditor, so… And, okay, so we'll now move on to public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:37:11",
+   "end": "00:37:44",
+   "meeting": "2026-07-07 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, thank you very much. We are moving on to our consent calendar. So I would like… sorry? Union public comment? Oh, I'm so sorry. Are the",
+   "level": "inferred"
+  },
+  {
+   "start": "00:37:44",
+   "end": "00:51:02",
+   "meeting": "2026-07-07 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "00:43:18",
+     "end": "00:49:53"
+    }
+   ],
+   "evidence_start": "Okay, very good. So, are there any comments on the consent calendar? And actually, before we do that, I wanted to move the waterfront-specif",
+   "level": "inferred"
+  },
+  {
+   "start": "00:51:02",
+   "end": "00:54:34",
+   "meeting": "2026-07-07 regular",
+   "kind": "item",
+   "item": "6",
+   "public_comment": [
+    {
+     "start": "00:51:28",
+     "end": "00:53:15"
+    }
+   ],
+   "evidence_start": "Lunapara? Yes. Cumbert? Yes. And Mary Ishii? Yes. Okay, motion carries. Okay, thank you very much. We're moving on to the action calendar, a",
+   "level": "inferred"
+  },
+  {
+   "start": "00:54:34",
+   "end": "01:12:15",
+   "meeting": "2026-07-07 regular",
+   "kind": "item",
+   "item": "7",
+   "public_comment": [
+    {
+     "start": "01:02:20",
+     "end": "01:06:37"
+    }
+   ],
+   "evidence_start": "Lunapara? Yes. Humbert? Yes. And Mayor Ishii? Yes. Okay, motion carries. Okay, thank you very much. Alright, opening the public hearing for ",
+   "level": "inferred"
+  },
+  {
+   "start": "01:12:15",
+   "end": "01:42:40",
+   "meeting": "2026-07-07 regular",
+   "kind": "item",
+   "item": "8",
+   "public_comment": [
+    {
+     "start": "01:17:45",
+     "end": "01:31:25"
+    }
+   ],
+   "evidence_start": "Okay, sorry about that, everyone. Thank you for your patience. We are moving on to item number 8, which is the large vehicle parking regulat",
+   "level": "inferred"
+  },
+  {
+   "start": "01:42:40",
+   "end": "03:18:54",
+   "meeting": "2026-07-07 regular",
+   "kind": "item",
+   "item": "10",
+   "public_comment": [
+    {
+     "start": "02:49:48",
+     "end": "02:54:57"
+    }
+   ],
+   "evidence_start": "Okay, we are moving on to item number 9. Oh, nope, we are not, because we moved it to consent. We're moving on to item number 10, which is t",
+   "level": "inferred"
+  },
+  {
+   "start": "03:18:54",
+   "end": "03:19:17",
+   "meeting": "2026-07-07 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "So, we are now moving on to item A. I'm gonna give us 5 minutes to do a little shift over, so, our staff can circle out and rent board staff",
+   "level": "inferred"
+  },
+  {
+   "start": "03:19:17",
+   "end": "04:04:19",
+   "meeting": "2026-07-07 regular",
+   "kind": "item",
+   "item": "A",
+   "public_comment": [
+    {
+     "start": "03:42:33",
+     "end": "03:52:01"
+    }
+   ],
+   "evidence_start": "Hi, everyone! Thank you again for your patience. I know it's getting late, so… or late for us. Alright, we're on item A, placing an ordinanc",
+   "level": "inferred"
+  },
+  {
+   "start": "04:04:19",
+   "end": "04:09:04",
+   "meeting": "2026-07-07 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, motion carries. Alright, motion carries. Thank you so much. Thank you, everyone. Okay, so now moving on to public comment for items no",
+   "level": "inferred"
+  },
+  {
+   "start": "04:09:04",
+   "end": "04:09:50",
+   "meeting": "2026-07-07 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "That's all. Okay, is there a motion to adjourn? So moved. Second. Can we take the roll on that, please?",
+   "level": "inferred"
+  }
+ ]
+}

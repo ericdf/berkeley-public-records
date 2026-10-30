@@ -1,0 +1,203 @@
+{
+ "transcript_id": "bcc-2026-03-10-special-and-regular-captions-text",
+ "l1_sha256": "3af7f5d51acbd006afbcb5167eba5d4a188cf7d193ac728444a2dde9212d7a13",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:46",
+   "end": "00:01:30",
+   "meeting": "2026-03-10 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'm going to call to order a special meeting of the Berkeley City Council.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:01:30",
+   "end": "01:30:11",
+   "meeting": "2026-03-10 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "01:04:36",
+     "end": "01:13:21"
+    }
+   ],
+   "evidence_start": "Alright, so we have a very special edition of Special Meeting today.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:30:11",
+   "end": "01:31:05",
+   "meeting": "2026-03-10 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I am going to see if there's a motion to adjourn.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:31:05",
+   "end": "01:32:54",
+   "meeting": "2026-03-10 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'm calling to order the Berkeley City Council meeting. Today is Tuesday, March 10th, 2026. It is 6.04 p.m.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:32:54",
+   "end": "01:45:03",
+   "meeting": "2026-03-10 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are now moving on to ceremonial items",
+   "level": "inferred"
+  },
+  {
+   "start": "01:45:03",
+   "end": "01:45:36",
+   "meeting": "2026-03-10 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "we are now moving on to City Manager comments.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:45:36",
+   "end": "02:13:55",
+   "meeting": "2026-03-10 regular",
+   "kind": "item",
+   "item": "6",
+   "public_comment": [
+    {
+     "start": "02:05:50",
+     "end": "02:13:46"
+    }
+   ],
+   "evidence_start": "Thank you so much, and good evening. I'm here with, Caitlin Palmer, Audit Manager",
+   "level": "inferred"
+  },
+  {
+   "start": "02:13:55",
+   "end": "02:31:17",
+   "meeting": "2026-03-10 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:13:55",
+     "end": "02:31:17"
+    }
+   ],
+   "evidence_start": "We are going to go to public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:31:17",
+   "end": "03:30:37",
+   "meeting": "2026-03-10 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:53:05",
+     "end": "03:26:49"
+    }
+   ],
+   "evidence_start": "Okay, so we are moving on to our consent calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:30:37",
+   "end": "03:38:20",
+   "meeting": "2026-03-10 regular",
+   "kind": "item",
+   "item": "14",
+   "public_comment": [
+    {
+     "start": "03:36:06",
+     "end": "03:36:28"
+    }
+   ],
+   "evidence_start": "Hello! We are coming back! Thanks, everyone, for your patience.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:38:20",
+   "end": "03:53:09",
+   "meeting": "2026-03-10 regular",
+   "kind": "item",
+   "item": "15",
+   "public_comment": [
+    {
+     "start": "03:49:03",
+     "end": "03:52:17"
+    }
+   ],
+   "evidence_start": "Alright, we are now moving to item 15, amendments to the Berkeley Elections Reform Act",
+   "level": "inferred"
+  },
+  {
+   "start": "03:53:09",
+   "end": "04:23:52",
+   "meeting": "2026-03-10 regular",
+   "kind": "item",
+   "item": "16",
+   "public_comment": [
+    {
+     "start": "04:15:04",
+     "end": "04:19:30"
+    }
+   ],
+   "evidence_start": "All right, we are moving on to item 16, Appeal of special assessment tax lien",
+   "level": "inferred"
+  },
+  {
+   "start": "04:23:52",
+   "end": "05:49:24",
+   "meeting": "2026-03-10 regular",
+   "kind": "item",
+   "item": "17",
+   "public_comment": [
+    {
+     "start": "04:32:50",
+     "end": "05:02:48"
+    }
+   ],
+   "evidence_start": "Okay, so we are now moving on to item number 17, resolution",
+   "level": "inferred"
+  },
+  {
+   "start": "05:49:24",
+   "end": "06:02:38",
+   "meeting": "2026-03-10 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "05:49:24",
+     "end": "06:02:38"
+    }
+   ],
+   "evidence_start": "Now, we are moving on to the public comment for items not listed on the agenda.",
+   "level": "inferred"
+  },
+  {
+   "start": "06:02:38",
+   "end": "06:02:47",
+   "meeting": "2026-03-10 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, is there a motion to adjourn? Second.",
+   "level": "inferred"
+  }
+ ]
+}

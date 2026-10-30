@@ -1,0 +1,103 @@
+{
+ "transcript_id": "bcc-2025-10-14-regular-captions-text",
+ "l1_sha256": "b24f1ca17ec4cdc30e7ce5e8003bb2997b7b5d82f03b4c4f16f2d188aa19a1fc",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 147,
+   "meeting": "2025-10-14 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'M CALLING TO ORDER THE BERKELEY CITY COUNCIL MEETING TUESDAY OCTOBER 14, 2025. THIS IS 6:07 P.M.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 148,
+   "end_line": 412,
+   "meeting": "2025-10-14 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I HAVE SOME CEREMONIAL MATTERS THIS EVENING AND WE HAVE TWO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 413,
+   "end_line": 416,
+   "meeting": "2025-10-14 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "MOVING ON TO OUR CITY MANAGER COMMENTS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 417,
+   "end_line": 541,
+   "meeting": "2025-10-14 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "NEXT TO OUR CITY AUDITOR COMMENTS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 542,
+   "end_line": 749,
+   "meeting": "2025-10-14 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 542,
+     "end_line": 749
+    }
+   ],
+   "evidence_start": "SO WE ARE MOVING ON TO PUBLIC COMMENT ON NON- AGENDA MATTERS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 750,
+   "end_line": 831,
+   "meeting": "2025-10-14 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 750,
+     "end_line": 831
+    }
+   ],
+   "evidence_start": "WE'RE MOVING ON TO PUBLIC COMMENT BY EMPLOYEE UNIONS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 832,
+   "end_line": 1716,
+   "meeting": "2025-10-14 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 1241,
+     "end_line": 1568
+    }
+   ],
+   "evidence_start": "LET'S MOVE ON TO THE CONSENT CALENDAR AND I'LL TAKE PUBLIC",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1717,
+   "end_line": 1757,
+   "meeting": "2025-10-14 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "OKAY. I'LL ENTERTAIN A MOTION FOR ADJOURNMENT.",
+   "level": "inferred"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "transcript_id": "bcc-2026-02-23-special-captions-text",
+ "l1_sha256": "3bc0350fba82b3030162c5135a2cc312b549cb23db647bab2192fb5a7b50cc88",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:07",
+   "end": "00:00:50",
+   "meeting": "2026-02-23 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'm calling to order a special meeting of the Berkeley City Council.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:00:50",
+   "end": "01:38:39",
+   "meeting": "2026-02-23 special",
+   "kind": "item",
+   "item": "2",
+   "public_comment": [
+    {
+     "start": "00:41:53",
+     "end": "01:11:13"
+    }
+   ],
+   "evidence_start": "So item number 2 is the Zoning Adjustments Board appeal for 2425 Durant Avenue",
+   "level": "inferred"
+  },
+  {
+   "start": "01:38:39",
+   "end": "01:40:51",
+   "meeting": "2026-02-23 special",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, folks, our break is over.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:40:51",
+   "end": "02:35:21",
+   "meeting": "2026-02-23 special",
+   "kind": "item",
+   "item": "3a/3b",
+   "public_comment": [
+    {
+     "start": "02:15:11",
+     "end": "02:26:43"
+    }
+   ],
+   "evidence_start": "We are moving on to item numbers 3… And, also 2029 University Avenue, both…",
+   "level": "inferred"
+  },
+  {
+   "start": "02:35:21",
+   "end": "02:35:45",
+   "meeting": "2026-02-23 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "that was the final item for this evening… is there a motion to adjourn?",
+   "level": "inferred"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "transcript_id": "bcc-2025-09-30-regular-captions-text",
+ "l1_sha256": "92fc41be938901ab7f161dfd7fa7f40336cee5ed487dc9b18f2adcc5f1e8e16e",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 45,
+   "meeting": "2025-09-30 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 46,
+   "end_line": 411,
+   "meeting": "2025-09-30 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII:         HERE. ALL RIGHT. WE HAVE A FEW CEREMONIAL",
+   "level": "inferred"
+  },
+  {
+   "start_line": 412,
+   "end_line": 451,
+   "meeting": "2025-09-30 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "WE HAVE CITY MANAGER COMMENTS NEXT. [BANGING]",
+   "level": "inferred"
+  },
+  {
+   "start_line": 452,
+   "end_line": 505,
+   "meeting": "2025-09-30 regular",
+   "kind": "item",
+   "item": "21",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII:       THANK YOU VERY MUCH. NOW I WANT TO GIVE SOME",
+   "level": "inferred"
+  },
+  {
+   "start_line": 506,
+   "end_line": 823,
+   "meeting": "2025-09-30 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII:       THANK YOU VERY MUCH. APPRECIATE YOUR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 824,
+   "end_line": 1575,
+   "meeting": "2025-09-30 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 1338,
+     "end_line": 1552
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII:        OKAY. VERY GOOD. FOR THE CONSENT CALENDAR,",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1576,
+   "end_line": 1701,
+   "meeting": "2025-09-30 regular",
+   "kind": "item",
+   "item": "16",
+   "public_comment": [
+    {
+     "start_line": 1672,
+     "end_line": 1674
+    }
+   ],
+   "evidence_start": "TO MOVE ON TO THE ACTION CALENDAR INTAKE ITEM 16 AND TAKE A",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1702,
+   "end_line": 1711,
+   "meeting": "2025-09-30 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "TO PRESENT. OKAY. SORRY. I'M GOING TO ASK OUR OFFICE OF DIRECTOR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1712,
+   "end_line": 2431,
+   "meeting": "2025-09-30 regular",
+   "kind": "item",
+   "item": "17",
+   "public_comment": [
+    {
+     "start_line": 2206,
+     "end_line": 2214
+    }
+   ],
+   "evidence_start": ">> THAT IS A FEATURE THAT ALLOWS THE CITY MANAGER TO CREATE OR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2432,
+   "end_line": 3715,
+   "meeting": "2025-09-30 regular",
+   "kind": "item",
+   "item": "18",
+   "public_comment": [
+    {
+     "start_line": 3142,
+     "end_line": 3306
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII:        THANK YOU. WOULD YOU LIKE TO PRESENT 18?",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3716,
+   "end_line": 3739,
+   "meeting": "2025-09-30 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CHARTER OFFICERS. SO THAT WILL BE COMING. ALL RIGHT. IS THERE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3740,
+   "end_line": 3755,
+   "meeting": "2025-09-30 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "BACKYARD THAT THEY ARE OPEN TO THAT. THANK YOU. OKAY, IS THERE A",
+   "level": "inferred"
+  }
+ ]
+}

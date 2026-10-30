@@ -1,0 +1,148 @@
+{
+ "transcript_id": "bcc-2025-06-24-regular-captions-text",
+ "l1_sha256": "95304af81231d0c2b758bed9d45727421c13ab60b6558243a17bad1fd25c5706",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 75,
+   "meeting": "2025-06-24 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 76,
+   "end_line": 120,
+   "meeting": "2025-06-24 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "BE THERE. I'M GOING TO MOVE ON TO CITY MANAGER COMMENTS. FOLKS,",
+   "level": "inferred"
+  },
+  {
+   "start_line": 121,
+   "end_line": 606,
+   "meeting": "2025-06-24 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "WE'RE MOVING ON TO PUBLIC COMMENT ON NON-AGENDA MATTERS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 607,
+   "end_line": 1344,
+   "meeting": "2025-06-24 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 865,
+     "end_line": 1305
+    }
+   ],
+   "evidence_start": "FOR COMING. MOVING ON TO THE CONSENT CALENDAR. IS THERE A PUBLIC",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1345,
+   "end_line": 2317,
+   "meeting": "2025-06-24 regular",
+   "kind": "item",
+   "item": "23",
+   "public_comment": [
+    {
+     "start_line": 1594,
+     "end_line": 1794
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: VERY GOOD, EVERYONE. OKAY. SO MOVING FORWARD.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2318,
+   "end_line": 2329,
+   "meeting": "2025-06-24 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU ALL SO MUCH FOR BEING HERE.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2330,
+   "end_line": 5744,
+   "meeting": "2025-06-24 regular",
+   "kind": "item",
+   "item": "24",
+   "public_comment": [
+    {
+     "start_line": 4564,
+     "end_line": 5494
+    }
+   ],
+   "evidence_start": ">> CITY CLERK: HERE WE GO. [RECORDING IN PROGRESS]",
+   "level": "inferred"
+  },
+  {
+   "start_line": 5745,
+   "end_line": 5748,
+   "meeting": "2025-06-24 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY, THANK YOU, EVERYONE. [ BREAK] [ RECORDING",
+   "level": "inferred"
+  },
+  {
+   "start_line": 5749,
+   "end_line": 7440,
+   "meeting": "2025-06-24 regular",
+   "kind": "item",
+   "item": "24",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: I WILL CALL THE COUNCILMEMBERS BACK SO WE CAN",
+   "level": "inferred"
+  },
+  {
+   "start_line": 7441,
+   "end_line": 7571,
+   "meeting": "2025-06-24 regular",
+   "kind": "item",
+   "item": "25",
+   "public_comment": [
+    {
+     "start_line": 7520,
+     "end_line": 7527
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: OKAY, WE HAVE TWO MORE ITEMS BUT THEY ARE FAIRLY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 7572,
+   "end_line": 7636,
+   "meeting": "2025-06-24 regular",
+   "kind": "item",
+   "item": "26",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: SO MOVING ON TO ITEM 26, BORROWING OF FUNDS AND",
+   "level": "inferred"
+  },
+  {
+   "start_line": 7637,
+   "end_line": 7685,
+   "meeting": "2025-06-24 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY, PUBLIC COMMENT FOR ITEMS NOT LISTED ON THE",
+   "level": "inferred"
+  }
+ ]
+}

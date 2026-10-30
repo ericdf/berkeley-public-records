@@ -1,0 +1,88 @@
+{
+ "transcript_id": "bcc-2025-06-26-special-captions-text",
+ "l1_sha256": "8a3cab79ccdb4d065ae882797c792d4f7968e04cc5e39ad1d78b47a35ec9d7ab",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 75,
+   "meeting": "2025-06-26 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 76,
+   "end_line": 2429,
+   "meeting": "2025-06-26 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: VERY GOOD. TONIGHT IS A SPECIAL MEETING. WE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2430,
+   "end_line": 2455,
+   "meeting": "2025-06-26 special",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> RECORDING STOPPED.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2456,
+   "end_line": 4759,
+   "meeting": "2025-06-26 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 2456,
+     "end_line": 4759
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: IT'S TIME FOR PUBLIC COMMENT. IF YOU'RE -- IF",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4760,
+   "end_line": 4767,
+   "meeting": "2025-06-26 special",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: WE ARE GOING TO TAKE A 15-MINUTE BREAK AND",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4768,
+   "end_line": 7007,
+   "meeting": "2025-06-26 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 4768,
+     "end_line": 5609
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: WE ARE BACK IN SESSION. FOR FOLKS ONLINE YOU",
+   "level": "inferred"
+  },
+  {
+   "start_line": 7008,
+   "end_line": 7043,
+   "meeting": "2025-06-26 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: WITH THAT MY FRIENDS I WILL ENTERTAIN A MOTION",
+   "level": "inferred"
+  }
+ ]
+}

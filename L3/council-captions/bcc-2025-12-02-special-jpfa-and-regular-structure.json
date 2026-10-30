@@ -1,0 +1,293 @@
+{
+ "transcript_id": "bcc-2025-12-02-special-jpfa-and-regular-text",
+ "l1_sha256": "b6258636c61ad6efeea7419231b9fd8c2e66d655736356727d93bbd204da0b16",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:22",
+   "end": "00:01:35",
+   "meeting": "2025-12-02 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, hello everyone, good evening! I'm calling to order the special meeting of the Berkeley City Council. Today is Tuesday, December 2nd, 2025.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:01:35",
+   "end": "00:10:10",
+   "meeting": "2025-12-02 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": "On our action calendar… Very exciting. So I'm very excited for this special session. Infrastructure is one of my top priorities, and it's so",
+   "level": "inferred"
+  },
+  {
+   "start": "00:10:10",
+   "end": "02:11:31",
+   "meeting": "2025-12-02 special",
+   "kind": "item",
+   "item": "2",
+   "public_comment": [
+    {
+     "start": "01:07:07",
+     "end": "01:19:50"
+    }
+   ],
+   "evidence_start": "Thank you, Mayor Ishii.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:11:31",
+   "end": "02:11:40",
+   "meeting": "2025-12-02 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, is there a motion to adjourn? So moved. Second. Is there any opposition to adjournment?",
+   "level": "inferred"
+  },
+  {
+   "start": "02:11:40",
+   "end": "02:12:39",
+   "meeting": "2025-12-02 jpfa",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "So, folks, we have a joint powers authority. Yeah, we should take care of that.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:12:39",
+   "end": "02:12:52",
+   "meeting": "2025-12-02 jpfa",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:12:39",
+     "end": "02:12:52"
+    }
+   ],
+   "evidence_start": "Okay, is there public comment on non-agenda matters for this Joint Power Authority meeting?",
+   "level": "inferred"
+  },
+  {
+   "start": "02:12:52",
+   "end": "02:13:24",
+   "meeting": "2025-12-02 jpfa",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:12:52",
+     "end": "02:13:07"
+    }
+   ],
+   "evidence_start": "Okay, so… we're gonna move on to the consent calendar, and ask if there's any public comment on consent calendar and information items only.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:13:24",
+   "end": "02:15:28",
+   "meeting": "2025-12-02 jpfa",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:13:24",
+     "end": "02:15:28"
+    }
+   ],
+   "evidence_start": "All right, we have passed our consent calendar. Are there any other public comments on items not listed on this agenda?",
+   "level": "inferred"
+  },
+  {
+   "start": "02:15:28",
+   "end": "02:16:17",
+   "meeting": "2025-12-02 jpfa",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "No hands raised. Okay, is there a motion to adjourn? So moved. Second. Is there any opposition to adjourning?",
+   "level": "inferred"
+  },
+  {
+   "start": "02:16:17",
+   "end": "02:19:13",
+   "meeting": "2025-12-02 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Hello, folks!",
+   "level": "inferred"
+  },
+  {
+   "start": "02:19:13",
+   "end": "02:42:44",
+   "meeting": "2025-12-02 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you very much, Councilmember. So for our ceremonial items this evening, we have a presentation by Senator Jesse Aragin.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:42:44",
+   "end": "02:42:53",
+   "meeting": "2025-12-02 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are moving on with our agenda for this evening. We have quite a long one. City Manager, did you have any comments this evening?",
+   "level": "inferred"
+  },
+  {
+   "start": "02:42:53",
+   "end": "02:57:05",
+   "meeting": "2025-12-02 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:42:53",
+     "end": "02:57:05"
+    }
+   ],
+   "evidence_start": "And I also saw our, auditor, but she does not have comments for this evening. I will now take public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:57:05",
+   "end": "03:45:40",
+   "meeting": "2025-12-02 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "03:21:13",
+     "end": "03:43:23"
+    }
+   ],
+   "evidence_start": "We will then be moving on to the consent calendar. Does Council have any comments on the consent calendar?",
+   "level": "inferred"
+  },
+  {
+   "start": "03:45:40",
+   "end": "03:45:57",
+   "meeting": "2025-12-02 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Is there any opposition to approving the consent calendar? Alright, we have approved the consent calendar! Thank you very much. We jumped back into this meeting from the previous one, so I'm gonna give us our 15-minute b",
+   "level": "inferred"
+  },
+  {
+   "start": "03:45:57",
+   "end": "03:47:39",
+   "meeting": "2025-12-02 regular",
+   "kind": "item",
+   "item": "38",
+   "public_comment": [
+    {
+     "start": "03:47:09",
+     "end": "03:47:18"
+    }
+   ],
+   "evidence_start": "Last meeting of the year, it's very sad. I'm very sad to miss you all. I'm sad. Okay, anyway, we're moving on to the action calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:47:39",
+   "end": "03:48:59",
+   "meeting": "2025-12-02 regular",
+   "kind": "item",
+   "item": "39",
+   "public_comment": null,
+   "evidence_start": "Motion is approved. We have renewed the Elmwood Avenue bid for the calendar year of 2026. Congratulations, Elmwood! Alright, moving on to it",
+   "level": "inferred"
+  },
+  {
+   "start": "03:48:59",
+   "end": "03:53:11",
+   "meeting": "2025-12-02 regular",
+   "kind": "item",
+   "item": "42",
+   "public_comment": [
+    {
+     "start": "03:49:52",
+     "end": "03:51:40"
+    }
+   ],
+   "evidence_start": "Alright, and as I said, I was going to move Item 42 up, so we are going to move item 42, which is the amendments to Title 23, to allow the r",
+   "level": "inferred"
+  },
+  {
+   "start": "03:53:11",
+   "end": "05:48:53",
+   "meeting": "2025-12-02 regular",
+   "kind": "item",
+   "item": "40",
+   "public_comment": [
+    {
+     "start": "04:42:28",
+     "end": "05:20:09"
+    }
+   ],
+   "evidence_start": "Alright, so we are moving on to item number 40.",
+   "level": "inferred"
+  },
+  {
+   "start": "05:48:53",
+   "end": "06:09:59",
+   "meeting": "2025-12-02 regular",
+   "kind": "item",
+   "item": "41",
+   "public_comment": [
+    {
+     "start": "05:52:11",
+     "end": "05:59:54"
+    }
+   ],
+   "evidence_start": "And 41, which is the adoption of and amendments to the California Wild Urban Interface Code. It's the second reading.",
+   "level": "inferred"
+  },
+  {
+   "start": "06:09:59",
+   "end": "06:11:46",
+   "meeting": "2025-12-02 regular",
+   "kind": "other_procedural",
+   "item": "43",
+   "public_comment": null,
+   "evidence_start": "Okay, thank you. And then, regarding item 20… 43… Yes. Yes. Yes. Regarding item 43, I'd like to make a motion to continue the ADU item",
+   "level": "inferred"
+  },
+  {
+   "start": "06:11:46",
+   "end": "06:13:21",
+   "meeting": "2025-12-02 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "06:12:03",
+     "end": "06:13:21"
+    }
+   ],
+   "evidence_start": "all of these people, who have to recuse themselves. So, wait, everyone's",
+   "level": "inferred"
+  },
+  {
+   "start": "06:13:21",
+   "end": "06:14:52",
+   "meeting": "2025-12-02 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "No, okay, alright, before we leave, I just want to say a few things. Number one.",
+   "level": "inferred"
+  }
+ ]
+}

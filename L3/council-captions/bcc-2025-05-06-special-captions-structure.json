@@ -1,0 +1,43 @@
+{
+ "transcript_id": "bcc-2025-05-06-special-captions-text",
+ "l1_sha256": "020e7f288af6beba23c4543d07e5471cde07ec9a1ac8d3fdf3dc8ef991f6a524",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 44,
+   "meeting": "2025-05-06 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 45,
+   "end_line": 1352,
+   "meeting": "2025-05-06 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 1314,
+     "end_line": 1351
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: TODAY IS A SPECIAL MEETING AND A PRESENTATION",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1353,
+   "end_line": 1368,
+   "meeting": "2025-05-06 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU VERY MUCH. MY APOLOGIES, THE THERE A",
+   "level": "inferred"
+  }
+ ]
+}

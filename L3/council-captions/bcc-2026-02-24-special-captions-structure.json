@@ -1,0 +1,43 @@
+{
+ "transcript_id": "bcc-2026-02-24-special-captions-text",
+ "l1_sha256": "cb5609b653d4570ee37801f1e7a0a5184f694be0eadedc0c9bc9dc0d02298efe",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:20",
+   "end": "00:01:35",
+   "meeting": "2026-02-24 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I am calling to order a special meeting of the Berkeley City Council",
+   "level": "inferred"
+  },
+  {
+   "start": "00:01:35",
+   "end": "01:14:47",
+   "meeting": "2026-02-24 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "00:50:11",
+     "end": "00:57:00"
+    }
+   ],
+   "evidence_start": "today we have a very special work session. Only one item on this agenda, it's the Community Health Improve…",
+   "level": "inferred"
+  },
+  {
+   "start": "01:14:47",
+   "end": "01:15:06",
+   "meeting": "2026-02-24 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "is there a motion to adjourn?",
+   "level": "inferred"
+  }
+ ]
+}

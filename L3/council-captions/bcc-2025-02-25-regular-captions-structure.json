@@ -1,0 +1,113 @@
+{
+ "transcript_id": "bcc-2025-02-25-regular-captions-text",
+ "l1_sha256": "ac18c87d78176a121d51205327c34ddf2b9cae0829f1f77f7cd8ff0fbc05bcf0",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 74,
+   "meeting": "2025-02-25 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY. HELLO.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 75,
+   "end_line": 103,
+   "meeting": "2025-02-25 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CAN WE HAVE QUIET, PLEASE? THANK YOU. MOVING ON NOW TO CITY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 104,
+   "end_line": 481,
+   "meeting": "2025-02-25 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "THE CITY MANAGER, SO WE WILL NOW TAKE PUBLIC COMMENT ON",
+   "level": "inferred"
+  },
+  {
+   "start_line": 482,
+   "end_line": 1161,
+   "meeting": "2025-02-25 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 662,
+     "end_line": 1148
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: THANK YOU FOR YOUR COMMENTS. WE ARE NOW MOVING",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1162,
+   "end_line": 3599,
+   "meeting": "2025-02-25 regular",
+   "kind": "item",
+   "item": "14",
+   "public_comment": [
+    {
+     "start_line": 2542,
+     "end_line": 3072
+    }
+   ],
+   "evidence_start": "YOU SO MUCH. WE ARE MOVING ON TO THE ACTION CALENDAR. FOR THE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3600,
+   "end_line": 3640,
+   "meeting": "2025-02-25 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU SO MUCH. AND THANK YOU, STAFF, I",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3641,
+   "end_line": 3812,
+   "meeting": "2025-02-25 regular",
+   "kind": "item",
+   "item": "15",
+   "public_comment": [
+    {
+     "start_line": 3790,
+     "end_line": 3798
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: THANK YOU. WE ARE GOING ONTO ITEM 15, ZONING",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3813,
+   "end_line": 4024,
+   "meeting": "2025-02-25 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "THANKS, EVERYONE. ALL RIGHT. ARE THERE ANY OTHER PUBLIC COMMENTS",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4025,
+   "end_line": 4034,
+   "meeting": "2025-02-25 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU VERY MUCH. YEAH. I WAS JUST GOING TO",
+   "level": "inferred"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "transcript_id": "bcc-2025-09-16-special-captions-text",
+ "l1_sha256": "7e5b2d8427b516b9e5a2f8a572b4ad9637523fd3de4b9e43f3e8a01976075893",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 55,
+   "meeting": "2025-09-16 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 56,
+   "end_line": 703,
+   "meeting": "2025-09-16 special",
+   "kind": "item",
+   "item": "1a",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII:      VERY GOOD, WE ARE GOING TO START WITH ITEM 1A.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 704,
+   "end_line": 1215,
+   "meeting": "2025-09-16 special",
+   "kind": "item",
+   "item": "1b",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII:      THANKS. WE WILL HAVE THIS PRESENTATION FROM THE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1216,
+   "end_line": 3537,
+   "meeting": "2025-09-16 special",
+   "kind": "item",
+   "item": "1a/1b",
+   "public_comment": [
+    {
+     "start_line": 1316,
+     "end_line": 2049
+    }
+   ],
+   "evidence_start": "QUESTIONS FOR OUR AUDITORS? OTHERWISE, WHAT I WANT TO DO IS TO",
+   "level": "inferred"
+  }
+ ]
+}

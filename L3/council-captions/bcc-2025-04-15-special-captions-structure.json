@@ -1,0 +1,63 @@
+{
+ "transcript_id": "bcc-2025-04-15-special-captions-text",
+ "l1_sha256": "09be12f253334b3f9fb6710b1d32bd87c8a4df0f2715096a098cb87e626121eb",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 53,
+   "meeting": "2025-04-15 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 54,
+   "end_line": 3271,
+   "meeting": "2025-04-15 special",
+   "kind": "item",
+   "item": "1+2",
+   "public_comment": [
+    {
+     "start_line": 789,
+     "end_line": 2244
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: THANK YOU, EVERYONE. I WILL PASS IT OVER TO THE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3272,
+   "end_line": 3294,
+   "meeting": "2025-04-15 special",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> [INDISCERNIBLE] [LOST AUDIO] [NO AUDIO] [STANDBY]",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3295,
+   "end_line": 3435,
+   "meeting": "2025-04-15 special",
+   "kind": "item",
+   "item": "1+2",
+   "public_comment": null,
+   "evidence_start": ">> HI, EVERYBODY. I APOLOGIZE FOR INTERRUPTING YOUR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3436,
+   "end_line": 3448,
+   "meeting": "2025-04-15 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: IF WE ARE ALL AGREED ON THIS, THIS MEETING IS",
+   "level": "inferred"
+  }
+ ]
+}

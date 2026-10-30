@@ -1,0 +1,18 @@
+{
+  "id": "bcc-2025-10-28-special-captions-zoom-structure",
+  "layer": "L3",
+  "doc_type": "council_captions_structure",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-10-28",
+  "meeting_label": "Special",
+  "title": "BCC 2025-10-28 Special Captioning_Zoom — item structure",
+  "file": "L3/council-captions/bcc-2025-10-28-special-captions-zoom-structure.json",
+  "sha256": "a069e9219e6644285a88ef5cbb38fa0481cc508c3c97fa74887a8df97ed0bbc8",
+  "bytes": 1625,
+  "derived_from": {
+    "id": "bcc-2025-10-28-special-captions-zoom-text",
+    "sha256": "9005d822c857e0a606680452dd58660d75f2d94c002375058832e9a5f61f5c54"
+  },
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}

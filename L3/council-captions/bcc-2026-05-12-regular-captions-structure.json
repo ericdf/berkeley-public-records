@@ -1,0 +1,58 @@
+{
+ "transcript_id": "bcc-2026-05-12-regular-captions-text",
+ "l1_sha256": "793d3e8b1b1b2b5f8509b6a0e5c147228e06154e530c9418011690eb99aa5cd7",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:07",
+   "end": "00:19:48",
+   "meeting": "2026-05-12 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Hello, everyone. Good evening. We're gonna get started.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:19:48",
+   "end": "00:34:26",
+   "meeting": "2026-05-12 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Is there any public comment on non-agenda matters?",
+   "level": "inferred"
+  },
+  {
+   "start": "00:34:26",
+   "end": "00:47:03",
+   "meeting": "2026-05-12 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "No. Okay, we will move on to the consent calendar, then.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:47:03",
+   "end": "00:52:11",
+   "meeting": "2026-05-12 regular",
+   "kind": "item",
+   "item": "17",
+   "public_comment": null,
+   "evidence_start": "Okay, so moving on to our singular action item. Item number 17,",
+   "level": "inferred"
+  },
+  {
+   "start": "00:52:11",
+   "end": "00:52:32",
+   "meeting": "2026-05-12 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you very much. Is there a motion to adjourn? Second. Is",
+   "level": "inferred"
+  }
+ ]
+}

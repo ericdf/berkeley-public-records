@@ -1,0 +1,253 @@
+{
+ "transcript_id": "bcc-2025-11-18-special-sabra-regular-captions-vtt-text",
+ "l1_sha256": "7bd7f0f086f339e45104328178754893d732bdf9ae3dbf16f0ac5f45fd8467a5",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:07",
+   "end": "00:00:41",
+   "meeting": "2025-11-18 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Hello, everyone. Good afternoon. I'm calling to order the special meeting of the Berkeley City Council. Today is Tuesday, November 18th, 202",
+   "level": "inferred"
+  },
+  {
+   "start": "00:00:41",
+   "end": "02:07:57",
+   "meeting": "2025-11-18 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "01:44:39",
+     "end": "01:56:24"
+    }
+   ],
+   "evidence_start": "So, this is a special meeting, so we just have one item on our agenda, the 2024 Police Accountability Board and Office of the Director of Po",
+   "level": "inferred"
+  },
+  {
+   "start": "02:07:57",
+   "end": "02:08:09",
+   "meeting": "2025-11-18 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Second. Okay, is there any opposition to us adjourning this evening?",
+   "level": "inferred"
+  },
+  {
+   "start": "02:08:09",
+   "end": "02:10:12",
+   "meeting": "2025-11-18 sabra",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Yeah. Successor agency meeting? Yeah, right, exactly, the joint… yeah. So… Yes.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:10:12",
+   "end": "02:10:49",
+   "meeting": "2025-11-18 sabra",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We're comfortable. Okay, sorry, so I'm gonna call to order the special,",
+   "level": "inferred"
+  },
+  {
+   "start": "02:10:49",
+   "end": "02:11:32",
+   "meeting": "2025-11-18 sabra",
+   "kind": "consent",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Here. Okay. Okay, so first we have our consent calendar,",
+   "level": "inferred"
+  },
+  {
+   "start": "02:11:32",
+   "end": "02:16:04",
+   "meeting": "2025-11-18 sabra",
+   "kind": "item",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:15:36",
+     "end": "02:15:46"
+    }
+   ],
+   "evidence_start": "Okay, we have approved the consent calendar. Moving on to our action calendar, the only item here is the dissolution of the successâ€¦ succe",
+   "level": "inferred"
+  },
+  {
+   "start": "02:16:04",
+   "end": "02:16:59",
+   "meeting": "2025-11-18 sabra",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We have approved the dissolution of the successor agency to the former Berkeley Redevelopment Agency. Thank you both for your presentation, and I will ask if there is a motion to adjourn.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:16:59",
+   "end": "02:17:33",
+   "meeting": "2025-11-18 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, hi everyone. Thank you so much for your patience. It's 6.43, and we had, special meetings that ran late, so apologies for that. I'm calling to order the Berkeley City Council meeting.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:17:33",
+   "end": "02:18:03",
+   "meeting": "2025-11-18 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, quorum is present. Alright, we have no ceremonial items this evening, so I will move over to City Manager comments.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:18:03",
+   "end": "02:24:01",
+   "meeting": "2025-11-18 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, good evening.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:24:01",
+   "end": "02:39:58",
+   "meeting": "2025-11-18 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:24:01",
+     "end": "02:39:58"
+    }
+   ],
+   "evidence_start": "Okay, so, we will now move on to public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:39:58",
+   "end": "02:56:20",
+   "meeting": "2025-11-18 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:49:19",
+     "end": "02:55:50"
+    }
+   ],
+   "evidence_start": "Okay, that finishes public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:56:20",
+   "end": "03:03:24",
+   "meeting": "2025-11-18 regular",
+   "kind": "item",
+   "item": "28",
+   "public_comment": [
+    {
+     "start": "03:02:31",
+     "end": "03:02:45"
+    }
+   ],
+   "evidence_start": "Okay, so we are moving down to our action calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:03:24",
+   "end": "03:06:12",
+   "meeting": "2025-11-18 regular",
+   "kind": "item",
+   "item": "29",
+   "public_comment": [
+    {
+     "start": "03:05:12",
+     "end": "03:05:21"
+    }
+   ],
+   "evidence_start": "Nope. Okay. Motion is passed. Thank you very much. Moving on to item 29, which is the zoning Ordinance Amendments. Thank you all so much for",
+   "level": "inferred"
+  },
+  {
+   "start": "03:06:12",
+   "end": "03:40:24",
+   "meeting": "2025-11-18 regular",
+   "kind": "item",
+   "item": "30",
+   "public_comment": [
+    {
+     "start": "03:10:45",
+     "end": "03:27:05"
+    }
+   ],
+   "evidence_start": "All right, moving on to item number 30, pausing City of Berkeley authorization for Mills Act agreements from, well, from all of our names. C",
+   "level": "inferred"
+  },
+  {
+   "start": "03:40:24",
+   "end": "03:41:18",
+   "meeting": "2025-11-18 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Luna Parra? Yes. Humbert? Yes. And Mayor Ishii? Yes. Okay, motion carries. Very good. Thank you all very much, and now I think we need to take a 10-minute break",
+   "level": "inferred"
+  },
+  {
+   "start": "03:41:18",
+   "end": "05:27:27",
+   "meeting": "2025-11-18 regular",
+   "kind": "item",
+   "item": "31",
+   "public_comment": [
+    {
+     "start": "04:48:58",
+     "end": "04:54:33"
+    }
+   ],
+   "evidence_start": "And, I think that we're actually going to pass it over to Councilmember Taplin to introduce the item. Yes, thank you very much, Madam Mayor,",
+   "level": "inferred"
+  },
+  {
+   "start": "05:27:27",
+   "end": "05:28:23",
+   "meeting": "2025-11-18 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "05:27:32",
+     "end": "05:28:23"
+    }
+   ],
+   "evidence_start": "the, for… oh, yes.",
+   "level": "inferred"
+  },
+  {
+   "start": "05:28:23",
+   "end": "05:28:56",
+   "meeting": "2025-11-18 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Nope. That's it? Nope, that's it? Okay, very good. I will entertain a motion to adjourn. So moved. Second. Second. Okay, is there any opposi",
+   "level": "inferred"
+  }
+ ]
+}

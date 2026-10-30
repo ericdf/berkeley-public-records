@@ -1,0 +1,218 @@
+{
+ "transcript_id": "bcc-2026-07-14-regular-captions-text",
+ "l1_sha256": "f5f822b8fbf0161404135293d318b5c9c0250fa9a42f4e60c572f1fecd965be8",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:08",
+   "end": "00:01:03",
+   "meeting": "2026-07-14 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'm calling to order a special meeting of the Berkeley City Council. Today is Tuesday, July 14th, 2026, and it is 4.03 p.m.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:01:03",
+   "end": "01:44:56",
+   "meeting": "2026-07-14 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "01:17:45",
+     "end": "01:22:02"
+    }
+   ],
+   "evidence_start": "So I will pass it over to our…",
+   "level": "inferred"
+  },
+  {
+   "start": "01:44:56",
+   "end": "01:45:29",
+   "meeting": "2026-07-14 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, that was our final item, so I will see if there's a motion to adjourn.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:45:29",
+   "end": "01:46:32",
+   "meeting": "2026-07-14 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Folks take their feet.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:46:32",
+   "end": "01:56:26",
+   "meeting": "2026-07-14 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Whereas Disability Pride Month is observed every July",
+   "level": "inferred"
+  },
+  {
+   "start": "01:56:26",
+   "end": "01:56:36",
+   "meeting": "2026-07-14 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are finished with our ceremonial matters for this evening.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:56:36",
+   "end": "01:59:12",
+   "meeting": "2026-07-14 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "No comments tonight, Madam Mayor, thank you. Thank you so much. I think our city auditor… oh, our city auditor is here",
+   "level": "inferred"
+  },
+  {
+   "start": "01:59:12",
+   "end": "02:13:03",
+   "meeting": "2026-07-14 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, to public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:13:03",
+   "end": "02:51:54",
+   "meeting": "2026-07-14 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:25:56",
+     "end": "02:50:49"
+    }
+   ],
+   "evidence_start": "Alright, we are now moving on to the consent calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:51:54",
+   "end": "02:53:39",
+   "meeting": "2026-07-14 regular",
+   "kind": "item",
+   "item": "21",
+   "public_comment": [
+    {
+     "start": "02:52:22",
+     "end": "02:52:39"
+    }
+   ],
+   "evidence_start": "Okay, moving on to our action calendar. We are moving on to 20… Item 21",
+   "level": "inferred"
+  },
+  {
+   "start": "02:53:39",
+   "end": "02:57:45",
+   "meeting": "2026-07-14 regular",
+   "kind": "item",
+   "item": "22",
+   "public_comment": [
+    {
+     "start": "02:53:51",
+     "end": "02:56:41"
+    }
+   ],
+   "evidence_start": "Moving on to item number 22, levy and Collection of Fiscal year 2027. Street Lighting Assessments",
+   "level": "inferred"
+  },
+  {
+   "start": "02:57:45",
+   "end": "02:58:22",
+   "meeting": "2026-07-14 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "All right, I just want to check in with my Council colleagues. Should we move on, or do folks want to take, like, a quick 10-minute",
+   "level": "inferred"
+  },
+  {
+   "start": "02:58:22",
+   "end": "04:38:59",
+   "meeting": "2026-07-14 regular",
+   "kind": "item",
+   "item": "23a/23b",
+   "public_comment": [
+    {
+     "start": "03:49:16",
+     "end": "04:38:56"
+    }
+   ],
+   "evidence_start": "Okay, so just to, just to start us off, since I do want us to get started again, we are on item 23,",
+   "level": "inferred"
+  },
+  {
+   "start": "04:38:59",
+   "end": "04:39:16",
+   "meeting": "2026-07-14 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I do want to take a brief break before we go on to the virtual",
+   "level": "inferred"
+  },
+  {
+   "start": "04:39:16",
+   "end": "05:55:01",
+   "meeting": "2026-07-14 regular",
+   "kind": "item",
+   "item": "23a/23b",
+   "public_comment": [
+    {
+     "start": "04:39:16",
+     "end": "05:06:09"
+    }
+   ],
+   "evidence_start": "Thank you. We're gonna get started. Okay, we are moving on to our online comment.",
+   "level": "inferred"
+  },
+  {
+   "start": "05:55:01",
+   "end": "06:07:30",
+   "meeting": "2026-07-14 regular",
+   "kind": "item",
+   "item": "24a/24b",
+   "public_comment": null,
+   "evidence_start": "Okay, so, thank you very much. So, since we still have another item on the agenda, and it is almost 11 o'clock",
+   "level": "inferred"
+  },
+  {
+   "start": "06:07:30",
+   "end": "06:31:50",
+   "meeting": "2026-07-14 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We will now take any public comment on items not listed on the agenda.",
+   "level": "inferred"
+  },
+  {
+   "start": "06:31:50",
+   "end": "06:32:02",
+   "meeting": "2026-07-14 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, that's it. Okay. Sorry? No more speakers. Okay, thank you. Is there a motion to adjourn?",
+   "level": "inferred"
+  }
+ ]
+}

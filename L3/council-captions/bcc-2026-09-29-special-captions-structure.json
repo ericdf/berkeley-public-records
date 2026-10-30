@@ -1,0 +1,43 @@
+{
+ "transcript_id": "bcc-2026-09-29-special-captions-text",
+ "l1_sha256": "fc85e04288970a3a976d291f629204634775a5199d668edb3599d1cdd4fba80e",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:10",
+   "end": "00:02:24",
+   "meeting": "2026-09-29 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'm calling the Berkeley City Council meeting, special meeting to order.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:02:24",
+   "end": "01:18:24",
+   "meeting": "2026-09-29 special",
+   "kind": "item",
+   "item": "1a/1b",
+   "public_comment": [
+    {
+     "start": "00:03:40",
+     "end": "00:48:33"
+    }
+   ],
+   "evidence_start": "So we have one item on our agenda this evening, and it is old business. The item is item one",
+   "level": "inferred"
+  },
+  {
+   "start": "01:18:24",
+   "end": "01:18:58",
+   "meeting": "2026-09-29 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "And, is there another motion to adjourn? So moved. Second.",
+   "level": "inferred"
+  }
+ ]
+}

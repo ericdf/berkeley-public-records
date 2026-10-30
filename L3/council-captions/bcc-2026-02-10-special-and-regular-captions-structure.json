@@ -1,0 +1,163 @@
+{
+ "transcript_id": "bcc-2026-02-10-special-and-regular-captions-text",
+ "l1_sha256": "cc9ab3aff636692ecb3d754340eec58fa41fa54cd0e689ad57e0b9aba2288d69",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:29",
+   "end": "00:01:31",
+   "meeting": "2026-02-10 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'm calling to order the special Berkeley City Council meeting.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:01:31",
+   "end": "00:15:00",
+   "meeting": "2026-02-10 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "00:07:59",
+     "end": "00:13:14"
+    }
+   ],
+   "evidence_start": "moving on to item number 1, 2026 City Council Referral Prioritization Results",
+   "level": "inferred"
+  },
+  {
+   "start": "00:15:00",
+   "end": "00:15:45",
+   "meeting": "2026-02-10 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "This is the last item on our special agenda meeting packet",
+   "level": "inferred"
+  },
+  {
+   "start": "00:15:45",
+   "end": "00:17:49",
+   "meeting": "2026-02-10 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I am going to call to order the Berkeley City Council meeting. Today is Tuesday, February 10th, 2026.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:17:49",
+   "end": "00:40:46",
+   "meeting": "2026-02-10 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We will now move on to ceremonial items.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:40:46",
+   "end": "00:41:04",
+   "meeting": "2026-02-10 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I will check to see if the City Manager has any comments. No comments",
+   "level": "inferred"
+  },
+  {
+   "start": "00:41:04",
+   "end": "00:56:48",
+   "meeting": "2026-02-10 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "00:41:04",
+     "end": "00:56:48"
+    }
+   ],
+   "evidence_start": "Okay, so we'll draw 5 cards for in-person speakers.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:56:48",
+   "end": "01:08:59",
+   "meeting": "2026-02-10 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "00:58:52",
+     "end": "01:07:03"
+    }
+   ],
+   "evidence_start": "Alright, so we will move on to the consent calendar, then.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:08:59",
+   "end": "02:15:16",
+   "meeting": "2026-02-10 regular",
+   "kind": "item",
+   "item": "14",
+   "public_comment": null,
+   "evidence_start": "We are now going to move on to the action calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:15:16",
+   "end": "02:15:36",
+   "meeting": "2026-02-10 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "we're gonna take a 5-minute stretch break, but be prepared to start public comment right afterwards.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:15:36",
+   "end": "03:12:24",
+   "meeting": "2026-02-10 regular",
+   "kind": "item",
+   "item": "14",
+   "public_comment": [
+    {
+     "start": "02:15:36",
+     "end": "02:49:10"
+    }
+   ],
+   "evidence_start": "Please take your seats so we can hear public comment.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:12:24",
+   "end": "03:16:37",
+   "meeting": "2026-02-10 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "03:12:24",
+     "end": "03:16:37"
+    }
+   ],
+   "evidence_start": "we are now moving on to public comment for items not listed on the agenda.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:16:37",
+   "end": "03:17:14",
+   "meeting": "2026-02-10 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I will now entertain a motion to adjourn.",
+   "level": "inferred"
+  }
+ ]
+}

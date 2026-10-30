@@ -1,0 +1,43 @@
+{
+ "transcript_id": "bcc-2025-03-11-special-captions-text",
+ "l1_sha256": "901efb896b02aa008f62a2d973b4523d4ca1c004b94a6c1531148befbcfc1855",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 110,
+   "meeting": "2025-03-11 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: HELLO, EVERYONE. ALL RIGHT. ARE WE READY? JUST",
+   "level": "inferred"
+  },
+  {
+   "start_line": 111,
+   "end_line": 1689,
+   "meeting": "2025-03-11 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 113,
+     "end_line": 658
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: OKAY, THANK YOU VERY MUCH. FOR OUR ACTION",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1690,
+   "end_line": 1753,
+   "meeting": "2025-03-11 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: WONDERFUL. THANK YOU ALL SO MUCH. YEAH, I THINK",
+   "level": "inferred"
+  }
+ ]
+}

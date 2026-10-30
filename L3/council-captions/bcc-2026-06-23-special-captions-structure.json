@@ -1,0 +1,88 @@
+{
+ "transcript_id": "bcc-2026-06-23-special-captions-text",
+ "l1_sha256": "112da8a0513083991eb2d9a9e07e7c60ab1428ec43276f089fa4c017547721e3",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:01:56",
+   "end": "00:05:17",
+   "meeting": "2026-06-23 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, thank you everyone so much for your patience. I'm calling to order the special meeting of the Berkeley City Council.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:05:17",
+   "end": "02:16:11",
+   "meeting": "2026-06-23 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "00:34:47",
+     "end": "02:16:10"
+    }
+   ],
+   "evidence_start": "Okay would you like to take it away?",
+   "level": "inferred"
+  },
+  {
+   "start": "02:16:11",
+   "end": "02:16:45",
+   "meeting": "2026-06-23 special",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, those are all the callers that are online. We're gonna take a 15-minute break and come back.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:16:45",
+   "end": "03:11:44",
+   "meeting": "2026-06-23 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": "Okay, hi everyone, we're back in session. Thank you very much for your patience. I really appreciate the time.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:11:44",
+   "end": "03:12:00",
+   "meeting": "2026-06-23 special",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "So, would it be possible to take a quick 5-minute break?",
+   "level": "inferred"
+  },
+  {
+   "start": "03:12:00",
+   "end": "03:15:07",
+   "meeting": "2026-06-23 special",
+   "kind": "item",
+   "item": "2",
+   "public_comment": [
+    {
+     "start": "03:14:01",
+     "end": "03:14:17"
+    }
+   ],
+   "evidence_start": "We are moving on to item number 2, which is the FY2027 Annual Appropriations Ordinance, and I will pass it over to Marikar, please.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:15:07",
+   "end": "03:15:36",
+   "meeting": "2026-06-23 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, motion passes. Can we get a motion to adjourn, please?",
+   "level": "inferred"
+  }
+ ]
+}

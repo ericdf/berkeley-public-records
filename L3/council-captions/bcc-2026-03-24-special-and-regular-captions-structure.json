@@ -1,0 +1,248 @@
+{
+ "transcript_id": "bcc-2026-03-24-special-and-regular-captions-text",
+ "l1_sha256": "6daff81fe00f23dee6bf14cff32da8ec96b0544bfff7e23231f0376599227339",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:04:34",
+   "end": "01:58:59",
+   "meeting": "2026-03-24 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "01:28:43",
+     "end": "01:41:45"
+    }
+   ],
+   "evidence_start": "How about now?",
+   "level": "inferred"
+  },
+  {
+   "start": "01:58:59",
+   "end": "01:59:18",
+   "meeting": "2026-03-24 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "given that this was just a presentation, and we don't have to vote on anything",
+   "level": "inferred"
+  },
+  {
+   "start": "01:59:18",
+   "end": "02:00:56",
+   "meeting": "2026-03-24 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, so it is 6.02, so typically we would be starting our regular meeting, but we do need some time",
+   "level": "inferred"
+  },
+  {
+   "start": "02:00:56",
+   "end": "02:01:18",
+   "meeting": "2026-03-24 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Taking the role for the regular meeting, Councilmember Kesarwani.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:01:18",
+   "end": "02:03:43",
+   "meeting": "2026-03-24 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, I have a statement to read out first. With respect to information item number 27",
+   "level": "inferred"
+  },
+  {
+   "start": "02:03:43",
+   "end": "02:15:55",
+   "meeting": "2026-03-24 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, we have two ceremonial matters this evening.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:15:55",
+   "end": "02:16:41",
+   "meeting": "2026-03-24 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, so we are now moving on to our city manager comments.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:16:41",
+   "end": "02:23:04",
+   "meeting": "2026-03-24 regular",
+   "kind": "item",
+   "item": "18",
+   "public_comment": null,
+   "evidence_start": "Oh, and you're already here, in time for our City Auditor comments.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:23:04",
+   "end": "02:38:52",
+   "meeting": "2026-03-24 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:23:04",
+     "end": "02:38:37"
+    }
+   ],
+   "evidence_start": "Okay, we will now take public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:38:52",
+   "end": "02:42:43",
+   "meeting": "2026-03-24 regular",
+   "kind": "other_procedural",
+   "item": "Urgent",
+   "public_comment": null,
+   "evidence_start": "we are now moving on to our consent calendar, and there's an urgency item from Councilmember Kesarwani",
+   "level": "inferred"
+  },
+  {
+   "start": "02:42:43",
+   "end": "03:27:19",
+   "meeting": "2026-03-24 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:56:07",
+     "end": "03:26:38"
+    }
+   ],
+   "evidence_start": "are there any comments from my Council colleagues on the consent calendar or information items?",
+   "level": "inferred"
+  },
+  {
+   "start": "03:27:19",
+   "end": "03:28:33",
+   "meeting": "2026-03-24 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, so, just to recap for folks, we've just finished the consent calendar. We are now moving on to the action calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:28:33",
+   "end": "03:34:58",
+   "meeting": "2026-03-24 regular",
+   "kind": "item",
+   "item": "7",
+   "public_comment": [
+    {
+     "start": "03:30:11",
+     "end": "03:33:59"
+    }
+   ],
+   "evidence_start": "Okay, would you like us to do the Mills Act contract item first? Okay, let's do the Mills Act contract item first.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:34:58",
+   "end": "03:45:36",
+   "meeting": "2026-03-24 regular",
+   "kind": "item",
+   "item": "Urgent",
+   "public_comment": [
+    {
+     "start": "03:41:37",
+     "end": "03:43:15"
+    }
+   ],
+   "evidence_start": "Okay, we will move that to our next meeting then, and move on to the Cesar Chavez item.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:45:36",
+   "end": "04:11:27",
+   "meeting": "2026-03-24 regular",
+   "kind": "item",
+   "item": "25",
+   "public_comment": [
+    {
+     "start": "03:51:04",
+     "end": "04:04:36"
+    }
+   ],
+   "evidence_start": "Adopt a resolution authorizing temporary employee of retired annuitant Kathy Lee as Interim Director of Police Accountability.",
+   "level": "inferred"
+  },
+  {
+   "start": "04:11:27",
+   "end": "04:11:53",
+   "meeting": "2026-03-24 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, it's 8.34, so we will be back in 15 minutes.",
+   "level": "inferred"
+  },
+  {
+   "start": "04:11:53",
+   "end": "06:42:36",
+   "meeting": "2026-03-24 regular",
+   "kind": "item",
+   "item": "26",
+   "public_comment": [
+    {
+     "start": "05:38:18",
+     "end": "06:42:36"
+    }
+   ],
+   "evidence_start": "Okay!",
+   "level": "inferred"
+  },
+  {
+   "start": "06:42:36",
+   "end": "06:44:20",
+   "meeting": "2026-03-24 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "So, if you did not get a number, make sure you get a number from Julie",
+   "level": "inferred"
+  },
+  {
+   "start": "06:44:20",
+   "end": "08:17:39",
+   "meeting": "2026-03-24 regular",
+   "kind": "item",
+   "item": "26",
+   "public_comment": [
+    {
+     "start": "06:44:20",
+     "end": "08:13:33"
+    }
+   ],
+   "evidence_start": "Okay, alright, thank you all so much for your patience. Folks, please!",
+   "level": "inferred"
+  },
+  {
+   "start": "08:17:39",
+   "end": "08:18:34",
+   "meeting": "2026-03-24 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, so we're almost running out of time, so I…",
+   "level": "inferred"
+  }
+ ]
+}

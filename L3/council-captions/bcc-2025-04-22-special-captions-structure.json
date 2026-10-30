@@ -1,0 +1,63 @@
+{
+ "transcript_id": "bcc-2025-04-22-special-captions-text",
+ "l1_sha256": "df2c9ae7625fda8df1463659235d1ed27fa9605a3108e81cf5e0a18e9e3bbc36",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 100,
+   "meeting": "2025-04-22 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 101,
+   "end_line": 2568,
+   "meeting": "2025-04-22 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 904,
+     "end_line": 2567
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: THANK YOU. I WANT TO CHECK AND SEE IF ANY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2569,
+   "end_line": 2580,
+   "meeting": "2025-04-22 special",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY, THANK YOU VERY MUCH. I WOULD LIKE TO GIVE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2581,
+   "end_line": 3823,
+   "meeting": "2025-04-22 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: HERE WE GO. HI, FOLKS. OUR BREAK HAS COME TO AN",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3824,
+   "end_line": 3877,
+   "meeting": "2025-04-22 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU, FOLKS. I WOULD LIKE TO SEE IF THERE'S",
+   "level": "inferred"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "transcript_id": "bcc-2025-10-28-special-captions-zoom-text",
+ "l1_sha256": "9005d822c857e0a606680452dd58660d75f2d94c002375058832e9a5f61f5c54",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:03",
+   "end": "00:00:55",
+   "meeting": "2025-10-28 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, lovely. Alright.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:00:55",
+   "end": "01:43:03",
+   "meeting": "2025-10-28 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "00:41:13",
+     "end": "01:06:52"
+    }
+   ],
+   "evidence_start": "Well, we have one item on our special agenda tonight on our, and that is the Ashby Bart East law transit oriented development request for pr",
+   "level": "inferred"
+  },
+  {
+   "start": "01:43:03",
+   "end": "01:44:14",
+   "meeting": "2025-10-28 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you so much. Appreciate it. So for folks that are here for the 6 o'clock meeting it is 9 min been sitting for almost 2 h so I want to ",
+   "level": "inferred"
+  }
+ ]
+}

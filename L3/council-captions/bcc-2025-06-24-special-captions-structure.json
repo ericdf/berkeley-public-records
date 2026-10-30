@@ -1,0 +1,88 @@
+{
+ "transcript_id": "bcc-2025-06-24-special-captions-text",
+ "l1_sha256": "7fbf1ef1997d543546902d89d0a2efd414281b4722cd10a5f4c6a141b98ca5d1",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 53,
+   "meeting": "2025-06-24 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 54,
+   "end_line": 443,
+   "meeting": "2025-06-24 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 68,
+     "end_line": 248
+    }
+   ],
+   "evidence_start": "SOME ADDITIONAL COUNCILMEMBERS HERE. SO WE ARE MOVING ON TO THE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 444,
+   "end_line": 647,
+   "meeting": "2025-06-24 special",
+   "kind": "item",
+   "item": "2",
+   "public_comment": [
+    {
+     "start_line": 448,
+     "end_line": 453
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: MOVING ONTO ITEM #2, THE NEW FEE SCHEDULE FOR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 648,
+   "end_line": 1293,
+   "meeting": "2025-06-24 special",
+   "kind": "item",
+   "item": "3",
+   "public_comment": [
+    {
+     "start_line": 652,
+     "end_line": 741
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: ALL RIGHT. THANK YOU, ALL. MOVING ONTO ITEM #3,",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1294,
+   "end_line": 3651,
+   "meeting": "2025-06-24 special",
+   "kind": "item",
+   "item": "4",
+   "public_comment": [
+    {
+     "start_line": 1488,
+     "end_line": 2469
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: OKAY, VERY GOOD. ALL RIGHT, SO WE ARE MOVING ON",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3652,
+   "end_line": 3708,
+   "meeting": "2025-06-24 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: THANK YOU. OKAY. THAT IS OUR FINAL ITEM THIS",
+   "level": "inferred"
+  }
+ ]
+}

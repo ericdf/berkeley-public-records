@@ -1,0 +1,18 @@
+{
+  "id": "bcc-2025-03-25-special-captions-structure",
+  "layer": "L3",
+  "doc_type": "council_captions_structure",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-03-25",
+  "meeting_label": "Special",
+  "title": "BCC 2025-03-25 Special Captioning — item structure",
+  "file": "L3/council-captions/bcc-2025-03-25-special-captions-structure.json",
+  "sha256": "a2ca0c7e2385a3007b1727f1f84fee6ab2c8102f84791e5b6046d485c0196489",
+  "bytes": 2081,
+  "derived_from": {
+    "id": "bcc-2025-03-25-special-captions-text",
+    "sha256": "cb4622d417242f4e19e43f5c7ee00a1a756b89dd37615c59993275f80195e6d2"
+  },
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}

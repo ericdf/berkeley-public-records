@@ -1,0 +1,218 @@
+{
+ "transcript_id": "bcc-2025-04-28-special-captions-text",
+ "l1_sha256": "b5f927323a51e269895c30f9bb778009252411984fdadc3b1234416db987489b",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 110,
+   "meeting": "2025-04-28 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 111,
+   "end_line": 841,
+   "meeting": "2025-04-28 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU, ALL FOR BEING HERE THIS EVENING. I",
+   "level": "inferred"
+  },
+  {
+   "start_line": 842,
+   "end_line": 1001,
+   "meeting": "2025-04-28 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THERE ARE SOME FOLKS SPEAKING. WE WILL MOVE ONTO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1002,
+   "end_line": 2258,
+   "meeting": "2025-04-28 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 1002,
+     "end_line": 2258
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: OKAY, I WILL START THE PUBLIC COMMENT. CAN THE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2259,
+   "end_line": 2298,
+   "meeting": "2025-04-28 special",
+   "kind": "recess",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU. I'M SO SORRY, MARCIA, I'M HEARING",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2299,
+   "end_line": 4217,
+   "meeting": "2025-04-28 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 2299,
+     "end_line": 4217
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: OKAY, FOLKS. ALL RIGHT; WE'RE GOING TO GO BACK",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4218,
+   "end_line": 4227,
+   "meeting": "2025-04-28 special",
+   "kind": "recess",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU FOR YOUR COMMENT. WE ARE GOING TO TAKE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4228,
+   "end_line": 4350,
+   "meeting": "2025-04-28 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: FOLK S, PLEASE HAVE A SEAT, THANK YOU. THANK",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4351,
+   "end_line": 5439,
+   "meeting": "2025-04-28 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 4351,
+     "end_line": 5439
+    }
+   ],
+   "evidence_start": ">> I MOVED TO BERKELEY 55 YEARS AGO BECAUSE IT STOOD UP FOR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 5440,
+   "end_line": 5948,
+   "meeting": "2025-04-28 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 5440,
+     "end_line": 5948
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: THANK YOU. WE HAVE TIME ONLINE FOR THE SPEAKERS",
+   "level": "inferred"
+  },
+  {
+   "start_line": 5949,
+   "end_line": 5973,
+   "meeting": "2025-04-28 special",
+   "kind": "recess",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": "[APPLAUSE] SO THERE ARE 63 FOLKS LEFT ON HERE, KEEPING IN MIND",
+   "level": "inferred"
+  },
+  {
+   "start_line": 5974,
+   "end_line": 7062,
+   "meeting": "2025-04-28 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 5974,
+     "end_line": 7062
+    }
+   ],
+   "evidence_start": ">> CAN YOU HEAR ME? WE CAN'T HEAR YOU ONLINE, BY THE WAY, BUT",
+   "level": "inferred"
+  },
+  {
+   "start_line": 7063,
+   "end_line": 7129,
+   "meeting": "2025-04-28 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU, YOUR TIME IS UP. I WOULD LIKE TO MAKE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 7130,
+   "end_line": 7556,
+   "meeting": "2025-04-28 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 7130,
+     "end_line": 7556
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: LET'S TAKE YOU'RE NEXT COMMENTS. WE HAVE LEAH",
+   "level": "inferred"
+  },
+  {
+   "start_line": 7557,
+   "end_line": 8300,
+   "meeting": "2025-04-28 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": ">> CITY CLERK: SO THAT CONCLUDES PUBLIC COMMENT. THE TIME HAS",
+   "level": "inferred"
+  },
+  {
+   "start_line": 8301,
+   "end_line": 8306,
+   "meeting": "2025-04-28 special",
+   "kind": "recess",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: WE'RE GOING TO TAKE A FIVE-MINUTE RECESS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 8307,
+   "end_line": 8588,
+   "meeting": "2025-04-28 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: FOLKS, PLEASE. PLEASE QUIET DOWN. WE'VE GOT 20",
+   "level": "inferred"
+  },
+  {
+   "start_line": 8589,
+   "end_line": 8648,
+   "meeting": "2025-04-28 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "-- ALL RIGHT. THAT'S IT. OKAY. IS THERE A MOTION TO ADJOURN",
+   "level": "inferred"
+  }
+ ]
+}

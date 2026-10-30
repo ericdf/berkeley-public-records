@@ -1,0 +1,193 @@
+{
+ "transcript_id": "bcc-2025-10-28-regular-captions-text",
+ "l1_sha256": "bc9b04db3803707d0950ed17a9655f2bd001fd096a2c7672b221191ffdf2af19",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 69,
+   "meeting": "2025-10-28 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'M GOING TO CALL TO ORDER THE BERKELEY CITY COUNCIL MEETING. TODAY IS TUESDAY, OCTOBER 28TH, 2025.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 70,
+   "end_line": 185,
+   "meeting": "2025-10-28 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "SO WE ARE GOING TO MOVE ONTO CEREMONIAL MATTERS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 186,
+   "end_line": 215,
+   "meeting": "2025-10-28 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "SO MOVING ON, WE HAVE CITY MANAGER COMMENTS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 216,
+   "end_line": 343,
+   "meeting": "2025-10-28 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "MOVING ONTO OUR AUDITOR'S COMMENTS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 344,
+   "end_line": 851,
+   "meeting": "2025-10-28 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 344,
+     "end_line": 851
+    }
+   ],
+   "evidence_start": "MOVING ON TO PUBLIC WORK ON NON-AGENDA MATTERS?",
+   "level": "inferred"
+  },
+  {
+   "start_line": 852,
+   "end_line": 2411,
+   "meeting": "2025-10-28 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 1502,
+     "end_line": 2311
+    }
+   ],
+   "evidence_start": "OKAY, SO WE ARE MOVING ON TO THE CONSENT CALENDAR.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2412,
+   "end_line": 2419,
+   "meeting": "2025-10-28 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "WE HAVE STILL A FEW ITEMS ON OUR ACTION CALENDAR, BUT I WOULD LIKE US TO TAKE A TEN MINUTE BREAK.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2420,
+   "end_line": 5007,
+   "meeting": "2025-10-28 regular",
+   "kind": "item",
+   "item": "18",
+   "public_comment": [
+    {
+     "start_line": 3154,
+     "end_line": 4211
+    }
+   ],
+   "evidence_start": "SO, WE ARE GOING TO MOVE ON TO ITEM #18, AUTHORIZATION TO ENCRYPT BERKELEY POLICE DEPARTMENT PRIMARY RADIO CHANNELS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 5008,
+   "end_line": 5025,
+   "meeting": "2025-10-28 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "WE HAVE TWO MORE ITEMS LEFT BUT WE ARE GOING TO TAKE A TEN MINUTE BREAK.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 5026,
+   "end_line": 6169,
+   "meeting": "2025-10-28 regular",
+   "kind": "item",
+   "item": "28",
+   "public_comment": [
+    {
+     "start_line": 5140,
+     "end_line": 5225
+    }
+   ],
+   "evidence_start": "OKAY, SO WE ARE MOVING ON TO ITEM #28 HAD WAS PULLED OFF THE CONSENT CALENDAR.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 6170,
+   "end_line": 6225,
+   "meeting": "2025-10-28 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "OKAY, WE NEED TO EXTEND TIME.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 6226,
+   "end_line": 7901,
+   "meeting": "2025-10-28 regular",
+   "kind": "item",
+   "item": "33",
+   "public_comment": [
+    {
+     "start_line": 7030,
+     "end_line": 7364
+    }
+   ],
+   "evidence_start": "WE ARE MOVING ONTO ITEM 33. TELEGRAPH MULTI- MODAL CORRIDOR PROJECT CONCEPTUAL DESIGN.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 7902,
+   "end_line": 7941,
+   "meeting": "2025-10-28 regular",
+   "kind": "other_procedural",
+   "item": "32",
+   "public_comment": [
+    {
+     "start_line": 7902,
+     "end_line": 7941
+    }
+   ],
+   "evidence_start": "OUR MEETING ISN'T OVER. NOW WE WERE SUPPOSED TO HAVE DONE THE ADU ITEM, WE AREN'T DOING THAT",
+   "level": "inferred"
+  },
+  {
+   "start_line": 7942,
+   "end_line": 7949,
+   "meeting": "2025-10-28 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 7942,
+     "end_line": 7949
+    }
+   ],
+   "evidence_start": "FINALLY, IS THERE ANY PUBLIC COMMENT FOR ITEMS NOT LISTED ON THE AGENDA?",
+   "level": "inferred"
+  },
+  {
+   "start_line": 7950,
+   "end_line": 7979,
+   "meeting": "2025-10-28 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "OKAY, VERY GOOD. I WANT TO JUST SAY I AM SO GRATEFUL FOR ALL OF MY COLLEAGUES.",
+   "level": "inferred"
+  }
+ ]
+}

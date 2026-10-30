@@ -1,0 +1,183 @@
+{
+ "transcript_id": "bcc-2026-01-27-special-and-regular-captions-text",
+ "l1_sha256": "4199a9eefb44cdd5a56b61adac950ba897e4ffa311ee761eb2af12625aff3400",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:09",
+   "end": "00:01:01",
+   "meeting": "2026-01-27 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I called to order the special meeting of the Berkeley City Council.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:01:01",
+   "end": "00:42:28",
+   "meeting": "2026-01-27 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "00:09:43",
+     "end": "00:10:01"
+    }
+   ],
+   "evidence_start": "We have one item on our special agenda today. It's the 2026 City Council Referral Prioritization Process",
+   "level": "inferred"
+  },
+  {
+   "start": "00:42:28",
+   "end": "00:43:19",
+   "meeting": "2026-01-27 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I will adjourn the meeting, and we'll be back for our regular…",
+   "level": "inferred"
+  },
+  {
+   "start": "00:43:19",
+   "end": "00:47:11",
+   "meeting": "2026-01-27 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'm gonna call to order the Berkeley City Council meeting. Today is Tuesday, January 27th, 2026.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:47:11",
+   "end": "01:04:25",
+   "meeting": "2026-01-27 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We're gonna start with ceremonial matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:04:25",
+   "end": "01:06:53",
+   "meeting": "2026-01-27 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are now moving on to City Manager comments.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:06:53",
+   "end": "01:19:15",
+   "meeting": "2026-01-27 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "01:06:53",
+     "end": "01:19:15"
+    }
+   ],
+   "evidence_start": "Now we will go on to public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:19:15",
+   "end": "02:06:57",
+   "meeting": "2026-01-27 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "01:40:11",
+     "end": "02:05:51"
+    }
+   ],
+   "evidence_start": "We're gonna move on to the consent calendar now.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:06:57",
+   "end": "02:09:36",
+   "meeting": "2026-01-27 regular",
+   "kind": "item",
+   "item": "18",
+   "public_comment": [
+    {
+     "start": "02:07:30",
+     "end": "02:07:48"
+    }
+   ],
+   "evidence_start": "Moving on to the action calendar, I think we should do… Item 18 and 19",
+   "level": "inferred"
+  },
+  {
+   "start": "02:09:36",
+   "end": "02:12:37",
+   "meeting": "2026-01-27 regular",
+   "kind": "item",
+   "item": "19",
+   "public_comment": [
+    {
+     "start": "02:10:03",
+     "end": "02:11:21"
+    }
+   ],
+   "evidence_start": "Now I'll open the public hearing for item 19, Selected Marina Fee Increases.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:12:37",
+   "end": "02:12:55",
+   "meeting": "2026-01-27 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Let's, take a 10-minute break and come back at 7.40.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:12:55",
+   "end": "03:43:43",
+   "meeting": "2026-01-27 regular",
+   "kind": "item",
+   "item": "21",
+   "public_comment": [
+    {
+     "start": "02:35:22",
+     "end": "02:51:54"
+    }
+   ],
+   "evidence_start": "moving on to item 21, recession and replacement of the Police Equipment and Community Safety Ordinance.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:43:43",
+   "end": "03:49:09",
+   "meeting": "2026-01-27 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "03:44:03",
+     "end": "03:49:09"
+    }
+   ],
+   "evidence_start": "That is our… Final action item for the night.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:49:09",
+   "end": "03:49:59",
+   "meeting": "2026-01-27 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Is there a motion to adjourn the meeting? So moved.",
+   "level": "inferred"
+  }
+ ]
+}

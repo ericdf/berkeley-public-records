@@ -1,0 +1,63 @@
+{
+ "transcript_id": "bcc-2026-04-16-budget-committee-captions-text",
+ "l1_sha256": "69233835977141b7d10da0fd04b9419103edc1e589c7bd547cade5205410f698",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:21",
+   "end": "00:00:47",
+   "meeting": "2026-04-16 committee",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Yes, Tom.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:00:47",
+   "end": "00:01:18",
+   "meeting": "2026-04-16 committee",
+   "kind": "other_procedural",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": "Thank you very much. Our first item of business is the minutes for approval.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:01:18",
+   "end": "01:54:49",
+   "meeting": "2026-04-16 committee",
+   "kind": "item",
+   "item": "2",
+   "public_comment": [
+    {
+     "start": "01:35:29",
+     "end": "01:53:49"
+    }
+   ],
+   "evidence_start": "And so, item number 2 on here is the overview of the FY2027-FY28 proposed budget balancing plan",
+   "level": "inferred"
+  },
+  {
+   "start": "01:54:49",
+   "end": "01:55:56",
+   "meeting": "2026-04-16 committee",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "So, I want to see if there are any other requests by committee members to add items to the next agenda.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:55:56",
+   "end": "01:56:16",
+   "meeting": "2026-04-16 committee",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Yes, thank you. Thank you very much, and I will entertain a motion to adjourn.",
+   "level": "inferred"
+  }
+ ]
+}

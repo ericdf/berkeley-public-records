@@ -1,0 +1,163 @@
+{
+ "transcript_id": "bcc-2025-02-11-regular-captions-text",
+ "l1_sha256": "d1beb9aac6c808f916d4d6f859c2f611b2f62da7c70c881ac9db8c88c518fedb",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 114,
+   "meeting": "2025-02-11 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> CITY CLERK: YOU OKAY?         THANK YOU.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 115,
+   "end_line": 126,
+   "meeting": "2025-02-11 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU. FOR CEREMONIAL MATTERS WE WILL BE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 127,
+   "end_line": 488,
+   "meeting": "2025-02-11 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY, WE WILL BE TAKING PUBLIC COMMENT ON NON-",
+   "level": "inferred"
+  },
+  {
+   "start_line": 489,
+   "end_line": 502,
+   "meeting": "2025-02-11 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THAT'S EXACTLY WHAT I WAS GOING TO SAY. DO WE HAVE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 503,
+   "end_line": 516,
+   "meeting": "2025-02-11 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY, WE WILL BE MOVING ON TO THE CONSENT CALENDAR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 517,
+   "end_line": 635,
+   "meeting": "2025-02-11 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">>   CITY    CLERK:    SORRY,     MAYOR,    I   GUESS    THERE'S,     THE    UNION",
+   "level": "inferred"
+  },
+  {
+   "start_line": 636,
+   "end_line": 1855,
+   "meeting": "2025-02-11 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 885,
+     "end_line": 1830
+    }
+   ],
+   "evidence_start": "OUR LIST. APPRECIATE IT. COUNCILMEMBER, YES?",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1856,
+   "end_line": 1865,
+   "meeting": "2025-02-11 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: GREAT, THANK YOU SO MUCH. THANK YOU ALL SO MUCH.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1866,
+   "end_line": 2744,
+   "meeting": "2025-02-11 regular",
+   "kind": "item",
+   "item": "8",
+   "public_comment": [
+    {
+     "start_line": 2649,
+     "end_line": 2712
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: COUNCILMEMBER? THANK YOU. OKAY, TRYING TO GET US",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2745,
+   "end_line": 4591,
+   "meeting": "2025-02-11 regular",
+   "kind": "item",
+   "item": "9",
+   "public_comment": [
+    {
+     "start_line": 3582,
+     "end_line": 4083
+    }
+   ],
+   "evidence_start": "GOING TO MOVE ONTO ITEM #9, WHICH IS THE PROPOSED AMENDMENTS TO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4592,
+   "end_line": 4614,
+   "meeting": "2025-02-11 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU ALL SO MUCH AND THANK YOU FOR STAYING IN",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4615,
+   "end_line": 4638,
+   "meeting": "2025-02-11 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "YOU SO MUCH. WE ARE NOW MOVING ONTO INFORMATION REPORTS DO YOU",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4639,
+   "end_line": 5043,
+   "meeting": "2025-02-11 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: WE STILL HAVE PUBLIC COMMENT IS THERE ANY ITEMS",
+   "level": "inferred"
+  },
+  {
+   "start_line": 5044,
+   "end_line": 5049,
+   "meeting": "2025-02-11 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> IF THERE IS NO OPPOSITION.",
+   "level": "inferred"
+  }
+ ]
+}

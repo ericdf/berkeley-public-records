@@ -1,0 +1,98 @@
+{
+ "transcript_id": "bcc-2026-04-14-regular-captions-text",
+ "l1_sha256": "88dbd9351b9e13e5847e97c984b63dfffd452b52f9ef2c22a55d501ff5d3b2ff",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:15",
+   "end": "00:05:39",
+   "meeting": "2026-04-14 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Hello! Good evening!",
+   "level": "inferred"
+  },
+  {
+   "start": "00:05:39",
+   "end": "00:21:15",
+   "meeting": "2026-04-14 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you so much, Councilmember. So, for our ceremonial items this evening,",
+   "level": "inferred"
+  },
+  {
+   "start": "00:21:15",
+   "end": "00:36:40",
+   "meeting": "2026-04-14 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We will now move on to City Manager comments.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:36:40",
+   "end": "01:19:25",
+   "meeting": "2026-04-14 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, we're moving on to the consent calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:19:25",
+   "end": "01:41:46",
+   "meeting": "2026-04-14 regular",
+   "kind": "item",
+   "item": "19",
+   "public_comment": [
+    {
+     "start": "01:38:17",
+     "end": "01:41:00"
+    }
+   ],
+   "evidence_start": "so we are now on the action calendar for new business, so I will pass it over to the City Attorney",
+   "level": "inferred"
+  },
+  {
+   "start": "01:41:46",
+   "end": "03:21:52",
+   "meeting": "2026-04-14 regular",
+   "kind": "item",
+   "item": "20",
+   "public_comment": [
+    {
+     "start": "02:16:20",
+     "end": "02:35:55"
+    }
+   ],
+   "evidence_start": "We will now move on to item number 20",
+   "level": "inferred"
+  },
+  {
+   "start": "03:21:52",
+   "end": "03:27:03",
+   "meeting": "2026-04-14 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you all so much. I know that was a lot of",
+   "level": "inferred"
+  },
+  {
+   "start": "03:27:03",
+   "end": "03:27:31",
+   "meeting": "2026-04-14 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, is there a motion to adjourn? So moved. Second. Can we",
+   "level": "inferred"
+  }
+ ]
+}

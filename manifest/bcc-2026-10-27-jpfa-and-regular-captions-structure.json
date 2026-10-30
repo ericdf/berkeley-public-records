@@ -1,0 +1,18 @@
+{
+  "id": "bcc-2026-10-27-jpfa-and-regular-captions-structure",
+  "layer": "L3",
+  "doc_type": "council_captions_structure",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-10-27",
+  "meeting_label": "JPFA and Regular",
+  "title": "BCC 2026-10-27 JPFA and Regular Captioning — item structure",
+  "file": "L3/council-captions/bcc-2026-10-27-jpfa-and-regular-captions-structure.json",
+  "sha256": "f5ac61078fe1972c27e8ca241f440d0d2c8fe8ab40a2781e6b089ea8a72ed416",
+  "bytes": 4173,
+  "derived_from": {
+    "id": "bcc-2026-10-27-jpfa-and-regular-captions-text",
+    "sha256": "ab504e63b9c35f40b6212f52de4a6e8f396a37398060d869705e93c74fc16782"
+  },
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}

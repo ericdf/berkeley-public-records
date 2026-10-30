@@ -1,0 +1,228 @@
+{
+ "transcript_id": "bcc-2025-06-17-regular-captions-text",
+ "l1_sha256": "ba53fdc2d9da7e6c4eca3b4038478ba868d21a134021fe87f3d3b84de3c40148",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 62,
+   "meeting": "2025-06-17 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 63,
+   "end_line": 70,
+   "meeting": "2025-06-17 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: HERE. LET'S MOVE ON TO CITY MANAGER COMMENTS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 71,
+   "end_line": 412,
+   "meeting": "2025-06-17 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: OKAY. THANK YOU VERY MUCH. MOVING ON TO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 413,
+   "end_line": 434,
+   "meeting": "2025-06-17 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> RECORDING STOPPED.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 435,
+   "end_line": 532,
+   "meeting": "2025-06-17 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: OKAY, FOLKS. WE'RE GOING TO GET BACK TO THE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 533,
+   "end_line": 1180,
+   "meeting": "2025-06-17 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 919,
+     "end_line": 1147
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: THANK YOU VERY MUCH. MOVING ON TO THE ACTION",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1181,
+   "end_line": 1304,
+   "meeting": "2025-06-17 regular",
+   "kind": "item",
+   "item": "32",
+   "public_comment": [
+    {
+     "start_line": 1209,
+     "end_line": 1238
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: OKAY. THANK YOU SO MUCH, FOLKS. WE ARE MOVING",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1305,
+   "end_line": 1418,
+   "meeting": "2025-06-17 regular",
+   "kind": "item",
+   "item": "34",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: OKAY. NOW AGAIN WE'RE SKIPPING 33. WE ARE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1419,
+   "end_line": 1506,
+   "meeting": "2025-06-17 regular",
+   "kind": "item",
+   "item": "35",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: YES. THANKS, FOLKS. WE ARE MOVING ON TO ITEM",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1507,
+   "end_line": 1694,
+   "meeting": "2025-06-17 regular",
+   "kind": "item",
+   "item": "36",
+   "public_comment": [
+    {
+     "start_line": 1515,
+     "end_line": 1550
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: WE'RE MOVING ON TO ITEM 36, THE HOUSING",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1695,
+   "end_line": 2116,
+   "meeting": "2025-06-17 regular",
+   "kind": "item",
+   "item": "38",
+   "public_comment": [
+    {
+     "start_line": 1811,
+     "end_line": 1848
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: OKAY. THANK YOU VERY MUCH. ITEM 37 WE ARE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2117,
+   "end_line": 2260,
+   "meeting": "2025-06-17 regular",
+   "kind": "item",
+   "item": "39",
+   "public_comment": [
+    {
+     "start_line": 2127,
+     "end_line": 2148
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: OKAY. WE ARE MOVING ON TO ITEM 39, CHANGES TO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2261,
+   "end_line": 2394,
+   "meeting": "2025-06-17 regular",
+   "kind": "item",
+   "item": "42",
+   "public_comment": [
+    {
+     "start_line": 2275,
+     "end_line": 2300
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: YES. OKAY. SO WE ARE NOT DISCUSSING ITEMS 40,",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2395,
+   "end_line": 2416,
+   "meeting": "2025-06-17 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: YES. AND JUST TO CLARIFY I MEANT WE ARE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2417,
+   "end_line": 5956,
+   "meeting": "2025-06-17 regular",
+   "kind": "item",
+   "item": "43a-c",
+   "public_comment": [
+    {
+     "start_line": 3585,
+     "end_line": 5956
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: OKAY, FOLKS. WE'RE GOING TO GET STARTED.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 5957,
+   "end_line": 5964,
+   "meeting": "2025-06-17 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU. OKAY, FOLKS, WE ARE GOING TO TAKE,",
+   "level": "inferred"
+  },
+  {
+   "start_line": 5965,
+   "end_line": 7686,
+   "meeting": "2025-06-17 regular",
+   "kind": "item",
+   "item": "43a-c",
+   "public_comment": [
+    {
+     "start_line": 5965,
+     "end_line": 6622
+    }
+   ],
+   "evidence_start": "HAND AND I WILL LET OUR CITY CLERK HELP ME OUT WITH THIS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 7687,
+   "end_line": 7762,
+   "meeting": "2025-06-17 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU. THANK YOU, EVERYONE. OKAY, SO, I JUST",
+   "level": "inferred"
+  }
+ ]
+}

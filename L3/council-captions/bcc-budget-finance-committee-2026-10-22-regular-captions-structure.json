@@ -1,0 +1,73 @@
+{
+ "transcript_id": "bcc-budget-finance-committee-2026-10-22-regular-captions-text",
+ "l1_sha256": "5b0a9bfd3f6d760cabb2e56c98a92f81fa0a00ed5352e9fce2c6e666caa2c19a",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:02",
+   "end": "00:00:42",
+   "meeting": "2026-10-22 committee",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "But I can still call to order the budget and finance committee meeting, and today is October 22nd.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:00:42",
+   "end": "00:04:10",
+   "meeting": "2026-10-22 committee",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Very good. All right. Is there any public comment on non-agenda matters?",
+   "level": "inferred"
+  },
+  {
+   "start": "00:04:10",
+   "end": "00:04:35",
+   "meeting": "2026-10-22 committee",
+   "kind": "item",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": "Thank you very much. All right, we are moving on to item number 2, which is the Marina Fund overview and update. We are approved.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:04:35",
+   "end": "01:40:02",
+   "meeting": "2026-10-22 committee",
+   "kind": "item",
+   "item": "2",
+   "public_comment": [
+    {
+     "start": "00:58:50",
+     "end": "01:22:31"
+    }
+   ],
+   "evidence_start": "All right, turn on captions, please. Can we turn on the captions on the Zoom?",
+   "level": "inferred"
+  },
+  {
+   "start": "01:40:02",
+   "end": "01:41:14",
+   "meeting": "2026-10-22 committee",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you. So these are the unscheduled item that's on here. What is our next piece?",
+   "level": "inferred"
+  },
+  {
+   "start": "01:41:14",
+   "end": "01:41:27",
+   "meeting": "2026-10-22 committee",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "So, in that case, I will entertain the motion to adjourned.",
+   "level": "inferred"
+  }
+ ]
+}
