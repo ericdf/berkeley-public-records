@@ -512,6 +512,31 @@ text can still reproduce it.
   timestamp or a transcript cue. A segment confirmed against video is upgraded to `verified`
   for everyone.
 
+### The daily intake job
+
+One automated writer commits to `main` without a person's word for each change: the daily intake
+job, run from the ops repository with the archive's token, under the maintainer's standing
+authority (granted 2026-10-30). It may add only these, and only when `tools/validate.py` and the
+tests pass; otherwise it commits nothing and opens an Issue in the ops repository.
+
+- **Annotated agendas** of Council meetings the City lists (`catalog/city-council-agendas`),
+  through `tools/intake_daily.py` and `tools/process_inbox.py`. A meeting is checked daily for 21
+  days after it is held, weekly to day 60, and once a quarter for a year; a check is one ranged
+  request for one byte, for the file's modification time. A file the City replaces, or a new file
+  its page links in place of the old, becomes a new version (`revision_of`), never a replacement.
+- **Caption transcripts the City Clerk emails.** The maintainer's mail script saves each reply's
+  attachments to a Drive folder shared with the archive account, with a record of the sender and
+  the date received. The job files a transcript only with that record and only from a City of
+  Berkeley address, with `approved_by: ericdf` (the maintainer's standing approval for these, and
+  only these) and `source_note` naming the sender and the date received. After the commit is on
+  `main`, the job deletes the filed files from the Drive folder (to Drive's trash); the archive's
+  own copies are then the record.
+- **The City catalog** (`catalog/city-council-agendas/meetings.json`), refreshed before each run.
+
+Anything else (agenda packets, staff reports, committee captions other than the Budget & Finance
+Committee, a transcript without a date received) is left for a person. The job's commits are
+signed "Daily intake job" and link the run that made them.
+
 ### Commits and pull requests
 
 - One collection or one change per commit or pull request.
