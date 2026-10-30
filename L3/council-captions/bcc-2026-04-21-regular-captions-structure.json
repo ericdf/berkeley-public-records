@@ -1,0 +1,73 @@
+{
+ "transcript_id": "bcc-2026-04-21-regular-captions-text",
+ "l1_sha256": "615910e935008fb9129a608f74092a88f0b270104fccf94dcfac77fbfe244630",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:09",
+   "end": "00:05:40",
+   "meeting": "2026-04-21 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, hello everyone, good evening!",
+   "level": "inferred"
+  },
+  {
+   "start": "00:05:40",
+   "end": "00:16:27",
+   "meeting": "2026-04-21 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you. Is there any public comment on non-agenda matters?",
+   "level": "inferred"
+  },
+  {
+   "start": "00:16:27",
+   "end": "00:42:05",
+   "meeting": "2026-04-21 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "And, we will now move on to the consent calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:42:05",
+   "end": "01:06:07",
+   "meeting": "2026-04-21 regular",
+   "kind": "item",
+   "item": "18",
+   "public_comment": [
+    {
+     "start": "00:51:51",
+     "end": "01:05:30"
+    }
+   ],
+   "evidence_start": "moving on to our action calendar",
+   "level": "inferred"
+  },
+  {
+   "start": "01:06:07",
+   "end": "01:06:33",
+   "meeting": "2026-04-21 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you very much. Is there any public comment on items not",
+   "level": "inferred"
+  },
+  {
+   "start": "01:06:33",
+   "end": "01:06:59",
+   "meeting": "2026-04-21 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, is there a motion to adjourn?",
+   "level": "inferred"
+  }
+ ]
+}

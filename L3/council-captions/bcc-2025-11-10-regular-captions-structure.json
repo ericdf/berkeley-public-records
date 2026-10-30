@@ -1,0 +1,153 @@
+{
+ "transcript_id": "bcc-2025-11-10-regular-captions-text",
+ "l1_sha256": "c03e372fb3cc30f1833211be7c84b460cd9ea753755a3d632edf9a3e6fb3c40c",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 232,
+   "meeting": "2025-11-10 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'M CALLING TO ORDER THE MONDAY, NOVEMBER 10TH, 2025, BERKELEY CITY COUNCIL MEETING.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 233,
+   "end_line": 261,
+   "meeting": "2025-11-10 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I WILL MOVE NEXT TO THE CITY MANAGER COMMENTS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 262,
+   "end_line": 541,
+   "meeting": "2025-11-10 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 262,
+     "end_line": 541
+    }
+   ],
+   "evidence_start": "FOR THE NEXT PART OF THE AGENDA IS THE PUBLIC COMMENT ON NON-AGENDA MATTERS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 542,
+   "end_line": 901,
+   "meeting": "2025-11-10 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 699,
+     "end_line": 843
+    }
+   ],
+   "evidence_start": "I WILL MOVE US ALONG THEN TO THE CONSENT CALENDAR.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 902,
+   "end_line": 1571,
+   "meeting": "2025-11-10 regular",
+   "kind": "item",
+   "item": "9",
+   "public_comment": [
+    {
+     "start_line": 1400,
+     "end_line": 1513
+    }
+   ],
+   "evidence_start": "WE ARE NOW MOVING ONTO THE ACTION CALENDAR. SO I'M GOING TO ASK THAT FOLKS WHO ARE PRESENTING HERE FOR ITEM #9",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1572,
+   "end_line": 2139,
+   "meeting": "2025-11-10 regular",
+   "kind": "item",
+   "item": "10",
+   "public_comment": [
+    {
+     "start_line": 1913,
+     "end_line": 1943
+    }
+   ],
+   "evidence_start": "WE ARE MOVING ONTO ITEM #10. ADOPTION AMENDMENTS TO THE CALIFORNIA WILDLAND-URBAN INTERFACE, WUI.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2140,
+   "end_line": 2145,
+   "meeting": "2025-11-10 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I JUST WANT TO TAKE A TEN-MINUTE BREAK SO WE CAN ALLOW THE CHIEF TO SET UP AND SHIFT",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2146,
+   "end_line": 3853,
+   "meeting": "2025-11-10 regular",
+   "kind": "item",
+   "item": "11",
+   "public_comment": [
+    {
+     "start_line": 3115,
+     "end_line": 3212
+    }
+   ],
+   "evidence_start": "WE ARE COMING BACK TO OUR CITY COUNCIL MEETING. WE ARE ON ITEM #11, ANNUAL SURVEILLANCE TECHNOLOGY REPORT",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3854,
+   "end_line": 5576,
+   "meeting": "2025-11-10 regular",
+   "kind": "item",
+   "item": "12",
+   "public_comment": [
+    {
+     "start_line": 4412,
+     "end_line": 4996
+    }
+   ],
+   "evidence_start": "WE ARE GOING TO MOVE ONTO ITEM #12, REFERRAL TO AMEND BERKELEY MUNICIPAL CODES 3.24.120 AND 3.24.300",
+   "level": "inferred"
+  },
+  {
+   "start_line": 5577,
+   "end_line": 5733,
+   "meeting": "2025-11-10 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 5577,
+     "end_line": 5733
+    }
+   ],
+   "evidence_start": "MOVING ON FOR PUBLIC COMMENT FOR ITEMS NOT LISTED ON THE AGENDA.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 5734,
+   "end_line": 5799,
+   "meeting": "2025-11-10 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "OKAY, THANK YOU ALL VERY MUCH FOR YOUR PUBLIC COMMENT. IS THERE A MOTION TO ADJOURN?",
+   "level": "inferred"
+  }
+ ]
+}

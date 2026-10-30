@@ -1,0 +1,138 @@
+{
+ "transcript_id": "bcc-2026-10-27-jpfa-and-regular-captions-text",
+ "l1_sha256": "ab504e63b9c35f40b6212f52de4a6e8f396a37398060d869705e93c74fc16782",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:26",
+   "end": "00:01:21",
+   "meeting": "2026-10-27 jpfa",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Hello, everyone. Good evening. I know many of you are here for the 6 o'clock meeting, but we actually have a very brief matter",
+   "level": "inferred"
+  },
+  {
+   "start": "00:01:21",
+   "end": "00:03:43",
+   "meeting": "2026-10-27 jpfa",
+   "kind": "consent",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "So, I know we've got a 6 o'clock meeting, where we will have public comment on non-agenda matters then, but we also have a public",
+   "level": "inferred"
+  },
+  {
+   "start": "00:03:43",
+   "end": "00:06:08",
+   "meeting": "2026-10-27 jpfa",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are adjourned. Thank you very much. We will be back in one minute for this next meeting.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:06:08",
+   "end": "00:06:57",
+   "meeting": "2026-10-27 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We're ready.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:06:57",
+   "end": "00:26:56",
+   "meeting": "2026-10-27 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We have some ceremonial matters this evening, and I'd like to start us off with the Ava Community Energy presentation.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:26:56",
+   "end": "00:27:51",
+   "meeting": "2026-10-27 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are moving on to our city manager comments and on deck is our city auditor who is here.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:27:51",
+   "end": "00:32:16",
+   "meeting": "2026-10-27 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "All right. Very good. Thank you, Mr. City manager. All right, Madam City Auditor.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:32:16",
+   "end": "00:44:09",
+   "meeting": "2026-10-27 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, so we'll pick, 5… Cards, for the in-person, commenters",
+   "level": "inferred"
+  },
+  {
+   "start": "00:44:09",
+   "end": "01:29:46",
+   "meeting": "2026-10-27 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "01:02:06",
+     "end": "01:29:06"
+    }
+   ],
+   "evidence_start": "Moving on. We are going to the consent. Calendar Council members.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:29:46",
+   "end": "02:17:40",
+   "meeting": "2026-10-27 regular",
+   "kind": "item",
+   "item": "30",
+   "public_comment": [
+    {
+     "start": "01:53:55",
+     "end": "01:57:18"
+    }
+   ],
+   "evidence_start": "Thank you.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:17:40",
+   "end": "02:22:12",
+   "meeting": "2026-10-27 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "All right. Is there any public comment for items not listed on the agenda?",
+   "level": "inferred"
+  },
+  {
+   "start": "02:22:12",
+   "end": "02:22:39",
+   "meeting": "2026-10-27 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "okay is there a motion to adjourn",
+   "level": "inferred"
+  }
+ ]
+}

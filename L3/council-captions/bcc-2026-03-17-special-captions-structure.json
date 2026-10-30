@@ -1,0 +1,68 @@
+{
+ "transcript_id": "bcc-2026-03-17-special-captions-text",
+ "l1_sha256": "b8b6040f2885e278d3e032f8a575583f3f1004254c5c0e352e50f1ea61e8db1e",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:15",
+   "end": "00:01:24",
+   "meeting": "2026-03-17 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We have to… We have a…",
+   "level": "inferred"
+  },
+  {
+   "start": "00:01:24",
+   "end": "01:40:02",
+   "meeting": "2026-03-17 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "01:16:07",
+     "end": "01:40:02"
+    }
+   ],
+   "evidence_start": "so we only have one item on the agenda because it is a special meeting this evening, which is the presentation and discussion of community survey",
+   "level": "inferred"
+  },
+  {
+   "start": "01:40:02",
+   "end": "01:40:15",
+   "meeting": "2026-03-17 special",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "like, 10-minute stretch break. Okay. So we will… folks who are online, please hold.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:40:15",
+   "end": "02:22:50",
+   "meeting": "2026-03-17 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "01:40:15",
+     "end": "01:51:56"
+    }
+   ],
+   "evidence_start": "Alright, thank you so much, everyone, for your patience. That was a very long 10 minutes, I know. But we are coming back to our online public comment",
+   "level": "inferred"
+  },
+  {
+   "start": "02:22:50",
+   "end": "02:23:22",
+   "meeting": "2026-03-17 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "finished our one item on the meeting, so I will entertain a motion to adjourn",
+   "level": "inferred"
+  }
+ ]
+}

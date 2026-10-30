@@ -7,6 +7,7 @@ Exit status 1 on any error. See README.md for the rules enforced here.
 import hashlib, json, os, re, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import l3_structure  # noqa: E402
 import source_hosts  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -268,13 +269,20 @@ def main():
             doc = json.load(open(os.path.join(ROOT, e["file"])))
         except (OSError, json.JSONDecodeError) as x:
             err(where, f"unreadable L3 file: {x}"); continue
-        if doc.get("notice") != L3_NOTICE:
-            err(where, "L3 file must carry the standard notice verbatim")
         src = manifest.get((e.get("derived_from") or {}).get("id"))
         if not src or src["layer"] != "L1":
             err(where, "L3 must derive from an L1 transcript")
-        elif doc.get("l1_sha256") != src["sha256"]:
-            err(where, "l1_sha256 does not match the current L1 text; re-anchor the attribution")
+        elif doc.get("l1_sha256") != src["sha256"] or doc.get("transcript_id") != src["id"]:
+            err(where, "transcript_id and l1_sha256 must name the current L1 text; re-anchor the file")
+        if e.get("doc_type") == "council_captions_structure":
+            # transcript structure (README, "L3 transcript structure")
+            if src and src["layer"] == "L1" and src.get("file"):
+                with open(os.path.join(ROOT, src["file"]), encoding="utf-8") as f:
+                    for m in l3_structure.check(doc, f.read()):
+                        err(where, m)
+            continue
+        if doc.get("notice") != L3_NOTICE:
+            err(where, "L3 file must carry the standard notice verbatim")
         for k, s in enumerate(doc.get("segments", [])):
             at = f"{where} segment {k}"
             lvl = s.get("attribution_level")

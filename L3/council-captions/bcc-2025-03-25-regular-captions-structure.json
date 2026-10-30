@@ -1,0 +1,133 @@
+{
+ "transcript_id": "bcc-2025-03-25-regular-captions-text",
+ "l1_sha256": "1efdf87fdb71cb557f92a29a80642c9f699a8741342cef4d22cf638f1b576708",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 49,
+   "meeting": "2025-03-25 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 50,
+   "end_line": 439,
+   "meeting": "2025-03-25 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: THANK YOU. YES. WE HAVE SOME CEREMONIAL ITEMS",
+   "level": "inferred"
+  },
+  {
+   "start_line": 440,
+   "end_line": 459,
+   "meeting": "2025-03-25 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "IS THE END OF OUR CEREMONIAL ITEMS. SO I WILL NOW GO OVER TO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 460,
+   "end_line": 786,
+   "meeting": "2025-03-25 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 460,
+     "end_line": 786
+    }
+   ],
+   "evidence_start": "DOES HAVE COMMENTS. SO NOW WE ARE GOING TO BE MOVING ON TO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 787,
+   "end_line": 1097,
+   "meeting": "2025-03-25 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 916,
+     "end_line": 1088
+    }
+   ],
+   "evidence_start": "MISCOUNTED. WE WILL BE MOVING ON TO THE NEXT THING. OKAY. SO WE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1098,
+   "end_line": 1986,
+   "meeting": "2025-03-25 regular",
+   "kind": "item",
+   "item": "8",
+   "public_comment": [
+    {
+     "start_line": 1572,
+     "end_line": 1758
+    }
+   ],
+   "evidence_start": "UNANIMOUSLY. THANKS, EVERYBODY. JUST FOR FOLKS IN CASE YOU WERE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1987,
+   "end_line": 1998,
+   "meeting": "2025-03-25 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "YOUR PRESENTATIONS. [ APPLAUSE ] BEFORE NEXT ITEM I WOULD LIKE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1999,
+   "end_line": 4544,
+   "meeting": "2025-03-25 regular",
+   "kind": "item",
+   "item": "9",
+   "public_comment": [
+    {
+     "start_line": 3323,
+     "end_line": 4170
+    }
+   ],
+   "evidence_start": "RIGHT. WE ARE GOING TO START, WE ARE GOING TO CALL BACK INTO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4545,
+   "end_line": 4618,
+   "meeting": "2025-03-25 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 4545,
+     "end_line": 4617
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: THANK YOU. OKAY, SO NOW THAT WE HAVE COMPLETED",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4619,
+   "end_line": 4633,
+   "meeting": "2025-03-25 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY. I'M GOING TO ASK FOR A MOTION TO ADJOURN.",
+   "level": "inferred"
+  }
+ ]
+}

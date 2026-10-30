@@ -1,0 +1,73 @@
+{
+ "transcript_id": "bcc-2025-03-25-special-captions-text",
+ "l1_sha256": "cb4622d417242f4e19e43f5c7ee00a1a756b89dd37615c59993275f80195e6d2",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 55,
+   "meeting": "2025-03-25 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> Mayor Ishii: I'M GOING THE CALL TO ORDER THE MARCH 25TH, SPECIAL",
+   "level": "inferred"
+  },
+  {
+   "start_line": 56,
+   "end_line": 100,
+   "meeting": "2025-03-25 special",
+   "kind": "consent",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 62,
+     "end_line": 70
+    }
+   ],
+   "evidence_start": ">> Mayor Ishii: ALL RIGHT.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 101,
+   "end_line": 2670,
+   "meeting": "2025-03-25 special",
+   "kind": "item",
+   "item": "2",
+   "public_comment": [
+    {
+     "start_line": 2252,
+     "end_line": 2640
+    }
+   ],
+   "evidence_start": "SO LET'S MOVE ON TO THE ACTION CALENDAR.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2671,
+   "end_line": 2842,
+   "meeting": "2025-03-25 special",
+   "kind": "item",
+   "item": "3",
+   "public_comment": [
+    {
+     "start_line": 2779,
+     "end_line": 2802
+    }
+   ],
+   "evidence_start": ">> City Clerk: MAYOR, IF I CAN SAVE A LITTLE BIT OF TIME I CAN",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2843,
+   "end_line": 2867,
+   "meeting": "2025-03-25 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> Mayor A. Ishii: THANK YOU FOR YOUR QUESTION. IF THERE'S NOTHING",
+   "level": "inferred"
+  }
+ ]
+}

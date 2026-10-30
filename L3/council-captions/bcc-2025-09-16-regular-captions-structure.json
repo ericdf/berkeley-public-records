@@ -1,0 +1,113 @@
+{
+ "transcript_id": "bcc-2025-09-16-regular-captions-text",
+ "l1_sha256": "090f3a0e84cd5a6b920c4e58005c43a8ae46dddc22795effaf599a2c9a44f7aa",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 173,
+   "meeting": "2025-09-16 special",
+   "kind": "item",
+   "item": "1a/1b",
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 174,
+   "end_line": 187,
+   "meeting": "2025-09-16 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "FOLKS, JUST SO YOU KNOW 6:00 P.M. WAS SUPPOSED TO BE OUR START",
+   "level": "inferred"
+  },
+  {
+   "start_line": 188,
+   "end_line": 247,
+   "meeting": "2025-09-16 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: OKAY. HELLO, EVERYONE. IF I CAN HAVE YOU",
+   "level": "inferred"
+  },
+  {
+   "start_line": 248,
+   "end_line": 863,
+   "meeting": "2025-09-16 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "ADVANTAGE. OKAY. WE HAVE MANY CEREMONIAL ITEMS THIS EVENING. AND",
+   "level": "inferred"
+  },
+  {
+   "start_line": 864,
+   "end_line": 869,
+   "meeting": "2025-09-16 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: OKAY. CITY MANAGER, DID YOU HAVE COMMENTS?",
+   "level": "inferred"
+  },
+  {
+   "start_line": 870,
+   "end_line": 1263,
+   "meeting": "2025-09-16 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: WE WILL MOVE ON TO PUBLIC COMMENTS ON NON-",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1264,
+   "end_line": 1309,
+   "meeting": "2025-09-16 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: COUNCILMEMBER BARTLETT JUST ASKED ME WHAT THE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1310,
+   "end_line": 1655,
+   "meeting": "2025-09-16 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 1524,
+     "end_line": 1642
+    }
+   ],
+   "evidence_start": "OUR AGENDA. ARE YOU OKAY? COUNCILMEMBER TAPLIN, IF THERE ANY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1656,
+   "end_line": 1903,
+   "meeting": "2025-09-16 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "PASSED. WE HAVE NO ACTION CALENDAR THIS EVENING. IS THERE ANY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1904,
+   "end_line": 1917,
+   "meeting": "2025-09-16 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: THANKS, MARIA. ON THAT NOTE, IS THERE A",
+   "level": "inferred"
+  }
+ ]
+}

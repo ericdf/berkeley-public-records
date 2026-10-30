@@ -1,0 +1,203 @@
+{
+ "transcript_id": "bcc-2026-06-09-regular-captions-text",
+ "l1_sha256": "4f0ae7c3a70aa488d597d29095bffd59d6e5f33cbbe4a61e22997fdfc585ad08",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:17",
+   "end": "00:02:43",
+   "meeting": "2026-06-09 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you. Hello, everyone, good evening. I'm calling the meeting to order.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:02:43",
+   "end": "00:13:22",
+   "meeting": "2026-06-09 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are now moving on to ceremonial matters. So I will actually call forward Stephanie Allen",
+   "level": "inferred"
+  },
+  {
+   "start": "00:13:22",
+   "end": "00:28:42",
+   "meeting": "2026-06-09 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We'll now move on to public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:28:42",
+   "end": "00:29:26",
+   "meeting": "2026-06-09 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "There is a… I should note that there is another opportunity for non-agenda public comments at the end of the meeting.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:29:26",
+   "end": "00:55:40",
+   "meeting": "2026-06-09 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "00:42:09",
+     "end": "00:53:29"
+    }
+   ],
+   "evidence_start": "Alright, thank you very much. Thank you. My gosh. Okay, anyone have any comments from…",
+   "level": "inferred"
+  },
+  {
+   "start": "00:55:40",
+   "end": "01:21:38",
+   "meeting": "2026-06-09 regular",
+   "kind": "item",
+   "item": "23",
+   "public_comment": [
+    {
+     "start": "01:17:56",
+     "end": "01:20:37"
+    }
+   ],
+   "evidence_start": "Okay, so we are moving on to the action calendar. We have a number of public hearings, so I'd like to open the public hearing for item numbe",
+   "level": "inferred"
+  },
+  {
+   "start": "01:21:38",
+   "end": "02:40:54",
+   "meeting": "2026-06-09 regular",
+   "kind": "item",
+   "item": "24",
+   "public_comment": [
+    {
+     "start": "01:56:08",
+     "end": "02:06:17"
+    }
+   ],
+   "evidence_start": "Boardroom: Okay, moving on to item number 24. So, by the way, my goal is to get through 24 and 25, hopefully within the next 30 minutes, we'",
+   "level": "inferred"
+  },
+  {
+   "start": "02:40:54",
+   "end": "02:41:32",
+   "meeting": "2026-06-09 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "one more fee, and then we have… oops, sorry, yep, which is number 25, and then we have an appeal, we have a conversation, which is discussio",
+   "level": "inferred"
+  },
+  {
+   "start": "02:41:32",
+   "end": "02:43:05",
+   "meeting": "2026-06-09 regular",
+   "kind": "item",
+   "item": "28",
+   "public_comment": null,
+   "evidence_start": "Okay, thank you everyone for your patience. I want to make an announcement and say that item number 28, I don't believe we'll have time for ",
+   "level": "inferred"
+  },
+  {
+   "start": "02:43:05",
+   "end": "02:58:40",
+   "meeting": "2026-06-09 regular",
+   "kind": "item",
+   "item": "25",
+   "public_comment": [
+    {
+     "start": "02:54:37",
+     "end": "02:57:20"
+    }
+   ],
+   "evidence_start": "Good evening, Mayor, Council Members, Wahit Amiri again, Interim Director of Public Works. Tonight, we're presenting, the proposed zero-wast",
+   "level": "inferred"
+  },
+  {
+   "start": "02:58:40",
+   "end": "03:25:48",
+   "meeting": "2026-06-09 regular",
+   "kind": "item",
+   "item": "26",
+   "public_comment": [
+    {
+     "start": "03:17:02",
+     "end": "03:17:40"
+    }
+   ],
+   "evidence_start": "And, moving on to item number 26, which is Appeal of the Housing Advisory Commission decision to deny the appeal and affirm the determinatio",
+   "level": "inferred"
+  },
+  {
+   "start": "03:25:48",
+   "end": "03:26:40",
+   "meeting": "2026-06-09 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you very much. We're going to briefly recess for the mayor to return.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:26:40",
+   "end": "04:09:07",
+   "meeting": "2026-06-09 regular",
+   "kind": "item",
+   "item": "27",
+   "public_comment": [
+    {
+     "start": "04:08:40",
+     "end": "04:09:07"
+    }
+   ],
+   "evidence_start": "Alright, so we are moving on.",
+   "level": "inferred"
+  },
+  {
+   "start": "04:09:07",
+   "end": "04:11:13",
+   "meeting": "2026-06-09 regular",
+   "kind": "item",
+   "item": "28",
+   "public_comment": [
+    {
+     "start": "04:09:11",
+     "end": "04:11:09"
+    }
+   ],
+   "evidence_start": "Okay. Please… Okay. Please accountability. Boardroom: Thank you. So we'll go back to Kathy then for comment on CIP.",
+   "level": "inferred"
+  },
+  {
+   "start": "04:11:13",
+   "end": "04:17:00",
+   "meeting": "2026-06-09 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Is there any other public comment for items not listed on the agenda?",
+   "level": "inferred"
+  },
+  {
+   "start": "04:17:00",
+   "end": "04:17:32",
+   "meeting": "2026-06-09 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, is there a motion to adjourn? So moved. Second.",
+   "level": "inferred"
+  }
+ ]
+}

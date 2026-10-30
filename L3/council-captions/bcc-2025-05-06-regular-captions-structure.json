@@ -1,0 +1,118 @@
+{
+ "transcript_id": "bcc-2025-05-06-regular-captions-text",
+ "l1_sha256": "27eb63fad3a3f9beec65c0ae65ca60eb1099f4e8a9b24b9c2da1e9eac20fd114",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 55,
+   "meeting": "2025-05-06 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 56,
+   "end_line": 181,
+   "meeting": "2025-05-06 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> Mayor A. Ishii: IT'S THE FIRST OF THE MONTH AND WE’LL READ",
+   "level": "inferred"
+  },
+  {
+   "start_line": 182,
+   "end_line": 294,
+   "meeting": "2025-05-06 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "IS TO REPORT OUT FROM OUR CLOSED SESSION. CITY ATTORNEY I HAVE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 295,
+   "end_line": 600,
+   "meeting": "2025-05-06 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 295,
+     "end_line": 599
+    }
+   ],
+   "evidence_start": "YOU SEE HER? NO? OKAY. IN THAT CASE WE'LL MOVE ON TO PUBLIC",
+   "level": "inferred"
+  },
+  {
+   "start_line": 601,
+   "end_line": 670,
+   "meeting": "2025-05-06 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> Mayor A. Ishii: NOW WE'LL MOVE ON TO PUBLIC COMMENT BY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 671,
+   "end_line": 866,
+   "meeting": "2025-05-06 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 781,
+     "end_line": 849
+    }
+   ],
+   "evidence_start": ">> Mayor A. Ishii: OKAY. ALL RIGHT, BE THEN WE'LL MOVE ON TO THE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 867,
+   "end_line": 2277,
+   "meeting": "2025-05-06 regular",
+   "kind": "item",
+   "item": "10",
+   "public_comment": [
+    {
+     "start_line": 1370,
+     "end_line": 1797
+    }
+   ],
+   "evidence_start": "CONSENT CALENDAR HAS PASSED. THANK YOU SO MUCH. MOVING ON TO THE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2278,
+   "end_line": 2444,
+   "meeting": "2025-05-06 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 2278,
+     "end_line": 2443
+    }
+   ],
+   "evidence_start": ">> Mayor A. Ishii: THANK YOU FOR BEING HERE THIS EVENING AND",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2445,
+   "end_line": 2458,
+   "meeting": "2025-05-06 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> I MOVE WE ADJOURN.",
+   "level": "inferred"
+  }
+ ]
+}

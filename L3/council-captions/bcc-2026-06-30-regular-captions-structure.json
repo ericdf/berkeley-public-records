@@ -1,0 +1,153 @@
+{
+ "transcript_id": "bcc-2026-06-30-regular-captions-text",
+ "l1_sha256": "2e3aa09334dcf7a2e8379d538f7affb4dc4768c6de64874647d9c01cc5475efc",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:35",
+   "end": "00:03:07",
+   "meeting": "2026-06-30 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'm calling to order the Berkeley City Council meeting.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:03:07",
+   "end": "00:20:31",
+   "meeting": "2026-06-30 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, quorum is present. Alright, for our ceremonial matters this evening, I want to start us off with our adjournment in memory. And tonigh",
+   "level": "inferred"
+  },
+  {
+   "start": "00:20:31",
+   "end": "00:20:45",
+   "meeting": "2026-06-30 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are now moving on to City Manager comments. Mr. City Manager, do you have any comments this evening? I don't. Thank you, Madam Mayor.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:20:45",
+   "end": "00:25:58",
+   "meeting": "2026-06-30 regular",
+   "kind": "other_procedural",
+   "item": "50",
+   "public_comment": null,
+   "evidence_start": "Sorry, I'm so sorry, yes. Madam City Auditor, did you have comments for us this evening? Great. Thank you so much, good evening. First, I ju",
+   "level": "inferred"
+  },
+  {
+   "start": "00:25:58",
+   "end": "00:38:02",
+   "meeting": "2026-06-30 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Very good. I love it. I love the support for the audits. Okay, we'll now take public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:38:02",
+   "end": "01:36:05",
+   "meeting": "2026-06-30 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "00:54:35",
+     "end": "01:33:20"
+    }
+   ],
+   "evidence_start": "Thank you very much, to everyone for their comments. We are now moving on to our consent calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:36:05",
+   "end": "01:38:45",
+   "meeting": "2026-06-30 regular",
+   "kind": "item",
+   "item": "43",
+   "public_comment": [
+    {
+     "start": "01:37:01",
+     "end": "01:37:30"
+    }
+   ],
+   "evidence_start": "Are you moving to this next one? Sure, yes, I was gonna move us on to Action Calendar, yeah.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:38:45",
+   "end": "01:57:34",
+   "meeting": "2026-06-30 regular",
+   "kind": "item",
+   "item": "44",
+   "public_comment": [
+    {
+     "start": "01:51:35",
+     "end": "01:53:50"
+    }
+   ],
+   "evidence_start": "We will move on to item number 44, which is the issuance of $20 million in General Obligation Bonds Series C for the 2016 election, Infrastr",
+   "level": "inferred"
+  },
+  {
+   "start": "01:57:34",
+   "end": "02:11:52",
+   "meeting": "2026-06-30 regular",
+   "kind": "item",
+   "item": "45",
+   "public_comment": [
+    {
+     "start": "01:58:18",
+     "end": "02:10:57"
+    }
+   ],
+   "evidence_start": "Okay, thank you very much. So we are moving on to item number 45, placing an initiative ordinance amending the rent stabilization ordinance ",
+   "level": "inferred"
+  },
+  {
+   "start": "02:11:52",
+   "end": "03:20:54",
+   "meeting": "2026-06-30 regular",
+   "kind": "item",
+   "item": "46",
+   "public_comment": [
+    {
+     "start": "02:43:01",
+     "end": "03:05:33"
+    }
+   ],
+   "evidence_start": "Boardroom: Okay, so we are moving on to item number 46, which is Surveillance technology ordinance Submissions for Community Video Streams a",
+   "level": "inferred"
+  },
+  {
+   "start": "03:20:54",
+   "end": "03:25:57",
+   "meeting": "2026-06-30 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you very much. Okay, so, we… Next…",
+   "level": "inferred"
+  },
+  {
+   "start": "03:25:57",
+   "end": "03:26:25",
+   "meeting": "2026-06-30 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "That's it. Okay, is there a motion to adjourn? Second.",
+   "level": "inferred"
+  }
+ ]
+}

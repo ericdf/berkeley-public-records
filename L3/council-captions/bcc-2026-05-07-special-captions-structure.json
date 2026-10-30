@@ -1,0 +1,63 @@
+{
+ "transcript_id": "bcc-2026-05-07-special-captions-text",
+ "l1_sha256": "90c542dd870623678412de7af07c4c6e9a5d167c7e3cffa40986fb36bbe0b4dd",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:06",
+   "end": "00:01:07",
+   "meeting": "2026-05-07 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, hello everyone, good evening!",
+   "level": "inferred"
+  },
+  {
+   "start": "00:01:07",
+   "end": "05:13:33",
+   "meeting": "2026-05-07 special",
+   "kind": "item",
+   "item": "1a/1b",
+   "public_comment": [
+    {
+     "start": "01:29:06",
+     "end": "04:37:01"
+    }
+   ],
+   "evidence_start": "tonight, we have two items on our action calendar",
+   "level": "inferred"
+  },
+  {
+   "start": "05:13:33",
+   "end": "05:18:20",
+   "meeting": "2026-05-07 special",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are gonna take a brief recess.",
+   "level": "inferred"
+  },
+  {
+   "start": "05:18:20",
+   "end": "05:25:48",
+   "meeting": "2026-05-07 special",
+   "kind": "item",
+   "item": "1a/1b",
+   "public_comment": null,
+   "evidence_start": "Okay. And so we're back to the main motion. Thank you. I'm",
+   "level": "inferred"
+  },
+  {
+   "start": "05:25:48",
+   "end": "05:26:22",
+   "meeting": "2026-05-07 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, so, in that case, I will see if there's a motion",
+   "level": "inferred"
+  }
+ ]
+}

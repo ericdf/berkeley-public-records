@@ -1,0 +1,158 @@
+{
+ "transcript_id": "bcc-2025-05-20-regular-captions-text",
+ "l1_sha256": "4c82ebd1681c8a5528a5db43b96f59e283485baa002fd46b606de91496919c66",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 38,
+   "meeting": "2025-05-20 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 39,
+   "end_line": 588,
+   "meeting": "2025-05-20 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: THANK YOU VERY MUCH. WE HAVE A FEW CEREMONIAL",
+   "level": "inferred"
+  },
+  {
+   "start_line": 589,
+   "end_line": 598,
+   "meeting": "2025-05-20 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "OKAY. CITY MANAGER, DID YOU HAVE COMMENTS?",
+   "level": "inferred"
+  },
+  {
+   "start_line": 599,
+   "end_line": 845,
+   "meeting": "2025-05-20 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: THANK YOU. THANK YOU VERY MUCH. OKAY. WE ARE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 846,
+   "end_line": 1861,
+   "meeting": "2025-05-20 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 1214,
+     "end_line": 1815
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: THANK YOU ALL FOR YOUR PUBLIC COMMENTS. I'LL",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1862,
+   "end_line": 1888,
+   "meeting": "2025-05-20 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: I APPRECIATE IT. NOW IS A GOOD TIME TO TAKE A",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1889,
+   "end_line": 2591,
+   "meeting": "2025-05-20 regular",
+   "kind": "item",
+   "item": "32",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: OKAY. HELLO, FOLKS. WE ARE COMING BACK. HI,",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2592,
+   "end_line": 2611,
+   "meeting": "2025-05-20 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CHECKING. I WANT TO GIVE US JUST FIVE MINUTES TO TAKE A BRIEF",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2612,
+   "end_line": 2963,
+   "meeting": "2025-05-20 regular",
+   "kind": "item",
+   "item": "32",
+   "public_comment": [
+    {
+     "start_line": 2771,
+     "end_line": 2839
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: SORRY, OBVIOUSLY, WE HAD A VERY, VERY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2964,
+   "end_line": 6457,
+   "meeting": "2025-05-20 regular",
+   "kind": "item",
+   "item": "30",
+   "public_comment": [
+    {
+     "start_line": 4645,
+     "end_line": 5439
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: OKAY, THANK YOU ALL SO MUCH. I REALLY WANT TO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 6458,
+   "end_line": 6471,
+   "meeting": "2025-05-20 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY, THANK YOU ALL SO MUCH, I WILL LET YOU GO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 6472,
+   "end_line": 7289,
+   "meeting": "2025-05-20 regular",
+   "kind": "item",
+   "item": "31",
+   "public_comment": [
+    {
+     "start_line": 6748,
+     "end_line": 6803
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: WE ARE COMING BACK TOGETHER. AND WE ARE MOVING",
+   "level": "inferred"
+  },
+  {
+   "start_line": 7290,
+   "end_line": 7354,
+   "meeting": "2025-05-20 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "THANK YOU TO THE COMMISSION FOR YOUR SERVICE. I KNOW YOU ARE",
+   "level": "inferred"
+  }
+ ]
+}

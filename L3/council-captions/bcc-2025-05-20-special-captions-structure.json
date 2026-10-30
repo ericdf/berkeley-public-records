@@ -1,0 +1,113 @@
+{
+ "transcript_id": "bcc-2025-05-20-special-captions-text",
+ "l1_sha256": "e5a5c25215eec71acb09144394cc4ee2fe63fcbd54da93e1f5216ea65ac1bdf3",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 35,
+   "meeting": "2025-05-20 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 36,
+   "end_line": 99,
+   "meeting": "2025-05-20 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": ">> PRESENT. WE HAVE SOME PUBLIC HEARINGS --",
+   "level": "inferred"
+  },
+  {
+   "start_line": 100,
+   "end_line": 616,
+   "meeting": "2025-05-20 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": ">> WOULD YOU MOVE TO THE SECOND SLIDE? GOOD EVENING, MADAM",
+   "level": "inferred"
+  },
+  {
+   "start_line": 617,
+   "end_line": 865,
+   "meeting": "2025-05-20 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 753,
+     "end_line": 766
+    }
+   ],
+   "evidence_start": ">> YEAH, I THINK WE CAN MOVE ON, I THINK TO OUR NEXT ITEM,",
+   "level": "inferred"
+  },
+  {
+   "start_line": 866,
+   "end_line": 1126,
+   "meeting": "2025-05-20 special",
+   "kind": "item",
+   "item": "2",
+   "public_comment": [
+    {
+     "start_line": 1076,
+     "end_line": 1084
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: THANK YOU VERY MUCH. NOW THAT WE HAVE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1127,
+   "end_line": 1165,
+   "meeting": "2025-05-20 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: I WILL ENTERTAIN A MOTION TO ADJOURN.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1166,
+   "end_line": 1257,
+   "meeting": "2025-05-20 jpfa",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> AND NOW WE HAVE THE JOINT POWERS FINANCING --",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1258,
+   "end_line": 1359,
+   "meeting": "2025-05-20 jpfa",
+   "kind": "item",
+   "item": "JPFA action",
+   "public_comment": [
+    {
+     "start_line": 1313,
+     "end_line": 1314
+    }
+   ],
+   "evidence_start": ">> OKAY, MOVING ON TO THE ACTUAL DOLLAR, THERE IS ONE ITEM ON",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1360,
+   "end_line": 1404,
+   "meeting": "2025-05-20 jpfa",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> AND THEN I THINK WE HAVE ONE MORE PUBLIC COMMENT FOR NOT",
+   "level": "inferred"
+  }
+ ]
+}

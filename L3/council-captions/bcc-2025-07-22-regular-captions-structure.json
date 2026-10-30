@@ -1,0 +1,178 @@
+{
+ "transcript_id": "bcc-2025-07-22-regular-captions-text",
+ "l1_sha256": "97d9c7a77516360d23b75e0a7b3deb6776baefa6a6616a3bd472195f75dbb080",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 99,
+   "meeting": "2025-07-22 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 100,
+   "end_line": 943,
+   "meeting": "2025-07-22 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: ALL RIGHT. NOW MOVING ONTO CEREMONIAL",
+   "level": "inferred"
+  },
+  {
+   "start_line": 944,
+   "end_line": 963,
+   "meeting": "2025-07-22 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "MANAGER, YOU HAVE ANY COMMENTS?",
+   "level": "inferred"
+  },
+  {
+   "start_line": 964,
+   "end_line": 1163,
+   "meeting": "2025-07-22 regular",
+   "kind": "item",
+   "item": "22",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: I THINK THAT'S POSSIBLE. OKAY. I THINK OUR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1164,
+   "end_line": 1317,
+   "meeting": "2025-07-22 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> CITY CLERK: I HAVE FOUR CARDS. THREE CARDS. ONE IS A",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1318,
+   "end_line": 1785,
+   "meeting": "2025-07-22 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 1462,
+     "end_line": 1722
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: OH, OKAY. ALL RIGHT THEN. LET'S SEE. WE ARE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1786,
+   "end_line": 2433,
+   "meeting": "2025-07-22 regular",
+   "kind": "item",
+   "item": "19",
+   "public_comment": [
+    {
+     "start_line": 2294,
+     "end_line": 2432
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: YES. LET'S MOVE ON TO OUR ACTION CALENDAR.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2434,
+   "end_line": 3459,
+   "meeting": "2025-07-22 regular",
+   "kind": "item",
+   "item": "15",
+   "public_comment": [
+    {
+     "start_line": 2448,
+     "end_line": 3168
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: ALL RIGHT. VERY GOOD. THAT WAS TECHNICALLY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3460,
+   "end_line": 3491,
+   "meeting": "2025-07-22 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY, I WOULD LIKE US TO TAKE A BREAK. WE HAVE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3492,
+   "end_line": 4403,
+   "meeting": "2025-07-22 regular",
+   "kind": "item",
+   "item": "16",
+   "public_comment": [
+    {
+     "start_line": 3508,
+     "end_line": 3872
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: VERY GOOD. ALL RIGHT, FOLKS WE ARE IN THE ACTION",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4404,
+   "end_line": 8063,
+   "meeting": "2025-07-22 regular",
+   "kind": "item",
+   "item": "17",
+   "public_comment": [
+    {
+     "start_line": 5910,
+     "end_line": 6572
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: ALL RIGHT. THANK YOU VERY MUCH. FOLKS WE ARE OF",
+   "level": "inferred"
+  },
+  {
+   "start_line": 8064,
+   "end_line": 8395,
+   "meeting": "2025-07-22 regular",
+   "kind": "item",
+   "item": "11",
+   "public_comment": [
+    {
+     "start_line": 8138,
+     "end_line": 8322
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: OKAY. SO WE STILL HAVE ANOTHER ITEM LEFT. I JUST",
+   "level": "inferred"
+  },
+  {
+   "start_line": 8396,
+   "end_line": 8517,
+   "meeting": "2025-07-22 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: YES. I JUST WANT TO HIGHLIGHT FOR FOLKS THERE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 8518,
+   "end_line": 8581,
+   "meeting": "2025-07-22 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY, ALL RIGHT. SORRY, THERE WAS A MOTION TO",
+   "level": "inferred"
+  }
+ ]
+}

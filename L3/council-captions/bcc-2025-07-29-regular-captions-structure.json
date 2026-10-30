@@ -1,0 +1,123 @@
+{
+ "transcript_id": "bcc-2025-07-29-regular-captions-text",
+ "l1_sha256": "d066be162a9e8e373f75c591121b57b6b27061860c586d385146600ed371f685",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 14,
+   "meeting": "2025-07-29 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 15,
+   "end_line": 46,
+   "meeting": "2025-07-29 regular",
+   "kind": "item",
+   "item": "30",
+   "public_comment": null,
+   "evidence_start": ">> -- THERE WAS NOT ABLE TO MEET THIS GOAL GIVEN ITS FINANCIAL",
+   "level": "inferred"
+  },
+  {
+   "start_line": 47,
+   "end_line": 259,
+   "meeting": "2025-07-29 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: WE ARE GOING TO NOW MOVE TO PUBLIC COMMENT ON",
+   "level": "inferred"
+  },
+  {
+   "start_line": 260,
+   "end_line": 801,
+   "meeting": "2025-07-29 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 503,
+     "end_line": 779
+    }
+   ],
+   "evidence_start": "SO MOVING ON TO OUR CONSENT CALENDAR. SORRY -- DO ANY OF THE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 802,
+   "end_line": 813,
+   "meeting": "2025-07-29 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> CITY CLERK: TAKE A FIVE BREAK? [INDISCERNIBLE] TECHNOLOGY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 814,
+   "end_line": 2858,
+   "meeting": "2025-07-29 regular",
+   "kind": "item",
+   "item": "28",
+   "public_comment": [
+    {
+     "start_line": 949,
+     "end_line": 1429
+    }
+   ],
+   "evidence_start": ">> MAYOR A. ISHII: OKAY. ALL RIGHT, FOLKS. SORRY ABOUT THAT. I",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2859,
+   "end_line": 2871,
+   "meeting": "2025-07-29 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY. THANK YOU. THANKS, EVERYONE. THANK YOU,",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2872,
+   "end_line": 3674,
+   "meeting": "2025-07-29 regular",
+   "kind": "item",
+   "item": "29",
+   "public_comment": [
+    {
+     "start_line": 2872,
+     "end_line": 3505
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: SINCE HE IS ON THE PHONE WE CAN TAKE PUBLIC",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3675,
+   "end_line": 3931,
+   "meeting": "2025-07-29 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU. THAT WAS OUR FINAL ITEM FOR THE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3932,
+   "end_line": 3980,
+   "meeting": "2025-07-29 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "THERE A MOTION TO ADJOURN?",
+   "level": "inferred"
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "transcript_id": "bcc-2024-12-10-special-and-regular-captions-text",
+ "l1_sha256": "2f4e121ce123783c3bcf3102982c3dd0a97113ce52a53c9cc99161dfa76db0db",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:09",
+   "end": "00:01:35",
+   "meeting": "2024-12-10 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "1st thing I like to do.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:01:35",
+   "end": "00:04:33",
+   "meeting": "2024-12-10 special",
+   "kind": "consent",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "00:02:07",
+     "end": "00:03:49"
+    }
+   ],
+   "evidence_start": "I believe we just have one item on our agenda. So would someone like to move, item number one as written. So I so move. Second second",
+   "level": "inferred"
+  },
+  {
+   "start": "00:04:33",
+   "end": "00:06:56",
+   "meeting": "2024-12-10 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "The motion carries, and that concludes the business for the 5 30 Pm. Special meeting. And",
+   "level": "inferred"
+  },
+  {
+   "start": "00:06:56",
+   "end": "00:09:13",
+   "meeting": "2024-12-10 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Hello! Good evening, everyone.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:09:13",
+   "end": "00:18:34",
+   "meeting": "2024-12-10 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'd like to move us on to ceremonial matters, and I'm going to pass it off to mark our city clerk.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:18:34",
+   "end": "00:18:49",
+   "meeting": "2024-12-10 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "we are going to send it back to you for city manager comments. Actually, thank you, Mayor. She, I don't really have any comments other than ",
+   "level": "inferred"
+  },
+  {
+   "start": "00:18:49",
+   "end": "00:25:45",
+   "meeting": "2024-12-10 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you so much. And at this time we're going to take public comment on non. Oh, sorry, my apologies. Our city auditor also has some comme",
+   "level": "inferred"
+  },
+  {
+   "start": "00:25:45",
+   "end": "00:44:48",
+   "meeting": "2024-12-10 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'd now like to move on to public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:44:48",
+   "end": "00:46:43",
+   "meeting": "2024-12-10 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, that's all non-agenda speakers.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:46:43",
+   "end": "01:41:53",
+   "meeting": "2024-12-10 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "01:02:21",
+     "end": "01:41:18"
+    }
+   ],
+   "evidence_start": "Thank you, Director Echols. Excuse me. I now like to move on to the consent. Calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:41:53",
+   "end": "02:03:02",
+   "meeting": "2024-12-10 regular",
+   "kind": "item",
+   "item": "22",
+   "public_comment": [
+    {
+     "start": "01:42:21",
+     "end": "01:42:45"
+    }
+   ],
+   "evidence_start": "Okay, all right, we have one action item as well.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:03:02",
+   "end": "02:13:50",
+   "meeting": "2024-12-10 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "sorry. City clerk. Could you clarify for us what happened since it was an information item, and there isn't particularly action to be taken ",
+   "level": "inferred"
+  },
+  {
+   "start": "02:13:50",
+   "end": "02:14:33",
+   "meeting": "2024-12-10 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, Mayor, that completes the non-agenda public comment. Thank you. And I just wanted to make a comment to Chelsea, who spoke earlier abou",
+   "level": "inferred"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "transcript_id": "bcc-2026-04-23-budget-committee-captions-text",
+ "l1_sha256": "9ac8b79904545e0739c94177fcccc46605c88de7d3346f965db81af0ce3e5eea",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:05",
+   "end": "00:02:06",
+   "meeting": "2026-04-23 committee",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Someone's got a mute there.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:02:06",
+   "end": "00:03:45",
+   "meeting": "2026-04-23 committee",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "00:02:06",
+     "end": "00:03:22"
+    }
+   ],
+   "evidence_start": "Can we take public comment on non-adventive matters, please?",
+   "level": "inferred"
+  },
+  {
+   "start": "00:03:45",
+   "end": "00:04:14",
+   "meeting": "2026-04-23 committee",
+   "kind": "other_procedural",
+   "item": "1",
+   "public_comment": null,
+   "evidence_start": "All right, so our first item on here is to approve the minutes from the April 16th, 2026 meeting.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:04:14",
+   "end": "00:51:17",
+   "meeting": "2026-04-23 committee",
+   "kind": "item",
+   "item": "2",
+   "public_comment": [
+    {
+     "start": "00:21:53",
+     "end": "00:37:06"
+    }
+   ],
+   "evidence_start": "Great. All right, very good. So just to give folks a little bit of an overview, at the last meeting",
+   "level": "inferred"
+  },
+  {
+   "start": "00:51:17",
+   "end": "01:37:28",
+   "meeting": "2026-04-23 committee",
+   "kind": "item",
+   "item": "3",
+   "public_comment": [
+    {
+     "start": "01:30:57",
+     "end": "01:35:45"
+    }
+   ],
+   "evidence_start": "Okay, so we've already taken public comment on that, so I would like to move on to our next item, which is item number 3",
+   "level": "inferred"
+  },
+  {
+   "start": "01:37:28",
+   "end": "01:54:06",
+   "meeting": "2026-04-23 committee",
+   "kind": "item",
+   "item": "4",
+   "public_comment": [
+    {
+     "start": "01:48:55",
+     "end": "01:52:56"
+    }
+   ],
+   "evidence_start": "We will move on to our final item.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:54:06",
+   "end": "01:55:41",
+   "meeting": "2026-04-23 committee",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "And then, for items for future agendas, are there any requests by the committee members?",
+   "level": "inferred"
+  },
+  {
+   "start": "01:55:41",
+   "end": "01:56:02",
+   "meeting": "2026-04-23 committee",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Then we can, I think, end right on time if there's a motion to adjourn.",
+   "level": "inferred"
+  }
+ ]
+}

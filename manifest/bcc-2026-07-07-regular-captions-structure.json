@@ -1,0 +1,18 @@
+{
+  "id": "bcc-2026-07-07-regular-captions-structure",
+  "layer": "L3",
+  "doc_type": "council_captions_structure",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-07-07",
+  "meeting_label": "Regular",
+  "title": "BCC 2026-07-07 Regular Captioning — item structure",
+  "file": "L3/council-captions/bcc-2026-07-07-regular-captions-structure.json",
+  "sha256": "92922edbcdd8830c39a7dad78d38521fe71e9db5c62fc936bc2c01765dcee872",
+  "bytes": 5631,
+  "derived_from": {
+    "id": "bcc-2026-07-07-regular-captions-text",
+    "sha256": "b09449f9ff1be2d72a951dea7dde7c5680ca2da0dd18eaa6d6423921733ea449"
+  },
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}

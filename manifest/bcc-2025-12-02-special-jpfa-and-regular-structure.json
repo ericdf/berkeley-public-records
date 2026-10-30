@@ -1,0 +1,18 @@
+{
+  "id": "bcc-2025-12-02-special-jpfa-and-regular-structure",
+  "layer": "L3",
+  "doc_type": "council_captions_structure",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-12-02",
+  "meeting_label": "Special JPFA and Regular",
+  "title": "BCC 2025-12-02 Special JPFA and Regular — item structure",
+  "file": "L3/council-captions/bcc-2025-12-02-special-jpfa-and-regular-structure.json",
+  "sha256": "35fe73021fcf999da28ff0117ab95aec208814bbcd9715539fa874ea8e74a054",
+  "bytes": 8647,
+  "derived_from": {
+    "id": "bcc-2025-12-02-special-jpfa-and-regular-text",
+    "sha256": "b6258636c61ad6efeea7419231b9fd8c2e66d655736356727d93bbd204da0b16"
+  },
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}

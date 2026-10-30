@@ -1,0 +1,228 @@
+{
+ "transcript_id": "bcc-2026-06-16-regular-captions-text",
+ "l1_sha256": "8aa83803bc84418b326b42933f5113249999ac56db4e20596ca4f7fe4fa2dce4",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:36",
+   "end": "00:02:39",
+   "meeting": "2026-06-16 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Good evening, everyone. I'm calling the meeting to order.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:02:39",
+   "end": "00:07:35",
+   "meeting": "2026-06-16 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, and Councilmember Kessarani will participate through both audio and visual technology, so we can proceed. Thank you so much. Okay, so ",
+   "level": "inferred"
+  },
+  {
+   "start": "00:07:35",
+   "end": "00:19:28",
+   "meeting": "2026-06-16 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We have it, during our ceremonial matters, we actually have a brief training from Chris Lynch, I believe, who's here. Oh, there you are.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:19:28",
+   "end": "00:30:14",
+   "meeting": "2026-06-16 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, moving on to our City Manager comments. Mr. City Manager, do you have any comments this evening? I do not, Madam Mayor, thank you. ",
+   "level": "inferred"
+  },
+  {
+   "start": "00:30:14",
+   "end": "01:01:14",
+   "meeting": "2026-06-16 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "00:44:40",
+     "end": "01:00:24"
+    }
+   ],
+   "evidence_start": "Okay, thank you very much, everyone, for your public comments. Now, I think that many of you were waiting for…",
+   "level": "inferred"
+  },
+  {
+   "start": "01:01:14",
+   "end": "01:02:41",
+   "meeting": "2026-06-16 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, motion carries. Alright, thank you, everyone. Okay, so I just want to go over what's going to be on the agenda for the rest of this ev",
+   "level": "inferred"
+  },
+  {
+   "start": "01:02:41",
+   "end": "01:08:48",
+   "meeting": "2026-06-16 regular",
+   "kind": "item",
+   "item": "34",
+   "public_comment": [
+    {
+     "start": "01:07:14",
+     "end": "01:07:35"
+    }
+   ],
+   "evidence_start": "Okay, so we should move forward then to our action item, number 34, implement Residential Preferential parking program on the 1500 block of ",
+   "level": "inferred"
+  },
+  {
+   "start": "01:08:48",
+   "end": "01:12:29",
+   "meeting": "2026-06-16 regular",
+   "kind": "item",
+   "item": "35",
+   "public_comment": [
+    {
+     "start": "01:11:44",
+     "end": "01:11:55"
+    }
+   ],
+   "evidence_start": "outreach you did to the community. Thank you. So, alright, moving on to item number 335, Policy for Disruption or remote participation durin",
+   "level": "inferred"
+  },
+  {
+   "start": "01:12:29",
+   "end": "01:20:38",
+   "meeting": "2026-06-16 regular",
+   "kind": "item",
+   "item": "36",
+   "public_comment": [
+    {
+     "start": "01:13:00",
+     "end": "01:13:29"
+    }
+   ],
+   "evidence_start": "Unapara? Yes. Humbert? Yes. And Mary Ishi? Yes. Okay, motion carries. Alright, thank you all very much. We're moving on to item number 36, A",
+   "level": "inferred"
+  },
+  {
+   "start": "01:20:38",
+   "end": "01:24:03",
+   "meeting": "2026-06-16 regular",
+   "kind": "item",
+   "item": "37",
+   "public_comment": [
+    {
+     "start": "01:22:17",
+     "end": "01:22:32"
+    }
+   ],
+   "evidence_start": "Alright, very good. We are moving on to item number 37, placing a Charter Amendment measure on the November 3rd, 2026 ballot to amend multip",
+   "level": "inferred"
+  },
+  {
+   "start": "01:24:03",
+   "end": "01:33:54",
+   "meeting": "2026-06-16 regular",
+   "kind": "item",
+   "item": "38",
+   "public_comment": [
+    {
+     "start": "01:31:26",
+     "end": "01:33:08"
+    }
+   ],
+   "evidence_start": "Yes.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:33:54",
+   "end": "01:48:31",
+   "meeting": "2026-06-16 regular",
+   "kind": "item",
+   "item": "39",
+   "public_comment": [
+    {
+     "start": "01:34:55",
+     "end": "01:41:45"
+    }
+   ],
+   "evidence_start": "Lunapara? Yes. Humbert? Yes. And Mayor Ishii? Yes. Okay, motion carries. Alright, thank you all so much. We're moving on to item number 39, ",
+   "level": "inferred"
+  },
+  {
+   "start": "01:48:31",
+   "end": "01:48:55",
+   "meeting": "2026-06-16 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, so we are moving on to item 40, but we're gonna take a break before then. We're gonna take a 15-minute break, and then we will move",
+   "level": "inferred"
+  },
+  {
+   "start": "01:48:55",
+   "end": "03:31:35",
+   "meeting": "2026-06-16 regular",
+   "kind": "item",
+   "item": "40c",
+   "public_comment": null,
+   "evidence_start": "Okay, thanks everyone. We were moving so fast, we had to get the staff set up, so I think we're good.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:31:35",
+   "end": "03:40:04",
+   "meeting": "2026-06-16 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I think we need to take a 10-minute stretch break, because we've been sitting a long time. So we're gonna take a 10-minute stretch break, an",
+   "level": "inferred"
+  },
+  {
+   "start": "03:40:04",
+   "end": "05:23:38",
+   "meeting": "2026-06-16 regular",
+   "kind": "item",
+   "item": "40a",
+   "public_comment": [
+    {
+     "start": "04:37:35",
+     "end": "05:03:07"
+    }
+   ],
+   "evidence_start": "All right. Coming back into session.",
+   "level": "inferred"
+  },
+  {
+   "start": "05:23:38",
+   "end": "05:25:36",
+   "meeting": "2026-06-16 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, and",
+   "level": "inferred"
+  },
+  {
+   "start": "05:25:36",
+   "end": "05:26:16",
+   "meeting": "2026-06-16 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you so much. Alright, is there a motion to adjourn? So, second.",
+   "level": "inferred"
+  }
+ ]
+}

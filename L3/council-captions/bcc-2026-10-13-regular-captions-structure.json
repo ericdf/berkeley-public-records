@@ -1,0 +1,178 @@
+{
+ "transcript_id": "bcc-2026-10-13-regular-captions-text",
+ "l1_sha256": "cffcacca2b39501dbcd7a82cee854553967cc6f617ce83074cc21fa64f447fa2",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:44",
+   "end": "00:03:06",
+   "meeting": "2026-10-13 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, hello everyone!",
+   "level": "inferred"
+  },
+  {
+   "start": "00:03:06",
+   "end": "00:37:17",
+   "meeting": "2026-10-13 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We now have a number of ceremonial matters this evening, starting off with the acknowledgment of our Director of Police Accountability",
+   "level": "inferred"
+  },
+  {
+   "start": "00:37:17",
+   "end": "00:38:57",
+   "meeting": "2026-10-13 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "That concludes our ceremonial items for the evening. We will now move on to City Manager comments.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:38:57",
+   "end": "00:54:06",
+   "meeting": "2026-10-13 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "All right.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:54:06",
+   "end": "01:32:48",
+   "meeting": "2026-10-13 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "01:01:30",
+     "end": "01:28:36"
+    }
+   ],
+   "evidence_start": "We will move on to the consent calendar then.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:32:48",
+   "end": "01:33:49",
+   "meeting": "2026-10-13 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'm gonna give us a 10-minute break.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:33:49",
+   "end": "02:33:55",
+   "meeting": "2026-10-13 regular",
+   "kind": "item",
+   "item": "15",
+   "public_comment": [
+    {
+     "start": "02:06:08",
+     "end": "02:24:37"
+    }
+   ],
+   "evidence_start": "Okay, hello everyone, we are back from the break. Thank you very much for your patience. We are jumping to item number 1",
+   "level": "inferred"
+  },
+  {
+   "start": "02:33:55",
+   "end": "03:02:41",
+   "meeting": "2026-10-13 regular",
+   "kind": "item",
+   "item": "18/19/20",
+   "public_comment": [
+    {
+     "start": "02:56:57",
+     "end": "03:02:27"
+    }
+   ],
+   "evidence_start": "brought items, 18, 19, and 20 from the information reports onto our action calendar as a sort of a singular item",
+   "level": "inferred"
+  },
+  {
+   "start": "03:02:41",
+   "end": "03:03:08",
+   "meeting": "2026-10-13 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, we are going… you need a break. Okay, alright, let's take a 10-minute break",
+   "level": "inferred"
+  },
+  {
+   "start": "03:03:08",
+   "end": "03:06:33",
+   "meeting": "2026-10-13 regular",
+   "kind": "item",
+   "item": "13",
+   "public_comment": [
+    {
+     "start": "03:03:56",
+     "end": "03:04:57"
+    }
+   ],
+   "evidence_start": "Now we're back in session.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:06:33",
+   "end": "03:35:09",
+   "meeting": "2026-10-13 regular",
+   "kind": "item",
+   "item": "14",
+   "public_comment": [
+    {
+     "start": "03:15:24",
+     "end": "03:29:36"
+    }
+   ],
+   "evidence_start": "I'm going to open the public hearing for item number 14",
+   "level": "inferred"
+  },
+  {
+   "start": "03:35:09",
+   "end": "03:41:32",
+   "meeting": "2026-10-13 regular",
+   "kind": "item",
+   "item": "16",
+   "public_comment": [
+    {
+     "start": "03:35:32",
+     "end": "03:38:08"
+    }
+   ],
+   "evidence_start": "Guess what? We have one more item. Okay, so we are moving on to item number 16",
+   "level": "inferred"
+  },
+  {
+   "start": "03:41:32",
+   "end": "03:56:19",
+   "meeting": "2026-10-13 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, is there any other public comment",
+   "level": "inferred"
+  },
+  {
+   "start": "03:56:19",
+   "end": "03:56:50",
+   "meeting": "2026-10-13 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay. That's it. Alright, thank you all so much for your public comments.",
+   "level": "inferred"
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "transcript_id": "bcc-2026-01-20-regular-captions-text",
+ "l1_sha256": "4fe67155de3bf58bd8f6c58a3ef8b2b8e99588e5c6ad879ea17cfcd0e425f072",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:09",
+   "end": "00:02:06",
+   "meeting": "2026-01-20 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'm gonna call to order the Berkeley City Council meeting.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:02:06",
+   "end": "00:12:58",
+   "meeting": "2026-01-20 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Now moving on to our ceremonial items.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:12:58",
+   "end": "00:13:12",
+   "meeting": "2026-01-20 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "so the next thing on our agenda is our City Manager comments.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:13:12",
+   "end": "00:27:50",
+   "meeting": "2026-01-20 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "00:13:12",
+     "end": "00:27:50"
+    }
+   ],
+   "evidence_start": "Okay, we'll draw 5 cards for the in-person…",
+   "level": "inferred"
+  },
+  {
+   "start": "00:27:50",
+   "end": "00:58:11",
+   "meeting": "2026-01-20 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "00:40:12",
+     "end": "00:56:42"
+    }
+   ],
+   "evidence_start": "Alright, we will move on, then, to the consent calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:58:11",
+   "end": "00:58:32",
+   "meeting": "2026-01-20 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are gonna just take a quick 5-minute stretch as we're switching into the next item.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:58:32",
+   "end": "02:40:19",
+   "meeting": "2026-01-20 regular",
+   "kind": "item",
+   "item": "21",
+   "public_comment": [
+    {
+     "start": "01:23:54",
+     "end": "01:53:40"
+    }
+   ],
+   "evidence_start": "we are going to call this meeting back into s… we are moving on to the action calendar, starting with action item number 21",
+   "level": "inferred"
+  },
+  {
+   "start": "02:40:19",
+   "end": "02:41:32",
+   "meeting": "2026-01-20 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, I think we should take a 5-minute break so we can switch over to the next item.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:41:32",
+   "end": "02:45:34",
+   "meeting": "2026-01-20 regular",
+   "kind": "item",
+   "item": "22",
+   "public_comment": [
+    {
+     "start": "02:42:12",
+     "end": "02:44:20"
+    }
+   ],
+   "evidence_start": "We're gonna move on to item number 22",
+   "level": "inferred"
+  },
+  {
+   "start": "02:45:34",
+   "end": "02:56:05",
+   "meeting": "2026-01-20 regular",
+   "kind": "item",
+   "item": "23",
+   "public_comment": [
+    {
+     "start": "02:47:20",
+     "end": "02:49:49"
+    }
+   ],
+   "evidence_start": "Moving on to item number 23, changes to selected recreation and camps facilities and program fees.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:56:05",
+   "end": "03:18:21",
+   "meeting": "2026-01-20 regular",
+   "kind": "item",
+   "item": "24",
+   "public_comment": [
+    {
+     "start": "03:02:51",
+     "end": "03:08:41"
+    }
+   ],
+   "evidence_start": "Moving on to item 24, Amendments to Title 23 zoning to permit by-right approval",
+   "level": "inferred"
+  },
+  {
+   "start": "03:18:21",
+   "end": "03:28:50",
+   "meeting": "2026-01-20 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "03:18:21",
+     "end": "03:28:50"
+    }
+   ],
+   "evidence_start": "Okay, so, now, public comment on items not listed on the agenda.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:28:50",
+   "end": "03:29:17",
+   "meeting": "2026-01-20 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I will entertain a moti… To adjourn",
+   "level": "inferred"
+  }
+ ]
+}

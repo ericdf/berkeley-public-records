@@ -1,0 +1,18 @@
+{
+  "id": "bcc-2026-04-23-budget-committee-captions-structure",
+  "layer": "L3",
+  "doc_type": "council_captions_structure",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-04-23",
+  "meeting_label": "Budget Committee",
+  "title": "BCC 2026-04-23 Budget Committee Captioning — item structure",
+  "file": "L3/council-captions/bcc-2026-04-23-budget-committee-captions-structure.json",
+  "sha256": "8370459ad19c7a5d7212e707efac4dfa9875ed9f202bdaa9ac62178707f73597",
+  "bytes": 3179,
+  "derived_from": {
+    "id": "bcc-2026-04-23-budget-committee-captions-text",
+    "sha256": "9ac8b79904545e0739c94177fcccc46605c88de7d3346f965db81af0ce3e5eea"
+  },
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}

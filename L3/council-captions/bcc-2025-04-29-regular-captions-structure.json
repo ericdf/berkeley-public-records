@@ -1,0 +1,173 @@
+{
+ "transcript_id": "bcc-2025-04-29-regular-captions-text",
+ "l1_sha256": "82e5905ea4ca920e0d780329f1f7fd5488afe106dbc49a6d98419c5f96040204",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 89,
+   "meeting": "2025-04-29 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 90,
+   "end_line": 488,
+   "meeting": "2025-04-29 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: OKAY. ALL RIGHT. WELL, THE FIRST THING ON HER",
+   "level": "inferred"
+  },
+  {
+   "start_line": 489,
+   "end_line": 568,
+   "meeting": "2025-04-29 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "OKAY. THANKS. WE ARE GOING TO MOVE ON. CITY MANAGER, DID YOU",
+   "level": "inferred"
+  },
+  {
+   "start_line": 569,
+   "end_line": 790,
+   "meeting": "2025-04-29 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 569,
+     "end_line": 789
+    }
+   ],
+   "evidence_start": "CONGRATULATIONS TO YOU AND YOUR TEAM. WE WILL NOW TAKE PUBLIC",
+   "level": "inferred"
+  },
+  {
+   "start_line": 791,
+   "end_line": 880,
+   "meeting": "2025-04-29 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: ALL RIGHT. WE ARE NOW MOVING ONTO THE CONSENT",
+   "level": "inferred"
+  },
+  {
+   "start_line": 881,
+   "end_line": 1097,
+   "meeting": "2025-04-29 regular",
+   "kind": "item",
+   "item": "7",
+   "public_comment": [
+    {
+     "start_line": 893,
+     "end_line": 996
+    }
+   ],
+   "evidence_start": ">> AND ON THE RECUSAL? ITEM 7 IS DEALING WITH STIPENDS ON A GO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1098,
+   "end_line": 2728,
+   "meeting": "2025-04-29 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 1539,
+     "end_line": 2640
+    }
+   ],
+   "evidence_start": ">> CITY CLERK: COUNCIL DISCUSSION FIRST IF ANYTHING GETS MOVED",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2729,
+   "end_line": 2775,
+   "meeting": "2025-04-29 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: THANKS TO EVERYONE WHO SPOKE ON CONSENT AND",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2776,
+   "end_line": 3494,
+   "meeting": "2025-04-29 regular",
+   "kind": "item",
+   "item": "28",
+   "public_comment": [
+    {
+     "start_line": 3233,
+     "end_line": 3344
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: OKAY, SO WE ARE GOING TO THE ACTION CALENDAR.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3495,
+   "end_line": 3735,
+   "meeting": "2025-04-29 regular",
+   "kind": "item",
+   "item": "29",
+   "public_comment": [
+    {
+     "start_line": 3624,
+     "end_line": 3654
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: YES. THANK YOU, STAFF, SO MUCH FOR YOUR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3736,
+   "end_line": 4105,
+   "meeting": "2025-04-29 regular",
+   "kind": "item",
+   "item": "22",
+   "public_comment": [
+    {
+     "start_line": 3791,
+     "end_line": 3979
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: THANK YOU TO OUR ONE PUBLIC COMMENTER. WE HAVE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4106,
+   "end_line": 4189,
+   "meeting": "2025-04-29 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 4106,
+     "end_line": 4188
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: OKAY, THANK YOU ALL SO MUCH. IS THERE ANY NON-",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4190,
+   "end_line": 4237,
+   "meeting": "2025-04-29 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY. ALL RIGHT. WELL, IN THAT CASE, IS THERE A",
+   "level": "inferred"
+  }
+ ]
+}

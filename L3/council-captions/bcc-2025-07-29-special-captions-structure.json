@@ -1,0 +1,43 @@
+{
+ "transcript_id": "bcc-2025-07-29-special-captions-text",
+ "l1_sha256": "13f9aea3b6ff4ef1254bb7a5c970d3ac80d888283f381a9ef151e34025c3ca87",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 66,
+   "meeting": "2025-07-29 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 67,
+   "end_line": 240,
+   "meeting": "2025-07-29 special",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 67,
+     "end_line": 167
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII:      THIS IS A SPECIAL MEETING, BUT WE WILL MOVE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 241,
+   "end_line": 517,
+   "meeting": "2025-07-29 special",
+   "kind": "item",
+   "item": "2a",
+   "public_comment": null,
+   "evidence_start": "MOVE ON TO THE ACTION CALENDAR. WE ARE GOING TO HAVE BOTH",
+   "level": "inferred"
+  }
+ ]
+}

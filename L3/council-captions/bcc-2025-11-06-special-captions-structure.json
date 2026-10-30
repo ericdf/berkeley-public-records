@@ -1,0 +1,108 @@
+{
+ "transcript_id": "bcc-2025-11-06-special-captions-text",
+ "l1_sha256": "8dd8f43f64ca23029fb5c82adc23ca006b15fb25cca65c6e3187d0e0321fa60f",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:01:09",
+   "end": "00:03:05",
+   "meeting": "2025-11-06 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'm gonna call this meeting to order. These… we are calling to order the special meeting of the Berkeley City Council. Today is Thursday, November 6th, 2025.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:03:05",
+   "end": "01:53:29",
+   "meeting": "2025-11-06 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "01:48:34",
+     "end": "01:53:29"
+    }
+   ],
+   "evidence_start": "And, I just first want to, of course, express my appreciation for",
+   "level": "inferred"
+  },
+  {
+   "start": "01:53:29",
+   "end": "01:53:43",
+   "meeting": "2025-11-06 special",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "And we will come back in 10 minutes. Thank you all.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:53:43",
+   "end": "03:36:45",
+   "meeting": "2025-11-06 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "01:54:16",
+     "end": "03:36:45"
+    }
+   ],
+   "evidence_start": "Okay!",
+   "level": "inferred"
+  },
+  {
+   "start": "03:36:45",
+   "end": "03:36:50",
+   "meeting": "2025-11-06 special",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "13? Okay, so we are gonna take a 15-minute break, and then we will be back for these 13 comments.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:36:50",
+   "end": "04:39:29",
+   "meeting": "2025-11-06 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "03:37:32",
+     "end": "03:53:20"
+    }
+   ],
+   "evidence_start": "Hello! Hi, everyone! It's 10-12, and we still have…",
+   "level": "inferred"
+  },
+  {
+   "start": "04:39:29",
+   "end": "05:51:41",
+   "meeting": "2025-11-06 special",
+   "kind": "item",
+   "item": "2",
+   "public_comment": [
+    {
+     "start": "05:12:41",
+     "end": "05:27:05"
+    }
+   ],
+   "evidence_start": "Thank you so much, Councilmembers. If you could just give us two… Minutes, or maybe even just one.",
+   "level": "inferred"
+  },
+  {
+   "start": "05:51:41",
+   "end": "05:52:03",
+   "meeting": "2025-11-06 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "It is 1227, so I'm gonna make a motion to adjourn. Okay, is there any opposition? And nobody's online, so we are adjourned. Very good. Thank",
+   "level": "inferred"
+  }
+ ]
+}

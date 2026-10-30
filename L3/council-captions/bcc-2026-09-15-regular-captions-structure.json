@@ -1,0 +1,153 @@
+{
+ "transcript_id": "bcc-2026-09-15-regular-captions-text",
+ "l1_sha256": "9088956c19322313facfd19c091006a57f9060a333a830292f68139a2c768f64",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:09",
+   "end": "00:03:10",
+   "meeting": "2026-09-15 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Hello, everyone!",
+   "level": "inferred"
+  },
+  {
+   "start": "00:03:10",
+   "end": "00:11:28",
+   "meeting": "2026-09-15 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, so we have a couple of ceremonial items, starting…",
+   "level": "inferred"
+  },
+  {
+   "start": "00:11:28",
+   "end": "00:15:47",
+   "meeting": "2026-09-15 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, we are now moving on to City Manager comments, and, I think our city auditor is also here",
+   "level": "inferred"
+  },
+  {
+   "start": "00:15:47",
+   "end": "00:19:11",
+   "meeting": "2026-09-15 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We'll have our city auditor come up, with comments.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:19:11",
+   "end": "00:37:47",
+   "meeting": "2026-09-15 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We will now take public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:37:47",
+   "end": "01:43:42",
+   "meeting": "2026-09-15 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "00:56:09",
+     "end": "01:43:00"
+    }
+   ],
+   "evidence_start": "Okay, we're moving on to the consent calendar now. And so, we have an urgent item",
+   "level": "inferred"
+  },
+  {
+   "start": "01:43:42",
+   "end": "02:01:01",
+   "meeting": "2026-09-15 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are gonna take a 15-minute break before our action calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:01:01",
+   "end": "03:36:57",
+   "meeting": "2026-09-15 regular",
+   "kind": "item",
+   "item": "21a/21b",
+   "public_comment": [
+    {
+     "start": "02:39:18",
+     "end": "03:36:57"
+    }
+   ],
+   "evidence_start": "We're ready. Yes. Okay, alright. Hi, everyone. Thank you so much for your patience.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:36:57",
+   "end": "03:37:21",
+   "meeting": "2026-09-15 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, we are gonna take a… Mmm… maybe, like, a… 8-minute break.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:37:21",
+   "end": "04:04:56",
+   "meeting": "2026-09-15 regular",
+   "kind": "item",
+   "item": "21a/21b",
+   "public_comment": [
+    {
+     "start": "03:37:29",
+     "end": "04:04:56"
+    }
+   ],
+   "evidence_start": "Talk to your neighbors, you can talk to your neighbors outside, or you can have a seat.",
+   "level": "inferred"
+  },
+  {
+   "start": "04:04:56",
+   "end": "04:13:29",
+   "meeting": "2026-09-15 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "So, we, we shut off that last speaker because they had already spoken on this topic",
+   "level": "inferred"
+  },
+  {
+   "start": "04:13:29",
+   "end": "04:16:20",
+   "meeting": "2026-09-15 regular",
+   "kind": "item",
+   "item": "21a/21b",
+   "public_comment": null,
+   "evidence_start": "Now we're recording.",
+   "level": "inferred"
+  },
+  {
+   "start": "04:16:20",
+   "end": "04:17:04",
+   "meeting": "2026-09-15 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Well… There would need to be a motion to adjourn",
+   "level": "inferred"
+  }
+ ]
+}

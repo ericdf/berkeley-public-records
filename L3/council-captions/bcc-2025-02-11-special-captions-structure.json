@@ -1,0 +1,43 @@
+{
+ "transcript_id": "bcc-2025-02-11-special-captions-text",
+ "l1_sha256": "ac7f34b982169cf19795e4509c648a75b865b5cb6ff6f0d6eb0747d4b55d2adb",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 32,
+   "meeting": "2025-02-11 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> I THINK WE'RE GOING TO GET STARTED, FOLKS IF YOU COULD PLEASE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 33,
+   "end_line": 3069,
+   "meeting": "2025-02-11 special",
+   "kind": "item",
+   "item": "1a-1d",
+   "public_comment": [
+    {
+     "start_line": 1000,
+     "end_line": 2181
+    }
+   ],
+   "evidence_start": ">> THIS IS A SPECIAL MEETING. SO I'M GOING TO PASS IT OVER TO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3070,
+   "end_line": 3093,
+   "meeting": "2025-02-11 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "YOUR PRESENTATION. OKAY, SO, FOLKS, I KNOW THAT MANY OF YOU ARE",
+   "level": "inferred"
+  }
+ ]
+}

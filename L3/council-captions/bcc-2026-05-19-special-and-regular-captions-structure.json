@@ -1,0 +1,303 @@
+{
+ "transcript_id": "bcc-2026-05-19-special-and-regular-captions-text",
+ "l1_sha256": "978899703a749adf7baba1884e21fda69f7a04d0b658ea7de26b26bce5203e74",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:21",
+   "end": "00:01:12",
+   "meeting": "2026-05-19 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:01:12",
+   "end": "02:23:04",
+   "meeting": "2026-05-19 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start": "01:39:34",
+     "end": "01:59:52"
+    }
+   ],
+   "evidence_start": "Okay, quorum is present. Alright, so for our action calendar for this.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:23:04",
+   "end": "02:23:35",
+   "meeting": "2026-05-19 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "So I would like to see if there's a motion to adjourn.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:23:35",
+   "end": "02:24:19",
+   "meeting": "2026-05-19 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "So, yay! So in that case, I'm going to call to order the Berkeley City Council meeting.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:24:19",
+   "end": "02:37:11",
+   "meeting": "2026-05-19 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Alright, so let's move on to our ceremonial matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:37:11",
+   "end": "02:37:20",
+   "meeting": "2026-05-19 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "And we will be back in 15 minutes. Thank you.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:37:20",
+   "end": "02:38:19",
+   "meeting": "2026-05-19 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Hello, everyone. Good evening! We're gonna start back up again.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:38:19",
+   "end": "02:50:59",
+   "meeting": "2026-05-19 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:38:19",
+     "end": "02:50:59"
+    }
+   ],
+   "evidence_start": "Alright, so we are now moving on to public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:50:59",
+   "end": "03:39:47",
+   "meeting": "2026-05-19 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "03:12:07",
+     "end": "03:39:12"
+    }
+   ],
+   "evidence_start": "And we will now move on to the consent calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:39:47",
+   "end": "03:55:03",
+   "meeting": "2026-05-19 regular",
+   "kind": "item",
+   "item": "20",
+   "public_comment": [
+    {
+     "start": "03:43:07",
+     "end": "03:50:22"
+    }
+   ],
+   "evidence_start": "Of the gavel. Okay, so, we are now moving on to our action calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:55:03",
+   "end": "03:55:28",
+   "meeting": "2026-05-19 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Which is the proposed FY2027, FY2028 biennial budget",
+   "level": "inferred"
+  },
+  {
+   "start": "03:55:28",
+   "end": "05:06:51",
+   "meeting": "2026-05-19 regular",
+   "kind": "item",
+   "item": "21",
+   "public_comment": null,
+   "evidence_start": "Okay, thank you everyone so much for your patience.",
+   "level": "inferred"
+  },
+  {
+   "start": "05:06:51",
+   "end": "05:08:03",
+   "meeting": "2026-05-19 regular",
+   "kind": "other_procedural",
+   "item": "22-29",
+   "public_comment": null,
+   "evidence_start": "put it all together. Do the certification form and everything",
+   "level": "inferred"
+  },
+  {
+   "start": "05:08:03",
+   "end": "05:26:16",
+   "meeting": "2026-05-19 regular",
+   "kind": "item",
+   "item": "21",
+   "public_comment": null,
+   "evidence_start": "I think we still haven't gotten that, so what I'm gonna do is gonna go back to the presentation",
+   "level": "inferred"
+  },
+  {
+   "start": "05:26:16",
+   "end": "05:28:39",
+   "meeting": "2026-05-19 regular",
+   "kind": "item",
+   "item": "20",
+   "public_comment": null,
+   "evidence_start": "the theme of making this an even more confusing meeting. We are gonna pause this really quickly",
+   "level": "inferred"
+  },
+  {
+   "start": "05:28:39",
+   "end": "06:52:18",
+   "meeting": "2026-05-19 regular",
+   "kind": "item",
+   "item": "21",
+   "public_comment": [
+    {
+     "start": "05:44:23",
+     "end": "06:10:34"
+    }
+   ],
+   "evidence_start": "third of this, unless you have another question right now",
+   "level": "inferred"
+  },
+  {
+   "start": "06:52:18",
+   "end": "06:55:19",
+   "meeting": "2026-05-19 regular",
+   "kind": "item",
+   "item": "22",
+   "public_comment": [
+    {
+     "start": "06:53:27",
+     "end": "06:54:05"
+    }
+   ],
+   "evidence_start": "Okay, the public hearing is closed. Alright, so we're gonna try to go 22, 23, 25, 26, 27",
+   "level": "inferred"
+  },
+  {
+   "start": "06:55:19",
+   "end": "06:55:58",
+   "meeting": "2026-05-19 regular",
+   "kind": "item",
+   "item": "23",
+   "public_comment": [
+    {
+     "start": "06:55:29",
+     "end": "06:55:38"
+    }
+   ],
+   "evidence_start": "We are moving on to item 23, which is the Neighborhood Services Code Enforcement Fee Schedule.",
+   "level": "inferred"
+  },
+  {
+   "start": "06:55:58",
+   "end": "06:56:49",
+   "meeting": "2026-05-19 regular",
+   "kind": "item",
+   "item": "25",
+   "public_comment": [
+    {
+     "start": "06:56:17",
+     "end": "06:56:40"
+    }
+   ],
+   "evidence_start": "All right, moving on to item 25, which is the fees, health, housing",
+   "level": "inferred"
+  },
+  {
+   "start": "06:56:49",
+   "end": "06:58:24",
+   "meeting": "2026-05-19 regular",
+   "kind": "item",
+   "item": "26",
+   "public_comment": [
+    {
+     "start": "06:57:06",
+     "end": "06:57:47"
+    }
+   ],
+   "evidence_start": "Moving on to item number 26, changes to selective recreation facilities",
+   "level": "inferred"
+  },
+  {
+   "start": "06:58:24",
+   "end": "07:01:20",
+   "meeting": "2026-05-19 regular",
+   "kind": "item",
+   "item": "27",
+   "public_comment": [
+    {
+     "start": "07:00:46",
+     "end": "07:00:58"
+    }
+   ],
+   "evidence_start": "Moving on to, thank you very much, item number 27, changes to the planning and development fee schedule.",
+   "level": "inferred"
+  },
+  {
+   "start": "07:01:20",
+   "end": "07:02:15",
+   "meeting": "2026-05-19 regular",
+   "kind": "other_procedural",
+   "item": "24, 28, 29",
+   "public_comment": null,
+   "evidence_start": "Alright, that was actually our final one.",
+   "level": "inferred"
+  },
+  {
+   "start": "07:02:15",
+   "end": "07:06:09",
+   "meeting": "2026-05-19 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "07:02:15",
+     "end": "07:06:05"
+    }
+   ],
+   "evidence_start": "June 9th meeting. Is there any public comment for items not listed on the agenda?",
+   "level": "inferred"
+  },
+  {
+   "start": "07:06:09",
+   "end": "07:06:24",
+   "meeting": "2026-05-19 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "No, no more. Okay. Thank you very much. Is there a motion to adjourn?",
+   "level": "inferred"
+  }
+ ]
+}

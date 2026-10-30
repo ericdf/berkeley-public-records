@@ -1,0 +1,93 @@
+{
+ "transcript_id": "bcc-2025-07-23-special-captions-text",
+ "l1_sha256": "26b3837c7a4245d637ad2f179ab1dd5e59c39d5fe5976092d0002bc6876f9035",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 50,
+   "meeting": "2025-07-23 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 51,
+   "end_line": 112,
+   "meeting": "2025-07-23 special",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "SPECIAL MEETING, BUT WE DO HAVE A BRIEF ANNOUNCEMENT, SO I WILL",
+   "level": "inferred"
+  },
+  {
+   "start_line": 113,
+   "end_line": 2314,
+   "meeting": "2025-07-23 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 1213,
+     "end_line": 1521
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII:      WE GOT THEM. THANK YOU VERY MUCH, APPRECIATE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2315,
+   "end_line": 3134,
+   "meeting": "2025-07-23 special",
+   "kind": "item",
+   "item": "2",
+   "public_comment": [
+    {
+     "start_line": 2741,
+     "end_line": 2917
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII:      OKAY. VERY GOOD. THANK YOU. THANK YOU ALL FOR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3135,
+   "end_line": 3140,
+   "meeting": "2025-07-23 special",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII:      YES. OKAY. MOTION PASSES. THANK YOU ALL. WE ARE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3141,
+   "end_line": 5632,
+   "meeting": "2025-07-23 special",
+   "kind": "item",
+   "item": "3",
+   "public_comment": [
+    {
+     "start_line": 4127,
+     "end_line": 4851
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII:      OKAY. HI, EVERYONE. WE ARE COMING BACK. IF I",
+   "level": "inferred"
+  },
+  {
+   "start_line": 5633,
+   "end_line": 5676,
+   "meeting": "2025-07-23 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII:      YES. THANK YOU. IS THERE A MOTION TO ADJOURN?",
+   "level": "inferred"
+  }
+ ]
+}

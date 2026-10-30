@@ -1,0 +1,143 @@
+{
+ "transcript_id": "bcc-2025-03-11-regular-captions-text",
+ "l1_sha256": "6886b84addfafd4d946b894566711e0b35ca8833e36c79472d38de9050f64473",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 157,
+   "meeting": "2025-03-11 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY, EVERYBODY. HI, WE ARE GOING TO CALL THIS",
+   "level": "inferred"
+  },
+  {
+   "start_line": 158,
+   "end_line": 224,
+   "meeting": "2025-03-11 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU, COUNCILMEMBER. WE HAVE THE CLOSED",
+   "level": "inferred"
+  },
+  {
+   "start_line": 225,
+   "end_line": 320,
+   "meeting": "2025-03-11 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "REPORT OUT. SO NOW WE MOVE ON TO THE CEREMONIAL MATTERS. IT'S A",
+   "level": "inferred"
+  },
+  {
+   "start_line": 321,
+   "end_line": 326,
+   "meeting": "2025-03-11 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "MOVING ONTO CITY MANAGER COMMENTS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 327,
+   "end_line": 745,
+   "meeting": "2025-03-11 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "PUBLIC COMMENTS ON NON-AGENDA MATTERS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 746,
+   "end_line": 866,
+   "meeting": "2025-03-11 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY. SO, CITY CLERK, I BELIEVE THAT THE PUBLIC",
+   "level": "inferred"
+  },
+  {
+   "start_line": 867,
+   "end_line": 2738,
+   "meeting": "2025-03-11 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 1039,
+     "end_line": 2146
+    }
+   ],
+   "evidence_start": "AUDITOR DOESN'T HAVE COMMENTS THIS EVENING. I WILL MOVE US ONTO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2739,
+   "end_line": 2750,
+   "meeting": "2025-03-11 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU, AT THIS TIME I WOULD LIKE US TO TAKE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2751,
+   "end_line": 3514,
+   "meeting": "2025-03-11 regular",
+   "kind": "item",
+   "item": "17",
+   "public_comment": [
+    {
+     "start_line": 3186,
+     "end_line": 3344
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: TESTING, TESTING. HI FOLKS, WE ARE COMING OUT OF",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3515,
+   "end_line": 4843,
+   "meeting": "2025-03-11 regular",
+   "kind": "item",
+   "item": "18",
+   "public_comment": [
+    {
+     "start_line": 3824,
+     "end_line": 4224
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: THANK YOU. AND THANK YOU TO STAFF FOR ALL YOUR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4844,
+   "end_line": 4875,
+   "meeting": "2025-03-11 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU ALL SO MUCH. I APPRECIATE SEEING YOU",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4876,
+   "end_line": 4918,
+   "meeting": "2025-03-11 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: YES, THANK YOU.",
+   "level": "inferred"
+  }
+ ]
+}

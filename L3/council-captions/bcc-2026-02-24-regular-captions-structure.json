@@ -1,0 +1,158 @@
+{
+ "transcript_id": "bcc-2026-02-24-regular-captions-text",
+ "l1_sha256": "656ced161a036706d53e6d29b5c081ba3e72c9758c1988975fd2d9308afc84cc",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:19",
+   "end": "00:00:56",
+   "meeting": "2026-02-24 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I'm calling to order the Berkeley City Council meeting. Today is Tuesday, February 24th",
+   "level": "inferred"
+  },
+  {
+   "start": "00:00:56",
+   "end": "00:11:27",
+   "meeting": "2026-02-24 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Humber, present, and Mayor Ishii? Here. Okay, quorum is present. Very good,",
+   "level": "inferred"
+  },
+  {
+   "start": "00:11:27",
+   "end": "00:11:35",
+   "meeting": "2026-02-24 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I will see if the City Manager has any comments.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:11:35",
+   "end": "00:14:44",
+   "meeting": "2026-02-24 regular",
+   "kind": "other_procedural",
+   "item": "24",
+   "public_comment": null,
+   "evidence_start": "I will now see if our City Auditor has any comments this evening.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:14:44",
+   "end": "00:25:52",
+   "meeting": "2026-02-24 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "00:14:44",
+     "end": "00:25:46"
+    }
+   ],
+   "evidence_start": "We will now take public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:25:52",
+   "end": "00:40:42",
+   "meeting": "2026-02-24 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "00:37:17",
+     "end": "00:40:26"
+    }
+   ],
+   "evidence_start": "Okay, we will move on now to our consent calendar.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:40:42",
+   "end": "01:11:20",
+   "meeting": "2026-02-24 regular",
+   "kind": "item",
+   "item": "25",
+   "public_comment": [
+    {
+     "start": "01:06:13",
+     "end": "01:11:07"
+    }
+   ],
+   "evidence_start": "we have moved an item, from the… information items onto the action calendar… our auditor",
+   "level": "inferred"
+  },
+  {
+   "start": "01:11:20",
+   "end": "01:27:32",
+   "meeting": "2026-02-24 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "I do want us to take, like, a 10-minute stretch break",
+   "level": "inferred"
+  },
+  {
+   "start": "01:27:32",
+   "end": "02:10:46",
+   "meeting": "2026-02-24 regular",
+   "kind": "item",
+   "item": "20",
+   "public_comment": [
+    {
+     "start": "01:44:03",
+     "end": "01:53:36"
+    }
+   ],
+   "evidence_start": "We are starting back the Berkeley City Council meeting, and we are moving on to… to implement Senate Bill SB684.",
+   "level": "inferred"
+  },
+  {
+   "start": "02:10:46",
+   "end": "02:43:54",
+   "meeting": "2026-02-24 regular",
+   "kind": "item",
+   "item": "21",
+   "public_comment": [
+    {
+     "start": "02:35:18",
+     "end": "02:41:14"
+    }
+   ],
+   "evidence_start": "I'm gonna move us on to the final item for this evening",
+   "level": "inferred"
+  },
+  {
+   "start": "02:43:54",
+   "end": "02:47:45",
+   "meeting": "2026-02-24 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "02:44:09",
+     "end": "02:47:45"
+    }
+   ],
+   "evidence_start": "Okay. Okay, very good. Alright, thank you all very much for that,",
+   "level": "inferred"
+  },
+  {
+   "start": "02:47:45",
+   "end": "02:48:02",
+   "meeting": "2026-02-24 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "is there a motion to adjourn? So moved. Second.",
+   "level": "inferred"
+  }
+ ]
+}

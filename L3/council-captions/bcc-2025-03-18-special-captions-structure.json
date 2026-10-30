@@ -1,0 +1,43 @@
+{
+ "transcript_id": "bcc-2025-03-18-special-captions-text",
+ "l1_sha256": "3c8a787fb83d9b3afe3ba63a7158ac7757687895a1dfda57ec0b599b52b6154e",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 65,
+   "meeting": "2025-03-18 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 66,
+   "end_line": 2983,
+   "meeting": "2025-03-18 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 1016,
+     "end_line": 1125
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: THANKS SO MUCH. TODAY IS A WORK SESSION AND WE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2984,
+   "end_line": 3027,
+   "meeting": "2025-03-18 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR A. ISHII: THANK YOU SO MUCH FOR THE REPORT. I REALLY",
+   "level": "inferred"
+  }
+ ]
+}

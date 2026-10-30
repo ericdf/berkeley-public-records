@@ -1,0 +1,43 @@
+{
+ "transcript_id": "bcc-2025-02-25-special-captions-text",
+ "l1_sha256": "2767511d6195a054c2a77bda271df9cdfa0bc591a8b5d8e18b3ab87a100839ad",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 45,
+   "meeting": "2025-02-25 special",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: I WOULD LIKE TO CALL TO ORDER THE SPECIAL",
+   "level": "inferred"
+  },
+  {
+   "start_line": 46,
+   "end_line": 1846,
+   "meeting": "2025-02-25 special",
+   "kind": "item",
+   "item": "1",
+   "public_comment": [
+    {
+     "start_line": 807,
+     "end_line": 1013
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: HERE. WE HAVE A SPECIAL WORK SESSION TODAY WITH",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1847,
+   "end_line": 1860,
+   "meeting": "2025-02-25 special",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "COMMENTED. I APPRECIATE IT. IS THERE A MOTION TO ADJOURN?",
+   "level": "inferred"
+  }
+ ]
+}

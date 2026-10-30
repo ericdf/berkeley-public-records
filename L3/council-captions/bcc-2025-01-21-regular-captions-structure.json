@@ -1,0 +1,158 @@
+{
+ "transcript_id": "bcc-2025-01-21-regular-captions-text",
+ "l1_sha256": "fdedce3e66aed30be3cdd8b3f950e7a0cb2f061292e6dd68e0949eb7155c115d",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 129,
+   "meeting": "2025-01-21 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> CAPTIONER, ARE YOU ON AND ABLE TO CAPTION SO WE CAN SEE IF WE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 130,
+   "end_line": 137,
+   "meeting": "2025-01-21 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU SO MUCH, COUNCILMEMBER. WE HAVE NO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 138,
+   "end_line": 309,
+   "meeting": "2025-01-21 regular",
+   "kind": "item",
+   "item": "29",
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU. IS OUR CITY AUDITOR HERE? THANK YOU",
+   "level": "inferred"
+  },
+  {
+   "start_line": 310,
+   "end_line": 771,
+   "meeting": "2025-01-21 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU. OTHER QUESTIONS? GREAT. I WOULD LIKE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 772,
+   "end_line": 813,
+   "meeting": "2025-01-21 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> STAFF: THAT CONCLUDES NON-AGENDA PUBLIC COMMENTS.",
+   "level": "inferred"
+  },
+  {
+   "start_line": 814,
+   "end_line": 2683,
+   "meeting": "2025-01-21 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 1408,
+     "end_line": 2629
+    }
+   ],
+   "evidence_start": "OTHER COMMENTS FROM UNIONS? OKAY. WE ARE NOW MOVING ON TO THE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2684,
+   "end_line": 2725,
+   "meeting": "2025-01-21 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU. SO, THANK YOU. THANK YOU ALL SO MUCH",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2726,
+   "end_line": 2789,
+   "meeting": "2025-01-21 regular",
+   "kind": "item",
+   "item": "23",
+   "public_comment": [
+    {
+     "start_line": 2760,
+     "end_line": 2762
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: THERE WE GO. I WOULD LIKE TO CALL THIS MEETING",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2790,
+   "end_line": 2975,
+   "meeting": "2025-01-21 regular",
+   "kind": "item",
+   "item": "24",
+   "public_comment": [
+    {
+     "start_line": 2806,
+     "end_line": 2872
+    }
+   ],
+   "evidence_start": "ALSO BE RECORDED AS AYES HERE. ALL RIGHT, THANK YOU. MOVING ONTO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2976,
+   "end_line": 2987,
+   "meeting": "2025-01-21 regular",
+   "kind": "item",
+   "item": "25",
+   "public_comment": [
+    {
+     "start_line": 2982,
+     "end_line": 2987
+    }
+   ],
+   "evidence_start": "THANK YOU SO MUCH. SO FOR ITEM #25, I JUST WANT TO MAKE SURE",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2988,
+   "end_line": 3515,
+   "meeting": "2025-01-21 regular",
+   "kind": "item",
+   "item": "22",
+   "public_comment": null,
+   "evidence_start": "OKAY, THANK YOU SO MUCH. I APPRECIATE IT. SO MOVING ONTO OUR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3516,
+   "end_line": 3627,
+   "meeting": "2025-01-21 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY, WE ARE FINISHED WITH ACTION ITEMS. OUR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3628,
+   "end_line": 3649,
+   "meeting": "2025-01-21 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: ANY OTHER PUBLIC COMMENT? OKAY. I WOULD LIKE TO",
+   "level": "inferred"
+  }
+ ]
+}

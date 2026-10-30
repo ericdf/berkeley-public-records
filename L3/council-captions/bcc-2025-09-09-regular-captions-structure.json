@@ -1,0 +1,153 @@
+{
+ "transcript_id": "bcc-2025-09-09-regular-captions-text",
+ "l1_sha256": "883149fdcd2b03207fe515eaecec80d7b152c9cdd49d0213df0e9d8b4c4b093f",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 110,
+   "meeting": "2025-09-09 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 111,
+   "end_line": 365,
+   "meeting": "2025-09-09 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "MOVING ONTO CEREMONIAL MATTERS, WE HAVE A NUMBER OF CEREMONIAL",
+   "level": "inferred"
+  },
+  {
+   "start_line": 366,
+   "end_line": 398,
+   "meeting": "2025-09-09 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY, THERE ARE ACTUALLY TWO MORE CLOSED SESSION",
+   "level": "inferred"
+  },
+  {
+   "start_line": 399,
+   "end_line": 445,
+   "meeting": "2025-09-09 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "YOU. ALL RIGHT, CITY MANAGER COMMENTS?",
+   "level": "inferred"
+  },
+  {
+   "start_line": 446,
+   "end_line": 839,
+   "meeting": "2025-09-09 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: PLEASE DON'T DO THAT. WE WANT TO LEAVE TIME FOR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 840,
+   "end_line": 850,
+   "meeting": "2025-09-09 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: HER TIME IS OVER. WE HAVE SO MANY SPEAKERS,",
+   "level": "inferred"
+  },
+  {
+   "start_line": 851,
+   "end_line": 1033,
+   "meeting": "2025-09-09 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: OKAY, I'M SORRY, EVERYONE. THIS HAS BEEN",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1034,
+   "end_line": 1610,
+   "meeting": "2025-09-09 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 1286,
+     "end_line": 1592
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: OKAY, THANK YOU. AT THIS TIME IF THERE ARE ANY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1611,
+   "end_line": 1620,
+   "meeting": "2025-09-09 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "THANK YOU. SASSING ME TODAY. [LAUGHTER] WE ARE NOW MOVING ONTO",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1621,
+   "end_line": 3036,
+   "meeting": "2025-09-09 regular",
+   "kind": "item",
+   "item": "24",
+   "public_comment": [
+    {
+     "start_line": 1629,
+     "end_line": 3017
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: OKAY. HI, FOLKS. WE ARE BACK. I'M SORRY, IT TOOK",
+   "level": "inferred"
+  },
+  {
+   "start_line": 3037,
+   "end_line": 4753,
+   "meeting": "2025-09-09 regular",
+   "kind": "item",
+   "item": "25",
+   "public_comment": [
+    {
+     "start_line": 3366,
+     "end_line": 4241
+    }
+   ],
+   "evidence_start": "OF PAPER IN THE BACK. THANK YOU. WE ARE GOING TO MOVE ONTO ITEM",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4754,
+   "end_line": 4783,
+   "meeting": "2025-09-09 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU ALL. [ APPLAUSE ] THAT WAS OUR FINAL",
+   "level": "inferred"
+  },
+  {
+   "start_line": 4784,
+   "end_line": 4800,
+   "meeting": "2025-09-09 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "THERE A MOTION TO ADJOURN?",
+   "level": "inferred"
+  }
+ ]
+}

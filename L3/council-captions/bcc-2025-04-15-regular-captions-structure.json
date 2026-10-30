@@ -1,0 +1,58 @@
+{
+ "transcript_id": "bcc-2025-04-15-regular-captions-text",
+ "l1_sha256": "7546e7286e474e401106b36b3b89be3c7559cd2439aab7e7cb86c01ed55b4f1e",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start_line": 1,
+   "end_line": 36,
+   "meeting": "2025-04-15 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "CITY OF BERKELEY",
+   "level": "inferred"
+  },
+  {
+   "start_line": 37,
+   "end_line": 1988,
+   "meeting": "2025-04-15 regular",
+   "kind": "item",
+   "item": "11a+11b",
+   "public_comment": [
+    {
+     "start_line": 605,
+     "end_line": 1159
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: ALL RIGHT, HI, EVERYONE. WE ARE BACK. THANK YOU",
+   "level": "inferred"
+  },
+  {
+   "start_line": 1989,
+   "end_line": 2386,
+   "meeting": "2025-04-15 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": [
+    {
+     "start_line": 1989,
+     "end_line": 2385
+    }
+   ],
+   "evidence_start": ">> MAYOR ISHII: THANK YOU ALL. AND THANK YOU FOR YOUR",
+   "level": "inferred"
+  },
+  {
+   "start_line": 2387,
+   "end_line": 2404,
+   "meeting": "2025-04-15 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": ">> MAYOR ISHII: THANK YOU FOR YOUR COMMENTS. THIS IS OUR LONGEST",
+   "level": "inferred"
+  }
+ ]
+}

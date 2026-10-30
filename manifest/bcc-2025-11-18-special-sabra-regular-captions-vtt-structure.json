@@ -1,0 +1,18 @@
+{
+  "id": "bcc-2025-11-18-special-sabra-regular-captions-vtt-structure",
+  "layer": "L3",
+  "doc_type": "council_captions_structure",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-11-18",
+  "meeting_label": "Special SABRA Regular",
+  "title": "BCC 2025-11-18 Special SABRA Regular Captioning.vtt — item structure",
+  "file": "L3/council-captions/bcc-2025-11-18-special-sabra-regular-captions-vtt-structure.json",
+  "sha256": "1efdfaf1fdb4cddd006294a40d3275296aa9c48f52d7c9f835e8a928c77487ff",
+  "bytes": 7499,
+  "derived_from": {
+    "id": "bcc-2025-11-18-special-sabra-regular-captions-vtt-text",
+    "sha256": "7bd7f0f086f339e45104328178754893d732bdf9ae3dbf16f0ac5f45fd8467a5"
+  },
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}

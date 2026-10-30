@@ -1,0 +1,158 @@
+{
+ "transcript_id": "bcc-2026-09-29-regular-captions-text",
+ "l1_sha256": "7cfb30ba32f4edc5559b2b0c9dbe1526a42413cac93fd6a8cf5de54fd8ba979a",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:00",
+   "end": "00:02:12",
+   "meeting": "2026-09-29 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are going to get started.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:02:12",
+   "end": "00:17:54",
+   "meeting": "2026-09-29 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "All right, so we are going to start off with the ceremonial matters",
+   "level": "inferred"
+  },
+  {
+   "start": "00:17:54",
+   "end": "00:18:21",
+   "meeting": "2026-09-29 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, so… We will now move on to city manager comments.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:18:21",
+   "end": "00:21:38",
+   "meeting": "2026-09-29 regular",
+   "kind": "council_comments",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you. Thank you very much. Okay, and then I think online… is our auditor.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:21:38",
+   "end": "00:35:57",
+   "meeting": "2026-09-29 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "All right, so we will now take public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:35:57",
+   "end": "01:29:29",
+   "meeting": "2026-09-29 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": [
+    {
+     "start": "01:02:31",
+     "end": "01:26:18"
+    }
+   ],
+   "evidence_start": "We are now moving on to our consent calendar, but we have 2 urgency items",
+   "level": "inferred"
+  },
+  {
+   "start": "01:29:29",
+   "end": "01:34:47",
+   "meeting": "2026-09-29 regular",
+   "kind": "item",
+   "item": "33",
+   "public_comment": [
+    {
+     "start": "01:30:30",
+     "end": "01:31:54"
+    }
+   ],
+   "evidence_start": "All right, we are moving on to the action calendar. We have a number of public hearings this evening, starting with item number 33",
+   "level": "inferred"
+  },
+  {
+   "start": "01:34:47",
+   "end": "03:18:05",
+   "meeting": "2026-09-29 regular",
+   "kind": "item",
+   "item": "34",
+   "public_comment": [
+    {
+     "start": "02:40:58",
+     "end": "03:18:05"
+    }
+   ],
+   "evidence_start": "Okay, thank you very much. We are going to open the public hearing for item 34, which is the adoption of the San Pablo Avenue specific plan.",
+   "level": "inferred"
+  },
+  {
+   "start": "03:18:05",
+   "end": "03:18:53",
+   "meeting": "2026-09-29 regular",
+   "kind": "recess",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are going to take a brief 10-minute break, and then we're going to take the online comments",
+   "level": "inferred"
+  },
+  {
+   "start": "03:18:53",
+   "end": "04:25:26",
+   "meeting": "2026-09-29 regular",
+   "kind": "item",
+   "item": "34",
+   "public_comment": [
+    {
+     "start": "03:18:53",
+     "end": "03:42:05"
+    }
+   ],
+   "evidence_start": "Okay, we are taking public comment online. There are 16 hands raised online.",
+   "level": "inferred"
+  },
+  {
+   "start": "04:25:26",
+   "end": "04:26:27",
+   "meeting": "2026-09-29 regular",
+   "kind": "item",
+   "item": "35",
+   "public_comment": null,
+   "evidence_start": "My understanding is we will not be getting to item 35 tonight",
+   "level": "inferred"
+  },
+  {
+   "start": "04:26:27",
+   "end": "04:33:44",
+   "meeting": "2026-09-29 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Is there any public comment for items not listed on the agenda",
+   "level": "inferred"
+  },
+  {
+   "start": "04:33:44",
+   "end": "04:34:27",
+   "meeting": "2026-09-29 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Any other public comment this evening? Off agenda? Okay. Is there a motion to adjourn?",
+   "level": "inferred"
+  }
+ ]
+}

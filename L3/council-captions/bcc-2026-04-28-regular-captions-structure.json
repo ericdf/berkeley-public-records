@@ -1,0 +1,128 @@
+{
+ "transcript_id": "bcc-2026-04-28-regular-captions-text",
+ "l1_sha256": "0d1b835b21c9be2a5c647067604c69cccd9bd68144c21212e6c702f9a740a33e",
+ "notice": "Item boundaries in this layer are inferred, not authoritative. They were read from the transcript by software and volunteers, not by the City. The annotated agenda is the official record of what the Council took up and decided; verify a boundary against the meeting video before relying on it.",
+ "producer": "ericdf, with Claude Code: segments read from the transcript by a language model working from written instructions, October 2026; not yet checked against video",
+ "segments": [
+  {
+   "start": "00:00:13",
+   "end": "00:02:13",
+   "meeting": "2026-04-28 regular",
+   "kind": "opening",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, hello everyone! Calling to order the Berkeley City Council meeting. Today",
+   "level": "inferred"
+  },
+  {
+   "start": "00:02:13",
+   "end": "00:06:38",
+   "meeting": "2026-04-28 regular",
+   "kind": "ceremonial",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Very good, thank you. We are now moving on to our ceremonial",
+   "level": "inferred"
+  },
+  {
+   "start": "00:06:38",
+   "end": "00:34:48",
+   "meeting": "2026-04-28 regular",
+   "kind": "council_comments",
+   "item": "9",
+   "public_comment": null,
+   "evidence_start": "We're presenting on our financial condition audit, which is in the agenda packet",
+   "level": "inferred"
+  },
+  {
+   "start": "00:34:48",
+   "end": "00:46:51",
+   "meeting": "2026-04-28 regular",
+   "kind": "public_comment_nonagenda",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Thank you. Okay, so we now have, public comment on non-agenda matters.",
+   "level": "inferred"
+  },
+  {
+   "start": "00:46:51",
+   "end": "00:58:40",
+   "meeting": "2026-04-28 regular",
+   "kind": "consent",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "We are moving on to our consent calendar. But before we start",
+   "level": "inferred"
+  },
+  {
+   "start": "00:58:40",
+   "end": "01:13:42",
+   "meeting": "2026-04-28 regular",
+   "kind": "item",
+   "item": "12",
+   "public_comment": [
+    {
+     "start": "01:07:25",
+     "end": "01:13:06"
+    }
+   ],
+   "evidence_start": "So I will send it over to the City Manager, so if",
+   "level": "inferred"
+  },
+  {
+   "start": "01:13:42",
+   "end": "01:18:13",
+   "meeting": "2026-04-28 regular",
+   "kind": "item",
+   "item": "13",
+   "public_comment": null,
+   "evidence_start": "Oh, this is… Yeah, we're on item number 13.",
+   "level": "inferred"
+  },
+  {
+   "start": "01:18:13",
+   "end": "01:24:52",
+   "meeting": "2026-04-28 regular",
+   "kind": "item",
+   "item": "14",
+   "public_comment": [
+    {
+     "start": "01:20:35",
+     "end": "01:21:30"
+    }
+   ],
+   "evidence_start": "Okay, motion carries. Thank you very much. Sorry, I know we have",
+   "level": "inferred"
+  },
+  {
+   "start": "01:24:52",
+   "end": "01:33:36",
+   "meeting": "2026-04-28 regular",
+   "kind": "item",
+   "item": "15",
+   "public_comment": null,
+   "evidence_start": "Alright, we are moving on to item number 15. Do we need",
+   "level": "inferred"
+  },
+  {
+   "start": "01:33:36",
+   "end": "01:35:57",
+   "meeting": "2026-04-28 regular",
+   "kind": "other_procedural",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, thank you so much! Thank you, everybody! Alright, so, I realize",
+   "level": "inferred"
+  },
+  {
+   "start": "01:35:57",
+   "end": "01:36:31",
+   "meeting": "2026-04-28 regular",
+   "kind": "closing",
+   "item": null,
+   "public_comment": null,
+   "evidence_start": "Okay, I will see if there is a motion to adjourn.",
+   "level": "inferred"
+  }
+ ]
+}
