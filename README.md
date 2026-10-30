@@ -52,7 +52,7 @@ published, and each file is listed in `manifest/`.
 | **L0 — originals** | Documents exactly as published or produced by a public body: meeting caption transcripts, agendas, annotated agendas, staff reports, budgets, audits, financial statements, records obtained by public-records request | As authoritative as the source itself. Never edited. |
 | **L1 — mechanical text** | Text extracted from an L0 document by a recorded tool and command | Reproducible: running the recorded command on the L0 file yields the L1 file byte for byte. |
 | **L2 — structured extractions** | Machine-readable data parsed from L0/L1, e.g. motion-level votes from annotated agendas | Only as good as its parser; each L2 dataset ships with its validator and tests. Each is built by a tool in `tools/l2/` from a recipe in `tools/l2/recipes/` naming its L0 inputs; `derived_from` lists every input with its sha256, and `<tool> <recipe> --check` rebuilds it byte for byte. |
-| **L3 — speaker attribution** | Who is speaking in each segment of a caption transcript | **Not authoritative.** See the notice below. None yet. |
+| **L3 — transcript structure and speaker attribution** | Where each agenda item begins and ends in a caption transcript, and who is speaking in each segment | **Not authoritative.** See the notices below. |
 
 ### T0 — published third-party documents
 
@@ -124,6 +124,13 @@ the annotated agenda and the adopted minutes.
 > Speaker attribution in this layer is inferred, not authoritative. It was produced by software
 > and volunteers, not by the City. Verify any attribution against the meeting video before
 > relying on it.
+
+**L3 transcript structure is not authoritative.** Every structure file carries this notice:
+
+> Item boundaries in this layer are inferred, not authoritative. They were read from the
+> transcript by software and volunteers, not by the City. The annotated agenda is the official
+> record of what the Council took up and decided; verify a boundary against the meeting video
+> before relying on it.
 
 ---
 
@@ -512,6 +519,33 @@ text can still reproduce it.
   timestamp or a transcript cue. A segment confirmed against video is upgraded to `verified`
   for everyone.
 
+**L3 transcript structure** (`doc_type` `council_captions_structure`, in `L3/council-captions/`,
+id `<transcript>-structure`):
+
+- One JSON file per caption transcript, pinned like attribution: `transcript_id` and `l1_sha256`
+  name the L1 text it divides, and a regenerated text means re-anchoring.
+- The file divides the whole transcript into contiguous segments in order, none overlapping.
+  Each segment records:
+  - its span: `start` and `end` (elapsed time, `HH:MM:SS`) in a timestamped transcript, or
+    `start_line` and `end_line` (line numbers in the L1 text, from 1) in one without timestamps;
+  - `meeting`: the date and which meeting of a joint transcript it belongs to (`regular`,
+    `special`, `jpfa`, `sabra`, `committee`);
+  - `kind`: `opening`, `ceremonial`, `consent` (the consent calendar), `item`,
+    `public_comment_nonagenda`, `council_comments`, `recess`, `other_procedural`, `closing`;
+  - `item`: the item number as printed on the agenda or as read at the meeting (items heard
+    together as `18/19/20`), or `null`;
+  - `public_comment`: the spans within the segment when the public spoke on it, or `null`;
+  - `evidence_start`: words from the text where the segment begins, as transcribed, so anyone can
+    find the boundary (an ellipsis marks words left out);
+  - `level`: `inferred`, `cued` or `verified`, as for attribution; `verified` requires
+    `video_timestamp`, `verified_by` and `verified_on`.
+- Structure only. No topic, subject, title, summary, outcome or note: what an item was about and
+  what was decided are in the annotated agenda, and classifying items is analysis.
+- `tools/validate.py` checks each file against its L1 text (`tools/l3_structure.py`): the pin,
+  the vocabulary, the order of segments, that every span lies within the text and each
+  public-comment span within its segment, and that each `evidence_start` is found in the text at
+  its segment.
+
 ### The daily intake job
 
 One automated writer commits to `main` without a person's word for each change: the daily intake
@@ -545,7 +579,7 @@ signed "Daily intake job" and link the run that made them.
 
 ### Licensing
 
-Public records are public. The manifest, L1 text, L2 data, and L3 attribution in this
+Public records are public. The manifest, L1 text, L2 data, and L3 structure and attribution in this
 repository are dedicated to the public domain under
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). No rights are claimed in the
 underlying public documents.

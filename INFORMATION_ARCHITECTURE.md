@@ -64,7 +64,7 @@ Each layer says how far a file is from the original record.
 | **T0** | Originals published by a third party (press, community reports) | Not public records; kept apart from L0 |
 | **L1** | Text extracted from an L0 or T0 file by a recorded command | Reproducible byte for byte from its parent |
 | **L2** | Structured data parsed from L0 or L1 | Only as good as its parser; ships with the parser, a validator and tests, and rebuilds byte for byte with `--check` |
-| **L3** | Speaker attribution for caption transcripts | **Not authoritative**: inferred by software and volunteers, to be verified against the video |
+| **L3** | Item structure and speaker attribution for caption transcripts | **Not authoritative**: inferred by software and volunteers, to be verified against the video |
 
 A derived file (L1–L3) names its parent's id and sha256 in `derived_from`. A finding drawn from a
 derived layer is checked against the layer it came from: L1 against the PDF, L2 against the
@@ -77,7 +77,7 @@ Body ──< Meeting ──< Item
            │           │
            └──< Document >──┘        (a document belongs to a meeting, and optionally to an item)
                   │
-                  └──< Derived document (L1 text, L2 data, L3 attribution)
+                  └──< Derived document (L1 text, L2 data, L3 structure and attribution)
 ```
 
 - **Body**: the public body whose agenda it is: `Berkeley City Council`, a Council committee
@@ -149,8 +149,9 @@ meetings on the same date. The City labels each meeting `Regular`, `Special`,
 - **A caption transcript is a research aid, not the record.** It was produced by a captioner or
   by Zoom, and each carries the City's notice, kept verbatim in `notices`, that the City cannot
   certify it. It has transcription errors, and any speaker labels in it come from the captioning, not from the City.
-- **L3 speaker attribution is not authoritative** at any level short of `verified`, which
-  requires a video timestamp, who checked it, and when.
+- **L3 speaker attribution and item structure are not authoritative** at any level short of
+  `verified`, which requires a video timestamp, who checked it, and when. Where the Council took an
+  item up is in the structure file; what it decided is in the annotated agenda.
 - **The recording is the primary evidence of what was said and who said it.** It is catalogued,
   not archived, until a specific need calls for archiving it.
 

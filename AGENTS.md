@@ -48,6 +48,9 @@ supersedes which, where each kind comes from, and where its bytes are stored.
   `verified_on`; otherwise use `cued` or `inferred`. Name a speaker exactly as the record names
   them (as read by the clerk or chair, or printed in the packet). Add nothing from outside the
   record.
+- **L3 transcript structure:** item boundaries only, never a topic, title, summary or outcome
+  (README, "L3 transcript structure"). `tools/validate.py` must find each segment's
+  `evidence_start` in the text at that segment.
 - **Nothing over 25 MB is ever committed.** Once pushed, it stays in history forever.
 
 ## Procedure
