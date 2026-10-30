@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2025-03-11-special-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "annotated_agenda_text",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-03-11",
+  "meeting_label": "special",
+  "title": "Annotated Agenda — Berkeley City Council special meeting, 2025-03-11",
+  "file": "L1/annotated-agendas/bcc-2025-03-11-special-annotated-agenda-text.txt",
+  "sha256": "b3c736a5b82bfbeb5685854ad3e3df251061b0c7c0a547a3483fffbe5a29f3a0",
+  "bytes": 7536,
+  "derived_from": {
+    "id": "bcc-2025-03-11-special-annotated-agenda",
+    "sha256": "b524b13a22b9e7e2e67613fc4e5a4fd108860afdd8c8e96042f8bc431039d3bf"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}
