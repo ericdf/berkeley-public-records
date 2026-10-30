@@ -1,0 +1,23 @@
+{
+  "id": "bcc-budget-finance-committee-2026-10-22-regular-captions-text",
+  "layer": "L1",
+  "doc_type": "council_captions_text",
+  "body": "Berkeley City Council Budget & Finance Policy Committee",
+  "meeting_date": "2026-10-22",
+  "meeting_label": "regular",
+  "title": "2026-10-22 Budget Committee Captioning Text- Policy Committee",
+  "file": "L1/council-captions/bcc-budget-finance-committee-2026-10-22-regular-captions-text.txt",
+  "sha256": "5b0a9bfd3f6d760cabb2e56c98a92f81fa0a00ed5352e9fce2c6e666caa2c19a",
+  "bytes": 100821,
+  "derived_from": {
+    "id": "bcc-budget-finance-committee-2026-10-22-regular-captions",
+    "sha256": "5b0a9bfd3f6d760cabb2e56c98a92f81fa0a00ed5352e9fce2c6e666caa2c19a"
+  },
+  "extraction": {
+    "tool": "cp",
+    "command": "cp <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-29"
+}
