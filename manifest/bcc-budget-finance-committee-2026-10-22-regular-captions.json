@@ -18,5 +18,17 @@
   "archived": "2026-10-29",
   "wayback_url": null,
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-bcc-budget-finance-committee-2026-10-22-regular-captions",
+        "path": "bcc-budget-finance-committee-2026-10-22-regular-captions.vtt",
+        "uploaded": "2026-10-30",
+        "verified": null,
+        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public, with: python3 tools/ingest_large.py --verify-ia bcc-budget-finance-committee-2026-10-22-regular-captions"
+      }
+    ]
+  }
 }
