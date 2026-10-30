@@ -1,0 +1,23 @@
+{
+  "id": "bcc-2026-04-28-regular-captions",
+  "layer": "L0",
+  "doc_type": "council_captions",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-04-28",
+  "meeting_label": "Regular",
+  "title": "BCC 2026-04-28 Regular Captioning",
+  "document_date": "2026-04-28",
+  "approved_by": "ericdf",
+  "file": "L0/council-captions/bcc-2026-04-28-regular-captions.pdf",
+  "sha256": "a481e7da13733753a0cf40ef8e44910e4cb6291ebfcf2c0cdad97ef20fb97843",
+  "bytes": 1212107,
+  "source_url": null,
+  "source_note": "Caption transcript emailed by the City of Berkeley City Clerk Department (Jasmine Durr, Office Specialist III), received 2026-08-05 in reply to a request of 2026-08-03. The Clerk's cover note: these are the texts from Zoom, not official transcripts.",
+  "retrieved": null,
+  "archived": "2026-10-30",
+  "wayback_url": null,
+  "notices": [
+    "This information provided by Zoom. The City of Berkeley cannot certify the following text since we did not create it."
+  ],
+  "contributed_by": "ericdf"
+}
