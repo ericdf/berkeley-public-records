@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2022-02-22-item-03-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2022-02-22",
+  "meeting_label": "regular",
+  "title": "Expenditure Contract: Berkeley Youth Alternatives for Proposition 64 Grant-Proposed Work and Services",
+  "file": "L1/staff-reports/bcc-2022-02-22-item-03-staff-report-text.txt",
+  "sha256": "1b9e51edd16e162563192391951c39599c6b578fcff708f6f7c85c60e31a1198",
+  "bytes": 6345,
+  "derived_from": {
+    "id": "bcc-2022-02-22-item-03-staff-report",
+    "sha256": "e0e7110df20681d920483d664c4b264b6d6ab26c8924f1316ccaa456f4d5f57e"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}

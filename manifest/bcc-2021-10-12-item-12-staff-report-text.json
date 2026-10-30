@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2021-10-12-item-12-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2021-10-12",
+  "meeting_label": "regular",
+  "title": "Contract No. 32100181 Amendment: Alameda County Healthcare Services Agency",
+  "file": "L1/staff-reports/bcc-2021-10-12-item-12-staff-report-text.txt",
+  "sha256": "dc22238ac6e58a402b999e11601a4f4126411b5f39e3b3d53302dac2ad1c1085",
+  "bytes": 9096,
+  "derived_from": {
+    "id": "bcc-2021-10-12-item-12-staff-report",
+    "sha256": "e7112983d14668f7bd1c2ac4e9a1bb4fd4c55963c16a18d276d0744d36bcbf0f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}

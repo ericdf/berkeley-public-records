@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2021-05-25-item-11-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2021-05-25",
+  "meeting_label": "regular",
+  "title": "Revenue Grant Agreement: Funding Support from State of California Board of State and Community Corrections Proposition 64 Public Health and Safety Funding",
+  "file": "L1/staff-reports/bcc-2021-05-25-item-11-staff-report-text.txt",
+  "sha256": "7749efe871b588ef58f6b4a24f15e0f0d8e970fc91373ad1f2c59e35b21cf848",
+  "bytes": 11314,
+  "derived_from": {
+    "id": "bcc-2021-05-25-item-11-staff-report",
+    "sha256": "76fd3dafc46d67b3cb54daff8b83a037aea15e618f8888d16497e0d2002136ca"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-30"
+}
