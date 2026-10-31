@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-01-27-special-item-01-slides-text",
+  "layer": "L1",
+  "doc_type": "presentation_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-01-27",
+  "meeting_label": "special",
+  "title": "RRV/City Council Referral Process (Part 1)",
+  "file": "L1/staff-reports/bcc-2026-01-27-special-item-01-slides-text.txt",
+  "sha256": "bff9d656ba07a6e264e9817785a8521d91aa8fa83a5ba9becd11f2e0a7534bcc",
+  "bytes": 2593,
+  "derived_from": {
+    "id": "bcc-2026-01-27-special-item-01-slides",
+    "sha256": "70ff39923acca8328f300255035351a1bf71a94be1b37b1f07307eb21374f114"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-31"
+}
