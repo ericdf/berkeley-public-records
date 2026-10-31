@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2026-02-10-special-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2026-02-10",
+  "meeting_label": "special",
+  "title": "2026 City Council Referral Prioritization Results Using Re-Weighted Range Voting (RRV)",
+  "file": "L1/staff-reports/bcc-2026-02-10-special-item-01-staff-report-text.txt",
+  "sha256": "6c72958c0af229bd020c12e0bc0c3de20c6096c7feec183936b348443b9cf559",
+  "bytes": 85050,
+  "derived_from": {
+    "id": "bcc-2026-02-10-special-item-01-staff-report",
+    "sha256": "0c17feae18687535d0f6fb8a29a44fad500f16ecb06e6bb7bdc6f983036a098b"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-31"
+}

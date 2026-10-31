@@ -1,0 +1,761 @@
+                                               Page 1 of 16
+
+
+                                                                                                       01
+                                                                                              Special Meeting Item
+
+
+
+
+Office of the City Manager
+                                                                             ACTION CALENDAR
+                                                                             February 10, 2026
+
+To:              Honorable Mayor and Members of the City Council
+From:            Paul Buddenhagen, City Manager
+Submitted by: Mark Numainville, City Clerk
+Subject:         2026 City Council Referral Prioritization Results Using Re-Weighted Range
+                    Voting (RRV)
+
+RECOMMENDATION
+Review the completed Re-Weighted Range Voting (RRV) rankings for all outstanding
+City Council referrals and adopt a Resolution approving the list of prioritized referrals to
+city staff.
+
+FISCAL IMPACTS OF RECOMMENDATION
+There are no direct fiscal impacts related to the review and approval of the referral list.
+
+CURRENT SITUATION AND ITS EFFECTS
+Through the December 2, 2025 City Council meeting, there were 53 outstanding long-
+term referrals to staff. The list did not include referrals that the City Manager classified
+as short-term referrals or budget referrals.
+
+On January 27, 2026, the Council reviewed the raw scores assigned by Council, reviewed
+the referrals marked for removal, and took action to remove 14 referrals from the list.
+
+After the January 27 meeting, staff applied the RRV formula to the scores for the
+remaining 39 referrals, resulting in a prioritized list. These results are presented to the
+Council as Exhibit A to the resolution in Attachment 1. Adopting the resolution will formally
+set the Council referrals prioritization for 2026.
+
+This year, three referrals tied for the top score. In accordance with the intended function
+of the RRV system, all three referrals were assigned the #1 priority and the algorithm was
+engaged starting with the next highest scored referral. This prevents any lower scored
+referral from jumping over one of the referrals that tied for the top score when the
+algorithm and weighted votes are applied.
+
+These results will guide the City Manager and the Budget & Finance Committee in
+development of Strategic Plan projects and funding allocations needed for the referrals.
+Some flexibility in the order in which the referrals are assigned will need to be exercised
+by the City Manager to ensure that staff in each department has the available capacity to
+
+
+    2180 Milvia Street, Berkeley, CA 94704 ● Tel: (510) 981-7000 ● TDD: (510) 981-6903 ● Fax: (510) 981-7099
+                       E-Mail: manager@berkeleyca.gov Website: http://www.berkeleyca.gov
+                                                    Page 2 of 16
+
+
+2026 City Council Referral Prioritization Results                        ACTION CALENDAR
+Using Re-Weighted Range Voting (RRV)                                      February 10, 2026
+
+
+
+
+start work on the highly rated referrals and that there are adequate funding resources to
+complete the referrals.
+
+BACKGROUND
+In 2016, the City Council adopted a system of Re-weighted Range Voting (RRV) to
+prioritize City Council referrals to staff. The RRV system enables City Council to provide
+direction to staff on which referrals are highest priority and should be completed first.
+
+Reweighted Range Voting is a proportional voting system designed for a blend of fairness
+and consensus, meaning that it ensures some representation for minority views as well.
+It accomplishes this by reducing the influence of Councilmembers in proportion to the
+points they have awarded to the referrals prioritized thus far.
+
+Under RRV, Each Councilmember rates every referral on a scale of zero to five. There
+is no limit to repeat scores (i.e. a Councilmember could give every referral a five). When
+the scores are tallied, the referral with the highest total score becomes the 1st priority.
+Once the first referral is assigned, the scores for the remaining referrals are reweighted
+based on how much influence each Councilmember has had up to that point (based on
+the score they assigned, 0 - 5). If a Councilmember assigns high scores to several
+referrals, they use up the strength of their weighted vote more quickly and exercise
+diminishing influence when the scores are reweighted for subsequent referrals. This
+guarantees equal influence throughout the full list. If a Councilmember did not score a
+referral, the default score was set to zero.
+
+ENVIRONMENTAL SUSTAINABILITY AND CLIMATE IMPACTS
+There are no identifiable environmental effects or opportunities, or climate impacts,
+associated with the subject of this report.
+
+RATIONALE FOR RECOMMENDATION
+This recommendation carries out the direction of the Council to implement a prioritization
+process for City Council referrals to staff.
+
+ALTERNATIVE ACTIONS CONSIDERED
+Council may decide to forgo a prioritization process and continue the referral process with
+no structured tracking or prioritization of referrals.
+
+CONTACT PERSON
+Mark Numainville, City Clerk, (510) 981-6900
+
+Attachments:
+1: Resolution
+      Exhibit A: 2026 RRV Prioritized Referral List
+
+
+
+
+                                                       Page 2
+                                       Page 3 of 16
+
+
+
+
+                              RESOLUTION NO. ##,###-N.S.
+
+APPROVING THE 2026 LIST OF PRIORITIZED CITY COUNCIL REFERRALS USING
+              THE REWEIGHTED RANGE VOTING SYSTEM
+
+WHEREAS, On March 8, 2016 the City Council approved the use of Re-weighted Range
+Voting (RRV) for the prioritization of City Council referrals to staff; and
+
+WHEREAS, the City Council has assigned scores to all the referrals; and
+
+WHEREAS, the Re-Weighted Range Voting formula was applied to the ratings to create
+a weighted list of prioritization.
+
+NOW THEREFORE, BE IT RESOLVED by the Council of the City of Berkeley that the list
+of prioritized referrals contained in Exhibit A, with the removal of certain referrals by
+Council direction, is hereby approved.
+
+BE IT FURTHER RESOLVED that the City Council grants the City Manager the authority
+to assign referrals to staff in a manner that ensures equitable distribution among
+departments and does not exceed the capacity of departmental staff to start work on the
+highly rated referrals even if that results in the referrals being assigned in an order that
+differs from the approved list.
+
+
+Exhibits
+A: List of Prioritized Referrals
+                                                                                             Page 410,
+                                                                                            February    of2026
+                                                                                                            16                                                                                   Attachment 1 - Exhibit A
+                                                                              RRV - City Council Referral Prioritization Results
+
+                                                                                                                                                                                                                 1/(1+
+                                                                                                                                                                                                                 W/5)
+Tracking      Meeting Date Title                                             Recommendation                                                                              Sponsor              Responsible
+                                                                                                                                                                                                                 Rank
+number                                                                                                                                                                                        Department
+DMND0004159    5/7/2024     Budget Referral: Vision Zero Rapid Response on   1. Refer to the City Manager to incorporate the City of Oakland's Neighborhood Bike         Terry Taplin, Mark   Public Works         1
+                            Bicycle Boulevards?DMND0004159                   Route Implementation Guide for all Bicycle Boulevards designated in the City of Berkeley's Humbert
+                                                                             Bicycle Plan, pursuant to the City's Vision Zero Action Plan, Complete Streets Policy, and
+                                                                             other applicable policies and plans; and to prioritize proactive and retroactive
+                                                                             implementation of standards on Bicycle Boulevards in response to recent traffic collisions,
+                                                                             with consideration for quick-build interventions that can be removed, modified or made
+                                                                             permanent to advance Vision Zero Action Plan goals.
+
+DMND0004008    3/8/2022     Referral to Implement State Law AB 43 for        Refer to the City Manager to implement state law AB 43 on High-injury commercial          Rashi Kesarwani,       Public Works         1
+                            Reduced Speed Limits on High-Injury              corridors as identified in our Vision Zero Annual Report, 2020-2021 in order to allow a   Terry Taplin, Rigel
+                            Commercial Corridors?DMND0004008                 reduction in speed limits by 5 miles per hour; - Any other corridors covered by AB 43, as Robinson, Susan
+                                                                             appropriate, in order to implement reduced prima facie speed limits and identify those    Wengraf
+                                                                             corridors for future traffic studies where prima facie limits are presently unsafe.
+                                                                             Upon completion of this referral, we note that a budget allocation would be needed in the
+                                                                             amount of $25,000 to $50,000 for new speed limit signage. Funding will be requested later
+                                                                             (likely for the FY 2023-24 budget) in order to allow time for staff to determine the
+                                                                             applicable streets for additional signage.
+
+
+
+DMND0004191    2/22/2022    Southside Complete Streets - Limiting Cars on    Refer to the City Manager to develop a community process to explore limits on private                            Public Works         1
+                            Telegraph?DMND0004191                            automobiles on Telegraph Avenue and make recommendations. Staff should engage
+                                                                             merchants, property owners, students, visitors and tourists, artists, UC Berkeley, local
+                                                                             schools, faith institutions, relevant government agencies including AC Transit, and other
+                                                                             stakeholders, as well as relevant city commissions, such as the Transportation Commission
+                                                                             and the Commission on Disability.
+                                                                             In the evaluation of various approaches, staff should consider strategies to:
+                                                                             • Maintain access for public transit, emergency vehicles, refuse collection vehicles,
+                                                                             delivery vehicles, and other commercial vehicles that are essential to Telegraph business
+                                                                             operations
+                                                                             • Preserve access for people with disabilities and reduce conflicts between pedestrians
+                                                                             and bicyclists
+                                                                             • Improve the pedestrian environment and meet the needs of merchants and the
+                                                                             commercial district
+
+
+
+
+                                                                                                      1 of 13
+                                                                                             Page 510,
+                                                                                            February    of2026
+                                                                                                            16                                                                                Attachment 1 - Exhibit A
+                                                                              RRV - City Council Referral Prioritization Results
+
+Tracking      Meeting Date Title                                             Recommendation                                                                                 Sponsor        Responsible
+                                                                                                                                                                                                              Rank
+number                                                                                                                                                                                     Department
+DMND0004232   11/18/2025    Recommendations for the Formulation of           Policy Committee Recommendation: to send the item to Council with a Qualified Positive         Terry Taplin   Finance              2
+                            Advanced Fiscal Policies to Institutionalize     Recommendation with the changes as proposed by Councilmember Taplin as follows:
+                            Strategic Bond Issuance, Optimize Municipal
+                            Investment Returns, and Leverage                 1. Structured Bond Issuance Framework
+                            Intergovernmental and Philanthropic Capital      Refer to the City Manager assessment, analysis, and presentation to the Council of a
+                            Funding?DMND0004232                              potential comprehensive fiscal policy every two years that institutionalizes, codifies, and
+                                                                             makes publicly accessible, a regular, predictive schedule for general obligation bond
+                                                                             issuance. This potential policy, in addition to and alongside existing practices, may be
+                                                                             informed by actuarial and capital market analysis of the City's bonding capacity and be
+                                                                             modeled on established frameworks utilized in fiscally disciplined jurisdictions such as San
+                                                                             Francisco, Santa Monica, and others. The goal is to remediate the City's substantial
+                                                                             deferred maintenance liabilities and strategically advance the Capital Improvement
+                                                                             Program (CIP).
+
+                                                                             2. Modernize Investment Policy.
+                                                                             Refer to the City Manager the enactment of a detailed review and performance
+                                                                             benchmarking of the City's current investment policies, ordinances, and resolutions. Based
+                                                                             on this review, the City Manager may consider:
+                                                                             -Amendments to align Berkeley's portfolio management practices with those of peer
+                                                                             jurisdictions in the Bay Area;
+                                                                             -Asset strategies that maintain compliance with CA Government Code §53600 et seq.
+                                                                             while improving yields through enhanced diversification and duration matching;
+
+                                                                             3. Comparative Bond Issuance Analysis and Timeline
+                                                                             Refer the City Manager to conduct a comprehensive analysis of historical general
+                                                                             obligation bond issuance and debt service rates in Berkeley and comparable jurisdictions.
+                                                                             The analysis may consider the following:
+                                                                             -Examine 30 years of municipal bond trends, showing the consistency of low interest rates
+                                                                             during fiscally disciplined cycles;
+                                                                             -Compare Berkeley's historical borrowing costs with those of San Francisco, Santa Monica,
+                                                                             Palo Alto, and other cities;
+                                                                             -Demonstrate the efficacy of maintaining a regular issuance schedule every 6–10 years to
+                                                                             preserve low borrowing rates and steady bond ratings;
+                                                                             -Present a 30-year fiscal projection showing that with prudent debt layering and
+                                                                             consistent retirement of obligations, Berkeley can issue up to $250–$300 million in bonds
+                                                                             in successive tranches while maintaining fiscal health and AAA-quality debt service
+                                                                             coverage ratios, and examine the impact on deferred infrastructure liabilities.
+DMND0004237    12/2/2025    Adoption of the 2025 California Fire Code with   Adopt the second reading of Ordinance No. 7,990–N.S. Further, refer Sections 503.2.1,                         CITY MANAGER'S       3
+                            Local Amendments – Second                        503.2.2, and 503.4.1 and Appendix D, including section D105.2, to the City Manager and                        OFFICE
+                            Reading?DMND0004237                              the Facilities, Infrastructure, Transportation, Environment & Sustainability (FITES) Policy
+                                                                             Committee to develop and recommend revisions for Council consideration by April 2026.
+                                                                             The Mayor will submit an agenda item for a meeting in January 2026 with a referral for
+                                                                             staff to develop Transportation Design Standards.
+
+
+
+
+                                                                                                       2 of 13
+                                                                                            Page 610,
+                                                                                           February    of2026
+                                                                                                           16                                                                                     Attachment 1 - Exhibit A
+                                                                             RRV - City Council Referral Prioritization Results
+
+Tracking      Meeting Date Title                                            Recommendation                                                                               Sponsor               Responsible
+                                                                                                                                                                                                                  Rank
+number                                                                                                                                                                                         Department
+DMND0004124    9/19/2023    Referral to Rezone Gilman Street to Maximize    Refer to the City Manager and Planning Commission to rezone Gilman Street—a major            Rashi Kesarwani,      PLANNING &           4
+                            Revenue Productivity Per Acre?DMND0004124       thoroughfare for entering and exiting the City—from San Pablo Avenue to                      Terry Taplin, Susan   DEVELOPMENT
+                                                                            Interstate 80 to maximize revenue-generating and job-creating uses. Specifically, the        Wengraf, Rigel
+                                                                            rezoning of Gilman Street should consider the following:                                     Robinson
+
+                                                                            Potential for applying the Manufacturing, Research and Development (M-RD) zoning
+                                                                            district currently planned for the Pacific Steel Casting site to a portion
+                                                                            of Gilman Street. The M-RD zoning district seeks to better align with Berkeley's goals and
+                                                                            needs by: allowing research and development, office, laboratory, and light manufacturing
+                                                                            uses currently not permitted by the existing Manufacturing (M) zoning; and removing
+                                                                            protections for existing manufacturing uses and constraints associated with certain
+                                                                            development standards; and/or
+
+                                                                            Consider a new zoning designation for a portion of Gilman Street west of San Pablo
+                                                                            Avenue to I-80 that maximizes revenue productivity per acre via permitted uses and
+                                                                            associated development standards; and
+
+                                                                            Extend West Berkeley Commercial District (C-W) zoning on Gilman Street from Ninth
+                                                                            Street further west for a certain number of blocks and enhance the flexibility of C-W
+                                                                            development standards to increase the likelihood of redevelopment—in coordination with
+                                                                            "Keep Innovation in Berkeley" Council referral (passed on Sept. 13, 2022) that seeks to
+                                                                            allow research and development uses in C zones.1
+
+                                                                            Refer $250,000 to the FY 2024-25 budget process for consulting services to assist with the
+                                                                            planning process and associated environmental review and economic analyses.
+
+
+
+
+DMND0004099    5/2/2023     Adding BMC Chapter 13.107, Helping Achieve      2. Refer the City Manager and Planning Commission if necessary to:                           Jesse Arreguin        PLANNING &           5
+                            Responsible Development with Healthcare and     d. Consider upzoning the C-DMU Downtown Mixed-Use District zoning to allow for an                                  DEVELOPMENT
+                            Apprenticeship Training Standards (HARD HATS)   increased number of taller exceptions (at or above 180 feet in height) and explore other
+                            Ordinance?DMND0004099                           zoning modifications to allow for additional density as a way to offset the cost of these
+                                                                            new labor standards.
+
+
+
+
+                                                                                                     3 of 13
+                                                                                           Page 710,
+                                                                                          February    of2026
+                                                                                                          16                                                                                  Attachment 1 - Exhibit A
+                                                                            RRV - City Council Referral Prioritization Results
+
+Tracking      Meeting Date Title                                           Recommendation                                                                                  Sponsor         Responsible
+                                                                                                                                                                                                              Rank
+number                                                                                                                                                                                     Department
+DMND0004213    6/3/2025     Referral: Oxford for All ?DMND0004213          1. Provide direction to City Manager and staff to implement city-adopted 2017 Bike Plan, Igor Tregub, Cecilia   Public Works         6
+                                                                           the 2021 UC Berkeley Oxford St./Fulton St. Multimodal Mobility and Urban Design Study Lunaparra, Mark
+                                                                           and the 2025 Bike Plan Update recommendations on Oxford Street and Fulton Street from Humbert
+                                                                           Bancroft Way to Hearst Avenue alongside upcoming repaving.
+
+                                                                           2. Beforehand and until such permanent capital improvements are feasible, refer to the
+                                                                           City Manager to design and construct a an interim "quick build" project if deemed feasible,
+                                                                           prudent, and non-disruptive to permanent improvements. Improvements implemented
+                                                                           should, at minimum, include Class IV protected bike lanes and pedestrian safety facilities.
+                                                                           Pedestrian facilities may include daylighting, high-visibility crosswalks, curb extensions,
+                                                                           and other improvements that increase safety for pedestrians on the corridor, informed by
+                                                                           the above-mentioned plans.
+
+                                                                           3. Refer to the City Manager to seek funding in the amount of $400,000 from all available
+                                                                           sources including, but not limited to the Street and Open Space Improvement Fund
+                                                                           (SOSIP), Measure FF (2024), Long Range Development Plan (LRDP) and refer to the June
+                                                                           budget process (FY26 Mid-Biennial Update) to provide the City of Berkeley Public Works
+                                                                           Department with funds to support design, engineering, and construction costs for the
+                                                                           quick build and permanent components of the project.
+
+                                                                           4. Refer to the City Manager and to The City/UC/Student Relations "4x6" Committee to
+                                                                           explore opportunities to leverage existing and establish new financial partnerships with
+                                                                           UC Berkeley on safety projects along Oxford Street and adjacent areas, including the
+                                                                           Oxford and Bancroft volleyball courts project and similar initiatives.
+
+
+
+
+DMND0004238    12/2/2025    Adoption of and Amendments to the California   Refer to the City Manager the items in the Workgroup's letter (including non-combustible                        PLANNING &           7
+                            Wildland-Urban Interface (WUI) Code – Second   trash & recycling bins, wood shake roofs, wire mesh size for Vector Control, and                                DEVELOPMENT
+                            Reading?DMND0004238                            facilitating permitting of metal privacy screens to replace privacy hedges) to then return to
+                                                                           Council with specific proposals for consideration
+
+
+
+
+                                                                                                     4 of 13
+                                                                                              Page 810,
+                                                                                             February    of2026
+                                                                                                             16                                                                                        Attachment 1 - Exhibit A
+                                                                               RRV - City Council Referral Prioritization Results
+
+Tracking      Meeting Date Title                                              Recommendation                                                                                Sponsor                 Responsible
+                                                                                                                                                                                                                       Rank
+number                                                                                                                                                                                              Department
+DMND0004145    1/16/2024    Referral: Neighborhood-Scale Commercial           Refer to the City Manager and Planning Commission to consider and develop policies to       Ben Bartlett, Terry       PLANNING &           8
+                            (Robinson)?DMND0004145                            permit neighborhood-scale retail uses in residential zones to increase economic             Taplin                    DEVELOPMENT
+                                                                              opportunity, vitality, and walkability in Berkeley neighborhoods. Changes may include
+                                                                              zoning alterations or modifications to use permit requirements.
+                                                                              In order to inform any potential policy changes, staff should conduct analysis and outreach
+                                                                              to understand the market demand for neighborhood-scale commercial uses and consider
+                                                                              best practices from other municipalities.
+                                                                              Staff and the Planning Commission should consider conditions and development of
+                                                                              performance standards to avoid detrimental impacts on surrounding residential uses and
+                                                                              neighborhoods, including but not limited to limitations on noise, odors, smoke, waste
+                                                                              generation, operating hours, signage, loading/unloading activity, setbacks, tenant
+                                                                              protections, limitations on selling alcohol for on-site consumption, considerations for ADA
+                                                                              compliance, restricting applicants to businesses with fewer than three locations, and
+                                                                              establishing different permitting requirements depending on square footage, proposed
+                                                                              use, or other factors.
+                                                                              Policy Committee Recommendation: To send the item as revised to the City Council with a
+                                                                              positive recommendation.
+
+
+
+DMND0004236    12/2/2025    Notifying Residents of Upcoming Public Works Referral to the City Manager to develop a proactive communication system to alert the               Brent Blackaby, Igor   Public Works         9
+                            Projects in their Neighborhoods?DMND0004236 community of upcoming infrastructure projects from Public Works, EBMUD, PG&E, and                    Tregub, Rashi
+                                                                         other large housing or commercial development projects.                                             Kesarwani, Terry
+                                                                                                                                                                             Taplin
+DMND0004204    3/11/2025    A Referral to the City Manager to make a          Adopt a referral to the City Manager to study the fiscal impacts and feasibility of a transfer Igor Tregub, Ben       HEALTH, HSG &        10
+                            recommendation for further Council action:        tax exemption for 100% affordable housing projects owned and operated by non-profit            Bartlett, Shoshana     COMMUNITY SVC
+                            Transfer Tax Exemption for 100% Affordable        entities or community land trusts, including but not limited to: the rehabilitation of         O'Keefe
+                            Housing Projects?DMND0004204                      existing projects; acquisition, rehabilitation, and conversion of market-rate housing
+                                                                              complexes into deed-restricted affordable housing; and land donated for the purpose of
+                                                                              constructing deed-restricted affordable housing and make a recommendation for further
+                                                                              Council action.
+                                                                              Policy Committee Recommendation: Forward item to Council with a Qualified Positive
+                                                                              Recommendation that the Council: 1) Clarify that the rehabilitation of the restricted
+                                                                              properties, would be included as part of the 100% affordable [housing projects]. 2) Bolster
+                                                                              the rationale section of the report with greater detail and analysis.
+
+
+
+DMND0004221    9/30/2025    Refer to the City Manager in Collaboration with   Refer to the City Manager in collaboration with the City Attorney's Office to develop    Cecilia Lunaparra,   Public Works                 11
+                            the City Attorney's Office to Develop Proposed    proposed increases to the shared micromobility program fees and return to Council within Brent Blackaby, Mark
+                            Increases to the Shared Micromobility Program     120 days. The proposed amendments should evaluate adjustments to the following fee       Humbert, Igor
+                            Fees?DMND0004221                                  categories: Application fee; Operating fee; Fee per vehicle; Fee per ride.               Tregub
+
+
+
+
+                                                                                                        5 of 13
+                                                                                             Page 910,
+                                                                                            February    of2026
+                                                                                                            16                                                                                   Attachment 1 - Exhibit A
+                                                                              RRV - City Council Referral Prioritization Results
+
+Tracking      Meeting Date Title                                             Recommendation                                                                              Sponsor              Responsible
+                                                                                                                                                                                                                 Rank
+number                                                                                                                                                                                        Department
+DMND0004184    12/3/2024    Affordable Housing for Artists: AB-812           Pursuant to California Government Code Section 65914.8, refer to the City Manager, City Terry Taplin, Sophie     PLANNING &           12
+                            Implementation and Cultural District Statutory   Attorney, and Planning Commission: (1) To study and develop an Ordinance and                 Hahn, Igor Tregub   DEVELOPMENT
+                            Standardization ?DMND0004184                     implementation plan for Assembly Bill 812 (2023) to reserve for artists up to 10 percent of
+                                                                             Below Market Rate units under Berkeley Municipal Code 23.328 (Inclusionary Housing)
+                                                                             within a half-mile of a state-designated cultural district or within any similar locally
+                                                                             designated cultural district, with consideration for consistency with existing Affordable
+                                                                             Housing Preference Police, (2) Consider common standards for locally designated cultural
+                                                                             districts, including but not limited to Overlay Zones, and implementation of cultural
+                                                                             district designation within the boundaries of Area Specific Plans, including but not limited
+                                                                             to the Adeline Corridor and San Pablo Corridor Specific Plans, (3) Pursuant to California
+                                                                             Government Code Section 8758, consider solicitation of state designation for cultural
+                                                                             districts in the City of Berkeley.
+                                                                             Policy Committee Recommendation: To forward the item to Council with a Qualified
+                                                                             Positive Recommendation that the Council: 1. Refer to the City Manager and the Civic Arts
+                                                                             Commission to: a) Consider common standards for locally designated cultural districts,
+                                                                             including but not limited to Overlay Zones, and implementation of cultural district
+                                                                             designation within the boundaries of Area Specific Plans, including but not limited to the
+                                                                             Adeline Corridor and San Pablo Corridor Specific Plans, b) Pursuant to California
+                                                                             Government Code Section 8758, consider solicitation of state designation for cultural
+                                                                             districts in the City of Berkeley. 2. Defer referral of the study and development of an
+                                                                             ordinance and implementation plan until later in the process when there is more
+                                                                             information regarding the applicable standards and definitions.
+
+
+
+
+DMND0004047    9/13/2022    Equitable Safe Streets and Climate Justice       Adopt a REVISED resolution committing the expenditure of City and state/federal              Terry Taplin        Public Works         13
+                            Resolution?DMND0004047                           matching/recurring funds on city-maintained roads, sidewalks, and bike lanes to
+                                                                             accelerate safety improvements in a manner consistent with City, State, and Federal policy
+                                                                             on street safety, equity, accessibility, and climate change; refer to the City Manager fully
+                                                                             integrate Complete Streets design as defined by the NACTO Urban Street Design Guide in
+                                                                             the default engineering standard for city streets; restrict city use of the Manual on
+                                                                             Uniform Traffic Control Devices (MUTCD) to only documented cases that require its use
+                                                                             for compliance with Federal/State regulations; in all other cases, restrict use of the
+                                                                             MUTCD to "engineering judgment."
+
+DMND0004053   10/11/2022    Residential Preferential Parking (RPP) Program   Referral to the City Manager to expand the scope of the Residential Preferential Parking    Rashi Kesarwani,     Public Works         14
+                            Expansion for West Berkeley Neighborhoods        (RPP) program as originally proposed by staff during the May 14, 2019 City Council Public   Terry Taplin
+                            Within Two Blocks of Commercial                  Hearing as a way to allow more residents to opt-in to this program.
+                            Corridors?DMND0004053
+
+
+
+
+                                                                                                      6 of 13
+                                                                                               Page
+                                                                                               February 1010,of2026
+                                                                                                                16                                                                                Attachment 1 - Exhibit A
+                                                                                 RRV - City Council Referral Prioritization Results
+
+Tracking      Meeting Date Title                                                Recommendation                                                                             Sponsor            Responsible
+                                                                                                                                                                                                                  Rank
+number                                                                                                                                                                                        Department
+DMND0004154    3/26/2024    Response to Council Referral: Long Term Care        Refer to the City Manager and the budget process the (1) establishment of an enhanced                         HEALTH, HSG &         15
+                            Facility Oversight?DMND0004154                      Ombudsperson program for oversight of Skilled Nursing Facilities and Residential Care                         COMMUNITY SVC
+                                                                                Facilities for the Elderly, and (2) early implementation of the Centers for Medicare &
+                                                                                Medicaid Services (CMS) proposal for minimum nursing staffing levels ahead of the three-
+                                                                                year period proposed by CMS.
+DMND0004169    7/30/2024    Referral to Develop Curb Management Plan            Refer to the City Manager to fund and develop a Curb Management Plan.                                         Public Works          16
+                            ?DMND0004169                                        Policy Committee Recommendation: To send the item to Council with a positive
+                                                                                recommendation, and that the item be taken up when additional funding for streets and
+                                                                                infrastructure is approved and/or during the next budget process.
+
+DMND0004161    5/14/2024    Staff direction and budget referral for Practical   Refer to City Manager the potential creation of evening/nighttime 20 minute                Mark Humbert, Terry Public Works         17
+                            Interventions to Clear and Keep Using Parking       parking/loading zones along portions of one or both sides of the roadway for the following Taplin, Cecilia
+                            Spaces (PICKUPS)?DMND0004161                        blocks: -Shattuck Avenue between Berkeley Way and Addison Streets; -Durant Avenue          Lunaparra, Sophie
+                                                                                between Dana and Bowditch Streets; -University Avenue between Milvia Street and            Hahn
+                                                                                Shattuck Avenue; -Telegraph Avenue between Blake Street and Bancroft Way; -Other
+                                                                                potential areas as may be recommended by staff.
+                                                                                Refer to the FY 2025-2026 budget process the following preliminary allocations for
+                                                                                implementation and enforcement: -$50,000 for revised signage and curb striping. -
+                                                                                $75,000 for targeted nighttime enforcement operations.
+                                                                                Refer to the City Manager evaluation of the feasibility of increased fines for double
+                                                                                parking/obstructing travel lanes and have staff return to Council with a report on
+                                                                                maximum and recommended potential fine amounts.
+
+
+
+
+                                                                                                         7 of 13
+                                                                                             Page
+                                                                                             February 1110,of2026
+                                                                                                              16                                                                                   Attachment 1 - Exhibit A
+                                                                               RRV - City Council Referral Prioritization Results
+
+Tracking      Meeting Date Title                                              Recommendation                                                                                Sponsor               Responsible
+                                                                                                                                                                                                                   Rank
+number                                                                                                                                                                                            Department
+DMND0004148    2/13/2024    RFP for Development of West Berkeley Service      Refer to the City Manager to issue a Request for Proposal (RFP) or Request for                Jesse Arreguin, Rashi HEALTH, HSG &      18
+                            Center?DMND0004148                                Qualifications (RFQ), once a viable local funding source(s) has been identified, for the      Kesarwani, Sophie     COMMUNITY SVC
+                                                                              development of the city-owned West Berkeley Service Center, (1900 Sixth Street), to           Hahn, Susan
+                                                                              permit site acquisition and construction of a 100-percent affordable housing project with     Wengraf
+                                                                              the following key features:
+                                                                              ? Space on the ground floor of the building for administrative offices, community space
+                                                                              and supportive services as currently provided by the City;
+                                                                              ? Maximizing the number of units under the existing zoning Mixed Use-Residential (MU-
+                                                                              R) in conjunction with state law AB 1763 (2019);
+                                                                              ? A mix of unit sizes, including studios, one-bedroom, and two-bedroom units;
+                                                                              ? Require RFP applicants to include a plan for services provision and integration for the
+                                                                              population(s) they propose to serve;
+                                                                              ? A preference for serving seniors with cognitive disabilities and adults with mental
+                                                                              health conditions while maintaining flexibility to serve other populations based on
+                                                                              availability of funding; and
+                                                                              ? A board and care facility with a minimum of 20 beds including space for staff and
+                                                                              services, unless it is determined that viable funding sources are not available.
+
+                                                                              The City Manager should also consider the feasibility of the following elements in the
+                                                                              program design:
+                                                                              ? Universally designed housing for older adults;
+                                                                              ? Consider available federal, state, regional, local and private funding sources to finance
+                                                                              the construction of a housing project, including with the potential target populations.
+                                                                              The issuance of an RFP should be timed to happen soon after the City has identified local
+                                                                              funding for the development that could potentially be made available via the RFP/RFQ.
+
+
+
+
+DMND0004100    5/23/2023    Audit Status Reports: Fleet Replacement Fund     Refer to the City Manager to establish a policy that the Public Works Department will be                          Public Works          19
+                            Short Millions & Rocky Road: Berkeley Streets At responsible for reviewing, submitting, and approving all departmental requests to Council
+                            Risk and Significantly Underfunded               for adding new vehicles to the fleet to facilitate maximum cost recovery through the
+                            ?DMND0004100                                     vehicle replacement fund, consistency with fleet rightsizing studies, oversight, and timely
+                                                                             electrification of the fleet.
+
+
+
+
+                                                                                                       8 of 13
+                                                                                            Page
+                                                                                            February 1210,of2026
+                                                                                                             16                                                                                   Attachment 1 - Exhibit A
+                                                                              RRV - City Council Referral Prioritization Results
+
+Tracking      Meeting Date Title                                             Recommendation                                                                              Sponsor               Responsible
+                                                                                                                                                                                                                  Rank
+number                                                                                                                                                                                         Department
+DMND0004105    6/6/2023     Referral to City Manager and City Attorney:      1. Refer to the City Manager and City Attorney to review and develop proposed            Jesse Arreguin           CITY MANAGER'S       20
+                            Tenant Habitability Plan and Amendments to       amendments to the Berkeley Municipal Code to require a Tenant Habitability Plan for                               OFFICE
+                            Relocation Ordinance?DMND0004105                 major construction or renovation at tenant occupied properties. Proposed language
+                                                                             modeled after the City of Los Angeles' Tenant Habitability Plan requirements is attached
+                                                                             for consideration. The City Manager should also return with information on the costs and
+                                                                             staffing needs for implementation for future budget discussions. The committee further
+                                                                             recommends that the City Manager establish an interdepartmental working group,
+                                                                             including staff from Planning, HHCS, and the Rent Board.
+                                                                             2. Refer to the City Manager and City Attorney recommendations from the 4x4 City
+                                                                             Council/Rent Board Joint Committee on Housing for amendments to the City's Relocation
+                                                                             Ordinance, BMC Chapter 13.84 to strengthen and improve enforcement of the ordinance.
+
+
+
+DMND0004216    6/26/2025    Refer to the City Manager the development of     Refer to the City Manager the development of objective design standards for R-1, R-2, R-                          PLANNING &           21
+                            objective design standards for R-1, R-2, R-2A,   2A, and MU-R                                                                                                      DEVELOPMENT
+                            and MU-R?DMND0004216                             https://berkeleyca.gov/city-council-special-meeting-eagenda-june-26-2025
+
+DMND0002584    5/16/2017    Prioritizing Pedestrians at                      Refer to the City Manager and the Transportation Commission the development of               Lori Droste, Susan   Public Works         22
+                            Intersections?DMND0002584                        policies to improve the pedestrian crossing experience and reduce pedestrian wait times Wengraf, Ben
+                                                                             at intersections with "beg buttons," potentially by activating pedestrian crossing signaling Bartlett
+                                                                             with every cycle (as opposed to the current situation, which only activates crossing signals
+                                                                             when a button is pushed). Consider the development of a pedestrian-driven intersection
+                                                                             improvement process to address signaling and timing inadequacies.
+
+
+
+DMND0004163    5/21/2024    Speed Bump Installation on Russell St at King    Refer to the City Manager to analyze the potential for the installation of a speed bump on Ben Bartlett, Mark     Public Works         23
+                            Street (South Berkeley)?DMND0004163              Russell St. at King St. (South Berkeley), to improve the public space to increase safety for Humbert, Jesse
+                                                                             pedestrians, cyclists, and people living with disabilities, while also meeting the needs of  Arreguin
+                                                                             public transit and emergency vehicles. The analysis should prioritize speed bump
+                                                                             installation that reduces injuries and accidents in the street and creates many benefits for
+                                                                             our community. It should also consider other items listed by members of the community.
+
+
+
+
+                                                                                                      9 of 13
+                                                                                      Page
+                                                                                      February 1310,of2026
+                                                                                                       16                                                                                       Attachment 1 - Exhibit A
+                                                                        RRV - City Council Referral Prioritization Results
+
+Tracking      Meeting Date Title                                       Recommendation                                                                                  Sponsor               Responsible
+                                                                                                                                                                                                                Rank
+number                                                                                                                                                                                       Department
+DMND0004048    9/13/2022    Efficiency Unit Ordinance ?DMND0004048     Refer to the City Manager and Planning Commission to study and, if recommended,                 Terry Taplin, Rigel   PLANNING &           24
+                                                                       propose standards for Efficiency Units pursuant to California Housing and Safety Code           Robinson              DEVELOPMENT
+                                                                       Section 17958.1. Consider appropriate standards for unit size and facilities including
+                                                                       bathrooms as well as for shared indoor and outdoor spaces and facilities within buildings
+                                                                       with such units. Shared space requirements may include requirements for "full kitchen"
+                                                                       facilities, dining and/or meeting rooms, indoor lounge/study areas, outdoor/roof space,
+                                                                       bike/scooter and stroller parking, gym/workout/play spaces, storage, and other shared
+                                                                       and accessible facilities to support healthy and social lives, and accommodate important
+                                                                       activities and uses that are externalized from Efficiency Units. Consider zones where
+                                                                       Efficiency Units may be appropriate, affordability requirements, phasing, and any other
+                                                                       standards and zoning related to such units. Based on study and consideration of financial
+                                                                       feasibility, develop recommendations and/or an ordinance to amend the Berkeley
+                                                                       Municipal Code modeled after standards implemented in the City of Davis, the City of
+                                                                       Santa Barbara and other cities.
+
+
+
+DMND0004218    7/29/2025    Berkeley Green New Deal: Workforce         Refer to the City Manager a feasibility analysis and request for recommendations for          Terry Taplin, Cecilia CITY MANAGER'S         25
+                            Development?DMND0004218                    possible models to either establish a green workforce development board within the City Lunaparra, Igor             OFFICE
+                                                                       of Berkeley or strengthen the alignment between City of Berkeley and community partner Tregub, Ben Bartlett
+                                                                       programs and the Alameda County Workforce development board to create pathways to
+                                                                       gainful employment in green industries and accelerate the transition to a fossil-free local
+                                                                       economy.
+                                                                       Policy Committee Recommendation: Send the item to the City Council with a qualified
+                                                                       positive recommendation that Council adopt the item and that the item be revised to
+                                                                       include a referral to the budget process, clarify and make explicit that the full-time
+                                                                       employee ("FTE") is either an in-house City of Berkeley employee or is a privately funded
+                                                                       employee not on the City's payroll, and include a privately funded alternative to a full-time
+                                                                       City employee when creating the budget referral.
+
+
+
+DMND0004239    12/2/2025    Companion Report: Affordable Housing for   Recommendation #2: Integrate policies to incentivize affordable housing and affordable                                HEALTH, HSG &        26
+                            Artists Report (Rec #2)?DMND0004239        commercial space for artists in the San Pablo Specific Plan and Corridors Zoning Update.                              COMMUNITY SVC
+                                                                       Revised to be a citywide referral to develop an incentive program.
+
+DMND0004072    2/14/2023    Referral: Southside Impact Fee Nexus       1. Refer to the City Manager to establish a development impact fee for projects within the      Rigel Robinson, Ben   Public Works         27
+                            Study?DMND0004072                          Southside Plan boundary for the purpose of funding Southside public realm                       Bartlett, Kate
+                                                                       improvements. Staff should complete all necessary actions, including preparation of a           Harrison, Mark
+                                                                       Nexus Study pursuant to the Mitigation Fee Act.                                                 Humbert
+                                                                       2. Refer $250,000 to the FY 2023 budget process for a consultant to be engaged over a
+                                                                       two-year process, starting in 2024, to assist with the vision, capital list, nexus study, fee
+                                                                       schedule, and other requirements.
+
+
+
+
+                                                                                                10 of 13
+                                                                                            Page
+                                                                                            February 1410,of2026
+                                                                                                             16                                                                                    Attachment 1 - Exhibit A
+                                                                              RRV - City Council Referral Prioritization Results
+
+Tracking      Meeting Date Title                                             Recommendation                                                                               Sponsor              Responsible
+                                                                                                                                                                                                                   Rank
+number                                                                                                                                                                                         Department
+DMND0004057   10/11/2022    Referral to the Transportation and Infrastructure Referral to the Transportation and Infrastructure Commission and City Manager to Kate Harrison                   Public Works          28
+                            Commission and City Manager to Consider and consider and make recommendations regarding the policy of deploying Rectangular Rapid
+                            Make Recommendations Regarding the Policy of Flashing Beacon (RRFB) and other treatments at dangerous or high-collision pedestrian
+                            Deploying Rectangular Rapid Flashing Beacons      and bicycle intersections.
+                            and Other Treatments at Dangerous or High-
+                            Collision Pedestrian and Bicycle
+                            Intersections?DMND0004057
+
+DMND0004078    3/21/2023    Referral: On-Street Secure Bike                  Refer to the City Manager to develop and return to Council with a plan to create on-street Rigel Robinson,        Public Works          29
+                            Storage?DMND0004078                              secure bike parking in multi-family residential and commercial districts across the City in  Sophie Hahn, Kate
+                                                                             parking spots previously reserved for car storage. Take associated actions, including:       Harrison, Terry
+                                                                             1. Determining recommended locations for installation that take into consideration factors Taplin
+                                                                             such as equity priority neighborhoods; transit connections; bicycle network connections;
+                                                                             areas with high percentages of tenants; access to destinations such as schools, community
+                                                                             centers, employment centers, and businesses; and public input.
+                                                                             2. Developing and issuing a Request for Proposal for an operator to install and maintain on-
+                                                                             street bike lockers, including lockers that can accommodate bikes of varying shapes and
+                                                                             sizes.
+                                                                             3. Pursuing available grant opportunities to fund initial costs and ongoing maintenance.
+
+
+
+
+DMND0003909   11/17/2020    Navigable Cities Framework for Ensuring Access 1. Refer to the City Manager to incorporate relevant elements of the Navigable Cities                               Public Works          30
+                            and Freedom-of-Movement for People with        Framework for Ensuring Access and Freedom-of-Movement for People with Disabilities in
+                            Disabilities in Berkeley ?DMND0003909          Berkeley, submitted to the City Council by the Commission on Disability, into the Berkeley
+                                                                           Pedestrian Master Plan currently being updated, and any other planning processes for
+                                                                           which the report would provide relevant information.
+                                                                           2. Refer to the Public Works and Parks and Waterfront Commissions to return to Council
+                                                                           reports on ways that elements of the Navigable Cities Framework can be incorporated into
+                                                                           the work, projects, contracts, and policies of the Public Works and the Parks, Recreation &
+                                                                           Waterfront Departments.
+
+DMND0004054   10/11/2022    Regulation of Autonomous Vehicles                Refer to the City Attorney the assessment of the legal abilities and opportunities for the   Terry Taplin, Kate   City Attorney         31
+                            ?DMND0004054                                     City Council to regulate the operation, sale, and testing of autonomous vehicles (AVs)       Harrison, Rigel
+                                                                             within the City of Berkeley and report to the Facilities, Infrastructure, Transportation,    Robinson
+                                                                             Environment and Sustainability Committee (FITES) on all findings. Policy Committee
+                                                                             Recommendation: To approve the item with a positive recommendation.
+
+DMND0004203    3/25/2025    Inclusionary Housing Ordinance In-Lieu Fee;      Conduct an economic feasibility study within three years of Middle Housing zoning                                 HEALTH, HSG &         32
+                            Amending Berkeley Municipal Code Chapter         amendments and in lieu fees.                                                                                      COMMUNITY SVC
+                            23.328?DMND0004203
+
+
+
+
+                                                                                                      11 of 13
+                                                                                             Page
+                                                                                             February 1510,of2026
+                                                                                                              16                                                                                    Attachment 1 - Exhibit A
+                                                                               RRV - City Council Referral Prioritization Results
+
+Tracking      Meeting Date Title                                             Recommendation                                                                                 Sponsor             Responsible
+                                                                                                                                                                                                                    Rank
+number                                                                                                                                                                                          Department
+DMND0003994   12/14/2021    Consideration of Expansion of Paid Parking to  1. Refer to the City Manager and the Transportation Commission to consider the                   Sophie Hahn, Kate   Public Works          33
+                            Support the Parking Meter Fund and Improved extension of paid metered parking to include all days of the week, paralleling the calendar         Harrison, Terry
+                            Pedestrian and Bicycle Facilities ?DMND0003994 for off-street parking garages.                                                                  Taplin, Rigel
+                                                                           2. Consider a pilot, phasing-in, and/or exempting certain areas, and conduct broad               Robinson
+                                                                           outreach to merchants, faith-based and other institutions and organizations,
+                                                                           neighborhood groups, and others potentially supported or impacted by change.
+                                                                           3. Consider allocation of potential additional revenues to help offset losses to the Parking
+                                                                           Meter Fund incurred during COVID. Once the Fund has recovered, consider allocations to
+                                                                           support pedestrian and bicycle facilities to help achieve Berkeley's Climate Action and
+                                                                           Vision Zero goals on an accelerated basis.
+
+
+
+DMND0004197    9/30/2024    Adopt Berkeley Municipal Code Chapter 13.89: Adopt Berkeley Municipal Code Chapter 13.89: The Community/Tenant Opportunity to                                       CITY MANAGER'S        34
+                            Community/Tenant Opportunity to Purchase Act Purchase Act (COPA/TOPA).                                                                                              OFFICE
+                            ?DMND0004197                                 Refer to the City Manager to study and return to Council with recommendations for a
+                                                                         program based on San Francisco's COPA and to study additional concepts including but
+                                                                         not limited to:
+
+                                                                             • A potential requirement to offer to "go coop" within a certain number of years of
+                                                                             purchase by a qualified non-profit.
+                                                                             • To consider an appropriate threshold where COPA would apply, taking into
+                                                                             consideration operational and fiscal realities.
+                                                                             • Report on administration costs and sources of funds to support Small Sites projects.
+                                                                             • Consider potential to provide notice and "right of first refusal" for tenants or groups of
+                                                                             tenants to match the best "market" offer.
+                                                                             • Study models other jurisdictions have in place to achieve these tenant acquisition
+                                                                             goals.
+                                                                             • Refer $100,000 to budget process to support the study.
+
+DMND0004222    9/30/2025    Refer the item to the City Attorney with        Refer the item to the City Attorney with direction to prepare a memorandum to City staff                            City Attorney         35
+                            direction to prepare a memorandum to City staff and the City Council addressing the applicable legal doctrines related to due process,
+                            and the City Council addressing the applicable  pending investigations, and other related matters. (Regarding PAB-ODPA-CAO-CMO)
+                            legal doctrines related to due process, pending
+                            investigations, and other related matters.
+                            (Regarding PAB-ODPA-CAO-
+                            CMO)?DMND0004222
+
+
+
+
+                                                                                                      12 of 13
+                                                                                      Page
+                                                                                      February 1610,of2026
+                                                                                                       16                                                                                     Attachment 1 - Exhibit A
+                                                                        RRV - City Council Referral Prioritization Results
+
+Tracking      Meeting Date Title                                       Recommendation                                                                                Sponsor               Responsible
+                                                                                                                                                                                                              Rank
+number                                                                                                                                                                                     Department
+DMND0004059    11/3/2022    Budget Referral: No Right on Red           Refer to the City Manager to develop policy recommendations for council consideration          Terry Taplin, Kate   Public Works         35
+                            Signs?DMND0004059                          that would expand limitations on "right turns on red" for the purposes of pedestrian           Harrison, Sophie
+                                                                       safety. Staff should consider prohibiting right turns on red in commercial districts, on high- Hahn
+                                                                       injury corridors, and/or citywide. Staff should engage the Transportation & Infrastructure
+                                                                       Commission for feedback and review of possible recommendations. Staff is also requested
+                                                                       to coordinate with AC Transit regarding impacts on transit services. Refer the necessary
+                                                                       appropriations of $135,000 to the 2022 November Annual Appropriations Ordinance.
+
+
+
+DMND0004240    12/2/2025    Companion Report: Affordable Housing for   Place an affordable housing bond measure on the 2028 ballot.                                                        CITY MANAGER'S       36
+                            Artists Report (Rec #3)?DMND0004240                                                                                                                            OFFICE
+
+
+
+
+                                                                                                13 of 13
+
