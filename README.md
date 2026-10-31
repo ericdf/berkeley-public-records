@@ -155,6 +155,7 @@ trusting whoever added a file.
 | `derived_from` | L1–L3: the `id` and `sha256` of the document it was derived from |
 | `extraction` | L1: the tool, version, and command that produced it |
 | `blob` | External copies: for files not stored in git, and the Internet Archive copy of L0 with no public source (below) |
+| `source_updates` | L0 snapshot of a dataset that changes at its source: how it changes, in words (below) |
 | `approved_by` | L0 with no `source_url`: the GitHub username of the contributor who approved its publication to the Internet Archive |
 | `withdrawn` | For an entry whose bytes are not held: `date` and `reason` (above) |
 | `notices` | Disclaimers printed on or attached to the document, verbatim |
@@ -487,6 +488,18 @@ one, `revised_by` (a list) on the earlier one, `version_label` for the body's wo
 version if it gives one ("Revised"), and `version_note` for anything else a reader needs. The
 validator checks that the two sides agree. A body that replaces a file at a new address without
 changing it is not a revision: the new address is recorded in the entry's `published_at`.
+
+**Datasets that change at their source.** Some public bodies publish a dataset at one address
+and change it there: an open-data table regenerated on every export, a log that keeps only a
+rolling window, a register that grows daily. What the archive holds is a snapshot, and the
+address will soon serve a different file. The entry says so in `source_updates`, in words
+("appended daily; exports regenerated on download", "rolling 30-day window"), and its
+`document_date` and `retrieved` give the snapshot's date. The fingerprint still identifies the
+archived file exactly; only the comparison with the address is dropped: `tools/check_sources.py`
+and the daily archive job do not compare such an entry with its `source_url`, and report it
+instead of failing. A later download is a new document with its own `id`, not a revision, since
+nothing was corrected. Where the snapshot's coverage matters (the last date it contains, or a
+cached export that lags the live data), `source_note` records it.
 
 **Manifest metadata may be corrected; files may not.** A wrong title, date,
 source URL or note in a manifest entry is fixed in the entry. The `file`, `sha256` and `bytes`

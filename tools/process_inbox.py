@@ -74,6 +74,9 @@ FIELDS = {
     "version_note": "optional: a short note about this version, e.g. why an earlier one was not located",
     "staged_url": ("files over 25 MB and agenda packets: a Google Drive link to the same file, shared as "
                    "\"anyone with the link can view\" (README, \"Large files\")"),
+    "source_updates": ("optional, L0: for a dataset the public body regenerates, appends to or keeps "
+                       "as a rolling window, how it changes, e.g. \"rolling 30-day window\"; the archived "
+                       "file is then a dated snapshot (README, \"Datasets that change at their source\")"),
     "approved_by": ("L0 with no source_url: your GitHub username, approving its publication to the Internet "
                     "Archive (README, \"Records with no public source\")"),
 }
@@ -447,7 +450,7 @@ def build_entry(meta, place, digest, size, contributor, today, ext):
         e["meeting_date"] = meta["meeting_date"]
     if meta.get("item"):
         e["item"] = str(meta["item"]).strip()
-    for f in ("revision_of", "version_label", "version_note", "approved_by"):
+    for f in ("revision_of", "version_label", "version_note", "source_updates", "approved_by"):
         if meta.get(f):
             e[f] = str(meta[f]).strip()
     e.update(file=f"{place['l0']}/{place['id']}.{ext}", sha256=digest, bytes=size,

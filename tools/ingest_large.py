@@ -644,7 +644,7 @@ def preserve_one(root, mid, kind, staging, run=subprocess.run, fetch=None, hosts
         if pi.sha256_file(local) != e["sha256"]:
             raise Problem(f"{mid}: the staged file at {staged['url']} does not match the manifest's sha256; "
                           "nothing uploaded. The contributor should check the link or the entry.")
-        if source_hosts.approved(e.get("source_url"), hosts):
+        if source_hosts.approved(e.get("source_url"), hosts) and not e.get("source_updates"):
             src_dir = tempfile.mkdtemp(dir=work)
             try:
                 src = fetch(e["source_url"], src_dir)

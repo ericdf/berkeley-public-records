@@ -11,6 +11,7 @@
   "bytes": 2502475,
   "source_url": null,
   "source_note": "CSV export (district polygons as WKT) of the Zoning dataset on the City of Berkeley open data portal (data.cityofberkeley.info), downloaded by the maintainer on 2026-10-19; downloaded file name Zoning_20261019.csv.",
+  "source_updates": "Open-data table updated as zoning changes; the portal regenerates the export on each download",
   "retrieved": null,
   "archived": "2026-10-19",
   "wayback_url": null,

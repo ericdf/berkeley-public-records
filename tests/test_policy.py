@@ -85,6 +85,21 @@ class TestCheckSources(Base):
         self.assertEqual(len(warnings), 1)
         self.assertIn("down: could not download", warnings[0])
 
+    def test_dynamic_source_is_noted_not_compared(self):
+        self.add("calls", source_updates="appended daily")
+        fetched = []
+        errors, warnings, checked = cs.check(self.root, ["calls"], sh.load(REPO),
+                                             fetch=lambda url: fetched.append(url) or ("b" * 64, 11))
+        self.assertEqual((errors, checked, fetched), ([], [], []))
+        self.assertIn("the source changes (appended daily)", warnings[0])
+
+    def test_source_updates_rules(self):
+        self.assertEqual(validate.source_updates_errors({"layer": "L0"}), [])
+        self.assertEqual(validate.source_updates_errors({"layer": "L0", "source_updates": "rolling window"}), [])
+        self.assertTrue(validate.source_updates_errors({"layer": "L0", "source_updates": " "}))
+        self.assertTrue(validate.source_updates_errors({"layer": "L0", "source_updates": True}))
+        self.assertTrue(validate.source_updates_errors({"layer": "T0", "source_updates": "daily"}))
+
 
 class TestStagedBlobs(Base):
     def setUp(self):
@@ -245,6 +260,19 @@ class TestPreserve(Base):
             self.assertTrue(any(why in x for x in problems), problems)
             self.assertNotIn("ia", [c[0] for c in self.calls])
             self.assertEqual(il.preserve_pending(self.root), [(mid, "staged")])
+
+    def test_dynamic_source_is_not_compared(self):
+        mid = self.stage(dict(L0_URL, source_updates="regenerated on every export"))
+        self.assertEqual(self.entry(mid)["source_updates"], "regenerated on every export")
+
+        def never(url, dest):
+            raise AssertionError("a dynamic source must not be downloaded for comparison")
+        with contextlib.redirect_stdout(io.StringIO()):
+            files, problems, deferred = il.preserve(self.root, self.staging, run=self.run_cmd(TEXT_PDF),
+                                          fetch=never, today="2026-10-02")
+        self.assertEqual((problems, deferred), ([], []))
+        self.assertEqual(il.preserve_pending(self.root), [])
+        self.assertEqual(self.validate_errors(), [])
 
     def test_unreachable_source_defers(self):
         self.stage(L0_URL)

@@ -115,6 +115,19 @@ def pending_preservation(e):
                (c.get("store") == "internet_archive" and not c.get("verified"))) for c in copies)
 
 
+def source_updates_errors(e):
+    """source_updates marks an L0 snapshot of a dataset that changes at its source (README,
+    "Datasets that change at their source")."""
+    if "source_updates" not in e:
+        return []
+    v = e["source_updates"]
+    if not isinstance(v, str) or not v.strip():
+        return ["source_updates must say, in words, how the source changes"]
+    if e.get("layer") != "L0":
+        return ["source_updates is only for L0"]
+    return []
+
+
 def approval_errors(e):
     """L0 with no public source is published to the Internet Archive on someone's approval
     (README, "Records with no public source"); approved_by names them."""
@@ -162,7 +175,7 @@ def main():
             err(where, "T0 needs publisher (who published it) and relevance (the public decision it bears on)")
         if e["layer"] in ORIGINALS and not e.get("source_url") and not e.get("source_note"):
             err(where, "L0 needs source_url or source_note")
-        for m in approval_errors(e):
+        for m in source_updates_errors(e) + approval_errors(e):
             err(where, m)
         if e["layer"] in ("L1", "L2", "L3"):
             if "derived_from" not in e:

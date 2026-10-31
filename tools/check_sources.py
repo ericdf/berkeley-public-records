@@ -11,7 +11,10 @@ serves: a wrong file, a corrupted one, or an altered one.
 A mismatch is an error. A download that fails (the host is down, or refuses automated requests)
 is only a warning, so an outage elsewhere never blocks a contribution. Skipped: web pages
 (.htm/.html, which change on every request), public-records portal documents (their source_url
-is the request page), and external blobs (the daily archive job checks those).
+is the request page), and external blobs (the daily archive job checks those). An entry with
+`source_updates` is not compared: its source is a dataset the body regenerates or appends to, so
+the archived file is a snapshot and a different file at source_url is expected; it is reported
+as a note (README, "Datasets that change at their source").
 
 Runs in CI on every push to main and every pull request. Standard library only.
 """
@@ -63,6 +66,10 @@ def check(root, ids, hosts, fetch=fetch_sha256):
         url = e.get("source_url")
         if (e.get("layer") != "L0" or not e.get("file") or e.get("cpra")
                 or str(e["file"]).lower().endswith(SKIP_EXT) or not source_hosts.approved(url, hosts)):
+            continue
+        if e.get("source_updates"):
+            warnings.append(f"{i}: not compared with {url}: the source changes ({e['source_updates']}); "
+                            "the archived file is a snapshot")
             continue
         try:
             digest, size = fetch(url)
