@@ -1,0 +1,19 @@
+{
+  "id": "redistricting-2026-10-31-council-districts",
+  "layer": "L0",
+  "doc_type": "redistricting_document",
+  "collection": "redistricting",
+  "publisher": "City of Berkeley — Open Data Portal",
+  "title": "Council Districts",
+  "document_date": "2026-10-31",
+  "file": "L0/sources/redistricting/redistricting-2026-10-31-council-districts.geojson",
+  "sha256": "c9ff798370fb7f9a55862b240ee7e1059532536e7c22b8be63edd5671dc82ace",
+  "bytes": 272749,
+  "source_url": "https://data.cityofberkeley.info/City-Government/Council-Districts/b2uf-vm3c",
+  "source_note": "GeoJSON export of this dataset (Socrata id b2uf-vm3c; attribution City of Berkeley City Clerk; rows last updated 2022-07-06), downloaded by the maintainer on 2026-10-31; downloaded file name CouncilDistricts_20261031.geojson. Eight district features; each row's :created_at and :updated_at are 2022-07-06T18:05:57.976Z. Population fields (ppa_popula) total 124,433 against an ideal_valu of 15,554 per district. document_date is the export date.",
+  "retrieved": "2026-10-31",
+  "archived": "2026-10-31",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
