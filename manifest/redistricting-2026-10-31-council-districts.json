@@ -11,6 +11,7 @@
   "bytes": 272749,
   "source_url": null,
   "source_note": "GeoJSON export of the Council Districts dataset on the City of Berkeley open data portal, https://data.cityofberkeley.info/City-Government/Council-Districts/b2uf-vm3c (Socrata id b2uf-vm3c; attribution City of Berkeley City Clerk; rows last updated 2022-07-06), downloaded by the maintainer on 2026-10-31; downloaded file name CouncilDistricts_20261031.geojson. The portal regenerates exports, so no URL serves these exact bytes. Eight district features; each row's :created_at and :updated_at are 2022-07-06T18:05:57.976Z. Population fields (ppa_popula) total 124,433 against an ideal_valu of 15,554 per district. document_date is the export date.",
+  "source_updates": "Open-data table; the portal regenerates the export on each download",
   "retrieved": null,
   "archived": "2026-10-31",
   "wayback_url": null,

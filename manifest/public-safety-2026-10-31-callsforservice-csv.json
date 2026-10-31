@@ -11,6 +11,7 @@
   "bytes": 136605645,
   "source_url": "https://hub.arcgis.com/api/v3/datasets/3be134af40954e19a3d308779a65f175_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1",
   "source_note": "GeoJSON download of the BPD Transparency Hub dataset 'callsforservice csv' (ArcGIS item 3be134af40954e19a3d308779a65f175, layer 0; https://bpd-transparency-initiative-berkeleypd.hub.arcgis.com/datasets/3be134af40954e19a3d308779a65f175_0), downloaded 2026-10-31. The Hub serves a cached export: 351,184 calls dated 2021-01-01 to 2026-09-25, while the live feature service held 357,155 calls through 2026-10-30 on the same day. Every feature's geometry is null; locations are block addresses. document_date is the download date.",
+  "source_updates": "Appended as calls are logged; the Hub's GeoJSON download is a cached export that can lag the live feature service",
   "retrieved": "2026-10-31",
   "archived": "2026-10-31",
   "wayback_url": null,

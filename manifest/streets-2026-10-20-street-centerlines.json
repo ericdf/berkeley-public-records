@@ -11,6 +11,7 @@
   "bytes": 3508138,
   "source_url": null,
   "source_note": "GeoJSON export of the Street Centerlines dataset on the Alameda County open data portal (data.acgov.org), downloaded by the maintainer on 2026-10-20; downloaded file name Street_Centerlines_-1565808225877531882.geojson. All 3,330 segments in the export are in Berkeley (CITYL and CITYR). Segment CREATE_DAT and REV_DATE values are 2015-09-26; document_date is the export date.",
+  "source_updates": "Open-data table; the County portal regenerates the export on each download",
   "retrieved": null,
   "archived": "2026-10-20",
   "wayback_url": null,
