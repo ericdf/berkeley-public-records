@@ -1,0 +1,30 @@
+{
+  "id": "public-safety-2026-10-31-callsforservice-csv",
+  "layer": "L0",
+  "doc_type": "public_safety_document",
+  "collection": "public_safety",
+  "publisher": "City of Berkeley — Police Department (BPD Transparency Hub)",
+  "title": "callsforservice_csv",
+  "document_date": "2026-10-31",
+  "file": null,
+  "sha256": "1fec0c705b4c5ed1db2e4d30fd98255aa90d04b427be44cba90ed2402a4b9fb0",
+  "bytes": 136605645,
+  "source_url": "https://hub.arcgis.com/api/v3/datasets/3be134af40954e19a3d308779a65f175_0/downloads/data?format=geojson&spatialRefId=4326&where=1%3D1",
+  "source_note": "GeoJSON download of the BPD Transparency Hub dataset 'callsforservice csv' (ArcGIS item 3be134af40954e19a3d308779a65f175, layer 0; https://bpd-transparency-initiative-berkeleypd.hub.arcgis.com/datasets/3be134af40954e19a3d308779a65f175_0), downloaded 2026-10-31. The Hub serves a cached export: 351,184 calls dated 2021-01-01 to 2026-09-25, while the live feature service held 357,155 calls through 2026-10-30 on the same day. Every feature's geometry is null; locations are block addresses. document_date is the download date.",
+  "retrieved": "2026-10-31",
+  "archived": "2026-10-31",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "staged",
+        "url": "https://drive.google.com/file/d/1ExSNkbt4cfHrgFU_kOfSaD9b8y4FZaIG/view?usp=sharing",
+        "filename": "public-safety-2026-10-31-callsforservice-csv.geojson",
+        "staged_by": "ericdf",
+        "staged_on": "2026-10-31"
+      }
+    ]
+  }
+}
