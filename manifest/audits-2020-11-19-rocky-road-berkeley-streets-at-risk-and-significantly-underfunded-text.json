@@ -1,0 +1,21 @@
+{
+  "id": "audits-2020-11-19-rocky-road-berkeley-streets-at-risk-and-significantly-underfunded-text",
+  "layer": "L1",
+  "doc_type": "audit_report_text",
+  "collection": "audits",
+  "title": "Rocky Road: Berkeley Streets at Risk and Significantly Underfunded",
+  "file": "L1/sources/audits/audits-2020-11-19-rocky-road-berkeley-streets-at-risk-and-significantly-underfunded-text.txt",
+  "sha256": "f1ccf0432461f3bd64c313b12be5a41d9bbaf9f714aa9968468e67739b3c83a2",
+  "bytes": 80364,
+  "derived_from": {
+    "id": "audits-2020-11-19-rocky-road-berkeley-streets-at-risk-and-significantly-underfunded",
+    "sha256": "b13e2428b38880b2c3cffd9766ef74e2441fcf0d61e2556f2ac68523bf6981b4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-10-31"
+}
