@@ -20,11 +20,18 @@
   "blob": {
     "copies": [
       {
-        "store": "staged",
-        "url": "https://drive.google.com/file/d/1ExSNkbt4cfHrgFU_kOfSaD9b8y4FZaIG/view?usp=sharing",
-        "filename": "public-safety-2026-10-31-callsforservice-csv.geojson",
-        "staged_by": "ericdf",
-        "staged_on": "2026-10-31"
+        "store": "internet_archive",
+        "item": "berkeley-public-records-public-safety-2026-10-31-callsforservice-csv",
+        "path": "public-safety-2026-10-31-callsforservice-csv.geojson",
+        "uploaded": "2026-11-01",
+        "verified": null,
+        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public, with: python3 tools/ingest_large.py --verify-ia public-safety-2026-10-31-callsforservice-csv"
+      },
+      {
+        "store": "google_drive",
+        "location": "berkeley-public-records-blobs/public-safety-2026-10-31-callsforservice-csv.geojson",
+        "uploaded": "2026-11-01",
+        "verified": "2026-11-01"
       }
     ]
   }

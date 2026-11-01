@@ -17,5 +17,17 @@
   "wayback_url": null,
   "notices": [],
   "contributed_by": "ericdf",
-  "approved_by": "ericdf"
+  "approved_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-redistricting-2026-10-31-council-districts",
+        "path": "redistricting-2026-10-31-council-districts.geojson",
+        "uploaded": "2026-11-01",
+        "verified": null,
+        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public, with: python3 tools/ingest_large.py --verify-ia redistricting-2026-10-31-council-districts"
+      }
+    ]
+  }
 }
