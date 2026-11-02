@@ -24,8 +24,7 @@
         "item": "berkeley-public-records-public-safety-2026-10-31-callsforservice-csv",
         "path": "public-safety-2026-10-31-callsforservice-csv.geojson",
         "uploaded": "2026-11-01",
-        "verified": null,
-        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public, with: python3 tools/ingest_large.py --verify-ia public-safety-2026-10-31-callsforservice-csv"
+        "verified": "2026-11-02"
       },
       {
         "store": "google_drive",
