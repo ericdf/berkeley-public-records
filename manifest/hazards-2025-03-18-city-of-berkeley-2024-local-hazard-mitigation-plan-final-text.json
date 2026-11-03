@@ -1,0 +1,21 @@
+{
+  "id": "hazards-2025-03-18-city-of-berkeley-2024-local-hazard-mitigation-plan-final-text",
+  "layer": "L1",
+  "doc_type": "hazards_document_text",
+  "collection": "hazards",
+  "title": "City of Berkeley 2024 Local Hazard Mitigation Plan, Final",
+  "file": "L1/sources/hazards/hazards-2025-03-18-city-of-berkeley-2024-local-hazard-mitigation-plan-final-text.txt",
+  "sha256": "595d151d6eaad521d439bd239a64c4d1cfb6004f41e99d6807ff0f485f3f1e71",
+  "bytes": 1310261,
+  "derived_from": {
+    "id": "hazards-2025-03-18-city-of-berkeley-2024-local-hazard-mitigation-plan-final",
+    "sha256": "4c6905c2d5569f563cf61bd19e766c1874fa6afda758834135e94e5ee49335a3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-03"
+}

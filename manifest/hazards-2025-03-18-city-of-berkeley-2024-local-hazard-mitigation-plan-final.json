@@ -1,0 +1,29 @@
+{
+  "id": "hazards-2025-03-18-city-of-berkeley-2024-local-hazard-mitigation-plan-final",
+  "layer": "L0",
+  "doc_type": "hazards_document",
+  "collection": "hazards",
+  "publisher": "City of Berkeley",
+  "title": "City of Berkeley 2024 Local Hazard Mitigation Plan, Final",
+  "document_date": "2025-03-18",
+  "file": null,
+  "sha256": "4c6905c2d5569f563cf61bd19e766c1874fa6afda758834135e94e5ee49335a3",
+  "bytes": 102280685,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/Final%202024%20LHMP%20SENT%20TO%20FEMA%20NOVEMBER%2027.pdf",
+  "retrieved": "2026-11-03",
+  "archived": "2026-11-03",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "staged",
+        "url": "https://drive.google.com/file/d/1L74CChG3DZRfPLZcxXwCmMLBkGGYgYhY/view?usp=drivesdk",
+        "filename": "hazards-2025-03-18-city-of-berkeley-2024-local-hazard-mitigation-plan-final.pdf",
+        "staged_by": "ericdf",
+        "staged_on": "2026-11-03"
+      }
+    ]
+  }
+}
