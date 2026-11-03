@@ -1,0 +1,21 @@
+{
+  "id": "hazards-2025-04-18-2024-tsunami-warning-after-action-report-community-survey-summary-text",
+  "layer": "L1",
+  "doc_type": "hazards_document_text",
+  "collection": "hazards",
+  "title": "2024 Tsunami Warning: After Action Report & Community Survey Summary",
+  "file": "L1/sources/hazards/hazards-2025-04-18-2024-tsunami-warning-after-action-report-community-survey-summary-text.txt",
+  "sha256": "3de05bd9cc79386ea32fb4ae458f2510c9fc8a19dc54142bd7d4fbfed1fdcd2b",
+  "bytes": 61440,
+  "derived_from": {
+    "id": "hazards-2025-04-18-2024-tsunami-warning-after-action-report-community-survey-summary",
+    "sha256": "f900643331e6e39a01512182f1ecfd038bde86bc30f2f74384cf58d1f0e85e65"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-03"
+}
