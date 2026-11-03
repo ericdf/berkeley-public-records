@@ -1,0 +1,29 @@
+{
+  "id": "transfer-station-2026-08-03-draft-eir",
+  "layer": "L0",
+  "doc_type": "transfer_station_document",
+  "collection": "transfer_station",
+  "publisher": "City of Berkeley (prepared by FirstCarbon Solutions)",
+  "title": "Draft Environmental Impact Report, Solid Waste and Recycling Transfer Station Replacement Project, City of Berkeley, Alameda County, California, State Clearinghouse Number 2023080733",
+  "document_date": "2026-08-03",
+  "file": null,
+  "sha256": "f2c374c54c426e997a81fa58e9751090eb40c348e0d7fd68c13229fc537ccf2b",
+  "bytes": 88918115,
+  "source_url": "https://ceqanet.lci.ca.gov/2023080733/2/Attachment/7vqgEm",
+  "retrieved": "2026-11-03",
+  "archived": "2026-11-03",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "staged",
+        "url": "https://drive.google.com/file/d/1YFblpHXQVC7G3U5tqZbdHP7C9e7VA3K2/view?usp=drivesdk",
+        "filename": "transfer-station-2026-08-03-draft-eir.pdf",
+        "staged_by": "ericdf",
+        "staged_on": "2026-11-03"
+      }
+    ]
+  }
+}

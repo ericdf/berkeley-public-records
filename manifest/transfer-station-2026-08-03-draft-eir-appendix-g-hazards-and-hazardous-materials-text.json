@@ -1,0 +1,21 @@
+{
+  "id": "transfer-station-2026-08-03-draft-eir-appendix-g-hazards-and-hazardous-materials-text",
+  "layer": "L1",
+  "doc_type": "transfer_station_document_text",
+  "collection": "transfer_station",
+  "title": "Solid Waste and Recycling Transfer Station Replacement Project Draft EIR, Appendix G: Hazard and Hazardous Materials Supporting Information",
+  "file": "L1/sources/transfer_station/transfer-station-2026-08-03-draft-eir-appendix-g-hazards-and-hazardous-materials-text.txt",
+  "sha256": "9d5e05536bbca52aaedf5273aea8c9d35493fede102af7ead7e763faeebfac35",
+  "bytes": 12051457,
+  "derived_from": {
+    "id": "transfer-station-2026-08-03-draft-eir-appendix-g-hazards-and-hazardous-materials",
+    "sha256": "ab2c8801392dcc9d404ee540b256fe0ed3b17c022f074170d8441350f6d2746a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-03"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "transfer-station-2026-08-03-draft-eir-appendix-h-hydrology-and-water-quality-text",
+  "layer": "L1",
+  "doc_type": "transfer_station_document_text",
+  "collection": "transfer_station",
+  "title": "Solid Waste and Recycling Transfer Station Replacement Project Draft EIR, Appendix H: Hydrology and Water Quality Supporting Information",
+  "file": "L1/sources/transfer_station/transfer-station-2026-08-03-draft-eir-appendix-h-hydrology-and-water-quality-text.txt",
+  "sha256": "0558172636287038d2b9732fa2773acbc16be3460d4e245536c385ea357b97ed",
+  "bytes": 1013465,
+  "derived_from": {
+    "id": "transfer-station-2026-08-03-draft-eir-appendix-h-hydrology-and-water-quality",
+    "sha256": "9ee00135d33a1655e483de09dbcaa887980b7b497c88691e80560a543f4fa7e3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-03"
+}
