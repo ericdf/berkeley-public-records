@@ -1,0 +1,32 @@
+{
+  "id": "bcc-2019-11-05-ws-item-01-staff-report",
+  "layer": "L0",
+  "doc_type": "staff_report",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "publisher": "City of Berkeley — Office of the City Manager",
+  "title": "Solid Waste and Recycling Transfer Station Feasibility Study Presentation",
+  "meeting_date": "2019-11-05",
+  "meeting_label": "work session",
+  "item": "Worksession Item 01",
+  "file": null,
+  "sha256": "b88a34dec416283872092ae1964dfa98af16d6d8b3218e32adf4c7355c5aaeb9",
+  "bytes": 39671521,
+  "source_url": "https://berkeleyca.gov/sites/default/files/documents/2019-11-05%20WS%20Item%2001%20Solid%20Waste%20and%20Recycling%20Transfer.pdf",
+  "retrieved": "2026-11-03",
+  "archived": "2026-11-03",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "staged",
+        "url": "https://drive.google.com/file/d/1FylGl2n9_Tsrqcs-6MrhUvGFjaF9furw/view?usp=drivesdk",
+        "filename": "bcc-2019-11-05-ws-item-01-staff-report.pdf",
+        "staged_by": "ericdf",
+        "staged_on": "2026-11-03"
+      }
+    ]
+  }
+}
