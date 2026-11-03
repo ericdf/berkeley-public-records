@@ -1,0 +1,21 @@
+{
+  "id": "zoning-2025-03-response-to-comments-document-and-final-environmental-impact-report-text",
+  "layer": "L1",
+  "doc_type": "zoning_document_text",
+  "collection": "zoning",
+  "title": "Response to Comments Document and Final Environmental Impact Report, Gilman Gateway Rezone Project, Berkeley, California, SCH# 2022120549",
+  "file": "L1/sources/zoning/zoning-2025-03-response-to-comments-document-and-final-environmental-impact-report-text.txt",
+  "sha256": "22005b039e9057342b2f25b6705ded7511de12d7c3661517ea8a95377c1e17c1",
+  "bytes": 318112,
+  "derived_from": {
+    "id": "zoning-2025-03-response-to-comments-document-and-final-environmental-impact-report",
+    "sha256": "bfc86e038ae57c1589c6dc8e6f6e7f7098d140f05ad2a93cf950bdde669ae1a4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-03"
+}
