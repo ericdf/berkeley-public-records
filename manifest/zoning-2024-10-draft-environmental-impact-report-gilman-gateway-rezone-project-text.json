@@ -1,0 +1,21 @@
+{
+  "id": "zoning-2024-10-draft-environmental-impact-report-gilman-gateway-rezone-project-text",
+  "layer": "L1",
+  "doc_type": "zoning_document_text",
+  "collection": "zoning",
+  "title": "Draft Environmental Impact Report, Gilman Gateway Rezone Project, Berkeley, California, SCH# 2022120549",
+  "file": "L1/sources/zoning/zoning-2024-10-draft-environmental-impact-report-gilman-gateway-rezone-project-text.txt",
+  "sha256": "519db70c21f0ed74d02f4b2cd74ce5a6a60d686ecb164253b6242d38bc1a4e7c",
+  "bytes": 1969489,
+  "derived_from": {
+    "id": "zoning-2024-10-draft-environmental-impact-report-gilman-gateway-rezone-project",
+    "sha256": "0d30b23197b5eba0cc67f46bf22b581466ca8f3576264644f443eb0252e79498"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-03"
+}
