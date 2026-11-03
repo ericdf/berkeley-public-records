@@ -1,0 +1,21 @@
+{
+  "id": "hazards-2025-02-groundwater-rise-and-contaminated-site-analysis-text",
+  "layer": "L1",
+  "doc_type": "hazards_document_text",
+  "collection": "hazards",
+  "title": "Groundwater Rise and Contaminated Site Analysis",
+  "file": "L1/sources/hazards/hazards-2025-02-groundwater-rise-and-contaminated-site-analysis-text.txt",
+  "sha256": "726af63d50268b86e67d9a6c6d7801e3fae6c77cb86346ffd94955f923a1be46",
+  "bytes": 215269,
+  "derived_from": {
+    "id": "hazards-2025-02-groundwater-rise-and-contaminated-site-analysis",
+    "sha256": "3d009c6fc8b3631a93a5d1cd3b4db00495bfc11b5eab0044efb6850893cc5a37"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-03"
+}

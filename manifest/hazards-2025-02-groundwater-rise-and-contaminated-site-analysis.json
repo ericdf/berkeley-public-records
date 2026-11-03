@@ -1,0 +1,18 @@
+{
+  "id": "hazards-2025-02-groundwater-rise-and-contaminated-site-analysis",
+  "layer": "L0",
+  "doc_type": "hazards_document",
+  "collection": "hazards",
+  "publisher": "City of Berkeley (prepared by Rincon Consultants, Inc.)",
+  "title": "Groundwater Rise and Contaminated Site Analysis",
+  "document_date": "2025-02",
+  "file": "L0/sources/hazards/hazards-2025-02-groundwater-rise-and-contaminated-site-analysis.pdf",
+  "sha256": "3d009c6fc8b3631a93a5d1cd3b4db00495bfc11b5eab0044efb6850893cc5a37",
+  "bytes": 9932399,
+  "source_url": "https://berkeleyca.gov/sites/default/files/2026-06/Ground%20Water%20Analysis%20Report%202025-02.pdf",
+  "retrieved": "2026-11-03",
+  "archived": "2026-11-03",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
