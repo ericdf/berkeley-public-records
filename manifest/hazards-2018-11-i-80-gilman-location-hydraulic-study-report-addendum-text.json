@@ -1,0 +1,21 @@
+{
+  "id": "hazards-2018-11-i-80-gilman-location-hydraulic-study-report-addendum-text",
+  "layer": "L1",
+  "doc_type": "hazards_document_text",
+  "collection": "hazards",
+  "title": "Addendum to the Location Hydraulic Study Report for the Interstate 80/Gilman Street Interchange Improvement Project",
+  "file": "L1/sources/hazards/hazards-2018-11-i-80-gilman-location-hydraulic-study-report-addendum-text.txt",
+  "sha256": "e29b0c6f9ee95ee8ec55c72220943c493aff60ae1d741272ee384a0c7711f84b",
+  "bytes": 19072,
+  "derived_from": {
+    "id": "hazards-2018-11-i-80-gilman-location-hydraulic-study-report-addendum",
+    "sha256": "d9868cb251a4202de70c13d498fa7f1e7d67053d319e66d9c0b10a3ff7e158dc"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-04"
+}

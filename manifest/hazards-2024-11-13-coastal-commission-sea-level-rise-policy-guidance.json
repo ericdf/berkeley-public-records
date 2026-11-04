@@ -1,0 +1,19 @@
+{
+  "id": "hazards-2024-11-13-coastal-commission-sea-level-rise-policy-guidance",
+  "layer": "L0",
+  "doc_type": "hazards_document",
+  "collection": "hazards",
+  "publisher": "California Coastal Commission",
+  "title": "California Coastal Commission Sea Level Rise Policy Guidance: Interpretive Guidelines for Addressing Sea Level Rise in Local Coastal Programs and Coastal Development Permits (2024 Update)",
+  "document_date": "2024-11-13",
+  "file": "L0/sources/hazards/hazards-2024-11-13-coastal-commission-sea-level-rise-policy-guidance.pdf",
+  "sha256": "4f980db1098ec09db850b4f60711198479bc3efd07db42a0ef41cad09cd140d9",
+  "bytes": 8169183,
+  "source_url": "https://documents.coastal.ca.gov/assets/slr/guidance/2024/2024AdoptedSLRPolicyGuidanceUpdate.pdf",
+  "source_note": "The full document, linked from https://www.coastal.ca.gov/climate/slrguidance.html, which also links each chapter and appendix as a separate file. The title page reads: \"Original Guidance unanimously adopted – August 12, 2015; Science Update unanimously adopted – November 7, 2018; 2024 Update unanimously adopted – November 13, 2024\". document_date is the 2024 Update's adoption date. 365 pages.",
+  "retrieved": "2026-11-04",
+  "archived": "2026-11-04",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
