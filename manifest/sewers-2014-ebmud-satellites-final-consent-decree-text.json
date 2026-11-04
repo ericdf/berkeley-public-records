@@ -1,0 +1,21 @@
+{
+  "id": "sewers-2014-ebmud-satellites-final-consent-decree-text",
+  "layer": "L1",
+  "doc_type": "sewers_document_text",
+  "collection": "sewers",
+  "title": "Final Consent Decree, United States of America et al. and San Francisco Baykeeper et al. v. East Bay Municipal Utility District; and v. City of Alameda et al., Consolidated Case Nos. C 09-00186-RS and C 09-05684-RS (N.D. Cal.)",
+  "file": "L1/sources/sewers/sewers-2014-ebmud-satellites-final-consent-decree-text.txt",
+  "sha256": "be6e5f6510e570a6d9ba2427a5d15ce78f44fd388148957b5f903def6047df91",
+  "bytes": 481427,
+  "derived_from": {
+    "id": "sewers-2014-ebmud-satellites-final-consent-decree",
+    "sha256": "090ace18daaa53141a1da3da90b1df1db48a43764edcf0b60716073acd5063db"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-04"
+}
