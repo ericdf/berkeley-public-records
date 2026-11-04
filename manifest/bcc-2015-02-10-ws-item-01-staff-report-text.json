@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2015-02-10-ws-item-01-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2015-02-10",
+  "meeting_label": "work session",
+  "title": "Zero Waste Commercial Franchise Study",
+  "file": "L1/staff-reports/bcc-2015-02-10-ws-item-01-staff-report-text.txt",
+  "sha256": "4a27051e251fd0eb385aa81058dc097a55493bb7252df48d5d6c985ecf9a5e0f",
+  "bytes": 30547,
+  "derived_from": {
+    "id": "bcc-2015-02-10-ws-item-01-staff-report",
+    "sha256": "e785116c47adf039c47cdfcf8a1b425447052bd6ef9ca26e888d3b7f81dec37d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-04"
+}
