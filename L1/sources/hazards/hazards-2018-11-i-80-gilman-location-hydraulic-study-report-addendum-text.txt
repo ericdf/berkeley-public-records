@@ -1,0 +1,316 @@
+1.1 ADDENDUM SUMMARY OF CHANGES
+
+This addendum updates and augments previous report findings for floodplains and sea-level rise (SLR)
+projections. Two specific changes addressed in this addendum include a Federal Emergency Management
+Agency (FEMA) update to delineated floodplain mapping within the project limits and SLR projections.
+A 2018 pending Flood Insurance Study (FIS) and Flood Insurance Rate Map (FIRM) are expected to be
+adopted on December 21, 2018 that will change the FEMA-delineated floodplains and water surface
+elevations within the project area. Additionally, over the past year, SLR projections have been updated for
+the region. On March 14, 2018, the California Ocean Project Council presented the revised State of
+California Sea-Level Rise Guidance that includes increased predicted elevations in the project area.
+
+1.2 UPDATES TO MAY 2018 LOCATION HYDRAULIC STUDY REPORT
+
+The following sections would replace sections in the Executive Summary starting from the second
+paragraph on page iv:
+
+The purpose of this study is to determine the existing Federal Emergency Management Agency (FEMA)
+floodplains within the Project limits and determine whether the Project improvements will be affected by
+— or will affect — the base flood.
+
+The Project limits are composed of FEMA Special Flood Hazard Areas (SFHAs) zones, specifically Zone
+VE, Zone AE, Zone AO, and Zone X (both shaded and unshaded). Zone VE zones are coastal floodplains
+subject to flooding and velocity hazards (wave action) by the 1%-annual-chance flood. Zone AE zones
+represent areas subject to inundation by the 1%-annual-chance flood event determined by detailed
+methods. The area along 5th Street north of Harrison Street is adjacent to Zone AO, which represents
+areas subject to inundation by 1%-annual-chance shallow flooding (usually sheet flow on sloping terrain)
+where flood depths are between 1 foot to 3 feet and where average depths have been determined; the
+average flood depth in a Zone AO is 2 feet. The shaded Zone X area is east of I-80 and represents areas in
+the 0.2%-annual-chance floodplain. Areas west of I-80 and outside of Zone VE are in an unshaded Zone
+X, which represents areas outside the SFHA and above the elevation of the 0.2%-annual-chance flood.
+SLR has the potential to impact some localized areas within the Project limits.
+
+The Project would add under one acre of impervious area. The Project does not propose to change land
+use within the Project area. The amount of additional fill in the floodplain and change in the 100-year
+water surface elevation (WSE) will be minimal.
+
+Proposed drainage systems would be designed to capture and convey runoff from the design storm in the
+Project area. Structures blocking coastal flood flows have been avoided in the design of the Project. Cut
+and fill volumes in the Zone AE floodplain have been balanced to minimize fill. Work done within Zone
+AO is limited to striping only, so it would not introduce additional fill inside the floodplain. SLR has the
+potential to affect the Project area in the year 2040, according to projections from the State of California
+Sea-Level Rise Guidance (CO-CAT 2018). A tidal flap gate would be installed at the existing headwall of
+the 60-inch-diameter reinforced concrete pipe (RCP) at the west-end terminus of Gilman Street to prevent
+backflow in the storm drain system. The tidal flap gate will prevent tidal backflow from entering into the
+Project area; however, the flap gate would not prevent impacts resulting from SLR. Preventing impacts
+from SLR is beyond the scope of this Project. The Project is anticipated to have minimal impact on
+floodplains in the Project area; therefore, no minimization measures are proposed as part of the Project.
+
+
+
+
+                            I-80/Gilman Street Interchange Improvement Project  2
+The following figure would replace Figure 2.Project Location in Section 1.1 Project Description:
+
+
+
+
+Figure 2. Project Location
+
+
+
+
+                           I-80/Gilman Street Interchange Improvement Project  3
+       This Page Was Intentionally Left Blank
+
+
+
+
+I-80/Gilman Street Interchange Improvement Project  4
+The following figure would replace Figure 3. Roundabout Alternative in Section 1.2 Build Alternative:
+
+
+
+
+Figure 3. Roundabout Alternative
+
+
+                                                                                               I-80/Gilman Street Interchange Improvement Project  5
+       This Page Was Intentionally Left Blank
+
+
+
+
+I-80/Gilman Street Interchange Improvement Project  6
+The following sections would replace Section 2.6. FEMA Floodplains:
+
+Typically, each county (or community) has a Flood Insurance Study (FIS), which is used to locally
+develop Flood Insurance Rate Maps (FIRMs) and Base Flood Elevations (BFEs). Alameda County’s
+effective FIS identifies Special Flood Hazard Areas (SFHA) and other flood areas within unincorporated
+and incorporated areas of the County. The majority of the Project is located within FIRM No.
+FM06001C0018H (FEMA 2018a) as shown in Figure 4. The remainder of the Project is located within
+FIRM No. FM06001C0014H (FEMA 2018b) and No. FM06001C0056H (FEMA 2018c).
+
+The FEMA FIRMs were researched for floodplain information. Figure 5 shows the Project layout with
+the associated FEMA flood zones. The FEMA-delineated SFHA at the Project location include Zone VE,
+Zone AE, Zone AO, shaded Zone X, and unshaded Zone X.
+
+Zone VE areas are coastal floodplains subject to flooding and velocity hazards (wave action) by the 1%-
+annual-chance flood. The outfall of the existing 60-inch-diameter storm drain system is identified as
+being in Zone VE within the Project Area.
+
+Zone AE represents areas subject to inundation by the 1%-annual-chance flood event determined by
+detailed methods. Within the Project area, Zone AE represents areas inundated by stillwater flooding with
+minimal wave hazard effects. The parking lot for the Tom Bates Regional Sports Complex is identified as
+being within a Zone AE within the Project Area, and the floodplain boundary is located at the point where
+the ground elevation equals the stillwater elevation, which is 10.2 feet NAVD 88 in the City of Berkeley.
+The limits of the Zone AE within the Project Area do not extend to the proposed Gilman Street and
+Gilman Street Extension.
+
+The area along 5th Street north of Harrison Street is adjacent to Zone AO, which represents areas subject
+to inundation by 1%-annual-chance shallow flooding (usually sheet flow on sloping terrain) where flood
+depths are between 1 foot to 3 feet and where average depths have been determined. This Zone AO is
+associated with Codornices Creek. The Alameda County FIS states:
+
+        “Because the City of Berkeley is fully urbanized and lies not in a valley but on a coastal plain
+        bound by steep hills, stream flood flows may leave the channel and spread out through city streets
+        towards the San Francisco Bay as shallow flooding. Floodways for Codornices,
+        Schoolhouse…Creeks are not applicable.”
+        (FEMA 2018d).
+
+A majority of the Project area east of I-80 is identified as being within shaded Zone X, defined by
+FEMA’s digital FIRM (No. NFHL_06001C) as areas in the 0.2%-annual-chance floodplain. The shaded
+Zone X area is likely attributed to Codornices Creek.
+
+Project areas outside of Zones VE, AO, and shaded Zone X are within unshaded Zone X, which
+represents areas outside the SFHAs and above the elevation of the 0.2%-annual-chance flood.
+
+
+
+
+                           I-80/Gilman Street Interchange Improvement Project  7
+The following figures in this section was revised:
+
+
+
+
+Figure 4. Project Area with FEMA FIRM Panel Numbers
+
+
+
+
+                               I-80/Gilman Street Interchange Improvement Project  8
+Figure 5. Project Layout with FEMA Flood Zones
+
+
+
+
+                          I-80/Gilman Street Interchange Improvement Project  9
+The following sections would replace Section 3.1.3. Fill Inside the Floodplain:
+
+There would be minimal fill in the Project area. The Project proposes to balance cut and fill in FEMA
+SFHA Zone AE. Cut and fill quantities will be further determined for Zone VE in the design phase. No
+cut or fill is proposed for Zone AO.
+
+The following sections would replace Section 3.3. Sea Level Rise:
+
+The elevation of the Project site (9.0-20.0 feet NAVD 88) is relatively low in comparison to the existing
+100-year stillwater elevation of 10.2 feet NAVD 88 at the Project location (FEMA 2018d). The Project
+site would be susceptible to inundation from future SLR. The SLR for the project was estimated using the
+following decision framework steps available in the 2018 State of California Sea-Level Rise Guidance
+published by the California Ocean Protection Council (CO-CAT 2018).
+
+       Identify the nearest tidal gauge from the project location
+       Evaluate the project lifespan
+       For the nearest tide gauge and project lifespan, identify range of sea-level rise projections
+
+For this Project, the San Francisco gauge is the closest tidal gauge identified in the 2018 Guidance (CO-
+CAT 2018). The project is expected to have a pavement design life of 20 years. Therefore, year 2040 was
+selected as the year for SLR projection. Per Table 13 of the 2018 Guidance, the Project SLR depth is
+estimated at 1.0 foot assuming high emissions and using the 5% (1-in-20) chance of occurrence.
+
+After determining the SLR depth, following general implementation steps were performed for this Project
+using the Caltrans’ Guidance on Incorporating Sea Level Rise (Caltrans 2011).
+
+       Obtain topo maps to determine the correlation between current sea level and planned facility
+        elevations for the proposed project
+       Determine if relative SLR will have negative impacts on facility function or operation
+       For the listed impacts, determine if adaptive measures will be necessary
+       Provide incremental or staged improvements to address SLR
+
+With this projection, the tidal 100-year stillwater elevation at the Project location would increase to
+approximately 11.2 feet NAVD 88. There are local low points at a drain inlet on the southwestern edge of
+the westbound traffic circle with an approximate elevation of 10.4 feet NAVD 88 and along Gilman
+Street Extension with an approximate elevation of 9.0 feet NAVD 88. The area around these low points
+would be especially susceptible to impacts from SLR during the 100-year flood event due to backflow
+through the drainage system or from overland tidal inundation. A tidal flap gate is proposed at the Gilman
+Street outfall to prevent tidal backflow from entering into the Project area. More information about the
+tidal flap gate is discussed in Section 4.2. In addition, the road surface elevations and the storm drain inlet
+elevations around the 2nd Street and Gilman Street intersection, the Gilman Street Extension, and the
+Golden Gate northwest and northeast parking lots range from 9.0 to 15.0 feet NAVD 88. These areas are
+susceptible to backflow through the storm drain system or overland tidal inundation when accounting for
+SLR.
+
+
+
+
+                            I-80/Gilman Street Interchange Improvement Project  10
+The following figure in this section was revised:
+
+
+
+
+Figure 6. Project layout showing the low points susceptible to sea level rise
+
+
+
+
+                                                    I-80/Gilman Street Interchange Improvement Project  11
+The following sections would replace Section 4. AVOIDANCE, MINIMIATION, AND/OR MITIGATION
+MEASURES:
+
+The Project does not propose any adverse impacts to the floodplain, and therefore, mitigation measures
+are not necessary for this Project. The Project proposes to avoid blocking coastal flood flows and to
+minimize fill in the floodplain by balancing the cut and fill work in Zone AE. No additional fill is
+proposed in Zone AO. The elevation of the original ground will be maintained within Zone AE and Zone
+AO. Cut and fill quantities will be further determined for Zone VE in the design phase. The Project does
+not propose any structures with the potential to block flows within Zone VE, Zone AE, or Zone AO. The
+Project is required to prevent flooding from runoff from the design storm event, as defined by the
+Highway Design Manual (Caltrans 2015). In order to accomplish this, proposed drainage systems will be
+designed to capture and convey runoff from the design storm in the Project area.
+
+The following sections would replace Section 4.2. Sea-Level Rise:
+
+SLR at the Project site was estimated using projections from the 2018 State of California Sea-Level Rise
+Guidance published by the California Ocean Protection Council (CO-CAT 2018). Based on the
+guidelines provided in this document, the SLR for this Project would be 1.0 foot by the year 2040.
+
+The water level of the San Francisco Bay has the potential to increase in elevation as a result of future
+SLR; however, the Project would not affect additional SLR. SLR by the year 2040 has the potential to
+impact local low points at the Project site. High-tide stages and storm surges in conjunction with SLR
+would cause backflow into the 60-inch RCP storm drain outlet near the bay jetty (Figure 6) and into the
+storm drain system draining Gilman Street and the surrounding area. Therefore, to prevent the effects of
+backflow due to SLR, a tidal flap gate is proposed to be installed at the existing headwall of the 60-inch
+RCP at the west end terminus of Gilman Street. The flap gate will reduce backwater caused by high tides
+by preventing backflow from the bay into the storm drain system. Tides that are high enough to cause
+flooding will increase in frequency with SLR. The flap gate will not reduce flooding that is caused by
+stormwater runoff unable to drain to the bay due to a high tide. Therefore, the flap gate will reduce
+backwater due to tidal action but will not reduce flooding due to precipitation. A flap gate is
+recommended for this Project because it can be maintained from the outside, and trash is not likely to
+cause frequent malfunctions. The gate will still need to be routinely inspected and maintained to prevent
+mussel accumulation or blockage from sediment. Resource agency permitting will be required due to the
+need for construction in the San Francisco Bay.
+
+Because there are future scenarios where the rise of the sea level would be above the 100-year WSEs in
+Gilman Street, Gilman Street Extension, and the Golden Gate Fields northwest and northeast parking lots,
+the roadways, storm drain system, and various improvements in the Project area have the potential to be
+inundated. The low points on the westbound traffic circle and on Gilman Street Extension are locations in
+the Project area that would be impacted by the year 2040 projected sea level during a 100-year storm
+event.
+
+Adaptive measures to reduce risk or exposure of the Gilman Street Extension or Gilman Street would
+involve considerably greater changes to the roads than what is currently proposed. Raising the surface
+would require reconstruction of other conforms to other city streets and highway ramps and the mainline
+highway (potentially), as well as potentially require the relocation of utilities, signage, lighting, and other
+infrastructure. The cost of these improvements would render the project infeasible due to previously
+allocated budget. The proposed design has specifically avoided reconstruction of the highway mainline in
+order to maintain a financially viable project. The project does include the addition of a flap gate to the
+outfall of the City of Berkeley’s large drainage trunk line from Gilman Street to aid in the prevention of
+drainage backwater conditions. This is a first step to add resiliency to the Project and to aid in
+
+
+                            I-80/Gilman Street Interchange Improvement Project  12
+incorporating other adaptive management strategies to be considered in the future as part of other regional
+projects.
+
+Strategies have also been identified by Association of Bay Area Governments and Metropolitan
+Transportation Commission in Plan Bay Area (2017). Other measures that would be considered during
+final design for this project include:
+
+       Placement, relocation, and protection of equipment that may be vulnerable to inundation such as
+        communications and power equipment.
+       Use of corrosion-resistant construction materials for utility, power-service connections,
+        foundations, and drainage facilities.
+       Consideration for planning responses for inundation or emergency events. For emergency
+        response procedures develop alternative transportation communication protocols, response and
+        enforcement, and recovery procedures.
+
+These recommendations recognize that multiple agencies and jurisdictions would have to be involved in
+long-term solutions. Long term solutions could include the development of additional regional strategies
+in coordination with Caltrans, the City of Berkeley, the City of Albany, the City of Emeryville, and other
+local Bay Area jurisdictions. Regional approaches could involve improvements to drainage facilities,
+pump stations, and/or floodwalls. The proposed I-80 Gilman Interchange Improvement Project would not
+interfere with or preclude the implementation of these types of future measures. Caltrans would also work
+with the Alameda County and other jurisdictions to develop long-term solutions to reduce or mitigate sea
+level risks on future projects.
+
+
+
+
+                           I-80/Gilman Street Interchange Improvement Project  13
+The following reference is added to 5. References.
+
+California Department of Transportation. (2011). Guidance on Incorporating Sea Level Rise, For use in
+        the planning and development of Project Initiation Documents.
+
+The following references added to 5. References supersede CO-CAT 2013 and FEMA 2009a, b, c, and d.
+
+Coastal and Ocean Working Group of the California Climate Action Team (CO-CAT). (2018). State of
+        California Sea-Level Rise Guidance Document 2018 Update.
+        http://www.opc.ca.gov/webmaster/ftp/pdf/agenda_items/20180314/Item3_SLR-
+        Guidance_FINAL.pdf
+Federal Emergency Management Agency. (2018a). Flood Insurance Rate Map for Alameda County,
+        California and Incorporated Areas. Map Number 06001C0018H. Panel 18 of 725.
+Federal Emergency Management Agency. (2018b). Flood Insurance Rate Map for Alameda County,
+        California and Incorporated Areas. Map Number 06001C0014H. Panel 14 of 725.
+Federal Emergency Management Agency. (2018c). Flood Insurance Rate Map for Alameda County,
+        California and Incorporated Areas. Map Number 06001C0056H. Panel 56 of 725.
+Federal Emergency Management Agency. (2018d). Flood Insurance Study for Alameda County,
+        California and Incorporated Areas. Flood Insurance Study Number 06001CV001B,
+        06001CV002B, and 06001CV003B.
+
+
+
+
+                           I-80/Gilman Street Interchange Improvement Project  14
+

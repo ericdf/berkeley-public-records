@@ -1,0 +1,20 @@
+{
+  "id": "hazards-2026-11-04-california-tsunami-hazard-areas-alameda-contra-costa",
+  "layer": "L0",
+  "doc_type": "hazards_document",
+  "collection": "hazards",
+  "publisher": "State of California — California Geological Survey, with the California Governor's Office of Emergency Services (map service services.gis.ca.gov, Oceans/Tsunami MapServer, layer 0)",
+  "title": "California Tsunami Hazard Areas (California_Tsunami_Hazard_Areas), Alameda and Contra Costa County polygons",
+  "document_date": "2026-11-04",
+  "source_updates": "Map-service query; the GeoJSON is generated on each request from the State's current hazard-area layer",
+  "file": "L0/sources/hazards/hazards-2026-11-04-california-tsunami-hazard-areas-alameda-contra-costa.geojson",
+  "sha256": "4dec45bcd5d2ad164399e157b2e394d3f078cfaae4bb7b08a9504406436ecba7",
+  "bytes": 617025,
+  "source_url": "https://services.gis.ca.gov/arcgis/rest/services/Oceans/Tsunami/MapServer/0/query?geometry=-122.33%2C37.84%2C-122.21%2C37.91&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=*&outSR=4326&f=geojson",
+  "source_note": "GeoJSON returned by the State's map service for the query in source_url (features intersecting the envelope -122.33,37.84,-122.21,37.91 in EPSG:4326, all fields, output EPSG:4326), downloaded 2026-11-04. The service returns each intersecting county's whole polygon: two features, Alameda and Contra Costa. Two downloads that day were byte-identical, and identical to a download of the same query made 2026-11-03. The layer description (https://services.gis.ca.gov/arcgis/rest/services/Oceans/Tsunami/MapServer/0?f=json) reads: \"Produced collectively by tsunami modelers, geologic hazard mapping scientists, and emergency planning specialists from the California Geological Survey, the California Governor's Office of Emergency Services, the Tsunami Research Center at the University of Southern California, and AECOM Technical Services.\" It gives no date. Each feature links the CGS county map and GIS download under https://www.conservation.ca.gov/cgs/Documents/Publications/Tsunami-Maps/. document_date is the download date.",
+  "retrieved": "2026-11-04",
+  "archived": "2026-11-04",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

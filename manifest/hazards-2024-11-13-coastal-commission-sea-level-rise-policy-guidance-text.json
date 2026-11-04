@@ -1,0 +1,21 @@
+{
+  "id": "hazards-2024-11-13-coastal-commission-sea-level-rise-policy-guidance-text",
+  "layer": "L1",
+  "doc_type": "hazards_document_text",
+  "collection": "hazards",
+  "title": "California Coastal Commission Sea Level Rise Policy Guidance: Interpretive Guidelines for Addressing Sea Level Rise in Local Coastal Programs and Coastal Development Permits (2024 Update)",
+  "file": "L1/sources/hazards/hazards-2024-11-13-coastal-commission-sea-level-rise-policy-guidance-text.txt",
+  "sha256": "8f48e73cd99a2ef69c0594d91e9231ad08a90e090535fda5073345aabd72fc03",
+  "bytes": 1032591,
+  "derived_from": {
+    "id": "hazards-2024-11-13-coastal-commission-sea-level-rise-policy-guidance",
+    "sha256": "4f980db1098ec09db850b4f60711198479bc3efd07db42a0ef41cad09cd140d9"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-04"
+}

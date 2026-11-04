@@ -1,0 +1,19 @@
+{
+  "id": "hazards-2018-11-i-80-gilman-location-hydraulic-study-report-addendum",
+  "layer": "L0",
+  "doc_type": "hazards_document",
+  "collection": "hazards",
+  "publisher": "Alameda County Transportation Commission (prepared by WRECO), for Caltrans District 4, EA 04-0A7700",
+  "title": "Addendum to the Location Hydraulic Study Report for the Interstate 80/Gilman Street Interchange Improvement Project",
+  "document_date": "2018-11",
+  "file": "L0/sources/hazards/hazards-2018-11-i-80-gilman-location-hydraulic-study-report-addendum.pdf",
+  "sha256": "d9868cb251a4202de70c13d498fa7f1e7d67053d319e66d9c0b10a3ff7e158dc",
+  "bytes": 5157824,
+  "source_url": "https://www.alamedactc.org/wp-content/uploads/2019/08/I-80_Gilman_Location_Hydraulic_Study_Rpt_Addendum_Nov2018.pdf",
+  "source_note": "Published by the Alameda County Transportation Commission beside the project's other technical studies (for example https://www.alamedactc.org/wp-content/uploads/2019/08/I-80_Gilman_Location_Hydraulic_Study_Rpt_May2018.pdf and .../I-80_Gilman_Water_Quality_Assessment_Rpt_Addendum_Nov2018.pdf). The project page, https://www.alamedactc.org/programs-projects/highway-improvement/i80gilman, did not link it on 2026-11-04. The document prints no title page and no date; its pages carry the footer \"I-80/Gilman Street Interchange Improvement Project\". The title is as the project's Water Quality Assessment Report addendum cites it: \"WRECO. (2018c). Addendum to the Location Hydraulic Study Report for the Interstate 80/Gilman Street Interchange Improvement Project.\" document_date is from the file name (Nov2018); the PDF's creation date is 2018-11-27. 14 pages.",
+  "retrieved": "2026-11-04",
+  "archived": "2026-11-04",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}
