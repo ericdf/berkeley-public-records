@@ -18,11 +18,18 @@
   "blob": {
     "copies": [
       {
-        "store": "staged",
-        "url": "https://drive.google.com/file/d/1pwWdJV3NvlRCFWv6MWvyex-yU5PIkyQT/view?usp=drivesdk",
-        "filename": "transfer-station-2026-08-03-draft-eir-appendix-g-hazards-and-hazardous-materials.pdf",
-        "staged_by": "ericdf",
-        "staged_on": "2026-11-03"
+        "store": "internet_archive",
+        "item": "berkeley-public-records-transfer-station-2026-08-03-draft-eir-appendix-5e2a14b3",
+        "path": "transfer-station-2026-08-03-draft-eir-appendix-g-hazards-and-hazardous-materials.pdf",
+        "uploaded": "2026-11-04",
+        "verified": null,
+        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public, with: python3 tools/ingest_large.py --verify-ia transfer-station-2026-08-03-draft-eir-appendix-g-hazards-and-hazardous-materials"
+      },
+      {
+        "store": "google_drive",
+        "location": "berkeley-public-records-blobs/transfer-station-2026-08-03-draft-eir-appendix-g-hazards-and-hazardous-materials.pdf",
+        "uploaded": "2026-11-04",
+        "verified": "2026-11-04"
       }
     ]
   }

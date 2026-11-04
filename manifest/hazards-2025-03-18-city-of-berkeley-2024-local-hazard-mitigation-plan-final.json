@@ -18,11 +18,17 @@
   "blob": {
     "copies": [
       {
-        "store": "staged",
-        "url": "https://drive.google.com/file/d/1L74CChG3DZRfPLZcxXwCmMLBkGGYgYhY/view?usp=drivesdk",
-        "filename": "hazards-2025-03-18-city-of-berkeley-2024-local-hazard-mitigation-plan-final.pdf",
-        "staged_by": "ericdf",
-        "staged_on": "2026-11-03"
+        "store": "internet_archive",
+        "item": "berkeley-public-records-hazards-2025-03-18-city-of-berkeley-2024-local-5e397221",
+        "path": "hazards-2025-03-18-city-of-berkeley-2024-local-hazard-mitigation-plan-final.pdf",
+        "uploaded": "2026-11-04",
+        "verified": "2026-11-04"
+      },
+      {
+        "store": "google_drive",
+        "location": "berkeley-public-records-blobs/hazards-2025-03-18-city-of-berkeley-2024-local-hazard-mitigation-plan-final.pdf",
+        "uploaded": "2026-11-04",
+        "verified": "2026-11-04"
       }
     ]
   }
