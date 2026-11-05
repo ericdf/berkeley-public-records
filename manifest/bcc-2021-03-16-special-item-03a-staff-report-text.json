@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2021-03-16-special-item-03a-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2021-03-16",
+  "meeting_label": "special",
+  "title": "Parks Capital Improvement Plan, Recent Projects and Ongoing Needs",
+  "file": "L1/staff-reports/bcc-2021-03-16-special-item-03a-staff-report-text.txt",
+  "sha256": "27bdcbe02688c6e566182d7a8e00cbb67b840dc8824cc0336b7427310b57cb5c",
+  "bytes": 37328,
+  "derived_from": {
+    "id": "bcc-2021-03-16-special-item-03a-staff-report",
+    "sha256": "743375267abb091b1f22a8aa687ba090fa16b6e4bcaa974340d15cfafde48898"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-05"
+}

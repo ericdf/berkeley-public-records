@@ -1,0 +1,21 @@
+{
+  "id": "parks-2023-02-15-update-on-aquatic-park-text",
+  "layer": "L1",
+  "doc_type": "parks_document_text",
+  "collection": "parks",
+  "title": "Update on Aquatic Park",
+  "file": "L1/sources/parks/parks-2023-02-15-update-on-aquatic-park-text.txt",
+  "sha256": "61d3160aef4923ff7d1006b6e465b8c89a57fb29b79939c21e9ff624421936a4",
+  "bytes": 2914,
+  "derived_from": {
+    "id": "parks-2023-02-15-update-on-aquatic-park",
+    "sha256": "2df37fe0a975d60248ef9cb708ce82df07d5fe7d54d86ea5cb6c2c1462c83916"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-05"
+}
