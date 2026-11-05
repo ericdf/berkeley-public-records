@@ -14,7 +14,7 @@
   "source_note": "GeoJSON returned by the State's map service for the query in source_url (features intersecting the envelope -122.33,37.84,-122.21,37.91 in EPSG:4326, all fields, output EPSG:4326), downloaded 2026-11-04. The service returns each intersecting county's whole polygon: two features, Alameda and Contra Costa. Two downloads that day were byte-identical, and identical to a download of the same query made 2026-11-03. The layer description (https://services.gis.ca.gov/arcgis/rest/services/Oceans/Tsunami/MapServer/0?f=json) reads: \"Produced collectively by tsunami modelers, geologic hazard mapping scientists, and emergency planning specialists from the California Geological Survey, the California Governor's Office of Emergency Services, the Tsunami Research Center at the University of Southern California, and AECOM Technical Services.\" It gives no date. Each feature links the CGS county map and GIS download under https://www.conservation.ca.gov/cgs/Documents/Publications/Tsunami-Maps/. document_date is the download date.",
   "retrieved": "2026-11-04",
   "archived": "2026-11-04",
-  "wayback_url": null,
+  "wayback_url": "https://web.archive.org/web/20261105074617/https://services.gis.ca.gov/arcgis/rest/services/Oceans/Tsunami/MapServer/0/query?geometry=-122.33%2C37.84%2C-122.21%2C37.91&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=%2A&outSR=4326&f=geojson",
   "notices": [],
   "contributed_by": "ericdf"
 }
