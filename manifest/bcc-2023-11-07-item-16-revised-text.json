@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2023-11-07-item-16-revised-text",
+  "layer": "L1",
+  "doc_type": "supplemental_agenda_material_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2023-11-07",
+  "meeting_label": "regular",
+  "title": "Budget Referral: Refer $800,000 to the November 2023 AAO #1 for Matching Funds to Repair Eight Deficient Tide Tubes to Avoid Catastrophic Structural Failure and Escalating Construction Costs",
+  "file": "L1/staff-reports/bcc-2023-11-07-item-16-revised-text.txt",
+  "sha256": "8f06c429bb13e3305972296c4e2bb48030e5e7eee8a7da7a85469fb16354f83e",
+  "bytes": 10577,
+  "derived_from": {
+    "id": "bcc-2023-11-07-item-16-revised",
+    "sha256": "1247a6b998f328ee3af3f3f871e6cfa957b59619cf09c1c43aa9303b8396405d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-05"
+}
