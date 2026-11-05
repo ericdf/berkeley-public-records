@@ -84,7 +84,7 @@ processes them on the pull request and comments with the result.
 
 | Case | Do |
 |---|---|
-| City document with a URL | L0; `collection` `sources/<topic>` (or `council-captions`, `annotated-agendas`, `staff-reports`); `source_url`, `retrieved`. Request a Wayback capture of the URL and tell the human; recording `wayback_url` is a manifest edit by PR. |
+| City document with a URL | L0; `collection` `sources/<topic>` (or `council-captions`, `annotated-agendas`, `staff-reports`); `source_url`, `retrieved`. Request a Wayback capture of the URL and tell the human; recording `wayback_url` is a manifest edit by PR. `tools/wayback.sh --save --write <id>` does both, recording only a capture whose bytes match the entry. |
 | Obtained from the Clerk or another office | L0; `collection` `clerk` or `sources/<topic>`; `source_note`, e.g. "Requested in person from the City Clerk; received 2026-09-12."; `approved_by` (ask the human). The daily archive job uploads an Internet Archive copy. |
 | Public-records request | Do not archive the released files. If the request is not yet in `queue/nextrequest/`, add it there by PR (it stays `watching` until the City publishes it). The maintainer decides; `tools/ingest_nextrequest.py` ingests after induction. |
 | Third-party publication | T0; `collection` such as `press`, `campaigns`; `publisher`, neutral `relevance`, `source_url` or `source_note`. Campaign, advocacy and community material goes through the inbox as usual. |
