@@ -1,0 +1,21 @@
+{
+  "id": "hazards-2016-02-san-francisco-bay-tidal-datums-and-extreme-tides-study-final-report-text",
+  "layer": "L1",
+  "doc_type": "hazards_document_text",
+  "collection": "hazards",
+  "title": "San Francisco Bay Tidal Datums and Extreme Tides Study, Final Report",
+  "file": "L1/sources/hazards/hazards-2016-02-san-francisco-bay-tidal-datums-and-extreme-tides-study-final-report-text.txt",
+  "sha256": "c302297d7591c32951df2e7c21e0b5cf491f368d6ad74d3b9e1dc51b08cf0ddc",
+  "bytes": 335200,
+  "derived_from": {
+    "id": "hazards-2016-02-san-francisco-bay-tidal-datums-and-extreme-tides-study-final-report",
+    "sha256": "2bf12c79b637862fb1a142a33d6cb96ee1db7825407cd032ddd6d17a9d68870b"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-05"
+}

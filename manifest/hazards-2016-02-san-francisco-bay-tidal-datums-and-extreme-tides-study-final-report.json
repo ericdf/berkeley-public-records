@@ -1,0 +1,30 @@
+{
+  "id": "hazards-2016-02-san-francisco-bay-tidal-datums-and-extreme-tides-study-final-report",
+  "layer": "L0",
+  "doc_type": "hazards_document",
+  "collection": "hazards",
+  "publisher": "San Francisco Bay Conservation and Development Commission, Adapting to Rising Tides program; financed in part by the Federal Emergency Management Agency and the San Francisco Bay Conservation and Development Commission",
+  "title": "San Francisco Bay Tidal Datums and Extreme Tides Study, Final Report",
+  "document_date": "2016-02",
+  "file": null,
+  "sha256": "2bf12c79b637862fb1a142a33d6cb96ee1db7825407cd032ddd6d17a9d68870b",
+  "bytes": 26341293,
+  "source_url": "https://www.adaptingtorisingtides.org/wp-content/uploads/2016/05/20160429.SFBay_Tidal-Datums_and_Extreme_Tides_Study.FINAL_.pdf",
+  "source_note": "Title page: \"Final Report • February 2016\"; \"The preparation of this report has been financed in part by the Federal Emergency Management Agency and the San Francisco Bay Conservation and Development Commission.\" 140 pages. Over 25 MB, so staged: Eric placed the file downloaded from source_url in his Google Drive on 2026-11-05; its sha256 matches a download from source_url made 2026-11-04.",
+  "retrieved": "2026-11-04",
+  "archived": "2026-11-05",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "staged",
+        "url": "https://drive.google.com/file/d/11Y8bxqsY8HDlrLJFPM-YeoTRtpEC0jtO/view?usp=drivesdk",
+        "filename": "hazards-2016-02-san-francisco-bay-tidal-datums-and-extreme-tides-study-final-report.pdf",
+        "staged_by": "ericdf",
+        "staged_on": "2026-11-05"
+      }
+    ]
+  }
+}
