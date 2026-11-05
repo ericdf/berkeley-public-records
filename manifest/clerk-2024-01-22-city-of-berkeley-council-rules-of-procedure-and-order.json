@@ -5,7 +5,7 @@
   "collection": "clerk",
   "publisher": "City of Berkeley — City Council",
   "title": "City of Berkeley Council Rules of Procedure and Order",
-  "document_date": "2024-01-22",
+  "document_date": "2026-06-16",
   "file": "L0/clerk/clerk-2024-01-22-city-of-berkeley-council-rules-of-procedure-and-order.pdf",
   "sha256": "dea9731e353988735aec0ae7a2f964d5161e18a38c2a8c67cd84283efa2ee6f3",
   "bytes": 547648,
@@ -14,5 +14,6 @@
   "archived": "2026-10-23",
   "wayback_url": null,
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "version_note": "The title page reads \"Adopted by Resolution No. 71,544–N.S.\", \"Effective October 29, 2024\" and \"Amended: June 16, 2026 by Resolution No. 72,335-N.S.\"; document_date is the amendment date. The City's file name, and so this entry's id, say January 22, 2024."
 }
