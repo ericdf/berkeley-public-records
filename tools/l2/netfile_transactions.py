@@ -15,12 +15,22 @@ Contributor names are replaced by name_key, the first 16 hex digits of the SHA-2
 trimmed name, so donors are countable without listing private individuals; three mechanical flags
 record the name tests downstream aggregation needs. Output is sorted and written with LF endings, so
 the same inputs always give the same bytes. --check rebuilds and compares with the archived file.
+
+An optional "city_overrides" list in the recipe corrects rows where the filer typed a street address into
+the city field. Each entry names the transaction "id" and the "city_as_filed" exactly as the L0 response
+carries it; the build replaces that value with the city implied by the row's ZIP (ZIP_CITY) and refuses if
+the id is missing, the city as filed differs or is not a street address, or the ZIP is not in ZIP_CITY.
+The L0 responses are never changed; the override is recorded in the recipe, so the correction rebuilds.
 """
 import csv, hashlib, io, json, os, re, sys
 from datetime import datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ORG = re.compile(r"PAC|Committee|Union|Local \d|Association|Club|Party|LLC|Inc\b|Corporation|Fund\b")
+# Berkeley ZIP codes (USPS): the only cities a city_override may set.
+ZIP_CITY = {z: "Berkeley" for z in ("94702", "94703", "94704", "94705", "94706", "94707", "94708", "94709",
+                                    "94710", "94720")}
+STREET = re.compile(r"^\d+\s+\S")
 COLUMNS = ["id", "filingId", "filerLocalId", "filerName", "date", "amount", "transactionType", "city", "state",
            "name_key", "name_is_org_like", "name_is_city_of_berkeley", "name_empty"]
 
@@ -66,14 +76,30 @@ def build(recipe, root=ROOT):
     dd = {}
     for r in by_id.values():
         dd.setdefault((r["filerName"], r["transactionType"], r.get("name") or "", r["date"], r["amount"]), r)
+    overrides = {}
+    for o in recipe.get("city_overrides", []):
+        if not STREET.match(o["city_as_filed"]):
+            raise SystemExit(f"{o['id']}: city_as_filed {o['city_as_filed']!r} is not a street address")
+        overrides[o["id"]] = o
     out = []
     for r in dd.values():
         name = (r.get("name") or "").strip()
+        city = (r.get("city") or "").strip()
+        o = overrides.pop(r["id"], None)
+        if o:
+            z = (r.get("zip") or "").strip()[:5]
+            if city != o["city_as_filed"]:
+                raise SystemExit(f"{r['id']}: city as filed is {city!r}, not {o['city_as_filed']!r}")
+            if z not in ZIP_CITY:
+                raise SystemExit(f"{r['id']}: ZIP {z!r} implies no city in ZIP_CITY")
+            city = ZIP_CITY[z]
         out.append([r["id"], r["filingId"], r.get("filerLocalId") or "", r["filerName"], r["date"][:10],
-                    repr(float(r["amount"])), str(r["transactionType"]), (r.get("city") or "").strip(),
+                    repr(float(r["amount"])), str(r["transactionType"]), city,
                     (r.get("state") or "").strip(), hashlib.sha256(name.lower().encode()).hexdigest()[:16],
                     "1" if ORG.search(name) and not (r.get("occupation") or "").strip() else "0",
                     "1" if re.search(r"city of berkeley", name, re.I) else "0", "1" if not name else "0"])
+    if overrides:
+        raise SystemExit(f"city_overrides name rows not in the table: {sorted(overrides)}")
     out.sort(key=lambda x: (x[4], x[1], x[0]))
     buf = io.StringIO()
     w = csv.writer(buf, lineterminator="\n")
