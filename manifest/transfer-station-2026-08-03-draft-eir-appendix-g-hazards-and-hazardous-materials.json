@@ -22,8 +22,7 @@
         "item": "berkeley-public-records-transfer-station-2026-08-03-draft-eir-appendix-5e2a14b3",
         "path": "transfer-station-2026-08-03-draft-eir-appendix-g-hazards-and-hazardous-materials.pdf",
         "uploaded": "2026-11-04",
-        "verified": null,
-        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public, with: python3 tools/ingest_large.py --verify-ia transfer-station-2026-08-03-draft-eir-appendix-g-hazards-and-hazardous-materials"
+        "verified": "2026-11-05"
       },
       {
         "store": "google_drive",
