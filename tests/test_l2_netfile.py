@@ -52,6 +52,28 @@ class TestNetfileL2(unittest.TestCase):
         data, n = nt.build(r, self.root)
         self.assertEqual(n, 2)
 
+    def overridden(self, city_as_filed="12 Main St.", zip_="94709", rid="c"):
+        r = self.recipe()
+        rows = [tx("a", "100", "Pat Doe", "2026-01-05", 50.0),
+                dict(tx("c", "100", "Sam Roe", "2026-01-06", 20.0, city="12 Main St."), zip=zip_)]
+        self.put("w1", {"totalMatchingCount": 2, "results": rows})
+        r["excluded_filing_info"], r["superseded"] = [], []
+        r["city_overrides"] = [{"id": rid, "city_as_filed": city_as_filed}]
+        return r
+
+    def test_city_override(self):
+        data, n = nt.build(self.overridden(), self.root)
+        self.assertNotIn("12 Main St.", data.decode())
+        row = [l for l in data.decode().splitlines() if l.startswith("c,")][0]
+        self.assertEqual(row.split(",")[7], "Berkeley")
+        self.assertEqual(n, 2)
+
+    def test_city_override_refusals(self):
+        for kw, msg in [({"zip_": "94611"}, "implies no city"), ({"city_as_filed": "13 Main St."}, "city as filed"),
+                        ({"city_as_filed": "Oakland"}, "not a street address"), ({"rid": "zz"}, "not in the table")]:
+            with self.assertRaisesRegex(SystemExit, msg):
+                nt.build(self.overridden(**kw), self.root)
+
     def test_refuses_paged_window_and_early_exclusion(self):
         r = self.recipe()
         self.put("w1", {"totalMatchingCount": 5, "results": []})
