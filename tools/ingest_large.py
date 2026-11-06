@@ -73,6 +73,9 @@ class Deferred(Problem):
 
 
 RATE_LIMITED = "reduce your request rate"
+# What `ia upload --checksum` prints for a file the item already holds with the same checksum. It
+# exits non-zero when that is all it did: a run cut short after its upload and retried meets this.
+ALREADY_HELD = "already exists, skipping"
 
 
 def parse_issue_body(body):
@@ -567,8 +570,11 @@ def ia_upload(e, local, item, run, today):
             if RATE_LIMITED in out.lower():
                 raise Deferred(f"the Internet Archive asked to slow down before {item} was uploaded",
                                stop_batch=True)
-            last = [l for l in out.splitlines() if l.strip()][-1:] or ["no output"]
-            raise Problem(f"ia upload of {item} failed: {last[0].strip()}")
+            held = f"{os.path.basename(local)} {ALREADY_HELD}" in out and "error" not in out.lower()
+            if not held:
+                last = [l for l in out.splitlines() if l.strip()][-1:] or ["no output"]
+                raise Problem(f"ia upload of {item} failed: {last[0].strip()}")
+            print("   The item already holds this file (same checksum); recording it.", flush=True)
     print("   Upload accepted.", flush=True)
     return {"store": "internet_archive", "item": item, "path": os.path.basename(local),
             "uploaded": today, "verified": None,
