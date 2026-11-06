@@ -313,6 +313,32 @@ class TestPreserve(Base):
         self.assertIn("bad credentials", problems[0])
         self.assertEqual(deferred, [])
 
+    def test_file_already_held_is_recorded(self):
+        self.drop("clerk", dict(L0_CLERK, approved_by="contributor1"))
+        mid = pi.process(self.root, "contributor1", today="2026-10-30", log=lambda *a: None)["added"][0]["id"]
+
+        def skipped(cmd, check=False, **kw):
+            self.calls.append(cmd)
+            return subprocess.CompletedProcess(cmd, 1, stdout=f"berkeley-public-records-{mid}:\n {mid}.pdf already exists, skipping.\n",
+                                               stderr="UserWarning: pkg_resources is deprecated as an API.\n")
+        with contextlib.redirect_stdout(io.StringIO()):
+            files, problems, deferred = il.preserve(self.root, self.staging, run=skipped, today="2026-10-31")
+        self.assertEqual((problems, deferred), ([], []))
+        (ia,) = self.entry(mid)["blob"]["copies"]
+        self.assertEqual((ia["store"], ia["verified"]), ("internet_archive", None))
+        self.assertEqual(il.preserve_pending(self.root), [])
+
+    def test_skip_with_an_error_is_still_a_problem(self):
+        self.drop("clerk", dict(L0_CLERK, approved_by="contributor1"))
+        mid = pi.process(self.root, "contributor1", today="2026-10-30", log=lambda *a: None)["added"][0]["id"]
+
+        def failed(cmd, check=False, **kw):
+            return subprocess.CompletedProcess(cmd, 1, stdout=f" {mid}.pdf already exists, skipping.\n",
+                                               stderr="error uploading metadata: 503\n")
+        with contextlib.redirect_stdout(io.StringIO()):
+            files, problems, deferred = il.preserve(self.root, self.staging, run=failed)
+        self.assertIn("failed", problems[0])
+
     def test_no_source_record_gets_an_internet_archive_copy(self):
         self.drop("clerk", dict(L0_CLERK, approved_by="contributor1"))
         r = pi.process(self.root, "contributor1", today="2026-10-30", log=lambda *a: None)
