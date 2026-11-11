@@ -1,0 +1,32 @@
+{
+  "id": "bcc-2026-11-17-item-26-staff-report",
+  "layer": "L0",
+  "doc_type": "staff_report",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "publisher": "City of Berkeley — Office of the City Manager",
+  "title": "Berkeley Water Transportation Pier-Ferry Project Environmental Impact Report, Project Approval, and Use Permit",
+  "meeting_date": "2026-11-17",
+  "meeting_label": "regular",
+  "item": "Public Hearing Item 26",
+  "file": null,
+  "sha256": "be7eb8f71e124b4737f62392c4dff1726db95a0ba13e5e2f919f08a8dd0389ce",
+  "bytes": 127603976,
+  "source_url": "https://berkeleyca.gov/sites/default/files/2026-11-17%20Item%2026%20Berkeley%20Water%20Transportation.pdf",
+  "retrieved": "2026-11-11",
+  "archived": "2026-11-11",
+  "wayback_url": "https://web.archive.org/web/20261111213311/https://berkeleyca.gov/sites/default/files/2026-11-17%20Item%2026%20Berkeley%20Water%20Transportation.pdf",
+  "notices": [],
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "staged",
+        "url": "https://drive.google.com/file/d/1qdIzKPM0e3Ctsz_gugBuIZr4gHs75hCv/view?usp=share_link",
+        "filename": "bcc-2026-11-17-item-26-staff-report.pdf",
+        "staged_by": "ericdf",
+        "staged_on": "2026-11-11"
+      }
+    ]
+  }
+}
