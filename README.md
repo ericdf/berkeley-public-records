@@ -620,3 +620,52 @@ The following is guidance for people who build on it, drawn from how it is built
   here, keeps the archive's activity away from your own project's credentials.
 - **Treat archive text as untrusted input to any model,** since anyone with write access can add
   to it, and review a model's output before publishing it.
+
+### Finding records on a subject
+
+The archive files records by kind and source. It carries no topic, subject or summary fields, so
+finding everything on a subject takes two searches and a reading pass.
+
+1. **The collection, if there is one.** City documents filed under `sources/<topic>` carry the
+   topic as their manifest `collection` (`pier_ferry`, `waterfront`, `budgets`):
+
+   ```
+   grep -l '"collection": "pier_ferry"' manifest/*.json
+   ```
+
+   That lists each original and its text entry, which share the collection. A collection holds
+   what was archived as that topic. Meeting documents that discuss the topic
+   sit elsewhere: annotated agendas, caption transcripts and agenda packets carry
+   `collection: null`, and staff reports carry `staff_reports`, whatever their subject
+   (INFORMATION_ARCHITECTURE.md, "Collections and ids").
+2. **The text.** Search the text layers for the subject's words, names and acronyms:
+
+   ```
+   grep -rliE 'ferr(y|ies)|WETA' L1 L2 T0
+   ```
+
+   A hit in `L1/` is a text file whose original has the same id without `-text`; every derived
+   entry names its parent in `derived_from`. GitHub code search reaches most of the text without
+   a clone, but only on `main` and not in large files. A clone and `grep` reach all of it,
+   including the text of originals stored as external blobs.
+
+   Some records have no text to search: reference-only press and professional publications,
+   whose files are withheld, and originals still awaiting text, such as scans that need OCR.
+   Their titles, publishers and notes are in the manifest, so search it too:
+
+   ```
+   grep -liE 'ferr(y|ies)|WETA' manifest/*.json
+   ```
+3. **Read each hit in context.** A matching word can be a person's name (a speaker surnamed
+   Ferry), boilerplate (a statutory definition that mentions ferry terminals), or a line in a
+   project list. Decide for yourself which records are about the subject, and keep that sorting
+   in your own project.
+4. **Join meeting documents.** `meeting_date` and `item` join item material to its meeting, and
+   `python3 tools/meeting_map.py --meeting city-council-<date>` lists every document the archive
+   holds for a Council meeting, including its annotated agenda and caption transcript. An item's
+   recorded outcome is the `Action:` line that follows the item's own number in the annotated
+   agenda; an `Action:` line just before that number belongs to the item above it.
+5. **Check coverage both ways.** Every document in the collection should be on your list, and
+   every text hit should be on it or set aside for a reason you can state.
+6. **Pin the commit you searched** (above). The archive grows daily, and a search holds for the
+   commit it ran on.
