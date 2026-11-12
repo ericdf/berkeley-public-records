@@ -21,11 +21,18 @@
   "blob": {
     "copies": [
       {
-        "store": "staged",
-        "url": "https://drive.google.com/file/d/1qdIzKPM0e3Ctsz_gugBuIZr4gHs75hCv/view?usp=share_link",
-        "filename": "bcc-2026-11-17-item-26-staff-report.pdf",
-        "staged_by": "ericdf",
-        "staged_on": "2026-11-11"
+        "store": "internet_archive",
+        "item": "berkeley-public-records-bcc-2026-11-17-item-26-staff-report",
+        "path": "bcc-2026-11-17-item-26-staff-report.pdf",
+        "uploaded": "2026-11-12",
+        "verified": null,
+        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public, with: python3 tools/ingest_large.py --verify-ia bcc-2026-11-17-item-26-staff-report"
+      },
+      {
+        "store": "google_drive",
+        "location": "berkeley-public-records-blobs/bcc-2026-11-17-item-26-staff-report.pdf",
+        "uploaded": "2026-11-12",
+        "verified": "2026-11-12"
       }
     ]
   }
