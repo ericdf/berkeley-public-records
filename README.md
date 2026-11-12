@@ -648,6 +648,14 @@ finding everything on a subject takes two searches and a reading pass.
    entry names its parent in `derived_from`. GitHub code search reaches most of the text without
    a clone, but only on `main` and not in large files. A clone and `grep` reach all of it,
    including the text of originals stored as external blobs.
+
+   Some records have no text to search: reference-only press and professional publications,
+   whose files are withheld, and originals still awaiting text, such as scans that need OCR.
+   Their titles, publishers and notes are in the manifest, so search it too:
+
+   ```
+   grep -liE 'ferr(y|ies)|WETA' manifest/*.json
+   ```
 3. **Read each hit in context.** A matching word can be a person's name (a speaker surnamed
    Ferry), boilerplate (a statutory definition that mentions ferry terminals), or a line in a
    project list. Decide for yourself which records are about the subject, and keep that sorting
