@@ -25,8 +25,7 @@
         "item": "berkeley-public-records-bcc-2026-11-17-item-26-staff-report",
         "path": "bcc-2026-11-17-item-26-staff-report.pdf",
         "uploaded": "2026-11-12",
-        "verified": null,
-        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public, with: python3 tools/ingest_large.py --verify-ia bcc-2026-11-17-item-26-staff-report"
+        "verified": "2026-11-13"
       },
       {
         "store": "google_drive",
