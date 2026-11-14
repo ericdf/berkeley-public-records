@@ -1,0 +1,23 @@
+{
+  "id": "cpra-26-1440-doc-68812660-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2.20.26 HHCS w CM - Budget Balancing Proposal.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812660-text.txt",
+  "sha256": "3dcffc95699d92ad7a8b0637db897c97b1202d858440d36af4250c97c17db71e",
+  "bytes": 1274,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812660",
+    "sha256": "f155426374ff59f876b346efba1aaba64b6f1373af1fc547bbc37a0c6a787f67"
+  },
+  "extraction": {
+    "tool": "tesseract 5.5.1; pdfimages version 26.04.0",
+    "command": "python3 tools/ocr_pdf_images.py <L0> <L1>"
+  },
+  "notices": [
+    "OCR text: machine-read from an image, and may contain recognition errors. The L0 image is the record."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

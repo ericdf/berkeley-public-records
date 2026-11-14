@@ -1,0 +1,23 @@
+{
+  "id": "cpra-26-1440-doc-68812659-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2.19.26 Fire w CM - Budget Balancing Proposal.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812659-text.txt",
+  "sha256": "cccf84661bc99d9d70e7a2f54df93e0055e2733f24255cc4c25b29c2bb19e02f",
+  "bytes": 1258,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812659",
+    "sha256": "df41ed8cce5b4324ab172e2b066d3682fc797e28cc804e924c03d0631fe47059"
+  },
+  "extraction": {
+    "tool": "tesseract 5.5.1; pdfimages version 26.04.0",
+    "command": "python3 tools/ocr_pdf_images.py <L0> <L1>"
+  },
+  "notices": [
+    "OCR text: machine-read from an image, and may contain recognition errors. The L0 image is the record."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

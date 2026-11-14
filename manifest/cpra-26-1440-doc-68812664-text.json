@@ -1,0 +1,23 @@
+{
+  "id": "cpra-26-1440-doc-68812664-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2.27.26 PD w CM - Budget Balancing Proposal.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812664-text.txt",
+  "sha256": "85f3ee329a0ed5ae60a6dd42b250338a15b1a5c6850784dab3d444e42c253895",
+  "bytes": 1161,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812664",
+    "sha256": "789691b6da8faad5b3d7960f5dab5be0ab47c061dd628c06f3683cd7d5bf1f64"
+  },
+  "extraction": {
+    "tool": "tesseract 5.5.1; pdfimages version 26.04.0",
+    "command": "python3 tools/ocr_pdf_images.py <L0> <L1>"
+  },
+  "notices": [
+    "OCR text: machine-read from an image, and may contain recognition errors. The L0 image is the record."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

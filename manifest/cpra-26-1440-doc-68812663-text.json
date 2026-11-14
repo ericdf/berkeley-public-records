@@ -1,0 +1,23 @@
+{
+  "id": "cpra-26-1440-doc-68812663-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2.26.26 PRW w CM - Budget Balancing Proposal.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812663-text.txt",
+  "sha256": "26dc5e8e93ba4e14d3416f1ca3ebe235345a5e75be8687fd8ca1ac6008323f57",
+  "bytes": 1227,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812663",
+    "sha256": "80fbf663bd5797ca3b20a6aef07136234ef58e8f9d902befcf763735c604a4d2"
+  },
+  "extraction": {
+    "tool": "tesseract 5.5.1; pdfimages version 26.04.0",
+    "command": "python3 tools/ocr_pdf_images.py <L0> <L1>"
+  },
+  "notices": [
+    "OCR text: machine-read from an image, and may contain recognition errors. The L0 image is the record."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

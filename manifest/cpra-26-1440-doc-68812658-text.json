@@ -1,0 +1,23 @@
+{
+  "id": "cpra-26-1440-doc-68812658-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2.19.26 CMO w CM - Budget Balancing Proposal.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812658-text.txt",
+  "sha256": "430de1572eb9270eb92b1794873ddccd7754a0440a52fa7d6eb8b0f05a97007a",
+  "bytes": 1293,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812658",
+    "sha256": "1de0906fcae99e90e568b95beb3bc070c301f5e3e64f7b78980d627d3cc59c10"
+  },
+  "extraction": {
+    "tool": "tesseract 5.5.1; pdfimages version 26.04.0",
+    "command": "python3 tools/ocr_pdf_images.py <L0> <L1>"
+  },
+  "notices": [
+    "OCR text: machine-read from an image, and may contain recognition errors. The L0 image is the record."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

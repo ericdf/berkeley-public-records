@@ -1,0 +1,23 @@
+{
+  "id": "cpra-26-1440-doc-68812661-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2.20.26 HR w CM - Budget Balancing Proposal.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812661-text.txt",
+  "sha256": "f8db742d37890e8cc0cec122a8ac4be23f076d5bc9def6ff6d13d48075e125f5",
+  "bytes": 1178,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812661",
+    "sha256": "7419077f1e57437d0460ed4e484afba72077b83aa76ab193684d5c41157e40ef"
+  },
+  "extraction": {
+    "tool": "tesseract 5.5.1; pdfimages version 26.04.0",
+    "command": "python3 tools/ocr_pdf_images.py <L0> <L1>"
+  },
+  "notices": [
+    "OCR text: machine-read from an image, and may contain recognition errors. The L0 image is the record."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}
