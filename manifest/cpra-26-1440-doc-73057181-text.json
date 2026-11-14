@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-73057181-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "Draft Calendar for Budget Reduction Plan and Biennial Budget Adoption.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-73057181-text.txt",
+  "sha256": "2afbe20e83e27561c8973ab9b417cbb83e8f765af541d54b906b9746f7bbf9dc",
+  "bytes": 3884,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-73057181",
+    "sha256": "c8a393b38a0981b8b1f5777af4064accf4a36ef83d273baf8dc63a897fd288e3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

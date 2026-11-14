@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-73057198-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "POS - City of Berkeley - 2026 GOs.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-73057198-text.txt",
+  "sha256": "817557cbe6c110b0d542b9acaa3a749171316209d0253b41e1d7401355d89c3a",
+  "bytes": 271698,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-73057198",
+    "sha256": "b20e112df622d00b67c5513fc58608828c9b0e48c19a708e82791976b2e05800"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

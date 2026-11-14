@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812685-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "Item 03 Overview of Fund 501 Capital Improvement Fund (501 Budget and Finance Comm Presentation 2-26-26).pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812685-text.txt",
+  "sha256": "cef4cbcc8d1694a51b86d552caf5df2e0c97501336a2aace11212f2821991758",
+  "bytes": 5590,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812685",
+    "sha256": "e1016be22cda2d8ea78e0fc0c3669a140765913b2c390adbb6f8b89679dbefe4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

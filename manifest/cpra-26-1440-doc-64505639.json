@@ -1,0 +1,31 @@
+{
+  "id": "cpra-26-1440-doc-64505639",
+  "layer": "L0",
+  "doc_type": "cpra_document",
+  "collection": "cpra",
+  "publisher": "City of Berkeley — Multi-Department",
+  "title": "2026-04-09 Item 02 Auditor Budget and Finance Presentation.pdf",
+  "document_date": "2026-06-01",
+  "file": "L0/cpra/26-1440/cpra-26-1440-doc-64505639.pdf",
+  "sha256": "c0b0adc606b548f7e1d2d12748837a6ea89c1f1b6b17771aa66feab33907a3e3",
+  "bytes": 970051,
+  "source_url": "https://cityofberkeleyca.nextrequest.com/requests/26-1440",
+  "retrieved": "2026-11-14",
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "cpra": {
+    "request_id": "26-1440",
+    "request_date": "2026-05-19",
+    "department": [
+      "Multi-Department"
+    ],
+    "document_id": 64505639,
+    "document_url": "https://cityofberkeleyca.nextrequest.com/documents/64505639",
+    "upload_date": "2026-06-01",
+    "redacted_date": null,
+    "review_state": "Unprocessed",
+    "folder": "Resp 06.12.2026"
+  },
+  "notices": [],
+  "contributed_by": "ericdf"
+}

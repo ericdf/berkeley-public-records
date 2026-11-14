@@ -1,0 +1,27 @@
+{
+  "id": "cpra-26-1440-request",
+  "layer": "L0",
+  "doc_type": "cpra_request_record",
+  "collection": "cpra",
+  "publisher": "City of Berkeley — Multi-Department",
+  "title": "Public records request 26-1440: request, timeline and document index (NextRequest)",
+  "document_date": "2026-05-19",
+  "file": "L0/cpra/26-1440/cpra-26-1440-request.json",
+  "sha256": "3c6b2c3e342233fb4556deb86984ff5d2189f74552bd06c95742862f786cf34b",
+  "bytes": 84503,
+  "source_url": "https://cityofberkeleyca.nextrequest.com/requests/26-1440",
+  "retrieved": "2026-11-14",
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "format_note": "JSON object with keys request, timeline and documents, holding the portal's responses from /client/requests/<id>, /client/requests/<id>/timeline (all pages) and /client/request_documents?request_id=<id> (all pages; documents_state_timestamp removed), serialized with sorted keys.",
+  "cpra": {
+    "request_id": "26-1440",
+    "request_date": "2026-05-19",
+    "department": [
+      "Multi-Department"
+    ],
+    "request_state": "Closed"
+  },
+  "notices": [],
+  "contributed_by": "ericdf"
+}

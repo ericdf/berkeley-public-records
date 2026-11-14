@@ -1,0 +1,31 @@
+{
+  "id": "cpra-26-1440-doc-68812676",
+  "layer": "L0",
+  "doc_type": "cpra_document",
+  "collection": "cpra",
+  "publisher": "City of Berkeley — Multi-Department",
+  "title": "BudgetFinance-FY2728 Budget Update__04.16.26 (3).pdf",
+  "document_date": "2026-08-14",
+  "file": "L0/cpra/26-1440/cpra-26-1440-doc-68812676.pdf",
+  "sha256": "647d6a60cc4a885a8fef4c2193aaa650f92ccb2af1f0a37c17279297b740e2bd",
+  "bytes": 773231,
+  "source_url": "https://cityofberkeleyca.nextrequest.com/requests/26-1440",
+  "retrieved": "2026-11-14",
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "cpra": {
+    "request_id": "26-1440",
+    "request_date": "2026-05-19",
+    "department": [
+      "Multi-Department"
+    ],
+    "document_id": 68812676,
+    "document_url": "https://cityofberkeleyca.nextrequest.com/documents/68812676",
+    "upload_date": "2026-08-14",
+    "redacted_date": null,
+    "review_state": "Unprocessed",
+    "folder": "Resp 08.14.2026"
+  },
+  "notices": [],
+  "contributed_by": "ericdf"
+}

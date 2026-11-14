@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812668-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "5.14.26 Item2 FY 27 - FY 28 PROPOSED BIENNIAL BUDGET - Presentation.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812668-text.txt",
+  "sha256": "281b966ddaa85ef312f80962f519eaaf6297b13a32d2e91838366c1e719043e8",
+  "bytes": 51322,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812668",
+    "sha256": "c6e4f588787d1d9bbe36320e5f562f530071b250c08ebe0dc888ac77831b4922"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cpra-26-1440-doc-73057188",
+  "layer": "L0",
+  "doc_type": "cpra_document",
+  "collection": "cpra",
+  "publisher": "City of Berkeley — Multi-Department",
+  "title": "June 26 2026.pdf",
+  "document_date": "2026-10-30",
+  "file": "L0/cpra/26-1440/cpra-26-1440-doc-73057188.pdf",
+  "sha256": "7b8d0d40d93325ef50e2eb4b81c5a643661d38aaa7e232d2721f1aa5666c18a4",
+  "bytes": 85625,
+  "source_url": "https://cityofberkeleyca.nextrequest.com/requests/26-1440",
+  "retrieved": "2026-11-14",
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "cpra": {
+    "request_id": "26-1440",
+    "request_date": "2026-05-19",
+    "department": [
+      "Multi-Department"
+    ],
+    "document_id": 73057188,
+    "document_url": "https://cityofberkeleyca.nextrequest.com/documents/73057188",
+    "upload_date": "2026-10-30",
+    "redacted_date": null,
+    "review_state": "Unprocessed",
+    "folder": "Resp 10.30.26"
+  },
+  "notices": [],
+  "contributed_by": "ericdf"
+}

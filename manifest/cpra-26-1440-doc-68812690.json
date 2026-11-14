@@ -1,0 +1,31 @@
+{
+  "id": "cpra-26-1440-doc-68812690",
+  "layer": "L0",
+  "doc_type": "cpra_document",
+  "collection": "cpra",
+  "publisher": "City of Berkeley — Multi-Department",
+  "title": "PD Reduction Strategy 5%.pdf",
+  "document_date": "2026-08-14",
+  "file": "L0/cpra/26-1440/cpra-26-1440-doc-68812690.pdf",
+  "sha256": "e35568c784432da628a77094e7353a7cf8a9a20cd0e3603cb7f54221510801c6",
+  "bytes": 324720,
+  "source_url": "https://cityofberkeleyca.nextrequest.com/requests/26-1440",
+  "retrieved": "2026-11-14",
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "cpra": {
+    "request_id": "26-1440",
+    "request_date": "2026-05-19",
+    "department": [
+      "Multi-Department"
+    ],
+    "document_id": 68812690,
+    "document_url": "https://cityofberkeleyca.nextrequest.com/documents/68812690",
+    "upload_date": "2026-08-14",
+    "redacted_date": null,
+    "review_state": "Unprocessed",
+    "folder": "Resp 08.14.2026"
+  },
+  "notices": [],
+  "contributed_by": "ericdf"
+}

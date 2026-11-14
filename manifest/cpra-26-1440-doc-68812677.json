@@ -1,0 +1,31 @@
+{
+  "id": "cpra-26-1440-doc-68812677",
+  "layer": "L0",
+  "doc_type": "cpra_document",
+  "collection": "cpra",
+  "publisher": "City of Berkeley — Multi-Department",
+  "title": "FY27-28 Proposed NonPersonnel Reductions and Eliminations 03.26.pdf",
+  "document_date": "2026-08-14",
+  "file": "L0/cpra/26-1440/cpra-26-1440-doc-68812677.pdf",
+  "sha256": "ca4ad2ba9a1e1ddc34fca0c3b423bd5fc5e130017db4f3e4f578dc02a65911d3",
+  "bytes": 53022,
+  "source_url": "https://cityofberkeleyca.nextrequest.com/requests/26-1440",
+  "retrieved": "2026-11-14",
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "cpra": {
+    "request_id": "26-1440",
+    "request_date": "2026-05-19",
+    "department": [
+      "Multi-Department"
+    ],
+    "document_id": 68812677,
+    "document_url": "https://cityofberkeleyca.nextrequest.com/documents/68812677",
+    "upload_date": "2026-08-14",
+    "redacted_date": null,
+    "review_state": "Unprocessed",
+    "folder": "Resp 08.14.2026"
+  },
+  "notices": [],
+  "contributed_by": "ericdf"
+}

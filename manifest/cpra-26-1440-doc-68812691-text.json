@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812691-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "UPDATED Proposed as of 3.26.26 PW FY27_28 Defund List.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812691-text.txt",
+  "sha256": "7857c604c5d6537c384e6881632c65c1207ba18a44e778258b1dd0076538c83d",
+  "bytes": 14159,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812691",
+    "sha256": "ed8e0bb074adb56f62aaa96531bea68aef52268b5c3a1020bfaa1b72afd72f82"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-64505649-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "5.14.26 Item2 FY 27 – FY 28 Proposed Budget - Memo.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-64505649-text.txt",
+  "sha256": "6b18551c30d90ca93f84cb467f09d2996365d4474e0d597874889c4da02254d8",
+  "bytes": 5493,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-64505649",
+    "sha256": "92cf61ebe0c1f8ccb5ce7ee61805330268d1c719081a54e901ed6aeab703eba7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812688-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "MTO_Projection_All Employee_Job_Salary_03.31.2026.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812688-text.txt",
+  "sha256": "0dffa143779e05fc5b0e9fd260f5926ad49b36b8fc5a95b311b277536dc01626",
+  "bytes": 3594,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812688",
+    "sha256": "d4a9e042e36bbcf4b2de96f99975867a8eabcee0d6a113646dd165ee270d22d7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

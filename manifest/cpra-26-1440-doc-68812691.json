@@ -1,0 +1,31 @@
+{
+  "id": "cpra-26-1440-doc-68812691",
+  "layer": "L0",
+  "doc_type": "cpra_document",
+  "collection": "cpra",
+  "publisher": "City of Berkeley — Multi-Department",
+  "title": "UPDATED Proposed as of 3.26.26 PW FY27_28 Defund List.pdf",
+  "document_date": "2026-08-14",
+  "file": "L0/cpra/26-1440/cpra-26-1440-doc-68812691.pdf",
+  "sha256": "ed8e0bb074adb56f62aaa96531bea68aef52268b5c3a1020bfaa1b72afd72f82",
+  "bytes": 82785,
+  "source_url": "https://cityofberkeleyca.nextrequest.com/requests/26-1440",
+  "retrieved": "2026-11-14",
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "cpra": {
+    "request_id": "26-1440",
+    "request_date": "2026-05-19",
+    "department": [
+      "Multi-Department"
+    ],
+    "document_id": 68812691,
+    "document_url": "https://cityofberkeleyca.nextrequest.com/documents/68812691",
+    "upload_date": "2026-08-14",
+    "redacted_date": null,
+    "review_state": "Unprocessed",
+    "folder": "Resp 08.14.2026"
+  },
+  "notices": [],
+  "contributed_by": "ericdf"
+}

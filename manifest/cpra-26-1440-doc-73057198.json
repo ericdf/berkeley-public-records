@@ -1,0 +1,31 @@
+{
+  "id": "cpra-26-1440-doc-73057198",
+  "layer": "L0",
+  "doc_type": "cpra_document",
+  "collection": "cpra",
+  "publisher": "City of Berkeley — Multi-Department",
+  "title": "POS - City of Berkeley - 2026 GOs.pdf",
+  "document_date": "2026-10-30",
+  "file": "L0/cpra/26-1440/cpra-26-1440-doc-73057198.pdf",
+  "sha256": "b20e112df622d00b67c5513fc58608828c9b0e48c19a708e82791976b2e05800",
+  "bytes": 915737,
+  "source_url": "https://cityofberkeleyca.nextrequest.com/requests/26-1440",
+  "retrieved": "2026-11-14",
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "cpra": {
+    "request_id": "26-1440",
+    "request_date": "2026-05-19",
+    "department": [
+      "Multi-Department"
+    ],
+    "document_id": 73057198,
+    "document_url": "https://cityofberkeleyca.nextrequest.com/documents/73057198",
+    "upload_date": "2026-10-30",
+    "redacted_date": null,
+    "review_state": "Unprocessed",
+    "folder": "Resp 10.30.26"
+  },
+  "notices": [],
+  "contributed_by": "ericdf"
+}

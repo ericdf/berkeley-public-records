@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812671-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2025-10-28 Item 02 Parking Funds Update Presentation.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812671-text.txt",
+  "sha256": "0ecafab099806894de61c8d12389b7b94217e0251909bc30a92c58dede7364a3",
+  "bytes": 18958,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812671",
+    "sha256": "2ac94dd52d1389bede220008475d3b81c1491bf5c7ff298fcd168c104637d0b9"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

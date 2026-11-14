@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812670-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2025-09-11 Item 03 FY 27-28 Biennial Budget Process and Overview - Pres.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812670-text.txt",
+  "sha256": "e6046ab97b48e8f3bd5be4d00b8e01b112605a2ccfb57a0d3e646397fd29eba2",
+  "bytes": 9355,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812670",
+    "sha256": "c38bc521fe3d635e94ff7d849bcf7dda4963b778fd51ddfb96b62633a1c658d9"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

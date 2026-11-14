@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-73057200-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "Combined_BHSA_HHCS Health_Nov6.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-73057200-text.txt",
+  "sha256": "8517eafb5cb4f8b2f97d3bf1895c2d0bb05b1160cd2fbafaf306890cdee491da",
+  "bytes": 17656,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-73057200",
+    "sha256": "18b87801fb2552c719c1698602ec7d2d1fa1ca16f38bbdacdc5d60020c9ddc9f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}
