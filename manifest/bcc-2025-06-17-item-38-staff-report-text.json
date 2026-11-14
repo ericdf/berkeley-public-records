@@ -1,0 +1,24 @@
+{
+  "id": "bcc-2025-06-17-item-38-staff-report-text",
+  "layer": "L1",
+  "doc_type": "staff_report_text",
+  "collection": "staff_reports",
+  "body": "Berkeley City Council",
+  "meeting_date": "2025-06-17",
+  "meeting_label": "regular",
+  "title": "Changes to Selected Recreation Facilities and Camps Program Fees",
+  "file": "L1/staff-reports/bcc-2025-06-17-item-38-staff-report-text.txt",
+  "sha256": "dc8da267f2dfc7caf9630730f1f642c28e60ab1afc40f987d6f745c9cf7664e3",
+  "bytes": 129445,
+  "derived_from": {
+    "id": "bcc-2025-06-17-item-38-staff-report",
+    "sha256": "8d8c823553bf92bc9a7d29f632085631b916024bcc3832f40b8cac2121ffa5be"
+  },
+  "extraction": {
+    "tool": "pdftotext version 24.02.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}
