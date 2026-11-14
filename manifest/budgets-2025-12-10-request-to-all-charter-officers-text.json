@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2025-12-10-request-to-all-charter-officers-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Request to all Charter Officers",
+  "file": "L1/sources/budgets/budgets-2025-12-10-request-to-all-charter-officers-text.txt",
+  "sha256": "76b794de040022f31daea52753092ce244dfd6839d20d6032e873ee819cbf528",
+  "bytes": 43592,
+  "derived_from": {
+    "id": "budgets-2025-12-10-request-to-all-charter-officers",
+    "sha256": "ea3612277e89b6e666b076ed3dcc33b134f8d4c948c6cc5f94f32244ba383fef"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

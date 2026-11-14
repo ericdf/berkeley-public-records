@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-02-02-re-request-to-all-charter-officers-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Re: Request to all Charter Officers",
+  "file": "L1/sources/budgets/budgets-2026-02-02-re-request-to-all-charter-officers-text.txt",
+  "sha256": "e20f670b59f9d87773e2a7b5dd9fcf1a8107cbb19cc474983d821b0eff7252f6",
+  "bytes": 4984,
+  "derived_from": {
+    "id": "budgets-2026-02-02-re-request-to-all-charter-officers",
+    "sha256": "f473516693715a6ba4eb54eeb0a55721647a3b40672211410a7c475d3f37e355"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

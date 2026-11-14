@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-04-06-fy-2027-2028-baseline-budget-and-reduction-proposals-for-the-office-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "FY 2027–2028 Baseline Budget and Reduction Proposals for the Office of the Director of Police Accountability (ODPA)",
+  "file": "L1/sources/budgets/budgets-2026-04-06-fy-2027-2028-baseline-budget-and-reduction-proposals-for-the-office-text.txt",
+  "sha256": "00f1444fa054eb9b41202798e388cc39dfaf054c9b5acd4cbd3c474cdb73f334",
+  "bytes": 15680,
+  "derived_from": {
+    "id": "budgets-2026-04-06-fy-2027-2028-baseline-budget-and-reduction-proposals-for-the-office",
+    "sha256": "7a05f734a9c0b5ff9e122d5e4041acfa6547958a62e700acd263dcfe70247b85"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "budgets-2026-fy-2027-2028-proposed-budget-council-districts",
+  "layer": "L0",
+  "doc_type": "budget_document",
+  "collection": "budgets",
+  "publisher": "City of Berkeley",
+  "title": "FY 2027-2028 PROPOSED Budget - Council Districts",
+  "document_date": "2026",
+  "approved_by": "ericdf",
+  "file": "L0/sources/budgets/budgets-2026-fy-2027-2028-proposed-budget-council-districts.pdf",
+  "sha256": "0b0cfeb80f1a61dc8b861a47e9bd7dd49b0cc793872a8887f37c44490b9e034a",
+  "bytes": 119641,
+  "source_url": null,
+  "source_note": "Released by the City of Berkeley in response to public-records request 26-1440 (NextRequest, https://cityofberkeleyca.nextrequest.com/requests/26-1440); received 2026-11-12 as \"FY 2027-2028 Proposed Council Offices Budget.pdf\". No date is printed on the document; the file's creation date is 2026-05-29.",
+  "retrieved": null,
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

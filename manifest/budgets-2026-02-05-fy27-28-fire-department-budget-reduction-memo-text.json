@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-02-05-fy27-28-fire-department-budget-reduction-memo-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "FY27-28 Fire Department Budget Reduction Memo",
+  "file": "L1/sources/budgets/budgets-2026-02-05-fy27-28-fire-department-budget-reduction-memo-text.txt",
+  "sha256": "c8148e11dc4ceff6a077876bd1218c03cf57589e760e1ada63372854447ef561",
+  "bytes": 31233,
+  "derived_from": {
+    "id": "budgets-2026-02-05-fy27-28-fire-department-budget-reduction-memo",
+    "sha256": "4c7c99d8f7481ab46e790b85480550a0bd2a87393c843064ff1f614bf547f8d1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

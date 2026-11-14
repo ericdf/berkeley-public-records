@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-04-10-meet-and-confer-layoffs-city-manager-peu-afscme-local-1-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Meet and confer layoffs - City Manager (PEU AFSCME Local 1)",
+  "file": "L1/sources/budgets/budgets-2026-04-10-meet-and-confer-layoffs-city-manager-peu-afscme-local-1-text.txt",
+  "sha256": "9785c48748e4061c7067350624688e6d16ed0324f2684b80768abffd7d058adb",
+  "bytes": 3297,
+  "derived_from": {
+    "id": "budgets-2026-04-10-meet-and-confer-layoffs-city-manager-peu-afscme-local-1",
+    "sha256": "080b1da67beac6a604862414e0b53e6f180b4355917f4b19d9517adc784e09c7"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

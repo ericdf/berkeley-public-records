@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-prw-fy27-28-budget-balancing-measures-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "PRW FY27-28 Budget Balancing Measures",
+  "file": "L1/sources/budgets/budgets-2026-prw-fy27-28-budget-balancing-measures-text.txt",
+  "sha256": "db7ffdbdf70b60c64d09583885b49ba1451ab48b38ed9999b7024a6142a67899",
+  "bytes": 6704,
+  "derived_from": {
+    "id": "budgets-2026-prw-fy27-28-budget-balancing-measures",
+    "sha256": "cbab29c4d00143178307c1b235f805e4ce36e594d540b39b465232a53a2c853b"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

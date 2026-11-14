@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-01-24-fw-berkeley-ca-housing-overview-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Fw: Berkeley CA Housing Overview",
+  "file": "L1/sources/budgets/budgets-2026-01-24-fw-berkeley-ca-housing-overview-text.txt",
+  "sha256": "b1b3518b53e7d3c73d7e98a6bd9d88a4861425f2eb195210a32f06812a85c725",
+  "bytes": 10064,
+  "derived_from": {
+    "id": "budgets-2026-01-24-fw-berkeley-ca-housing-overview",
+    "sha256": "464a5f158943cdfd86a7238ee58fcb1d994f4cd03a77bf280218ae414f358d78"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

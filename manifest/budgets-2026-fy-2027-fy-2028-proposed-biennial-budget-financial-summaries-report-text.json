@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-fy-2027-fy-2028-proposed-biennial-budget-financial-summaries-report-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "FY 2027 & FY 2028 Proposed Biennial Budget Financial Summaries Report",
+  "file": "L1/sources/budgets/budgets-2026-fy-2027-fy-2028-proposed-biennial-budget-financial-summaries-report-text.txt",
+  "sha256": "664030f838fd254e93693d161b12d6fdc3339b95cc86afedf946a6918daf7e27",
+  "bytes": 89423,
+  "derived_from": {
+    "id": "budgets-2026-fy-2027-fy-2028-proposed-biennial-budget-financial-summaries-report",
+    "sha256": "631147bbeb0d239a06e75a847962f751a0b5df2f25f30e9ee3e30734368f5cec"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

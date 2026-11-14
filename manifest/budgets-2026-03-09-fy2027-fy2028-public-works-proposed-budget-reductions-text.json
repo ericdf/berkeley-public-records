@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-03-09-fy2027-fy2028-public-works-proposed-budget-reductions-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "FY2027 & FY2028 Public Works Proposed Budget Reductions",
+  "file": "L1/sources/budgets/budgets-2026-03-09-fy2027-fy2028-public-works-proposed-budget-reductions-text.txt",
+  "sha256": "1432c56a941f2614021f4523af85fdb8a91bbbfdc68e2fd07f6393c5dff1d041",
+  "bytes": 9150,
+  "derived_from": {
+    "id": "budgets-2026-03-09-fy2027-fy2028-public-works-proposed-budget-reductions",
+    "sha256": "615801fa2aca46851e4777155df3b1acdaa8c52227edcdbbffa7647462bd454a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-03-04-hr-fy-27-fy-28-budget-reduction-proposal-and-operational-impacts-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "HR FY 27 FY 28 Budget Reduction Proposal and Operational Impacts",
+  "file": "L1/sources/budgets/budgets-2026-03-04-hr-fy-27-fy-28-budget-reduction-proposal-and-operational-impacts-text.txt",
+  "sha256": "24709296c3788308e93b99173c890cd3a05ac2d6c0d981a30fc5ff379d2825d6",
+  "bytes": 7365,
+  "derived_from": {
+    "id": "budgets-2026-03-04-hr-fy-27-fy-28-budget-reduction-proposal-and-operational-impacts",
+    "sha256": "7f7ddab368ab507371ca4bb465a6af6ea7d46cfa210c315200d01af429e85991"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

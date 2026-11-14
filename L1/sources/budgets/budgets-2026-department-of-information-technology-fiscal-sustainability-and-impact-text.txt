@@ -1,0 +1,416 @@
+Department of Information Technology
+
+Fiscal Sustainability and Impact of Proposed FY2027–FY2028 Reductions
+
+Overview
+
+The Department of Information Technology (IT) provides the digital infrastructure that
+enables nearly every operational function of the City of Berkeley. These services support
+ﬁnancial management systems, permitting and licensing platforms, communications
+infrastructure, cybersecurity protections, data management, and the network systems
+used by City departments to deliver services to community members.
+
+As part of the City’s broader effort to address a structural ﬁscal imbalance, IT has
+evaluated potential expenditure reductions for FY2027 and FY2028. However, the nature of
+technology operations creates unique ﬁscal constraints. A signiﬁcant portion of IT
+expenditures consists of ﬁxed costs necessary to maintain core systems, enterprise
+software licensing, cybersecurity protections, and regulatory compliance requirements
+required to sustain City operations.
+
+As a result, reductions to the IT budget must be approached carefully, as they may directly
+affect the reliability, security, and long-term sustainability of the City’s technology
+infrastructure.
+
+
+
+Fiscal Context
+
+The Department’s projected baseline expenditures are approximately $18.6 million in
+FY2027 and $18.9 million in FY2028, representing the cost required to maintain the City’s
+existing technology infrastructure and services.
+
+Under the current ﬁscal targets, available revenues are projected to be approximately
+$15.27 million annually, creating a structural gap between the cost of maintaining existing
+services and the available funding.
+
+This gap reﬂects several structural pressures affecting public-sector technology
+operations, including:
+
+• Continued increases in enterprise software and cloud service costs
+• Increasing cybersecurity and regulatory compliance requirements
+• Aging infrastructure requiring lifecycle replacement
+• Growing demand for digital services across City departments
+These pressures create a challenging environment in which maintaining the City’s existing
+technology environment becomes increasingly difficult within the current funding
+structure.
+
+
+
+IT Funding Structure
+
+Most IT services are funded through Internal Service Fund 680 (IT Cost Allocation). This
+model distributes the cost of enterprise technology services across City departments
+based on staffing and operational needs.
+
+Although this structure functions as an internal service model, the majority of these costs
+ultimately originate from the General Fund, because most City departments rely primarily
+on General Fund resources to pay their share of the IT Cost Allocation. As a result, ﬁscal
+pressures affecting the General Fund indirectly impact the sustainability of the City’s
+technology operations.
+
+The General Fund itself represents approximately 7% of IT’s direct funding, or roughly $1.2
+million annually. IT modeled scenarios reﬂecting 10% and 12.5% reductions to this portion
+of the budget as requested.
+
+Because the General Fund portion represents a relatively small share of IT’s total funding,
+reductions in this area generate limited savings while still affecting the Department’s
+operational ﬂexibility.
+
+
+
+Historical Fiscal Context
+
+The Department’s current ﬁscal position is also inﬂuenced by prior budget actions. In
+FY2026, $6.46 million was removed from the IT Cost Allocation Fund in a one-time action to
+balance the FY2026 budget.
+
+Historically, these reserves functioned as a ﬁnancial buffer that allowed IT to manage
+infrastructure lifecycle replacements and major system upgrades without disrupting
+operations. The removal of these funds signiﬁcantly reduced IT’s ability to absorb cost
+increases or respond to emerging technology needs.
+
+As a result, IT entered the current budget cycle with limited ﬁnancial ﬂexibility while
+continuing to face increasing operational costs and aging infrastructure.
+
+
+
+Actual Liabilities are Greater with Funds 502 and 503 Considered
+As reported, the true ﬁnancial liability of the IT department is signiﬁcantly higher. As
+discussed in our budget review, the current deﬁcit only accounts for the gap between Fund
+680 and the General Fund revenues against projected expenditures. This calculation
+overlooks two critical, "sunset" funds that are no longer being replenished but continue to
+carry heavy operational costs: VOIP (502) and FUND$ Replacement (503).
+
+   •   Fund 502 (Telephony): Funding ceased at the end of FY2024, yet the fund remains
+       responsible for the annual Avaya phone service contract, which costs
+       approximately $460K per year. With a projected balance of only $393K by the end of
+       FY26, this fund is on a trajectory to reach a negative $551K balance shortly
+       thereafter.
+
+   •   Fund 503 (FUND$ Replacement): This fund is in a similarly depleted state and is
+       projected to incur a negative balance of $1.8M by the end of FY28.
+
+To ensure ﬁscal transparency and operational continuity, we propose transferring the
+liabilities of these two exhausted funds into the 680 Cost Allocation model. While this
+move provides a more accurate accounting of our obligations, it will inherently widen the
+current deﬁcit gap, necessitating a reevaluation of our total funding requirements.
+
+
+
+Cost Pressures in Technology Operations
+
+Technology operations experience cost drivers that differ from other City services.
+
+   •   Vendor Cost Escalation
+       Enterprise technology vendors routinely implement annual price increases (average
+       12-15%) for licensing, cloud services, and support contracts. These increases are
+       typically embedded within renewal agreements and are difficult to avoid.
+   •   Regulatory and Security Requirements
+       Public sector technology environments must comply with a range of security and
+       regulatory standards necessary to protect public data and maintain eligibility for
+       cyber insurance and regulatory compliance.
+   •   Infrastructure Lifecycle Requirements
+       Core infrastructure systems require periodic replacement to maintain reliability and
+       performance. Deferring lifecycle investments can increase long-term costs and
+       operational risk.
+
+For these reasons, IT’s baseline cost projections represent the minimum level required to
+maintain the City’s technology infrastructure.
+Proposed Workplan Reductions
+
+To help meet the ﬁscal reduction targets, IT evaluated its planned technology workplan and
+identiﬁed projects that could reluctantly be deferred or scaled back.
+
+These proposed reductions total approximately $3.15 million in FY2027 and $2.9 million in
+FY2028 and primarily involve postponing infrastructure modernization projects, reducing
+support services, and delaying technology initiatives intended to improve operational
+efficiency.
+
+The most signiﬁcant reduction involves postponing the City’s telephony integration with
+Microsoft Teams, representing approximately $1.6 million in FY2027 and $1.4 million in
+FY2028. This project was intended to modernize the City’s aging phone infrastructure and
+improve resiliency and reliability. Deferring this project prolongs reliance on aging
+equipment and increases the potential risk of service disruptions. The instability of this
+unfunded infrastructure has already manifested in critical service gaps. In the past year,
+Public Safety Dispatch experienced several Avaya outages that prevented the public from
+reaching non-emergency lines and left the Communications Center unable to make
+outbound calls. Similar outages at the Transfer Station disabled their ability to process
+credit card payments, which rely on a stable, wired phone connection for transactions.
+
+Additional reductions include delaying network and bandwidth upgrades for remote City
+facilities, which were originally planned to improve connectivity, reliability, and
+performance.
+
+IT also proposes eliminating Service Desk staff augmentation currently provided through
+CompuCom, representing approximately $500,000 annually. Removing these resources
+however, will reduce Service Desk capacity and will result in longer response times for City
+staff requesting technical support.
+
+Other reductions include postponing implementation of an Enterprise Integration Platform,
+which was intended to improve coordination between City systems and support
+centralized ﬁnancial tools such as an accounts receivable and billing portal. Without this
+platform, departments will continue relying on point-to-point integrations, which require
+more manual effort and increase system complexity. Another way to look at it: Operating
+without an integration platform is like running a city where every department speaks a
+different language and we have to hire expensive translators for every single conversation.
+An integration platform is the 'Universal Language' that allows our systems to talk to each
+other automatically, reducing human error, protecting our data, and ensuring that our IT
+personnel spend their time on innovation rather than manual data entry.
+Planned investments in Artiﬁcial Intelligence technologies intended to streamline
+administrative processes will also be delayed, limiting opportunities to improve operational
+efficiency across departments and increasing cyber and privacy risks as personnel seek to
+use their own AI solutions.
+
+Finally, the Department proposes eliminating certain vendor support services, including
+Microsoft enterprise support, which may increase the time required to resolve complex
+technical issues affecting email systems, desktops, and applications.
+
+Ultimately, these proposed workplan reductions delay several modernization efforts and
+require the department to operate existing systems longer than originally planned. This
+means community members will likely experience a slower, less reliable, and more
+fragmented interaction with City staff. By deferring critical infrastructure upgrades and
+reducing support capacity, the City risks more frequent service disruptions—similar to the
+recent outages that hindered non-emergency public safety lines and paralyzed payment
+processing at the Transfer Station.
+
+The consequences of maintaining such vulnerabilities are not theoretical; the 2023
+ransomware attack on the City of Oakland serves as a stark warning. In that instance, the
+exploitation of aging, underfunded systems led to a months-long state of emergency, the
+leaking of sensitive resident data, and the total paralysis of business licensing and permit
+processing. By cutting $3.15 million from our own modernization efforts today, we are
+effectively choosing to operate on the same fragile foundation that left Oakland vulnerable.
+For the general public, this translates to a "hidden tax" of risk: longer wait times for
+assistance, a higher probability of systemic collapse during a cyber event, and a digital
+infrastructure that continues to age rather than evolve to meet modern needs.
+
+
+
+
+Proposed Workforce Reductions
+
+In addition to reductions within the technology workplan, IT evaluated personnel
+reductions to help address the ﬁscal targets.
+
+These reductions total approximately $846,730 in FY2027 and $876,621 in FY2028 in
+ongoing personnel savings and focus primarily on vacant positions across multiple
+operational areas.
+
+The proposed workforce reductions include:
+   •   Application Programmer Analyst II
+       This position supports several business systems used by City departments,
+       including systems supporting Police and Fire operations. Eliminating this position
+       will reduce IT’s ability to respond quickly to system issues and enhancements
+       affecting these critical systems.
+   •   Customer Service III (311 / Service Desk)
+       This role supports the City’s 311 customer service operations. Removing this
+       position will reduce call-handling capacity and may result in longer response times
+       for community members and City staff requesting assistance.
+   •   Project Manager II
+       This role provides coordination and oversight for City technology projects.
+       Eliminating this position will slow project implementation and reduce oversight for
+       technology initiatives requested by City departments.
+   •   Senior Information Systems Specialist
+       This position supports critical infrastructure systems including servers, network
+       systems, and core technology platforms. Eliminating this position reduces IT’s
+       technical capacity to maintain and implement infrastructure and security
+       improvements.
+
+At face value, one can argue that IT’s head count-to-support ratio of 1:52 (49 IT to 1700-
+1800 employees) is “healthy”. In reality, the 1:52 ratio is a mathematical illusion that
+misrepresents our operational reality. Most "industry standard" benchmarks assume a
+horizontal support structure, where a large pool of interchangeable generalists focuses on
+high-volume, low-complexity tasks like PC/laptop "break-ﬁx" support.
+
+In contrast, IT operates as a “vertical shop”, where staffing is dictated by specialized,
+mission-critical systems. Of our 49 positions, 22 are dedicated to non-engineering
+functions, including public-facing 311 services, internal help-desk support, and essential
+ﬁscal/administrative oversight. This leaves a balance of only 27 technical specialists—Sr.
+Information Systems Specialists (SISS), Application Programmer Analysts (APA I & II) and
+one Program Manager—to manage the City’s critical infrastructure.
+
+These 27 individuals perform the "digital surgery" required to maintain ERMA, FUND$, our
+virtual compute environment, custom apps for various departments (Accela, Inspection
+Software, HHCS systems) and cybersecurity. Because our structure is vertical, expertise is
+deep but narrow; a Programmer Analyst dedicated to applications such as AMCS (Zero
+Waste) or berth rentals (PRW) cannot be swapped to troubleshoot a desktop or a phone
+line.
+In summary, these reductions represent approximately 8% of IT’s overall staffing capacity
+and 11% of IT’s technical capacity and reduce the City’s internal technology expertise at a
+time when demand for digital services continues to grow.
+
+
+
+Strategic Technology Risk: FUND$ Financial System
+
+One of the most signiﬁcant technology risks currently facing the City is the FUND$ ﬁnancial
+system.
+
+FUND$ was implemented in 1989 and has been heavily customized over several decades
+to support the City’s ﬁnancial operations. While the system continues to function, its age
+and customization make it increasingly difficult to maintain and support.
+
+The City currently spends approximately $500,000 per year maintaining the system.
+However, because the system relies on outdated technologies and extensive
+customization, qualiﬁed support resources are increasingly difficult to obtain.
+
+Given the critical role of this system in managing the City’s ﬁnancial operations, the risk
+associated with maintaining the platform continues to grow.
+
+For this reason, replacing the FUND$ system is IT’s primary strategic technology priority for
+FY2027 and FY2028. Moving off of this platform will reduce operational risk and improve
+integration between ﬁnancial systems and other City applications.
+
+
+
+Conclusion
+
+The reductions outlined above allow IT to move toward the City’s ﬁscal targets; however,
+they also require deferring key modernization projects, reducing operational support
+capacity, and eliminating critical technical positions.
+
+Taken together, these actions shift IT’s focus from technology modernization toward
+maintaining the stability of existing systems with fewer resources.
+
+While IT will continue working closely with the City Manager’s Office and the Budget Office
+to implement these reductions responsibly, it is important to recognize that sustained
+underinvestment in core technology infrastructure will increase operational risk over time.
+Aging systems will remain in service longer, modernization efforts will slow, and the City’s
+ability to respond quickly to emerging technology needs will be reduced.
+Continued investment in the City’s core technology infrastructure—particularly the
+replacement of the FUND$ ﬁnancial system—will remain essential to maintaining reliable
+City operations and supporting the delivery of services to Berkeley community members.
+Appendix A
+Proposed Information Technology Workplan Reductions
+Table: Proposed Workplan Reductions
+
+                                            One-
+                    FY27 Cost   FY28 Cost
+Proposed Item                               Time /  Service / Community Impact
+                    Reduction   Reduction
+                                            Ongoing
+
+Infrastructure –
+                                                   Delays modernization of City phone systems and increases
+Postpone
+                                                   risk of extended telephony outages. Risk is real. PSB and
+Telephony           $1,600,000 $1,400,000 One-time
+                                                   Transfer Station have historical outages affecting
+Integration with MS
+                                                   community members.
+Teams
+
+                                                      Drastically slower Service Desk response times for City
+Service Desk –
+                                                      staff, effectively handcuffs City departments from
+Eliminate
+                    $500,000    $500,000    Ongoing   performing their work—from Public Works to emergency
+CompuCom Staff
+                                                      coordination—waiting for hours if not days for a ﬁx and/or
+Augmentation
+                                                      resolution.
+
+                                                     Delays integration of City systems and centralized billing
+                                                     capabilities. Platform integration reduces data risk by
+                                                     replacing fragmented, manual "point-to-point" connections
+Applications –                                       with a secure, centralized hub that enforces consistent
+Integration         $350,000    $350,000    One-time encryption and access controls across all departments. This
+Platform                                             "Universal Language" eliminates the human errors and
+                                                     "shadow IT" vulnerabilities that occur when data is manually
+                                                     moved between incompatible systems, signiﬁcantly
+                                                     narrowing the entry points for a cyberattack.
+
+                                                      By failing to provide a secure, City-governed AI solution, we
+Applications –                                        force employees to turn to unmonitored, third-party tools—
+Artiﬁcial           $370,000    $370,000    Ongoing   effectively leaking sensitive data into the public domain and
+Intelligence                                          creating the exact same security gaps that led to the
+                                                      devastating Oakland ransomware breach.
+
+                                                      Replacing end-of-life switches and routers is critical
+                                                      because modern hardware acts as a "digital immune
+Infrastructure –
+                                                      system," providing the processing power needed for the
+Remote Site      $150,000       $150,000    Ongoing
+                                                      latest security patches and encryption. Failing to refresh this
+Network Upgrades
+                                                      aging equipment leaves our remote sites with unpatchable
+                                                      vulnerabilities.
+
+Infrastructure –                                     Postponing infrastructure upgrades at 1947 Center leaves
+Fiber Upgrade       $50,000     —           One-time personnel operating on saturated networks that have
+(1947 Center St.)                                    already reached their maximum data capacity. Without
+                                                     these necessary bandwidth expansions, the resulting
+                                             One-
+                     FY27 Cost   FY28 Cost
+Proposed Item                                Time /  Service / Community Impact
+                     Reduction   Reduction
+                                             Ongoing
+
+                                                       system latency will continue to hinder daily operations and
+                                                       frustrate staff.
+
+                                                       Postponing infrastructure upgrades at remote City facilities
+                                                       leaves personnel operating on saturated networks that have
+Infrastructure –
+                                                       already reached their maximum data capacity. Without
+Remote Site
+                     $30,000     $30,000     Ongoing   these necessary bandwidth expansions, the resulting
+Bandwidth
+                                                       system latency will continue to hinder daily operations and
+Upgrades
+                                                       frustrate staff, directly impacting the City’s ability to
+                                                       maintain reliable, real-time coordination across all sites.
+
+                                                       Removing Microsoft Enterprise support eliminates our direct
+                                                       line to Microsoft who help maintain our core systems,
+                                                       meaning a complex bug or security vulnerability could easily
+Microsoft
+                   $95,000       $95,000     Ongoing   escalate from a minor ﬁx into a multi-day blackout. Without
+Enterprise Support
+                                                       this expert fallback, the City loses its ability to rapidly
+                                                       resolve high-level technical failures, risking a total paralysis
+                                                       of the public's ability to reach City staff.
+
+Total Workplan Reductions
+FY2027: $3,145,000
+FY2028: $2,895,000
+
+
+
+
+Proposed Workforce Reductions
+Table: Proposed Workforce Reductions
+
+                          FY27         FY28       Ongoing /
+Position                                                         Operational Risk
+                          Savings      Savings    One-Time
+
+Application Programmer                                           Reduced support for systems used by Police and
+                          $243,676     $250,770   Ongoing
+Analyst                                                          Fire departments
+
+Customer Service III (311 /                                      Slower response times for residents and staff
+                            $139,692   $147,294   Ongoing
+Service Desk)                                                    contacting 311
+
+                                                                 Delays in technology project implementation and
+Project Manager II        $286,959     $292,781   Ongoing
+                                                                 oversight
+
+Senior Information                                               Reduced capacity to maintain and implement
+                          $176,403     $185,776   Ongoing
+Systems Specialist                                               server, network, and security infrastructure
+
+Total Workforce Reductions
+FY2027: $846,730
+FY2028: $876,621
+

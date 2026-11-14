@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-04-23-budget-narrative-cao-major-accomplishments-from-july-1-2024-present-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Budget Narrative – CAO Major Accomplishments from July 1, 2024 – Present",
+  "file": "L1/sources/budgets/budgets-2026-04-23-budget-narrative-cao-major-accomplishments-from-july-1-2024-present-text.txt",
+  "sha256": "2331ed9db9394513553bb0b405cba30ec4d833c7a0fe0997ed8d027e5eb14e10",
+  "bytes": 27734,
+  "derived_from": {
+    "id": "budgets-2026-04-23-budget-narrative-cao-major-accomplishments-from-july-1-2024-present",
+    "sha256": "c6dfef039f06116393264f52de02018aec91a73ceaa4741d48d04590d1622b3c"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2025-05-15-re-5-15-budget-finance-committee-supplemental-material-item-03-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "RE: 5/15 Budget & Finance Committee - Supplemental Material Item 03",
+  "file": "L1/sources/budgets/budgets-2025-05-15-re-5-15-budget-finance-committee-supplemental-material-item-03-text.txt",
+  "sha256": "6c5a74de192f6390b5c87b513247cb9b0603ad95522ad001110d8356bb8aedd5",
+  "bytes": 20879,
+  "derived_from": {
+    "id": "budgets-2025-05-15-re-5-15-budget-finance-committee-supplemental-material-item-03",
+    "sha256": "763d252b6728118d10791d30515225ca2f39d38aba3e9ec278ab159bc3d27662"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

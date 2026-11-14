@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-05-28-bpd-overtime-summary-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "BPD Overtime Summary",
+  "file": "L1/sources/budgets/budgets-2026-05-28-bpd-overtime-summary-text.txt",
+  "sha256": "0fb37a8c30f0fa13bdb77c8065c49d2d824a378c6ef86de41e370458ff55b58e",
+  "bytes": 7194,
+  "derived_from": {
+    "id": "budgets-2026-05-28-bpd-overtime-summary",
+    "sha256": "5b09f8545e8c551e6840339caa6608cb7fc4215743ad2035bd0f5c6ba866cdca"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

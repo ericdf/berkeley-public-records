@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-civic-arts-roles-responsibilities-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Civic Arts Roles & Responsibilities",
+  "file": "L1/sources/budgets/budgets-2026-civic-arts-roles-responsibilities-text.txt",
+  "sha256": "049ce02b816a5dedba20b7f8d9b232be6e9107f52458b4667a3fd7873fdbfe67",
+  "bytes": 7765,
+  "derived_from": {
+    "id": "budgets-2026-civic-arts-roles-responsibilities",
+    "sha256": "6b6a5978e71d1b9c4e3da6194ecffef085ea6a1b3b59e248193f636c25ff032b"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

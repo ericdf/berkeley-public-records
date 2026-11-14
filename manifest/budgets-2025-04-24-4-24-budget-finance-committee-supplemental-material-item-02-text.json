@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2025-04-24-4-24-budget-finance-committee-supplemental-material-item-02-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "4/24 Budget & Finance Committee - Supplemental Material Item 02",
+  "file": "L1/sources/budgets/budgets-2025-04-24-4-24-budget-finance-committee-supplemental-material-item-02-text.txt",
+  "sha256": "a8e3401adb7ab5340d63d7a448ed338b29c63ef7e8079517a0436bbc11a46c00",
+  "bytes": 147224,
+  "derived_from": {
+    "id": "budgets-2025-04-24-4-24-budget-finance-committee-supplemental-material-item-02",
+    "sha256": "68a064103d7d259dc1c913830ca5a27535638480f997bbac7608e8b39d21b98f"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

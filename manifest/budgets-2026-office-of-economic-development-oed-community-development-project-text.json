@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-office-of-economic-development-oed-community-development-project-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Office of Economic Development (OED) | Community Development Project Coordinator (CDPC)",
+  "file": "L1/sources/budgets/budgets-2026-office-of-economic-development-oed-community-development-project-text.txt",
+  "sha256": "09bc2a88ff8e0d8c1f98d954bf847bd6f5a8f6d9c36ca94a825c5bb7bd8fb2f1",
+  "bytes": 5691,
+  "derived_from": {
+    "id": "budgets-2026-office-of-economic-development-oed-community-development-project",
+    "sha256": "e6c0ad483d91cf74abb33880e2d929ce15701445aa2dc523d08d5251699f2fe4"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

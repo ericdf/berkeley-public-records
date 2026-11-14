@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2025-06-23-rashi-s-item-supplemental-packet-for-tomorrow-s-meeting-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Rashi's Item- Supplemental packet for tomorrow's meeting",
+  "file": "L1/sources/budgets/budgets-2025-06-23-rashi-s-item-supplemental-packet-for-tomorrow-s-meeting-text.txt",
+  "sha256": "b48132ecff7c78c4672059884bd3b5f21b4f944d9dc34852c25a80ed5a0cad24",
+  "bytes": 18323,
+  "derived_from": {
+    "id": "budgets-2025-06-23-rashi-s-item-supplemental-packet-for-tomorrow-s-meeting",
+    "sha256": "1835bcd63fdd79383a641765fe078257b964a88ac9e0b6a6615fef4d3f52461a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

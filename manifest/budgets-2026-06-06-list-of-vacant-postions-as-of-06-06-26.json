@@ -1,0 +1,20 @@
+{
+  "id": "budgets-2026-06-06-list-of-vacant-postions-as-of-06-06-26",
+  "layer": "L0",
+  "doc_type": "budget_document",
+  "collection": "budgets",
+  "publisher": "City of Berkeley",
+  "title": "List of Vacant Postions as of 06-06-26",
+  "document_date": "2026-06-06",
+  "approved_by": "ericdf",
+  "file": "L0/sources/budgets/budgets-2026-06-06-list-of-vacant-postions-as-of-06-06-26.xlsx",
+  "sha256": "0cd6ab1727fd5417791e6e3fbd57034bdd939192a64a99372cb025ee1b11a63f",
+  "bytes": 26598,
+  "source_url": null,
+  "source_note": "Released by the City of Berkeley in response to public-records request 26-1440 (NextRequest, https://cityofberkeleyca.nextrequest.com/requests/26-1440); received 2026-10-23 as \"List of Vacant Postions as of 06-06-26 (1).xlsx\".",
+  "retrieved": null,
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

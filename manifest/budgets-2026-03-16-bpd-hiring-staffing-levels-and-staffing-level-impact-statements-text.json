@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-03-16-bpd-hiring-staffing-levels-and-staffing-level-impact-statements-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "BPD Hiring/Staffing Levels and Staffing Level Impact Statements",
+  "file": "L1/sources/budgets/budgets-2026-03-16-bpd-hiring-staffing-levels-and-staffing-level-impact-statements-text.txt",
+  "sha256": "f361e940ebd4296401c17f2b13ff74dcff81ef2187907601c2e03d3b0387a62b",
+  "bytes": 15059,
+  "derived_from": {
+    "id": "budgets-2026-03-16-bpd-hiring-staffing-levels-and-staffing-level-impact-statements",
+    "sha256": "aa703ff733c6e6639dae7abdccf786e49e8ba6b4b1ef8304347194755e2a25a1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

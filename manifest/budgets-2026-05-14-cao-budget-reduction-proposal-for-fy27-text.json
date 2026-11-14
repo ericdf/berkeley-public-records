@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-05-14-cao-budget-reduction-proposal-for-fy27-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "CAO Budget Reduction Proposal for FY27",
+  "file": "L1/sources/budgets/budgets-2026-05-14-cao-budget-reduction-proposal-for-fy27-text.txt",
+  "sha256": "ae8c573b01905fb8556a002d22da1f6e8dfec0cc8d53fb3f950330ee9ea3f0f6",
+  "bytes": 8972,
+  "derived_from": {
+    "id": "budgets-2026-05-14-cao-budget-reduction-proposal-for-fy27",
+    "sha256": "4fca4b6199767c9b5e6efef53547e0b87fe6f3de4cb3f9541207bccea569323d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}
