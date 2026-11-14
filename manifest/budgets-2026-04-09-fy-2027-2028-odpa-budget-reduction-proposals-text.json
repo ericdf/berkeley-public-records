@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-04-09-fy-2027-2028-odpa-budget-reduction-proposals-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "FY 2027 – 2028 ODPA Budget & Reduction Proposals",
+  "file": "L1/sources/budgets/budgets-2026-04-09-fy-2027-2028-odpa-budget-reduction-proposals-text.txt",
+  "sha256": "914e41a6bc520600d9420993b75338394e5e1ed44ded7f77f8e570a15a1cc6e8",
+  "bytes": 6897,
+  "derived_from": {
+    "id": "budgets-2026-04-09-fy-2027-2028-odpa-budget-reduction-proposals",
+    "sha256": "ac8c16301253d7ebd66e4def11aa2c06a7462ae43867c3d43bdb02ee84110944"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

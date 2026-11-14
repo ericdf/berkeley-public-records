@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-03-06-fy27-fy28-budget-balancing-proposal-12-5-reduction-scenario-hhcs-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "FY27 & FY28 Budget Balancing Proposal: 12.5% Reduction Scenario (HHCS)",
+  "file": "L1/sources/budgets/budgets-2026-03-06-fy27-fy28-budget-balancing-proposal-12-5-reduction-scenario-hhcs-text.txt",
+  "sha256": "7630ef83caae5d90214b59c8c02c636cffff55e6bd9172f9358504f072020245",
+  "bytes": 26452,
+  "derived_from": {
+    "id": "budgets-2026-03-06-fy27-fy28-budget-balancing-proposal-12-5-reduction-scenario-hhcs",
+    "sha256": "6b6c503c492e7b65d6c89d1cf6e695976b7d9934ed77f3381ae661f2b0bd78d8"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

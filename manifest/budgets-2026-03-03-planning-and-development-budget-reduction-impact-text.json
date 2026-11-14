@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-03-03-planning-and-development-budget-reduction-impact-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Planning and Development Budget Reduction Impact",
+  "file": "L1/sources/budgets/budgets-2026-03-03-planning-and-development-budget-reduction-impact-text.txt",
+  "sha256": "78469fc13566299ff6363af89bea68ae4cd778e7d3e14ac62fda4621f6eedbe5",
+  "bytes": 2711,
+  "derived_from": {
+    "id": "budgets-2026-03-03-planning-and-development-budget-reduction-impact",
+    "sha256": "17566f366892de25cd99d17230b4d9bc1d337f366d26f169f2da25bd9e47fda5"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-04-10-rfi-related-to-pending-layoffs-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "RFI related to pending layoffs",
+  "file": "L1/sources/budgets/budgets-2026-04-10-rfi-related-to-pending-layoffs-text.txt",
+  "sha256": "479f1695d9b4611d970707e22eff4542c6c0f962d5eae473ca520eaab0f94407",
+  "bytes": 4482,
+  "derived_from": {
+    "id": "budgets-2026-04-10-rfi-related-to-pending-layoffs",
+    "sha256": "32817bf471298d61440e93ad0c2d73ef7ca575926bc35bb81b6b1408aa602fbb"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

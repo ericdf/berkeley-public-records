@@ -1,0 +1,20 @@
+{
+  "id": "budgets-2026-cost-scenario-calpers-contributions-2026",
+  "layer": "L0",
+  "doc_type": "budget_document",
+  "collection": "budgets",
+  "publisher": "City of Berkeley",
+  "title": "Cost Scenario - CalPERS Contributions 2026",
+  "document_date": "2026",
+  "approved_by": "ericdf",
+  "file": "L0/sources/budgets/budgets-2026-cost-scenario-calpers-contributions-2026.pdf",
+  "sha256": "3eb8b55154490ea95b1e74d9fcf1c49d9225331684a8528af22d3f11eb70aa55",
+  "bytes": 157819,
+  "source_url": null,
+  "source_note": "Released by the City of Berkeley in response to public-records request 26-1440 (NextRequest, https://cityofberkeleyca.nextrequest.com/requests/26-1440); received 2026-10-23 as \"Cost Scenario - CalPERS Contributions 2026.pdf\". No date is printed on the document; the file's creation date is 2026-06-10.",
+  "retrieved": null,
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

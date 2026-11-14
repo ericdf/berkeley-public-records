@@ -1,0 +1,133 @@
+                         Berkeley Police Department
+                                   Memorandum
+
+
+To:         City Manager Paul Buddenhagen           Date:     May 28, 2026
+            Deputy City Manager David White
+From:       Chief Jennifer Louis
+
+Subject:    BPD Overtime Summary
+
+
+Summary
+The department's overtime (OT) budget baseline has remained essentially flat over the last
+3 fiscal years at approximately $7.5 million while annual actuals have climbed to
+approximately $10 million. The structural gap is concentrated in the Communications
+Center where scheduled dispatcher staffing sits below the minimum required to keep the
+floor covered, making OT a necessity rather than discretionary. Sworn officer OT tracks
+budget closely once reimbursements are accounted for, and it is anticipated that
+negotiations with BPA will further help the Department manage Sworn officer OT. Targeted
+operational investments outlined separately (Communications Center technology and the
+public safety technology packages) would allow minimum staffing requirements to lower
+and thereby relieve OT pressure and could reduce the size of future OT allocations.
+
+
+Cost Growth in OT is Partly Mechanical
+Even setting operational drivers aside, OT cost rises year over year through factors that
+have nothing to do with hours worked: MOU-negotiated salary adjustments, step
+increases, and premium pay additions all push the dollar cost of each OT hour upward. The
+OT budget baseline has not been appropriately adjusted in the last few budget cycles for
+these changes, which mechanically widens the budget-vs.-actual gap each year
+independent of operations.
+
+
+Scheduled Staffing vs. Minimum Staffing
+OT is fundamentally a function of the buffer between how many staff are scheduled and
+the minimum (agreed upon by BPD and BPA) required to safely deliver service. When
+scheduled staffing exceeds the minimum, normal absences (vacation, sick, training, comp
+time) can be absorbed without generating OT. When scheduled staffing equals or falls
+below minimum staffing levels, every absence results in OT. The table below provides an
+                            Berkeley Police Department
+                                     Memorandum
+
+
+overview of department overtime across three fiscal years before accounting for
+reimbursements and grants:
+Dollars in Millions
+
+ Fiscal Year           Budget Actual       Variance
+ FY24                   $7.46    $9.09 +$1.63 (+22%)
+ FY25                   $7.45 $10.12 +$2.67 (+36%)
+ FY26 (projected)       $7.81 ~$9.64 +$1.83 (+23%)
+
+
+About $700K/year of OT is grant or special-fund-supported and reimbursed back to the
+General Fund (GF), and another $330–$430K/year of special-event OT is offset by vendor
+reimbursements to GF revenue. Adjusting for these, the true General Fund burden was
+approximately $9.0 million in FY25 (not $10.1 million) and is tracking at approximately $8.4
+million in FY26.
+As outlined in the table below, the Patrol Division (the largest absolute OT line) tracks
+budget closely:
+
+
+    Fiscal Year        Budget*   Actual*    % of Budget
+ FY24                    $5.58     $4.96              89%
+ FY25                    $5.33     $5.69            107%
+ FY26                    $5.65    ~$5.38            ~95%
+ (projected)
+*Dollars in Millions
+Patrol OT is driven by minimum staffing levels per shift. The department has already
+lowered minimum staffing levels significantly by reducing beats and distributing patrol
+resources more efficiently, which has maintained the buffer between scheduled and
+minimum staffing as available staffing has decreased. The result is visible in the table
+above: Patrol is not the source of the department’s overage in OT. Within Patrol's FY25 OT,
+60% of hours backfilled time off and vacancies (vacation 21%, training backfill 13%, comp
+time 7%, sick 6%, under-strength 5%, workers' comp 3%), 15% training, 14% shift-
+extended, 4% court, and 7% operational/events/other.
+                            Berkeley Police Department
+                                     Memorandum
+
+
+Communications Center scheduled staffing is below the minimum, producing overages in
+OT:
+ Fiscal Year            Budget     Actual*    % of Budget
+ FY24                   $389,000     $1.42            365%
+ FY25                   $413,000     $1.63            395%
+ FY26                   $451,000    ~$1.76           ~390%
+ (projected)
+*Dollars in Millions.
+
+The budget for dispatch OT assumes full staffing. We have not had full Communications
+Center staffing in many years, and scheduled staffing currently sits below the minimum
+required to operate the Center, which means there is no buffer at all and every absence
+converts directly into OT. In FY25, 86% of dispatch OT was directly attributed to backfill for
+short staffing, while another 5% was attributed to backfill for training and sick leave, and
+the remainder resulting from events, recruiting. Because much of dispatch OT is generated
+from positions sitting vacant, the salary savings from those vacancies are converted nearly
+1-for-1 into OT, meaning the unit can come in near its overall personnel budget while still
+generating more OT than what has been budgeted.
+
+
+BPA Negotiations
+Provisions affecting how OT is generated and managed on the sworn side are actively being
+discussed in current labor negotiations with the Berkeley Police Association, and the
+department is making progress toward contract changes that could further moderate
+sworn OT cost drivers going forward.
+
+
+Next Steps
+The goal in both Patrol and Dispatch is the same: widen the buffer between scheduled
+staffing and the minimum required to deliver service, so that routine absences can be
+absorbed without generating OT.
+On the sworn side, that buffer has been maintained despite reduced staffing by reducing
+beats and efficiently redistributing patrol resources. It can be widened through force-
+multiplying technology- Drone as First Responder and UAS capabilities, continued ALPR
+                         Berkeley Police Department
+                                   Memorandum
+
+
+investment, and the surveillance camera program- all of which allow effective coverage of
+the city at lower minimum staffing levels. The public safety technology package
+contemplated separately is directly aligned with this approach and would, over time, allow
+the OT allocation itself to be reduced rather than just held flat.
+On the dispatch side, no operational fix substitutes for closing the vacancy gap. The single
+highest-leverage action available is bringing Communications Center scheduled staffing
+above the minimum threshold. The Communications Center technology package
+contemplated separately (script-based dispatching software, automated non-emergency
+call taking) is the direct lever here: once scheduled staffing exceeds minimum staffing, the
+structural conversion of salary savings into OT ends, and dispatch OT can return to a
+budget-aligned level.
+Taken together, proposed technology investments target the actual mechanics of the
+overage rather than the symptom, and they create the conditions under which the
+department's future OT allocation can be reduced from its current level.
+

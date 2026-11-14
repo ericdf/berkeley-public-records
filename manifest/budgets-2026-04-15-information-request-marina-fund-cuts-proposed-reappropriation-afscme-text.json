@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-04-15-information-request-marina-fund-cuts-proposed-reappropriation-afscme-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Information Request-Marina Fund Cuts/Proposed Reappropriation-AFSCME Local 1",
+  "file": "L1/sources/budgets/budgets-2026-04-15-information-request-marina-fund-cuts-proposed-reappropriation-afscme-text.txt",
+  "sha256": "298774d4c25760762a8e18bec3306a7732d2a3827f930ec791716f9165a64311",
+  "bytes": 1860,
+  "derived_from": {
+    "id": "budgets-2026-04-15-information-request-marina-fund-cuts-proposed-reappropriation-afscme",
+    "sha256": "4a4ce5a991832cf0f7f3b262f4aa5cb459c7a7cf72e9b3f9fc998528a1989ce3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-fy-2027-2028-proposed-budget-mayor-s-office-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "FY 2027-2028 PROPOSED Budget - Mayor's Office",
+  "file": "L1/sources/budgets/budgets-2026-fy-2027-2028-proposed-budget-mayor-s-office-text.txt",
+  "sha256": "6399b6c3be5cb6072ec3d45e56f12b63d8b0e7febd8c8ff2b9957a2a2950d961",
+  "bytes": 2993,
+  "derived_from": {
+    "id": "budgets-2026-fy-2027-2028-proposed-budget-mayor-s-office",
+    "sha256": "d89713e0c37b1f96be7c4b4d89b8aa6d1706ca242a0425234b5f7aac507c5cae"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

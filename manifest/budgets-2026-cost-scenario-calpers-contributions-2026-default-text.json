@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-cost-scenario-calpers-contributions-2026-default-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Cost Scenario - CalPERS Contributions 2026 Default",
+  "file": "L1/sources/budgets/budgets-2026-cost-scenario-calpers-contributions-2026-default-text.txt",
+  "sha256": "44478fdd40031446088b1b554663703fc006f8ebcb982e97a0f97bcf4ed58859",
+  "bytes": 7519,
+  "derived_from": {
+    "id": "budgets-2026-cost-scenario-calpers-contributions-2026-default",
+    "sha256": "eacc7e042d8b5af61982728a285c209a50d0fb5a8c6f5aed09693b89786ddb87"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-04-07-april-15-budget-reduction-all-staff-webinar-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "April 15 Budget Reduction All Staff Webinar",
+  "file": "L1/sources/budgets/budgets-2026-04-07-april-15-budget-reduction-all-staff-webinar-text.txt",
+  "sha256": "f86bbc5f077e3bdd107b180682142780d328d33020448b89b1273ced8cca87eb",
+  "bytes": 2681,
+  "derived_from": {
+    "id": "budgets-2026-04-07-april-15-budget-reduction-all-staff-webinar",
+    "sha256": "c75134a71bc8c744ce66f27f370139d65c8547d33f4769a982d65129d6e68da2"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

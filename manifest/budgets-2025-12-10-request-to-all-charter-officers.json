@@ -1,0 +1,20 @@
+{
+  "id": "budgets-2025-12-10-request-to-all-charter-officers",
+  "layer": "L0",
+  "doc_type": "budget_document",
+  "collection": "budgets",
+  "publisher": "City of Berkeley",
+  "title": "Request to all Charter Officers",
+  "document_date": "2025-12-10",
+  "approved_by": "ericdf",
+  "file": "L0/sources/budgets/budgets-2025-12-10-request-to-all-charter-officers.pdf",
+  "sha256": "ea3612277e89b6e666b076ed3dcc33b134f8d4c948c6cc5f94f32244ba383fef",
+  "bytes": 1356378,
+  "source_url": null,
+  "source_note": "Released by the City of Berkeley in response to public-records request 26-1440 (NextRequest, https://cityofberkeleyca.nextrequest.com/requests/26-1440); received 2026-10-23 as \"Request to all Charter Officers.pdf\".",
+  "retrieved": null,
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

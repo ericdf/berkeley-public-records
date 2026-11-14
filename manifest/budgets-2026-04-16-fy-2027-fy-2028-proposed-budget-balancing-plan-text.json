@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-04-16-fy-2027-fy-2028-proposed-budget-balancing-plan-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "FY 2027 & FY 2028 Proposed Budget Balancing Plan",
+  "file": "L1/sources/budgets/budgets-2026-04-16-fy-2027-fy-2028-proposed-budget-balancing-plan-text.txt",
+  "sha256": "140bd8f3e982d464ae1c292a0baa2e9dd369f633261cab466689f83585c3bd1f",
+  "bytes": 162083,
+  "derived_from": {
+    "id": "budgets-2026-04-16-fy-2027-fy-2028-proposed-budget-balancing-plan",
+    "sha256": "b5de257a8cff635d7b11f057d59d76c59214477b2d886fbce96afea000f16761"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

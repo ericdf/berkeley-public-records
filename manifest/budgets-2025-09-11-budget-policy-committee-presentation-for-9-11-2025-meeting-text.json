@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2025-09-11-budget-policy-committee-presentation-for-9-11-2025-meeting-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Budget Policy Committee - Presentation for 9/11/2025 Meeting",
+  "file": "L1/sources/budgets/budgets-2025-09-11-budget-policy-committee-presentation-for-9-11-2025-meeting-text.txt",
+  "sha256": "5721969e8cf734d8be492373efaf897a37679368ea31a87476ba1d15ab8a70d0",
+  "bytes": 12496,
+  "derived_from": {
+    "id": "budgets-2025-09-11-budget-policy-committee-presentation-for-9-11-2025-meeting",
+    "sha256": "5ad5969d59ebc491fc71eb6e8d9afa41e27b3a9211739f91d9cceef2b4b5d3e5"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

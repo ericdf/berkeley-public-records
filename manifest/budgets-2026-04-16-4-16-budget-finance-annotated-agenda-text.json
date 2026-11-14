@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-04-16-4-16-budget-finance-annotated-agenda-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "4/16 Budget & Finance Annotated Agenda",
+  "file": "L1/sources/budgets/budgets-2026-04-16-4-16-budget-finance-annotated-agenda-text.txt",
+  "sha256": "86b799b481a9e235029a6d432fa5b85b28e2489ac4ba8567ac255eb015a2016d",
+  "bytes": 5858,
+  "derived_from": {
+    "id": "budgets-2026-04-16-4-16-budget-finance-annotated-agenda",
+    "sha256": "1fe15171e0a9fdd2d7061690a9ee03b5f6e2afdd278bd8dad123b75a1a4959f8"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

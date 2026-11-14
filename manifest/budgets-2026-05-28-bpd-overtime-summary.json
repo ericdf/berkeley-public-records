@@ -1,0 +1,20 @@
+{
+  "id": "budgets-2026-05-28-bpd-overtime-summary",
+  "layer": "L0",
+  "doc_type": "budget_document",
+  "collection": "budgets",
+  "publisher": "City of Berkeley",
+  "title": "BPD Overtime Summary",
+  "document_date": "2026-05-28",
+  "approved_by": "ericdf",
+  "file": "L0/sources/budgets/budgets-2026-05-28-bpd-overtime-summary.pdf",
+  "sha256": "5b09f8545e8c551e6840339caa6608cb7fc4215743ad2035bd0f5c6ba866cdca",
+  "bytes": 198101,
+  "source_url": null,
+  "source_note": "Released by the City of Berkeley in response to public-records request 26-1440 (NextRequest, https://cityofberkeleyca.nextrequest.com/requests/26-1440); received 2026-11-12 as \"PD OT Summary.pdf\".",
+  "retrieved": null,
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

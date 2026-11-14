@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-02-25-2-26-budget-finance-committee-presentation-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "2/26 Budget & Finance Committee - Presentation",
+  "file": "L1/sources/budgets/budgets-2026-02-25-2-26-budget-finance-committee-presentation-text.txt",
+  "sha256": "fef905f0bc4e4530cd45b7f6fe870e642e94bb862e996fe3aa4f90d192512d69",
+  "bytes": 60430,
+  "derived_from": {
+    "id": "budgets-2026-02-25-2-26-budget-finance-committee-presentation",
+    "sha256": "9a89892ef16f78242bbb331b87f0d734fb2fc51f2e812d6691e6b48e46663253"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

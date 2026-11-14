@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-03-06-budget-reduction-proposal-finance-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Budget Reduction Proposal - FINANCE",
+  "file": "L1/sources/budgets/budgets-2026-03-06-budget-reduction-proposal-finance-text.txt",
+  "sha256": "cfd77073a7a37cfa2afe32bfba39a1fa94a75bc292bd24bdb4fee70947cd5112",
+  "bytes": 6638,
+  "derived_from": {
+    "id": "budgets-2026-03-06-budget-reduction-proposal-finance",
+    "sha256": "6e5e63731726ab10a559e53f42debb2e96bd9838e7d9be73fed4feb6513766ee"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

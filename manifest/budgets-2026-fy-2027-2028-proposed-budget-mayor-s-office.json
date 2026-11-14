@@ -1,0 +1,20 @@
+{
+  "id": "budgets-2026-fy-2027-2028-proposed-budget-mayor-s-office",
+  "layer": "L0",
+  "doc_type": "budget_document",
+  "collection": "budgets",
+  "publisher": "City of Berkeley",
+  "title": "FY 2027-2028 PROPOSED Budget - Mayor's Office",
+  "document_date": "2026",
+  "approved_by": "ericdf",
+  "file": "L0/sources/budgets/budgets-2026-fy-2027-2028-proposed-budget-mayor-s-office.pdf",
+  "sha256": "d89713e0c37b1f96be7c4b4d89b8aa6d1706ca242a0425234b5f7aac507c5cae",
+  "bytes": 112016,
+  "source_url": null,
+  "source_note": "Released by the City of Berkeley in response to public-records request 26-1440 (NextRequest, https://cityofberkeleyca.nextrequest.com/requests/26-1440); received 2026-11-12 as \"FY 2027-2028 Proposed Mayor_s Budget.pdf\". No date is printed on the document; the file's creation date is 2026-05-29.",
+  "retrieved": null,
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "notices": [],
+  "contributed_by": "ericdf"
+}

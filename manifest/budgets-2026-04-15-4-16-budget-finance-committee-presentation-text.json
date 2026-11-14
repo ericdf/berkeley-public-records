@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-04-15-4-16-budget-finance-committee-presentation-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "4/16 Budget & Finance Committee - Presentation",
+  "file": "L1/sources/budgets/budgets-2026-04-15-4-16-budget-finance-committee-presentation-text.txt",
+  "sha256": "c3053eb170890f99bfcb1023e46c447fa1ada06b4d8046cb5efedc649a92cf36",
+  "bytes": 39539,
+  "derived_from": {
+    "id": "budgets-2026-04-15-4-16-budget-finance-committee-presentation",
+    "sha256": "7b667b4f31e567beb25204662797f87d8199dace305f8a8325d49b8958f4bcbd"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

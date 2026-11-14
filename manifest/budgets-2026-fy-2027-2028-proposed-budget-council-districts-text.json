@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-fy-2027-2028-proposed-budget-council-districts-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "FY 2027-2028 PROPOSED Budget - Council Districts",
+  "file": "L1/sources/budgets/budgets-2026-fy-2027-2028-proposed-budget-council-districts-text.txt",
+  "sha256": "ac753b451fb8ec2106c9ab18716024f521aa00f049947c1b94e2f5d414c924bb",
+  "bytes": 7890,
+  "derived_from": {
+    "id": "budgets-2026-fy-2027-2028-proposed-budget-council-districts",
+    "sha256": "0b0cfeb80f1a61dc8b861a47e9bd7dd49b0cc793872a8887f37c44490b9e034a"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "budgets-2026-04-15-request-to-meet-and-confer-and-rfi-text",
+  "layer": "L1",
+  "doc_type": "budget_document_text",
+  "collection": "budgets",
+  "title": "Request to Meet and Confer and RFI",
+  "file": "L1/sources/budgets/budgets-2026-04-15-request-to-meet-and-confer-and-rfi-text.txt",
+  "sha256": "0032273707d34db6526d9ab8a0ec48d6e0db09c475f65ecf164c4435a60af78e",
+  "bytes": 3928,
+  "derived_from": {
+    "id": "budgets-2026-04-15-request-to-meet-and-confer-and-rfi",
+    "sha256": "75e16aea3732396c25a1bb58fb1e2602c27859704726d1556a7e378b89f51b8d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}
