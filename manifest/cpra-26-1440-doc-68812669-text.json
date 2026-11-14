@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812669-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2025-10-28 Item 03 Marina Fund Update Presentation.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812669-text.txt",
+  "sha256": "4bbeb87229b649e1cdc7c149bd9d958f75c293e93f93009004a3b02b2fe501fe",
+  "bytes": 16073,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812669",
+    "sha256": "4eb6dee8c7bd5cb05389e27e30f3a3167d163701dbb9e5525ad97da628dce3ab"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812686-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "Item 02 General Fund Revenue Update and Overview of Revenue Enhancements (Revenue Presentation).pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812686-text.txt",
+  "sha256": "436bee825c630f6fecf59863b52f87acb5ebe1821a341bc156c3c6709d4325f2",
+  "bytes": 23112,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812686",
+    "sha256": "ee38c12d0de788db4ba5d889f4b45c6cb4aa723e9f76c6136400841cf3544cb2"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

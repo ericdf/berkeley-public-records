@@ -1,0 +1,91 @@
+                                                                    Restricted
+
+
+Division   Job Class Code Long Description   Comment
+MH         ASST MGMT ANALYST CSU             MH Special Funds Budget Balancing Measure
+MH         BEHAVIORAL HLTH CLIN I            MH Special Funds Budget Balancing Measure
+MH         BEHAVIORAL HLTH CLIN I            MH Special Funds Budget Balancing Measure
+MH         BEHAVIORAL HLTH CLIN II           GF Budget Balancing Measure
+MH         BEHAVIORAL HLTH CLIN II           GF Budget Balancing Measure
+MH         BEHAVIORAL HLTH CLIN II           MH Special Funds Budget Balancing Measure
+MH         BEHAVIORAL HLTH CLIN II           MH Special Funds Budget Balancing Measure
+MH         BEHAVIORAL HLTH CLIN II           MH Special Funds Budget Balancing Measure
+MH         BEHAVIORAL HLTH CLIN II           MH Special Funds Budget Balancing Measure
+MH         BEHAVIORAL HLTH CLIN II           MH Special Funds Budget Balancing Measure
+MH         BEHAVIORAL HLTH CLIN II           MH Special Funds Budget Balancing Measure
+MH         BEHAVIORAL HLTH CLIN II           MH Special Funds Budget Balancing Measure
+MH         BEHAVIORAL HLTH CLIN II           MH Special Funds Budget Balancing Measure
+MH         BEHAVIORAL HLTH CLIN II           MH Special Funds Budget Balancing Measure
+
+
+
+MH         BEHAVIORAL HLTH CLIN II (H)       GF Budget Balancing Measure (hourly)
+
+
+
+MH         BEHAVIORAL HLTH CLIN II (H)       GF Budget Balancing Measure (hourly)
+
+
+
+MH         BEHAVIORAL HLTH CLIN II (H)       GF Budget Balancing Measure (hourly)
+
+
+
+
+HCS        COM DEVELOPMENT PROJ COOR         Deleting from budget. Temporary, funding no longer in grant budgets
+PH         Com Health Worker Spec            GF Budget Balancing Measure
+MH         COM SERVICE SPEC II               MH Special Funds Budget Balancing Measure
+MH         COM SERVICE SPEC II               MH Special Funds Budget Balancing Measure
+MH         COM SERVICE SPEC III              MH Special Funds Budget Balancing Measure
+HCS        Com Services Specialist II        GF Budget Balancing Measure
+                                                                     Restricted
+
+
+Division Job Class Code Long Description      Comment
+
+
+
+
+PH       EPIDEMIOLOGIST                       Deleting from budget. Temporary, grant funding ended
+
+
+
+
+PH       HLTH EDUCATOR                        Deleting from budget. Grant funding ended and no other funding available to close gap
+MH       MENTAL HEALTH NURSE                  MH Special Funds Budget Balancing Measure
+MH       MENTAL HEALTH NURSE                  MH Special Funds Budget Balancing Measure
+MH       MENTAL HEALTH NURSE                  MH Special Funds Budget Balancing Measure
+MH       MENTAL HEALTH NURSE                  MH Special Funds Budget Balancing Measure
+MH       MENTAL HEALTH PRGM SUP               MH Special Funds Budget Balancing Measure
+MH       MENTAL HEALTH PRGM SUP               MH Special Funds Budget Balancing Measure
+MH       MENTAL HLTH CLIN SUP                 MH Special Funds Budget Balancing Measure
+MH       OFFICE SPEC II M&C                   MH Special Funds Budget Balancing Measure
+MH       OFFICE SPEC II M&C                   MH Special Funds Budget Balancing Measure
+MH       OFFICE SPEC II M&C                   MH Special Funds Budget Balancing Measure
+MH       OFFICE SPEC III M&C                  MH Special Funds Budget Balancing Measure
+EH       OFFICE SPECIALIST II                 GF Budget Balancing Measure
+MH       OFFICE SPECIALIST II                 MH Special Funds Budget Balancing Measure
+
+
+
+
+PH       PH NURSE                             Deleting from budget. Changes to grant requirements no longer enable participation. Declined funding
+
+
+
+HCS      Program Manager II                   GF Budget Balancing Measure
+MH       Psychiatrist                         MH Special Funds Budget Balancing Measure
+PH       Public Health Nurse                  MH Special Funds Budget Balancing Measure
+MH       SENIOR BEHAVIORAL HLTH CLINC         MH Special Funds Budget Balancing Measure
+HCS      SENIOR COMM DEVLP PROJ COORD         GF Budget Balancing Measure
+PH       Senior Community Health Specialist   GF Budget Balancing Measure
+                                                                     Restricted
+
+
+Division   Job Class Code Long Description      Comment
+MH         SOCIAL SERVICES SPEC                 MH Special Funds Budget Balancing Measure
+EH         VECTOR CONTROL TECHNICIAN            EH Special Funds Budget Balancing Measure
+EH         VECTOR CONTROL TECHNICIAN            EH Special Funds Budget Balancing Measure
+PH         Community Health Worker Specialist   Measure GG shift to fire
+PH         Health Services Program Specialist   Measure GG shift to fire
+

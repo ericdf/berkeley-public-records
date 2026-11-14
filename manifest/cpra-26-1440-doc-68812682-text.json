@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812682-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "IT 2026 Budget Presentation V5 03.26.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812682-text.txt",
+  "sha256": "307d70c9047bcb0404bc228948f5efe6c500dd309eb3cacc6e98f9824854a779",
+  "bytes": 7941,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812682",
+    "sha256": "56887d1d235f648412f91523cc113eea3d50340eed0118392ae35408c279a1a8"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

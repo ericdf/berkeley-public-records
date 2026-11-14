@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812681-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "FY27-FY27 Proposed RIF HHCS List_031326.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812681-text.txt",
+  "sha256": "24c19d6131912cc7d510f92567eab527bd017da9c60ad7bb905d514088d67a1c",
+  "bytes": 4805,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812681",
+    "sha256": "7a74dc34553b240ad6014abb15936abe30cef04a76d3d42fc722a436e587c230"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

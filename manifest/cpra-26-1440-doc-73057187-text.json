@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-73057187-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "Final CAO Budget Presentation_4.23.26 (2).pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-73057187-text.txt",
+  "sha256": "c994a34b57860cfd1ed165a8a130a0b741bd4c5aa7cdbf9367b9254b96ec8295",
+  "bytes": 14079,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-73057187",
+    "sha256": "4e2f7a40ab77a39c92f4d3e2c1207e25ff5cbd9cfa1be05476ab0208e8a8307b"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

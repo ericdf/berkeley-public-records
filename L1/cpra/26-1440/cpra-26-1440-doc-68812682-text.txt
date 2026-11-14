@@ -1,0 +1,157 @@
+Fiscal Sustainability Analysis & Impact of
+   Proposed FY 2027-2028 Reductions
+
+        Information Technology
+
+
+
+
+                                             1
+                                 The Fiscal Gap
+The Department of Information Technology is facing a structural deficit
+that cannot be resolved through standard efficiency measures. Our
+baseline expenditures are dictated by fixed personnel costs and non-
+negotiable software contracts essential to City operations.
+
+                                        FY2027                   FY2028
+    Total Expenditure                   $18,597,742.95**         $18,932,622.95**
+    Proposed Revenue Target:            $15,272,055.00*          $15,272,055.00*
+    Annual Shortfall:                   ($3,325,687.95)          ($3,660,567.95)
+
+* We are mandated to reduce the GF portion of our revenue by 10% which equates to
+$1.44M less than the current $16.7M baseline. This creates a "pincer effect" where revenue
+is falling while fixed costs (Wages, Benefits, Operations and Maintenance) are rising.
+
+** Note that our revenue is taken from CBE, which was understated to start with, but this
+report will work with the numbers as currently reported. We believe actual expenditures are
+closer to $3M more or about $21M.
+
+                                                                                              2
+            Our Revenue Stream: General Fund
+IT’s main source of active revenue comes solely from the Internal Service
+Fund 680 (Cost Allocation). The only other “significant” fund source is the
+General Fund (011) that accounts for only about 7 percent of IT’s total
+revenues, or about $1.2M.
+
+
+
+
+We have completed the modeling for the requested 10% and 12.5%
+General Fund reductions. The actual budgetary impact results in a net
+savings of $126,391 (11%) in the first scenario and $185,391 (16%) in the
+second.
+                                                                              3
+                    Impact of Historical Actions
+It is vital to provide context on our starting position. In 2025, $6,466,414.23 was
+removed from the IT Cost Allocation budget in a one-time sweep.
+
+This represents the "stability reserve" that would have mitigated the current
+shortfall and by removing this revenue, the department no longer has a "buffer" to
+absorb the revenue reductions proposed by the Budget Office. We are now being
+asked to cut operational "muscle" because our fiscal "fat" was already harvested.
+
+
+
+
+                                                                                      4
+        Our Revenue Stream: Cost Allocation (680)
+The IT Cost Allocation (Fund 680) is funded through a complex formula that yields an
+annual per head cost. This value is $10,628.30 but has not been revised in several
+years to account for three critical "Cost Escalators“:
+
+1. Annual Vendor Inflation: Enterprise software vendors implement on average,
+   12–15% price increases upon renewal. The Impact: Our fixed-cost contracts
+   are expiring; staying at the current baseline is effectively a service reduction.
+
+2. Unfunded Regulatory Mandates: Cybersecurity requirements (CJIS, HIPAA,
+   and insurance compliance) necessitate immediate infrastructure upgrades. The
+   Impact: These are non-discretionary costs—meeting these mandates is required
+   to maintain city operations and eligibility for insurance.
+
+3. Cumulative Technical Debt: Deferring updates will create a "maintenance
+   backlog.“ The Impact: We will be managing aging equipment that is more
+   expensive to repair and maintain than to replace. The $10.6k baseline assumes
+   "normal" operations, not the deferred maintenance recovery that will be required
+   as a result of cuts.
+
+                                                                                       5
+                       The Pain of the Exercise
+IT will reluctantly provide a 10% reduction plan based on current CBE
+figures. However, we must formally advise that cutting from an already
+understated revenue baseline does not yield true savings. Here’s why:
+
+    • Benchmarking cuts against inaccurate starting figures creates a
+      structural deficit. We are not "saving" money; we are deferring
+      essential costs.
+
+    • Compounding Interest: Underfunding our $10,628.30 baseline
+      results in "Technical Debt" that will inevitably come due as
+      system failures or security breaches.
+
+    • Emergency fixes in the SF Bay Area are 3x to 5x more
+      expensive than planned maintenance.*
+
+    *Industry Benchmarks (Siemens, US DOE): Reactive maintenance costs average 3–5x more
+    than preventive measures.
+
+                                                                                           6
+                                    Balancing Strategy
+                             Balancing Strategy                                  Impacts
+
+
+•   Reduce up to $3.2M annually in IT’s project portfolio
+                                                                   Stripping $3.2M from a portfolio of
+                                                                   key deliverables creates a critical
+•   Reduce up to $765K in personnel expenses through a permanent
+                                                                   disconnect between organizational
+    elimination of below:
+                                                                   requirements and the financial
+                                                                   capacity to meet them, potentially
+                                                                   affecting our ability to meet
+                                                                   compliance, security, or regulatory
+                                                                   obligations.
+
+                                                                   When coupled with $765k in
+                                                                   personnel cuts, we lose essential
+                                                                   expertise needed to maintain
+                                                                   systemic stability, shifting the
+                                                                   department from a state of
+                                                                   manageable risk to a certain path of
+                                                                   operational failure and long-term
+                                                                   technical debt.
+
+     Permanent positions lost: 4
+
+
+
+
+                                                                                                          7
+                                 Conclusion
+On paper, our cuts will reach the Budget Manager’s target. But the reality is that we
+have 'balanced the books' by selling our insurance policy and firing the fire
+department (to use an analogy).
+
+We have zero resilience: No reserves, Loss of permanent FTEs, Moving from
+Proactive Maintenance to "Hope-Based" Operations.
+
+Between the 2025 $6.4M sweep and these proposed cuts, the IT Department is
+moving from a 'Modernization' posture to one of 'Fragile Survival.’ We will be slower
+to respond, unable to innovate, and significantly more vulnerable to a catastrophic
+cyber event and/or infrastructure failure and an inability to address them.
+
+Our resource pool (knowledge base) consist of contractors who are beyond their
+retirement years and may be not be available any time soon. We have already lost
+two FTE who had institutional knowledge of FUND$. We need to modernize
+quickly.
+
+We are prepared to move forward if mandated, but the City must accept the
+heightened risk to operational continuity.
+
+                                                                                        8
+Thank You
+
+
+
+
+            9
+

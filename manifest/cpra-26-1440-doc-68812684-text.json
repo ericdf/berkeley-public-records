@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812684-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "Item 02 Budget&Finance-FY2728 Budget Update__04.16.26 (3).pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812684-text.txt",
+  "sha256": "05f4e2873f05911445ddc68d2d0136b358f7e094ef9368a1fbcfb9304b778cce",
+  "bytes": 38711,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812684",
+    "sha256": "5bc8d6fb40191dde770ba8f8b1b8e2e12d72e3ae6e681000ed57d5ee31f6a1bc"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

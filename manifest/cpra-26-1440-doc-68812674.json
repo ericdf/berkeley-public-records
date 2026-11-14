@@ -1,0 +1,31 @@
+{
+  "id": "cpra-26-1440-doc-68812674",
+  "layer": "L0",
+  "doc_type": "cpra_document",
+  "collection": "cpra",
+  "publisher": "City of Berkeley — Multi-Department",
+  "title": "Employee Presentation Feedback & Budget Balancing Ideas Form(1-59).xlsx",
+  "document_date": "2026-08-14",
+  "file": "L0/cpra/26-1440/cpra-26-1440-doc-68812674.xlsx",
+  "sha256": "ebc00c0bb220a7231a7653a078eabf6df095eaffc423e526a3191979db22aca0",
+  "bytes": 60100,
+  "source_url": "https://cityofberkeleyca.nextrequest.com/requests/26-1440",
+  "retrieved": "2026-11-14",
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "cpra": {
+    "request_id": "26-1440",
+    "request_date": "2026-05-19",
+    "department": [
+      "Multi-Department"
+    ],
+    "document_id": 68812674,
+    "document_url": "https://cityofberkeleyca.nextrequest.com/documents/68812674",
+    "upload_date": "2026-08-14",
+    "redacted_date": null,
+    "review_state": "Unprocessed",
+    "folder": "Resp 08.14.2026"
+  },
+  "notices": [],
+  "contributed_by": "ericdf"
+}

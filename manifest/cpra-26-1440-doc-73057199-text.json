@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-73057199-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "DebtManagementAndDisclosurePolicy.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-73057199-text.txt",
+  "sha256": "2c8076f588441f7246e02a668b81063fcb5337163be1affa67f2b3d5a231bf6c",
+  "bytes": 31284,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-73057199",
+    "sha256": "468285533d9ca39b4072eedcbcd773645754d011f6a70de1d87884d931c2d6b0"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

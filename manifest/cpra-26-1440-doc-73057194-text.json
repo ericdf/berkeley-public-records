@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-73057194-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "POS - City of Berkeley - 2025 GOB, Series C (Measure O) - Agenda Version.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-73057194-text.txt",
+  "sha256": "b2cbe95449fca8b0bd43d8ad80ab2c10e664390a8998692fca8c3cc87851f2ea",
+  "bytes": 256546,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-73057194",
+    "sha256": "535aa3ae2410426d53ba749826b74a7588fa02191e290464c75c4f02609bd845"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

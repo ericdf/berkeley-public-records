@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812687-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2026-05-19 Item 21 Proposed FY 2027 and FY 2028.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812687-text.txt",
+  "sha256": "2184680af7ed25e8a6ccf65b048c34c98d7fa22ad514f0041ee6529cee0670f0",
+  "bytes": 224009,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812687",
+    "sha256": "5761a6ddb3a81fe83614f945e4b337b867cdf494aa0e558411c5aff6ec7b8c62"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

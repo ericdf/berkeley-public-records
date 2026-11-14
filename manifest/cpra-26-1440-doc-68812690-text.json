@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812690-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "PD Reduction Strategy 5%.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812690-text.txt",
+  "sha256": "eb9c61b364610cb754f985a28ef01f491ed4f3d076ecb8bd6b1f54b640210887",
+  "bytes": 4381,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812690",
+    "sha256": "e35568c784432da628a77094e7353a7cf8a9a20cd0e3603cb7f54221510801c6"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

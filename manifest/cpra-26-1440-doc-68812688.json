@@ -1,0 +1,31 @@
+{
+  "id": "cpra-26-1440-doc-68812688",
+  "layer": "L0",
+  "doc_type": "cpra_document",
+  "collection": "cpra",
+  "publisher": "City of Berkeley — Multi-Department",
+  "title": "MTO_Projection_All Employee_Job_Salary_03.31.2026.pdf",
+  "document_date": "2026-08-14",
+  "file": "L0/cpra/26-1440/cpra-26-1440-doc-68812688.pdf",
+  "sha256": "d4a9e042e36bbcf4b2de96f99975867a8eabcee0d6a113646dd165ee270d22d7",
+  "bytes": 87741,
+  "source_url": "https://cityofberkeleyca.nextrequest.com/requests/26-1440",
+  "retrieved": "2026-11-14",
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "cpra": {
+    "request_id": "26-1440",
+    "request_date": "2026-05-19",
+    "department": [
+      "Multi-Department"
+    ],
+    "document_id": 68812688,
+    "document_url": "https://cityofberkeleyca.nextrequest.com/documents/68812688",
+    "upload_date": "2026-08-14",
+    "redacted_date": null,
+    "review_state": "Unprocessed",
+    "folder": "Resp 08.14.2026"
+  },
+  "notices": [],
+  "contributed_by": "ericdf"
+}

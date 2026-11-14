@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812677-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "FY27-28 Proposed NonPersonnel Reductions and Eliminations 03.26.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812677-text.txt",
+  "sha256": "1463798b4c6cd696839e3ba0560acd3cc620159576e3f983872c15336cf02d8f",
+  "bytes": 10289,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812677",
+    "sha256": "ca4ad2ba9a1e1ddc34fca0c3b423bd5fc5e130017db4f3e4f578dc02a65911d3"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

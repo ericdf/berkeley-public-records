@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812678-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "FY 2027 & FY 2028 Budget Instructions_Final.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812678-text.txt",
+  "sha256": "1cd79e243ab49fd322eb2177d88af5ea655008cd7463e743596c8ae19aa96ca0",
+  "bytes": 41479,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812678",
+    "sha256": "bc606c2c37f46ecdf53e93dfa1897a8481278b2cb2d1e96f14594d5f82065ff1"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

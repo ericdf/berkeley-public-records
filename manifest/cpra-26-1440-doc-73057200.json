@@ -1,0 +1,31 @@
+{
+  "id": "cpra-26-1440-doc-73057200",
+  "layer": "L0",
+  "doc_type": "cpra_document",
+  "collection": "cpra",
+  "publisher": "City of Berkeley — Multi-Department",
+  "title": "Combined_BHSA_HHCS Health_Nov6.pdf",
+  "document_date": "2026-10-30",
+  "file": "L0/cpra/26-1440/cpra-26-1440-doc-73057200.pdf",
+  "sha256": "18b87801fb2552c719c1698602ec7d2d1fa1ca16f38bbdacdc5d60020c9ddc9f",
+  "bytes": 2131409,
+  "source_url": "https://cityofberkeleyca.nextrequest.com/requests/26-1440",
+  "retrieved": "2026-11-14",
+  "archived": "2026-11-14",
+  "wayback_url": null,
+  "cpra": {
+    "request_id": "26-1440",
+    "request_date": "2026-05-19",
+    "department": [
+      "Multi-Department"
+    ],
+    "document_id": 73057200,
+    "document_url": "https://cityofberkeleyca.nextrequest.com/documents/73057200",
+    "upload_date": "2026-10-30",
+    "redacted_date": null,
+    "review_state": "Unprocessed",
+    "folder": "Resp 10.30.26"
+  },
+  "notices": [],
+  "contributed_by": "ericdf"
+}

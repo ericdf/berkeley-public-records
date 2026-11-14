@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-64505635-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2026-01-22 Item 02 BFPC-FY2728 Budget Update_Final_01.22.26.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-64505635-text.txt",
+  "sha256": "1dd09766afa3597f46430cdd48706f510ba4a6d28ed9599f14cccf4f0b60483b",
+  "bytes": 17475,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-64505635",
+    "sha256": "e61f8755576e27442a5bfd76726f2cedf77e1c47adcda3d8637ab480abdaef61"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

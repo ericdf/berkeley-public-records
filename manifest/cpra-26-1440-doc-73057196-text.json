@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-73057196-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "POS - City of Berkeley - 2025 LRBs - Agenda Version.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-73057196-text.txt",
+  "sha256": "ac86bae91c8bcc09bec27ad48ee5913b24b473b567da63ea71d2eebe1b2bfadd",
+  "bytes": 286481,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-73057196",
+    "sha256": "4701cc7488cf8f183b5c1a8f40e5aec8121f32bd370915fd1a14185f3ae0b468"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

@@ -1,0 +1,38 @@
+Scenario 1: MTO - Projected Savings/Month (BASE PAY only) ; All Funds, ALL Employees excluding Elected Officials
+
+By GBU                                                                      By Department
+GBU         Sum of Projected Recurring Daily Rate                           Department    Sum of Projected Recurring Daily Rate
+BPA0         $                             96,622.32                        11             $                              4,407.15
+BPAM         $                              2,733.04                        12             $                              8,440.75
+CSLA         $                              2,001.19                        13             $                             16,181.11
+CSPT         $                              1,262.85                        14             $                              2,325.07
+CSU0         $                           186,568.09                         21             $                             29,235.95
+ELEC                                                                        22             $                             51,318.17
+EMS1         $                              2,109.22                        31             $                             14,944.65
+EMS2         $                              7,146.44                        32             $                              5,303.59
+FC00         $                              5,816.70                        33             $                             23,771.04
+FF00         $                             71,754.56                        34             $                             13,691.84
+IBEW         $                              7,758.70                        35             $                             25,282.22
+MC00         $                           136,151.71                         51             $                           115,863.64
+MC01         $                             51,140.42                        52             $                             50,615.96
+MC02         $                              5,886.25                        53             $                             53,780.72
+PEU0         $                             43,808.78                        54             $                           151,660.55
+PEU1        $                            100,892.22                         71            $                            148,673.50
+UNR0        $                               5,700.34                        72            $                            104,335.80
+UNR1        $                              36,329.89                        99
+UNR2        $                              51,969.35                        Grand Total    $                           819,831.71
+UNR3         $                              2,456.90
+UNR6         $                              1,722.74
+Grand Total $                            819,831.71
+                                                                                 Amount                    Est. Annual
+                                                                             $   819,831.71   $                          9,837,980.46
+
+
+Assumptions:
+Elected officials excluded in the calculation
+Projected Recurring Daily Rate adjusted with estimated 3.5% COLA excluding BPAM, BPAO, FF00, FC00, EM1, EMS2, and IBEW
+All Funds
+For employees with 112 hrs schedules (FF00/FC00) - projected recurring daily rate was calculated as follows:
+= Hourly Rate X 112 hrs / 10 days
+Assuming all positions are filled; RIFs removed; prior to GF budget reduction review
+

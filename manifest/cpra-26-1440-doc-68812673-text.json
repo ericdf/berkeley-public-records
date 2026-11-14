@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-68812673-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2025-10-28 Item 04 Behavioral Health Funding Update Presentation.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812673-text.txt",
+  "sha256": "f2298c3249115ac171144660908998b53a3094f2f55f75536e765a1a415c4880",
+  "bytes": 7118,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812673",
+    "sha256": "8609be176a56dd61bdcefc404ba679a89d304c2936476e35500dde9b2dd35973"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

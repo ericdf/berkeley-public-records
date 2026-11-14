@@ -1,0 +1,21 @@
+{
+  "id": "cpra-26-1440-doc-73057192-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "Nov 13 2026.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-73057192-text.txt",
+  "sha256": "873f1a204538c9661b3bcc84ea68c7562b91287fd0820a729b957e8bfc840f48",
+  "bytes": 3287,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-73057192",
+    "sha256": "c829479ec90b1c74422c669dd42807b1aa5ea1779e81682ef0e4a57c0b3a6380"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}
