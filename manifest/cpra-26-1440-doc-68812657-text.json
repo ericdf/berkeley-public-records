@@ -1,0 +1,23 @@
+{
+  "id": "cpra-26-1440-doc-68812657-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2.17.26 Finance w CM - Budget Balancing Proposal.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812657-text.txt",
+  "sha256": "2441eb72288037ea5ccd5148738446bc805b00438665edacb62e799cf4ffb1d9",
+  "bytes": 1058,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812657",
+    "sha256": "91c556968648aacba37da782329ab089342e9579f165077e1d874c123c336694"
+  },
+  "extraction": {
+    "tool": "tesseract 5.5.1; pdfimages version 26.04.0",
+    "command": "python3 tools/ocr_pdf_images.py <L0> <L1>"
+  },
+  "notices": [
+    "OCR text: machine-read from an image, and may contain recognition errors. The L0 image is the record."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}

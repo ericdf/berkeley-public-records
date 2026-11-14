@@ -1,0 +1,23 @@
+{
+  "id": "cpra-26-1440-doc-68812656-text",
+  "layer": "L1",
+  "doc_type": "cpra_document_text",
+  "collection": "cpra",
+  "title": "2.17.26 City Clerk w CM - Budget Balancing Proposal.pdf",
+  "file": "L1/cpra/26-1440/cpra-26-1440-doc-68812656-text.txt",
+  "sha256": "35e692dfce8e7cd2de6b664318d714957f6ab9060f83127b6d8a5aed05040faf",
+  "bytes": 1053,
+  "derived_from": {
+    "id": "cpra-26-1440-doc-68812656",
+    "sha256": "0897d542946f61cb7774d738b50aa0e366cc9c017393d7b6224629c77408be52"
+  },
+  "extraction": {
+    "tool": "tesseract 5.5.1; pdfimages version 26.04.0",
+    "command": "python3 tools/ocr_pdf_images.py <L0> <L1>"
+  },
+  "notices": [
+    "OCR text: machine-read from an image, and may contain recognition errors. The L0 image is the record."
+  ],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-14"
+}
