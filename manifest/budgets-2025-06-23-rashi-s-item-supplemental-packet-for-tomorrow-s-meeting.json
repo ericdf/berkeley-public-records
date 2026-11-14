@@ -16,5 +16,16 @@
   "archived": "2026-11-14",
   "wayback_url": null,
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-budgets-2025-06-23-rashi-s-item-supplemental-pa-f2f0c3f0",
+        "path": "budgets-2025-06-23-rashi-s-item-supplemental-packet-for-tomorrow-s-meeting.pdf",
+        "uploaded": "2026-11-14",
+        "verified": "2026-11-14"
+      }
+    ]
+  }
 }

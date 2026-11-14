@@ -16,5 +16,16 @@
   "archived": "2026-11-14",
   "wayback_url": null,
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-budgets-2025-09-11-budget-policy-committee-pres-d7be0867",
+        "path": "budgets-2025-09-11-budget-policy-committee-presentation-for-9-11-2025-meeting.pdf",
+        "uploaded": "2026-11-14",
+        "verified": "2026-11-14"
+      }
+    ]
+  }
 }

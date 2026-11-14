@@ -16,5 +16,16 @@
   "archived": "2026-11-14",
   "wayback_url": null,
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-budgets-2026-01-24-fw-berkeley-ca-housing-overview",
+        "path": "budgets-2026-01-24-fw-berkeley-ca-housing-overview.pdf",
+        "uploaded": "2026-11-14",
+        "verified": "2026-11-14"
+      }
+    ]
+  }
 }

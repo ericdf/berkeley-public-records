@@ -16,5 +16,16 @@
   "archived": "2026-11-14",
   "wayback_url": null,
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-budgets-2025-04-24-4-24-budget-finance-committe-82d2e86d",
+        "path": "budgets-2025-04-24-4-24-budget-finance-committee-supplemental-material-item-02.pdf",
+        "uploaded": "2026-11-14",
+        "verified": "2026-11-14"
+      }
+    ]
+  }
 }
