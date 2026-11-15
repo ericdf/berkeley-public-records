@@ -16,5 +16,16 @@
   "archived": "2026-11-14",
   "wayback_url": null,
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-budgets-2026-02-05-fy27-28-fire-department-budg-b994224b",
+        "path": "budgets-2026-02-05-fy27-28-fire-department-budget-reduction-memo.pdf",
+        "uploaded": "2026-11-15",
+        "verified": "2026-11-15"
+      }
+    ]
+  }
 }
