@@ -24,8 +24,7 @@
         "item": "berkeley-public-records-budgets-2026-03-06-budget-reduction-proposal-finance",
         "path": "budgets-2026-03-06-budget-reduction-proposal-finance.pdf",
         "uploaded": "2026-11-15",
-        "verified": null,
-        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public, with: python3 tools/ingest_large.py --verify-ia budgets-2026-03-06-budget-reduction-proposal-finance"
+        "verified": "2026-11-16"
       }
     ]
   }
