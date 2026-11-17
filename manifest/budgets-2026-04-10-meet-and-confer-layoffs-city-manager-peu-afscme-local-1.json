@@ -16,5 +16,16 @@
   "archived": "2026-11-14",
   "wayback_url": null,
   "notices": [],
-  "contributed_by": "ericdf"
+  "contributed_by": "ericdf",
+  "blob": {
+    "copies": [
+      {
+        "store": "internet_archive",
+        "item": "berkeley-public-records-budgets-2026-04-10-meet-and-confer-layoffs-city-75b5c87b",
+        "path": "budgets-2026-04-10-meet-and-confer-layoffs-city-manager-peu-afscme-local-1.pdf",
+        "uploaded": "2026-11-17",
+        "verified": "2026-11-17"
+      }
+    ]
+  }
 }
