@@ -24,8 +24,7 @@
         "item": "berkeley-public-records-budgets-2026-prw-fy27-28-budget-balancing-measures",
         "path": "budgets-2026-prw-fy27-28-budget-balancing-measures.pdf",
         "uploaded": "2026-11-19",
-        "verified": null,
-        "verify_note": "Upload accepted by the Internet Archive; sha256 to be checked once the item is public, with: python3 tools/ingest_large.py --verify-ia budgets-2026-prw-fy27-28-budget-balancing-measures"
+        "verified": "2026-11-20"
       }
     ]
   }
