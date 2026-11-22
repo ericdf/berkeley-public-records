@@ -35,6 +35,14 @@ class Schedule(unittest.TestCase):
 class Annotated(unittest.TestCase):
     T = D("2026-10-30")
 
+    def test_meta_passes_the_inbox_check(self):
+        import process_inbox as pi
+        for earlier in (None, "bcc-2026-10-27-regular-annotated-agenda"):
+            meta = idy.annotated_meta(meeting(), URL, self.T, earlier, "modified 2026-10-30")
+            place = pi.check_metadata("x", meta, {}, ext="pdf")
+            self.assertEqual(place["body"], "Berkeley City Council")
+            self.assertEqual(place["id"], "bcc-2026-10-27-regular-annotated-agenda")
+
     def test_first_posting(self):
         p = idy.plan_annotated([meeting()], {}, self.T, False, lambda u: None)
         self.assertEqual(p[0][2], "first posting")

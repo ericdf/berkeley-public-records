@@ -126,7 +126,9 @@ def plan_annotated(entries, manifest, today, sweep, lm_of):
 
 def annotated_meta(m, url, today, earlier_id, reason):
     label = m["label"]
-    meta = {"layer": "L0", "collection": "annotated-agendas", "body": "Berkeley City Council",
+    # No "body": process_inbox accepts it only for staff reports and captions, and files every
+    # annotated agenda under the Council itself.
+    meta = {"layer": "L0", "collection": "annotated-agendas",
             "meeting_date": m["date"], "meeting_label": label,
             "publisher": "City of Berkeley — City Clerk Department",
             "title": f"Annotated Agenda — Berkeley City Council {label} meeting, {m['date']}",
