@@ -1,0 +1,22 @@
+{
+  "id": "leases-2024-06-04-lease-urgency-ordinance-for-leasing-the-real-property-at-1250-1288-text",
+  "layer": "L1",
+  "doc_type": "leases_document_text",
+  "collection": "leases",
+  "meeting_date": "2024-06-04",
+  "title": "Lease: Urgency Ordinance for leasing the real property at 1250-1288 9th Street, 1226 9th Street, 1249 8th Street, 1225 8th Street, 1223 8th Street, and 1221 8th Street",
+  "file": "L1/sources/leases/leases-2024-06-04-lease-urgency-ordinance-for-leasing-the-real-property-at-1250-1288-text.txt",
+  "sha256": "87b003eac4112b36376ad917f5a3f233e511a024cab95bf715d929ddf8010754",
+  "bytes": 276125,
+  "derived_from": {
+    "id": "leases-2024-06-04-lease-urgency-ordinance-for-leasing-the-real-property-at-1250-1288",
+    "sha256": "33295472cef054e5c9f03bf89b6ac80cbb89a51f2ac1361844574b1e2075015d"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-27"
+}
