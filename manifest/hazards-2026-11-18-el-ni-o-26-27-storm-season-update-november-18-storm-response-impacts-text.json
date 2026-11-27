@@ -1,0 +1,21 @@
+{
+  "id": "hazards-2026-11-18-el-ni-o-26-27-storm-season-update-november-18-storm-response-impacts-text",
+  "layer": "L1",
+  "doc_type": "hazards_document_text",
+  "collection": "hazards",
+  "title": "El Niño 26-27 Storm Season Update: November 18 Storm Response & Impacts",
+  "file": "L1/sources/hazards/hazards-2026-11-18-el-ni-o-26-27-storm-season-update-november-18-storm-response-impacts-text.txt",
+  "sha256": "dcc74cd0af20038287433c7c571b1485f53ba51cda15a19168d4dd0befd0fb2d",
+  "bytes": 4809,
+  "derived_from": {
+    "id": "hazards-2026-11-18-el-ni-o-26-27-storm-season-update-november-18-storm-response-impacts",
+    "sha256": "2793b31f3697b081641f5cbeca9e2636c71480caf92b4382b95c0d833f7a0777"
+  },
+  "extraction": {
+    "tool": "pdftotext version 26.04.0",
+    "command": "pdftotext -layout <L0> <L1>"
+  },
+  "notices": [],
+  "contributed_by": "ericdf",
+  "archived": "2026-11-27"
+}
